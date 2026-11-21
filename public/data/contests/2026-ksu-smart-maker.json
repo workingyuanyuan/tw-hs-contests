@@ -1,0 +1,157 @@
+{
+  "schema": 1,
+  "id": "2026-ksu-smart-maker",
+  "title": "2026全國智慧科技創客挑戰賽",
+  "edition": "2026",
+  "summary": "大專院校以下在校生報名參加迷宮競速、AI 智慧小車遙控競速或旋翼式無人機競賽，於崑山科技大學體育館現場實作競技。",
+  "organizers": [
+    {
+      "name": "崑山科技大學",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "資訊與 AI",
+    "工程與製造"
+  ],
+  "eligibility": {
+    "levels": [
+      "國小",
+      "國中",
+      "高中",
+      "高職",
+      "五專",
+      "大專"
+    ],
+    "division": "unknown",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": null,
+    "team_max": null,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.ksvs.kh.edu.tw/v4/cpsub/article.php?id=12610",
+        "quote": "(一)參賽對象：凡具有115年度大專院校以下在校學生資格者（含大專院校、高中職），均得報名參賽。"
+      },
+      {
+        "url": "https://www.ksvs.kh.edu.tw/v4/cpsub/article.php?id=12610",
+        "quote": "(二)競賽組別：迷宮競速組、Micro:bit AI智慧小車遙控競速賽及旋翼式無人機競賽。"
+      },
+      {
+        "url": "https://www.ksvs.kh.edu.tw/v4/cpsub/article.php?id=12610",
+        "quote": "四、競賽採網路報名，相關報名資格、競賽規則及活動資訊，請參閱附件海報或至活動網站（https://dmetextile.ksu.edu.tw）查詢。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "報名期限",
+      "date": "2026-11-30",
+      "time": null,
+      "original": "115年11月30日（星期一）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.ksvs.kh.edu.tw/v4/cpsub/article.php?id=12610",
+          "quote": "(三)報名期限：自即日起至115年11月30日（星期一）止。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "競賽時間",
+      "date": "2026-12-19",
+      "time": "12:30",
+      "original": "115年12月19日（星期六）12時30分",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.ksvs.kh.edu.tw/v4/cpsub/article.php?id=12610",
+          "quote": "(四)競賽時間：115年12月19日（星期六）12時30分。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名",
+      "what": "網路報名（詳見附件海報或活動網站）",
+      "how": "online"
+    },
+    {
+      "stage": "現場競賽",
+      "what": "依組別進行迷宮競速、Micro:bit AI智慧小車遙控競速或旋翼式無人機實作競賽",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "崑山科技大學體育館",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.ksvs.kh.edu.tw/v4/cpsub/article.php?id=12610",
+        "quote": "(四)競賽時間：115年12月19日（星期六）12時30分。"
+      },
+      {
+        "url": "https://www.ksvs.kh.edu.tw/v4/cpsub/article.php?id=12610",
+        "quote": "(五)競賽地點：崑山科技大學體育館。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "unknown",
+    "amount": null,
+    "basis": "unread",
+    "evidence": []
+  },
+  "prizes": {
+    "text": null,
+    "basis": "unread",
+    "evidence": []
+  },
+  "ai_policy": {
+    "value": "unknown",
+    "basis": "unread",
+    "evidence": []
+  },
+  "links": {
+    "official": "https://dmetextile.ksu.edu.tw",
+    "rules": [
+      {
+        "title": "附件一（海報）",
+        "url": "https://drive.google.com/file/d/1w0NlZYz7BLmEAWloVBhpnTH5IE9hNy1u/view?usp=drive_link"
+      }
+    ],
+    "registration": null
+  },
+  "found_via": [
+    {
+      "name": "www.ksvs.kh.edu.tw",
+      "url": "https://www.ksvs.kh.edu.tw/v4/cpsub/article.php?id=12610"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-21",
+    "method": "dual",
+    "unread": [
+      "附件一（海報 PDF，無文字內容）",
+      "活動網站（https://dmetextile.ksu.edu.tw）"
+    ],
+    "note": null,
+    "readers": [
+      "gemini-4-hydrogen-medium",
+      "gpt-6.1-sol"
+    ]
+  },
+  "first_seen": "2026-11-20",
+  "updated": "2026-11-20",
+  "level": "verified",
+  "url": "https://workingyuanyuan.github.io/tw-hs-contests/contests/2026-ksu-smart-maker/",
+  "markdown": "https://workingyuanyuan.github.io/tw-hs-contests/contests/2026-ksu-smart-maker.md"
+}

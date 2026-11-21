@@ -1,0 +1,189 @@
+{
+  "schema": 1,
+  "id": "2026-taipei-literature-award",
+  "title": "第29屆臺北文學獎",
+  "edition": "第 29 屆",
+  "summary": "不限資格以中文創作小說、散文、新詩、古典詩、劇本或文學年金計畫，將報名表與作品一式五份掛號郵寄參賽。",
+  "organizers": [
+    {
+      "name": "臺北市政府文化局",
+      "role": "主辦"
+    },
+    {
+      "name": "文訊雜誌社",
+      "role": "承辦"
+    }
+  ],
+  "categories": [
+    "語文與寫作"
+  ],
+  "eligibility": {
+    "levels": [
+      "國小",
+      "國中",
+      "高中",
+      "高職",
+      "五專",
+      "大專",
+      "社會人士"
+    ],
+    "division": "mixed",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": 1,
+    "teacher": "none",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://bhuntr.com/tw/competitions/wev52s051dq83o6n78",
+        "quote": "（一）競賽類徵文對象：不拘（無國籍、居住地等限制，海外民眾亦可參加，惟須以中文創作）。"
+      },
+      {
+        "url": "https://bhuntr.com/tw/competitions/wev52s051dq83o6n78",
+        "quote": "（二）年金類－「臺北文學年金」獎助計畫對象：業餘及職業作家（無國籍、居住地等限制，海外民眾亦可參加，惟須以中文創作）。"
+      },
+      {
+        "url": "https://bhuntr.com/tw/competitions/wev52s051dq83o6n78",
+        "quote": "參選者可同時報名競賽類及年金類，競賽類每人每類以一篇為限，年金類亦限提一項計畫。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "submission_deadline",
+      "label": "收件及截稿日期",
+      "date": "2026-12-31",
+      "time": null,
+      "original": "自115年11月1日起開始收件，至115年12月31日截止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://bhuntr.com/tw/competitions/wev52s051dq83o6n78",
+          "quote": "三、收件及截稿日期自115年11月1日起開始收件，至115年12月31日截止，一律採掛號郵寄報名，以郵戳為憑，逾時恕不受理。"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "得獎名單揭曉",
+      "date": null,
+      "time": null,
+      "original": "116年5月間",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://bhuntr.com/tw/competitions/wev52s051dq83o6n78",
+          "quote": "九、得獎名單揭曉及頒獎日期將於116年5月間在活動專屬網站上公佈得獎名單，並於5月間舉辦頒獎典禮。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "競賽類投稿",
+      "what": "小說、散文、現代詩、古典詩或舞臺劇本稿件（A4 紙張列印一式 5 份），連同報名表、授權同意書及身分證明文件影本",
+      "how": "mail"
+    },
+    {
+      "stage": "年金類申請",
+      "what": "未來一年完整寫作計畫及部分作品（A4 紙張列印一式 5 份），連同報名表、授權同意書及身分證明文件影本",
+      "how": "mail"
+    }
+  ],
+  "attendance": {
+    "value": "none",
+    "where": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://bhuntr.com/tw/competitions/wev52s051dq83o6n78"
+      },
+      {
+        "url": "https://literature.award.taipei/"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://bhuntr.com/tw/competitions/wev52s051dq83o6n78"
+      },
+      {
+        "url": "https://literature.award.taipei/"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "競賽類各文類取首獎 1 名、評審獎 1 名、優等獎 2 名，皆附獎座一座：小說及舞臺劇本首獎 15 萬元（劇本首獎可另申請最高 30 萬元演出製作獎金）、評審獎 7 萬元、優等獎各 4 萬元；散文、現代詩、古典詩首獎 10 萬元、評審獎 5 萬元、優等獎各 3 萬元。年金類入圍 3 名各 20 萬元，決審選出得主 1 名 40 萬元及獎座一座。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://bhuntr.com/tw/competitions/wev52s051dq83o6n78",
+        "quote": "小說：首獎獎金15萬元，獎座一座；評審獎獎金7萬元，獎座一座；優等獎每名獎金4萬元，獎座一座。"
+      },
+      {
+        "url": "https://bhuntr.com/tw/competitions/wev52s051dq83o6n78",
+        "quote": "舞臺劇本：首獎獎金15萬元，獎座一座；評審獎獎金7萬元，獎座一座；優等獎每名獎金4萬元，獎座一座。首獎得主可另申請最高30萬元之「演出製作獎金」。"
+      },
+      {
+        "url": "https://bhuntr.com/tw/competitions/wev52s051dq83o6n78",
+        "quote": "入圍3名，每名獎金20萬元；一年內完成寫作計畫後，再進行二階段決審，評選出一名文學年金得主，致贈獎金40萬元及年金得主獎座一座。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "banned",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://bhuntr.com/tw/competitions/wev52s051dq83o6n78",
+        "quote": "抄襲、改寫、侵害他人著作權或利用人工智慧（AI）軟體生成的作品，將取消資格、追回獎項，投稿者終生不得參加臺北文學獎。"
+      },
+      {
+        "url": "https://literature.award.taipei/",
+        "quote": "每人每文類限投 1 篇，作品須未公開發表，不得一稿多投，投稿者不得使用 AI 生成及輔助創作。"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://literature.award.taipei/",
+    "rules": [
+      {
+        "title": "第29屆臺北文學獎簡章（PDF）",
+        "url": "https://literature.award.taipei/docs/guidelines.pdf"
+      },
+      {
+        "title": "第29屆臺北文學獎簡章（Word）",
+        "url": "https://literature.award.taipei/docs/guidelines.doc"
+      }
+    ],
+    "registration": null
+  },
+  "found_via": [
+    {
+      "name": "獎金獵人刊登頁",
+      "url": "https://bhuntr.com/tw/competitions/wev52s051dq83o6n78"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-21",
+    "method": "single",
+    "unread": [
+      "報名表及授權同意書",
+      "PDF 簡章（guidelines.pdf）",
+      "Word 簡章（guidelines.doc）"
+    ],
+    "note": null,
+    "readers": [
+      "gemini-4-hydrogen-medium"
+    ]
+  },
+  "first_seen": "2026-11-20",
+  "updated": "2026-11-20"
+}

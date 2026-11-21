@@ -1,0 +1,265 @@
+{
+  "schema": 1,
+  "id": "2027-ncue-homerun-science",
+  "title": "2027 仰望盃全國科學HomeRun 實作大賽",
+  "edition": "2027",
+  "summary": "國中及高中職 1 至 4 人組隊利用開發板製作科學作品，經初賽構想書與複賽影片評選後赴彰化師大決賽簡報。",
+  "organizers": [
+    {
+      "name": "教育部國民及學前教育署",
+      "role": "指導"
+    },
+    {
+      "name": "國立彰化師範大學",
+      "role": "主辦"
+    },
+    {
+      "name": "財團法人仰望教育基金會",
+      "role": "主辦"
+    },
+    {
+      "name": "Garmin 台灣國際航電",
+      "role": "協辦"
+    }
+  ],
+  "categories": [
+    "自然科學",
+    "工程與製造",
+    "資訊與 AI"
+  ],
+  "eligibility": {
+    "levels": [
+      "國中",
+      "高中",
+      "高職",
+      "五專"
+    ],
+    "division": "separate",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": 4,
+    "teacher": "required",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文附件_A095K0000Q115320057100-1.pdf",
+        "quote": "活動對象：全國公私立國中、高中職學生(五專一至三年級學生視同高中職學生)，及非學校型態實驗教育學生（自學生）。"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文附件_A095K0000Q115320057100-1.pdf",
+        "quote": "由1 至4 名同學組成一隊，另設指導老師1 至2 名，皆不可跨校。"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文附件_A095K0000Q115320057100-1.pdf",
+        "quote": "完全高中組隊參賽，若同隊隊員中含有國中及高中職學生則視為高中職組別。"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文附件_A095K0000Q115320057100-1.pdf",
+        "quote": "參賽隊伍應於116 年1 月4 日(一)前至競賽網站上報名及上傳「初賽構想說明書」(如附件一)。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "初賽報名截止",
+      "date": "2027-01-04",
+      "time": null,
+      "original": "116 年1 月4 日（一）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文附件_A095K0000Q115320057100-1.pdf",
+          "quote": "報名時間至116 年1 月4 日（一）止，僅限線上報名，報名後不得更改參賽資料。"
+        }
+      ]
+    },
+    {
+      "kind": "shortlist_announcement",
+      "label": "複賽名單公告",
+      "date": "2027-01-15",
+      "time": null,
+      "original": "116 年1 月15 日(五)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文附件_A095K0000Q115320057100-1.pdf",
+          "quote": "複賽名單於116 年1 月15 日(五)公告，未入選隊伍頒發「參賽證明」。"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "複賽資料收件截止",
+      "date": "2027-03-18",
+      "time": null,
+      "original": "116 年3 月18 日(四)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文附件_A095K0000Q115320057100-1.pdf",
+          "quote": "參賽隊伍應於116 年3 月18 日(四)前至競賽網站上傳「複賽作品說明書(如附件二)、作品影片」。"
+        }
+      ]
+    },
+    {
+      "kind": "shortlist_announcement",
+      "label": "決賽名單公告",
+      "date": "2027-03-31",
+      "time": null,
+      "original": "116 年3 月31 日(三)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文附件_A095K0000Q115320057100-1.pdf",
+          "quote": "決賽名單於116 年3 月31 日(三)公告，未入選隊伍頒發「入選證明書」。"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "決賽資料收件截止",
+      "date": "2027-04-14",
+      "time": null,
+      "original": "116 年4 月14 日(三)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文附件_A095K0000Q115320057100-1.pdf",
+          "quote": "參賽者應於116 年4 月14 日(三)前至競賽網站上傳「決賽成果報告書、授權同意書及作品材料費明細表」(如附件三、四及五)。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "決賽暨頒獎典禮",
+      "date": "2027-04-24",
+      "time": "09:00",
+      "original": "116 年4 月24 日(六)上午九時",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文附件_A095K0000Q115320057100-1.pdf",
+          "quote": "決賽時間/地點：116 年4 月24 日(六)上午九時/國立彰化師範大學。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "初賽",
+      "what": "初賽構想說明書（內文最多 4 頁，5 MB 以內 PDF）",
+      "how": "online"
+    },
+    {
+      "stage": "複賽",
+      "what": "複賽作品說明書（最多 4 頁 PDF）及 2 至 3 分鐘作品影片（50 MB 以內 MP4）",
+      "how": "online"
+    },
+    {
+      "stage": "決賽（書面繳交）",
+      "what": "決賽成果報告書（最多 10 頁 PDF）、授權同意書及作品材料費明細表",
+      "how": "online"
+    },
+    {
+      "stage": "決賽（現場）",
+      "what": "作品實物、作品材料費明細表、B1 直式海報 1 張及 5 分鐘現場簡報與詢答",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "finalists",
+    "where": "國立彰化師範大學進德校區",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文附件_A095K0000Q115320057100-1.pdf",
+        "quote": "決賽時間/地點：116 年4 月24 日(六)上午九時/國立彰化師範大學。"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文附件_A095K0000Q115320057100-1.pdf",
+        "quote": "全體隊員須全程參與，並須到場說明與回答評審委員問題，未出席之隊員不發獎勵。"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文附件_A095K0000Q115320057100-2.pdf",
+        "quote": "國立彰化師範大學 進德校區"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文附件_A095K0000Q115320057100-2.pdf",
+        "quote": "免報名費，一律線上報名（116年1月4日截止）"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "總冠軍 1 隊 100,000 元（隊伍 80,000 元、指導老師 20,000 元）；金牌獎 2 隊各 75,000 元；銀牌獎 4 隊各 50,000 元；銅牌獎 6 隊各 25,000 元；創意獎 3 隊各 6,000 元；優等獎 20 隊各 4,000 元；獲獎隊伍每人皆頒發獎狀乙面。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文附件_A095K0000Q115320057100-1.pdf",
+        "quote": "仰望盃總冠軍\n1 隊\n100,000\n隊伍獎金80,000 元、指導老師獎金20,000 元"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文附件_A095K0000Q115320057100-1.pdf",
+        "quote": "優等獎\n20 隊\n4,000\n隊伍獎金3,000 元、指導老師獎金1,000 元"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文附件_A095K0000Q115320057100-1.pdf",
+        "quote": "【備註1：獲獎隊伍每人皆頒發獎狀乙面。】"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "allowed",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文附件_A095K0000Q115320057100-1.pdf",
+        "quote": "妥善運用人工智慧與邊緣運算，透過程式邏輯思維，以團隊合作進行探究與實作設計，探索自然科學或解決科學問題。"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://phys5.ncue.edu.tw/2027science/",
+    "rules": [
+      {
+        "title": "2027 仰望盃全國科學HomeRun 實作大賽競賽手冊（簡章）",
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文附件_A095K0000Q115320057100-1.pdf"
+      },
+      {
+        "title": "2027 仰望盃全國科學HomeRun 實作大賽海報",
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文附件_A095K0000Q115320057100-2.pdf"
+      }
+    ],
+    "registration": null
+  },
+  "found_via": [
+    {
+      "name": "www.nknush.kh.edu.tw",
+      "url": "https://www.nknush.kh.edu.tw/announcement/high-school-news/21513/%e5%85%ac%e5%91%8a2027%e4%bb%b0%e6%9c%9b%e7%9b%83%e5%85%a8%e5%9c%8b%e7%a7%91%e5%ad%b8homerun%e5%af%a6%e4%bd%9c%e5%a4%a7%e8%b3%bd%e8%a8%ad%e5%82%99%e7%b5%84/"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-21",
+    "method": "single",
+    "unread": [],
+    "note": null,
+    "readers": [
+      "gemini-4-hydrogen-medium"
+    ]
+  },
+  "first_seen": "2026-11-20",
+  "updated": "2026-11-20",
+  "level": "checked",
+  "url": "https://workingyuanyuan.github.io/tw-hs-contests/contests/2027-ncue-homerun-science/",
+  "markdown": "https://workingyuanyuan.github.io/tw-hs-contests/contests/2027-ncue-homerun-science.md"
+}

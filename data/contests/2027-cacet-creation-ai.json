@@ -1,0 +1,241 @@
+{
+  "schema": 1,
+  "id": "2027-cacet-creation-ai",
+  "title": "2027 全國創意與智慧科技競賽暨 AI 協作挑戰賽",
+  "edition": "2027",
+  "summary": "全國國中至碩士班 1 至 4 人組隊參賽，繳交作品說明 PDF、海報與影片，入圍者至政大公企中心實體展示。",
+  "organizers": [
+    {
+      "name": "國立臺北教育大學資訊科學系",
+      "role": "主辦"
+    },
+    {
+      "name": "中華資訊與科技教育學會",
+      "role": "承辦"
+    },
+    {
+      "name": "國立臺北教育大學人工智慧產學發展中心",
+      "role": "協辦"
+    },
+    {
+      "name": "國立臺北教育大學師資培育處",
+      "role": "協辦"
+    },
+    {
+      "name": "碩陽數位科技有限公司",
+      "role": "協辦"
+    },
+    {
+      "name": "Google for Education",
+      "role": "協辦"
+    }
+  ],
+  "categories": [
+    "資訊與 AI",
+    "工程與製造"
+  ],
+  "eligibility": {
+    "levels": [
+      "國中",
+      "高中",
+      "高職",
+      "大專"
+    ],
+    "division": "separate",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": 4,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.cacet.org/web/2027creation/eligibility.html",
+        "quote": "開放全國國中/高中職學生、大專院校學生、碩士生參賽，報名時須繳交學生在學證明（不含學生證）。"
+      },
+      {
+        "url": "https://www.cacet.org/web/2027creation/eligibility.html",
+        "quote": "本次分為中學組及大專組(包含碩班)競賽，其中資訊教育與跨域應用組競賽類別只限大專組(包含碩班)報名，每團隊成員包含主要創作人1 名，共同創作人最多3名。(每隊1~4 人)"
+      },
+      {
+        "url": "https://www.cacet.org/web/2027creation/eligibility.html",
+        "quote": "參賽作品接受以中文撰寫或中英文並列，請線上填寫報名表及相關資料（含匯款資訊回報）。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "報名截止",
+      "date": "2027-03-11",
+      "time": "17:00",
+      "original": "03.11 2027 當天下午 5 時截止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.cacet.org/web/2027creation/index.html",
+          "quote": "03.11"
+        },
+        {
+          "url": "https://www.cacet.org/web/2027creation/index.html",
+          "quote": "0103.112027 / THU\n報名截止\n當天下午 5 時截止"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "作品繳交",
+      "date": "2027-03-12",
+      "time": null,
+      "original": "2027.03.12",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.cacet.org/web/2027creation/submission.html",
+          "quote": "作品繳交截止時間：2027.03.12 周五前"
+        }
+      ]
+    },
+    {
+      "kind": "shortlist_announcement",
+      "label": "晉級名單公布",
+      "date": "2027-04-29",
+      "time": null,
+      "original": "4月29",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://bhuntr.com/tw/competitions/v5czmtqmifcpnosv36",
+          "quote": "4月29公布晉級名單"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "展示作品與頒獎",
+      "date": "2027-06-02",
+      "time": null,
+      "original": "2027.06.02",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.cacet.org/web/2027creation/index.html",
+          "quote": "日期 / 時間2027.06.02 16:00 頒獎"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "第一階段文件審查",
+      "what": "參賽作品海報圖示檔案（21×29 cm、200 dpi 之 jpg 或 PowerPoint 檔）、作品說明 PDF 檔（10–15 頁內）、作品呈現影片（3–5 分鐘）；勾選 AI 協作挑戰賽者另繳交 AI 協作歷程紀錄表",
+      "how": "online"
+    },
+    {
+      "stage": "第二階段實體展示（入圍隊伍）",
+      "what": "作品簡介文件紙本 2 份、簡報與作品現場展示；勾選 AI 協作挑戰賽者另備兩份 AI 協作歷程摘要紙本",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "finalists",
+    "where": "政大公企中心 A2 國際會議廳、A215 流光中庭（臺北市大安區金華街187號 A棟2樓）",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.cacet.org/web/2027creation/index.html",
+        "quote": "展示作品與頒獎\n參賽隊伍須派一名或以上參賽者至會場展示"
+      },
+      {
+        "url": "https://www.cacet.org/web/2027creation/index.html",
+        "quote": "頒獎地點政大公企中心 A2 國際會議廳\n臺北市大安區金華街187號 A棟2樓\n作品展示A215 流光中庭"
+      }
+    ]
+  },
+  "fee": {
+    "value": "required",
+    "amount": "新臺幣 800 元",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.cacet.org/web/2027creation/eligibility.html",
+        "quote": "參賽費用：新台幣捌佰元整。(NTD800)"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "中學組及大專組各類別均設特優 1 名（2,000 元及獎狀）、優等 1 名（1,000 元及獎狀）、佳作 1 名（獎狀）。AI 協作挑戰賽設年度最佳 AI 協作獎、最佳判斷與驗證獎、最佳跨域整合獎、最佳責任創新獎各金獎 1 隊（1,000 元及獎狀）及銀獎 1 隊（獎狀），另設限大專組之 Google AI 應用獎金獎 1 隊（ASUS Googlebook 乙台及獎狀）與銀獎 2 隊（ASUS Chromebook 乙台及獎狀）。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.cacet.org/web/2027creation/awards.html",
+        "quote": "各組別依競賽類別分別頒發特優、優等與佳作。"
+      },
+      {
+        "url": "https://www.cacet.org/web/2027creation/awards.html",
+        "quote": "特優一名\n新台幣貳千元整；獎狀乙張"
+      },
+      {
+        "url": "https://www.cacet.org/web/2027creation/awards.html",
+        "quote": "Google AI 應用獎\n金獎 1 隊\n 銀獎 2 隊"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "allowed",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.cacet.org/web/2027creation/eligibility.html",
+        "quote": "若作品發展過程有運用 AI，且願意呈現提問、判斷、測試與修正的過程，得額外勾選參加 AI 協作挑戰賽。"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://www.cacet.org/web/2027creation/index.html",
+    "rules": [
+      {
+        "title": "參賽資格",
+        "url": "https://www.cacet.org/web/2027creation/eligibility.html"
+      },
+      {
+        "title": "第一階段文件審查",
+        "url": "https://www.cacet.org/web/2027creation/submission.html"
+      },
+      {
+        "title": "第二階段實體展示",
+        "url": "https://www.cacet.org/web/2027creation/stage-two.html"
+      },
+      {
+        "title": "評分標準",
+        "url": "https://www.cacet.org/web/2027creation/criteria.html"
+      },
+      {
+        "title": "榮譽獎項",
+        "url": "https://www.cacet.org/web/2027creation/awards.html"
+      }
+    ],
+    "registration": "https://forms.gle/3eDVxi9NwFHUHdyq6"
+  },
+  "found_via": [
+    {
+      "name": "獎金獵人刊登頁",
+      "url": "https://bhuntr.com/tw/competitions/v5czmtqmifcpnosv36"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-21",
+    "method": "single",
+    "unread": [
+      "附件四 AI 協作歷程紀錄表"
+    ],
+    "note": null,
+    "readers": [
+      "gemini-4-hydrogen-medium"
+    ]
+  },
+  "first_seen": "2026-11-20",
+  "updated": "2026-11-20"
+}

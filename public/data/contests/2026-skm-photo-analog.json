@@ -1,0 +1,220 @@
+{
+  "schema": 1,
+  "id": "2026-skm-photo-analog",
+  "title": "2027 SKM PHOTO 新光三越類比攝影創作徵選",
+  "edition": "2027",
+  "summary": "攝影創作者以類比媒材或技法創作，寄送報名文件、作品 JPG 檔與紙本同意書參選，入圍者於博覽會現場佈展決選。",
+  "organizers": [
+    {
+      "name": "財團法人新光三越文教基金會",
+      "role": "主辦"
+    },
+    {
+      "name": "新光三越百貨股份有限公司",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "美術"
+  ],
+  "eligibility": {
+    "levels": [
+      "國小",
+      "國中",
+      "高中",
+      "高職",
+      "五專",
+      "大專",
+      "社會人士"
+    ],
+    "division": "mixed",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": 1,
+    "teacher": "none",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "http://mculture.skm.com.tw/CultureFiles/20260814/f94e93e622224f3989d5e0830da496eb.pdf",
+        "quote": "二、 徵選資格：舉凡關注攝影工藝、影像創作及其相關實踐之創作者，皆歡迎報名參加。"
+      },
+      {
+        "url": "http://mculture.skm.com.tw/CultureFiles/20260814/f94e93e622224f3989d5e0830da496eb.pdf",
+        "quote": "作品需由本人親自拍攝創作，並須以本人之真實身份資料投稿，禁止匿名投稿。"
+      },
+      {
+        "url": "http://mculture.skm.com.tw/CultureFiles/20260814/f94e93e622224f3989d5e0830da496eb.pdf",
+        "quote": "※ 同意書恕不接受影本或掃描檔；20 歲以下需請法定代理人簽章。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "徵選報名截止",
+      "date": "2026-11-20",
+      "time": null,
+      "original": "2026/09/01(二)至2026/11/20 (五)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "http://mculture.skm.com.tw/CultureFiles/20260814/f94e93e622224f3989d5e0830da496eb.pdf",
+          "quote": "一、 徵選日期：2026/09/01(二)至2026/11/20 (五)"
+        }
+      ]
+    },
+    {
+      "kind": "shortlist_announcement",
+      "label": "入圍名單公布",
+      "date": "2026-12-31",
+      "time": null,
+      "original": "2026/12/31 前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "http://mculture.skm.com.tw/CultureFiles/20260814/f94e93e622224f3989d5e0830da496eb.pdf",
+          "quote": "8. 入圍名單公布：將於2026/12/31 前公佈於「財團法人新光三越文教基金會」官方網站，並主動以電子郵件及電話聯繫方式通知得獎者。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "決選（攝影藝術博覽會開展首日）",
+      "date": "2027-03-18",
+      "time": null,
+      "original": "2027/3/18–3/22",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "http://mculture.skm.com.tw/CultureFiles/20260814/f94e93e622224f3989d5e0830da496eb.pdf",
+          "quote": "2027/3/18–3/22 攝影藝術博覽會"
+        },
+        {
+          "url": "http://mculture.skm.com.tw/CultureFiles/20260814/f94e93e622224f3989d5e0830da496eb.pdf",
+          "quote": "※ 決選流程將於「2027 SKM PHOTO 攝影藝術博覽會」開展首日現場進行最終評選。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "初審報名（電子檔）",
+      "what": "附件一報名表、附件二作品介紹、附件三同意書電子檔（中英文對照）及作品 JPG 檔（至少 300 dpi、長邊不低於 1,000 像素、單檔不超過 4 MB）",
+      "how": "online"
+    },
+    {
+      "stage": "初審報名（紙本）",
+      "what": "附件三同意書 A4 紙本正本（親筆簽名加蓋章，20 歲以下須法定代理人簽章）",
+      "how": "mail"
+    },
+    {
+      "stage": "複選／參展資料繳交（初審入圍者）",
+      "what": "作品實體、原始底片（傳統底片拍攝者須繳交供查驗）及高解析度數位檔案",
+      "how": "unknown"
+    },
+    {
+      "stage": "決選展覽（入圍者）",
+      "what": "於「2027 SKM PHOTO 攝影藝術博覽會」指定展位空間內親自完成展示配置",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "finalists",
+    "where": "「2027 SKM PHOTO 攝影藝術博覽會」指定展位",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "http://mculture.skm.com.tw/CultureFiles/20260814/f94e93e622224f3989d5e0830da496eb.pdf",
+        "quote": "徵展入圍於展覽展出時，入圍者須於主辦單位提供之指定展位空間內，親自完成展示配置。"
+      },
+      {
+        "url": "http://mculture.skm.com.tw/CultureFiles/20260814/f94e93e622224f3989d5e0830da496eb.pdf",
+        "quote": "※ 決選流程將於「2027 SKM PHOTO 攝影藝術博覽會」開展首日現場進行最終評選。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "http://mculture.skm.com.tw/CultureFiles/20260814/f94e93e622224f3989d5e0830da496eb.pdf"
+      },
+      {
+        "url": "https://culture.skm.com.tw/ActEvent/Cweb/ActiveContent?MenuUUID=af9800a5-4ca4-4ad1-bed2-315041c02962&ActUUID=81cf9245-ae45-4bd8-90b3-1ea90a40def7"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "評審團大獎 1 名：光影手工暗房工作室「古典影像工藝製作進階學習課程」5 堂（總市值新台幣 3 萬元）；入圍至多 8 名：獲「2027 SKM PHOTO 攝影藝術博覽會」展出資格及作品販售機會。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "http://mculture.skm.com.tw/CultureFiles/20260814/f94e93e622224f3989d5e0830da496eb.pdf",
+        "quote": "【評審團大獎】1 名：獲得光影手工暗房工作室「古典影像工藝製作進階學習課程」5 堂，總市值新台幣3 萬元。實際課程內容將於得獎後，由得獎者與工作室協議安排。"
+      },
+      {
+        "url": "http://mculture.skm.com.tw/CultureFiles/20260814/f94e93e622224f3989d5e0830da496eb.pdf",
+        "quote": "【入圍】至多8 名：獲「2027 SKM PHOTO 攝影藝術博覽會」展出資格及作品販售機會。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "http://mculture.skm.com.tw/CultureFiles/20260814/f94e93e622224f3989d5e0830da496eb.pdf"
+      },
+      {
+        "url": "https://culture.skm.com.tw/ActEvent/Cweb/ActiveContent?MenuUUID=af9800a5-4ca4-4ad1-bed2-315041c02962&ActUUID=81cf9245-ae45-4bd8-90b3-1ea90a40def7"
+      },
+      {
+        "url": "https://culture.skm.com.tw/ActEvent/Cweb/QAContent?MenuUUID=7233118a-61b4-466e-bf76-142563f74424&ActUUID=81cf9245-ae45-4bd8-90b3-1ea90a40def7"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://culture.skm.com.tw/ActEvent/Cweb/ActiveContent?MenuUUID=12adce99-6d6f-4c15-8f34-d421e34e98e5&ActUUID=81cf9245-ae45-4bd8-90b3-1ea90a40def7",
+    "rules": [
+      {
+        "title": "徵件簡章（PDF）",
+        "url": "http://mculture.skm.com.tw/CultureFiles/20260814/f94e93e622224f3989d5e0830da496eb.pdf"
+      },
+      {
+        "title": "報名表（PDF）",
+        "url": "http://mculture.skm.com.tw/CultureFiles/20260814/2a7eb39d69134f568f38ebbad7f19d61.pdf"
+      },
+      {
+        "title": "報名表（WORD）",
+        "url": "http://mculture.skm.com.tw/CultureFiles/20260814/584b5654a31a4b7799e6285bc5bab248.doc"
+      }
+    ],
+    "registration": null
+  },
+  "found_via": [
+    {
+      "name": "bhuntr.com",
+      "url": "https://bhuntr.com/tw/competitions/nj1kp9y4pe4zm4xhvo"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-20",
+    "method": "dual",
+    "unread": [],
+    "note": null,
+    "readers": [
+      "gemini-4-hydrogen-medium",
+      "gpt-6.1-sol"
+    ]
+  },
+  "first_seen": "2026-11-20",
+  "updated": "2026-11-20",
+  "level": "verified",
+  "url": "https://workingyuanyuan.github.io/tw-hs-contests/contests/2026-skm-photo-analog/",
+  "markdown": "https://workingyuanyuan.github.io/tw-hs-contests/contests/2026-skm-photo-analog.md"
+}

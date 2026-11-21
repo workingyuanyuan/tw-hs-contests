@@ -1,0 +1,164 @@
+{
+  "schema": 1,
+  "id": "2027-ocu-mdm-marketing",
+  "title": "2027第五屆僑光行流盃-全國高中職創意行銷競賽",
+  "edition": "2027 第五屆",
+  "summary": "全國高中職學生 1 至 4 人同校組隊，為台灣手搖飲品牌發想 10 字內廣告金句並線上繳交 5 頁內行銷企劃 PPT。",
+  "organizers": [
+    {
+      "name": "僑光科技大學行銷與流通管理系",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "商管與行銷",
+    "創業與企劃"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職"
+    ],
+    "division": "hs_only",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": 4,
+    "teacher": "optional",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/「2027第五屆僑光行流盃-全國高中職創意行銷競賽」.pdf",
+        "quote": "(一)參賽對象：全國公私立高級中等學校在學學生。"
+      },
+      {
+        "url": "https://bhuntr.com/tw/competitions/2rixr1mfdnplg4o8qh",
+        "quote": "組隊規則：可個人參賽，亦可2‑4人同校組隊，不可跨校組隊。每位隊員皆須至競賽網站註冊帳號，由組長建立團隊、邀請成員加入。"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/「2027第五屆僑光行流盃-全國高中職創意行銷競賽」1.pdf",
+        "quote": "指導老師資料非必填"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "submission_deadline",
+      "label": "報名暨作品繳交截止",
+      "date": "2027-03-04",
+      "time": "23:59",
+      "original": "116年03月04日（週四）23:59止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://bhuntr.com/tw/competitions/2rixr1mfdnplg4o8qh",
+          "quote": "報名暨作品繳交：即日起至116年03月04日（週四）23:59止。"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "競賽結果公告",
+      "date": "2027-03-26",
+      "time": null,
+      "original": "116年3月26日(星期五)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/「2027第五屆僑光行流盃-全國高中職創意行銷競賽」.pdf",
+          "quote": "(三)競賽結果公告日期: 116年3月26日(星期五)。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名暨作品繳交",
+      "what": "選定台灣手搖飲品牌發想 10 字以內廣告金句，製作最多 5 頁內容（不含封面、目錄）之行銷企劃 PPT 檔並填寫金句文字",
+      "how": "online"
+    }
+  ],
+  "attendance": {
+    "value": "none",
+    "where": null,
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/「2027第五屆僑光行流盃-全國高中職創意行銷競賽」.pdf",
+        "quote": "(四)競賽方式 : 以數位方式進行。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "unknown",
+    "amount": null,
+    "basis": "unread",
+    "evidence": []
+  },
+  "prizes": {
+    "text": "冠軍（第一名）：獎狀及獎金 10,000 元；亞軍（第二名）：獎狀及獎金 5,000 元；季軍（第三名）：獎狀及獎金 3,000 元；優等若干組（名）：獎狀乙紙。所有完成繳交參賽隊伍皆可下載參賽證明。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/「2027第五屆僑光行流盃-全國高中職創意行銷競賽」2.pdf",
+        "quote": "第一名：獎金10,000元\n第二名：獎金5,000元\n第三名：獎金3,000元\n優等若干名：獎狀乙紙\n每位同學可下載參賽證明"
+      },
+      {
+        "url": "https://bhuntr.com/tw/competitions/2rixr1mfdnplg4o8qh",
+        "quote": "冠軍：獎狀 + 10000元獎金亞軍：獎狀 + 5000元獎金季軍：獎狀 + 3000元獎金優等：若干組，頒發獎狀所有完成繳交參賽隊伍，皆可下載參賽證明。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "unknown",
+    "basis": "unread",
+    "evidence": []
+  },
+  "links": {
+    "official": "https://mdm.ocu.edu.tw/contest/",
+    "rules": [
+      {
+        "title": "僑光科技大學函（競賽公文）",
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/「2027第五屆僑光行流盃-全國高中職創意行銷競賽」.pdf"
+      },
+      {
+        "title": "活動海報",
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/「2027第五屆僑光行流盃-全國高中職創意行銷競賽」2.pdf"
+      },
+      {
+        "title": "作品範例與報名操作說明",
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/「2027第五屆僑光行流盃-全國高中職創意行銷競賽」1.pdf"
+      }
+    ],
+    "registration": null
+  },
+  "found_via": [
+    {
+      "name": "高師大附中轉發公告（含公文、附件1辦法與附件2海報）",
+      "url": "https://www.nknush.kh.edu.tw/announcement/21299/%e5%85%ac%e5%91%8a%e8%a8%93%e8%82%b2%e7%b5%84%e5%83%91%e5%85%89%e7%a7%91%e6%8a%80%e5%a4%a7%e5%ad%b8%e3%80%8c2027%e7%ac%ac%e4%ba%94%e5%b1%86%e5%83%91%e5%85%89%e8%a1%8c%e6%b5%81%e7%9b%83-%e5%85%a8/"
+    },
+    {
+      "name": "高師大附中轉發公告",
+      "url": "https://www.nknush.kh.edu.tw/announcement/21299/%e5%85%ac%e5%91%8a%e8%a8%93%e8%82%b2%e7%b5%84%e5%83%91%e5%85%89%e7%a7%91%e6%8a%80%e5%a4%a7%e5%ad%b8%e3%80%8c2027%e7%ac%ac%e4%ba%94%e5%b1%86%e5%83%91%e5%85%89%e8%a1%8c%e6%b5%81%e7%9b%83-%e5%85%a8/"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-21",
+    "method": "single",
+    "unread": [
+      "活動官網（https://mdm.ocu.edu.tw/contest/）",
+      "附件1競賽辦法.pdf"
+    ],
+    "note": null,
+    "readers": [
+      "gemini-4-hydrogen-medium"
+    ]
+  },
+  "first_seen": "2026-11-20",
+  "updated": "2026-11-20",
+  "level": "checked",
+  "url": "https://workingyuanyuan.github.io/tw-hs-contests/contests/2027-ocu-mdm-marketing/",
+  "markdown": "https://workingyuanyuan.github.io/tw-hs-contests/contests/2027-ocu-mdm-marketing.md"
+}

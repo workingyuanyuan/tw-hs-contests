@@ -1,0 +1,226 @@
+{
+  "schema": 1,
+  "id": "2026-lhu-terroir-cup",
+  "title": "2026 第三屆地酒盃全國永續綠餐創意飲調與餐服競賽",
+  "edition": "第 3 屆",
+  "summary": "高中職及大專生報名後到臺北市客家文化主題公園現場比飲調、口布或餐服，飲調組須先寄交配方表。",
+  "organizers": [
+    {
+      "name": "中華民國永續飲食推廣協會",
+      "role": "主辦"
+    },
+    {
+      "name": "龍華科技大學觀光休閒系",
+      "role": "主辦"
+    },
+    {
+      "name": "恆器製酒",
+      "role": "協辦"
+    },
+    {
+      "name": "有趣酒業",
+      "role": "協辦"
+    }
+  ],
+  "categories": [
+    "餐旅",
+    "技藝與技能"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職",
+      "五專",
+      "大專"
+    ],
+    "division": "separate",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": 1,
+    "teacher": "optional",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/1p0aTj3-t24bumOKeFoO3AeoaZuYGH9ia/view?usp=sharing",
+        "quote": "四、參賽資格：大專院校學生、高中職學生，含國際學生。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1p0aTj3-t24bumOKeFoO3AeoaZuYGH9ia/view?usp=sharing",
+        "quote": "(一) 高中職組：高中職及五專一至三年級在學學生。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1p0aTj3-t24bumOKeFoO3AeoaZuYGH9ia/view?usp=sharing",
+        "quote": "(二) 大專組：大專院校大學部或五專四年級以上，年滿18歲以上之在學學生"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1p0aTj3-t24bumOKeFoO3AeoaZuYGH9ia/view?usp=sharing",
+        "quote": "即日起至2026年11月20日(五)中午12:00截止，請於下方連結Google 表單進行線上報名，以收件單位日期時間為憑。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "線上報名截止",
+      "date": "2026-11-20",
+      "time": "12:00",
+      "original": "2026年11月20日(五)中午12:00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://drive.google.com/file/d/1p0aTj3-t24bumOKeFoO3AeoaZuYGH9ia/view?usp=sharing",
+          "quote": "二、報名期間：即日起至2026年11月20日(五)中午12:00截止，主辦擁有更改之權利。"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "調飲／調酒組配方表繳交截止",
+      "date": "2026-11-27",
+      "time": "12:00",
+      "original": "11月27日(五)中午12點",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://drive.google.com/file/d/1p0aTj3-t24bumOKeFoO3AeoaZuYGH9ia/view?usp=sharing",
+          "quote": "配方表請於11月27日(五)中午12點前，傳至主辦單位"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "賽程公告",
+      "date": "2026-12-01",
+      "time": null,
+      "original": "2026年12月1日(二)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://drive.google.com/file/d/1p0aTj3-t24bumOKeFoO3AeoaZuYGH9ia/view?usp=sharing",
+          "quote": "六、2026年12月1日(二) 於龍華科技大學觀光休閒系官網公告賽程"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "競賽日期",
+      "date": "2026-12-06",
+      "time": "08:00",
+      "original": "2026年12月6日(日)，上午08:00-18:30",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://drive.google.com/file/d/1p0aTj3-t24bumOKeFoO3AeoaZuYGH9ia/view?usp=sharing",
+          "quote": "一、競賽日期：2026年12月6日(日)，上午08:00-18:30"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名",
+      "what": "線上報名表、學生證正反面及身分證或健保卡正面（國際學生附居留證）電子檔",
+      "how": "online"
+    },
+    {
+      "stage": "賽前（創意調飲／調酒組）",
+      "what": "參賽配方表（標示成份、廠牌及單杯 ml 容量）",
+      "how": "online"
+    },
+    {
+      "stage": "現場競賽",
+      "what": "依組別現場進行飲品調製與展台布置、9 款口布造型設計或餐桌服務流程演練",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "臺北市客家文化主題公園（臺北市中正區汀州路三段2號）",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/1p0aTj3-t24bumOKeFoO3AeoaZuYGH9ia/view?usp=sharing",
+        "quote": "三、競賽地點：臺北市客家文化主題公園 (臺北市中正區汀州路三段2號) 。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/1p0aTj3-t24bumOKeFoO3AeoaZuYGH9ia/view?usp=sharing",
+        "quote": "一、本競賽鼓勵參賽者發揮「永續綠餐 X 客香保種」之精神，競賽免報名費。"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "依分數頒發金牌（90–100 分）、銀牌（80–89 分）、銅牌（70–79 分）、優勝（60–69 分）。高中職各組及大專餐服組金牌 2,000 元、銀牌 1,000 元；大專調酒組金牌 3,000 元、銀牌 2,000 元；金銀銅牌均附獎牌與電子獎狀。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/1p0aTj3-t24bumOKeFoO3AeoaZuYGH9ia/view?usp=sharing",
+        "quote": "二、獎勵內容 (為響應永續環保，本賽事「獎狀」皆以電子檔寄送發放)"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1p0aTj3-t24bumOKeFoO3AeoaZuYGH9ia/view?usp=sharing",
+        "quote": "金牌：獎金NT$ 2,000元、獎牌乙個、獎狀乙張"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1p0aTj3-t24bumOKeFoO3AeoaZuYGH9ia/view?usp=sharing",
+        "quote": "銀牌：獎金NT$ 1,000元、獎牌乙個、獎狀乙張"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1p0aTj3-t24bumOKeFoO3AeoaZuYGH9ia/view?usp=sharing",
+        "quote": "銅牌：獎牌乙個、獎狀乙張"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1p0aTj3-t24bumOKeFoO3AeoaZuYGH9ia/view?usp=sharing",
+        "quote": "金牌：獎金NT$ 3,000元、獎牌乙個、獎狀乙張"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/1p0aTj3-t24bumOKeFoO3AeoaZuYGH9ia/view?usp=sharing"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://sl.lhu.edu.tw/p/412-1004-2430.php?Lang=zh-tw",
+    "rules": [
+      {
+        "title": "競賽簡章（PDF）",
+        "url": "https://drive.google.com/file/d/1p0aTj3-t24bumOKeFoO3AeoaZuYGH9ia/view?usp=sharing"
+      }
+    ],
+    "registration": "https://forms.gle/pxbFN7oU7YHFSakr7"
+  },
+  "found_via": [
+    {
+      "name": "www.ksvs.kh.edu.tw",
+      "url": "https://www.ksvs.kh.edu.tw/v4/cpsub/article.php?id=12696"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-20",
+    "method": "dual",
+    "unread": [
+      "宣傳海報（無可擷取文字之 PDF）"
+    ],
+    "note": null,
+    "readers": [
+      "gemini-4-hydrogen-medium",
+      "gpt-6.1-sol"
+    ]
+  },
+  "first_seen": "2026-11-20",
+  "updated": "2026-11-20"
+}

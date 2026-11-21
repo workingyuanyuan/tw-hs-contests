@@ -1,0 +1,161 @@
+{
+  "schema": 1,
+  "id": "2026-ocu-agri-marketing",
+  "title": "第九屆全國高中職新農業行銷實作競賽",
+  "edition": "第九屆",
+  "summary": "高中職學生參加新農業行銷實作競賽，初審線上繳交報名表與作品摘要等文件，複審線上繳交宣傳短片與複審資料。",
+  "organizers": [
+    {
+      "name": "僑光科技大學",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "商管與行銷",
+    "農業與環境"
+  ],
+  "eligibility": {
+    "levels": [],
+    "division": "unknown",
+    "regions": [],
+    "nomination": "unknown",
+    "team_min": null,
+    "team_max": null,
+    "teacher": "unknown",
+    "basis": "unread",
+    "evidence": []
+  },
+  "dates": [
+    {
+      "kind": "other",
+      "label": "開放報名",
+      "date": "2026-08-31",
+      "time": null,
+      "original": "2026/08/31",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://sites.google.com/view/sunfarmorganic/新農業行銷競賽",
+          "quote": "第九屆全國高中職新農業行銷實作競賽，開放報名。 ➔ 前往公告頁面\n2026/08/31"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "複審宣傳短片線上繳件截止",
+      "date": "2027-03-15",
+      "time": null,
+      "original": "116年3月15日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://sites.google.com/view/sunfarmorganic/新農業行銷競賽/第九屆-專題競賽/複審階段第二階段審查",
+          "quote": "(116年3月15日截止收件)"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "複審資料線上繳交截止",
+      "date": "2027-04-08",
+      "time": null,
+      "original": "116年4月8日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://sites.google.com/view/sunfarmorganic/新農業行銷競賽/第九屆-專題競賽/複審階段第二階段審查",
+          "quote": "繳交期限至116年4月8日!"
+        }
+      ]
+    },
+    {
+      "kind": "shortlist_announcement",
+      "label": "複審審查結果開放查詢",
+      "date": "2027-04-26",
+      "time": null,
+      "original": "116年4月26日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://sites.google.com/view/sunfarmorganic/新農業行銷競賽/第九屆-專題競賽/複審階段第二階段審查",
+          "quote": "於116年4月26日開放查詢\"複審審查\"結果"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "初審報名",
+      "what": "報名表、授權同意書、競賽作品摘要、參賽切結書、臉書按讚截圖、食農教育大考驗成績截圖",
+      "how": "online"
+    },
+    {
+      "stage": "複審（宣傳短片）",
+      "what": "宣傳短片",
+      "how": "online"
+    },
+    {
+      "stage": "複審",
+      "what": "複審資料",
+      "how": "online"
+    }
+  ],
+  "attendance": {
+    "value": "unknown",
+    "where": null,
+    "basis": "unread",
+    "evidence": []
+  },
+  "fee": {
+    "value": "unknown",
+    "amount": null,
+    "basis": "unread",
+    "evidence": []
+  },
+  "prizes": {
+    "text": null,
+    "basis": "unread",
+    "evidence": []
+  },
+  "ai_policy": {
+    "value": "unknown",
+    "basis": "unread",
+    "evidence": []
+  },
+  "links": {
+    "official": "https://sites.google.com/view/sunfarmorganic/新農業行銷競賽/第九屆-專題競賽",
+    "rules": [
+      {
+        "title": "第九屆活動海報",
+        "url": "https://drive.google.com/file/d/1NcbTnu56lqg7G-Az7fUqrPRWjjZc4NSB/view?usp=sharing"
+      }
+    ],
+    "registration": "https://forms.gle/4HhCi66JmbtMZKPA8"
+  },
+  "found_via": [
+    {
+      "name": "競賽官網",
+      "url": "https://sites.google.com/view/sunfarmorganic/"
+    },
+    {
+      "name": "競賽官網",
+      "url": "https://sites.google.com/view/sunfarmorganic/"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-21",
+    "method": "single",
+    "unread": [
+      "第九屆全國高中職新農業行銷實作競賽簡章",
+      "第九屆活動海報",
+      "附件1至6及異動申請書、決賽放棄切結書",
+      "第九屆農友名單.docx"
+    ],
+    "note": null,
+    "readers": [
+      "gemini-4-hydrogen-medium"
+    ]
+  },
+  "first_seen": "2026-11-20",
+  "updated": "2026-11-20"
+}

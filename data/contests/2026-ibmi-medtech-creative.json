@@ -1,0 +1,315 @@
+{
+  "schema": 1,
+  "id": "2026-ibmi-medtech-creative",
+  "title": "第六屆全國高中醫療科技創意競賽",
+  "edition": "第六屆",
+  "summary": "3 至 5 名高中職生組隊觀展體驗後，針對三大醫療科技主題繳交 15 頁內簡報與 3 分鐘內影片，決審須現場口頭簡報。",
+  "organizers": [
+    {
+      "name": "教育部",
+      "role": "指導"
+    },
+    {
+      "name": "財團法人生技醫療科技政策研究中心",
+      "role": "主辦"
+    },
+    {
+      "name": "台北市政府教育局",
+      "role": "主辦"
+    },
+    {
+      "name": "中山醫學大學醫學系",
+      "role": "主辦"
+    },
+    {
+      "name": "中國醫藥大學醫學系",
+      "role": "主辦"
+    },
+    {
+      "name": "成功大學醫學系",
+      "role": "主辦"
+    },
+    {
+      "name": "長庚大學醫學系",
+      "role": "主辦"
+    },
+    {
+      "name": "馬偕醫學大學醫學系",
+      "role": "主辦"
+    },
+    {
+      "name": "高雄醫學大學醫學系",
+      "role": "主辦"
+    },
+    {
+      "name": "國防醫學大學醫學系",
+      "role": "主辦"
+    },
+    {
+      "name": "陽明交通大學醫學系",
+      "role": "主辦"
+    },
+    {
+      "name": "慈濟大學醫學系",
+      "role": "主辦"
+    },
+    {
+      "name": "義守大學醫學系",
+      "role": "主辦"
+    },
+    {
+      "name": "臺北醫學大學醫學系",
+      "role": "主辦"
+    },
+    {
+      "name": "臺灣大學醫學系",
+      "role": "主辦"
+    },
+    {
+      "name": "輔仁大學醫學系",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "醫護與照顧",
+    "資訊與 AI",
+    "創業與企劃"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職"
+    ],
+    "division": "hs_only",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 3,
+    "team_max": 5,
+    "teacher": "required",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.hssh.tp.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mek0xTDNCMFlWODFPRGMzT0Y4NE1qSXlNamszWHpFd05UZzJMbkJrWmc9PQ==&fname=WSGGUWQKUS44A110EDLKSW24KK30OO35DGUWSS20A1IDCCFCSSECVTPOUSSSPKPO",
+        "quote": "全國公私立高中職在學學生。"
+      },
+      {
+        "url": "https://www.hssh.tp.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mek0xTDNCMFlWODFPRGMzT0Y4NE1qSXlNamszWHpFd05UZzJMbkJrWmc9PQ==&fname=WSGGUWQKUS44A110EDLKSW24KK30OO35DGUWSS20A1IDCCFCSSECVTPOUSSSPKPO",
+        "quote": "競賽採團隊參賽，每組由3~5 名學生及1~2 名指導教師組成，可跨校組隊。"
+      },
+      {
+        "url": "https://www.hssh.tp.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mek0xTDNCMFlWODFPRGMzT0Y4NE1qSXlNamszWHpFd05UZzJMbkJrWmc9PQ==&fname=WSGGUWQKUS44A110EDLKSW24KK30OO35DGUWSS20A1IDCCFCSSECVTPOUSSSPKPO",
+        "quote": "由參賽團隊代表人自簡章公告起至11 月30 日前 至競賽活動官網報名，網址：https://ibmi.pse.is/9naf6d"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "團隊線上報名截止",
+      "date": "2026-11-30",
+      "time": null,
+      "original": "2026 即日起-11/30",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.hssh.tp.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mek0xTDNCMFlWODFPRGMzT0Y4NE1qSXlNamszWHpFd05UZzJMbkJrWmc9PQ==&fname=WSGGUWQKUS44A110EDLKSW24KK30OO35DGUWSS20A1IDCCFCSSECVTPOUSSSPKPO",
+          "quote": "2026 即日起-11/30 團隊線上報名"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "台灣醫療科技展體驗截止",
+      "date": "2026-12-06",
+      "time": "15:00",
+      "original": "12 月3 日至12 月5 日 10：00-18：00、12 月6 日 10：00-15：00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.hssh.tp.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mek0xTDNCMFlWODFPRGMzT0Y4NE1qSXlNamszWHpFd05UZzJMbkJrWmc9PQ==&fname=WSGGUWQKUS44A110EDLKSW24KK30OO35DGUWSS20A1IDCCFCSSECVTPOUSSSPKPO",
+          "quote": "2026/12/03-12/06 台灣醫療科技展-醫療科技探索體驗與臨床技能實作"
+        },
+        {
+          "url": "https://www.hssh.tp.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mek0xTDNCMFlWODFPRGMzT0Y4NE1qSXlNamszWHpFd05UZzJMbkJrWmc9PQ==&fname=WSGGUWQKUS44A110EDLKSW24KK30OO35DGUWSS20A1IDCCFCSSECVTPOUSSSPKPO",
+          "quote": "時間：12 月3 日至12 月5 日 10：00-18：00、12 月6 日 10：00-15：00"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "競賽資料繳交截止",
+      "date": "2026-12-24",
+      "time": null,
+      "original": "12 月24 日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.hssh.tp.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mek0xTDNCMFlWODFPRGMzT0Y4NE1qSXlNamszWHpFd05UZzJMbkJrWmc9PQ==&fname=WSGGUWQKUS44A110EDLKSW24KK30OO35DGUWSS20A1IDCCFCSSECVTPOUSSSPKPO",
+          "quote": "12 月24 日為繳交截止日，當日前包括團隊成員名單、競賽主題、創意計畫名稱、創意計畫說明書及影片資料均可重新上傳，逾期不得更改。"
+        },
+        {
+          "url": "https://www.hssh.tp.edu.tw/p/405-1000-52706,c540.php",
+          "quote": "參賽團隊需於115年12月24日前繳交「創意計畫書」與「創意計畫影片」。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "多元學習證明核發截止",
+      "date": "2027-01-30",
+      "time": null,
+      "original": "2027 年1 月30 日前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.hssh.tp.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mek0xTDNCMFlWODFPRGMzT0Y4NE1qSXlNamszWHpFd05UZzJMbkJrWmc9PQ==&fname=WSGGUWQKUS44A110EDLKSW24KK30OO35DGUWSS20A1IDCCFCSSECVTPOUSSSPKPO",
+          "quote": "經大會查核無誤後，將於2027 年1 月30 日前，核發多元學習證明並寄送至成員報名時所登錄之電子信箱。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "決審",
+      "date": "2027-03-06",
+      "time": null,
+      "original": "2027 年3 月6 日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.hssh.tp.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mek0xTDNCMFlWODFPRGMzT0Y4NE1qSXlNamszWHpFd05UZzJMbkJrWmc9PQ==&fname=WSGGUWQKUS44A110EDLKSW24KK30OO35DGUWSS20A1IDCCFCSSECVTPOUSSSPKPO",
+          "quote": "擬於2027 年3 月6 日進行決審並於2027 年4 月舉辦授獎典禮，年度各項主題/獎項評選結果將於決審結束後於官網正式公告各界周知。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "頒獎典禮（暫定）",
+      "date": null,
+      "time": null,
+      "original": "2027/4 月 (暫定)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.hssh.tp.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mek0xTDNCMFlWODFPRGMzT0Y4NE1qSXlNamszWHpFd05UZzJMbkJrWmc9PQ==&fname=WSGGUWQKUS44A110EDLKSW24KK30OO35DGUWSS20A1IDCCFCSSECVTPOUSSSPKPO",
+          "quote": "2027/4 月 (暫定) 頒獎典禮"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "觀展體驗",
+      "what": "於台灣醫療科技展全展區單日累計完成至少 3 小時醫療科技探索體驗與臨床技能實作並簽到退",
+      "how": "onsite"
+    },
+    {
+      "stage": "初審／複審繳件",
+      "what": "授權同意書、15 頁內 16:9 橫式圖文簡報 PDF（5MB 內）創意計畫說明書，以及 3 分鐘內創意計畫影片（100MB 內、1280x720 以上）",
+      "how": "online"
+    },
+    {
+      "stage": "決審（入選團隊）",
+      "what": "5 分鐘現場口頭簡報與 5 分鐘現場評審詢答",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "南港展覽館 1 館 1F、4F（台灣醫療科技展觀展體驗；決審地點未載）",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.hssh.tp.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mek0xTDNCMFlWODFPRGMzT0Y4NE1qSXlNamszWHpFd05UZzJMbkJrWmc9PQ==&fname=WSGGUWQKUS44A110EDLKSW24KK30OO35DGUWSS20A1IDCCFCSSECVTPOUSSSPKPO",
+        "quote": "所有參賽學生需於「台灣醫療科技展」展期間，在全展區內完成至少3 個小時醫療科技體驗探索與臨床技能實作，後續將依成員個人簽到/退時數提供多元學習證明。"
+      },
+      {
+        "url": "https://www.hssh.tp.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mek0xTDNCMFlWODFPRGMzT0Y4NE1qSXlNamszWHpFd05UZzJMbkJrWmc9PQ==&fname=WSGGUWQKUS44A110EDLKSW24KK30OO35DGUWSS20A1IDCCFCSSECVTPOUSSSPKPO",
+        "quote": "地點：南港展覽館1 館1F、4F (全展區)"
+      },
+      {
+        "url": "https://www.hssh.tp.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mek0xTDNCMFlWODFPRGMzT0Y4NE1qSXlNamszWHpFd05UZzJMbkJrWmc9PQ==&fname=WSGGUWQKUS44A110EDLKSW24KK30OO35DGUWSS20A1IDCCFCSSECVTPOUSSSPKPO",
+        "quote": "*此為必要參賽流程，缺席者將被視為參賽程序不完整，喪失繼續參賽資格*"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.hssh.tp.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mek0xTDNCMFlWODFPRGMzT0Y4NE1qSXlNamszWHpFd05UZzJMbkJrWmc9PQ==&fname=WSGGUWQKUS44A110EDLKSW24KK30OO35DGUWSS20A1IDCCFCSSECVTPOUSSSPKPO"
+      },
+      {
+        "url": "https://www.hssh.tp.edu.tw/p/405-1000-52706,c540.php"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "各主題決審分數達 90 分以上頒發金獎、85 分以上銀獎、80 分以上銅獎並授予獎牌一只；依排序百分比頒發優選獎（前 10%）、佳作獎（前 20%）、入選獎（前 40%），所有參賽團隊均頒發參賽證明。指導教師與學校亦依獲獎積分頒發感謝狀或獎項並報請敘獎。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.hssh.tp.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mek0xTDNCMFlWODFPRGMzT0Y4NE1qSXlNamszWHpFd05UZzJMbkJrWmc9PQ==&fname=WSGGUWQKUS44A110EDLKSW24KK30OO35DGUWSS20A1IDCCFCSSECVTPOUSSSPKPO",
+        "quote": "各主題參賽團隊決審審查分數達90 分(含)以上者，頒發「金獎」、85 分(含) 以上者，頒發「銀獎」，80 分(含)以上者，頒發「銅獎」，並授予獎牌一只。"
+      },
+      {
+        "url": "https://www.hssh.tp.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mek0xTDNCMFlWODFPRGMzT0Y4NE1qSXlNamszWHpFd05UZzJMbkJrWmc9PQ==&fname=WSGGUWQKUS44A110EDLKSW24KK30OO35DGUWSS20A1IDCCFCSSECVTPOUSSSPKPO",
+        "quote": "分數排名前10% 頒發「優選獎」  分數排名前20% 頒發「佳作獎」  分數排名前40% 頒發「入選獎」  所有參賽團隊均頒發「參賽證明」"
+      },
+      {
+        "url": "https://www.hssh.tp.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mek0xTDNCMFlWODFPRGMzT0Y4NE1qSXlNamszWHpFd05UZzJMbkJrWmc9PQ==&fname=WSGGUWQKUS44A110EDLKSW24KK30OO35DGUWSS20A1IDCCFCSSECVTPOUSSSPKPO",
+        "quote": "指導教師除頒發感謝狀外，依據參賽學生獲獎積分，報請各校給予敘獎。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.hssh.tp.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mek0xTDNCMFlWODFPRGMzT0Y4NE1qSXlNamszWHpFd05UZzJMbkJrWmc9PQ==&fname=WSGGUWQKUS44A110EDLKSW24KK30OO35DGUWSS20A1IDCCFCSSECVTPOUSSSPKPO"
+      },
+      {
+        "url": "https://www.hssh.tp.edu.tw/p/405-1000-52706,c540.php"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://ibmi.pse.is/855xzm",
+    "rules": [
+      {
+        "title": "第六屆全國高中醫療科技創意競賽活動簡章（PDF）",
+        "url": "https://www.hssh.tp.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mek0xTDNCMFlWODFPRGMzT0Y4NE1qSXlNamszWHpFd05UZzJMbkJrWmc9PQ==&fname=WSGGUWQKUS44A110EDLKSW24KK30OO35DGUWSS20A1IDCCFCSSECVTPOUSSSPKPO"
+      }
+    ],
+    "registration": "https://ibmi.pse.is/9naf6d"
+  },
+  "found_via": [
+    {
+      "name": "ibmi.pse.is",
+      "url": "https://ibmi.pse.is/855xzm"
+    },
+    {
+      "name": "西松高中轉發公告",
+      "url": "https://www.hssh.tp.edu.tw/p/405-1000-52706,c540.php"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-21",
+    "method": "dual",
+    "unread": [
+      "授權同意書"
+    ],
+    "note": null,
+    "readers": [
+      "gemini-4-hydrogen-medium",
+      "gpt-6.1-sol"
+    ]
+  },
+  "first_seen": "2026-11-20",
+  "updated": "2026-11-20",
+  "conflict": "簡章本文（肆、一、(三)與肆、三、(三)）及西松高中公告皆載明資料繳交截止日為 12 月 24 日，惟簡章陸、競賽重要日程表列為 2026/12/25；本紀錄依簡章本文及公告採 2026-12-24。"
+}

@@ -1,0 +1,252 @@
+{
+  "schema": 1,
+  "id": "2027-moenv-efdesign",
+  "title": "2026-2027環境關懷友善設計競賽",
+  "edition": "2026-2027",
+  "summary": "具中華民國國籍者個人或組隊提交環境關懷友善設計看板，決審入圍者須製作模型與說明影片並現場簡報。",
+  "organizers": [
+    {
+      "name": "環境部",
+      "role": "主辦"
+    },
+    {
+      "name": "台灣設計跨界交流協會",
+      "role": "承辦"
+    }
+  ],
+  "categories": [
+    "設計",
+    "農業與環境"
+  ],
+  "eligibility": {
+    "levels": [
+      "國小",
+      "國中",
+      "高中",
+      "高職",
+      "五專",
+      "大專",
+      "社會人士"
+    ],
+    "division": "mixed",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": null,
+    "teacher": "optional",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://efdesign.tw/rules",
+        "quote": "凡具有中華民國國籍者，皆可以「個人」、「企業/公司」、「行政機關」或「團體組隊」（參賽者可跨隊）等方式報名參加。"
+      },
+      {
+        "url": "https://efdesign.tw/rules",
+        "quote": "本競賽分為「概念設計組」及「產品設計組」，詳細說明如下："
+      },
+      {
+        "url": "https://efdesign.tw/rules",
+        "quote": "報名截止後，將無法再修改「作品名稱」及「設計團隊成員」或「指導老師」資料，請妥為填寫"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "報名及參賽作品繳件截止日",
+      "date": "2027-01-15",
+      "time": "12:00",
+      "original": "116年1月15日（星期五）中午12時止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://efdesign.tw/rules",
+          "quote": "116年1月15日（星期五）中午12時止"
+        }
+      ]
+    },
+    {
+      "kind": "shortlist_announcement",
+      "label": "決審入圍名單公布",
+      "date": "2027-02-26",
+      "time": null,
+      "original": "116年2月26日（星期五）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://efdesign.tw/rules",
+          "quote": "116年2月26日（星期五）"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "環境設計大師班",
+      "date": "2027-03-06",
+      "time": null,
+      "original": "116年3月6日（星期六）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://efdesign.tw/rules",
+          "quote": "116年3月6日（星期六）"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "〈決審〉第一階段繳件截止",
+      "date": "2027-04-29",
+      "time": "12:00",
+      "original": "116年4月29日（星期四）中午12時止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://efdesign.tw/rules",
+          "quote": "116年4月29日（星期四）中午12時止"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "〈決審〉第二階段作品提報",
+      "date": "2027-05-08",
+      "time": null,
+      "original": "116年5月8日（星期六）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://efdesign.tw/rules",
+          "quote": "116年5月8日（星期六）"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "頒獎典禮暨產業媒合會（正式公布得獎作品）",
+      "date": "2027-06-18",
+      "time": null,
+      "original": "預計116年6月18日（星期五）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://efdesign.tw/rules",
+          "quote": "預計116年6月18日（星期五）"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "初審",
+      "what": "A2 橫式展示看板（至多 3 張，含設計圖面及設計說明；初審入圍者須繳交 300 dpi JPG 影像檔）",
+      "how": "online"
+    },
+    {
+      "stage": "決審第一階段",
+      "what": "A2 橫式展示看板 2 張（AI 檔及 300 dpi JPG/PNG 檔）、設計特點說明影片（MP4、90–150 秒、1080p 以上）及簡報",
+      "how": "online"
+    },
+    {
+      "stage": "決審第二階段",
+      "what": "500mm×500mm×500mm 範圍內實際比例模型/原型，及現場口頭簡報 7 分鐘（評審提問 6 分鐘）",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "finalists",
+    "where": null,
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://efdesign.tw/rules",
+        "quote": "決審入圍者各團隊必須出席環境設計大師班之輔導活動（至少一位出席），由業師提供設計精進之意見，未出席者視同放棄決賽資格。"
+      },
+      {
+        "url": "https://efdesign.tw/rules",
+        "quote": "入圍者須親赴決審評審會場說明設計概念，說明時間以７分鐘為限，評審另提問６分鐘。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://efdesign.tw/rules",
+        "quote": "免繳報名費。"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "概念設計組與產品設計組各設第1名1名獎金10萬元、第2名1名5萬元、第3名1名3萬元（皆附獎座/獎狀）；概念設計組另設佳作5名各1萬元及獎狀；另設「AI 運用」、「資源循環」與「氣候韌性或調適」等特別獎5名各2萬元及獎座/獎狀；入圍者提供入圍證書，決審每件補助模型製作等費用（概念設計組1萬元、產品設計組5,000元）。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://efdesign.tw/rules",
+        "quote": "「概念設計組」獎金第1名新臺幣10萬元、第2名5萬元、第3名3萬元、佳作5名各1萬元；「產品設計組」提供前3名同等獎金。"
+      },
+      {
+        "url": "https://efdesign.tw/rules",
+        "quote": "另為激發參賽者的創新動能，將增設「AI 運用」、「資源循環」與「氣候韌性或調適」等特別獎獎金各2萬元。"
+      },
+      {
+        "url": "https://efdesign.tw/rules",
+        "quote": "而概念設計組每件補助新臺幣1萬元、產品設計組每件補助新臺幣5,000元決賽參加之設計、海報、模型製作及減碳、減塑效益評估費用"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "allowed",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://efdesign.tw/rules",
+        "quote": "鼓勵參賽團隊可運用AI技術（例如生成式AI、機器學習、語音/影像/情緒識別、自然語言處理等技術），惟作品之核心創意、設計理念、整體規劃及最終成果仍應由參賽者自主完成"
+      },
+      {
+        "url": "https://efdesign.tw/rules",
+        "quote": "參賽者如有使用生成式AI工具，應於AI使用揭露申明書中揭露相關資訊，包括使用之AI工具名稱、使用目的、AI協助內容及人工創作內容。"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://efdesign.tw/",
+    "rules": [
+      {
+        "title": "競賽辦法",
+        "url": "https://efdesign.tw/rules"
+      },
+      {
+        "title": "2026-2027 環境關懷友善設計競賽簡章 (PDF)",
+        "url": "https://efdesign.tw/docs/2026-2027環境關懷友善設計競賽簡章.pdf"
+      }
+    ],
+    "registration": "https://efdesign.tw/submit"
+  },
+  "found_via": [
+    {
+      "name": "efdesign.tw",
+      "url": "https://efdesign.tw/rules"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-21",
+    "method": "single",
+    "unread": [
+      "2026-2027 環境關懷友善設計競賽 參賽簡章 (PDF)"
+    ],
+    "note": null,
+    "readers": [
+      "gemini-4-hydrogen-medium"
+    ]
+  },
+  "first_seen": "2026-11-20",
+  "updated": "2026-11-20",
+  "level": "checked",
+  "url": "https://workingyuanyuan.github.io/tw-hs-contests/contests/2027-moenv-efdesign/",
+  "markdown": "https://workingyuanyuan.github.io/tw-hs-contests/contests/2027-moenv-efdesign.md"
+}

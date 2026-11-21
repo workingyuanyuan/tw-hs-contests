@@ -1,0 +1,160 @@
+{
+  "schema": 1,
+  "id": "2027-popular-science-ai-poster",
+  "title": "2027 第二屆 全國傑出學生『科普 AI』壁報競賽",
+  "edition": "2027 第二屆",
+  "summary": "高中職至研究所 1 至 3 人組隊參加科普 AI 壁報競賽，依六大主題評選，通過初審者至臺師大參加決賽。",
+  "organizers": [
+    {
+      "name": "unknown",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "資訊與 AI",
+    "自然科學"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職",
+      "大專"
+    ],
+    "division": "mixed",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "unknown",
+    "team_min": 1,
+    "team_max": 3,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.tngs.tn.edu.tw/2026/11/17/2027-%e7%ac%ac%e4%ba%8c%e5%b1%86-%e5%85%a8%e5%9c%8b%e5%82%91%e5%87%ba%e5%ad%b8%e7%94%9f%e3%80%8e%e7%a7%91%e6%99%ae-ai%e3%80%8f%e5%a3%81%e5%a0%b1%e7%ab%b6%e8%b3%bd/",
+        "quote": "參賽對象：高中職、大專院校及研究所（含碩、博士生），男女皆可、可跨學制及跨校組隊，每隊 1 至 3 人"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/2026/11/17/2027-%e7%ac%ac%e4%ba%8c%e5%b1%86-%e5%85%a8%e5%9c%8b%e5%82%91%e5%87%ba%e5%ad%b8%e7%94%9f%e3%80%8e%e7%a7%91%e6%99%ae-ai%e3%80%8f%e5%a3%81%e5%a0%b1%e7%ab%b6%e8%b3%bd/",
+        "quote": "競賽六大主題：生技醫藥、智能生產、永續發展、金融科技、資安治理、運動科學（六大主題分別評選，各主題皆設有金、銀、銅牌及特優獎項與獎金）"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "報名截止",
+      "date": "2027-02-01",
+      "time": null,
+      "original": "2026 年 11 月 15 日 至 2027 年 2 月 1 日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/2026/11/17/2027-%e7%ac%ac%e4%ba%8c%e5%b1%86-%e5%85%a8%e5%9c%8b%e5%82%91%e5%87%ba%e5%ad%b8%e7%94%9f%e3%80%8e%e7%a7%91%e6%99%ae-ai%e3%80%8f%e5%a3%81%e5%a0%b1%e7%ab%b6%e8%b3%bd/",
+          "quote": "報名期間：2026 年 11 月 15 日 至 2027 年 2 月 1 日"
+        }
+      ]
+    },
+    {
+      "kind": "shortlist_announcement",
+      "label": "初審結果通知",
+      "date": null,
+      "time": null,
+      "original": "2027 年 2 月中旬前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/2026/11/17/2027-%e7%ac%ac%e4%ba%8c%e5%b1%86-%e5%85%a8%e5%9c%8b%e5%82%91%e5%87%ba%e5%ad%b8%e7%94%9f%e3%80%8e%e7%a7%91%e6%99%ae-ai%e3%80%8f%e5%a3%81%e5%a0%b1%e7%ab%b6%e8%b3%bd/",
+          "quote": "初審結果通知：2027 年 2 月中旬前"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "決賽",
+      "date": "2027-04-17",
+      "time": "08:00",
+      "original": "2027 年 4 月 17 日（週六）08:00 – 17:00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/2026/11/17/2027-%e7%ac%ac%e4%ba%8c%e5%b1%86-%e5%85%a8%e5%9c%8b%e5%82%91%e5%87%ba%e5%ad%b8%e7%94%9f%e3%80%8e%e7%a7%91%e6%99%ae-ai%e3%80%8f%e5%a3%81%e5%a0%b1%e7%ab%b6%e8%b3%bd/",
+          "quote": "決賽時間：2027 年 4 月 17 日（週六）08:00 – 17:00"
+        }
+      ]
+    }
+  ],
+  "deliverables": [],
+  "attendance": {
+    "value": "finalists",
+    "where": "國立臺灣師範大學和平校區II 綜合大樓2樓綜210展覽廳及綜202演講廳（台北市大安區和平東路一段129號）",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.tngs.tn.edu.tw/2026/11/17/2027-%e7%ac%ac%e4%ba%8c%e5%b1%86-%e5%85%a8%e5%9c%8b%e5%82%91%e5%87%ba%e5%ad%b8%e7%94%9f%e3%80%8e%e7%a7%91%e6%99%ae-ai%e3%80%8f%e5%a3%81%e5%a0%b1%e7%ab%b6%e8%b3%bd/",
+        "quote": "決賽時間：2027 年 4 月 17 日（週六）08:00 – 17:00"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/2026/11/17/2027-%e7%ac%ac%e4%ba%8c%e5%b1%86-%e5%85%a8%e5%9c%8b%e5%82%91%e5%87%ba%e5%ad%b8%e7%94%9f%e3%80%8e%e7%a7%91%e6%99%ae-ai%e3%80%8f%e5%a3%81%e5%a0%b1%e7%ab%b6%e8%b3%bd/",
+        "quote": "決賽地點：國立臺灣師範大學和平校區II 綜合大樓2樓綜210展覽廳及綜202演講廳（台北市大安區和平東路一段129號）"
+      }
+    ]
+  },
+  "fee": {
+    "value": "unknown",
+    "amount": null,
+    "basis": "unread",
+    "evidence": []
+  },
+  "prizes": {
+    "text": "六大主題分別評選，各主題皆設有金、銀、銅牌及特優獎項與獎金（金額未載）。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.tngs.tn.edu.tw/2026/11/17/2027-%e7%ac%ac%e4%ba%8c%e5%b1%86-%e5%85%a8%e5%9c%8b%e5%82%91%e5%87%ba%e5%ad%b8%e7%94%9f%e3%80%8e%e7%a7%91%e6%99%ae-ai%e3%80%8f%e5%a3%81%e5%a0%b1%e7%ab%b6%e8%b3%bd/",
+        "quote": "競賽六大主題：生技醫藥、智能生產、永續發展、金融科技、資安治理、運動科學（六大主題分別評選，各主題皆設有金、銀、銅牌及特優獎項與獎金）"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "unknown",
+    "basis": "unread",
+    "evidence": []
+  },
+  "links": {
+    "official": null,
+    "rules": [
+      {
+        "title": "競賽重要資訊（臺南女中公告）",
+        "url": "https://www.tngs.tn.edu.tw/2026/11/17/2027-%e7%ac%ac%e4%ba%8c%e5%b1%86-%e5%85%a8%e5%9c%8b%e5%82%91%e5%87%ba%e5%ad%b8%e7%94%9f%e3%80%8e%e7%a7%91%e6%99%ae-ai%e3%80%8f%e5%a3%81%e5%a0%b1%e7%ab%b6%e8%b3%bd/"
+      }
+    ],
+    "registration": null
+  },
+  "found_via": [
+    {
+      "name": "臺南女中轉發公告",
+      "url": "https://www.tngs.tn.edu.tw/2026/11/17/2027-%e7%ac%ac%e4%ba%8c%e5%b1%86-%e5%85%a8%e5%9c%8b%e5%82%91%e5%87%ba%e5%ad%b8%e7%94%9f%e3%80%8e%e7%a7%91%e6%99%ae-ai%e3%80%8f%e5%a3%81%e5%a0%b1%e7%ab%b6%e8%b3%bd/"
+    },
+    {
+      "name": "臺南女中轉發公告",
+      "url": "https://www.tngs.tn.edu.tw/2026/11/17/2027-%e7%ac%ac%e4%ba%8c%e5%b1%86-%e5%85%a8%e5%9c%8b%e5%82%91%e5%87%ba%e5%ad%b8%e7%94%9f%e3%80%8e%e7%a7%91%e6%99%ae-ai%e3%80%8f%e5%a3%81%e5%a0%b1%e7%ab%b6%e8%b3%bd/"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-21",
+    "method": "single",
+    "unread": [
+      "競賽簡章（本則學校公告僅含摘要資訊，未附簡章連結）"
+    ],
+    "note": null,
+    "readers": [
+      "gemini-4-hydrogen-medium"
+    ]
+  },
+  "first_seen": "2026-11-20",
+  "updated": "2026-11-21",
+  "level": "checked",
+  "url": "https://workingyuanyuan.github.io/tw-hs-contests/contests/2027-popular-science-ai-poster/",
+  "markdown": "https://workingyuanyuan.github.io/tw-hs-contests/contests/2027-popular-science-ai-poster.md"
+}

@@ -1,0 +1,289 @@
+{
+  "schema": 1,
+  "id": "2027-topkey-youth-forum",
+  "title": "拓凱新世紀青少年高峰論壇",
+  "edition": "115 學年度",
+  "summary": "3 至 6 名高中職或五專前三年學生組隊，就家鄉公共議題撰寫小論文格式計畫書並提出行動方案，入圍 12 隊赴明道中學進行論壇發表。",
+  "organizers": [
+    {
+      "name": "教育部青年發展署",
+      "role": "指導"
+    },
+    {
+      "name": "拓凱教育基金會",
+      "role": "主辦"
+    },
+    {
+      "name": "明道中學",
+      "role": "主辦"
+    },
+    {
+      "name": "明道中學家長會",
+      "role": "主辦"
+    },
+    {
+      "name": "國立公共資訊圖書館",
+      "role": "協辦"
+    },
+    {
+      "name": "明道文教基金會",
+      "role": "協辦"
+    }
+  ],
+  "categories": [
+    "社會人文",
+    "創業與企劃"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職",
+      "五專"
+    ],
+    "division": "hs_only",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 3,
+    "team_max": 6,
+    "teacher": "required",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://sites.google.com/ms.mingdao.edu.tw/mdhs-youthforum/活動簡章",
+        "quote": "一、參加資格：海內外高中、技術高中、五專（專一至專三）及同等學制的學生。"
+      },
+      {
+        "url": "https://sites.google.com/ms.mingdao.edu.tw/mdhs-youthforum/活動簡章",
+        "quote": "1.具領導知能、關心公共議題，有策略及行動力的高中職學生，可跨校組隊。"
+      },
+      {
+        "url": "https://sites.google.com/ms.mingdao.edu.tw/mdhs-youthforum/活動簡章",
+        "quote": "2.每隊隊員：3～6 人。"
+      },
+      {
+        "url": "https://sites.google.com/ms.mingdao.edu.tw/mdhs-youthforum/活動簡章",
+        "quote": "3.領隊老師：每隊 1 名。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "線上報名截止",
+      "date": "2027-01-24",
+      "time": "23:59",
+      "original": "即日起～2027.01.24(日)23:59截止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://sites.google.com/ms.mingdao.edu.tw/mdhs-youthforum/活動簡章",
+          "quote": "一、報名時間：即日起～2027.01.24(日)23:59截止(先報名，再送計畫書)"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "計畫書上傳截止",
+      "date": "2027-03-14",
+      "time": "23:59",
+      "original": "即日起～2027.03.14(日)23:59截止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://sites.google.com/ms.mingdao.edu.tw/mdhs-youthforum/活動簡章",
+          "quote": "二、計畫書上傳：即日起～2027.03.14(日)23:59截止"
+        }
+      ]
+    },
+    {
+      "kind": "shortlist_announcement",
+      "label": "入圍公告",
+      "date": "2027-04-09",
+      "time": null,
+      "original": "2027.04.09(五)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://sites.google.com/ms.mingdao.edu.tw/mdhs-youthforum/活動簡章",
+          "quote": "三、入圍公告：2027.04.09(五)"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "決賽隊伍簡報上傳截止",
+      "date": "2027-05-09",
+      "time": "23:59",
+      "original": "2027.04.09(五)～ 05.9(日)23:59止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://sites.google.com/ms.mingdao.edu.tw/mdhs-youthforum/活動簡章",
+          "quote": "四、決賽隊伍簡報上傳時間：2027.04.09(五)～ 05.9(日)23:59止"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "隊伍初步交流",
+      "date": "2027-05-21",
+      "time": null,
+      "original": "2027/5/10(一)～2027/5/21(五)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/11/來文附件_1151200531_2_115學年拓凱新世紀青少年高峰論壇活動企劃書20261027修正版.pdf",
+          "quote": "隊伍初步交流 2027/5/10(一)～2027/5/21(五)"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "論壇時間",
+      "date": "2027-05-23",
+      "time": null,
+      "original": "2027.05.22(六)～05.23(日)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://sites.google.com/ms.mingdao.edu.tw/mdhs-youthforum/活動簡章",
+          "quote": "五、論壇時間：2027.05.22(六)～05.23(日)"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "決賽修正後計畫書及影片上傳截止",
+      "date": "2027-06-06",
+      "time": null,
+      "original": "2027/6/6前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://sites.google.com/ms.mingdao.edu.tw/mdhs-youthforum/活動簡章",
+          "quote": "所有決賽隊伍依論壇期間所收集之建議進行修正後於兩週內（2027/6/6前）上傳新版計畫書，及 3～5 分鐘影片"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "第一階段（初審）",
+      "what": "仿小論文格式計畫書（含前言、正文、行動方案及可選之目前成果，不限頁數）",
+      "how": "online"
+    },
+    {
+      "stage": "第二階段（決賽前）",
+      "what": "報告簡報與最終企畫書",
+      "how": "online"
+    },
+    {
+      "stage": "第四階段（論壇現場）",
+      "what": "研究發表（每隊報告 10 分鐘、接受回饋 6 分鐘）與結論報告（每隊 4 分鐘）",
+      "how": "onsite"
+    },
+    {
+      "stage": "論壇後（圓夢獎金評選）",
+      "what": "修正後新版計畫書及 3～5 分鐘計畫介紹與執行方案影片",
+      "how": "online"
+    }
+  ],
+  "attendance": {
+    "value": "finalists",
+    "where": "明道高級中學（臺中市烏日區中山路一段497號）",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://sites.google.com/ms.mingdao.edu.tw/mdhs-youthforum/活動簡章",
+        "quote": "一、初審：聘請專家學者擔任初審委員，通過初審者（以 12隊為原則，同校隊伍入圍不超過兩隊）方可取得參與論壇資格。"
+      },
+      {
+        "url": "https://sites.google.com/ms.mingdao.edu.tw/mdhs-youthforum/活動簡章",
+        "quote": "明道高級中學(台中市烏日區中山路一段497號)。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://sites.google.com/ms.mingdao.edu.tw/mdhs-youthforum/活動簡章",
+        "quote": "全免費。報到後至活動結束前之交通、餐點費用由主辦單位負責，隊伍統一由主辦單位安排住宿，並給予往返交通補助"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "特別獎依參與隊伍特色及表現頒發獎狀；團體獎原則取 5 組計畫具可行性之隊伍，分別頒給 5 萬元圓夢獎金。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://sites.google.com/ms.mingdao.edu.tw/mdhs-youthforum/活動簡章",
+        "quote": "一、特別獎：依據參與隊伍特色及表現頒發獎狀。"
+      },
+      {
+        "url": "https://sites.google.com/ms.mingdao.edu.tw/mdhs-youthforum/活動簡章",
+        "quote": "二、團體獎：原則以取五組計畫具可行性之隊伍分別頒給五萬元圓夢獎金。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://sites.google.com/ms.mingdao.edu.tw/mdhs-youthforum/活動簡章"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/11/來文附件_1151200531_2_115學年拓凱新世紀青少年高峰論壇活動企劃書20261027修正版.pdf"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://sites.google.com/ms.mingdao.edu.tw/mdhs-youthforum/",
+    "rules": [
+      {
+        "title": "活動簡章網頁",
+        "url": "https://sites.google.com/ms.mingdao.edu.tw/mdhs-youthforum/活動簡章"
+      },
+      {
+        "title": "115學年拓凱新世紀青少年高峰論壇活動企劃書20261027修正版",
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/11/來文附件_1151200531_2_115學年拓凱新世紀青少年高峰論壇活動企劃書20261027修正版.pdf"
+      },
+      {
+        "title": "活動簡章（Google Drive）",
+        "url": "https://drive.google.com/file/d/1KQAVB4XBOkubURHWQpkxPp9PyKb0L9LI/view?usp=sharing"
+      }
+    ],
+    "registration": "https://forms.gle/tYehWdipgTmGSBuu7"
+  },
+  "found_via": [
+    {
+      "name": "拓凱新世紀青少年高峰論壇官方網站",
+      "url": "https://sites.google.com/ms.mingdao.edu.tw/mdhs-youthforum/"
+    },
+    {
+      "name": "臺南女中轉知公告（含企劃書簡章 PDF）",
+      "url": "https://www.tngs.tn.edu.tw/2026/11/12/%e3%80%90%e8%bd%89%e7%9f%a5%e3%80%91%e6%8b%93%e5%87%b1%e6%96%b0%e4%b8%96%e7%b4%80%e9%9d%92%e5%b0%91%e5%b9%b4%e9%ab%98%e5%b3%b0%e8%ab%96%e5%a3%87/"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-21",
+    "method": "single",
+    "unread": [
+      "權利通知書"
+    ],
+    "note": null,
+    "readers": [
+      "gemini-4-hydrogen-medium"
+    ]
+  },
+  "first_seen": "2026-11-20",
+  "updated": "2026-11-20",
+  "level": "checked",
+  "url": "https://workingyuanyuan.github.io/tw-hs-contests/contests/2027-topkey-youth-forum/",
+  "markdown": "https://workingyuanyuan.github.io/tw-hs-contests/contests/2027-topkey-youth-forum.md"
+}

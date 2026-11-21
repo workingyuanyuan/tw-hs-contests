@@ -1,0 +1,108 @@
+{
+  "schema": 1,
+  "id": "2026-nkust-ship-model",
+  "title": "2026學生船模創客大賽",
+  "edition": "2026",
+  "summary": "學生以自製船模參加直線競速組或船模製作組比賽，於高雄科技大學楠梓校區舉行。",
+  "organizers": [
+    {
+      "name": "國立高雄科技大學事學院造船及海洋工程系",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "工程與製造",
+    "技藝與技能"
+  ],
+  "eligibility": {
+    "levels": [],
+    "division": "unknown",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "unknown",
+    "team_min": null,
+    "team_max": null,
+    "teacher": "unknown",
+    "basis": "unread",
+    "evidence": []
+  },
+  "dates": [
+    {
+      "kind": "final_event",
+      "label": "比賽時間",
+      "date": "2026-12-05",
+      "time": null,
+      "original": "115年12月5日(星期六)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.ksvs.kh.edu.tw/v4/cpsub/article.php?id=12665",
+          "quote": "三、比賽時間：115年12月5日(星期六)"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "比賽",
+      "what": "自製船模（直線競速組或船模製作組）",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "國立高雄科技大學楠梓校區弘德樓造船系館（高雄市楠梓區海專路142號）",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.ksvs.kh.edu.tw/v4/cpsub/article.php?id=12665",
+        "quote": "四、比賽地點：本校楠梓校區弘德樓造船系館。"
+      },
+      {
+        "url": "https://www.ksvs.kh.edu.tw/v4/cpsub/article.php?id=12665",
+        "quote": "六、楠梓校區地址：高雄市楠梓區海專路142號。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "unknown",
+    "amount": null,
+    "basis": "unread",
+    "evidence": []
+  },
+  "prizes": {
+    "text": null,
+    "basis": "unread",
+    "evidence": []
+  },
+  "ai_policy": {
+    "value": "unknown",
+    "basis": "unread",
+    "evidence": []
+  },
+  "links": {
+    "official": "https://schs.nkust.edu.tw/",
+    "rules": [],
+    "registration": null
+  },
+  "found_via": [
+    {
+      "name": "www.ksvs.kh.edu.tw",
+      "url": "https://www.ksvs.kh.edu.tw/v4/cpsub/article.php?id=12665"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-21",
+    "method": "single",
+    "unread": [
+      "活動網站（https://schs.nkust.edu.tw/）之比賽相關辦法及報名資訊"
+    ],
+    "note": null,
+    "readers": [
+      "gemini-4-hydrogen-medium"
+    ]
+  },
+  "first_seen": "2026-11-20",
+  "updated": "2026-11-20"
+}

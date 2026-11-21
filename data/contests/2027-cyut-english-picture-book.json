@@ -1,0 +1,172 @@
+{
+  "schema": 1,
+  "id": "2027-cyut-english-picture-book",
+  "title": "第6屆全國高中職暨大專校院英語繪本創意教學競賽",
+  "edition": "第 6 屆",
+  "summary": "1 至 6 名同校高中職或大專學生選擇市面英語繪本，錄製 5 至 15 分鐘全英文創意教學影片並上傳雲端硬碟報名評選。",
+  "organizers": [
+    {
+      "name": "朝陽科技大學應用英語系",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "外語",
+    "影音"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職",
+      "五專",
+      "大專"
+    ],
+    "division": "separate",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": 6,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://aecyut.cyut.edu.tw/var/file/39/1039/img/455/779609907.pdf",
+        "quote": "資格：中華民國各大專院校在校學生(含五年制專科學校四年級以上)以及高中、高職在校學生。"
+      },
+      {
+        "url": "https://aecyut.cyut.edu.tw/var/file/39/1039/img/455/779609907.pdf",
+        "quote": "同一學校學生以1-6人為一組報名(1人可扮演多角)，每位學生僅能選擇同校其中一組報名，不得跨組參賽。"
+      },
+      {
+        "url": "https://aecyut.cyut.edu.tw/var/file/39/1039/img/455/779609907.pdf",
+        "quote": "大專院校和高中職組各別錄取團體獎三名，唯主辦單位可視實際參賽隊伍，增刪優勝隊伍數。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "報名及作品繳交截止",
+      "date": "2027-01-15",
+      "time": "12:00",
+      "original": "民國116年1月15日(星期五)中午12:00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://aecyut.cyut.edu.tw/var/file/39/1039/img/455/779609907.pdf",
+          "quote": "即日起至民國116年1月15日(星期五)中午12:00為止，請線上填寫報名表（需附參賽作品網址連結），網址https://forms.gle/JqW5HezpoQHXco628"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名及投稿",
+      "what": "5 至 15 分鐘全英文繪本創意教學影片（上傳至個人雲端硬碟並於線上報名表填寫作品網址連結）",
+      "how": "online"
+    }
+  ],
+  "attendance": {
+    "value": "none",
+    "where": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://aecyut.cyut.edu.tw/var/file/39/1039/img/455/779609907.pdf"
+      },
+      {
+        "url": "https://aecyut.cyut.edu.tw/p/406-1039-66699,r106.php?Lang=zh-tw"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://aecyut.cyut.edu.tw/var/file/39/1039/img/455/779609907.pdf"
+      },
+      {
+        "url": "https://aecyut.cyut.edu.tw/p/406-1039-66699,r106.php?Lang=zh-tw"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "大專院校組與高中職組各別錄取團體獎三名：第一名禮券 3,000 元及獎狀乙紙、第二名禮券 2,000 元及獎狀乙紙、第三名禮券 1,000 元及獎狀乙紙、佳作獎狀乙紙。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://aecyut.cyut.edu.tw/var/file/39/1039/img/455/779609907.pdf",
+        "quote": "九、 獎勵辦法：大專院校和高中職組各別錄取團體獎三名。"
+      },
+      {
+        "url": "https://aecyut.cyut.edu.tw/var/file/39/1039/img/455/779609907.pdf",
+        "quote": "(一) 第一名：頒發禮券3000元及獎狀乙紙"
+      },
+      {
+        "url": "https://aecyut.cyut.edu.tw/var/file/39/1039/img/455/779609907.pdf",
+        "quote": "(二) 第二名：頒發禮券2000元及獎狀乙紙"
+      },
+      {
+        "url": "https://aecyut.cyut.edu.tw/var/file/39/1039/img/455/779609907.pdf",
+        "quote": "(三) 第三名：頒發禮券1000元及獎狀乙紙"
+      },
+      {
+        "url": "https://aecyut.cyut.edu.tw/var/file/39/1039/img/455/779609907.pdf",
+        "quote": "(四) 佳作：頒發獎狀乙紙"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "banned",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://aecyut.cyut.edu.tw/var/file/39/1039/img/455/779609907.pdf",
+        "quote": "影片中的教學者需以參賽人員為主，不得以A I 生成替代，另，請勿使用文字轉語音或AI 語音生成的功能來錄製影片。"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://aecyut.cyut.edu.tw/p/406-1039-66699,r106.php?Lang=zh-tw",
+    "rules": [
+      {
+        "title": "第6屆全國高中職暨大專校院英語繪本創意教學競賽辦法",
+        "url": "https://aecyut.cyut.edu.tw/var/file/39/1039/img/455/779609907.pdf"
+      }
+    ],
+    "registration": "https://forms.gle/JqW5HezpoQHXco628"
+  },
+  "found_via": [
+    {
+      "name": "Google 表單線上報名",
+      "url": "https://forms.gle/JqW5HezpoQHXco628"
+    },
+    {
+      "name": "朝陽科大應英系官網",
+      "url": "http://aecyut.cyut.edu.tw/"
+    },
+    {
+      "name": "活動報名表單",
+      "url": "https://forms.gle/JqW5HezpoQHXco628"
+    },
+    {
+      "name": "彰化高中轉發公告",
+      "url": "https://www.chsh.chc.edu.tw/p/406-1009-195904,r70.php?Lang=zh-tw"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-21",
+    "method": "single",
+    "unread": [],
+    "note": null,
+    "readers": [
+      "gemini-4-hydrogen-medium"
+    ]
+  },
+  "first_seen": "2026-11-20",
+  "updated": "2026-11-20"
+}

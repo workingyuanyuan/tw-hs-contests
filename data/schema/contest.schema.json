@@ -1,0 +1,598 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "contest.schema.json",
+  "title": "One edition of one contest",
+  "description": "Facts only. No suitability judgment. All dates and times are Asia/Taipei. A value that the documents do not support is null or 'unknown', never a guess.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema",
+    "id",
+    "title",
+    "edition",
+    "summary",
+    "organizers",
+    "categories",
+    "eligibility",
+    "dates",
+    "deliverables",
+    "attendance",
+    "fee",
+    "prizes",
+    "ai_policy",
+    "links",
+    "found_via",
+    "verification",
+    "first_seen",
+    "updated"
+  ],
+  "properties": {
+    "schema": {
+      "const": 1
+    },
+    "id": {
+      "type": "string",
+      "pattern": "^\\d{4}-[a-z0-9]+(-[a-z0-9]+)*$",
+      "description": "Year of the edition, then a short ASCII key. Assigned once, never changed. Equals the file name without .json."
+    },
+    "title": {
+      "type": "string",
+      "minLength": 2,
+      "description": "Official name as the organizer writes it, without the organizer's name in front."
+    },
+    "edition": {
+      "type": "string",
+      "minLength": 2,
+      "description": "Which edition: '2026', '115 學年度', '第 27 屆'."
+    },
+    "summary": {
+      "type": "string",
+      "minLength": 8,
+      "maxLength": 70,
+      "description": "One sentence: who does what and hands in what."
+    },
+    "organizers": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "name",
+          "role"
+        ],
+        "properties": {
+          "name": {
+            "type": "string"
+          },
+          "role": {
+            "enum": [
+              "主辦",
+              "承辦",
+              "協辦",
+              "指導"
+            ]
+          }
+        }
+      }
+    },
+    "categories": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "enum": [
+          "資訊與 AI",
+          "自然科學",
+          "數學",
+          "語文與寫作",
+          "外語",
+          "社會人文",
+          "商管與行銷",
+          "創業與企劃",
+          "設計",
+          "美術",
+          "影音",
+          "音樂",
+          "表演藝術",
+          "體育",
+          "技藝與技能",
+          "餐旅",
+          "工程與製造",
+          "農業與環境",
+          "醫護與照顧",
+          "其他"
+        ]
+      }
+    },
+    "eligibility": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "levels",
+        "division",
+        "regions",
+        "nomination",
+        "team_min",
+        "team_max",
+        "teacher",
+        "basis",
+        "evidence"
+      ],
+      "properties": {
+        "levels": {
+          "type": "array",
+          "items": {
+            "enum": [
+              "國小",
+              "國中",
+              "高中",
+              "高職",
+              "五專",
+              "大專",
+              "社會人士"
+            ]
+          },
+          "description": "Everyone who may enter, not only senior-high students."
+        },
+        "division": {
+          "enum": [
+            "hs_only",
+            "separate",
+            "mixed",
+            "unknown"
+          ],
+          "description": "hs_only: only senior-high and vocational students. separate: a division of their own. mixed: judged together with older entrants."
+        },
+        "regions": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "['全國'] or the counties, cities or schools the contest is limited to."
+        },
+        "nomination": {
+          "enum": [
+            "none",
+            "school",
+            "unknown"
+          ],
+          "description": "school: entry needs selection or nomination by the school."
+        },
+        "team_min": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "team_max": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "teacher": {
+          "enum": [
+            "required",
+            "optional",
+            "none",
+            "unknown"
+          ]
+        },
+        "basis": {
+          "$ref": "#/$defs/basis"
+        },
+        "evidence": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/evidence"
+          }
+        }
+      }
+    },
+    "dates": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "kind",
+          "label",
+          "date",
+          "time",
+          "original",
+          "basis",
+          "evidence"
+        ],
+        "properties": {
+          "kind": {
+            "enum": [
+              "registration_deadline",
+              "submission_deadline",
+              "shortlist_announcement",
+              "final_event",
+              "result_announcement",
+              "other"
+            ]
+          },
+          "label": {
+            "type": "string"
+          },
+          "date": {
+            "anyOf": [
+              {
+                "type": "string",
+                "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "time": {
+            "anyOf": [
+              {
+                "type": "string",
+                "pattern": "^\\d{2}:\\d{2}$"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "description": "null when the document gives no time."
+          },
+          "original": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "basis": {
+            "$ref": "#/$defs/basis"
+          },
+          "evidence": {
+            "type": "array",
+            "items": {
+              "$ref": "#/$defs/evidence"
+            }
+          }
+        }
+      }
+    },
+    "deliverables": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "stage",
+          "what",
+          "how"
+        ],
+        "properties": {
+          "stage": {
+            "type": "string"
+          },
+          "what": {
+            "type": "string"
+          },
+          "how": {
+            "enum": [
+              "online",
+              "mail",
+              "onsite",
+              "unknown"
+            ]
+          }
+        }
+      }
+    },
+    "attendance": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "value",
+        "where",
+        "basis",
+        "evidence"
+      ],
+      "properties": {
+        "value": {
+          "enum": [
+            "none",
+            "finalists",
+            "all",
+            "unknown"
+          ]
+        },
+        "where": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "basis": {
+          "$ref": "#/$defs/basis"
+        },
+        "evidence": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/evidence"
+          }
+        }
+      }
+    },
+    "fee": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "value",
+        "amount",
+        "basis",
+        "evidence"
+      ],
+      "properties": {
+        "value": {
+          "enum": [
+            "none",
+            "required",
+            "deposit",
+            "unknown"
+          ],
+          "description": "deposit: money that is returned, for example a deposit given back on the day."
+        },
+        "amount": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "basis": {
+          "$ref": "#/$defs/basis"
+        },
+        "evidence": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/evidence"
+          }
+        }
+      }
+    },
+    "prizes": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "text",
+        "basis",
+        "evidence"
+      ],
+      "properties": {
+        "text": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "basis": {
+          "$ref": "#/$defs/basis"
+        },
+        "evidence": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/evidence"
+          }
+        }
+      }
+    },
+    "ai_policy": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "value",
+        "basis",
+        "evidence"
+      ],
+      "properties": {
+        "value": {
+          "enum": [
+            "required",
+            "allowed",
+            "restricted",
+            "banned",
+            "not_mentioned",
+            "unknown"
+          ]
+        },
+        "basis": {
+          "$ref": "#/$defs/basis"
+        },
+        "evidence": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/evidence"
+          }
+        }
+      }
+    },
+    "links": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "official",
+        "rules",
+        "registration"
+      ],
+      "properties": {
+        "official": {
+          "anyOf": [
+            {
+              "type": "string",
+              "pattern": "^https?://"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "rules": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/link"
+          }
+        },
+        "registration": {
+          "anyOf": [
+            {
+              "type": "string",
+              "pattern": "^https?://"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        }
+      }
+    },
+    "found_via": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "name",
+          "url"
+        ],
+        "properties": {
+          "name": {
+            "type": "string"
+          },
+          "url": {
+            "anyOf": [
+              {
+                "type": "string",
+                "pattern": "^https?://"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "cancelled": {
+      "type": "boolean"
+    },
+    "verification": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "last_verified",
+        "method",
+        "unread",
+        "note"
+      ],
+      "properties": {
+        "last_verified": {
+          "anyOf": [
+            {
+              "type": "string",
+              "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "method": {
+          "enum": [
+            "dual",
+            "single",
+            "disputed",
+            "migrated"
+          ],
+          "description": "dual: two independent readings agreed on the key facts. single: one reading passed the checks. disputed: two readings disagreed on a key fact; the note says which. migrated: copied from an old report, not read again."
+        },
+        "unread": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "Documents the rules refer to that were not read."
+        },
+        "note": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "readers": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "The models that read the documents, the one whose reading this record holds first."
+        }
+      }
+    },
+    "first_seen": {
+      "type": "string",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+    },
+    "updated": {
+      "type": "string",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+    },
+    "conflict": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Where the organizer's own documents contradict each other, in one or two sentences, and which one this record follows."
+    }
+  },
+  "$defs": {
+    "basis": {
+      "enum": [
+        "quote",
+        "absent",
+        "unread"
+      ],
+      "description": "quote: the evidence quotes support the value. absent: the documents listed as evidence were read in full and say nothing on this. unread: no document was read; the value must be unknown or null."
+    },
+    "evidence": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "url"
+      ],
+      "properties": {
+        "url": {
+          "type": "string",
+          "pattern": "^https?://"
+        },
+        "quote": {
+          "type": "string",
+          "minLength": 4,
+          "description": "Copied from the document without changes. The check script looks for it in the cached text, ignoring whitespace."
+        }
+      }
+    },
+    "link": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "title",
+        "url"
+      ],
+      "properties": {
+        "title": {
+          "type": "string"
+        },
+        "url": {
+          "type": "string",
+          "pattern": "^https?://"
+        }
+      }
+    }
+  }
+}

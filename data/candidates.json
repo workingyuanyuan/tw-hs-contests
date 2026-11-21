@@ -1,0 +1,2251 @@
+[
+ {
+  "key": "c0001",
+  "title": "龍華科技大學「2050 永續生活願景短影音行銷競賽」",
+  "deadline": "2026-11-27",
+  "urls": [
+   {
+    "url": "https://mindnodeai.github.io/2025_K30DMCCVideoCompetition",
+    "role": "rules",
+    "name": "競賽官網"
+   },
+   {
+    "url": "https://mindnodeai.github.io/2025_K30DMCCVideoCompetition",
+    "role": "announcement",
+    "name": "競賽官網"
+   }
+  ],
+  "seen_in": "S／A 級明細",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-lhu-2050-short-video",
+  "note": "single"
+ },
+ {
+  "key": "c0002",
+  "title": "新北市政府農業局「為地球種下一棵樹」115年植樹微電影競賽",
+  "deadline": "2026-11-30",
+  "urls": [
+   {
+    "url": "https://bhuntr.com/tw/competitions/vu2qznslq6m4yfww32",
+    "role": "rules",
+    "name": "獎金獵人刊登頁（含完整辦法）"
+   }
+  ],
+  "seen_in": "S／A 級明細",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "given_up",
+  "attempts": 2,
+  "record": null,
+  "note": "gemini-4-hydrogen-medium: none (no document could be fetched: https://bhuntr.com/tw/competit); gpt-6.1-sol: none (no document could be fetched: https://bhuntr.com/tw/competit)"
+ },
+ {
+  "key": "c0003",
+  "title": "佛光大學 2026「三好AI創新應用競賽」",
+  "deadline": "2026-11-30",
+  "urls": [
+   {
+    "url": "https://3goodai.fgu.edu.tw/",
+    "role": "rules",
+    "name": "競賽官網"
+   },
+   {
+    "url": "https://www.taivs.tp.edu.tw/content?a=T0RESVRtcG5OVTVFWjNwT2FrVTkzVkVSUEJ6YTY1RWUwc0dWaW50ZWx5",
+    "role": "announcement",
+    "name": "大安高工 競賽資訊 RSS"
+   }
+  ],
+  "seen_in": "S／A 級明細",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-fgu-3goodai",
+  "note": "single"
+ },
+ {
+  "key": "c0004",
+  "title": "教育部 AI CUP 2026 秋季賽：結合少樣本學習、資料生成與多模態視覺語言模型（VLM）之太陽能板瑕疵檢測與根因分析比賽",
+  "deadline": "2026-11-30",
+  "urls": [
+   {
+    "url": "https://www.aidea-web.tw/topic/3c8ec48b-0dff-4b14-9b5e-d91bbb98c699",
+    "role": "rules",
+    "name": "AIdea 議題頁"
+   },
+   {
+    "url": "https://www.aicup.tw/ai-cup-2026-competition",
+    "role": "announcement",
+    "name": "AI CUP 2026 競賽頁"
+   }
+  ],
+  "seen_in": "S／A 級明細",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-aicup-solar-defect",
+  "note": "single"
+ },
+ {
+  "key": "c0005",
+  "title": "健行科技大學商管學院等「2026 全國新零售競賽」",
+  "deadline": "2026-12-25",
+  "urls": [
+   {
+    "url": "https://drive.google.com/file/d/1ZTZ0tKwAy-dipVeFrJzv0gY-Kurdb-Tl/view",
+    "role": "rules",
+    "name": "官方簡章 PDF（Google Drive）"
+   },
+   {
+    "url": "https://bhuntr.com/tw/competitions/widw7q1v1uftpzb4va",
+    "role": "rules",
+    "name": "獎金獵人刊登頁"
+   },
+   {
+    "url": "https://forms.gle/vwpv3CQ1kPziU5SS9",
+    "role": "registration",
+    "name": ""
+   },
+   {
+    "url": "https://forms.gle/ktGKEhVE37gxqu8x8",
+    "role": "registration",
+    "name": ""
+   }
+  ],
+  "seen_in": "S／A 級明細",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-uch-new-retail",
+  "note": "single"
+ },
+ {
+  "key": "c0006",
+  "title": "政大數位傳播文化行動實驗室＆中華白絲帶關懷協會「2026 韌性不 NG｜迷因梗圖徵件」",
+  "deadline": "2027-01-05",
+  "urls": [
+   {
+    "url": "https://www.cyberangel.org.tw/tw/hot-activities/2026-meme-pics-contest",
+    "role": "rules",
+    "name": "官網活動頁"
+   },
+   {
+    "url": "https://www.cyberangel.org.tw/tw/hot-activities/2026-meme-pics-contest",
+    "role": "registration",
+    "name": "官網活動頁下方表單"
+   }
+  ],
+  "seen_in": "S／A 級明細",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2027-cyberangel-meme-pics",
+  "note": "single"
+ },
+ {
+  "key": "c0007",
+  "title": "台灣電力公司「瓩設計獎 kW Design Award─第27屆創意競賽」",
+  "deadline": "2027-02-25",
+  "urls": [
+   {
+    "url": "https://bhuntr.com/tw/competitions/1u323zekffo9uqb967",
+    "role": "rules",
+    "name": "競賽平台頁"
+   },
+   {
+    "url": "https://kwd.tw/",
+    "role": "registration",
+    "name": "競賽官網 kwd.tw"
+   }
+  ],
+  "seen_in": "S／A 級明細",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2027-kw-design-award",
+  "note": "dual, verified"
+ },
+ {
+  "key": "c0008",
+  "title": "僑光科技大學行銷與流通管理系「2027 第五屆僑光行流盃－全國高中職創意行銷競賽」",
+  "deadline": "2027-03-04",
+  "urls": [
+   {
+    "url": "https://www.nknush.kh.edu.tw/announcement/21299/%e5%85%ac%e5%91%8a%e8%a8%93%e8%82%b2%e7%b5%84%e5%83%91%e5%85%89%e7%a7%91%e6%8a%80%e5%a4%a7%e5%ad%b8%e3%80%8c2027%e7%ac%ac%e4%ba%94%e5%b1%86%e5%83%91%e5%85%89%e8%a1%8c%e6%b5%81%e7%9b%83-%e5%85%a8/",
+    "role": "rules",
+    "name": "高師大附中轉發公告（含公文、附件1辦法與附件2海報）"
+   },
+   {
+    "url": "https://bhuntr.com/tw/competitions/2rixr1mfdnplg4o8qh",
+    "role": "rules",
+    "name": "獎金獵人刊登頁"
+   },
+   {
+    "url": "https://mdm.ocu.edu.tw/contest/",
+    "role": "registration",
+    "name": ""
+   },
+   {
+    "url": "https://www.nknush.kh.edu.tw/announcement/21299/%e5%85%ac%e5%91%8a%e8%a8%93%e8%82%b2%e7%b5%84%e5%83%91%e5%85%89%e7%a7%91%e6%8a%80%e5%a4%a7%e5%ad%b8%e3%80%8c2027%e7%ac%ac%e4%ba%94%e5%b1%86%e5%83%91%e5%85%89%e8%a1%8c%e6%b5%81%e7%9b%83-%e5%85%a8/",
+    "role": "announcement",
+    "name": "高師大附中轉發公告"
+   }
+  ],
+  "seen_in": "S／A 級明細",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2027-ocu-mdm-marketing",
+  "note": "single"
+ },
+ {
+  "key": "c0009",
+  "title": "東海大學工學院「2026智慧永續循環技術論文暨專題競賽」",
+  "deadline": "2026-11-22",
+  "urls": [
+   {
+    "url": "https://enger.thu.edu.tw/info-on-home-page/2026%e6%99%ba%e6%85%a7%e6%b0%b8%e7%ba%8c%e5%be%aa%e7%92%b0%e6%8a%80%e8%a1%93%e7%a0%94%e8%a8%8e%e6%9c%83%e6%9a%a8%e5%b0%88%e9%a1%8c%e7%ab%b6%e8%b3%bd/",
+    "role": "rules",
+    "name": "東海大學工學院競賽頁"
+   },
+   {
+    "url": "https://forms.gle/qmqabiSE6hfRKnoy6",
+    "role": "registration",
+    "name": ""
+   },
+   {
+    "url": "https://enger.thu.edu.tw/info-on-home-page/2026%e6%99%ba%e6%85%a7%e6%b0%b8%e7%ba%8c%e5%be%aa%e7%92%b0%e6%8a%80%e8%a1%93%e7%a0%94%e8%a8%8e%e6%9c%83%e6%9a%a8%e5%b0%88%e9%a1%8c%e7%ab%b6%e8%b3%bd/",
+    "role": "announcement",
+    "name": "東海大學工學院競賽頁"
+   }
+  ],
+  "seen_in": "S／A 級明細",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-thu-smart-sustainability",
+  "note": "single"
+ },
+ {
+  "key": "c0010",
+  "title": "南開科技大學長期照顧與管理系「全國高中職銀髮族樂活創意設計與生命故事製作競賽」",
+  "deadline": "2026-11-27",
+  "urls": [
+   {
+    "url": "https://drive.google.com/file/d/1EbWWdAuBmfnjnYhGskyfXA1cOPTpu42V/view",
+    "role": "rules",
+    "name": "簡章 PDF（Google Drive，斗六高中轉發）"
+   },
+   {
+    "url": "https://forms.gle/Bym7mT9o77MA77Cq8",
+    "role": "registration",
+    "name": ""
+   },
+   {
+    "url": "https://www.tlsh.ylc.edu.tw/2026/10/14/68076/",
+    "role": "announcement",
+    "name": "斗六高中轉發公告"
+   }
+  ],
+  "seen_in": "S／A 級明細",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-nkut-elderly-lohas-lifestory",
+  "note": "dual, verified"
+ },
+ {
+  "key": "c0011",
+  "title": "2026 第十一屆通用設計獎（學生組）",
+  "deadline": "2026-11-30",
+  "urls": [
+   {
+    "url": "https://docs.google.com/document/d/1Q1wl5Ci2OFW4Pc_qVhgKZvVQXyVuNZn5YpBraHyPWFc/edit",
+    "role": "rules",
+    "name": "比賽辦法（Google 文件，官網連結）"
+   },
+   {
+    "url": "https://forms.gle/WJFj5GgYnWHvSsdS6",
+    "role": "registration",
+    "name": ""
+   },
+   {
+    "url": "https://www.ud.org.tw/2026-ud-award/",
+    "role": "announcement",
+    "name": "通用設計獎官網公告"
+   }
+  ],
+  "seen_in": "S／A 級明細",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-ud-award",
+  "note": "single"
+ },
+ {
+  "key": "c0012",
+  "title": "創蔚國際「宮掌櫃2026模板設計競賽」（學生組）",
+  "deadline": "2026-11-30",
+  "urls": [
+   {
+    "url": "https://bhuntr.com/tw/competitions/66wbkcayby43vqsctl",
+    "role": "rules",
+    "name": "獎金獵人刊登頁（含完整辦法）"
+   },
+   {
+    "url": "https://dc26.g-zg.com/",
+    "role": "rules",
+    "name": "活動官網"
+   }
+  ],
+  "seen_in": "S／A 級明細",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-gzg-template-design",
+  "note": "disputed, unverified"
+ },
+ {
+  "key": "c0013",
+  "title": "國立臺南大學「2026 全國 AI 專題創意競賽」（高中職組）",
+  "deadline": "2026-12-01",
+  "urls": [
+   {
+    "url": "https://phpweb4.nutn.edu.tw/ilt/wordpress/?page_id=4308",
+    "role": "rules",
+    "name": "競賽官網"
+   }
+  ],
+  "seen_in": "S／A 級明細",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-nutn-ai-project",
+  "note": "single, checked"
+ },
+ {
+  "key": "c0014",
+  "title": "南開科技大學行銷與流通管理系「全國創新行銷暨小論文競賽」",
+  "deadline": "2026-12-04",
+  "urls": [
+   {
+    "url": "https://nkmlm.nkut.edu.tw/front/news/news.php?ID=bmt1dF9tbG0mbmV3cw==&Sn=431",
+    "role": "rules",
+    "name": "南開科大行管系官網公告（含活動辦法 PDF）"
+   },
+   {
+    "url": "https://bhuntr.com/tw/competitions/6jv3lt8i7wicgivubz",
+    "role": "rules",
+    "name": "獎金獵人刊登頁"
+   },
+   {
+    "url": "https://pse.is/9tafbx",
+    "role": "registration",
+    "name": ""
+   },
+   {
+    "url": "https://www.taivs.tp.edu.tw/",
+    "role": "announcement",
+    "name": "大安高工 競賽資訊 RSS"
+   }
+  ],
+  "seen_in": "S／A 級明細",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-nkut-innovative-marketing",
+  "note": "single, checked"
+ },
+ {
+  "key": "c0015",
+  "title": "台灣網路智能學會＆樹德科技大學資訊學院「2026資訊科技創新設計暨應用競賽」",
+  "deadline": "2026-12-07",
+  "urls": [
+   {
+    "url": "https://sites.google.com/stu.edu.tw/2026stucar/%E9%A6%96%E9%A0%81",
+    "role": "rules",
+    "name": "競賽官網"
+   },
+   {
+    "url": "https://forms.gle/a98jV7nE5zQ3cmP1A",
+    "role": "registration",
+    "name": ""
+   },
+   {
+    "url": "https://www.fhsh.khc.edu.tw/aa/news-aa/20261106/47278",
+    "role": "announcement",
+    "name": "鳳新高中轉知"
+   }
+  ],
+  "seen_in": "S／A 級明細",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-stu-it-innovation",
+  "note": "single"
+ },
+ {
+  "key": "c0016",
+  "title": "NOWNEWS 今日新聞「2026年跨世代《青年就是「韌」性！》公民提案競賽」",
+  "deadline": "2027-01-08",
+  "urls": [
+   {
+    "url": "https://drive.google.com/drive/folders/1CGNhZ8flzmJCrZRFtBN3semn5GTMllXJ",
+    "role": "rules",
+    "name": "官方競賽辦法 Google Drive 資料夾"
+   },
+   {
+    "url": "https://bhuntr.com/tw/competitions/p21x575wy5iuqed6s1",
+    "role": "rules",
+    "name": "獎金獵人刊登頁"
+   },
+   {
+    "url": "https://forms.gle/fFwFuSaJpm7w2yC6A",
+    "role": "registration",
+    "name": ""
+   }
+  ],
+  "seen_in": "S／A 級明細",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2027-nownews-crossroad-resilience",
+  "note": "dual, verified"
+ },
+ {
+  "key": "c0017",
+  "title": "朝陽科技大學銀髮產業管理系「2026 全國高中職學校小論文競賽」",
+  "deadline": "2027-01-11",
+  "urls": [
+   {
+    "url": "https://drive.google.com/file/d/1qr2wnRUYEU35w8WlMiR-hxxIzxMpn6NL/view",
+    "role": "rules",
+    "name": "競賽簡章 PDF（Google Drive，斗六高中轉發附件）"
+   },
+   {
+    "url": "https://forms.gle/qopbaCfrtzFpnUDj8",
+    "role": "registration",
+    "name": ""
+   },
+   {
+    "url": "https://www.tlsh.ylc.edu.tw/2026/11/17/69286/",
+    "role": "announcement",
+    "name": "斗六高中轉發公告"
+   }
+  ],
+  "seen_in": "S／A 級明細",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2027-cyut-smart-care-essay",
+  "note": "single (gpt-6.1-sol did not pass: gemini-4-hydrogen-medium: record; gpt-6.1-sol: none (no valid out.json: [Errno 2] No such file or directory: '/ho))"
+ },
+ {
+  "key": "c0018",
+  "title": "聯華神通集團＆育秀教育基金會「第 24 屆育秀盃創意獎」（品牌形象類）",
+  "deadline": "2027-02-16",
+  "urls": [
+   {
+    "url": "https://award.ysed.org.tw/",
+    "role": "rules",
+    "name": "育秀盃官方網站"
+   },
+   {
+    "url": "https://bhuntr.com/tw/competitions/jwuegdzf40owrf2sh0",
+    "role": "rules",
+    "name": "獎金獵人刊登頁"
+   },
+   {
+    "url": "https://award.ysed.org.tw/",
+    "role": "registration",
+    "name": "育秀盃官網登入／會員中心"
+   }
+  ],
+  "seen_in": "S／A 級明細",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-ys-award",
+  "note": "single (gpt-6.1-sol did not pass: gemini-4-hydrogen-medium: record; gpt-6.1-sol: none (no valid out.json: [Errno 2] No such file or directory: '/ho))"
+ },
+ {
+  "key": "c0019",
+  "title": "東海大學「2026求真盃全國高中商管個案競賽」",
+  "deadline": "2026-11-20",
+  "urls": [
+   {
+    "url": "https://wodewangzhan-7nf60w.webnode.page/",
+    "role": "rules",
+    "name": "求真盃官網"
+   },
+   {
+    "url": "https://www.tlsh.ylc.edu.tw/2026/10/21/68304/",
+    "role": "announcement",
+    "name": "斗六高中轉知公告"
+   }
+  ],
+  "seen_in": "B 級（通過三硬條件與門檻四，但命中降級條件）",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 0,
+  "record": "2026-qiuzhen-cup",
+  "note": null
+ },
+ {
+  "key": "c0020",
+  "title": "臺北城市科技大學「2026北城企管全國股王股后爭霸賽」",
+  "deadline": "2026-11-20",
+  "urls": [
+   {
+    "url": "https://ba.tpcu.edu.tw/p/406-1032-90101,r398.php?Lang=zh-tw",
+    "role": "rules",
+    "name": "臺北城市科大企管系公告"
+   },
+   {
+    "url": "https://forms.gle/8iVUHMe2rrh6qRyF7",
+    "role": "registration",
+    "name": ""
+   },
+   {
+    "url": "https://ba.tpcu.edu.tw/p/406-1032-90101,r398.php?Lang=zh-tw",
+    "role": "announcement",
+    "name": "臺北城市科大企管系公告"
+   }
+  ],
+  "seen_in": "B 級（通過三硬條件與門檻四，但命中降級條件）",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-tpcu-ba-stock-king",
+  "note": "dual, verified"
+ },
+ {
+  "key": "c0021",
+  "title": "南投市公所＆南開科技大學休閒事業管理系「2026南投市珍珠遊程設計全國競賽」",
+  "deadline": "2026-11-23",
+  "urls": [
+   {
+    "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/65/pta_225271_3692039_90545.pdf",
+    "role": "rules",
+    "name": "簡章 PDF（彰化高中轉發附件）"
+   },
+   {
+    "url": "https://forms.gle/zLjFh8t5zNaAni589",
+    "role": "registration",
+    "name": ""
+   },
+   {
+    "url": "https://www.chsh.chc.edu.tw/p/406-1009-195132,r70.php?Lang=zh-tw",
+    "role": "announcement",
+    "name": "彰化高中轉發公告"
+   }
+  ],
+  "seen_in": "B 級（通過三硬條件與門檻四，但命中降級條件）",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-nantou-pearl-itinerary",
+  "note": "disputed, unverified"
+ },
+ {
+  "key": "c0022",
+  "title": "「小網紅大夢想」第五屆環境永續數位生活短片選拔活動",
+  "deadline": "2026-11-25",
+  "urls": [
+   {
+    "url": "https://www.tccs.org.tw/contest",
+    "role": "rules",
+    "name": "台灣文化創意學會競賽頁"
+   },
+   {
+    "url": "https://www.tccs.org.tw/contest",
+    "role": "registration",
+    "name": "台灣文化創意學會競賽頁"
+   },
+   {
+    "url": "https://www.tccs.org.tw/contest",
+    "role": "announcement",
+    "name": "台灣文化創意學會競賽頁"
+   }
+  ],
+  "seen_in": "B 級（通過三硬條件與門檻四，但命中降級條件）",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-tccs-little-influencer",
+  "note": "dual, verified"
+ },
+ {
+  "key": "c0023",
+  "title": "新竹縣樹杞林攝影學會「2026第二屆新竹攝影獎」",
+  "deadline": "2026-11-25",
+  "urls": [
+   {
+    "url": "https://bhuntr.com/tw/competitions/mrlqqv9gpa1vplh923",
+    "role": "rules",
+    "name": "獎金獵人刊登頁"
+   }
+  ],
+  "seen_in": "B 級（通過三硬條件與門檻四，但命中降級條件）",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-hsinchu-photography-award",
+  "note": "dual, verified"
+ },
+ {
+  "key": "c0024",
+  "title": "臺北市政府觀傳局「五感漫遊 城市台北」-115年媒體近用影片徵選競賽",
+  "deadline": "2026-11-25",
+  "urls": [
+   {
+    "url": "https://bhuntr.com/tw/competitions/njtiuzyeg28y8xncly",
+    "role": "rules",
+    "name": "獎金獵人刊登頁"
+   },
+   {
+    "url": "https://lihi2.me/bzsnI",
+    "role": "registration",
+    "name": ""
+   }
+  ],
+  "seen_in": "B 級（通過三硬條件與門檻四，但命中降級條件）",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-taipei-five-senses-video",
+  "note": "dual, verified"
+ },
+ {
+  "key": "c0025",
+  "title": "輔英科技大學「H-Inno 2026 全國健康關懷、智慧創新專題競賽」",
+  "deadline": "2026-11-26",
+  "urls": [
+   {
+    "url": "https://drive.google.com/file/d/1g0XVH4-LFvBKJ1GZwzISaJYxrgrBCtb_/view?usp=sharing",
+    "role": "rules",
+    "name": "官方簡章 PDF（Google Drive）"
+   },
+   {
+    "url": "https://bhuntr.com/tw/competitions/jpcxzvdk0mborgad2d",
+    "role": "announcement",
+    "name": "獎金獵人刊登頁"
+   }
+  ],
+  "seen_in": "B 級（通過三硬條件與門檻四，但命中降級條件）",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-fy-h-inno",
+  "note": "dual, verified"
+ },
+ {
+  "key": "c0026",
+  "title": "交通部觀光署＆去趣「台灣觀光100亮點－亮點熱映中」限時招募短影音玩家",
+  "deadline": "2026-11-30",
+  "urls": [
+   {
+    "url": "https://bhuntr.com/tw/competitions/0eltee1k1e7snjk31v",
+    "role": "rules",
+    "name": "獎金獵人刊登頁"
+   }
+  ],
+  "seen_in": "B 級（通過三硬條件與門檻四，但命中降級條件）",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-100spotlights-video",
+  "note": "single"
+ },
+ {
+  "key": "c0027",
+  "title": "嘉義市政府文化局「2027嘉義市國際三分鐘影片大賽」",
+  "deadline": "2026-11-30",
+  "urls": [
+   {
+    "url": "https://filmfreeway.com/2027ThreeMinutesVideoCompetition",
+    "role": "rules",
+    "name": ""
+   },
+   {
+    "url": "https://www.tngs.tn.edu.tw/2026/11/05/2027%e5%98%89%e7%be%a9%e5%b8%82%e5%9c%8b%e9%9a%9b%e4%b8%89%e5%88%86%e9%90%98%e5%bd%b1%e7%89%87%e5%a4%a7%e8%b3%bd/",
+    "role": "announcement",
+    "name": "臺南女中轉發公告"
+   }
+  ],
+  "seen_in": "B 級（通過三硬條件與門檻四，但命中降級條件）",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-chiayi-3min-video",
+  "note": "single"
+ },
+ {
+  "key": "c0028",
+  "title": "國家太空中心＆成大「2027 國際太空站(ISS)零重力實驗提案比賽 (Asian Try Zero-G 2027)」",
+  "deadline": "2026-11-30",
+  "urls": [
+   {
+    "url": "https://atzg2027.ncku.edu.tw/",
+    "role": "rules",
+    "name": ""
+   },
+   {
+    "url": "https://www.tlsh.ylc.edu.tw/2026/10/28/68550/",
+    "role": "announcement",
+    "name": "斗六高中轉發公告"
+   }
+  ],
+  "seen_in": "B 級（通過三硬條件與門檻四，但命中降級條件）",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-tasa-asian-try-zero-g",
+  "note": "single"
+ },
+ {
+  "key": "c0029",
+  "title": "生策會「第六屆全國高中醫療科技創意競賽」",
+  "deadline": "2026-11-30",
+  "urls": [
+   {
+    "url": "https://ibmi.pse.is/855xzm",
+    "role": "rules",
+    "name": ""
+   },
+   {
+    "url": "https://www.hssh.tp.edu.tw/p/405-1000-52706,c540.php",
+    "role": "announcement",
+    "name": "西松高中轉發公告"
+   }
+  ],
+  "seen_in": "B 級（通過三硬條件與門檻四，但命中降級條件）",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-ibmi-medtech-creative",
+  "note": "dual, verified"
+ },
+ {
+  "key": "c0030",
+  "title": "IdeaX 創點子「IdeaX 創星季・創新挑戰賽」",
+  "deadline": "2026-12-04",
+  "urls": [
+   {
+    "url": "https://bhuntr.com/tw/competitions/62pw1n23s7cqzlwu94",
+    "role": "rules",
+    "name": "獎金獵人刊登頁"
+   }
+  ],
+  "seen_in": "B 級（通過三硬條件與門檻四，但命中降級條件）",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-ideax-star-challenge",
+  "note": "disputed, unverified"
+ },
+ {
+  "key": "c0031",
+  "title": "中國科技大學「2026年度全國高中職校際 AI × 日語創意行銷競賽」",
+  "deadline": "2026-12-04",
+  "urls": [
+   {
+    "url": "https://www.chsh.chc.edu.tw/p/406-1009-196706,r70.php?Lang=zh-tw",
+    "role": "rules",
+    "name": "彰化高中轉發公告"
+   },
+   {
+    "url": "https://www.chsh.chc.edu.tw/p/406-1009-196706,r70.php?Lang=zh-tw",
+    "role": "announcement",
+    "name": "彰化高中轉發公告"
+   }
+  ],
+  "seen_in": "B 級（通過三硬條件與門檻四，但命中降級條件）",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-cute-ai-japanese-marketing",
+  "note": "dual, verified"
+ },
+ {
+  "key": "c0032",
+  "title": "國立彰化特殊教育學校「115學年度國際身心障礙者日宣導週藝文比賽（作文組）」",
+  "deadline": "2026-12-09",
+  "urls": [
+   {
+    "url": "https://bhuntr.com/tw/competitions/3x1x9ab5iku8u980xs",
+    "role": "rules",
+    "name": "獎金獵人刊登頁"
+   }
+  ],
+  "seen_in": "B 級（通過三硬條件與門檻四，但命中降級條件）",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-chsmr-disability-week-arts",
+  "note": "disputed, unverified"
+ },
+ {
+  "key": "c0033",
+  "title": "原住民族語言研究發展基金會「Ma’araw 原住民族語言短影音創作獎勵計畫」",
+  "deadline": "2026-12-10",
+  "urls": [
+   {
+    "url": "https://bhuntr.com/tw/competitions/cjbnz4fiym08z0l8ze",
+    "role": "rules",
+    "name": "獎金獵人刊登頁"
+   }
+  ],
+  "seen_in": "B 級（通過三硬條件與門檻四，但命中降級條件）",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "skipped",
+  "attempts": 1,
+  "record": null,
+  "note": "個人參賽資格限定年滿18歲本國國民（未立案團隊亦須指定滿18歲代表人），屬於僅限成年人之競賽，不符合高中職學生參賽條件。"
+ },
+ {
+  "key": "c0034",
+  "title": "「115年度原住民族政治受難者口述歷史影像改編漫畫徵件活動」",
+  "deadline": "2026-12-15",
+  "urls": [
+   {
+    "url": "https://bhuntr.com/tw/competitions/r3af34t6g0cpynickr",
+    "role": "rules",
+    "name": "獎金獵人刊登頁"
+   }
+  ],
+  "seen_in": "B 級（通過三硬條件與門檻四，但命中降級條件）",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-indigenous-oral-history-comic",
+  "note": "single (gpt-6.1-sol did not pass: gemini-4-hydrogen-medium: record; gpt-6.1-sol: none (no valid out.json: [Errno 2] No such file or directory: '/ho))"
+ },
+ {
+  "key": "c0035",
+  "title": "教育部國教署＆原民會「115學年度原住民族文化與科學展覽會」",
+  "deadline": "2026-12-17",
+  "urls": [
+   {
+    "url": "https://ieiw.k12ea.gov.tw/ScienceFair/",
+    "role": "rules",
+    "name": ""
+   },
+   {
+    "url": "https://www.tlsh.ylc.edu.tw/2026/10/25/68390/",
+    "role": "announcement",
+    "name": "斗六高中轉發公告"
+   }
+  ],
+  "seen_in": "B 級（通過三硬條件與門檻四，但命中降級條件）",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-indigenous-science-fair",
+  "note": "single"
+ },
+ {
+  "key": "c0036",
+  "title": "「《第九造物》遊戲狂潮設計」",
+  "deadline": "2026-12-18",
+  "urls": [
+   {
+    "url": "https://bhuntr.com/tw/competitions/tgsbfa6qftfmlqlw5k",
+    "role": "rules",
+    "name": "獎金獵人刊登頁"
+   }
+  ],
+  "seen_in": "B 級（通過三硬條件與門檻四，但命中降級條件）",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-igd-ninth-creation",
+  "note": "single (gpt-6.1-sol did not pass: gemini-4-hydrogen-medium: record; gpt-6.1-sol: none (no valid out.json: [Errno 2] No such file or directory: '/ho))"
+ },
+ {
+  "key": "c0037",
+  "title": "雲林縣口湖鄉公所「2026發現口湖之美攝影比賽」",
+  "deadline": "2026-12-19",
+  "urls": [
+   {
+    "url": "https://bhuntr.com/tw/competitions/fwzca0der9mymcpkrx",
+    "role": "rules",
+    "name": "獎金獵人刊登頁"
+   },
+   {
+    "url": "https://bhuntr.com/tw/competitions/fwzca0der9mymcpkrx",
+    "role": "registration",
+    "name": "獎金獵人刊登頁"
+   },
+   {
+    "url": "https://bhuntr.com/tw/competitions/fwzca0der9mymcpkrx",
+    "role": "announcement",
+    "name": "獎金獵人刊登頁"
+   }
+  ],
+  "seen_in": "B 級（通過三硬條件與門檻四，但命中降級條件）",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-kouhu-photography",
+  "note": "single"
+ },
+ {
+  "key": "c0038",
+  "title": "台灣癲癇醫學會「第二十四屆人間有情‧關懷癲癇徵文比賽」",
+  "deadline": "2026-12-21",
+  "urls": [
+   {
+    "url": "https://www.epilepsy.org.tw",
+    "role": "registration",
+    "name": "台灣癲癇醫學會官網"
+   },
+   {
+    "url": "https://www.epilepsy.org.tw",
+    "role": "announcement",
+    "name": "台灣癲癇醫學會官方網站"
+   }
+  ],
+  "seen_in": "B 級（通過三硬條件與門檻四，但命中降級條件）",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-epilepsy-essay",
+  "note": "single (gpt-6.1-sol did not pass: gemini-4-hydrogen-medium: record; gpt-6.1-sol: none (no valid out.json: [Errno 2] No such file or directory: '/ho))"
+ },
+ {
+  "key": "c0039",
+  "title": "教育部青年發展署「115年度青年志工行動競賽表揚計畫（青志獎）」",
+  "deadline": "2026-12-21",
+  "urls": [
+   {
+    "url": "https://youthvolunteer.yda.gov.tw/",
+    "role": "registration",
+    "name": "青年志工網站線上申請"
+   },
+   {
+    "url": "https://youthvolunteer.yda.gov.tw/",
+    "role": "announcement",
+    "name": "教育部青年發展署青志獎官網"
+   },
+   {
+    "url": "https://www.tngs.tn.edu.tw/2026/11/12/%e3%80%90%e8%bd%89%e7%9f%a5%e3%80%91%e7%ac%ac4%e5%b1%86%e3%80%8c%e9%9d%92%e5%b9%b4%e5%bf%97%e5%b7%a5%e8%a1%8c%e5%8b%95%e7%ab%b6%e8%b3%bd%e8%a1%a8%e6%8f%9a%e8%a8%88%e7%95%ab%ef%bc%88%e9%9d%92%e5%bf%97/",
+    "role": "announcement",
+    "name": "臺南女中轉知公告（含實施計畫 PDF）"
+   }
+  ],
+  "seen_in": "B 級（通過三硬條件與門檻四，但命中降級條件）",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-yda-youth-volunteer",
+  "note": "single"
+ },
+ {
+  "key": "c0040",
+  "title": "農業部農田水利署「2026農田水利之美 全國攝影大賽」",
+  "deadline": "2026-12-21",
+  "urls": [
+   {
+    "url": "https://bhuntr.com/tw/competitions/r2fhkbc5a6x54xwsmc",
+    "role": "rules",
+    "name": "獎金獵人刊登頁"
+   }
+  ],
+  "seen_in": "B 級（通過三硬條件與門檻四，但命中降級條件）",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-ia-camera",
+  "note": "single (gpt-6.1-sol did not pass: gemini-4-hydrogen-medium: record; gpt-6.1-sol: none (no valid out.json: [Errno 2] No such file or directory: '/ho))"
+ },
+ {
+  "key": "c0041",
+  "title": "雙橡教育「2027 See Think Wonder 思考挑戰賽」",
+  "deadline": "2026-12-21",
+  "urls": [
+   {
+    "url": "https://bhuntr.com/tw/competitions/vfe75l2vn90dvo953r",
+    "role": "rules",
+    "name": "獎金獵人刊登頁"
+   }
+  ],
+  "seen_in": "B 級（通過三硬條件與門檻四，但命中降級條件）",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-see-think-wonder",
+  "note": "single (gpt-6.1-sol did not pass: gemini-4-hydrogen-medium: record; gpt-6.1-sol: none (no valid out.json: [Errno 2] No such file or directory: '/ho))"
+ },
+ {
+  "key": "c0042",
+  "title": "中華人文科技創新國際學會「2026全國大專院校暨高中職創意創新創業管理個案專題競賽」",
+  "deadline": "2026-12-25",
+  "urls": [
+   {
+    "url": "https://www.beclass.com/rid=305283a6ab1fb5086b9b",
+    "role": "registration",
+    "name": "BeClass 線上報名暨競賽簡章頁面"
+   },
+   {
+    "url": "https://www.beclass.com/rid=305283a6ab1fb5086b9b",
+    "role": "announcement",
+    "name": "BeClass 官方競賽頁面"
+   },
+   {
+    "url": "https://sites.google.com/site/ciipcertificate/",
+    "role": "announcement",
+    "name": "ciipcertificate"
+   }
+  ],
+  "seen_in": "B 級（通過三硬條件與門檻四，但命中降級條件）",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-chtiia-creative-entrepreneurship",
+  "note": "single"
+ },
+ {
+  "key": "c0043",
+  "title": "好好聽FM「第七屆播客大賽」",
+  "deadline": "2026-12-25",
+  "urls": [
+   {
+    "url": "https://bhuntr.com/tw/competitions/n8e6v1df8ji0qfs493",
+    "role": "rules",
+    "name": "獎金獵人刊登頁"
+   }
+  ],
+  "seen_in": "B 級（通過三硬條件與門檻四，但命中降級條件）",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-provoice-podcast",
+  "note": "single (gpt-6.1-sol did not pass: gemini-4-hydrogen-medium: record; gpt-6.1-sol: none (no valid out.json: [Errno 2] No such file or directory: '/ho))"
+ },
+ {
+  "key": "c0044",
+  "title": "交通部觀光署「台灣觀巴」品牌形象短影音徵選活動",
+  "deadline": "2026-12-31",
+  "urls": [
+   {
+    "url": "https://bhuntr.com/tw/competitions/jhuoijcubcktx717ga",
+    "role": "rules",
+    "name": "獎金獵人刊登頁"
+   }
+  ],
+  "seen_in": "B 級（通過三硬條件與門檻四，但命中降級條件）",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-taiwan-tour-bus-video",
+  "note": "single (gpt-6.1-sol did not pass: gemini-4-hydrogen-medium: record; gpt-6.1-sol: none (no valid out.json: [Errno 2] No such file or directory: '/ho))"
+ },
+ {
+  "key": "c0045",
+  "title": "武陵文教基金會「第五屆全國高中生文學獎」",
+  "deadline": "2026-12-31",
+  "urls": [
+   {
+    "url": "https://wlcef.vcom.tw/",
+    "role": "registration",
+    "name": "武陵文教基金會競賽官網"
+   },
+   {
+    "url": "https://wlcef.vcom.tw/",
+    "role": "announcement",
+    "name": "武陵文教基金會活動頁"
+   }
+  ],
+  "seen_in": "B 級（通過三硬條件與門檻四，但命中降級條件）",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-wlcef-literature-award",
+  "note": "single"
+ },
+ {
+  "key": "c0046",
+  "title": "第29屆臺北文學獎",
+  "deadline": "2026-12-31",
+  "urls": [
+   {
+    "url": "https://bhuntr.com/tw/competitions/wev52s051dq83o6n78",
+    "role": "rules",
+    "name": "獎金獵人刊登頁"
+   }
+  ],
+  "seen_in": "B 級（通過三硬條件與門檻四，但命中降級條件）",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-taipei-literature-award",
+  "note": "single (gpt-6.1-sol did not pass: gemini-4-hydrogen-medium: record; gpt-6.1-sol: none (no valid out.json: [Errno 2] No such file or directory: '/ho))"
+ },
+ {
+  "key": "c0047",
+  "title": "蝶映藝術「第二屆2027羊年紅包袋插畫設計比賽」（青少年組）",
+  "deadline": "2026-12-31",
+  "urls": [
+   {
+    "url": "https://bhuntr.com/tw/competitions/laht5stxspeaj14hw8",
+    "role": "rules",
+    "name": "獎金獵人刊登頁"
+   },
+   {
+    "url": "https://www.deglobalart-alea.com/zh/competitions",
+    "role": "registration",
+    "name": ""
+   }
+  ],
+  "seen_in": "B 級（通過三硬條件與門檻四，但命中降級條件）",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-deglobalart-red-envelope",
+  "note": "single (gpt-6.1-sol did not pass: gemini-4-hydrogen-medium: record; gpt-6.1-sol: none (no valid out.json: [Errno 2] No such file or directory: '/ho))"
+ },
+ {
+  "key": "c0048",
+  "title": "景文科技大學「2027全國高中職專題競賽」",
+  "deadline": "2027-01-05",
+  "urls": [
+   {
+    "url": "https://www.csghs.tp.edu.tw/news/%e8%bd%89%e7%9f%a5%ef%bc%9a%e6%99%af%e6%96%87%e7%a7%91%e6%8a%80%e5%a4%a7%e5%ad%b82027%e5%85%a8%e5%9c%8b%e9%ab%98%e4%b8%ad%e8%81%b7%e5%b0%88%e9%a1%8c%e7%ab%b6%e8%b3%bd/",
+    "role": "rules",
+    "name": "中山女高轉發公告（含簡章 PDF）"
+   },
+   {
+    "url": "https://www.csghs.tp.edu.tw/category/news/news1/",
+    "role": "announcement",
+    "name": "中山女高最新消息"
+   }
+  ],
+  "seen_in": "B 級（通過三硬條件與門檻四，但命中降級條件）",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2027-just-hs-project",
+  "note": "single"
+ },
+ {
+  "key": "c0049",
+  "title": "僑光科技大學「第九屆全國高中職新農業行銷實作競賽」",
+  "deadline": "2027-01-13",
+  "urls": [
+   {
+    "url": "https://sites.google.com/view/sunfarmorganic/",
+    "role": "rules",
+    "name": "競賽官網"
+   },
+   {
+    "url": "https://sites.google.com/view/sunfarmorganic/",
+    "role": "announcement",
+    "name": "競賽官網"
+   }
+  ],
+  "seen_in": "B 級（通過三硬條件與門檻四，但命中降級條件）",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-ocu-agri-marketing",
+  "note": "single"
+ },
+ {
+  "key": "c0050",
+  "title": "育達科技大學「2027育達觀休盃創意遊程設計暨專題製作競賽」（高中職組）",
+  "deadline": "2027-01-13",
+  "urls": [
+   {
+    "url": "https://www.hssh.tp.edu.tw/p/405-1000-52801,c540.php",
+    "role": "rules",
+    "name": "西松高中轉發公告（附競賽辦法 PDF）"
+   },
+   {
+    "url": "https://www.hssh.tp.edu.tw/p/405-1000-52801,c540.php",
+    "role": "announcement",
+    "name": "西松高中轉發公告"
+   }
+  ],
+  "seen_in": "B 級（通過三硬條件與門檻四，但命中降級條件）",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2027-ydu-tourism-leisure-cup",
+  "note": "single (gpt-6.1-sol did not pass: gemini-4-hydrogen-medium: record; gpt-6.1-sol: none (no valid out.json: [Errno 2] No such file or directory: '/ho))"
+ },
+ {
+  "key": "c0051",
+  "title": "教育部國教署「116年度 Cool English 自主學習簡報比賽（普技高組）」",
+  "deadline": "2027-01-15",
+  "urls": [
+   {
+    "url": "https://www.coolenglish.edu.tw/",
+    "role": "registration",
+    "name": "Cool English 官方平台"
+   },
+   {
+    "url": "https://www.coolenglish.edu.tw/",
+    "role": "announcement",
+    "name": "Cool English 酷英網官網"
+   }
+  ],
+  "seen_in": "B 級（通過三硬條件與門檻四，但命中降級條件）",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2027-coolenglish-presentation",
+  "note": "single"
+ },
+ {
+  "key": "c0052",
+  "title": "朝陽科技大學「第6屆全國高中職暨大專校院英語繪本創意教學競賽」",
+  "deadline": "2027-01-15",
+  "urls": [
+   {
+    "url": "https://forms.gle/JqW5HezpoQHXco628",
+    "role": "registration",
+    "name": "Google 表單線上報名"
+   },
+   {
+    "url": "http://aecyut.cyut.edu.tw/",
+    "role": "announcement",
+    "name": "朝陽科大應英系官網"
+   },
+   {
+    "url": "https://forms.gle/JqW5HezpoQHXco628",
+    "role": "announcement",
+    "name": "活動報名表單"
+   },
+   {
+    "url": "http://forms.gle/9V7oENByauhQHiAe7",
+    "role": "registration",
+    "name": "Google 表單線上報名"
+   },
+   {
+    "url": "https://www.chsh.chc.edu.tw/p/406-1009-195904,r70.php?Lang=zh-tw",
+    "role": "announcement",
+    "name": "彰化高中轉發公告"
+   }
+  ],
+  "seen_in": "B 級（通過三硬條件與門檻四，但命中降級條件）",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2027-cyut-english-picture-book",
+  "note": "single (gpt-6.1-sol did not pass: gemini-4-hydrogen-medium: record; gpt-6.1-sol: none (no valid out.json: [Errno 2] No such file or directory: '/ho))"
+ },
+ {
+  "key": "c0053",
+  "title": "銘傳大學「第38屆銘傳文藝獎高中職中文散文競賽」",
+  "deadline": "2027-01-22",
+  "urls": [
+   {
+    "url": "https://www.week.mcu.edu.tw/highschool/",
+    "role": "registration",
+    "name": "銘傳文藝獎高中職專區"
+   },
+   {
+    "url": "https://www.week.mcu.edu.tw/highschool/",
+    "role": "announcement",
+    "name": "銘傳文藝獎活動網站"
+   },
+   {
+    "url": "https://www.chsh.chc.edu.tw/p/406-1009-196798,r70.php?Lang=zh-tw",
+    "role": "announcement",
+    "name": "彰化高中轉發公告"
+   }
+  ],
+  "seen_in": "B 級（通過三硬條件與門檻四，但命中降級條件）",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2027-mcu-literary-prose",
+  "note": "single (gpt-6.1-sol did not pass: gemini-4-hydrogen-medium: record; gpt-6.1-sol: none (no valid out.json: [Errno 2] No such file or directory: '/ho))"
+ },
+ {
+  "key": "c0054",
+  "title": "拓凱教育基金會＆明道中學「115學年拓凱新世紀青少年高峰論壇」",
+  "deadline": "2027-01-24",
+  "urls": [
+   {
+    "url": "https://sites.google.com/ms.mingdao.edu.tw/mdhs-youthforum/",
+    "role": "registration",
+    "name": "拓凱新世紀青少年高峰論壇官方網站"
+   },
+   {
+    "url": "https://www.tngs.tn.edu.tw/2026/11/12/%e3%80%90%e8%bd%89%e7%9f%a5%e3%80%91%e6%8b%93%e5%87%b1%e6%96%b0%e4%b8%96%e7%b4%80%e9%9d%92%e5%b0%91%e5%b9%b4%e9%ab%98%e5%b3%b0%e8%ab%96%e5%a3%87/",
+    "role": "announcement",
+    "name": "臺南女中轉知公告（含企劃書簡章 PDF）"
+   }
+  ],
+  "seen_in": "B 級（通過三硬條件與門檻四，但命中降級條件）",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2027-topkey-youth-forum",
+  "note": "single"
+ },
+ {
+  "key": "c0055",
+  "title": "遠哲科學教育基金會「2027 遠哲盃三分鐘英語科學創新挑戰賽」",
+  "deadline": "2027-01-31",
+  "urls": [
+   {
+    "url": "https://www.ytlee.org.tw/activity/2681",
+    "role": "registration",
+    "name": "遠哲基金會活動專頁"
+   },
+   {
+    "url": "https://www.ytlee.org.tw/activity/2681",
+    "role": "announcement",
+    "name": "遠哲科學教育基金會"
+   },
+   {
+    "url": "https://www.chsh.chc.edu.tw/p/406-1009-196564,r70.php?Lang=zh-tw",
+    "role": "announcement",
+    "name": "彰化高中轉發公告"
+   }
+  ],
+  "seen_in": "B 級（通過三硬條件與門檻四，但命中降級條件）",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2027-yt-3mintalk4science",
+  "note": "single (gpt-6.1-sol did not pass: gemini-4-hydrogen-medium: record; gpt-6.1-sol: none (no valid out.json: [Errno 2] No such file or directory: '/ho))"
+ },
+ {
+  "key": "c0056",
+  "title": "高雄市政府文化局＆岡山大專青年協會「2027第二十屆阿公店溪文學獎」（高中組散文）",
+  "deadline": "2027-01-31",
+  "urls": [
+   {
+    "url": "https://drive.google.com/file/d/1Wu135qrbUvlWGm6FB8iWLAHX_u_uwBuQ/view",
+    "role": "rules",
+    "name": "徵文辦法 PDF（Google Drive，高雄高工轉發附件）"
+   },
+   {
+    "url": "https://www.ksvs.kh.edu.tw/v4/cpsub/article.php?id=12682",
+    "role": "announcement",
+    "name": "高雄高工轉發公告"
+   }
+  ],
+  "seen_in": "B 級（通過三硬條件與門檻四，但命中降級條件）",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2027-agongdianxi-literature",
+  "note": "single (gpt-6.1-sol did not pass: gemini-4-hydrogen-medium: record; gpt-6.1-sol: none (no valid out.json: [Errno 2] No such file or directory: '/ho))"
+ },
+ {
+  "key": "c0057",
+  "title": "弘光科技大學「漫界 MetaManga 漫畫創作競賽」",
+  "deadline": "2027-02-15",
+  "urls": [
+   {
+    "url": "https://www.metamanga.ai/contest",
+    "role": "registration",
+    "name": "MetaManga 官方競賽網站"
+   },
+   {
+    "url": "https://www.metamanga.ai/contest",
+    "role": "announcement",
+    "name": "MetaManga 競賽官網"
+   },
+   {
+    "url": "https://www.jhsh.ntpc.edu.tw/p/406-1000-21103,r51.php?Lang=zh-tw",
+    "role": "announcement",
+    "name": "錦和高中轉發公告"
+   }
+  ],
+  "seen_in": "B 級（通過三硬條件與門檻四，但命中降級條件）",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2027-metamanga-ai-manga",
+  "note": "single (gpt-6.1-sol did not pass: gemini-4-hydrogen-medium: record; gpt-6.1-sol: none (no valid out.json: [Errno 2] No such file or directory: '/ho))"
+ },
+ {
+  "key": "c0058",
+  "title": "銘傳大學「高中生犯罪文學短篇小說比賽」",
+  "deadline": "2027-02-20",
+  "urls": [
+   {
+    "url": "https://hsse.mcu.edu.tw/",
+    "role": "registration",
+    "name": "銘傳大學人社院公告頁面"
+   },
+   {
+    "url": "https://hsse.mcu.edu.tw/",
+    "role": "announcement",
+    "name": "銘傳人社院官網"
+   },
+   {
+    "url": "https://drive.google.com/file/d/1InUPwvmBKiUgqBKe6OQLE4InD6pk_l3w/view?usp=sharing",
+    "role": "announcement",
+    "name": "簡章 Google Drive"
+   },
+   {
+    "url": "https://www.tlsh.ylc.edu.tw/2026/10/27/68463/",
+    "role": "announcement",
+    "name": "斗六高中轉發公告"
+   }
+  ],
+  "seen_in": "B 級（通過三硬條件與門檻四，但命中降級條件）",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2027-mcu-crime-fiction",
+  "note": "single (gpt-6.1-sol did not pass: gemini-4-hydrogen-medium: record; gpt-6.1-sol: none (no valid out.json: [Errno 2] No such file or directory: '/ho))"
+ },
+ {
+  "key": "c0059",
+  "title": "台灣塑性加工學會＆國立高雄科技大學「2026《協易盃》大手攜小手～伺服沖壓創新應用競賽」",
+  "deadline": "2027-02-26",
+  "urls": [
+   {
+    "url": "https://bhuntr.com/tw/competitions/9fwyahhddq4cdk4hsn",
+    "role": "rules",
+    "name": "獎金獵人刊登頁"
+   }
+  ],
+  "seen_in": "B 級（通過三硬條件與門檻四，但命中降級條件）",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-seyi-servo-stamping",
+  "note": "single (gpt-6.1-sol did not pass: gemini-4-hydrogen-medium: record; gpt-6.1-sol: none (no valid out.json: [Errno 2] No such file or directory: '/ho))"
+ },
+ {
+  "key": "c0060",
+  "title": "華梵大學「2027華梵大學〈風起雲遊全國高中職插畫A4秀〉」",
+  "deadline": "2027-02-26",
+  "urls": [
+   {
+    "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/55/pta_227578_5490559_68211.pdf",
+    "role": "rules",
+    "name": "簡章 PDF（彰化高中轉發附件）"
+   },
+   {
+    "url": "https://reurl.cc/kpDnQx",
+    "role": "registration",
+    "name": ""
+   },
+   {
+    "url": "https://www.chsh.chc.edu.tw/p/406-1009-196480,r70.php?Lang=zh-tw",
+    "role": "announcement",
+    "name": "彰化高中轉知公告"
+   }
+  ],
+  "seen_in": "B 級（通過三硬條件與門檻四，但命中降級條件）",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2027-hfu-a4-illustration",
+  "note": "single (gpt-6.1-sol did not pass: gemini-4-hydrogen-medium: record; gpt-6.1-sol: none (no valid out.json: [Errno 2] No such file or directory: '/ho))"
+ },
+ {
+  "key": "c0061",
+  "title": "中部科學園區管理局「中科拾光－精采一瞬四生共榮」中部科學園區攝影比賽",
+  "deadline": "2027-02-28",
+  "urls": [
+   {
+    "url": "https://bhuntr.com/tw/competitions/pl99893z0uy22padag",
+    "role": "rules",
+    "name": "獎金獵人刊登頁"
+   }
+  ],
+  "seen_in": "B 級（通過三硬條件與門檻四，但命中降級條件）",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2027-ctsp-photography",
+  "note": "single (gpt-6.1-sol did not pass: gemini-4-hydrogen-medium: record; gpt-6.1-sol: none (no valid out.json: [Errno 2] No such file or directory: '/ho))"
+ },
+ {
+  "key": "c0062",
+  "title": "私立明道高級中學「第45屆全球華文學生文學獎」",
+  "deadline": "2027-03-01",
+  "urls": [
+   {
+    "url": "https://sites.google.com/ms.mingdao.edu.tw/literary-award/",
+    "role": "registration",
+    "name": "全球華文學生文學獎官方網站"
+   },
+   {
+    "url": "https://sites.google.com/ms.mingdao.edu.tw/literary-award/",
+    "role": "announcement",
+    "name": "官方活動專網"
+   },
+   {
+    "url": "https://www.tlsh.ylc.edu.tw/2026/11/11/69020/",
+    "role": "announcement",
+    "name": "斗六高中轉發公告"
+   }
+  ],
+  "seen_in": "B 級（通過三硬條件與門檻四，但命中降級條件）",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2027-mingdao-global-chinese-literary-award",
+  "note": "single"
+ },
+ {
+  "key": "c0063",
+  "title": "中學生網站「115學年度全國高級中等學校閱讀心得寫作比賽（第二學期）」",
+  "deadline": "2027-03-10",
+  "urls": [
+   {
+    "url": "https://bhuntr.com/tw/competitions/zfrxr4h6vsi8gicjko",
+    "role": "rules",
+    "name": "獎金獵人刊登頁"
+   },
+   {
+    "url": "https://www.shs.edu.tw/",
+    "role": "rules",
+    "name": "中學生網站"
+   },
+   {
+    "url": "https://www.shs.edu.tw/",
+    "role": "announcement",
+    "name": "中學生網站"
+   }
+  ],
+  "seen_in": "B 級（通過三硬條件與門檻四，但命中降級條件）",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2027-shs-reading-reflection",
+  "note": "single (gpt-6.1-sol did not pass: gemini-4-hydrogen-medium: record; gpt-6.1-sol: none (no valid out.json: [Errno 2] No such file or directory: '/ho))"
+ },
+ {
+  "key": "c0064",
+  "title": "中華資訊與科技教育學會等「2027全國創意與智慧科技競賽暨AI協作挑戰賽」",
+  "deadline": "2027-03-11",
+  "urls": [
+   {
+    "url": "https://bhuntr.com/tw/competitions/v5czmtqmifcpnosv36",
+    "role": "rules",
+    "name": "獎金獵人刊登頁"
+   }
+  ],
+  "seen_in": "B 級（通過三硬條件與門檻四，但命中降級條件）",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2027-cacet-creation-ai",
+  "note": "single (gpt-6.1-sol did not pass: gemini-4-hydrogen-medium: record; gpt-6.1-sol: none (no valid out.json: [Errno 2] No such file or directory: '/ho))"
+ },
+ {
+  "key": "c0065",
+  "title": "國立東華大學「第27屆東華奇萊文學獎」",
+  "deadline": "2027-03-15",
+  "urls": [
+   {
+    "url": "https://award.ndhu.edu.tw/",
+    "role": "registration",
+    "name": "東華奇萊文學獎官網"
+   },
+   {
+    "url": "https://award.ndhu.edu.tw/",
+    "role": "announcement",
+    "name": "東華奇萊文學獎官網"
+   },
+   {
+    "url": "https://drive.google.com/file/d/18VaO0BE0WDCBJaScDGDDR5g4xTQNh23M/view?usp=sharing",
+    "role": "announcement",
+    "name": "簡章 Google Drive"
+   },
+   {
+    "url": "https://www.tlsh.ylc.edu.tw/2026/11/09/68992/",
+    "role": "announcement",
+    "name": "斗六高中轉發公告"
+   }
+  ],
+  "seen_in": "B 級（通過三硬條件與門檻四，但命中降級條件）",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2027-ndhu-qilai-literature",
+  "note": "single (gpt-6.1-sol did not pass: gemini-4-hydrogen-medium: record; gpt-6.1-sol: none (no valid out.json: [Errno 2] No such file or directory: '/ho))"
+ },
+ {
+  "key": "c0066",
+  "title": "乾淨世界「第四屆善念點亮台灣：善念接力・讓世界改變」",
+  "deadline": "2027-03-31",
+  "urls": [
+   {
+    "url": "https://bhuntr.com/tw/competitions/tquo9h6lxaavwyhojw",
+    "role": "rules",
+    "name": "獎金獵人刊登頁"
+   }
+  ],
+  "seen_in": "B 級（通過三硬條件與門檻四，但命中降級條件）",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2027-ganjingworld-kindness-tw",
+  "note": "single"
+ },
+ {
+  "key": "c0067",
+  "title": "交通部公路局「淡江大橋通車系列攝影比賽（第二階段）」",
+  "deadline": "2027-03-31",
+  "urls": [
+   {
+    "url": "https://bhuntr.com/tw/competitions/ozumm66vptkqd53lw7",
+    "role": "rules",
+    "name": "獎金獵人刊登頁"
+   }
+  ],
+  "seen_in": "B 級（通過三硬條件與門檻四，但命中降級條件）",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2027-danjiang-bridge-photo-painting",
+  "note": "single (gpt-6.1-sol did not pass: gemini-4-hydrogen-medium: record; gpt-6.1-sol: none (no valid out.json: [Errno 2] No such file or directory: '/ho))"
+ },
+ {
+  "key": "c0068",
+  "title": "財團法人夏荊山文化藝術基金會「第五屆荊山新創獎（品牌與視覺傳達設計組）」",
+  "deadline": "2027-04-30",
+  "urls": [
+   {
+    "url": "https://bhuntr.com/tw/competitions/64hpb2gj45zu3xldsq",
+    "role": "rules",
+    "name": "獎金獵人刊登頁"
+   }
+  ],
+  "seen_in": "B 級（通過三硬條件與門檻四，但命中降級條件）",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2027-jingshan-creative-art",
+  "note": "single (gpt-6.1-sol did not pass: gemini-4-hydrogen-medium: record; gpt-6.1-sol: none (no valid out.json: [Errno 2] No such file or directory: '/ho))"
+ },
+ {
+  "key": "c0069",
+  "title": "松柏嶺受天宮「2026受天宮影像創作大賽『看見・信仰』」（學生組）",
+  "deadline": "2027-05-01",
+  "urls": [
+   {
+    "url": "https://bhuntr.com/tw/competitions/7cs84kicsqvosswzll",
+    "role": "rules",
+    "name": "獎金獵人競賽頁"
+   },
+   {
+    "url": "https://bhuntr.com/tw/competitions/7cs84kicsqvosswzll",
+    "role": "registration",
+    "name": "獎金獵人競賽頁"
+   }
+  ],
+  "seen_in": "B 級（通過三硬條件與門檻四，但命中降級條件）",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2027-shoutian-visual",
+  "note": "single (gpt-6.1-sol did not pass: gemini-4-hydrogen-medium: record; gpt-6.1-sol: none (no valid out.json: [Errno 2] No such file or directory: '/ho))"
+ },
+ {
+  "key": "c0070",
+  "title": "巴哈姆特「2027 巴哈姆特 ACG 創作大賽」",
+  "deadline": "2027-05-20",
+  "urls": [
+   {
+    "url": "https://bhuntr.com/tw/competitions/v20n6cyx4uhb5sb9mr",
+    "role": "rules",
+    "name": "獎金獵人刊登頁"
+   }
+  ],
+  "seen_in": "B 級（通過三硬條件與門檻四，但命中降級條件）",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2027-bahamut-acg-award",
+  "note": "single"
+ },
+ {
+  "key": "c0071",
+  "title": "教育部「第13屆 MATA 獎 - 高級中等學校拍片企劃組」",
+  "deadline": "2027-06-07",
+  "urls": [
+   {
+    "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg225/%E7%AC%AC13%E5%B1%86MATA%E7%8D%8E-Butaso.pdf",
+    "role": "rules",
+    "name": "競賽辦法 PDF（建國中學網站上的副本，搜尋取得）"
+   },
+   {
+    "url": "https://mata.moe.edu.tw/",
+    "role": "rules",
+    "name": ""
+   },
+   {
+    "url": "https://forms.gle/8DDoVv2mmJ2ARSvv7",
+    "role": "registration",
+    "name": ""
+   }
+  ],
+  "seen_in": "B 級（通過三硬條件與門檻四，但命中降級條件）",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2027-moe-mata-award",
+  "note": "single (gpt-6.1-sol did not pass: gemini-4-hydrogen-medium: record; gpt-6.1-sol: none (no valid out.json: [Errno 2] No such file or directory: '/ho))"
+ },
+ {
+  "key": "c0072",
+  "title": "中華民國歷屆十大傑出女青年協會「2027 第二屆全國傑出學生『科普AI』壁報競賽」",
+  "deadline": "2027-02-01",
+  "urls": [
+   {
+    "url": "https://www.tngs.tn.edu.tw/2026/11/17/2027-%e7%ac%ac%e4%ba%8c%e5%b1%86-%e5%85%a8%e5%9c%8b%e5%82%91%e5%87%ba%e5%ad%b8%e7%94%9f%e3%80%8e%e7%a7%91%e6%99%ae-ai%e3%80%8f%e5%a3%81%e5%a0%b1%e7%ab%b6%e8%b3%bd/",
+    "role": "rules",
+    "name": "臺南女中轉發公告"
+   },
+   {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSfzhDl2bA-FqEvPLn0XPUlzLgcmnzCDqF26Qrq8HhxRJDpGMg/viewform",
+    "role": "registration",
+    "name": ""
+   },
+   {
+    "url": "https://www.tngs.tn.edu.tw/2026/11/17/2027-%e7%ac%ac%e4%ba%8c%e5%b1%86-%e5%85%a8%e5%9c%8b%e5%82%91%e5%87%ba%e5%ad%b8%e7%94%9f%e3%80%8e%e7%a7%91%e6%99%ae-ai%e3%80%8f%e5%a3%81%e5%a0%b1%e7%ab%b6%e8%b3%bd/",
+    "role": "announcement",
+    "name": "臺南女中轉發公告"
+   }
+  ],
+  "seen_in": "⏳ 待讀簡章（1 則）— 還沒讀到辦法本文，暫不分級",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2027-popular-science-ai-poster",
+  "note": "single"
+ },
+ {
+  "key": "c0073",
+  "title": "龍華科技大學「2026第三屆地酒盃全國永續綠餐創意飲調與餐服競賽」",
+  "deadline": "2026-11-20",
+  "urls": [
+   {
+    "url": "https://www.ksvs.kh.edu.tw/v4/cpsub/article.php?id=12696",
+    "role": "announcement",
+    "name": ""
+   }
+  ],
+  "seen_in": "❌ 已排除 ·【需實體製作】（26 則）",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-lhu-terroir-cup",
+  "note": "dual, verified"
+ },
+ {
+  "key": "c0074",
+  "title": "萬能科技大學「BEAUTY NEXT 2026 美麗新世代－全國創新美業 × 寵物美容大賽」",
+  "deadline": "2026-11-25",
+  "urls": [
+   {
+    "url": "https://www.ksvs.kh.edu.tw/v4/cpsub/article.php?id=12712",
+    "role": "announcement",
+    "name": ""
+   }
+  ],
+  "seen_in": "❌ 已排除 ·【需實體製作】（26 則）",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-vnu-beauty-next",
+  "note": "dual, verified"
+ },
+ {
+  "key": "c0075",
+  "title": "國立雲林科技大學「2026瘋狂工程師｜爆走四驅！我要成為改造王-四驅車競速賽」",
+  "deadline": "2026-11-20",
+  "urls": [
+   {
+    "url": "https://www.taivs.tp.edu.tw/content?a=T0RESVRYcFJlVTE2UVhsTmFrRTl4c21hTkJ6YTY1RWUwc0dWaW50ZWx5",
+    "role": "announcement",
+    "name": ""
+   }
+  ],
+  "seen_in": "❌ 已排除 ·【需實體製作】（26 則）",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-yuntech-mini4wd",
+  "note": "dual, verified"
+ },
+ {
+  "key": "c0076",
+  "title": "淡江大學化學學系「2026第二十一屆鍾靈化學創意競賽」",
+  "deadline": "2026-12-10",
+  "urls": [
+   {
+    "url": "https://www.fg.tp.edu.tw/news/2026%e7%ac%ac%e4%ba%8c%e5%8d%81%e4%b8%80%e5%b1%86%e9%8d%be%e9%9d%88%e5%8c%96%e5%ad%b8%e5%89%b5%e6%84%8f%e7%ab%b6%e8%b3%bd/",
+    "role": "announcement",
+    "name": ""
+   }
+  ],
+  "seen_in": "❌ 已排除 ·【需實體製作】（26 則）",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-tku-chung-ling-chemistry",
+  "note": "single ( did not pass: gemini-4-hydrogen-medium: record)"
+ },
+ {
+  "key": "c0077",
+  "title": "第 39 屆信誼幼兒文學獎",
+  "deadline": "2026-12-15",
+  "urls": [
+   {
+    "url": "https://bhuntr.com/tw/competitions/fjgoynhxiyj6a2fp3d",
+    "role": "announcement",
+    "name": ""
+   }
+  ],
+  "seen_in": "❌ 已排除 ·【需實體製作】（26 則）",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "given_up",
+  "attempts": 2,
+  "record": null,
+  "note": "gemini-4-hydrogen-medium: none (no document could be fetched: https://bhuntr.com/tw/competit)"
+ },
+ {
+  "key": "c0078",
+  "title": "南臺科技大學「2027第17屆全國高中職日語看圖說故事（紙芝居）比賽」",
+  "deadline": "2027-03-04",
+  "urls": [
+   {
+    "url": "https://www.taivs.tp.edu.tw/content?a=T0RESVRsUnJlVTlVVFROT2FrVTl3RUZWUHAzYTY1RWUwc0dWaW50ZWx5",
+    "role": "announcement",
+    "name": ""
+   }
+  ],
+  "seen_in": "❌ 已排除 ·【需實體製作】（26 則）",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2027-stust-kamishibai",
+  "note": "single"
+ },
+ {
+  "key": "c0079",
+  "title": "國立高雄科技大學「2026學生船模創客大賽」",
+  "deadline": "2026-11-20",
+  "urls": [
+   {
+    "url": "https://www.ksvs.kh.edu.tw/v4/cpsub/article.php?id=12665",
+    "role": "announcement",
+    "name": ""
+   }
+  ],
+  "seen_in": "❌ 已排除 ·【需實體製作】（26 則）",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-nkust-ship-model",
+  "note": "single"
+ },
+ {
+  "key": "c0080",
+  "title": "2026 JUSTSHOW盃專業口布摺疊技能競賽",
+  "deadline": "2026-11-22",
+  "urls": [
+   {
+    "url": "https://www.hssh.tp.edu.tw/p/405-1000-52704,c540.php?Lang=zh-tw",
+    "role": "announcement",
+    "name": ""
+   }
+  ],
+  "seen_in": "❌ 已排除 ·【需實體製作】（26 則）",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-justshow-napkin-folding",
+  "note": "single, checked"
+ },
+ {
+  "key": "c0081",
+  "title": "國立高雄科技大學「H2GP Taiwan 2027大獎賽－全球最大跨學科氫能教育活動」",
+  "deadline": "2026-12-14",
+  "urls": [
+   {
+    "url": "https://www.nknush.kh.edu.tw/announcement/high-school-news/22103/%e5%85%ac%e5%91%8ah2gp-taiwan-2027%e5%a4%a7%e7%8d%8e%e8%b3%bd%ef%bc%8d%e5%85%a8%e7%90%83%e6%9c%80%e5%a4%a7%e8%b7%a8%e5%ad%b8%e7%a7%91%e6%b0%ab%e8%83%bd%e6%95%99%e8%82%b2%e6%b4%bb%e5%8b%95%e8%a8%ad/",
+    "role": "announcement",
+    "name": ""
+   }
+  ],
+  "seen_in": "❌ 已排除 ·【需實體製作】（26 則）",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-nkust-h2gp-taiwan",
+  "note": "single ( did not pass: gemini-4-hydrogen-medium: record)"
+ },
+ {
+  "key": "c0082",
+  "title": "華梵大學「2027華梵大學〈大觸特觸全國高中職設計大賽〉」",
+  "deadline": "2027-02-26",
+  "urls": [
+   {
+    "url": "https://www.ksvs.kh.edu.tw/v4/cpsub/article.php?id=12608",
+    "role": "announcement",
+    "name": ""
+   }
+  ],
+  "seen_in": "❌ 已排除 ·【需實體製作】（26 則）",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2027-hfu-design",
+  "note": "single (gpt-6.1-sol did not pass: gemini-4-hydrogen-medium: record; gpt-6.1-sol: none (no valid out.json: [Errno 2] No such file or directory: '/ho))"
+ },
+ {
+  "key": "c0083",
+  "title": "崑山科技大學「2026全國智慧科技創客挑戰賽」",
+  "deadline": "2026-11-30",
+  "urls": [
+   {
+    "url": "https://www.ksvs.kh.edu.tw/v4/cpsub/article.php?id=12610",
+    "role": "announcement",
+    "name": ""
+   }
+  ],
+  "seen_in": "❌ 已排除 ·【需實體製作】（26 則）",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-ksu-smart-maker",
+  "note": "single"
+ },
+ {
+  "key": "c0084",
+  "title": "國立彰化師範大學、財團法人仰望教育基金會「2027仰望盃全國科學HomeRun實作大賽」",
+  "deadline": "2027-01-04",
+  "urls": [
+   {
+    "url": "https://www.nknush.kh.edu.tw/announcement/high-school-news/21513/%e5%85%ac%e5%91%8a2027%e4%bb%b0%e6%9c%9b%e7%9b%83%e5%85%a8%e5%9c%8b%e7%a7%91%e5%ad%b8homerun%e5%af%a6%e4%bd%9c%e5%a4%a7%e8%b3%bd%e8%a8%ad%e5%82%99%e7%b5%84/",
+    "role": "announcement",
+    "name": ""
+   }
+  ],
+  "seen_in": "❌ 已排除 ·【需實體製作】（26 則）",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2027-ncue-homerun-science",
+  "note": "single ( did not pass: gemini-4-hydrogen-medium: record)"
+ },
+ {
+  "key": "c0085",
+  "title": "苗栗縣政府「2027台灣燈會在苗栗-全國花燈競賽」",
+  "deadline": "2026-12-04",
+  "urls": [
+   {
+    "url": "https://bhuntr.com/tw/competitions/lqe7x7kmm9lre29fx4",
+    "role": "announcement",
+    "name": ""
+   }
+  ],
+  "seen_in": "❌ 已排除 ·【需實體製作】（26 則）",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-miaoli-lantern",
+  "note": "single"
+ },
+ {
+  "key": "c0086",
+  "title": "財團法人和氣大愛文教基金會「115和氣大愛文教基金會第三屆全國書法比賽」",
+  "deadline": "2026-11-20",
+  "urls": [
+   {
+    "url": "https://www.ksvs.kh.edu.tw/v4/cpsub/article.php?id=12602",
+    "role": "announcement",
+    "name": ""
+   }
+  ],
+  "seen_in": "❌ 已排除 ·【需實體製作】（26 則）",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "skipped",
+  "attempts": 1,
+  "record": null,
+  "note": "現有文件為高雄高工轉知「2027年高雄市『華維獎』書法比賽」之簡短公告，未包含目標競賽「115和氣大愛文教基金會第三屆全國書法比賽」之內容，亦無比賽簡章、參賽資格與日期等資訊，且連結清單中無簡章連結可供取得。"
+ },
+ {
+  "key": "c0087",
+  "title": "國立臺灣師範大學機電工程學系「2026全國二足機器人競賽」及「國際新創機器人節合作競賽」",
+  "deadline": "2026-11-20",
+  "urls": [
+   {
+    "url": "https://www.ksvs.kh.edu.tw/v4/cpsub/article.php?id=12557",
+    "role": "announcement",
+    "name": ""
+   }
+  ],
+  "seen_in": "❌ 已排除 ·【需實體製作】（26 則）",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-ntnu-biped-robot",
+  "note": "dual, verified"
+ },
+ {
+  "key": "c0088",
+  "title": "城市學校財團法人臺北城市科技大學「2026第八屆全國高中職電競大賽」",
+  "deadline": "2026-12-10",
+  "urls": [
+   {
+    "url": "https://www.taivs.tp.edu.tw/content?a=T0RESVRYcHJNMDFxUVhsT2FrVTkxY0dWTkJ6YTY1RWUwc0dWaW50ZWx5",
+    "role": "announcement",
+    "name": ""
+   }
+  ],
+  "seen_in": "❌ 已排除 ·【需實體製作】（26 則）",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-hk-valorant-autumn",
+  "note": "single"
+ },
+ {
+  "key": "c0089",
+  "title": "崇右影藝科技大學「2026《NEXT IDOL》KPOP偶像舞蹈大賽」",
+  "deadline": "2026-12-06",
+  "urls": [
+   {
+    "url": "https://www.taivs.tp.edu.tw/content?a=T0RESVQwUkZlazVVYTNoTmFsRTl3c21lT0J6YTY1RWUwc0dWaW50ZWx5",
+    "role": "announcement",
+    "name": ""
+   }
+  ],
+  "seen_in": "❌ 已排除 ·【需實體製作】（26 則）",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-cufa-next-idol",
+  "note": "single"
+ },
+ {
+  "key": "c0090",
+  "title": "臺中市常德教育關懷協會「蔬食繪畫嘉年華」（高中組寫生）",
+  "deadline": "2026-11-22",
+  "urls": [
+   {
+    "url": "https://bhuntr.com/tw/competitions/741z7qhw11fov6lvj6",
+    "role": "announcement",
+    "name": ""
+   }
+  ],
+  "seen_in": "❌ 已排除 ·【需實體製作】（26 則）",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-changde-veggie-painting",
+  "note": "single, checked"
+ },
+ {
+  "key": "c0091",
+  "title": "東海大學應用物理學系＆中華民國物理教育學會「2026 第四屆全國科學量測競賽」",
+  "deadline": "2026-11-22",
+  "urls": [
+   {
+    "url": "https://www.fg.tp.edu.tw/news/2026-%e7%ac%ac%e5%9b%9b%e5%b1%86%e5%85%a8%e5%9c%8b%e7%a7%91%e5%ad%b8%e9%87%8f%e6%b8%ac%e7%ab%b6%e8%b3%bd/",
+    "role": "announcement",
+    "name": ""
+   }
+  ],
+  "seen_in": "❌ 已排除 ·【需實體製作】（26 則）",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-phyedu-science-measurement",
+  "note": "single ( did not pass: gemini-4-hydrogen-medium: record)"
+ },
+ {
+  "key": "c0092",
+  "title": "2027 SKM PHOTO 新光三越類比攝影創作徵選",
+  "deadline": "2026-11-20",
+  "urls": [
+   {
+    "url": "https://bhuntr.com/tw/competitions/nj1kp9y4pe4zm4xhvo",
+    "role": "announcement",
+    "name": ""
+   }
+  ],
+  "seen_in": "❌ 已排除 ·【需實體製作】（26 則）",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-skm-photo-analog",
+  "note": "dual, verified"
+ },
+ {
+  "key": "c0093",
+  "title": "2027 大甲媽原創音樂比賽",
+  "deadline": "2026-12-09",
+  "urls": [
+   {
+    "url": "https://bhuntr.com/tw/competitions/z8nqgesacta77ujwva",
+    "role": "announcement",
+    "name": ""
+   }
+  ],
+  "seen_in": "❌ 已排除 ·【需實體製作】（26 則）",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-dajiamazu-original-music",
+  "note": "single (gpt-6.1-sol did not pass: gemini-4-hydrogen-medium: record; gpt-6.1-sol: record (1 errors))"
+ },
+ {
+  "key": "c0094",
+  "title": "2027 SYM 三陽創新設計大賽",
+  "deadline": "2026-12-17",
+  "urls": [
+   {
+    "url": "https://bhuntr.com/tw/competitions/99e2bly7unmn70c56e",
+    "role": "announcement",
+    "name": ""
+   }
+  ],
+  "seen_in": "❌ 已排除 ·【需實體製作】（26 則）",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-sym-design",
+  "note": "single (gpt-6.1-sol did not pass: gemini-4-hydrogen-medium: record; gpt-6.1-sol: none (no valid out.json: [Errno 2] No such file or directory: '/ho))"
+ },
+ {
+  "key": "c0095",
+  "title": "環境部「2026-2027環境關懷友善設計競賽」",
+  "deadline": "2027-01-15",
+  "urls": [
+   {
+    "url": "https://efdesign.tw/rules",
+    "role": "announcement",
+    "name": ""
+   }
+  ],
+  "seen_in": "❌ 已排除 ·【需實體製作】（26 則）",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2027-moenv-efdesign",
+  "note": "single (gpt-6.1-sol did not pass: gemini-4-hydrogen-medium: record; gpt-6.1-sol: none (no valid out.json: [Errno 2] No such file or directory: '/ho))"
+ },
+ {
+  "key": "c0096",
+  "title": "國際佛光會中華佛光青年總團「第七屆三好歌曲創作大賽」",
+  "deadline": "2027-02-10",
+  "urls": [
+   {
+    "url": "https://bhuntr.com/tw/competitions/fj36o93ctawywuwaox",
+    "role": "announcement",
+    "name": ""
+   }
+  ],
+  "seen_in": "❌ 已排除 ·【需實體製作】（26 則）",
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "status": "done",
+  "attempts": 1,
+  "record": "2027-blia-three-acts-song",
+  "note": "single (gpt-6.1-sol did not pass: gemini-4-hydrogen-medium: record; gpt-6.1-sol: none (no valid out.json: [Errno 2] No such file or directory: '/ho))"
+ }
+]

@@ -1,0 +1,195 @@
+{
+  "schema": 1,
+  "id": "2026-nkut-elderly-lohas-lifestory",
+  "title": "2026 年第 11 屆全國高中職銀髮族樂活創意設計與生命故事製作競賽",
+  "edition": "第 11 屆",
+  "summary": "最多 5 名高中職生組隊，依組別繳交 3 頁內銀髮族活動、生活用品或生命故事構想書，入圍決賽者須赴南開科大現場簡報或展演。",
+  "organizers": [
+    {
+      "name": "南開科技大學長期照顧與管理系",
+      "role": "主辦"
+    },
+    {
+      "name": "財團法人錦春堂文化基金會",
+      "role": "協辦"
+    }
+  ],
+  "categories": [
+    "醫護與照顧",
+    "設計",
+    "影音"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職"
+    ],
+    "division": "hs_only",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": null,
+    "team_max": 5,
+    "teacher": "required",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/1EbWWdAuBmfnjnYhGskyfXA1cOPTpu42V/view",
+        "quote": "所有隊伍成員須為教育部立案之高中職學生；指導老師須具備高中職之專任或兼任教師資格。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1EbWWdAuBmfnjnYhGskyfXA1cOPTpu42V/view",
+        "quote": "每隊學生人數以5 人為限，每位學生僅能報名1 個隊伍，且每隊只能選擇A、B、C 其中一個組別參賽。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1EbWWdAuBmfnjnYhGskyfXA1cOPTpu42V/view",
+        "quote": "每隊設指導老師1～2 名，指導老師可跨隊重複指導。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "線上報名及繳件截止",
+      "date": "2026-11-27",
+      "time": null,
+      "original": "民國115 年11 月27 日（週五）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://drive.google.com/file/d/1EbWWdAuBmfnjnYhGskyfXA1cOPTpu42V/view",
+          "quote": "請於民國115 年11 月27 日（週五）前完成線上報名，並填妥附件後請一併上傳。"
+        }
+      ]
+    },
+    {
+      "kind": "shortlist_announcement",
+      "label": "公佈進入決賽名單",
+      "date": "2026-12-04",
+      "time": null,
+      "original": "115 年12 月04 日（週五）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://drive.google.com/file/d/1EbWWdAuBmfnjnYhGskyfXA1cOPTpu42V/view",
+          "quote": "於115 年12 月04 日（週五）在「南開科大長期照顧與管理系」網站公佈進入決賽名單"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "決賽",
+      "date": "2026-12-17",
+      "time": "09:00",
+      "original": "115 年12 月17 日（週四）上午09：00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://drive.google.com/file/d/1EbWWdAuBmfnjnYhGskyfXA1cOPTpu42V/view",
+          "quote": "115 年12 月17 日（週四）上午09：00 開始。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "初審（線上報名）",
+      "what": "依組別撰寫 3 頁內設計構想書或單元活動設計表（附件一至三）",
+      "how": "online"
+    },
+    {
+      "stage": "決賽（入圍隊伍）",
+      "what": "現場進行 10 分鐘口頭簡報、演練示範、成品展示或影片播放（A 組活動演練或簡報；B 組口頭簡報或展示作品；C 組繪本／模型簡報展示或 10 分鐘內微電影／紀錄片播放）",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "finalists",
+    "where": "南開科技大學樸華樓（南投縣草屯鎮中正路568 號）",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/1EbWWdAuBmfnjnYhGskyfXA1cOPTpu42V/view",
+        "quote": "決賽地點：南開科技大學樸華樓（南投縣草屯鎮中正路568 號）。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1EbWWdAuBmfnjnYhGskyfXA1cOPTpu42V/view",
+        "quote": "A. 銀髮族活動設計：於比賽現場進行活動設計內容口頭簡報或自行活動演練示範10 分鐘。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/1EbWWdAuBmfnjnYhGskyfXA1cOPTpu42V/view"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "各組（A、B、C 組）分別頒發：金牌獎每人獎狀乙紙、全組獎金 5,000 元；銀牌獎每人獎狀乙紙、全組獎金 3,000 元；銅牌獎每人獎狀乙紙、全組獎金 2,000 元；佳作獎每人獎狀乙紙。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/1EbWWdAuBmfnjnYhGskyfXA1cOPTpu42V/view",
+        "quote": "金牌獎 每人獎狀乙紙，全組獎金5000 元"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1EbWWdAuBmfnjnYhGskyfXA1cOPTpu42V/view",
+        "quote": "銀牌獎 每人獎狀乙紙，全組獎金3000 元"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1EbWWdAuBmfnjnYhGskyfXA1cOPTpu42V/view",
+        "quote": "銅牌獎 每人獎狀乙紙，全組獎金2000 元"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1EbWWdAuBmfnjnYhGskyfXA1cOPTpu42V/view",
+        "quote": "佳作獎 每人獎狀乙紙"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/1EbWWdAuBmfnjnYhGskyfXA1cOPTpu42V/view"
+      }
+    ]
+  },
+  "links": {
+    "official": null,
+    "rules": [
+      {
+        "title": "計畫書/報名簡章",
+        "url": "https://drive.google.com/file/d/1EbWWdAuBmfnjnYhGskyfXA1cOPTpu42V/view"
+      }
+    ],
+    "registration": "https://forms.gle/Bym7mT9o77MA77Cq8"
+  },
+  "found_via": [
+    {
+      "name": "簡章 PDF（Google Drive，斗六高中轉發）",
+      "url": "https://drive.google.com/file/d/1EbWWdAuBmfnjnYhGskyfXA1cOPTpu42V/view"
+    },
+    {
+      "name": "斗六高中轉發公告",
+      "url": "https://www.tlsh.ylc.edu.tw/2026/10/14/68076/"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-21",
+    "method": "dual",
+    "unread": [],
+    "note": null,
+    "readers": [
+      "gemini-4-hydrogen-medium",
+      "gpt-6.1-sol"
+    ]
+  },
+  "first_seen": "2026-11-20",
+  "updated": "2026-11-20"
+}

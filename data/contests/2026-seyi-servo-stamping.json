@@ -1,0 +1,246 @@
+{
+  "schema": 1,
+  "id": "2026-seyi-servo-stamping",
+  "title": "2026《協易盃》大手攜小手~伺服沖壓創新應用競賽",
+  "edition": "2026",
+  "summary": "高中職 2 至 4 人組隊受大學種子團隊輔導，就伺服沖壓創新應用繳交 15 頁內簡報，入圍者至現場口頭報告並展示 A0 海報。",
+  "organizers": [
+    {
+      "name": "台灣塑性加工學會",
+      "role": "主辦"
+    },
+    {
+      "name": "國立高雄科技大學智慧機電學院機械工程系",
+      "role": "主辦"
+    },
+    {
+      "name": "教育部高教司",
+      "role": "指導"
+    },
+    {
+      "name": "教育部技職司",
+      "role": "指導"
+    },
+    {
+      "name": "教育部國教署",
+      "role": "指導"
+    },
+    {
+      "name": "國立中山大學",
+      "role": "協辦"
+    },
+    {
+      "name": "國立中央大學",
+      "role": "協辦"
+    },
+    {
+      "name": "國立彰化師範大學",
+      "role": "協辦"
+    },
+    {
+      "name": "國立臺北科技大學",
+      "role": "協辦"
+    },
+    {
+      "name": "國立臺灣科技大學",
+      "role": "協辦"
+    },
+    {
+      "name": "國立勤益科技大學",
+      "role": "協辦"
+    },
+    {
+      "name": "國立虎尾科技大學",
+      "role": "協辦"
+    }
+  ],
+  "categories": [
+    "工程與製造",
+    "資訊與 AI"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職",
+      "大專"
+    ],
+    "division": "separate",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 2,
+    "team_max": 4,
+    "teacher": "required",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/1ML3sQHASHKrtSM4cxxwYFxiIbNAPl7-D/view?usp=sharing",
+        "quote": "高中暨技術高中：同校學生(每隊 2 ~ 4 位) 須指定1人擔任隊長，須有1位指導老師，以組成高中職參賽團隊，並接受大學暨科技大學種子團隊輔導。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1ML3sQHASHKrtSM4cxxwYFxiIbNAPl7-D/view?usp=sharing",
+        "quote": "大學暨科技大學：1位指導老師、博士生與碩士生及大學生(不限，合計至多4位)。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1vv1IWwGdbkgb6o60wMK5TbL77ElZV1Kz/view?usp=sharing",
+        "quote": "本競賽邀請全國高中暨技術高中機械、機電、模具、板金、製圖、自動化、資訊工程及相關科系學生自由組隊報名參加"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "線上報名截止",
+      "date": "2026-09-30",
+      "time": null,
+      "original": "115年7月31日 (延長)115年9月30日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://drive.google.com/file/d/1ML3sQHASHKrtSM4cxxwYFxiIbNAPl7-D/view?usp=sharing",
+          "quote": "報名截止日期：115年7月31日 (延長)115年9月30日"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "初賽簡報繳交截止",
+      "date": "2027-02-26",
+      "time": null,
+      "original": "116 年 2 月 26 日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://drive.google.com/file/d/1ML3sQHASHKrtSM4cxxwYFxiIbNAPl7-D/view?usp=sharing",
+          "quote": "簡報繳交截止日(116 年 2 月 26 日)"
+        }
+      ]
+    },
+    {
+      "kind": "shortlist_announcement",
+      "label": "公告與通知入圍決賽隊伍",
+      "date": "2027-03-15",
+      "time": null,
+      "original": "116年 3 月 15 日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://drive.google.com/file/d/1ML3sQHASHKrtSM4cxxwYFxiIbNAPl7-D/view?usp=sharing",
+          "quote": "116年 3 月 15 日 公告與通知入圍決賽隊伍"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "決賽與頒獎",
+      "date": "2027-03-27",
+      "time": null,
+      "original": "116年 3 月 27日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://drive.google.com/file/d/1ML3sQHASHKrtSM4cxxwYFxiIbNAPl7-D/view?usp=sharing",
+          "quote": "116年 3 月 27日 決賽（現場口頭報告）與頒獎"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "初賽",
+      "what": "15 頁內橫式 PPT 簡報（可另附 3-5 分鐘演示影片）",
+      "how": "online"
+    },
+    {
+      "stage": "決賽",
+      "what": "修正後 15 頁內 PPT、A0 直式海報、12 分鐘現場簡報與 3 分鐘 Q&A（可另附 3-5 分鐘演示影片）",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "finalists",
+    "where": null,
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/1ML3sQHASHKrtSM4cxxwYFxiIbNAPl7-D/view?usp=sharing",
+        "quote": "決賽：邀請入圍隊伍參加現場報告，由技術委員會現場評審"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/1vv1IWwGdbkgb6o60wMK5TbL77ElZV1Kz/view?usp=sharing",
+        "quote": "競賽免收報名費，主辦單位並規劃辦理夏令營、研習課程等相關教育訓練活動，提供參賽團隊學習與交流機會。"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "高中職獎項：第一名 1 隊 4 萬元、第二名 1 隊 2 萬元、第三名 1 隊 1 萬元、佳作 3 隊各 5 千元、入圍 5 隊各 2 千元，皆附學生獎狀及指導老師獎盃或感謝狀；未得獎但完賽者頒發參賽證明。大學暨科技大學獎項：最佳種子團隊獎 4 萬元、最佳技術指導獎 2 萬元、最佳大學參與獎 1 萬元。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://bhuntr.com/tw/competitions/9fwyahhddq4cdk4hsn",
+        "quote": "總獎金新臺幣165,000元。最高獎金新臺幣40,000元。將頒發獎金與獎狀予高中職獎項得獎隊伍及大學暨科技大學得獎隊伍。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1ML3sQHASHKrtSM4cxxwYFxiIbNAPl7-D/view?usp=sharing",
+        "quote": "完成競賽但未得獎之參賽人員，將授予參賽證明一紙，以資鼓勵。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "allowed",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/1ML3sQHASHKrtSM4cxxwYFxiIbNAPl7-D/view?usp=sharing",
+        "quote": "並可運用人工智慧工具，不僅限於AI模型，目標以學習進而能解決複雜伺服沖壓工程問題。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1ML3sQHASHKrtSM4cxxwYFxiIbNAPl7-D/view?usp=sharing",
+        "quote": "可採用 AI (或不採用 AI)"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://reurl.cc/qp2e5q",
+    "rules": [
+      {
+        "title": "2026《協易盃》大手攜小手~伺服沖壓創新應用競賽簡章",
+        "url": "https://drive.google.com/file/d/1ML3sQHASHKrtSM4cxxwYFxiIbNAPl7-D/view?usp=sharing"
+      },
+      {
+        "title": "國立高雄科技大學競賽公文",
+        "url": "https://drive.google.com/file/d/1vv1IWwGdbkgb6o60wMK5TbL77ElZV1Kz/view?usp=sharing"
+      },
+      {
+        "title": "競賽簡介",
+        "url": "https://drive.google.com/file/d/1PWbQiIuD3kQtjJntBqS-XvjzrNuGhvIT/view?usp=sharing"
+      }
+    ],
+    "registration": "https://reurl.cc/qp2lb3"
+  },
+  "found_via": [
+    {
+      "name": "獎金獵人刊登頁",
+      "url": "https://bhuntr.com/tw/competitions/9fwyahhddq4cdk4hsn"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-20",
+    "method": "single",
+    "unread": [],
+    "note": null,
+    "readers": [
+      "gemini-4-hydrogen-medium"
+    ]
+  },
+  "first_seen": "2026-11-20",
+  "updated": "2026-11-20"
+}

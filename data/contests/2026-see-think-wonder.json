@@ -1,0 +1,208 @@
+{
+  "schema": 1,
+  "id": "2026-see-think-wonder",
+  "title": "2027 See Think Wonder 思考挑戰賽",
+  "edition": "2027",
+  "summary": "國高中生三人組隊參加三階段思考挑戰，線上繳交個人觀察報告書，晉級者參與線上口試及臺灣大學實體黑客松提案發表。",
+  "organizers": [
+    {
+      "name": "雙橡教育 Twin Oaks Education",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "其他"
+  ],
+  "eligibility": {
+    "levels": [
+      "國中",
+      "高中"
+    ],
+    "division": "mixed",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 3,
+    "team_max": 3,
+    "teacher": "none",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://bhuntr.com/tw/competitions/vfe75l2vn90dvo953r",
+        "quote": "全球 12–18 歲，目前就讀國中、高中或具同等學歷的學生，國籍不限。每隊 3 人，可自行組隊，也可單獨報名，由主辦單位協助隨機組隊。"
+      },
+      {
+        "url": "https://bhuntr.com/tw/competitions/vfe75l2vn90dvo953r",
+        "quote": "學生自行報名｜無論已組好隊伍或希望由主辦單位協助組隊，皆可填寫「個人報名表單」"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "報名截止",
+      "date": "2026-12-21",
+      "time": "23:59",
+      "original": "2026/12/21（一）23:59",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://bhuntr.com/tw/competitions/vfe75l2vn90dvo953r",
+          "quote": "免費報名，截止至 2026/12/21（一）23:59"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "公布組隊名單，寄發書審題目與報告書撰寫指引",
+      "date": "2027-01-08",
+      "time": null,
+      "original": "2027/01/08（五）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://bhuntr.com/tw/competitions/vfe75l2vn90dvo953r",
+          "quote": "2027/01/08（五）公布組隊名單，寄發書審題目與報告書撰寫指引"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "線上繳交書審報告書截止",
+      "date": "2027-02-19",
+      "time": null,
+      "original": "2027/01/08（五）至 02/19（五）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://bhuntr.com/tw/competitions/vfe75l2vn90dvo953r",
+          "quote": "2027/01/08（五）至 02/19（五）線上繳交書審報告書，02/19 為繳交截止日"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "線上口試",
+      "date": "2027-03-20",
+      "time": null,
+      "original": "2027/03/20（六）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://bhuntr.com/tw/competitions/vfe75l2vn90dvo953r",
+          "quote": "2027/03/20（六）線上口試，各隊於指定時段全員上線"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "臺灣大學實體黑客松",
+      "date": "2027-04-25",
+      "time": null,
+      "original": "2027/04/23（五）至 04/25（日）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://bhuntr.com/tw/competitions/vfe75l2vn90dvo953r",
+          "quote": "2027/04/23（五）至 04/25（日）臺灣大學實體黑客松，晉級隊伍須全員參與三天"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報告書書審",
+      "what": "每位參賽者各自完成並線上繳交報告書",
+      "how": "online"
+    },
+    {
+      "stage": "線上口試",
+      "what": "隊伍全員參與即時問答，每組約 15–20 分鐘",
+      "how": "online"
+    },
+    {
+      "stage": "實體黑客松",
+      "what": "前兩天進行培訓與團隊討論，第三天下午發表提案",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "finalists",
+    "where": "臺灣大學",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://bhuntr.com/tw/competitions/vfe75l2vn90dvo953r",
+        "quote": "口試成績前 15 名晉級實體黑客松。實體黑客松｜2027/04/23（五）– 04/25（日)"
+      },
+      {
+        "url": "https://bhuntr.com/tw/competitions/vfe75l2vn90dvo953r",
+        "quote": "於臺灣大學舉行。前兩天進行培訓與團隊討論，第三天下午發表提案。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://bhuntr.com/tw/competitions/vfe75l2vn90dvo953r",
+        "quote": "免費報名，截止至 2026/12/21（一）23:59"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "依個人書審分數頒發金、銀、銅等證書（未達銅等但期限內繳交完整報告書者獲參加證明）；晉級實體黑客松者獲雙橡海外課程獎學金 2 萬元及黑客松參賽證明；冠軍隊伍每位成員各獲台灣－香港來回機票 1 張；另設 2028 雙橡美國 HTH 計畫全額贊助 1 名（國一或國二獲獎者改頒雙橡海外課程獎學金）。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://bhuntr.com/tw/competitions/vfe75l2vn90dvo953r",
+        "quote": "See Think Wonder 思考力證書｜依個人書審分數頒發金、銀、銅等證書。"
+      },
+      {
+        "url": "https://bhuntr.com/tw/competitions/vfe75l2vn90dvo953r",
+        "quote": "雙橡海外課程獎學金 2 萬元｜凡晉級實體黑客松者皆可獲得台灣－香港來回機票｜冠軍隊伍每位成員各獲 1 張"
+      },
+      {
+        "url": "https://bhuntr.com/tw/competitions/vfe75l2vn90dvo953r",
+        "quote": "2028 雙橡美國 HTH 計畫全額贊助｜名額 1 名。若獲獎者為國一或國二學生，則頒發雙橡海外課程獎學金"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://bhuntr.com/tw/competitions/vfe75l2vn90dvo953r"
+      },
+      {
+        "url": "https://www.stwchallenge.org/apply"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://www.stwchallenge.org/",
+    "rules": [],
+    "registration": "https://www.stwchallenge.org/apply"
+  },
+  "found_via": [
+    {
+      "name": "獎金獵人刊登頁",
+      "url": "https://bhuntr.com/tw/competitions/vfe75l2vn90dvo953r"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-21",
+    "method": "single",
+    "unread": [],
+    "note": null,
+    "readers": [
+      "gemini-4-hydrogen-medium"
+    ]
+  },
+  "first_seen": "2026-11-20",
+  "updated": "2026-11-20"
+}

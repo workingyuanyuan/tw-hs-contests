@@ -1,0 +1,180 @@
+{
+  "schema": 1,
+  "id": "2027-shs-reading-reflection",
+  "title": "115學年度全國高級中等學校閱讀心得寫作比賽",
+  "edition": "115 學年度第二學期",
+  "summary": "高中職在學學生閱讀課外書籍後單人撰寫心得，經學校控管後於中學生網站線上投稿。",
+  "organizers": [
+    {
+      "name": "教育部國民及學前教育署",
+      "role": "主辦"
+    },
+    {
+      "name": "全國高級中等學校圖書館輔導團",
+      "role": "承辦"
+    },
+    {
+      "name": "國立嘉義高級工業職業學校",
+      "role": "承辦"
+    }
+  ],
+  "categories": [
+    "語文與寫作"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職"
+    ],
+    "division": "hs_only",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "school",
+    "team_min": 1,
+    "team_max": 1,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://bhuntr.com/tw/competitions/zfrxr4h6vsi8gicjko",
+        "quote": "參賽資格全國高級中等學校在學學生（含高級中等教育階段非學校型態實驗教育學生，註冊事宜請洽全國高級中等學校圖書館輔導團）。"
+      },
+      {
+        "url": "https://bhuntr.com/tw/competitions/zfrxr4h6vsi8gicjko",
+        "quote": "每位在學學生每學期僅能投稿一篇作品，每篇作品須為單一作者，不接受聯名投稿（休學生，請於復學後再行投稿）。"
+      },
+      {
+        "url": "https://bhuntr.com/tw/competitions/zfrxr4h6vsi8gicjko",
+        "quote": "參賽學校於截稿後依表訂時間，透過校內篩選機制自行控管參賽數量。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "other",
+      "label": "第二學期徵件開始",
+      "date": "2027-02-01",
+      "time": null,
+      "original": "116年2月1日（星期一）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://bhuntr.com/tw/competitions/zfrxr4h6vsi8gicjko",
+          "quote": "徵件時間：第一學期：115年9月1日（星期二）第二學期：116年2月1日（星期一）"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "第二學期投稿截止",
+      "date": "2027-03-10",
+      "time": "12:00",
+      "original": "116年3月10日（星期三）中午12時止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://bhuntr.com/tw/competitions/zfrxr4h6vsi8gicjko",
+          "quote": "投稿截止時間：第一學期：115年10月8日（星期四）中午12時止第二學期：116年3月10日（星期三）中午12時止"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "第二學期決選名單公布",
+      "date": "2027-04-16",
+      "time": null,
+      "original": "116年4月16日前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://bhuntr.com/tw/competitions/zfrxr4h6vsi8gicjko",
+          "quote": "決選名單公布時間：第一學期：115年11月14日前第二學期：116年4月16日前"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "投稿",
+      "what": "中文或英文課外書籍閱讀心得寫作一篇（單一作者），並繳交參賽作品切結書至參賽學校承辦處室留存備查",
+      "how": "online"
+    }
+  ],
+  "attendance": {
+    "value": "none",
+    "where": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://bhuntr.com/tw/competitions/zfrxr4h6vsi8gicjko"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://bhuntr.com/tw/competitions/zfrxr4h6vsi8gicjko"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "依年級評分，分為特優、優等、甲等三種等第，由執行單位頒發獎狀乙張。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://bhuntr.com/tw/competitions/zfrxr4h6vsi8gicjko",
+        "quote": "比賽依年級評分，評審評比分為特優、優等、甲等三種等第。由執行單位頒發獎狀乙張，以資鼓勵。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "banned",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://bhuntr.com/tw/competitions/zfrxr4h6vsi8gicjko",
+        "quote": "不得使用任何 AI 工具輔助參賽。"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://www.shs.edu.tw/Customer/Home/ShowMessage?id=641",
+    "rules": [],
+    "registration": "https://www.shs.edu.tw/"
+  },
+  "found_via": [
+    {
+      "name": "獎金獵人刊登頁",
+      "url": "https://bhuntr.com/tw/competitions/zfrxr4h6vsi8gicjko"
+    },
+    {
+      "name": "中學生網站",
+      "url": "https://www.shs.edu.tw/"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-21",
+    "method": "single",
+    "unread": [
+      "115學年度全國高級中等學校閱讀心得寫作比賽實施計畫.pdf",
+      "附件 1（圖書選擇與參賽作品之注意事項）",
+      "附件 2（全國高級中等學校閱讀心得寫作比賽評分規準）",
+      "附件 3（參賽作品切結書）",
+      "附件 4（參賽作品一覽表）",
+      "附件 5（疑似抄襲申復書）"
+    ],
+    "note": null,
+    "readers": [
+      "gemini-4-hydrogen-medium"
+    ]
+  },
+  "first_seen": "2026-11-20",
+  "updated": "2026-11-20",
+  "level": "checked",
+  "url": "https://workingyuanyuan.github.io/tw-hs-contests/contests/2027-shs-reading-reflection/",
+  "markdown": "https://workingyuanyuan.github.io/tw-hs-contests/contests/2027-shs-reading-reflection.md"
+}

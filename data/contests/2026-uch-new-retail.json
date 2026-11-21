@@ -1,0 +1,255 @@
+{
+  "schema": 1,
+  "id": "2026-uch-new-retail",
+  "title": "2026 全國新零售競賽",
+  "edition": "2026",
+  "summary": "1 至 6 名高中職生組隊並由老師指導，完成電商平台佈置、一頁企畫書 PDF 與社群行銷，線上繳件參賽。",
+  "organizers": [
+    {
+      "name": "和盟電子商務股份有限公司",
+      "role": "主辦"
+    },
+    {
+      "name": "巨星創意文化股份有限公司",
+      "role": "主辦"
+    },
+    {
+      "name": "康思迅數位整合行銷股份有限公司",
+      "role": "主辦"
+    },
+    {
+      "name": "賽博資宇股份有限公司",
+      "role": "主辦"
+    },
+    {
+      "name": "健行科技大學 商管學院",
+      "role": "主辦"
+    },
+    {
+      "name": "手信坊股份有限公司",
+      "role": "協辦"
+    },
+    {
+      "name": "全聯實業股份有限公司",
+      "role": "協辦"
+    },
+    {
+      "name": "廷宇網路科技股份有限公司",
+      "role": "協辦"
+    },
+    {
+      "name": "樂千股份有限公司",
+      "role": "協辦"
+    },
+    {
+      "name": "教育部產學連結執行辦公室-國立臺北科技大學",
+      "role": "協辦"
+    },
+    {
+      "name": "健行科技大學 電商人才培育中心",
+      "role": "承辦"
+    }
+  ],
+  "categories": [
+    "商管與行銷",
+    "創業與企劃"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職"
+    ],
+    "division": "hs_only",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": 6,
+    "teacher": "required",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/1ZTZ0tKwAy-dipVeFrJzv0gY-Kurdb-Tl/view",
+        "quote": "1. 全國高中職在學學生。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1ZTZ0tKwAy-dipVeFrJzv0gY-Kurdb-Tl/view",
+        "quote": "2. 可跨班/跨科/跨校組隊。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1ZTZ0tKwAy-dipVeFrJzv0gY-Kurdb-Tl/view",
+        "quote": "3. 每隊人數為1~6 名學生，每隊皆需要一名指導老師。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1ZTZ0tKwAy-dipVeFrJzv0gY-Kurdb-Tl/view",
+        "quote": "※一律採線上報名"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "報名截止",
+      "date": "2026-12-25",
+      "time": null,
+      "original": "即日起 至2026/12/25(五)止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://drive.google.com/file/d/1ZTZ0tKwAy-dipVeFrJzv0gY-Kurdb-Tl/view",
+          "quote": "至2026/12/25(五)止"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "競賽成果上傳截止",
+      "date": "2026-12-31",
+      "time": "24:00",
+      "original": "即日起 至2026/12/31(四)24:00 止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://drive.google.com/file/d/1ZTZ0tKwAy-dipVeFrJzv0gY-Kurdb-Tl/view",
+          "quote": "至2026/12/31(四)24:00 止"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "收件整理及評審階段",
+      "date": "2027-02-03",
+      "time": null,
+      "original": "2027/01/01(五)~ 2027/02/03(三)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://drive.google.com/file/d/1ZTZ0tKwAy-dipVeFrJzv0gY-Kurdb-Tl/view",
+          "quote": "2027/01/01(五)~ 2027/02/03(三)"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "公佈競賽結果",
+      "date": "2027-02-03",
+      "time": null,
+      "original": "2027/02/03(三)前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://drive.google.com/file/d/1ZTZ0tKwAy-dipVeFrJzv0gY-Kurdb-Tl/view",
+          "quote": "2027/02/03(三)前"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "頒獎典禮",
+      "date": null,
+      "time": null,
+      "original": "2027 年3 月 (實際日期待確認後公布)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://drive.google.com/file/d/1ZTZ0tKwAy-dipVeFrJzv0gY-Kurdb-Tl/view",
+          "quote": "2027 年3 月"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名",
+      "what": "線上填寫報名表單",
+      "how": "online"
+    },
+    {
+      "stage": "競賽成果上傳",
+      "what": "電商平台佈置、一頁企畫書（PDF）、社群行銷（FB 粉絲專頁與 IG 公開帳號）、參賽者著作權聲明及授權同意書（附件一），以及加分項目 30 秒短影音行銷（上傳 YouTube 提供連結）",
+      "how": "online"
+    }
+  ],
+  "attendance": {
+    "value": "none",
+    "where": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/1ZTZ0tKwAy-dipVeFrJzv0gY-Kurdb-Tl/view"
+      },
+      {
+        "url": "https://bhuntr.com/tw/competitions/widw7q1v1uftpzb4va"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/1ZTZ0tKwAy-dipVeFrJzv0gY-Kurdb-Tl/view"
+      },
+      {
+        "url": "https://bhuntr.com/tw/competitions/widw7q1v1uftpzb4va"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "第一名（1 隊）10,000 元、第二名（1 隊）8,000 元、第三名（1 隊）6,000 元、優等（若干隊）每隊 1,000 元、佳作（若干隊）每隊 500 元，以上頒發獎狀與獎金；全程參與並繳件完成者獲頒挑戰完成證明。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/1ZTZ0tKwAy-dipVeFrJzv0gY-Kurdb-Tl/view",
+        "quote": "第一名 （1 隊） 第二名 （1 隊） 第三名 （1 隊） 優等 （若干隊） 佳作 （若干隊） 每隊10,000 元 每隊8,000 元 每隊6,000 元 每隊 1,000 元 每隊 500 元"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1ZTZ0tKwAy-dipVeFrJzv0gY-Kurdb-Tl/view",
+        "quote": "※ 以上頒發獎狀與獎金。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1ZTZ0tKwAy-dipVeFrJzv0gY-Kurdb-Tl/view",
+        "quote": "※ 全程參與競賽並繳件完成，於競賽結束後均將獲頒挑戰完成證明。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "allowed",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/1ZTZ0tKwAy-dipVeFrJzv0gY-Kurdb-Tl/view",
+        "quote": "亦鼓勵應用AI 工具，進行創新的行銷策略，跨越理論，學用合一。"
+      }
+    ]
+  },
+  "links": {
+    "official": null,
+    "rules": [
+      {
+        "title": "2026 全國新零售競賽 競賽簡章",
+        "url": "https://drive.google.com/file/d/1ZTZ0tKwAy-dipVeFrJzv0gY-Kurdb-Tl/view"
+      }
+    ],
+    "registration": "https://forms.gle/vwpv3CQ1kPziU5SS9"
+  },
+  "found_via": [
+    {
+      "name": "官方簡章 PDF（Google Drive）",
+      "url": "https://drive.google.com/file/d/1ZTZ0tKwAy-dipVeFrJzv0gY-Kurdb-Tl/view"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-21",
+    "method": "single",
+    "unread": [],
+    "note": null,
+    "readers": [
+      "gemini-4-hydrogen-medium"
+    ]
+  },
+  "first_seen": "2026-11-20",
+  "updated": "2026-11-21"
+}

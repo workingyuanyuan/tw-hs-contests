@@ -1,0 +1,324 @@
+{
+  "schema": 1,
+  "id": "2026-miaoli-lantern",
+  "title": "2027台灣燈會在苗栗－全國花燈競賽",
+  "edition": "2027",
+  "summary": "全國各級學校師生及民眾依組別創作花燈，線上報名並上傳圖檔及核章確認單後，親自送件至苗栗展覽區參賽。",
+  "organizers": [
+    {
+      "name": "交通部觀光署",
+      "role": "指導"
+    },
+    {
+      "name": "苗栗縣政府",
+      "role": "主辦"
+    },
+    {
+      "name": "苗栗縣政府教育處",
+      "role": "承辦"
+    },
+    {
+      "name": "后庄國小",
+      "role": "承辦"
+    },
+    {
+      "name": "照南國小",
+      "role": "承辦"
+    },
+    {
+      "name": "銅鑼國小",
+      "role": "承辦"
+    },
+    {
+      "name": "斗煥國小",
+      "role": "承辦"
+    },
+    {
+      "name": "文山國小",
+      "role": "承辦"
+    }
+  ],
+  "categories": [
+    "美術",
+    "技藝與技能",
+    "設計"
+  ],
+  "eligibility": {
+    "levels": [
+      "國小",
+      "國中",
+      "高中",
+      "高職",
+      "五專",
+      "大專",
+      "社會人士"
+    ],
+    "division": "separate",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": 5,
+    "teacher": "optional",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://lantern2027.utk.com.tw/download/2027台灣燈會在苗栗-全國花燈競賽實施計畫.pdf?v=1150922",
+        "quote": "全國公私立國小、相當於國小階段之高級中等以下教育階段非學校型態實驗教育或幼兒園親子、師生共同製作。"
+      },
+      {
+        "url": "https://lantern2027.utk.com.tw/download/2027台灣燈會在苗栗-全國花燈競賽實施計畫.pdf?v=1150922",
+        "quote": "全國公私立國中、高中附設國中部或相當於國中階段之高級中等以下教育階段非學校型態實驗教育師生共同製作。"
+      },
+      {
+        "url": "https://lantern2027.utk.com.tw/download/2027台灣燈會在苗栗-全國花燈競賽實施計畫.pdf?v=1150922",
+        "quote": "全國公私立高中職日夜間部及進修學校、五專前三年或相當於高中階段之高級中等以下教育階段非學校型態實驗教育師生共同製作。"
+      },
+      {
+        "url": "https://lantern2027.utk.com.tw/download/2027台灣燈會在苗栗-全國花燈競賽實施計畫.pdf?v=1150922",
+        "quote": "全國各大專院校及對製作花燈有興趣之民眾共同製作（含各級學校教師）。"
+      },
+      {
+        "url": "https://lantern2027.utk.com.tw/download/2027台灣燈會在苗栗-全國花燈競賽實施計畫.pdf?v=1150922",
+        "quote": "1. 各競賽組別每件作品之作者最多以5 人為限，指導老師以2 名為限。"
+      },
+      {
+        "url": "https://lantern2027.utk.com.tw/報名操作手冊.html",
+        "quote": "填寫作者（至少 1 人、至多 5 人）與指導老師（至多 2 名，可不填）。"
+      },
+      {
+        "url": "https://lantern2027.utk.com.tw/Rules.aspx#groups",
+        "quote": "組別以參賽人員的身分別組成認定，非以報名單位名稱認定；公司、社區發展協會等單位同樣可報名親子組至高中職組，惟身分別比例須符合上述規定。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "線上報名截止",
+      "date": "2026-12-04",
+      "time": "23:59",
+      "original": "115/12/4（五）23:59 止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://lantern2027.utk.com.tw/Rules.aspx#groups",
+          "quote": "115/12/4（五）23:59 止"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "報名資料修改、成品圖檔及核章確認單上傳截止",
+      "date": "2026-12-31",
+      "time": "23:59",
+      "original": "115/12/31（四）23:59 止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://lantern2027.utk.com.tw/Rules.aspx#groups",
+          "quote": "115/12/31（四）23:59 止"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "實體花燈收件截止",
+      "date": "2027-02-14",
+      "time": "15:00",
+      "original": "116 年2 月12 日（星期五）至2 月14 日（星期日），每日9 時起至15 時止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://lantern2027.utk.com.tw/download/2027台灣燈會在苗栗-全國花燈競賽實施計畫.pdf?v=1150922",
+          "quote": "（一） 收件時間：116 年2 月12 日（星期五）至2 月14 日（星期日），每日9 時起至15 時止"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "評審日期",
+      "date": "2027-02-16",
+      "time": null,
+      "original": "116 年2 月15（星期一）、2 月16 日（星期二）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://lantern2027.utk.com.tw/download/2027台灣燈會在苗栗-全國花燈競賽實施計畫.pdf?v=1150922",
+          "quote": "十一、評審日期：116 年2 月15（星期一）、2 月16 日（星期二）。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "頒獎典禮",
+      "date": "2027-03-03",
+      "time": null,
+      "original": "116 年3 月3 日（星期三）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://lantern2027.utk.com.tw/download/2027台灣燈會在苗栗-全國花燈競賽實施計畫.pdf?v=1150922",
+          "quote": "（六）頒獎典禮：116 年3 月3 日（星期三），地點：苗栗縣立新港國民國中小學"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "得獎者上傳銀行帳戶影本截止",
+      "date": "2027-03-05",
+      "time": null,
+      "original": "116 年3 月5 日（星期五）前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://lantern2027.utk.com.tw/download/2027台灣燈會在苗栗-全國花燈競賽實施計畫.pdf?v=1150922",
+          "quote": "（六） 得獎者請於成績公布後，於116 年3 月5 日（星期五）前，使用原報名帳號及密碼登入報名系統，並上傳銀行帳戶影本及其他相關資料"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "作品領回截止",
+      "date": "2027-03-09",
+      "time": "15:00",
+      "original": "116 年3 月8 日（星期一）至3 月9 日（星期二），每日9 時至 15 時止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://lantern2027.utk.com.tw/download/2027台灣燈會在苗栗-全國花燈競賽實施計畫.pdf?v=1150922",
+          "quote": "（二）領回時間：116 年3 月8 日（星期一）至3 月9 日（星期二），每日9 時至 15 時止"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "線上報名",
+      "what": "填報作品資料、上傳成品圖檔（JPG/PNG，10MB 內）及核章報名確認單（PDF/JPG/PNG，10MB 內）",
+      "how": "online"
+    },
+    {
+      "stage": "實體送件",
+      "what": "依規格製作之花燈實體作品（長寬高至少一項不小於 1.2 公尺，長寬不超過 2.5 公尺，高不超過 3 公尺，AC110V 內部發光）並於現場組裝固定",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "2027 台灣燈會在苗栗－競賽花燈展覽區",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://lantern2027.utk.com.tw/download/2027台灣燈會在苗栗-全國花燈競賽實施計畫.pdf?v=1150922",
+        "quote": "（二） 收件地點：2027 台灣燈會在苗栗－競賽花燈展覽區，由主辦單位點收。"
+      },
+      {
+        "url": "https://lantern2027.utk.com.tw/download/2027台灣燈會在苗栗-全國花燈競賽實施計畫.pdf?v=1150922",
+        "quote": "（四） 注意事項：請參賽者親自送件，並請相關單位惠予公假登記。"
+      },
+      {
+        "url": "https://lantern2027.utk.com.tw/download/2027台灣燈會在苗栗-全國花燈競賽實施計畫.pdf?v=1150922",
+        "quote": "（五） 送件時由參賽者進行作品組裝及固定，主辦單位套量作品尺寸並確認送件作品供電量是否合於規定。請參賽者於現場共同確認作品供電是否正常。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://lantern2027.utk.com.tw/download/2027台灣燈會在苗栗-全國花燈競賽實施計畫.pdf?v=1150922"
+      },
+      {
+        "url": "https://lantern2027.utk.com.tw/Rules.aspx#groups"
+      },
+      {
+        "url": "https://lantern2027.utk.com.tw/報名操作手冊.html"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "各組分別錄取：燈王 1 名（自特優作品遴選）獎金 6 萬元及獎狀；特優至多 6 名（95 分以上，含燈王）獎金 2 萬元及獎狀；優等至多 8 名（90 分以上）獎金 1 萬元及獎狀；甲等至多 10 名（85 分以上）獎金 6,000 元及獎狀；佳作若干名（80 分以上）獎金 3,000 元及獎狀。高中職以下指導老師另依獎項敘獎（記功 2 次至嘉獎 1 次）。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://lantern2027.utk.com.tw/download/2027台灣燈會在苗栗-全國花燈競賽實施計畫.pdf?v=1150922",
+        "quote": "1、特優：至多6 名（95 分以上），其中含燈王1 名（由特優作品中遴選1 名）。"
+      },
+      {
+        "url": "https://lantern2027.utk.com.tw/download/2027台灣燈會在苗栗-全國花燈競賽實施計畫.pdf?v=1150922",
+        "quote": "2、優等：至多8 名（90 分以上）。"
+      },
+      {
+        "url": "https://lantern2027.utk.com.tw/download/2027台灣燈會在苗栗-全國花燈競賽實施計畫.pdf?v=1150922",
+        "quote": "3、甲等：至多10 名（85 分以上）。"
+      },
+      {
+        "url": "https://lantern2027.utk.com.tw/download/2027台灣燈會在苗栗-全國花燈競賽實施計畫.pdf?v=1150922",
+        "quote": "4、佳作：若干名（80 分以上）。"
+      },
+      {
+        "url": "https://lantern2027.utk.com.tw/Rules.aspx#groups",
+        "quote": "新臺幣60,000 元＋獎狀 指導老師各記功 2 次"
+      },
+      {
+        "url": "https://lantern2027.utk.com.tw/Rules.aspx#groups",
+        "quote": "新臺幣20,000 元＋獎狀 指導老師各記功 1 次"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://lantern2027.utk.com.tw/download/2027台灣燈會在苗栗-全國花燈競賽實施計畫.pdf?v=1150922"
+      },
+      {
+        "url": "https://lantern2027.utk.com.tw/Rules.aspx#groups"
+      },
+      {
+        "url": "https://lantern2027.utk.com.tw/報名操作手冊.html"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://lantern2027.utk.com.tw/",
+    "rules": [
+      {
+        "title": "2027 台灣燈會在苗栗－全國花燈競賽實施計畫",
+        "url": "https://lantern2027.utk.com.tw/download/2027台灣燈會在苗栗-全國花燈競賽實施計畫.pdf?v=1150922"
+      },
+      {
+        "title": "競賽辦法",
+        "url": "https://lantern2027.utk.com.tw/Rules.aspx#groups"
+      },
+      {
+        "title": "報名系統操作手冊",
+        "url": "https://lantern2027.utk.com.tw/報名操作手冊.html"
+      }
+    ],
+    "registration": "https://lantern2027.utk.com.tw/user/"
+  },
+  "found_via": [
+    {
+      "name": "bhuntr.com",
+      "url": "https://bhuntr.com/tw/competitions/lqe7x7kmm9lre29fx4"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-21",
+    "method": "dual",
+    "unread": [],
+    "note": null,
+    "readers": [
+      "gemini-4-hydrogen-medium",
+      "gpt-6.1-sol"
+    ]
+  },
+  "first_seen": "2026-11-20",
+  "updated": "2026-11-21"
+}

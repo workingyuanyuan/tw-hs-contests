@@ -1,0 +1,236 @@
+{
+  "schema": 1,
+  "id": "2027-kw-design-award",
+  "title": "瓩設計獎 kW Design Award─第 27 屆創意競賽",
+  "edition": "第 27 屆",
+  "summary": "個人或至多 5 人團隊以「電力合夥人」為題，線上繳交海報、短影音或創意品設計作品。",
+  "organizers": [
+    {
+      "name": "台灣電力公司",
+      "role": "主辦"
+    },
+    {
+      "name": "遊隼行銷有限公司",
+      "role": "承辦"
+    }
+  ],
+  "categories": [
+    "設計",
+    "影音"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職",
+      "大專",
+      "社會人士"
+    ],
+    "division": "separate",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": 5,
+    "teacher": "optional",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/1xCgFPcC0oVAfPaO9iO1ciK2k7aqYxPOo/view?usp=sharing",
+        "quote": "徵件採個人或團體（至多5 人）方式報名。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1xCgFPcC0oVAfPaO9iO1ciK2k7aqYxPOo/view?usp=sharing",
+        "quote": "高中職組為國內外高中職在籍學生、大專院校組為國內外大專院校在籍學生（含進修部、碩、博士生、在職專班生），以及在臺就學之外籍學生；不分組則為國內外高中職以上（含）學生或年滿18 歲之社會人士皆可參加。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1xCgFPcC0oVAfPaO9iO1ciK2k7aqYxPOo/view?usp=sharing",
+        "quote": "1. 傳達設計：高中職組、大專院校組。 2. 多媒體設計：高中職組、大專院校組。 3. 創意品設計：不分組。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "報名投稿截止",
+      "date": "2027-02-25",
+      "time": "13:00",
+      "original": "2026/10/01(四) – 2027/02/25(四) 下午 1 時",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://drive.google.com/file/d/1xCgFPcC0oVAfPaO9iO1ciK2k7aqYxPOo/view?usp=sharing",
+          "quote": "1. 報名投稿：2026/10/01(四) – 2027/02/25(四) 下午 1 時"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "作品審核截止",
+      "date": "2027-03-09",
+      "time": null,
+      "original": "2026/10/01(四) – 2027/03/09(二)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://drive.google.com/file/d/1xCgFPcC0oVAfPaO9iO1ciK2k7aqYxPOo/view?usp=sharing",
+          "quote": "2. 作品審核：2026/10/01(四) – 2027/03/09(二)"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "初審評選",
+      "date": "2027-03-26",
+      "time": null,
+      "original": "2027/03/15(一) – 2027/03/26(五)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://drive.google.com/file/d/1xCgFPcC0oVAfPaO9iO1ciK2k7aqYxPOo/view?usp=sharing",
+          "quote": "3. 初審評選：2027/03/15(一) – 2027/03/26(五)"
+        }
+      ]
+    },
+    {
+      "kind": "shortlist_announcement",
+      "label": "入圍名單公布",
+      "date": "2027-04-09",
+      "time": null,
+      "original": "2027/04/09(五)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://drive.google.com/file/d/1xCgFPcC0oVAfPaO9iO1ciK2k7aqYxPOo/view?usp=sharing",
+          "quote": "4. 入圍名單公布：2027/04/09(五)"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "複審評選",
+      "date": "2027-04-27",
+      "time": null,
+      "original": "2027/04/14(三) – 2027/04/27(二)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://drive.google.com/file/d/1xCgFPcC0oVAfPaO9iO1ciK2k7aqYxPOo/view?usp=sharing",
+          "quote": "5. 複審評選：2027/04/14(三) – 2027/04/27(二)"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "頒獎典禮",
+      "date": null,
+      "time": null,
+      "original": "2027/6 月中下旬",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://drive.google.com/file/d/1xCgFPcC0oVAfPaO9iO1ciK2k7aqYxPOo/view?usp=sharing",
+          "quote": "6. 頒獎典禮：2027/6 月中下旬"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "傳達設計類（線上報名）",
+      "what": "參賽者資料、A4 直式海報預覽 JPG 檔（150 dpi、RGB、15 MB 以內）、作品設計理念 400 字元內、身分/學生證明文件（需置入台灣電力公司 Logo）",
+      "how": "online"
+    },
+    {
+      "stage": "多媒體設計類（線上報名）",
+      "what": "參賽者資料、YouTube 不公開連結（15 秒至 1 分鐘、1920×1080 px 以上）、作品設計理念 400 字元內、身分/學生證明文件、四張影片重點畫面截圖（需置入台灣電力公司 Logo）",
+      "how": "online"
+    },
+    {
+      "stage": "創意品設計類（線上報名）",
+      "what": "參賽者資料、作品封面預覽圖 1 張、彩色立體圖 1 張、彩色三視圖 1 張、作品設計理念 400 字元內、材料與量產說明 PDF 檔、身分/學生證明文件（需置入台灣電力公司 Logo）",
+      "how": "online"
+    },
+    {
+      "stage": "入圍／得獎後續繳交",
+      "what": "傳達與創意品設計類得獎作品須繳交 A2 原始檔及高解析 JPG；多媒體設計類複審入圍須另提供 15 秒精華片段",
+      "how": "unknown"
+    }
+  ],
+  "attendance": {
+    "value": "none",
+    "where": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/1xCgFPcC0oVAfPaO9iO1ciK2k7aqYxPOo/view?usp=sharing"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/1xCgFPcC0oVAfPaO9iO1ciK2k7aqYxPOo/view?usp=sharing"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "總獎金新台幣 715,000 元。傳達設計類高中職組第一名 40,000 元、第二名 20,000 元、第三名 10,000 元、優選 5 名各 5,000 元；大專院校組第一名 60,000 元、第二名 40,000 元、第三名 20,000 元、優選 5 名各 5,000 元。多媒體設計類高中職組第一名 60,000 元、第二名 40,000 元、第三名 20,000 元、優選 5 名各 5,000 元；大專院校組第一名 80,000 元、第二名 50,000 元、第三名 30,000 元、優選 5 名各 5,000 元。創意品設計類不分組第一名 60,000 元、第二名 40,000 元、第三名 20,000 元、優選 5 名各 5,000 元。各獎項附獎座（前三名）與獎狀，高中職及大專組另頒指導老師感謝狀。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/1xCgFPcC0oVAfPaO9iO1ciK2k7aqYxPOo/view?usp=sharing",
+        "quote": "總獎金新台幣 715,000 元！"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1xCgFPcC0oVAfPaO9iO1ciK2k7aqYxPOo/view?usp=sharing",
+        "quote": "第一名：獎金 40,000 元、獎座 1 座、獎狀 1 張，指導老師感謝狀 1 張"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1xCgFPcC0oVAfPaO9iO1ciK2k7aqYxPOo/view?usp=sharing",
+        "quote": "優選（共 5 名）：獎金 5,000 元、獎狀 1 張，指導老師感謝狀 1 張"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "allowed",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/1xCgFPcC0oVAfPaO9iO1ciK2k7aqYxPOo/view?usp=sharing",
+        "quote": "參賽作品如使用生成式 AI 或其他人工智慧工具進行影像、文字、影音、聲音等內容之生成或輔助創作，請於設計理念中說明使用工具及應用方式。"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://kwd.tw/",
+    "rules": [
+      {
+        "title": "第 27 屆瓩設計獎競賽規章",
+        "url": "https://drive.google.com/file/d/1xCgFPcC0oVAfPaO9iO1ciK2k7aqYxPOo/view?usp=sharing"
+      }
+    ],
+    "registration": "https://kwd.tw/tw"
+  },
+  "found_via": [
+    {
+      "name": "競賽平台頁",
+      "url": "https://bhuntr.com/tw/competitions/1u323zekffo9uqb967"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-21",
+    "method": "dual",
+    "unread": [],
+    "note": null,
+    "readers": [
+      "gemini-4-hydrogen-medium",
+      "gpt-6.1-sol"
+    ]
+  },
+  "first_seen": "2026-11-20",
+  "updated": "2026-11-20"
+}

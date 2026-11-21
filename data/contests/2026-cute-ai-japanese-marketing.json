@@ -1,0 +1,210 @@
+{
+  "schema": 1,
+  "id": "2026-cute-ai-japanese-marketing",
+  "title": "115 年度全國高中職校際「AI × 日語創意行銷」競賽",
+  "edition": "115 年度",
+  "summary": "高中職生參加分組競賽，A 組 2 至 4 人交 5 分鐘內日語簡報影音、B 組個人現場抽稿日語朗讀。",
+  "organizers": [
+    {
+      "name": "中國科技大學行銷與流通管理系",
+      "role": "主辦"
+    },
+    {
+      "name": "中國科技大學通識教育中心日語文領域教學群",
+      "role": "協辦"
+    },
+    {
+      "name": "中國科技大學招生中心",
+      "role": "協辦"
+    }
+  ],
+  "categories": [
+    "資訊與 AI",
+    "外語",
+    "商管與行銷"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職"
+    ],
+    "division": "hs_only",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": 4,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/87/pta_227926_6347980_83064.pdf",
+        "quote": "凡目前就讀教育部立案之高中職或同等學制在學學生，不限是否主修日文，均得依各組規定報名。"
+      },
+      {
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/87/pta_227926_6347980_83064.pdf",
+        "quote": "A 組僅受理2～4 人團體報名；B 組採個人報名。"
+      },
+      {
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/87/pta_227926_6347980_83064.pdf",
+        "quote": "採Google Forms 線上報名。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "報名截止",
+      "date": "2026-12-04",
+      "time": null,
+      "original": "中華民國115 年12 月4 日（星期五）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/87/pta_227926_6347980_83064.pdf",
+          "quote": "報名截止日期：中華民國115 年12 月4 日（星期五）。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "決賽",
+      "date": "2026-12-18",
+      "time": "13:00",
+      "original": "中華民國115 年12 月18 日（星期五）13:00–16:00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/87/pta_227926_6347980_83064.pdf",
+          "quote": "決賽日期：中華民國115 年12 月18 日（星期五）13:00–16:00。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "A 組初賽",
+      "what": "5 分鐘內預錄日語創意行銷簡報影音作品（含簡報最後一頁附件一「AI 使用揭露表」）",
+      "how": "online"
+    },
+    {
+      "stage": "A 組決賽（入選隊伍）",
+      "what": "5 分鐘現場日語創意行銷簡報（簡報最後一頁須保留附件一「AI 使用揭露表」）",
+      "how": "onsite"
+    },
+    {
+      "stage": "B 組決賽",
+      "what": "現場抽取 1 篇主辦單位指定日語稿件朗讀（約 1.5 分鐘）",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "finalists",
+    "where": "中國科技大學臺北校區（臺北市文山區興隆路三段56 號）",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/87/pta_227926_6347980_83064.pdf",
+        "quote": "入選隊伍於決賽現場進行日語創意行銷簡報。"
+      },
+      {
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/87/pta_227926_6347980_83064.pdf",
+        "quote": "決賽當日由參賽者現場抽取1 篇指定稿件。"
+      },
+      {
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/87/pta_227926_6347980_83064.pdf",
+        "quote": "決賽地點：中國科技大學臺北校區（臺北市文山區興隆路三段56 號，捷運文湖線萬芳醫院站旁）。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.chsh.chc.edu.tw/p/406-1009-196706,r70.php?Lang=zh-tw"
+      },
+      {
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/87/pta_227926_6347980_83064.pdf"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "A 組：第一名獎金 4,000 元／組、第二名 3,000 元／組、第三名 2,000 元／組（皆附獎狀及日本大學贈品），佳作若干名（獎狀）。B 組：第一名獎金 2,000 元／人、第二名 1,500 元／人、第三名 1,000 元／人（皆附獎狀及日本大學贈品），佳作若干名（獎狀）。獲獎者皆有機會參加日本大學暑期研修課程。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/87/pta_227926_6347980_83064.pdf",
+        "quote": "第一名 獎金4,000 元／組＋獎狀及日本大學贈品"
+      },
+      {
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/87/pta_227926_6347980_83064.pdf",
+        "quote": "第二名 獎金3,000 元／組＋獎狀及日本大學贈品"
+      },
+      {
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/87/pta_227926_6347980_83064.pdf",
+        "quote": "第三名 獎金2,000 元／組＋獎狀及日本大學贈品"
+      },
+      {
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/87/pta_227926_6347980_83064.pdf",
+        "quote": "第一名 獎金2,000 元／人＋獎狀及日本大學贈品"
+      },
+      {
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/87/pta_227926_6347980_83064.pdf",
+        "quote": "第二名 獎金1,500 元／人＋獎狀及日本大學贈品"
+      },
+      {
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/87/pta_227926_6347980_83064.pdf",
+        "quote": "第三名 獎金1,000 元／人＋獎狀及日本大學贈品"
+      },
+      {
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/87/pta_227926_6347980_83064.pdf",
+        "quote": "註:以上獲獎者都有機會參加本校所舉辦的日本大學暑期研修課程，前往日本大學生產工學部，體驗日本大學生的學習生活。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "required",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/87/pta_227926_6347980_83064.pdf",
+        "quote": "A 組參賽隊伍應適切運用生成式AI，並完成「AI 使用揭露」。"
+      }
+    ]
+  },
+  "links": {
+    "official": null,
+    "rules": [
+      {
+        "title": "115 年度全國高中職校際「AI × 日語創意行銷」競賽規程",
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/87/pta_227926_6347980_83064.pdf"
+      }
+    ],
+    "registration": "https://forms.gle/CzbqGkztRw2gWP9a6"
+  },
+  "found_via": [
+    {
+      "name": "彰化高中轉發公告",
+      "url": "https://www.chsh.chc.edu.tw/p/406-1009-196706,r70.php?Lang=zh-tw"
+    },
+    {
+      "name": "彰化高中轉發公告",
+      "url": "https://www.chsh.chc.edu.tw/p/406-1009-196706,r70.php?Lang=zh-tw"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-21",
+    "method": "dual",
+    "unread": [],
+    "note": null,
+    "readers": [
+      "gemini-4-hydrogen-medium",
+      "gpt-6.1-sol"
+    ]
+  },
+  "first_seen": "2026-11-20",
+  "updated": "2026-11-20"
+}

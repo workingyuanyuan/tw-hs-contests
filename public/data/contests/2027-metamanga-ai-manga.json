@@ -1,0 +1,160 @@
+{
+  "schema": 1,
+  "id": "2027-metamanga-ai-manga",
+  "title": "AI 創作漫畫大賽",
+  "edition": "2027",
+  "summary": "創作者以 AI 工具製作單篇完結漫畫，於漫界平台登入並完成手機驗證後線上投稿，最多可更新三個版本。",
+  "organizers": [
+    {
+      "name": "漫界 MetaManga",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "美術",
+    "資訊與 AI"
+  ],
+  "eligibility": {
+    "levels": [
+      "國小",
+      "國中",
+      "高中",
+      "高職",
+      "五專",
+      "大專",
+      "社會人士"
+    ],
+    "division": "mixed",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": null,
+    "team_max": null,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.metamanga.ai/contest",
+        "quote": "組別是指作品閱讀對象、內容分級與作品取向，不是創作者本人的年齡。成人創作者也可以投稿兒童組作品。"
+      },
+      {
+        "url": "https://www.metamanga.ai/contest",
+        "quote": "四個組別之註冊與投稿方式一致，皆採平台會員登入與手機驗證。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "other",
+      "label": "平台網站上線（開放投稿）",
+      "date": "2026-07-15",
+      "time": null,
+      "original": "7 月 15 日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.metamanga.ai/contest",
+          "quote": "平台網站上線\n7 月 15 日"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "作品截稿日期",
+      "date": "2027-02-15",
+      "time": null,
+      "original": "2 月 15 日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.metamanga.ai/contest",
+          "quote": "作品截稿日期\n2 月 15 日"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "投稿",
+      "what": "具備完整故事主軸、角色行動、情節推進與結尾的單篇完結漫畫作品（每部作品最多可建立 V1、V2、V3 三個版本）",
+      "how": "online"
+    }
+  ],
+  "attendance": {
+    "value": "none",
+    "where": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.metamanga.ai/contest"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.metamanga.ai/contest"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "四個組別基本官方獎金各 5 萬元，合計基本 20 萬元，另加作品累積有效斗內支持金（上不封頂）。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.metamanga.ai/contest",
+        "quote": "本屆大賽設有基本官方獎金：四個組別各 5 萬元，四組合計基本 20 萬元。除此之外，作品累積斗內金額另計，讓總獎金有機會持續往上增加。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "allowed",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.metamanga.ai/contest",
+        "quote": "不論是否具備專業繪畫背景，都可以透過 AI 工具與自己的創意完成漫畫作品。"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://www.metamanga.ai/contest",
+    "rules": [],
+    "registration": null
+  },
+  "found_via": [
+    {
+      "name": "MetaManga 官方競賽網站",
+      "url": "https://www.metamanga.ai/contest"
+    },
+    {
+      "name": "MetaManga 競賽官網",
+      "url": "https://www.metamanga.ai/contest"
+    },
+    {
+      "name": "錦和高中轉發公告",
+      "url": "https://www.jhsh.ntpc.edu.tw/p/406-1000-21103,r51.php?Lang=zh-tw"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-21",
+    "method": "single",
+    "unread": [
+      "大賽章程",
+      "創作者條款"
+    ],
+    "note": null,
+    "readers": [
+      "gemini-4-hydrogen-medium"
+    ]
+  },
+  "first_seen": "2026-11-20",
+  "updated": "2026-11-20",
+  "level": "checked",
+  "url": "https://workingyuanyuan.github.io/tw-hs-contests/contests/2027-metamanga-ai-manga/",
+  "markdown": "https://workingyuanyuan.github.io/tw-hs-contests/contests/2027-metamanga-ai-manga.md"
+}

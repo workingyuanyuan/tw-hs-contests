@@ -1,0 +1,233 @@
+{
+  "schema": 1,
+  "id": "2026-tasa-asian-try-zero-g",
+  "title": "2027 國際太空站(ISS)零重力實驗提案比賽（Asian Try Zero-G 2027）",
+  "edition": "2027",
+  "summary": "研究所含以下在籍學生 1 至 5 人組隊，以英文撰寫 Kibo 艙零重力實驗提案並於初選口頭簡報。",
+  "organizers": [
+    {
+      "name": "國家太空中心",
+      "role": "主辦"
+    },
+    {
+      "name": "國立成功大學",
+      "role": "承辦"
+    },
+    {
+      "name": "台灣計算力學學會",
+      "role": "協辦"
+    }
+  ],
+  "categories": [
+    "自然科學"
+  ],
+  "eligibility": {
+    "levels": [
+      "國小",
+      "國中",
+      "高中",
+      "高職",
+      "五專",
+      "大專"
+    ],
+    "division": "mixed",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": 5,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://atzg2027.ncku.edu.tw/提案須知",
+        "quote": "各級學校學生、研究所(含)以下 ，可為個人或團隊2-5人，必須在台灣學校就讀"
+      },
+      {
+        "url": "https://drive.google.com/file/d/14H9bY7e-nKoQ3VsKvEM4HexxzvvocJy9/view?usp=sharing",
+        "quote": "臺灣在籍學生，個人或團隊(2-5 位)參加"
+      },
+      {
+        "url": "https://drive.google.com/file/d/14H9bY7e-nKoQ3VsKvEM4HexxzvvocJy9/view?usp=sharing",
+        "quote": "線上報名：https://docs.google.com/forms/u/2/d/e/1FAIpQLSc5_qpSE8UPChL59j-"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "報名截止",
+      "date": "2026-11-30",
+      "time": null,
+      "original": "即日起至2026年11月30日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://atzg2027.ncku.edu.tw/",
+          "quote": "報名時間: 即日起至2026年11月30日"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "實驗提案檔案繳交截止",
+      "date": "2026-12-07",
+      "time": null,
+      "original": "即日起至2026年12月7日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://atzg2027.ncku.edu.tw/",
+          "quote": "實驗提案檔案繳交時間: 即日起至2026年12月7日"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "臺灣初選（口頭報告）",
+      "date": "2026-12-20",
+      "time": null,
+      "original": "2026年12月20日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://atzg2027.ncku.edu.tw/",
+          "quote": "初選時間:2026年12月20日"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "JAXA 複選結果公告",
+      "date": null,
+      "time": null,
+      "original": "2027年1月下旬",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://atzg2027.ncku.edu.tw/提案須知",
+          "quote": "公告日期：2027年1月下旬(如有變更，將不另行通知）"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "提案繳交",
+      "what": "英文實驗提案文件（含申請人資訊、主題名稱、約 200 字摘要、假設與科學基礎、所需物品、步驟及預估時間，可選附照片與補充影片）",
+      "how": "online"
+    },
+    {
+      "stage": "臺灣初選",
+      "what": "3 至 5 分鐘英文口頭簡報（含實驗動機、設計思路、操作流程與預期結果）",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "國立成功大學成功校區大格致廳",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://atzg2027.ncku.edu.tw/",
+        "quote": "在初選階段，參賽者需繳交實驗提案文件(相關規定請參考提案須知)並以英文進行3-5分鐘的口頭簡報*"
+      },
+      {
+        "url": "https://atzg2027.ncku.edu.tw/",
+        "quote": "初選地點: 國立成功大學大格致廳"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://atzg2027.ncku.edu.tw/"
+      },
+      {
+        "url": "https://drive.google.com/file/d/14H9bY7e-nKoQ3VsKvEM4HexxzvvocJy9/view?usp=sharing"
+      },
+      {
+        "url": "https://atzg2027.ncku.edu.tw/提案須知"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "台灣初選：第一名 2 萬元、第二名 1 萬 2 千元、第三名 8 千元、佳作 5-10 組各 2 千元及獎狀、三聯科技感知未來獎 2 名各 5 千元；參與口頭簡報者獲頒參賽證明。獲 JAXA 複選錄取者補助赴日本筑波太空中心經費（個人最高 25,000 元、團隊最高 100,000 元）。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://atzg2027.ncku.edu.tw/",
+        "quote": "獎金: 第一名2萬元、第二名1萬2千元、第三名8千元，另有佳作5-10組，每組2千，並以獎狀鼓勵，並且三聯科技為鼓勵學生探索未知，另設立三聯科技感知未來獎，額外提供2名隊伍各5000元獎金。"
+      },
+      {
+        "url": "https://atzg2027.ncku.edu.tw/",
+        "quote": "獲選的個人或團隊將獲得經費補助(包含經濟艙機票、實際競賽日支膳宿費為限，個人最高25,000元，團隊最高100,000元），前往日本筑波太空中心參與實驗活動"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "restricted",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://atzg2027.ncku.edu.tw/",
+        "quote": "[注意]使用預錄影片者可使用AI潤稿，但不可使用AI影像或語音代替報告"
+      },
+      {
+        "url": "https://atzg2027.ncku.edu.tw/提案須知",
+        "quote": "請用英文撰寫實驗提案(可使用AI、ChatGPT或google translate等工具)，該提案若通過初選將進行國際審查。"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://atzg2027.ncku.edu.tw/",
+    "rules": [
+      {
+        "title": "2027 國際太空站(ISS)零重力實驗提案比賽簡章",
+        "url": "https://drive.google.com/file/d/14H9bY7e-nKoQ3VsKvEM4HexxzvvocJy9/view?usp=sharing"
+      },
+      {
+        "title": "提案須知",
+        "url": "https://atzg2027.ncku.edu.tw/提案須知"
+      },
+      {
+        "title": "官方指南 (JAXA)",
+        "url": "https://humans-in-space.jaxa.jp/en/biz-lab/news/item/006119/guidelines_en.pdf"
+      }
+    ],
+    "registration": "https://docs.google.com/forms/u/2/d/e/1FAIpQLSc5_qpSE8UPChL59j-LPjyJL5vSFiu1H74TWkjJuKqUsrMK1w/viewform?usp=dialog"
+  },
+  "found_via": [
+    {
+      "name": "atzg2027.ncku.edu.tw",
+      "url": "https://atzg2027.ncku.edu.tw/"
+    },
+    {
+      "name": "斗六高中轉發公告",
+      "url": "https://www.tlsh.ylc.edu.tw/2026/10/28/68550/"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-21",
+    "method": "dual",
+    "unread": [
+      "官方指南 (guidelines_en.pdf)",
+      "可用物品清單 (attachment-2_available-items.pdf)",
+      "提案文件與範本"
+    ],
+    "note": null,
+    "readers": [
+      "gemini-4-hydrogen-medium",
+      "gpt-6.1-sol"
+    ]
+  },
+  "first_seen": "2026-11-20",
+  "updated": "2026-11-21",
+  "level": "verified",
+  "url": "https://workingyuanyuan.github.io/tw-hs-contests/contests/2026-tasa-asian-try-zero-g/",
+  "markdown": "https://workingyuanyuan.github.io/tw-hs-contests/contests/2026-tasa-asian-try-zero-g.md"
+}

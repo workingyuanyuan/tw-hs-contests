@@ -1,0 +1,175 @@
+{
+  "schema": 1,
+  "id": "2026-changde-veggie-painting",
+  "title": "蔬食繪畫嘉年華",
+  "edition": "第四屆",
+  "summary": "幼兒園至大專社會人士於臺中市大肚區現場寫生或著色，使用大會提供畫紙完成作品。",
+  "organizers": [
+    {
+      "name": "臺中市常德教育關懷協會",
+      "role": "主辦"
+    },
+    {
+      "name": "天慈佛院",
+      "role": "協辦"
+    }
+  ],
+  "categories": [
+    "美術"
+  ],
+  "eligibility": {
+    "levels": [
+      "國小",
+      "國中",
+      "高中",
+      "大專",
+      "社會人士"
+    ],
+    "division": "separate",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": null,
+    "team_max": null,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://bhuntr.com/tw/competitions/741z7qhw11fov6lvj6",
+        "quote": "B、寫生組\n 小學4~6年級組\n 國中組\n 高中組\n 大專社會組"
+      },
+      {
+        "url": "https://bhuntr.com/tw/competitions/741z7qhw11fov6lvj6",
+        "quote": "報名方式網路報名。(報名截止:115年11月22日)"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "網路報名截止",
+      "date": "2026-11-22",
+      "time": null,
+      "original": "115年11月22日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://bhuntr.com/tw/competitions/741z7qhw11fov6lvj6",
+          "quote": "報名方式網路報名。(報名截止:115年11月22日)"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "活動及寫生著色比賽日",
+      "date": "2026-12-13",
+      "time": "08:30",
+      "original": "115年12月13日（日）上午8：30-14：30",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://bhuntr.com/tw/competitions/741z7qhw11fov6lvj6",
+          "quote": "活動日期：115年12月13日（日）上午8：30-14：30"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "授獎時間",
+      "date": "2026-12-13",
+      "time": "14:00",
+      "original": "115/12/13（日）下午14:00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://bhuntr.com/tw/competitions/741z7qhw11fov6lvj6",
+          "quote": "授獎時間：115/12/13（日）下午14:00（親自領獎不接受代領，不在現場視同放棄，並沒有遞補名次)"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "比賽當日",
+      "what": "依各組主題現場寫生或著色作品（使用大會現場提供之印信比賽用紙，畫具自備，媒材不拘）",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "臺中市大肚區沙田路三段888巷2弄15號",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://bhuntr.com/tw/competitions/741z7qhw11fov6lvj6",
+        "quote": "活動地址臺中市大肚區沙田路三段888巷2弄15號"
+      },
+      {
+        "url": "https://bhuntr.com/tw/competitions/741z7qhw11fov6lvj6",
+        "quote": "寫生及著色比賽:-分別兩梯次第一梯次:09:00第二梯次:10:00"
+      },
+      {
+        "url": "https://bhuntr.com/tw/competitions/741z7qhw11fov6lvj6",
+        "quote": "比賽用紙由本會現場提供（無大會印信者無效，畫具請自備，媒材不拘）"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://bhuntr.com/tw/competitions/741z7qhw11fov6lvj6"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "依注意事項說明，獎項包含獎金、獎座及獎狀；各名次具體金額未載於文字內容中。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://bhuntr.com/tw/competitions/741z7qhw11fov6lvj6",
+        "quote": "得獎者應於承辦單位通知之期限內回覆確認同意領取獎金、獎座及獎狀。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://bhuntr.com/tw/competitions/741z7qhw11fov6lvj6"
+      }
+    ]
+  },
+  "links": {
+    "official": null,
+    "rules": [],
+    "registration": "https://docs.google.com/forms/d/e/1FAIpQLSeh784f5XRIKka5PVUBETigS6XXHhDnUrPZCoih8eoa-GfNJA/viewform"
+  },
+  "found_via": [
+    {
+      "name": "bhuntr.com",
+      "url": "https://bhuntr.com/tw/competitions/741z7qhw11fov6lvj6"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-21",
+    "method": "dual",
+    "unread": [
+      "活動獎金圖片（332131.png）"
+    ],
+    "note": null,
+    "readers": [
+      "gemini-4-hydrogen-medium",
+      "gpt-6.1-sol"
+    ]
+  },
+  "first_seen": "2026-11-20",
+  "updated": "2026-11-20",
+  "level": "verified",
+  "url": "https://workingyuanyuan.github.io/tw-hs-contests/contests/2026-changde-veggie-painting/",
+  "markdown": "https://workingyuanyuan.github.io/tw-hs-contests/contests/2026-changde-veggie-painting.md"
+}

@@ -1,0 +1,218 @@
+{
+  "schema": 1,
+  "id": "2026-provoice-podcast",
+  "title": "第七屆播客大賽：用我們的話 說愛的故事",
+  "edition": "第七屆",
+  "summary": "15 歲以上學生及社會人士（兒童故事類不限年齡）1 至 4 人組隊或個人報名，繳交 10 至 15 分鐘原創播客音檔參與評選與網路票選。",
+  "organizers": [
+    {
+      "name": "好好聽文創",
+      "role": "主辦"
+    },
+    {
+      "name": "好好聽FM",
+      "role": "主辦"
+    },
+    {
+      "name": "世新大學校友會總會",
+      "role": "協辦"
+    },
+    {
+      "name": "世新大學廣播電視電影學友會",
+      "role": "協辦"
+    }
+  ],
+  "categories": [
+    "影音",
+    "語文與寫作"
+  ],
+  "eligibility": {
+    "levels": [
+      "國小",
+      "國中",
+      "高中",
+      "高職",
+      "五專",
+      "大專",
+      "社會人士"
+    ],
+    "division": "mixed",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": 4,
+    "teacher": "none",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.provoice.tw/active/20261106/",
+        "quote": "十五歲以上學生、社會人士，可單人或組隊參加（至多四人）。"
+      },
+      {
+        "url": "https://www.provoice.tw/active/20261106/",
+        "quote": "兒童故事類演出年齡不限。"
+      },
+      {
+        "url": "https://www.provoice.tw/active/20261106/",
+        "quote": "請點擊報名按鈕前往 Google 表單填寫報名資料，並上傳作品音檔。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "submission_deadline",
+      "label": "收件截止",
+      "date": "2026-12-25",
+      "time": "18:00",
+      "original": "2026/12/25 當天 18:00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.provoice.tw/active/20261106/",
+          "quote": "2026/12/25 當天 18:00 關閉收件系統。"
+        }
+      ]
+    },
+    {
+      "kind": "shortlist_announcement",
+      "label": "入圍公告",
+      "date": "2027-01-04",
+      "time": "12:00",
+      "original": "2027/1/4 中午 12:00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.provoice.tw/active/20261106/",
+          "quote": "2027/1/4\n入圍公告\n中午 12:00 公告入圍，並同步開啟網路投票。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "網路投票截止",
+      "date": "2027-01-11",
+      "time": "18:00",
+      "original": "2027/1/11 當天 18:00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.provoice.tw/active/20261106/",
+          "quote": "2027/1/11 當天 18:00 關閉投票系統。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "頒獎典禮",
+      "date": "2027-01-16",
+      "time": "10:00",
+      "original": "2027/1/16（週六） 上午 10:00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.provoice.tw/active/20261106/",
+          "quote": "2027/1/16（週六）\n頒獎典禮\n上午 10:00 頒獎典禮。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "交流工作坊",
+      "date": "2027-01-16",
+      "time": "10:30",
+      "original": "2027/1/16（週六） 10:30 – 12:30",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.provoice.tw/active/20261106/",
+          "quote": "2027/1/16（週六）\n交流工作坊\n10:30 – 12:30 大師交流分享。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名及投稿",
+      "what": "10–15 分鐘新製播國語、台語或客語播客音檔（mp3、wav 或 m4a 格式），並於開場說明參賽者姓名與節目主題；若有使用 AI 輔助工具須於報名時簡要說明使用方式",
+      "how": "online"
+    }
+  ],
+  "attendance": {
+    "value": "none",
+    "where": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.provoice.tw/active/20261106/"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.provoice.tw/active/20261106/"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "優勝獎金：第一名 1 名獎金兩萬元及利百代價值 1,000 元高級禮品、第二名 2 名各獎金一萬元及利百代價值 1,000 元高級禮品、第三名 3 名各獎金六千元及利百代價值 1,000 元高級禮品；網路票選獎金：第一名 1 名獎金三千元、第二名 1 名獎金兩千元、第三名 1 名獎金一千元，皆附利百代價值 1,000 元高級禮品；參賽獎：抽出 10 名獲價值 800 元禮品。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.provoice.tw/active/20261106/",
+        "quote": "優勝獎金\n第一名 1 名\n獎金兩萬元\n利百代價值 1,000 元高級禮品\n第二名 2 名\n獎金一萬元\n利百代價值 1,000 元高級禮品\n第三名 3 名\n獎金六千元\n利百代價值 1,000 元高級禮品"
+      },
+      {
+        "url": "https://www.provoice.tw/active/20261106/",
+        "quote": "網路票選獎金\n第一名 1 名\n獎金三千元\n利百代價值 1,000 元高級禮品\n第二名 1 名\n獎金兩千元\n利百代價值 1,000 元高級禮品\n第三名 1 名\n獎金一千元\n利百代價值 1,000 元高級禮品"
+      },
+      {
+        "url": "https://www.provoice.tw/active/20261106/",
+        "quote": "參賽獎\n於所有參賽者中抽出 10 名，可獲禮品（價值 800 元）。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "restricted",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.provoice.tw/active/20261106/",
+        "quote": "活動允許參賽者於創作過程中使用 AI 輔助工具，惟故事構想、敘事表達及聲音演出等核心內容仍須由參賽者自行完成，不得完全仰賴 AI 生成。"
+      },
+      {
+        "url": "https://www.provoice.tw/active/20261106/",
+        "quote": "參賽者如有使用 AI 工具，應於報名時簡要說明使用方式；若經評審認定作品過度依賴 AI 生成，主辦單位有權視情節輕重調整評分，或取消參賽及得獎資格。"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://www.provoice.tw/active/20261106/",
+    "rules": [],
+    "registration": "https://forms.gle/GxrSV6giXn5ajfSB7"
+  },
+  "found_via": [
+    {
+      "name": "獎金獵人刊登頁",
+      "url": "https://bhuntr.com/tw/competitions/n8e6v1df8ji0qfs493"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-21",
+    "method": "single",
+    "unread": [
+      "Google 報名表單"
+    ],
+    "note": null,
+    "readers": [
+      "gemini-4-hydrogen-medium"
+    ]
+  },
+  "first_seen": "2026-11-20",
+  "updated": "2026-11-20"
+}

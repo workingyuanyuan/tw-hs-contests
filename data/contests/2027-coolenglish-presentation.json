@@ -1,0 +1,160 @@
+{
+  "schema": 1,
+  "id": "2027-coolenglish-presentation",
+  "title": "116 年 Cool English 自主學習簡報比賽",
+  "edition": "116 年",
+  "summary": "國中小、高中職、五專一至三年級與自學生個人參賽，分享英文學習方法，繳交簡報 PDF、3 至 6 分鐘 MP4 影片及附件 1 至 3。",
+  "organizers": [
+    {
+      "name": "教育部",
+      "role": "主辦"
+    },
+    {
+      "name": "國立臺灣師範大學英語學系",
+      "role": "承辦"
+    }
+  ],
+  "categories": [
+    "外語"
+  ],
+  "eligibility": {
+    "levels": [
+      "國小",
+      "國中",
+      "高中",
+      "高職",
+      "五專"
+    ],
+    "division": "separate",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "unknown",
+    "team_min": 1,
+    "team_max": 1,
+    "teacher": "optional",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.coolenglish.edu.tw/forum/discuss.php?d=806&tag=0",
+        "quote": "1️⃣ 參賽對象（皆須本國籍）"
+      },
+      {
+        "url": "https://www.coolenglish.edu.tw/forum/discuss.php?d=806&tag=0",
+        "quote": "國小組：國小 5-6 年級生、自學生"
+      },
+      {
+        "url": "https://www.coolenglish.edu.tw/forum/discuss.php?d=806&tag=0",
+        "quote": "國中組：國中 7-9 年級生、自學生"
+      },
+      {
+        "url": "https://www.coolenglish.edu.tw/forum/discuss.php?d=806&tag=0",
+        "quote": "普技高組：高中職、五專 1-3 年級生、自學生"
+      },
+      {
+        "url": "https://www.coolenglish.edu.tw/forum/discuss.php?d=806&tag=0",
+        "quote": "★ 皆以個人參賽，如有指導教師，以1位教師為限"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "submission_deadline",
+      "label": "收件截止",
+      "date": "2027-01-15",
+      "time": "15:00",
+      "original": "115/12/18 至 116/1/15 15:00 截止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.coolenglish.edu.tw/forum/discuss.php?d=806&tag=0",
+          "quote": "⏰ 115/12/18 至 116/1/15 15:00 截止"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "投稿",
+      "what": "簡報 PDF 檔（國中小 7-15 頁、普技高 10-17 頁）、MP4 影片檔（3-6 分鐘）及附件 1-3",
+      "how": "unknown"
+    }
+  ],
+  "attendance": {
+    "value": "unknown",
+    "where": null,
+    "basis": "unread",
+    "evidence": []
+  },
+  "fee": {
+    "value": "unknown",
+    "amount": null,
+    "basis": "unread",
+    "evidence": []
+  },
+  "prizes": {
+    "text": "普技高組第一名 4,000 元商品卡、獎狀及指導教師嘉獎 2 次；國中小組第一名 3,000 元商品卡、獎狀及指導教師嘉獎 2 次；另設第二名、第三名及佳作；評分達 70 分以上未得獎者獲參賽證明電子檔，並可抽酷英小禮物（各名次完整獎項詳見比賽辦法）。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.coolenglish.edu.tw/forum/discuss.php?d=806&tag=0",
+        "quote": "🏆 普技高組第一名：$4,000商品卡 + 獎狀 + 指導教師嘉獎2次"
+      },
+      {
+        "url": "https://www.coolenglish.edu.tw/forum/discuss.php?d=806&tag=0",
+        "quote": "🏆 國中小組第一名：$3,000商品卡 + 獎狀 + 指導教師嘉獎2次"
+      },
+      {
+        "url": "https://www.coolenglish.edu.tw/forum/discuss.php?d=806&tag=0",
+        "quote": "🏅 第二名、第三名及佳作也有獎～"
+      },
+      {
+        "url": "https://www.coolenglish.edu.tw/forum/discuss.php?d=806&tag=0",
+        "quote": "🎁 評分達 70 分以上但未得獎的同學，可獲得參賽證明電子檔，還有機會抽中酷英小禮物！"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "unknown",
+    "basis": "unread",
+    "evidence": []
+  },
+  "links": {
+    "official": "https://www.coolenglish.edu.tw/forum/discuss.php?d=806&tag=0",
+    "rules": [
+      {
+        "title": "比賽懶人包＆詳細辦法（國中小）",
+        "url": "https://drive.google.com/drive/folders/1oiiG6F2OO37eJnwd_PAhpWvx_ruWV9jg?usp=sharing"
+      },
+      {
+        "title": "比賽懶人包＆詳細辦法（普技高）",
+        "url": "https://drive.google.com/drive/folders/1U4_9LrhDhG0Dn-qThmOemb71RITfONVT?usp=drive_link"
+      }
+    ],
+    "registration": null
+  },
+  "found_via": [
+    {
+      "name": "Cool English 官方平台",
+      "url": "https://www.coolenglish.edu.tw/"
+    },
+    {
+      "name": "Cool English 酷英網官網",
+      "url": "https://www.coolenglish.edu.tw/"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-21",
+    "method": "single",
+    "unread": [
+      "116 年 Cool English 自主學習簡報比賽懶人包＆詳細辦法（國中小）",
+      "116 年 Cool English 自主學習簡報比賽懶人包＆詳細辦法（普技高）"
+    ],
+    "note": null,
+    "readers": [
+      "gemini-4-hydrogen-medium"
+    ]
+  },
+  "first_seen": "2026-11-20",
+  "updated": "2026-11-20"
+}

@@ -1,0 +1,211 @@
+{
+  "schema": 1,
+  "id": "2026-deglobalart-red-envelope",
+  "title": "第二屆 2027 羊年紅包袋插畫設計比賽",
+  "edition": "第二屆",
+  "summary": "個人或雙人組依年齡分組，以官方紅包袋展開圖創作羊年插畫並郵寄實體作品參賽。",
+  "organizers": [
+    {
+      "name": "蝶映藝術文化有限公司",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "設計",
+    "美術"
+  ],
+  "eligibility": {
+    "levels": [
+      "國小",
+      "國中",
+      "高中",
+      "高職",
+      "五專",
+      "大專",
+      "社會人士"
+    ],
+    "division": "separate",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": 2,
+    "teacher": "optional",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.deglobalart-alea.com/zh/competitions",
+        "quote": "參賽資格：不限國籍與身分，個人或雙人組皆可；依年齡分為兒童組（未滿 14 歲）、青少年組（14–17 歲）、成人組（18 歲以上）。"
+      },
+      {
+        "url": "https://www.deglobalart-alea.com/zh/competitions",
+        "quote": "適合對象：全年齡（國小至成人）"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "other",
+      "label": "公告徵件",
+      "date": "2026-09-09",
+      "time": null,
+      "original": "2026/9/9",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.deglobalart-alea.com/zh/competitions",
+          "quote": "2026/9/9——公告徵件，FamiPort 版型同步上架"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "收件截止（以郵戳為憑）",
+      "date": "2026-12-31",
+      "time": null,
+      "original": "2026/12/31",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.deglobalart-alea.com/zh/competitions",
+          "quote": "2026/12/31——收件截止（以郵戳為憑）"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "評審期間",
+      "date": "2027-01-08",
+      "time": null,
+      "original": "2027/1/4–1/8",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.deglobalart-alea.com/zh/competitions",
+          "quote": "2027/1/4–1/8——評審期間"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "得獎公布並發布新聞稿",
+      "date": "2027-01-12",
+      "time": null,
+      "original": "2027/1/12",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.deglobalart-alea.com/zh/competitions",
+          "quote": "2027/1/12——得獎公布並發布新聞稿"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "得獎作品上架全家 FamiPort",
+      "date": "2027-03-18",
+      "time": null,
+      "original": "2027/1/18–3/18",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.deglobalart-alea.com/zh/competitions",
+          "quote": "2027/1/18–3/18——得獎作品上架全家 FamiPort，涵蓋除夕、春節與元宵"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名及繳件",
+      "what": "於全家 FamiPort 列印官方參賽紅包袋展開圖（海外參賽者自行下載 PDF 列印），摺成紅包袋並創作羊年插畫，連同線上報名後列印之報名表（PDF）一併郵寄。",
+      "how": "mail"
+    }
+  ],
+  "attendance": {
+    "value": "none",
+    "where": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.deglobalart-alea.com/zh/competitions"
+      }
+    ]
+  },
+  "fee": {
+    "value": "required",
+    "amount": "兒童組 NT$800、青少年組 NT$1,000、成人組 NT$1,200（另需自付全家 FamiPort 展開圖列印費）",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.deglobalart-alea.com/zh/competitions",
+        "quote": "報名費（每件）：兒童組 NT$800／青少年組 NT$1,000／成人組 NT$1,200"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "各組第一至三名：中英文正式獎狀、作品上架全家 FamiPort 兩個月、正式新聞稿露出；特優、優選：獎狀、新聞稿列名。學生得獎者之指導老師獲正式感謝函，就讀學校一併列入新聞稿。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.deglobalart-alea.com/zh/competitions",
+        "quote": "第一、二、三名——獎狀、作品上架全家 FamiPort 兩個月、正式新聞稿露出"
+      },
+      {
+        "url": "https://www.deglobalart-alea.com/zh/competitions",
+        "quote": "特優、優選——獎狀、新聞稿列名"
+      },
+      {
+        "url": "https://www.deglobalart-alea.com/zh/competitions",
+        "quote": "學生得獎者的指導老師將獲主辦單位正式感謝函，就讀學校一併列入新聞稿。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "restricted",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://bhuntr.com/tw/competitions/laht5stxspeaj14hw8",
+        "quote": "參賽作品須為本人原創，未曾公開發表、未曾參加其他比賽得獎，不得抄襲或侵害他人著作權、商標權或肖像權，且不得以 AI 生成圖像作為主要畫面。"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://www.deglobalart-alea.com/zh/competitions",
+    "rules": [
+      {
+        "title": "報名表（PDF）",
+        "url": "https://www.deglobalart-alea.com/zh/_files/ugd/8234f3_91405f6104ad45c6a7801b99f124528a.pdf"
+      },
+      {
+        "title": "海外參賽者展開圖（PDF）",
+        "url": "https://www.deglobalart-alea.com/zh/_files/ugd/8234f3_af718c83e5094148abb58c487488c005.pdf"
+      }
+    ],
+    "registration": "https://www.deglobalart-alea.com/zh/competitions"
+  },
+  "found_via": [
+    {
+      "name": "獎金獵人刊登頁",
+      "url": "https://bhuntr.com/tw/competitions/laht5stxspeaj14hw8"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-21",
+    "method": "single",
+    "unread": [
+      "報名表（PDF）（掃描或圖片檔，無可擷取文字）"
+    ],
+    "note": null,
+    "readers": [
+      "gemini-4-hydrogen-medium"
+    ]
+  },
+  "first_seen": "2026-11-20",
+  "updated": "2026-11-20",
+  "level": "checked",
+  "url": "https://workingyuanyuan.github.io/tw-hs-contests/contests/2026-deglobalart-red-envelope/",
+  "markdown": "https://workingyuanyuan.github.io/tw-hs-contests/contests/2026-deglobalart-red-envelope.md"
+}

@@ -1,0 +1,186 @@
+{
+  "schema": 1,
+  "id": "2026-chsmr-disability-week-arts",
+  "title": "115 學年度「國際身心障礙者日宣導週活動」藝文比賽",
+  "edition": "115 學年度",
+  "summary": "彰化縣國小至高中職及彰特學生就身心障礙關懷主題創作，郵寄四開畫作或電郵作文 Word 檔。",
+  "organizers": [
+    {
+      "name": "教育部國民及學前教育署",
+      "role": "指導"
+    },
+    {
+      "name": "國立彰化特殊教育學校",
+      "role": "承辦"
+    },
+    {
+      "name": "財團法人粘得紀念教育基金會",
+      "role": "協辦"
+    }
+  ],
+  "categories": [
+    "美術",
+    "語文與寫作"
+  ],
+  "eligibility": {
+    "levels": [
+      "國小",
+      "國中",
+      "高中",
+      "高職"
+    ],
+    "division": "separate",
+    "regions": [
+      "彰化縣"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": 1,
+    "teacher": "none",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://jsps.chc.edu.tw/storage/074614/posts/12346/files/a109l0000w_1150004396ax_1.pdf",
+        "quote": "就讀彰化縣境內的高中職、國中、國小學生或本校學生。"
+      },
+      {
+        "url": "https://jsps.chc.edu.tw/storage/074614/posts/12346/files/a109l0000w_1150004396ax_1.pdf",
+        "quote": "分國小組、國中組及高中職組進行繪畫、作文比賽評審，各組各項錄取名額如下："
+      },
+      {
+        "url": "https://jsps.chc.edu.tw/storage/074614/posts/12346/files/a109l0000w_1150004396ax_1.pdf",
+        "quote": "每人限投一項作品，比賽入選作品如涉及抄襲，經查屬實，將追回禮券、獎狀，並取消其資格。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "submission_deadline",
+      "label": "繪畫比賽收件截止",
+      "date": "2026-11-13",
+      "time": null,
+      "original": "115 年11 月13 日(星期五)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://jsps.chc.edu.tw/storage/074614/posts/12346/files/a109l0000w_1150004396ax_1.pdf",
+          "quote": "5.收件日期：即日起至115 年11 月13 日(星期五)截止。（以寄達或送達本校為憑，逾期恕不受理）"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "作文比賽收件截止",
+      "date": "2026-12-09",
+      "time": null,
+      "original": "115 年12 月9 日(星期三)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://jsps.chc.edu.tw/storage/074614/posts/12346/files/a109l0000w_1150004396ax_1.pdf",
+          "quote": "7.收件日期：115 年12 月9 日(星期三)截止。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "繪畫比賽",
+      "what": "四開圖畫紙手繪作品（不接受電腦繪圖），背面浮貼「藝文比賽參賽者資料表」",
+      "how": "mail"
+    },
+    {
+      "stage": "作文比賽",
+      "what": "Word 電子檔（A4 直式橫書、標楷體，高中職及國中以 1200 字、國小以 600 字為原則），文末註明學校、科別、班級及姓名",
+      "how": "online"
+    }
+  ],
+  "attendance": {
+    "value": "none",
+    "where": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://jsps.chc.edu.tw/storage/074614/posts/12346/files/a109l0000w_1150004396ax_1.pdf"
+      },
+      {
+        "url": "https://bhuntr.com/tw/competitions/3x1x9ab5iku8u980xs"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://jsps.chc.edu.tw/storage/074614/posts/12346/files/a109l0000w_1150004396ax_1.pdf"
+      },
+      {
+        "url": "https://bhuntr.com/tw/competitions/3x1x9ab5iku8u980xs"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "繪畫、作文各組分別錄取：第一名 1 名（300 元禮券及獎狀）、第二名 2 名（200 元禮券及獎狀）、第三名 3 名（100 元禮券及獎狀）、佳作數名（獎品乙份及獎狀）。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://jsps.chc.edu.tw/storage/074614/posts/12346/files/a109l0000w_1150004396ax_1.pdf",
+        "quote": "（一）第一名錄取一名，每名各得參佰元禮券及獎狀乙幀。"
+      },
+      {
+        "url": "https://jsps.chc.edu.tw/storage/074614/posts/12346/files/a109l0000w_1150004396ax_1.pdf",
+        "quote": "（二）第二名錄取二名，每名各得貳佰元禮券及獎狀乙幀。"
+      },
+      {
+        "url": "https://jsps.chc.edu.tw/storage/074614/posts/12346/files/a109l0000w_1150004396ax_1.pdf",
+        "quote": "（三）第三名錄取三名，每名各得壹佰元禮券及獎狀乙幀。"
+      },
+      {
+        "url": "https://jsps.chc.edu.tw/storage/074614/posts/12346/files/a109l0000w_1150004396ax_1.pdf",
+        "quote": "（四）佳作數名，每名各得乙份獎品及獎狀乙幀(依參賽人數擇優錄取之)。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://jsps.chc.edu.tw/storage/074614/posts/12346/files/a109l0000w_1150004396ax_1.pdf"
+      },
+      {
+        "url": "https://bhuntr.com/tw/competitions/3x1x9ab5iku8u980xs"
+      }
+    ]
+  },
+  "links": {
+    "official": null,
+    "rules": [
+      {
+        "title": "115 學年度「國際身心障礙者日宣導週活動」藝文比賽實施計畫",
+        "url": "https://jsps.chc.edu.tw/storage/074614/posts/12346/files/a109l0000w_1150004396ax_1.pdf"
+      }
+    ],
+    "registration": null
+  },
+  "found_via": [
+    {
+      "name": "獎金獵人刊登頁",
+      "url": "https://bhuntr.com/tw/competitions/3x1x9ab5iku8u980xs"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-21",
+    "method": "disputed",
+    "unread": [],
+    "note": "兩次讀取的關鍵事實不一致：地區：['彰化縣'] 對 ['國立彰化特殊教育學校', '彰化縣']",
+    "readers": [
+      "gemini-4-hydrogen-medium",
+      "gpt-6.1-sol"
+    ]
+  },
+  "first_seen": "2026-11-20",
+  "updated": "2026-11-20"
+}

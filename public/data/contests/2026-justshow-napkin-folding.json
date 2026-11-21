@@ -1,0 +1,185 @@
+{
+  "schema": 1,
+  "id": "2026-justshow-napkin-folding",
+  "title": "2026 JUSTSHOW 盃專業口布摺疊技能競賽",
+  "edition": "2026",
+  "summary": "高中職及五專一至三年級餐飲觀光科學生到景文科大，10 分鐘內摺疊 5 款指定與 2 款創意共 9 件口布。",
+  "organizers": [
+    {
+      "name": "景文科技大學旅館管理系",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "餐旅",
+    "技藝與技能"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職",
+      "五專"
+    ],
+    "division": "hs_only",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": 1,
+    "teacher": "optional",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.hssh.tp.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mek16TDNCMFlWODFPRGMzTlY4ME56UXhPVE5mTVRBek9EWXVjR1Jt&fname=WSGGUWQKUS44A110EDLKSW24KK30OO35DGUWSS20A1IDCCFCSSECVTPOUSSSPKPO",
+        "quote": "邀請全國專校、高中職學生參與，增進餐廳服務技術交流、學以致用，全面提升餐旅服務品質，促進整體產業發展。"
+      },
+      {
+        "url": "https://www.hssh.tp.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mek16TDNCMFlWODFPRGMzTlY4ME56UXhPVE5mTVRBek9EWXVjR1Jt&fname=WSGGUWQKUS44A110EDLKSW24KK30OO35DGUWSS20A1IDCCFCSSECVTPOUSSSPKPO",
+        "quote": "高中、職及五專餐飲科、觀光科一至三年級在學學生。"
+      },
+      {
+        "url": "https://www.hssh.tp.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mek16TDNCMFlWODFPRGMzTlY4ME56UXhPVE5mTVRBek9EWXVjR1Jt&fname=WSGGUWQKUS44A110EDLKSW24KK30OO35DGUWSS20A1IDCCFCSSECVTPOUSSSPKPO",
+        "quote": "個人賽：個人完成單項比賽成績。"
+      },
+      {
+        "url": "https://www.hssh.tp.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mek16TDNCMFlWODFPRGMzTlY4ME56UXhPVE5mTVRBek9EWXVjR1Jt&fname=WSGGUWQKUS44A110EDLKSW24KK30OO35DGUWSS20A1IDCCFCSSECVTPOUSSSPKPO",
+        "quote": "報名資料未填寫完整者不予接受報名，報名成功將以 E-mail 通知。"
+      },
+      {
+        "url": "https://www.hssh.tp.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mek16TDNCMFlWODFPRGMzTlY4ME56UXhPVE5mTVRBek9EWXVjR1Jt&fname=WSGGUWQKUS44A110EDLKSW24KK30OO35DGUWSS20A1IDCCFCSSECVTPOUSSSPKPO",
+        "quote": "指導老師將給予指導證明、參賽選手給予參賽證明"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "報名截止",
+      "date": "2026-11-22",
+      "time": null,
+      "original": "即日起至2026 年11 月22 日止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.hssh.tp.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mek16TDNCMFlWODFPRGMzTlY4ME56UXhPVE5mTVRBek9EWXVjR1Jt&fname=WSGGUWQKUS44A110EDLKSW24KK30OO35DGUWSS20A1IDCCFCSSECVTPOUSSSPKPO",
+          "quote": "陸、 報名日期：即日起至2026 年11 月22 日止。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "競賽日期",
+      "date": "2026-12-05",
+      "time": "08:00",
+      "original": "2026 年12 月5 日(六)上午08:00 至下午17:00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.hssh.tp.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mek16TDNCMFlWODFPRGMzTlY4ME56UXhPVE5mTVRBek9EWXVjR1Jt&fname=WSGGUWQKUS44A110EDLKSW24KK30OO35DGUWSS20A1IDCCFCSSECVTPOUSSSPKPO",
+          "quote": "肆、 競賽日期：2026 年12 月5 日(六)上午08:00 至下午17:00"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "競賽",
+      "what": "10 分鐘內完成九件七款口布成品（指定口布 5 款各 1 件、自備口布及器皿之創意口布 2 款各 2 件）",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "景文科技大學 行政大樓（五樓禮堂）",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.hssh.tp.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mek16TDNCMFlWODFPRGMzTlY4ME56UXhPVE5mTVRBek9EWXVjR1Jt&fname=WSGGUWQKUS44A110EDLKSW24KK30OO35DGUWSS20A1IDCCFCSSECVTPOUSSSPKPO",
+        "quote": "伍、 競賽地點：景文科技大學 行政大樓（五樓禮堂）"
+      },
+      {
+        "url": "https://www.hssh.tp.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mek16TDNCMFlWODFPRGMzTlY4ME56UXhPVE5mTVRBek9EWXVjR1Jt&fname=WSGGUWQKUS44A110EDLKSW24KK30OO35DGUWSS20A1IDCCFCSSECVTPOUSSSPKPO",
+        "quote": "報到地點：行政大樓Ｂ棟5 樓507、508 教室報到 （選手休息室）"
+      },
+      {
+        "url": "https://www.hssh.tp.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mek16TDNCMFlWODFPRGMzTlY4ME56UXhPVE5mTVRBek9EWXVjR1Jt&fname=WSGGUWQKUS44A110EDLKSW24KK30OO35DGUWSS20A1IDCCFCSSECVTPOUSSSPKPO",
+        "quote": "競賽地點：行政大樓Ｂ棟5 樓大禮堂"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.hssh.tp.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mek16TDNCMFlWODFPRGMzTlY4ME56UXhPVE5mTVRBek9EWXVjR1Jt&fname=WSGGUWQKUS44A110EDLKSW24KK30OO35DGUWSS20A1IDCCFCSSECVTPOUSSSPKPO"
+      },
+      {
+        "url": "https://www.hssh.tp.edu.tw/p/405-1000-52704,c540.php?Lang=zh-tw"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "個人賽：95分金牌獎牌及獎狀、90分銀牌獎牌及獎狀、85分銅牌獎牌及獎狀，優勝及佳作者各頒獎狀乙紙。團體總錦標（同校 5 人以上）：前三名各頒獎盃一座及獎狀乙紙。另發給指導老師指導證明及選手參賽證明。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.hssh.tp.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mek16TDNCMFlWODFPRGMzTlY4ME56UXhPVE5mTVRBek9EWXVjR1Jt&fname=WSGGUWQKUS44A110EDLKSW24KK30OO35DGUWSS20A1IDCCFCSSECVTPOUSSSPKPO",
+        "quote": "95分：金牌獎牌一枚獎狀乙紙。 90分：銀牌獎牌一枚獎狀乙紙。 85分：銅牌獎牌一枚獎狀乙紙。"
+      },
+      {
+        "url": "https://www.hssh.tp.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mek16TDNCMFlWODFPRGMzTlY4ME56UXhPVE5mTVRBek9EWXVjR1Jt&fname=WSGGUWQKUS44A110EDLKSW24KK30OO35DGUWSS20A1IDCCFCSSECVTPOUSSSPKPO",
+        "quote": "優勝者（依作品優選任列）：獎狀乙紙。 佳作者（依作品優選任列）：獎狀乙紙。"
+      },
+      {
+        "url": "https://www.hssh.tp.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mek16TDNCMFlWODFPRGMzTlY4ME56UXhPVE5mTVRBek9EWXVjR1Jt&fname=WSGGUWQKUS44A110EDLKSW24KK30OO35DGUWSS20A1IDCCFCSSECVTPOUSSSPKPO",
+        "quote": "團體總錦標：以校為單位，每校參賽隊數五人以上可列為總錦標競賽資格，成績計算為積分制。獎項如下。 第一名：獎盃一座、獎狀乙紙。 第二名：獎盃一座、獎狀乙紙。 第三名：獎盃一座、獎狀乙紙。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.hssh.tp.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mek16TDNCMFlWODFPRGMzTlY4ME56UXhPVE5mTVRBek9EWXVjR1Jt&fname=WSGGUWQKUS44A110EDLKSW24KK30OO35DGUWSS20A1IDCCFCSSECVTPOUSSSPKPO"
+      },
+      {
+        "url": "https://www.hssh.tp.edu.tw/p/405-1000-52704,c540.php?Lang=zh-tw"
+      }
+    ]
+  },
+  "links": {
+    "official": null,
+    "rules": [
+      {
+        "title": "2026 JUSTSHOW 盃專業口布摺疊技能競賽簡章",
+        "url": "https://www.hssh.tp.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mek16TDNCMFlWODFPRGMzTlY4ME56UXhPVE5mTVRBek9EWXVjR1Jt&fname=WSGGUWQKUS44A110EDLKSW24KK30OO35DGUWSS20A1IDCCFCSSECVTPOUSSSPKPO"
+      }
+    ],
+    "registration": "https://forms.gle/STnNWRE43B6D5pkNA"
+  },
+  "found_via": [
+    {
+      "name": "www.hssh.tp.edu.tw",
+      "url": "https://www.hssh.tp.edu.tw/p/405-1000-52704,c540.php?Lang=zh-tw"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-21",
+    "method": "single",
+    "unread": [],
+    "note": "第二次讀取沒有確認：分組、推薦",
+    "readers": [
+      "gemini-4-hydrogen-medium",
+      "gpt-6.1-sol"
+    ]
+  },
+  "first_seen": "2026-11-20",
+  "updated": "2026-11-20",
+  "level": "checked",
+  "url": "https://workingyuanyuan.github.io/tw-hs-contests/contests/2026-justshow-napkin-folding/",
+  "markdown": "https://workingyuanyuan.github.io/tw-hs-contests/contests/2026-justshow-napkin-folding.md"
+}

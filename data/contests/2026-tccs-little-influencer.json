@@ -1,0 +1,201 @@
+{
+  "schema": 1,
+  "id": "2026-tccs-little-influencer",
+  "title": "「小網紅大夢想」第五屆環境永續數位生活短片選拔活動",
+  "edition": "第五屆",
+  "summary": "幼兒園至大專學生個人或至多 5 人組隊，以 SDGs 與四大元素拍攝 1 至 3 分鐘短片上傳 YouTube 並線上報名。",
+  "organizers": [
+    {
+      "name": "台灣文化創意學會",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "影音",
+    "農業與環境"
+  ],
+  "eligibility": {
+    "levels": [
+      "國小",
+      "國中",
+      "高中",
+      "大專"
+    ],
+    "division": "separate",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": 5,
+    "teacher": "optional",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.tccs.org.tw/contest",
+        "quote": "報名資格：免費報名，限全國幼兒園、國小、國中、高中、大專校院學生(含外語學校)，個人或團體均可報名，團體須提供團名(限10字以內)及參賽學生代表人，團體人數上限5人。"
+      },
+      {
+        "url": "https://www.tccs.org.tw/contest",
+        "quote": "(4) 高中十~十二年級組"
+      },
+      {
+        "url": "https://www.tccs.org.tw/contest",
+        "quote": "可由教師或家長協助參賽人完成參賽作品"
+      },
+      {
+        "url": "https://www.tccs.org.tw/contest",
+        "quote": "報名方式：一律採線上報名，資料須填寫完整，且須同時上傳作品連結網址（作品須先上傳至YouTube頻道）、同意授權書，否則不予受理。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "報名及作品繳交截止",
+      "date": "2026-11-25",
+      "time": "12:00",
+      "original": "2026/8/25(二)至2026/11/25(三)中午12：00截止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tccs.org.tw/contest",
+          "quote": "報名時間：2026/8/25(二)至2026/11/25(三)中午12：00截止。"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "得獎公佈",
+      "date": "2026-12-25",
+      "time": null,
+      "original": "2026 年12 月25 日(五)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://tccs.org.tw/wp-content/uploads/2026/08/authority_letter.pdf",
+          "quote": "1、得獎公佈：將於2026 年12 月25 日(五)，公佈得獎名單，詳情請見本賽事官網公告。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "頒獎典禮",
+      "date": "2027-01-23",
+      "time": "14:00",
+      "original": "116年1月23日(六)下午二點~五點",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tccs.org.tw/contest",
+          "quote": "謹訂於116年1月23日(六)下午二點~五點舉行頒獎典禮，詳細地址將以E-mail通知"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "作品公開保留截止",
+      "date": "2027-04-01",
+      "time": "23:59",
+      "original": "2027/4/1(四) 23:59",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tccs.org.tw/contest",
+          "quote": "參賽作品於個人Youtube 平台上須設公開，且於2027/4/1(四) 23:59前不得關閉或設為不公開。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名及作品繳交",
+      "what": "1 至 3 分鐘 HD (1920x1080) 以上短片（含 3 秒以上片頭，上傳個人 YouTube 頻道設公開）及法定代理人同意授權書電子檔",
+      "how": "online"
+    }
+  ],
+  "attendance": {
+    "value": "none",
+    "where": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.tccs.org.tw/contest"
+      },
+      {
+        "url": "https://tccs.org.tw/wp-content/uploads/2026/08/authority_letter.pdf"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.tccs.org.tw/contest",
+        "quote": "報名資格：免費報名"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "優選獎（全組別共 15 名）：每名獎學金 5,000 元（或等值商品、禮券）及獎狀乙份；佳作獎（全組別共 30 名）：每名獎學金 2,500 元（或等值商品、禮券）及獎狀乙份；入選獎（全組別共 60 名）：證書乙份。得於評審後增設特別獎項；參賽件數未達 90 件時獎項與獎額酌予調整。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.tccs.org.tw/contest",
+        "quote": "(1) 優選獎：參賽全組別，共15名，每名獎學金5,000元(或等值商品、禮劵)，獎狀乙份。"
+      },
+      {
+        "url": "https://www.tccs.org.tw/contest",
+        "quote": "(2) 佳作獎：參賽全組別，共30名，每名獎學金2,500元(或等值商品、禮劵)，獎狀乙份。"
+      },
+      {
+        "url": "https://www.tccs.org.tw/contest",
+        "quote": "(3) 入選獎：參賽全組別，共60名，證書乙份。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "restricted",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.tccs.org.tw/contest",
+        "quote": "可使用2D、3D動畫、AI生成或合成技術完成參賽作品，惟內容不得超過全片長度1/2。"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://www.tccs.org.tw/contest",
+    "rules": [
+      {
+        "title": "實施辦法暨法定代理人同意授權書",
+        "url": "https://tccs.org.tw/wp-content/uploads/2026/08/authority_letter.pdf"
+      }
+    ],
+    "registration": "https://forms.gle/1NzWpKnGavLitFpz6"
+  },
+  "found_via": [
+    {
+      "name": "台灣文化創意學會競賽頁",
+      "url": "https://www.tccs.org.tw/contest"
+    },
+    {
+      "name": "台灣文化創意學會競賽頁",
+      "url": "https://www.tccs.org.tw/contest"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-21",
+    "method": "dual",
+    "unread": [],
+    "note": null,
+    "readers": [
+      "gemini-4-hydrogen-medium",
+      "gpt-6.1-sol"
+    ]
+  },
+  "first_seen": "2026-11-20",
+  "updated": "2026-11-20"
+}

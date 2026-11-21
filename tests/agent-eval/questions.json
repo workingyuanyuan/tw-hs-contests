@@ -1,0 +1,76 @@
+{
+  "about": "Questions for the agent test. Each answer and qualifier was written from the organizer's documents, through the quotes that the records carry and that the checks found in those documents; not from the pages of this site. An answer passes only if it gives the expected answer AND the qualifier. The questions assume today is 2026-11-21 (Taiwan time).",
+  "budget": "At most 3 fetches per question, starting from the start URL.",
+  "questions": [
+    {
+      "id": "q01",
+      "question": "求真盃全國高中商管個案競賽現在還能報名嗎？比賽是哪幾天？",
+      "answer": "不能，報名在 2026-11-20 截止。比賽是 2026-12-12（初賽）與 2026-12-13（決賽）。",
+      "qualifier": "主辦單位網站的兩個頁面寫的比賽日期不同（另一頁寫 11 月 14、15 日）。",
+      "page": "contests/2026-qiuzhen-cup"
+    },
+    {
+      "id": "q02",
+      "question": "淡江大橋通車系列攝影暨繪畫比賽，高中生現在還能投稿嗎？",
+      "answer": "攝影比賽第二階段可以，徵件到 2027-03-31。",
+      "qualifier": "繪畫比賽與攝影第一階段已在 2026-03-31 截止；高中生與社會人士在同一場評比。",
+      "page": "contests/2027-danjiang-bridge-photo-painting"
+    },
+    {
+      "id": "q03",
+      "question": "地酒盃全國永續綠餐創意飲調與餐服競賽，高職生現在還來得及報名嗎？",
+      "answer": "來不及，線上報名在 2026-11-20 12:00 截止。",
+      "qualifier": "2026-11-27 是已報名的調飲／調酒組繳交配方表的期限，不是報名期限。",
+      "page": "contests/2026-lhu-terroir-cup"
+    },
+    {
+      "id": "q04",
+      "question": "第二屆新竹攝影獎，高中生可以參加嗎？什麼時候截止？要繳費嗎？",
+      "answer": "可以，凡愛好攝影者都能參加；2026-11-25 收件截止；要繳報名費（非會員每人 700 元，會員 500 元）。",
+      "qualifier": "不分組，高中生與社會人士一起評比。",
+      "page": "contests/2026-hsinchu-photography-award"
+    },
+    {
+      "id": "q05",
+      "question": "2026 三好 AI 創新應用競賽，高中職組幾個人一隊？什麼時候截止？",
+      "answer": "每隊 1 至 5 人；2026-11-30 截止（線上報名並上傳完整作品）。",
+      "qualifier": "高中職組必須有指導老師。",
+      "page": "contests/2026-fgu-3goodai"
+    },
+    {
+      "id": "q06",
+      "question": "第六屆全國高中醫療科技創意競賽，報名和繳交競賽資料各在哪天截止？",
+      "answer": "團隊線上報名 2026-11-30 截止；競賽資料 2026-12-24 截止。",
+      "qualifier": "簡章的競賽重要日程表寫 2026-12-25，與簡章本文的 12-24 不一致。",
+      "page": "contests/2026-ibmi-medtech-creative"
+    },
+    {
+      "id": "q07",
+      "question": "全國高中職日語「看圖說故事」（紙芝居）比賽，學生可以自己報名嗎？要在什麼時候前完成報名？",
+      "answer": "不行，須經學校遴選推薦，每校至多 2 隊。報名分兩階段：網頁報名 2026-12-31 截止，紙本及光碟郵寄 2027-03-04 截止。",
+      "qualifier": "第一階段的網頁報名（2026-12-31）比郵寄截止早兩個多月，錯過就不能進第二階段。",
+      "page": "contests/2027-stust-kamishibai"
+    },
+    {
+      "id": "q08",
+      "question": "現在有哪些高中生可以參加的音樂創作比賽？各在什麼時候截止？",
+      "answer": "2027 大甲媽原創音樂（報名及初賽繳件 2026-12-09 12:00 截止）；第七屆「三好歌曲」創作大賽（收件 2027-02-10 20:00 截止）。",
+      "qualifier": "大甲媽原創音樂要繳費（初賽每組 100 元，入圍決賽每組 1,200 元）；三好歌曲免報名費。",
+      "page": "subjects/music"
+    },
+    {
+      "id": "q09",
+      "question": "2027 ACG 創作大賽可以使用生成式 AI 嗎？",
+      "answer": "各組參賽規則禁止使用生成式 AI 技術。",
+      "qualifier": "2026-11-19 更新的官方常見問題補充：不涉及內容生成的輔助工具不在此限；遊戲組可用 AI 輔助程式開發，但須在報名時揭露。",
+      "page": "contests/2027-bahamut-acg-award"
+    },
+    {
+      "id": "q10",
+      "question": "「五感漫遊 城市台北」影片徵選什麼時候截止？高中生可以參加嗎？",
+      "answer": "2026-11-25 23:59 截止；可以，對影片拍攝有興趣的大眾都能以個人或團體參加。",
+      "qualifier": "英文版簡章仍寫 11 月 8 日截止；中文版延期簡章與官網已延到 11 月 25 日。",
+      "page": "contests/2026-taipei-five-senses-video"
+    }
+  ]
+}

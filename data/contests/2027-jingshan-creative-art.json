@@ -1,0 +1,249 @@
+{
+  "schema": 1,
+  "id": "2027-jingshan-creative-art",
+  "title": "第五屆荊山新創獎",
+  "edition": "第五屆",
+  "summary": "年滿 16 歲個人或 5 人內團隊，以夏荊山書畫為發想創作設計或影音作品並線上繳件。",
+  "organizers": [
+    {
+      "name": "財團法人夏荊山文化藝術基金會",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "設計",
+    "美術",
+    "影音"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職",
+      "五專",
+      "大專",
+      "社會人士"
+    ],
+    "division": "mixed",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": 5,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://bhuntr.com/tw/competitions/64hpb2gj45zu3xldsq",
+        "quote": "不限國籍之個人或團體（5人以內），年齡需滿16歲。"
+      },
+      {
+        "url": "https://bhuntr.com/tw/competitions/64hpb2gj45zu3xldsq",
+        "quote": "完成線上繳件後才完成參賽流程。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "線上報名截止（預先報名）",
+      "date": "2026-09-30",
+      "time": null,
+      "original": "2026/6/1–9/30",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://bhuntr.com/tw/competitions/64hpb2gj45zu3xldsq",
+          "quote": "開始報名2026/6/1–9/30"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "截止徵件",
+      "date": "2027-04-30",
+      "time": "23:59",
+      "original": "2027/4/30 臺北時間23:59（GMT+08:00）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://bhuntr.com/tw/competitions/64hpb2gj45zu3xldsq",
+          "quote": "截止徵件2027/4/30臺北時間23:59（GMT+08:00）截止。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "線上初複審",
+      "date": "2027-06-04",
+      "time": null,
+      "original": "2027/5/3–6/4",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://bhuntr.com/tw/competitions/64hpb2gj45zu3xldsq",
+          "quote": "線上初複審2027/5/3–6/4"
+        }
+      ]
+    },
+    {
+      "kind": "shortlist_announcement",
+      "label": "入圍公告",
+      "date": "2027-06-07",
+      "time": null,
+      "original": "2027/6/7",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://bhuntr.com/tw/competitions/64hpb2gj45zu3xldsq",
+          "quote": "入圍公告2027/6/7於官方社群平台公布。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "入圍公告繳件",
+      "date": "2027-07-02",
+      "time": "17:00",
+      "original": "2027/6/7–7/2 台北時間17:00（GMT+08:00）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://bhuntr.com/tw/competitions/64hpb2gj45zu3xldsq",
+          "quote": "入圍公告繳件2027/6/7–7/2台北時間17:00（GMT+08:00）截止。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "決審",
+      "date": "2027-07-09",
+      "time": null,
+      "original": "2027/7/5–7/9",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://bhuntr.com/tw/competitions/64hpb2gj45zu3xldsq",
+          "quote": "決審2027/7/5–7/9"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "頒獎典禮暨得獎名單公布",
+      "date": null,
+      "time": null,
+      "original": "預計8月下旬辦理",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://bhuntr.com/tw/competitions/64hpb2gj45zu3xldsq",
+          "quote": "頒獎典禮預計8月下旬辦理得獎名單於頒獎典禮現場公布，並公告於官方網站與社群平台。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "線上繳件",
+      "what": "完成作品資料填寫與上傳相關作品檔案（所有參賽作品與作品敘述皆需中英兩種版本）",
+      "how": "online"
+    },
+    {
+      "stage": "決審（入圍公告繳件）",
+      "what": "各類作品的簡報、實品、模型、動畫影片或符合規範之印刷輸出物",
+      "how": "unknown"
+    }
+  ],
+  "attendance": {
+    "value": "none",
+    "where": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://bhuntr.com/tw/competitions/64hpb2gj45zu3xldsq"
+      },
+      {
+        "url": "https://cdn.bountyhunter.co/file-presign/7006919a-5a28-4083-a277-fb2db50f418a.pdf?dl=01%EF%BC%88%E4%B8%AD%EF%BC%892026%E8%8D%8A%E5%B1%B1%E6%96%B0%E5%89%B5%E7%8D%8E%E7%B0%A1%E7%AB%A0.pdf"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://bhuntr.com/tw/competitions/64hpb2gj45zu3xldsq",
+        "quote": "報名費用｜免報名費。"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "品牌與視覺傳達設計組：特別獎 1 名 NT$ 120,000。產品設計組：荊山獎 100,000、荊銀獎 80,000、荊銅獎 50,000、最佳概念獎與最佳人氣獎各 20,000、入選 3 名。立體造型組：荊山獎 150,000、荊銀獎 100,000、荊銅獎 60,000、最佳概念獎與最佳人氣獎各 50,000、入選 3 名。多媒體影音組：荊山獎 100,000、荊銀獎 80,000、荊銅獎 60,000、最佳概念獎與最佳人氣獎各 30,000、入選 3 名。入選提供展出機會與獎盃、獎狀。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://bhuntr.com/tw/competitions/64hpb2gj45zu3xldsq",
+        "quote": "品牌與視覺傳達設計組Brand & Communication Design特別獎1名NT$ 120,000"
+      },
+      {
+        "url": "https://bhuntr.com/tw/competitions/64hpb2gj45zu3xldsq",
+        "quote": "產品設計組Product Design荊山獎1名NT$ 100,000荊銀獎1名NT$ 80,000荊銅獎1名NT$ 50,000最佳概念獎1名NT$ 20,000最佳人氣獎1名NT$ 20,000入選3名提供展出機會與獎盃、獎狀。"
+      },
+      {
+        "url": "https://bhuntr.com/tw/competitions/64hpb2gj45zu3xldsq",
+        "quote": "立體造型組Sculpture Design荊山獎1名NT$ 150,000荊銀獎1名NT$ 100,000荊銅獎1名NT$ 60,000最佳概念獎1名NT$ 50,000最佳人氣獎1名NT$ 50,000入選3名提供展出機會與獎盃、獎狀。"
+      },
+      {
+        "url": "https://bhuntr.com/tw/competitions/64hpb2gj45zu3xldsq",
+        "quote": "多媒體影音組Multimedia Storytelling荊山獎1名NT$ 100,000荊銀獎1名NT$ 80,000荊銅獎1名NT$ 60,000最佳概念獎1名NT$ 30,000最佳人氣獎1名NT$ 30,000入選3名提供展出機會與獎盃、獎狀。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://bhuntr.com/tw/competitions/64hpb2gj45zu3xldsq"
+      },
+      {
+        "url": "https://www.surveycake.com/s/W2Rpe"
+      },
+      {
+        "url": "https://cdn.bountyhunter.co/file-presign/7006919a-5a28-4083-a277-fb2db50f418a.pdf?dl=01%EF%BC%88%E4%B8%AD%EF%BC%892026%E8%8D%8A%E5%B1%B1%E6%96%B0%E5%89%B5%E7%8D%8E%E7%B0%A1%E7%AB%A0.pdf"
+      }
+    ]
+  },
+  "links": {
+    "official": null,
+    "rules": [
+      {
+        "title": "第五屆荊山新創獎競賽簡章",
+        "url": "https://cdn.bountyhunter.co/file-presign/7006919a-5a28-4083-a277-fb2db50f418a.pdf?dl=01%EF%BC%88%E4%B8%AD%EF%BC%892026%E8%8D%8A%E5%B1%B1%E6%96%B0%E5%89%B5%E7%8D%8E%E7%B0%A1%E7%AB%A0.pdf"
+      }
+    ],
+    "registration": "https://www.surveycake.com/s/W2Rpe"
+  },
+  "found_via": [
+    {
+      "name": "獎金獵人刊登頁",
+      "url": "https://bhuntr.com/tw/competitions/64hpb2gj45zu3xldsq"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-20",
+    "method": "single",
+    "unread": [
+      "智慧財產權聲明書",
+      "完整繳件資訊與圖像素材（須先填寫預先報名表單後寄發）"
+    ],
+    "note": null,
+    "readers": [
+      "gemini-4-hydrogen-medium"
+    ]
+  },
+  "first_seen": "2026-11-20",
+  "updated": "2026-11-20"
+}

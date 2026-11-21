@@ -1,0 +1,193 @@
+{
+  "schema": 1,
+  "id": "2026-tku-chung-ling-chemistry",
+  "title": "2026 第二十一屆鍾靈化學創意競賽",
+  "edition": "第 21 屆",
+  "summary": "全國高中職生 3 人組隊，至淡江大學參加化學闖關與實驗實作並繳交書面報告。",
+  "organizers": [
+    {
+      "name": "淡江大學化學系",
+      "role": "主辦"
+    },
+    {
+      "name": "淡江大學化學系系友會",
+      "role": "協辦"
+    },
+    {
+      "name": "淡江大學科學教育中心",
+      "role": "協辦"
+    },
+    {
+      "name": "淡江大學化學學系系學會",
+      "role": "協辦"
+    },
+    {
+      "name": "侖新科技股份有限公司",
+      "role": "協辦"
+    },
+    {
+      "name": "財團法人清泉教育基金會",
+      "role": "協辦"
+    },
+    {
+      "name": "系友黃鯤雄、段克美伉儷",
+      "role": "協辦"
+    }
+  ],
+  "categories": [
+    "自然科學"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職"
+    ],
+    "division": "hs_only",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 3,
+    "team_max": 3,
+    "teacher": "optional",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.fg.tp.edu.tw/wp-content/uploads/doc/equip/2026第二十一屆鍾靈化學創意競賽辦法.pdf",
+        "quote": "全國高中、高職在校學生，不限年級，亦可跨校，由學生自組團隊，三人為一組，得自選一位現職高中教師為指導老師，一位老師可指導多組學生。"
+      },
+      {
+        "url": "https://www.fg.tp.edu.tw/wp-content/uploads/doc/equip/2026第二十一屆鍾靈化學創意競賽辦法.pdf",
+        "quote": "以組為單位報名參賽（30 組為限），採網路報名方式，報名流程請詳見網頁之報名流程說明。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "線上報名及繳費截止",
+      "date": "2026-12-10",
+      "time": "16:00",
+      "original": "115 年11 月23 日中午12 時起至115 年12 月10 日下午16 時止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.fg.tp.edu.tw/wp-content/uploads/doc/equip/2026第二十一屆鍾靈化學創意競賽辦法.pdf",
+          "quote": "線上報名期間：115 年11 月23 日中午12 時起至115 年12 月10 日下午16時止。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "競賽日期",
+      "date": "2026-12-19",
+      "time": null,
+      "original": "2026 年12 月19 日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.fg.tp.edu.tw/wp-content/uploads/doc/equip/2026第二十一屆鍾靈化學創意競賽辦法.pdf",
+          "quote": "2026 年12 月19 日(星期六)於淡江大學淡水校園鍾靈化學館舉辦，上午進行為化學館闖關活動，下午為化學實驗實作。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "第一階段",
+      "what": "化學館闖關活動（達成指定任務並蓋章）",
+      "how": "onsite"
+    },
+    {
+      "stage": "第二階段",
+      "what": "化學實驗實作與電腦模擬，並提出實驗結果分析書面報告",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "淡江大學淡水校園鍾靈化學館",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.fg.tp.edu.tw/wp-content/uploads/doc/equip/2026第二十一屆鍾靈化學創意競賽辦法.pdf",
+        "quote": "2026 年12 月19 日(星期六)於淡江大學淡水校園鍾靈化學館舉辦，上午進行為化學館闖關活動，下午為化學實驗實作。"
+      },
+      {
+        "url": "https://www.fg.tp.edu.tw/wp-content/uploads/doc/equip/2026第二十一屆鍾靈化學創意競賽辦法.pdf",
+        "quote": "分兩階段舉行，第一階段為闖關，達成指定任務後參加第二階段實作競試（需全組3 人參與）。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "required",
+    "amount": "每組 2,400 元",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.fg.tp.edu.tw/wp-content/uploads/doc/equip/2026第二十一屆鍾靈化學創意競賽辦法.pdf",
+        "quote": "每組繳交報名費新台幣2,400 元整（含保險、考試相關作業費用與午餐）"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "金牌獎 2 組每組 4,500 元及獎狀、銀牌獎 4 組每組 3,000 元及獎狀、銅牌獎 6 組每組 2,400 元及獎狀；完成闖關進入實作者頒予入選獎狀。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.fg.tp.edu.tw/wp-content/uploads/doc/equip/2026第二十一屆鍾靈化學創意競賽辦法.pdf",
+        "quote": "完成闖關進入實作者頒予入選獎狀一幀，並根據闖關活動與實作競賽的成績為標準，參賽表現優良之獎勵為："
+      },
+      {
+        "url": "https://www.fg.tp.edu.tw/wp-content/uploads/doc/equip/2026第二十一屆鍾靈化學創意競賽辦法.pdf",
+        "quote": "金牌獎：獎金新台幣4,500 元整及獎狀一幀，共2 組。 銀牌獎：獎金新台幣3,000 元整及獎狀一幀，共4 組。 銅牌獎：獎金新台幣2,400 元整及獎狀一幀，共6 組。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.fg.tp.edu.tw/wp-content/uploads/doc/equip/2026第二十一屆鍾靈化學創意競賽辦法.pdf"
+      },
+      {
+        "url": "https://www.fg.tp.edu.tw/wp-content/uploads/doc/equip/2026第二十一屆鍾靈化學創意競賽.pdf"
+      }
+    ]
+  },
+  "links": {
+    "official": null,
+    "rules": [
+      {
+        "title": "競賽辦法（PDF）",
+        "url": "https://www.fg.tp.edu.tw/wp-content/uploads/doc/equip/2026第二十一屆鍾靈化學創意競賽辦法.pdf"
+      },
+      {
+        "title": "活動海報（PDF）",
+        "url": "https://www.fg.tp.edu.tw/wp-content/uploads/doc/equip/2026第二十一屆鍾靈化學創意競賽.pdf"
+      }
+    ],
+    "registration": null
+  },
+  "found_via": [
+    {
+      "name": "www.fg.tp.edu.tw",
+      "url": "https://www.fg.tp.edu.tw/news/2026%e7%ac%ac%e4%ba%8c%e5%8d%81%e4%b8%80%e5%b1%86%e9%8d%be%e9%9d%88%e5%8c%96%e5%ad%b8%e5%89%b5%e6%84%8f%e7%ab%b6%e8%b3%bd/"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-21",
+    "method": "dual",
+    "unread": [
+      "海報 QR code 連結之淡江大學化學系報名網頁及報名流程說明"
+    ],
+    "note": null,
+    "readers": [
+      "gemini-4-hydrogen-medium",
+      "gpt-6.1-sol"
+    ]
+  },
+  "first_seen": "2026-11-20",
+  "updated": "2026-11-20"
+}

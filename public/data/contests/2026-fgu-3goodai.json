@@ -1,0 +1,225 @@
+{
+  "schema": 1,
+  "id": "2026-fgu-3goodai",
+  "title": "2026 三好AI創新應用競賽",
+  "edition": "2026",
+  "summary": "1 至 5 人組隊運用 AI 製作三好四給數位作品，線上繳交作品連結、說明書、3 分鐘介紹影片及切結書。",
+  "organizers": [
+    {
+      "name": "佛光大學",
+      "role": "主辦"
+    },
+    {
+      "name": "佛光山叢林學院",
+      "role": "主辦"
+    },
+    {
+      "name": "中華民國資訊學會",
+      "role": "協辦"
+    }
+  ],
+  "categories": [
+    "資訊與 AI",
+    "影音",
+    "社會人文"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職",
+      "大專",
+      "社會人士"
+    ],
+    "division": "separate",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": 5,
+    "teacher": "required",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://3goodai.fgu.edu.tw/",
+        "quote": "本競賽分為「高中職組」、「大專組」及「社會組」三組，延續每隊 1–5 人的基本組隊架構，高中職組要求至少一位指導教師，大專組則可指定教師或行政人員擔任指導者。"
+      },
+      {
+        "url": "https://3goodai.fgu.edu.tw/",
+        "quote": "國內各公私立高中、高職學生，由學校老師擔任指導老師。"
+      },
+      {
+        "url": "https://3goodai.fgu.edu.tw/",
+        "quote": "國內各大專院校（含大學部、碩士班、博士班學生）在學學生，可指定學校老師擔任指導老師或顧問。"
+      },
+      {
+        "url": "https://3goodai.fgu.edu.tw/",
+        "quote": "教師、校務行政人員、社會人士，成員可跨學校、跨機構合作。"
+      },
+      {
+        "url": "https://3goodai.fgu.edu.tw/",
+        "quote": "至【三好AI創新應用競賽】官網首頁→報名專區→競賽報名。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "線上報名及完整作品上傳截止",
+      "date": "2026-11-30",
+      "time": null,
+      "original": "115.10.01 - 115.11.30",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://3goodai.fgu.edu.tw/",
+          "quote": "線上報名及完整作品上傳 115.10.01 - 115.11.30"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "資格審查及評審評選",
+      "date": "2026-12-15",
+      "time": null,
+      "original": "115.12.01 - 115.12.15",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://3goodai.fgu.edu.tw/",
+          "quote": "資格審查及評審評選 115.12.01 - 115.12.15"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "得獎公告",
+      "date": "2026-12-16",
+      "time": null,
+      "original": "115.12.16",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://3goodai.fgu.edu.tw/",
+          "quote": "得獎公告 115.12.16"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "成果展示暨頒獎典禮",
+      "date": "2026-12-23",
+      "time": null,
+      "original": "115年12月23日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://3goodai.fgu.edu.tw/",
+          "quote": "成果展示暨頒獎典禮 115年12月23日"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "第一階段（線上報名及完整作品上傳）",
+      "what": "報名表、正式作品連結、作品說明書、3 分鐘作品介紹影片、參賽切結書、身分證及學生證或在學證明影本",
+      "how": "online"
+    }
+  ],
+  "attendance": {
+    "value": "none",
+    "where": null,
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://3goodai.fgu.edu.tw/",
+        "quote": "評審團（含AI專家、教育專家、人文專家、產業代表）審核評分，依據所上傳之「完整作品」、「作品說明書」及「作品介紹影片」等文件，進行書面審查，報名團隊毋須出席。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://3goodai.fgu.edu.tw/"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "總獎金 46 萬元。高中職組 A 類、大專組 A/B 類、社會組 B 類各設冠軍 50,000 元、亞軍 20,000 元、季軍 10,000 元各 1 隊，最佳三好創新獎、最佳四給精神獎各 5,000 元（每類各 1 隊），佳作獎若干隊（獎狀），皆附獎狀。跨組另設林燈 AI 公益特別獎（冠軍 50,000 元、亞軍 20,000 元、季軍 10,000 元各 1 隊）及林燈 AI 公益潛力獎 4 隊各 5,000 元，皆附獎狀。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://3goodai.fgu.edu.tw/",
+        "quote": "冠軍：獎金新台幣 50,000 元、獎狀 亞軍：獎金新台幣 20,000 元、獎狀 季軍：獎金新台幣 10,000 元、獎狀 每一獎項各取一隊"
+      },
+      {
+        "url": "https://3goodai.fgu.edu.tw/",
+        "quote": "高中職組A類：獎金新台幣 5,000 元、獎狀"
+      },
+      {
+        "url": "https://3goodai.fgu.edu.tw/",
+        "quote": "跨高中職組、大專組及社會組獨立評選，表揚兼具公益價值、AI創新應用及實踐成果之作品。"
+      },
+      {
+        "url": "https://3goodai.fgu.edu.tw/",
+        "quote": "林燈 AI 公益潛力獎 4隊、獎金新台幣 5,000 元、獎狀"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "required",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://3goodai.fgu.edu.tw/",
+        "quote": "（一）參賽作品應實際運用一項(含)以上人工智慧技術或 AI 工具。"
+      },
+      {
+        "url": "https://3goodai.fgu.edu.tw/",
+        "quote": "（三）參賽者應於作品說明文件中揭露主要使用之 AI 工具及其用途。"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://3goodai.fgu.edu.tw/",
+    "rules": [
+      {
+        "title": "競賽須知（PDF）",
+        "url": "https://www.taivs.tp.edu.tw/static/webroot/G156956170803920/application/NN179481107412624.pdf"
+      }
+    ],
+    "registration": "https://3goodai.fgu.edu.tw/member/login"
+  },
+  "found_via": [
+    {
+      "name": "競賽官網",
+      "url": "https://3goodai.fgu.edu.tw/"
+    },
+    {
+      "name": "大安高工 競賽資訊 RSS",
+      "url": "https://www.taivs.tp.edu.tw/content?a=T0RESVRtcG5OVTVFWjNwT2FrVTkzVkVSUEJ6YTY1RWUwc0dWaW50ZWx5"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-21",
+    "method": "dual",
+    "unread": [
+      "下載專區檔案",
+      "競賽須知.pdf"
+    ],
+    "note": null,
+    "readers": [
+      "gemini-4-hydrogen-medium",
+      "gpt-6.1-sol"
+    ]
+  },
+  "first_seen": "2026-11-20",
+  "updated": "2026-11-21",
+  "level": "verified",
+  "url": "https://workingyuanyuan.github.io/tw-hs-contests/contests/2026-fgu-3goodai/",
+  "markdown": "https://workingyuanyuan.github.io/tw-hs-contests/contests/2026-fgu-3goodai.md"
+}

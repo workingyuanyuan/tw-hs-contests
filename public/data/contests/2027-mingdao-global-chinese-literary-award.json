@@ -1,0 +1,197 @@
+{
+  "schema": 1,
+  "id": "2027-mingdao-global-chinese-literary-award",
+  "title": "全球華文學生文學獎",
+  "edition": "第 45 屆",
+  "summary": "海內外高中職及國中在學學生依組別以華文撰寫散文、新詩或短篇小說並線上投稿。",
+  "organizers": [
+    {
+      "name": "明道中學",
+      "role": "主辦"
+    },
+    {
+      "name": "明道文藝",
+      "role": "主辦"
+    },
+    {
+      "name": "明道中學現代文學館",
+      "role": "主辦"
+    },
+    {
+      "name": "國立公共資訊圖書館",
+      "role": "協辦"
+    },
+    {
+      "name": "天心工業股份有限公司",
+      "role": "協辦"
+    },
+    {
+      "name": "財團法人日月光文教基金會",
+      "role": "協辦"
+    },
+    {
+      "name": "環鴻科技股份有限公司",
+      "role": "協辦"
+    },
+    {
+      "name": "馬來西亞董總中學生雜誌",
+      "role": "協辦"
+    }
+  ],
+  "categories": [
+    "語文與寫作"
+  ],
+  "eligibility": {
+    "levels": [
+      "國中",
+      "高中",
+      "高職"
+    ],
+    "division": "separate",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": 1,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://sites.google.com/ms.mingdao.edu.tw/literary-award/全球華文學生文學獎/submit",
+        "quote": "海內外目前就讀高中、技高、國中或同等學力，並以華文書寫者，均可參加。"
+      },
+      {
+        "url": "https://sites.google.com/ms.mingdao.edu.tw/literary-award/全球華文學生文學獎/submit",
+        "quote": "(一)高中組(每人每類限投一篇)"
+      },
+      {
+        "url": "https://sites.google.com/ms.mingdao.edu.tw/literary-award/全球華文學生文學獎/submit",
+        "quote": "(二)國中組(生日起迄:2011年8月-2014年7月)"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "submission_deadline",
+      "label": "線上投稿截止",
+      "date": "2027-03-01",
+      "time": "23:00",
+      "original": "臺灣時間2026年10月15日至2027年03月01日23點整",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://sites.google.com/ms.mingdao.edu.tw/literary-award/全球華文學生文學獎/submit",
+          "quote": "臺灣時間2026年10月15日至2027年03月01日23點整"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "得獎名單公告",
+      "date": null,
+      "time": null,
+      "original": "2027年5月中旬",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://sites.google.com/ms.mingdao.edu.tw/literary-award/全球華文學生文學獎/submit",
+          "quote": "得獎名單將於2027年5月中旬於本網站公告，頒獎日期另行公佈。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "線上投稿",
+      "what": "散文、新詩或短篇小說稿件（12 級新細明體、不得署名）及在學證明相關證件圖檔",
+      "how": "online"
+    }
+  ],
+  "attendance": {
+    "value": "none",
+    "where": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://sites.google.com/ms.mingdao.edu.tw/literary-award/全球華文學生文學獎/submit"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://sites.google.com/ms.mingdao.edu.tw/literary-award/全球華文學生文學獎/submit"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "總獎金 420,000 元，每名頒贈金翼獎一座。高中組散文、新詩、短篇小說與國中組散文、新詩各設前三名、佳作及永續日月特別獎，獎金 2,000 至 35,000 元不等。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://sites.google.com/ms.mingdao.edu.tw/literary-award/全球華文學生文學獎/submit",
+        "quote": "總獎金達420,000元(新台幣)，歡迎全球青年學子踴躍投稿！"
+      },
+      {
+        "url": "https://sites.google.com/ms.mingdao.edu.tw/literary-award/全球華文學生文學獎/submit",
+        "quote": "【獎額獎金】每名頒贈金翼獎一座，獎金如下：（以新台幣計）"
+      },
+      {
+        "url": "https://sites.google.com/ms.mingdao.edu.tw/literary-award/全球華文學生文學獎/submit",
+        "quote": "第一名：獎金三萬五千元"
+      },
+      {
+        "url": "https://sites.google.com/ms.mingdao.edu.tw/literary-award/全球華文學生文學獎/submit",
+        "quote": "佳作五名：獎金各二千元"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://sites.google.com/ms.mingdao.edu.tw/literary-award/全球華文學生文學獎/submit"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://sites.google.com/ms.mingdao.edu.tw/literary-award/全球華文學生文學獎/submit",
+    "rules": [],
+    "registration": "https://asp.mingdao.edu.tw/mdle2/nslp/login.php"
+  },
+  "found_via": [
+    {
+      "name": "全球華文學生文學獎官方網站",
+      "url": "https://sites.google.com/ms.mingdao.edu.tw/literary-award/"
+    },
+    {
+      "name": "官方活動專網",
+      "url": "https://sites.google.com/ms.mingdao.edu.tw/literary-award/"
+    },
+    {
+      "name": "斗六高中轉發公告",
+      "url": "https://www.tlsh.ylc.edu.tw/2026/11/11/69020/"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-21",
+    "method": "single",
+    "unread": [
+      "點擊投稿步驟說明"
+    ],
+    "note": null,
+    "readers": [
+      "gemini-4-hydrogen-medium"
+    ]
+  },
+  "first_seen": "2026-11-20",
+  "updated": "2026-11-20",
+  "level": "checked",
+  "url": "https://workingyuanyuan.github.io/tw-hs-contests/contests/2027-mingdao-global-chinese-literary-award/",
+  "markdown": "https://workingyuanyuan.github.io/tw-hs-contests/contests/2027-mingdao-global-chinese-literary-award.md"
+}

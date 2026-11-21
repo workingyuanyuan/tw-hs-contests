@@ -1,0 +1,76 @@
+---
+// Override of Starlight's Footer: on a contest page, a LINE share link and a button that
+// copies a short announcement (name, deadline, what to do, address) for a class group.
+// Teachers pass contests on in LINE groups; this is the step they take most.
+// It sits outside the article container, like the theme buttons: skin only, it changes
+// nothing an agent reads, and the Markdown twin does not have it.
+import Default from '@astrojs/starlight/components/Footer.astro';
+import { SITE, pageId } from '../lib/site.mjs';
+
+const { entry } = Astro.locals.starlightRoute;
+const data = entry.data;
+const id = pageId(entry.id);
+const isContest = data.kind === 'contest';
+const lines = isContest
+	? [data.title, data.deadline ? `報名截止：${data.deadline}` : '', data.description, `${SITE}/${id}/`].filter(Boolean)
+	: [];
+const text = lines.join('\n');
+const lineHref = `https://line.me/R/share?text=${encodeURIComponent(text)}`;
+---
+
+{isContest && (
+	<div class="share print:hidden" data-text={text}>
+		<a class="share-line" href={lineHref} target="_blank" rel="noopener">分享到 LINE</a>
+		<button type="button" class="share-copy">複製公告文字</button>
+		<span class="share-done" role="status" aria-live="polite"></span>
+	</div>
+)}
+<Default><slot /></Default>
+
+<script>
+	document.querySelectorAll<HTMLElement>('.share').forEach((box) => {
+		const button = box.querySelector('.share-copy');
+		const done = box.querySelector('.share-done');
+		button?.addEventListener('click', async () => {
+			try {
+				await navigator.clipboard.writeText(box.dataset.text ?? '');
+				if (done) done.textContent = '已複製';
+			} catch {
+				if (done) done.textContent = '無法複製，請手動選取';
+			}
+		});
+	});
+</script>
+
+<style>
+	.share {
+		display: flex;
+		flex-wrap: wrap;
+		align-items: center;
+		gap: 0.75rem;
+		margin-top: 2rem;
+		padding-top: 1rem;
+		border-top: 1px solid var(--sl-color-gray-5);
+	}
+	.share a,
+	.share button {
+		padding: 0.45rem 1rem;
+		border: 1px solid var(--sl-color-gray-4);
+		border-radius: 0;
+		background: transparent;
+		color: var(--sl-color-white);
+		font: inherit;
+		font-size: var(--sl-text-sm);
+		text-decoration: none;
+		cursor: pointer;
+	}
+	.share a:hover,
+	.share button:hover {
+		border-color: var(--sl-color-text-accent);
+		color: var(--sl-color-text-accent);
+	}
+	.share-done {
+		font-size: var(--sl-text-sm);
+		color: var(--sl-color-gray-3);
+	}
+</style>

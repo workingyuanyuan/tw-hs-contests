@@ -1,0 +1,33 @@
+{
+  "name": "tw-hs-contests",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "pages": "uv run -q --isolated --with jsonschema python -I pipeline/build_pages.py",
+    "fetch": "uv run -q --isolated --with pymupdf --with playwright --with jsonschema python -I pipeline/fetch.py",
+    "queue": "python3 -I pipeline/candidates.py",
+    "extract": "uv run -q --isolated --with pymupdf --with playwright --with jsonschema python -I pipeline/extract.py",
+    "daily": "uv run -q --isolated --with pymupdf --with playwright --with jsonschema python -I pipeline/daily.py",
+    "build": "astro build",
+    "preview": "node scripts/preview.mjs",
+    "astro": "astro",
+    "check": "node scripts/check-dist.mjs",
+    "verify": "astro build && node scripts/check-dist.mjs"
+  },
+  "dependencies": {
+    "@astrojs/markdown-satteri": "0.4.10",
+    "@astrojs/starlight": "^0.43.1",
+    "@fontsource/noto-serif-tc": "^5.3.1",
+    "astro": "^7.3.6",
+    "satteri": "0.11.7",
+    "sharp": "^0.35.3",
+    "starlight-links-validator": "^0.27.0",
+    "yaml": "^2.9.1"
+  },
+  "devDependencies": {
+    "@mozilla/readability": "^0.6.0",
+    "jsdom": "^31.0.1",
+    "turndown": "^7.2.5"
+  }
+}

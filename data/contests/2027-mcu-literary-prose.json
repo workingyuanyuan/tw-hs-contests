@@ -1,0 +1,182 @@
+{
+  "schema": 1,
+  "id": "2027-mcu-literary-prose",
+  "title": "第38屆銘傳文藝獎 高中職中文散文競賽",
+  "edition": "第 38 屆",
+  "summary": "全國高中職及五專前三年學生撰寫 1,000 至 3,000 字不限主題中文散文並線上投稿，得獎者須出席頒獎典禮。",
+  "organizers": [
+    {
+      "name": "銘傳大學秘書處",
+      "role": "主辦"
+    },
+    {
+      "name": "銘傳大學高教深耕計畫辦公室",
+      "role": "協辦"
+    }
+  ],
+  "categories": [
+    "語文與寫作"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職",
+      "五專"
+    ],
+    "division": "hs_only",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": 1,
+    "teacher": "none",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.week.mcu.edu.tw/highschool/",
+        "quote": "第38屆銘傳文藝獎高中職中文散文組，邀請全國高中職及五專前三年學生，以文字寫下青春歲月中的觀察、感動與成長。"
+      },
+      {
+        "url": "https://www.week.mcu.edu.tw/highschool/",
+        "quote": "可以。高三在學學生、五專前三年學生，以及實驗教育或非學校型態自學生，均可參加第38屆銘傳文藝獎高中職中文散文組。"
+      },
+      {
+        "url": "https://www.week.mcu.edu.tw/highschool/",
+        "quote": "不需要。參賽者可自行透過銘傳文藝獎線上投稿系統報名，不必取得老師推薦或學校核章。"
+      },
+      {
+        "url": "https://www.week.mcu.edu.tw/highschool/",
+        "quote": "每人限投稿1件，投稿作品須為匿名稿件，不得於文中提示作者身分。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "submission_deadline",
+      "label": "收件截止",
+      "date": "2027-01-22",
+      "time": null,
+      "original": "即日起至2027年1月22日止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.week.mcu.edu.tw/highschool/",
+          "quote": "五、收件日期：即日起至2027年1月22日止"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "投稿",
+      "what": "投稿單及 1,000 至 3,000 字匿名中文散文作品（主題不限）",
+      "how": "online"
+    }
+  ],
+  "attendance": {
+    "value": "none",
+    "where": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.week.mcu.edu.tw/highschool/"
+      },
+      {
+        "url": "https://www.week.mcu.edu.tw/art/"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.week.mcu.edu.tw/highschool/"
+      },
+      {
+        "url": "https://www.week.mcu.edu.tw/art/"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "首獎 1 名獎金 5,000 元、貳獎 1 名獎金 3,000 元、參獎 1 名獎金 2,000 元、優選 3 名各獎金 1,000 元，皆附獎狀一紙；另完成投稿者具 vivo V70 FE 智慧手機抽獎資格。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.week.mcu.edu.tw/highschool/",
+        "quote": "首獎1名：獎金5,000元、獎狀一紙"
+      },
+      {
+        "url": "https://www.week.mcu.edu.tw/highschool/",
+        "quote": "貮獎1名：獎金3,000元、獎狀一紙"
+      },
+      {
+        "url": "https://www.week.mcu.edu.tw/highschool/",
+        "quote": "參獎1名：獎金2,000元、獎狀一紙"
+      },
+      {
+        "url": "https://www.week.mcu.edu.tw/highschool/",
+        "quote": "優選3名：獎金1,000元、獎狀一紙"
+      },
+      {
+        "url": "https://www.week.mcu.edu.tw/art/",
+        "quote": "獎品由 vivo 贊助提供 V70 FE 智慧手機乙台，得獎者將於活動結束後公開抽獎並另行公告。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "restricted",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.week.mcu.edu.tw/highschool/",
+        "quote": "投稿作品之主要內容、架構及文字表達應由參賽者自行創作，不得使用生成式AI代為撰寫、改寫或生成作品內容；如僅使用AI進行資料查詢、錯別字檢查等輔助性用途，不在此限。"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://www.week.mcu.edu.tw/highschool/",
+    "rules": [
+      {
+        "title": "第38屆銘傳文藝獎活動辦法",
+        "url": "https://www.week.mcu.edu.tw/art/"
+      },
+      {
+        "title": "第38屆銘傳文藝獎_高中職組中文散文競賽辦法.odt",
+        "url": "https://www.chsh.chc.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Memd5TDNCMFlWOHlNamd3TmpGZk1qTTNOVGczTWw4ME5qWXhPQzV2WkhRPQ==&fname=WSGGKLQKSSCGCD44ED04KPGD14PK35KKYSB0SSXSLP25FGA5FCFCA0UWFGOO50QKKKPO45MLJC24MOXSYWB4IC25OPRKRKYSNPYTMLPKZW3001KLUSKKWXPKYW00GDZXDGA0DGWTZSKODC351434OKMKVXQLQPTWA0DCYSUW14OOGHUSA410UTKK4410YSGDTWB424YSQORODCNPMLMP04A53430JCFG34SSGHQKRK4041YXEDEGRO24KONKZTWWDGJCGD20NPGDPOQPFCB4GHPO20OKUSSSNOTSTTYXDG24DCYWKONKOK00USFGRLHG"
+      }
+    ],
+    "registration": "https://docs.google.com/forms/d/e/1FAIpQLSfk560zAHccLOXIPE2IPUlSNvhYBfzvS_EnMbv3pq5YBjdd8w/viewform?usp=sharing&ouid=101303277783356915085"
+  },
+  "found_via": [
+    {
+      "name": "銘傳文藝獎高中職專區",
+      "url": "https://www.week.mcu.edu.tw/highschool/"
+    },
+    {
+      "name": "銘傳文藝獎活動網站",
+      "url": "https://www.week.mcu.edu.tw/highschool/"
+    },
+    {
+      "name": "彰化高中轉發公告",
+      "url": "https://www.chsh.chc.edu.tw/p/406-1009-196798,r70.php?Lang=zh-tw"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-21",
+    "method": "single",
+    "unread": [
+      "38投稿單-高中職組.docx",
+      "第38屆銘傳文藝獎_高中職組中文散文競賽辦法.odt",
+      "第38屆銘傳文藝獎高中徵稿海報.png"
+    ],
+    "note": null,
+    "readers": [
+      "gemini-4-hydrogen-medium"
+    ]
+  },
+  "first_seen": "2026-11-20",
+  "updated": "2026-11-20"
+}

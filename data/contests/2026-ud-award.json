@@ -1,0 +1,239 @@
+{
+  "schema": 1,
+  "id": "2026-ud-award",
+  "title": "2026 第十一屆通用設計獎",
+  "edition": "第十一屆",
+  "summary": "各級學校學生及社會人士 1 至 5 人以「伴」為題提交 5 頁內設計作品 PDF，入圍者須簡報決審。",
+  "organizers": [
+    {
+      "name": "財團法人臺北市自由空間教育基金會",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "設計"
+  ],
+  "eligibility": {
+    "levels": [
+      "國小",
+      "國中",
+      "高中",
+      "高職",
+      "五專",
+      "大專",
+      "社會人士"
+    ],
+    "division": "mixed",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": 5,
+    "teacher": "optional",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://docs.google.com/document/d/1Q1wl5Ci2OFW4Pc_qVhgKZvVQXyVuNZn5YpBraHyPWFc/edit",
+        "quote": "學生組與社會組分開評選。"
+      },
+      {
+        "url": "https://docs.google.com/document/d/1Q1wl5Ci2OFW4Pc_qVhgKZvVQXyVuNZn5YpBraHyPWFc/edit",
+        "quote": "各級學校在學學生，以及 2026 年度應屆畢業生皆可參賽。"
+      },
+      {
+        "url": "https://docs.google.com/document/d/1Q1wl5Ci2OFW4Pc_qVhgKZvVQXyVuNZn5YpBraHyPWFc/edit",
+        "quote": "一般民眾、設計工作者、公司或機構人員、非營利組織、社區團隊及跨領域團隊等均可參賽。"
+      },
+      {
+        "url": "https://docs.google.com/document/d/1Q1wl5Ci2OFW4Pc_qVhgKZvVQXyVuNZn5YpBraHyPWFc/edit",
+        "quote": "每件作品可由 1 人個人參賽，或 2～5 人組隊參賽。"
+      },
+      {
+        "url": "https://docs.google.com/document/d/1Q1wl5Ci2OFW4Pc_qVhgKZvVQXyVuNZn5YpBraHyPWFc/edit",
+        "quote": "指導老師最多列 2 名，不列入正式參賽成員。"
+      },
+      {
+        "url": "https://docs.google.com/document/d/1Q1wl5Ci2OFW4Pc_qVhgKZvVQXyVuNZn5YpBraHyPWFc/edit",
+        "quote": "本競賽不限國籍及居住地，符合上述資格之境內外參賽者均可報名。"
+      },
+      {
+        "url": "https://docs.google.com/document/d/1Q1wl5Ci2OFW4Pc_qVhgKZvVQXyVuNZn5YpBraHyPWFc/edit",
+        "quote": "採 Google Form 線上報名。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "other",
+      "label": "簡章公告暨開放報名",
+      "date": "2026-09-04",
+      "time": null,
+      "original": "2026 年 9 月 4 日（五）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://docs.google.com/document/d/1Q1wl5Ci2OFW4Pc_qVhgKZvVQXyVuNZn5YpBraHyPWFc/edit",
+          "quote": "簡章公告暨開放報名\n 2026 年 9 月 4 日（五）"
+        }
+      ]
+    },
+    {
+      "kind": "registration_deadline",
+      "label": "報名截止",
+      "date": "2026-11-30",
+      "time": "23:59",
+      "original": "2026 年 11 月 30 日（一）23:59",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://docs.google.com/document/d/1Q1wl5Ci2OFW4Pc_qVhgKZvVQXyVuNZn5YpBraHyPWFc/edit",
+          "quote": "報名截止\n 2026 年 11 月 30 日（一）23:59"
+        }
+      ]
+    },
+    {
+      "kind": "shortlist_announcement",
+      "label": "入圍公告",
+      "date": "2026-12-07",
+      "time": null,
+      "original": "2026 年 12 月 7 日（一）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://docs.google.com/document/d/1Q1wl5Ci2OFW4Pc_qVhgKZvVQXyVuNZn5YpBraHyPWFc/edit",
+          "quote": "入圍公告\n 2026 年 12 月 7 日（一）"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "頒獎典禮",
+      "date": "2026-12-19",
+      "time": null,
+      "original": "2026 年 12 月 19 日（六）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://docs.google.com/document/d/1Q1wl5Ci2OFW4Pc_qVhgKZvVQXyVuNZn5YpBraHyPWFc/edit",
+          "quote": "頒獎典禮\n 2026 年 12 月 19 日（六）"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "成果公告",
+      "date": null,
+      "time": null,
+      "original": "2026 年 12 月底至 2027 年 1 月",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://docs.google.com/document/d/1Q1wl5Ci2OFW4Pc_qVhgKZvVQXyVuNZn5YpBraHyPWFc/edit",
+          "quote": "成果公告\n 2026 年 12 月底至 2027 年 1 月"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名／初審",
+      "what": "5 頁內橫式 PDF 主要作品（得附補充資料 QR Code 或網址）",
+      "how": "online"
+    },
+    {
+      "stage": "決審（入圍作品）",
+      "what": "決賽簡報及評審問答",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "finalists",
+    "where": null,
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://docs.google.com/document/d/1Q1wl5Ci2OFW4Pc_qVhgKZvVQXyVuNZn5YpBraHyPWFc/edit",
+        "quote": "入圍作品將進行決賽簡報及評審問答，原則上採現場方式進行。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://docs.google.com/document/d/1Q1wl5Ci2OFW4Pc_qVhgKZvVQXyVuNZn5YpBraHyPWFc/edit"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "學生組與社會組各設：金獎 1 名 NT$30,000、銀獎 1 名 NT$20,000、銅獎 1 名 NT$10,000、佳作數名 NT$5,000，另得增設特別獎。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://docs.google.com/document/d/1Q1wl5Ci2OFW4Pc_qVhgKZvVQXyVuNZn5YpBraHyPWFc/edit",
+        "quote": "（一）學生組\n * 金獎｜1 名｜NT$30,000\n * 銀獎｜1 名｜NT$20,000\n * 銅獎｜1 名｜NT$10,000\n * 佳作｜數名｜NT$5,000"
+      },
+      {
+        "url": "https://docs.google.com/document/d/1Q1wl5Ci2OFW4Pc_qVhgKZvVQXyVuNZn5YpBraHyPWFc/edit",
+        "quote": "（二）社會組\n * 金獎｜1 名｜NT$30,000\n * 銀獎｜1 名｜NT$20,000\n * 銅獎｜1 名｜NT$10,000\n * 佳作｜數名｜NT$5,000"
+      },
+      {
+        "url": "https://docs.google.com/document/d/1Q1wl5Ci2OFW4Pc_qVhgKZvVQXyVuNZn5YpBraHyPWFc/edit",
+        "quote": "另得依作品及合作規劃增設特別獎。各獎項得依作品品質從缺，實際名額及獎勵內容依主辦單位正式公告為準。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "restricted",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://docs.google.com/document/d/1Q1wl5Ci2OFW4Pc_qVhgKZvVQXyVuNZn5YpBraHyPWFc/edit",
+        "quote": "參賽者得使用生成式 AI 或其他數位工具協助資料整理、文字、圖像、程式、資料分析、介面或作品呈現。"
+      },
+      {
+        "url": "https://docs.google.com/document/d/1Q1wl5Ci2OFW4Pc_qVhgKZvVQXyVuNZn5YpBraHyPWFc/edit",
+        "quote": "若 AI 實際產生或重大修改作品主要內容，應揭露："
+      },
+      {
+        "url": "https://docs.google.com/document/d/1Q1wl5Ci2OFW4Pc_qVhgKZvVQXyVuNZn5YpBraHyPWFc/edit",
+        "quote": "不得使用 AI 虛構訪談、問卷、測試、統計、研究資料或實際成果。"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://www.ud.org.tw/2026-ud-award/",
+    "rules": [
+      {
+        "title": "2026 第十一屆通用設計獎競賽比賽辦法",
+        "url": "https://docs.google.com/document/d/1Q1wl5Ci2OFW4Pc_qVhgKZvVQXyVuNZn5YpBraHyPWFc/edit?usp=sharing"
+      }
+    ],
+    "registration": "https://forms.gle/WJFj5GgYnWHvSsdS6"
+  },
+  "found_via": [
+    {
+      "name": "比賽辦法（Google 文件，官網連結）",
+      "url": "https://docs.google.com/document/d/1Q1wl5Ci2OFW4Pc_qVhgKZvVQXyVuNZn5YpBraHyPWFc/edit"
+    },
+    {
+      "name": "通用設計獎官網公告",
+      "url": "https://www.ud.org.tw/2026-ud-award/"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-21",
+    "method": "dual",
+    "unread": [],
+    "note": null,
+    "readers": [
+      "gemini-4-hydrogen-medium",
+      "gpt-6.1-sol"
+    ]
+  },
+  "first_seen": "2026-11-20",
+  "updated": "2026-11-21"
+}

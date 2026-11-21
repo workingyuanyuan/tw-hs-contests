@@ -1,0 +1,246 @@
+{
+  "schema": 1,
+  "id": "2026-sym-design",
+  "title": "2027 SYM 三陽創新設計大賽",
+  "edition": "2027",
+  "summary": "全國高中職至碩博士生與 2027 應屆畢業生 1 至 5 人設計速克達載具，初複審線上繳交圖面表板，決審帶 1:3 模型簡報。",
+  "organizers": [
+    {
+      "name": "三陽工業股份有限公司",
+      "role": "主辦"
+    },
+    {
+      "name": "浩漢產品設計股份有限公司",
+      "role": "承辦"
+    }
+  ],
+  "categories": [
+    "設計",
+    "工程與製造"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職",
+      "大專"
+    ],
+    "division": "mixed",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": 5,
+    "teacher": "optional",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://designaward.sym-global.com/",
+        "quote": "全國高中職、大專院校及碩博士班不限科系之「在學學生及 2027 年應屆畢業生」，以報名時身份認定，應屆畢業生需提供畢業證書及相關證明文件。"
+      },
+      {
+        "url": "https://designaward.sym-global.com/",
+        "quote": "參賽者可以個人或團體方式免費報名，每隊人數以 5 人為限，不限參賽件數，亦可跨隊報名參賽。"
+      },
+      {
+        "url": "https://designaward.sym-global.com/",
+        "quote": "指導老師感謝狀｜獲入圍獎以上之指導老師，每名頒發感謝狀 1 紙。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "初選報名截止",
+      "date": "2026-12-17",
+      "time": "23:59",
+      "original": "2026 年 12 月 17 日（四）晚上 23：59 前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://cdn.bountyhunter.co/file-presign/4a6faf6d-39d7-4678-b33d-1253c50d3789.pdf?dl=2027%20SYM%20%E4%B8%89%E9%99%BD%E5%89%B5%E6%96%B0%E8%A8%AD%E8%A8%88%E5%A4%A7%E8%B3%BD%EF%BD%9C%E5%A0%B1%E5%90%8D%E7%B0%A1%E7%AB%A0.pdf",
+          "quote": "請於 2026 年 12 月 17 日（四）晚上 23：59 前，至官網登錄比賽資料。"
+        }
+      ]
+    },
+    {
+      "kind": "shortlist_announcement",
+      "label": "30 強複審入圍名單公布",
+      "date": "2027-01-08",
+      "time": null,
+      "original": "2027/1/8",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://designaward.sym-global.com/",
+          "quote": "2027/1/8 30 強複審入圍名單公布"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "大師工作坊（擇一場次）",
+      "date": "2027-01-17",
+      "time": null,
+      "original": "2027/1/16、1/17",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://designaward.sym-global.com/",
+          "quote": "2027/1/16、1/17 大師工作坊（擇一場次）"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "複審繳件截止",
+      "date": "2027-02-01",
+      "time": null,
+      "original": "2027/2/1",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://designaward.sym-global.com/",
+          "quote": "2027/2/1 複審繳件截止"
+        }
+      ]
+    },
+    {
+      "kind": "shortlist_announcement",
+      "label": "12 強決審入圍名單公布",
+      "date": "2027-02-26",
+      "time": null,
+      "original": "2027/2/26",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://designaward.sym-global.com/",
+          "quote": "2027/2/26 12 強決審入圍名單公布"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "決審評比暨頒獎典禮",
+      "date": "2027-05-14",
+      "time": null,
+      "original": "2027/5/14",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://designaward.sym-global.com/",
+          "quote": "2027/5/14 決審評比暨頒獎典禮"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "初選",
+      "what": "基本資料、500 字內作品說明、設計完成圖 3 張（正側、前 45 度、後 45 度視圖，A4 300 dpi JPG）及直式作品表板 2 張（A4 300 dpi JPG）",
+      "how": "online"
+    },
+    {
+      "stage": "複審",
+      "what": "修改後數位作品表板（2 張 A2 檔案，核心理念不可修改）",
+      "how": "online"
+    },
+    {
+      "stage": "決審（入圍決審隊伍）",
+      "what": "1:3 作品比例模型及現場 5 分鐘設計說明簡報",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "finalists",
+    "where": null,
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://designaward.sym-global.com/",
+        "quote": "入圍決審之隊伍需於決審評比暨頒獎典禮前完成作品比例模型（1：3）製作，並親自攜帶模型至評選現場進行設計說明，每組提報時間為 5 分鐘，評選過程不對外公開，由評審依評選標準選出得獎作品，並進行頒獎。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://designaward.sym-global.com/",
+        "quote": "參賽者可以個人或團體方式免費報名，每隊人數以 5 人為限，不限參賽件數，亦可跨隊報名參賽。"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "特別獎 1 名：250,000 元、獎狀 1 紙；特優獎 2 名：各 120,000 元、獎狀 1 紙；優等獎 3 名：各 70,000 元、獎狀 1 紙；入圍獎 6 名：各 12,000 元、獎狀 1 紙；指導老師感謝狀 1 紙（獲入圍獎以上）。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://designaward.sym-global.com/",
+        "quote": "特別獎｜1 名，新臺幣 250,000 元、獎狀 1 紙。"
+      },
+      {
+        "url": "https://designaward.sym-global.com/",
+        "quote": "特優獎｜2 名，新臺幣 120,000 元、獎狀 1 紙。"
+      },
+      {
+        "url": "https://designaward.sym-global.com/",
+        "quote": "優等獎｜3 名，新臺幣 70,000 元、獎狀 1 紙。"
+      },
+      {
+        "url": "https://designaward.sym-global.com/",
+        "quote": "入圍獎｜6 名，新臺幣 12,000 元、獎狀 1 紙。"
+      },
+      {
+        "url": "https://designaward.sym-global.com/",
+        "quote": "指導老師感謝狀｜獲入圍獎以上之指導老師，每名頒發感謝狀 1 紙。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://designaward.sym-global.com/"
+      },
+      {
+        "url": "https://cdn.bountyhunter.co/file-presign/4a6faf6d-39d7-4678-b33d-1253c50d3789.pdf?dl=2027%20SYM%20%E4%B8%89%E9%99%BD%E5%89%B5%E6%96%B0%E8%A8%AD%E8%A8%88%E5%A4%A7%E8%B3%BD%EF%BD%9C%E5%A0%B1%E5%90%8D%E7%B0%A1%E7%AB%A0.pdf"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://designaward.sym-global.com/",
+    "rules": [
+      {
+        "title": "2027 SYM 三陽創新設計大賽｜報名簡章",
+        "url": "https://cdn.bountyhunter.co/file-presign/4a6faf6d-39d7-4678-b33d-1253c50d3789.pdf?dl=2027%20SYM%20%E4%B8%89%E9%99%BD%E5%89%B5%E6%96%B0%E8%A8%AD%E8%A8%88%E5%A4%A7%E8%B3%BD%EF%BD%9C%E5%A0%B1%E5%90%8D%E7%B0%A1%E7%AB%A0.pdf"
+      }
+    ],
+    "registration": "https://designaward.sym-global.com/register"
+  },
+  "found_via": [
+    {
+      "name": "bhuntr.com",
+      "url": "https://bhuntr.com/tw/competitions/99e2bly7unmn70c56e"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-21",
+    "method": "single",
+    "unread": [
+      "2027 SYM 三陽創新設計大賽｜著作授權同意書.pdf"
+    ],
+    "note": null,
+    "readers": [
+      "gemini-4-hydrogen-medium"
+    ]
+  },
+  "first_seen": "2026-11-20",
+  "updated": "2026-11-20",
+  "level": "checked",
+  "url": "https://workingyuanyuan.github.io/tw-hs-contests/contests/2026-sym-design/",
+  "markdown": "https://workingyuanyuan.github.io/tw-hs-contests/contests/2026-sym-design.md"
+}

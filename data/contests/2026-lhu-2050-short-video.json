@@ -1,0 +1,199 @@
+{
+  "schema": 1,
+  "id": "2026-lhu-2050-short-video",
+  "title": "全國大專校院暨高中職「2050 永續生活願景」短影音行銷競賽",
+  "edition": "2026",
+  "summary": "大專校院及高中職生 1 至 6 人組隊，運用生成式 AI 製作 30 至 60 秒永續生活短影音，線上繳交影片、15 頁簡報與 AI 紀錄。",
+  "organizers": [
+    {
+      "name": "龍華科技大學 數位行銷暨跨境商務系",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "影音",
+    "商管與行銷",
+    "資訊與 AI"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職",
+      "大專"
+    ],
+    "division": "separate",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": 6,
+    "teacher": "required",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://mindnodeai.github.io/2025_K30DMCCVideoCompetition",
+        "quote": "全國公私立大專校院（含研究生）及高中職（含進修部）在校生均可參加，休學生不在本競賽參賽範圍。"
+      },
+      {
+        "url": "https://mindnodeai.github.io/2025_K30DMCCVideoCompetition",
+        "quote": "競賽分為「大專校院組」及「高中職組」，兩組分別評審及敘獎。"
+      },
+      {
+        "url": "https://mindnodeai.github.io/2025_K30DMCCVideoCompetition",
+        "quote": "可個人或組隊參賽，每隊 1-6 人（含隊長），個人參賽即為隊長。"
+      },
+      {
+        "url": "https://mindnodeai.github.io/2025_K30DMCCVideoCompetition",
+        "quote": "每隊須由 1-2 名老師指導，指導老師不列入參賽人數，可跨校指導。"
+      },
+      {
+        "url": "https://mindnodeai.github.io/2025_K30DMCCVideoCompetition",
+        "quote": "本競賽一律採線上報名，無須寄送紙本或 E-mail。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "報名及資料上傳截止",
+      "date": "2026-11-27",
+      "time": "23:59",
+      "original": "2026/11/27 (五) 23:59",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://mindnodeai.github.io/2025_K30DMCCVideoCompetition",
+          "quote": "報名及資料上傳截止\n 2026/11/27 (五)\n 23:59"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "得獎結果公告",
+      "date": "2026-12-07",
+      "time": null,
+      "original": "2026/12/07 (一)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://mindnodeai.github.io/2025_K30DMCCVideoCompetition",
+          "quote": "得獎結果公告\n 2026/12/07 (一)"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名及資料上傳",
+      "what": "全體參賽成員學生證或在學證明",
+      "how": "online"
+    },
+    {
+      "stage": "報名及資料上傳",
+      "what": "30–60 秒短影音作品（MP4 原始檔及 YouTube 不公開連結）",
+      "how": "online"
+    },
+    {
+      "stage": "報名及資料上傳",
+      "what": "15 頁作品介紹簡報（PDF 檔）",
+      "how": "online"
+    },
+    {
+      "stage": "報名及資料上傳",
+      "what": "至少 3 組生成式 AI 使用紀錄",
+      "how": "online"
+    }
+  ],
+  "attendance": {
+    "value": "none",
+    "where": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://mindnodeai.github.io/2025_K30DMCCVideoCompetition"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://mindnodeai.github.io/2025_K30DMCCVideoCompetition"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "大專校院組及高中職組分別敘獎：第一名各組 1 隊 5,000 元、第二名各組 1 隊 4,000 元、第三名各組 1 隊 3,000 元、佳作各組 8 隊各 1,000 元，獲獎團隊每位隊員及指導老師各頒電子獎狀 1 張。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://mindnodeai.github.io/2025_K30DMCCVideoCompetition",
+        "quote": "大專校院組 及 高中職組 分別評選與敘獎，各獎項得依評審結果從缺。"
+      },
+      {
+        "url": "https://mindnodeai.github.io/2025_K30DMCCVideoCompetition",
+        "quote": "第一名 (各組 1 隊)\nNT$ 5,000\n及電子獎狀"
+      },
+      {
+        "url": "https://mindnodeai.github.io/2025_K30DMCCVideoCompetition",
+        "quote": "第二名 (各組 1 隊)\nNT$ 4,000\n及電子獎狀"
+      },
+      {
+        "url": "https://mindnodeai.github.io/2025_K30DMCCVideoCompetition",
+        "quote": "第三名 (各組 1 隊)\nNT$ 3,000\n及電子獎狀"
+      },
+      {
+        "url": "https://mindnodeai.github.io/2025_K30DMCCVideoCompetition",
+        "quote": "佳作 (各組 8 隊)\nNT$ 1,000\n及電子獎狀"
+      },
+      {
+        "url": "https://mindnodeai.github.io/2025_K30DMCCVideoCompetition",
+        "quote": "獎勵金由每隊隊長代表領取。獲獎團隊之每位隊員及指導老師，各頒發電子獎狀 1 張。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "required",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://mindnodeai.github.io/2025_K30DMCCVideoCompetition",
+        "quote": "作品須 至少使用 2 類不同 的生成式 AI 技術 (腳本/文字、圖像、影片、語音/配音、音樂/配樂)。"
+      },
+      {
+        "url": "https://mindnodeai.github.io/2025_K30DMCCVideoCompetition",
+        "quote": "報名時須提供 至少 3 組 實際使用於作品的紀錄，包含：AI工具名稱、技術類型、提示詞(Prompt)、產出內容與實際運用方式。"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://mindnodeai.github.io/2025_K30DMCCVideoCompetition",
+    "rules": [],
+    "registration": "https://mindnodeai.github.io/registration.html"
+  },
+  "found_via": [
+    {
+      "name": "競賽官網",
+      "url": "https://mindnodeai.github.io/2025_K30DMCCVideoCompetition"
+    },
+    {
+      "name": "競賽官網",
+      "url": "https://mindnodeai.github.io/2025_K30DMCCVideoCompetition"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-21",
+    "method": "dual",
+    "unread": [],
+    "note": null,
+    "readers": [
+      "gemini-4-hydrogen-medium",
+      "gpt-6.1-sol"
+    ]
+  },
+  "first_seen": "2026-11-16",
+  "updated": "2026-11-21"
+}

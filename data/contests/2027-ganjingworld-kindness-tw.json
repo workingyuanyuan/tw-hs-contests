@@ -1,0 +1,187 @@
+{
+  "schema": 1,
+  "id": "2027-ganjingworld-kindness-tw",
+  "title": "第四屆《#善念點亮台灣》影片暨繪畫創作大賽",
+  "edition": "第四屆",
+  "summary": "個人或團體創作善念主題影片或繪畫，發布於乾淨世界頻道並加註活動標籤參賽。",
+  "organizers": [
+    {
+      "name": "乾淨世界 Gan Jing World",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "影音",
+    "美術"
+  ],
+  "eligibility": {
+    "levels": [
+      "國小",
+      "國中",
+      "高中",
+      "高職",
+      "大專",
+      "社會人士"
+    ],
+    "division": "mixed",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": null,
+    "teacher": "optional",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.ganjingworld.com/s/3R4W9AypXb",
+        "quote": "本活動歡迎全球個人或團體參加，包括："
+      },
+      {
+        "url": "https://www.ganjingworld.com/s/3R4W9AypXb",
+        "quote": "國小、國中、高中職及大專院校學生"
+      },
+      {
+        "url": "https://www.ganjingworld.com/s/3R4W9AypXb",
+        "quote": "B. 繪畫創作組 (分四個年齡段6-8歲、9-11歲、12-14歲、15-18歲）"
+      },
+      {
+        "url": "https://www.ganjingworld.com/s/3R4W9AypXb",
+        "quote": "指導老師姓名（如有）"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "submission_deadline",
+      "label": "投稿截止",
+      "date": "2027-03-31",
+      "time": null,
+      "original": "即日起至2027年3月31日止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.ganjingworld.com/s/3R4W9AypXb",
+          "quote": "即日起至2027年3月31日止。"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "得獎公布",
+      "date": "2027-04-30",
+      "time": null,
+      "original": "預定於2027年4月30日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.ganjingworld.com/s/3R4W9AypXb",
+          "quote": "預定於2027年4月30日公布得獎名單。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "投稿（影片創作組）",
+      "what": "30 秒以上原創影片（橫式或直式，非中文須附中文字幕），發布於乾淨世界頻道並加註活動標籤及填寫報名資料",
+      "how": "online"
+    },
+    {
+      "stage": "投稿（繪畫創作組）",
+      "what": "平面繪畫作品圖片或短影片（數位手繪須錄製主要繪製過程）及 50 至 150 字創作理念，發布於乾淨世界頻道並加註活動標籤及填寫報名資料",
+      "how": "online"
+    }
+  ],
+  "attendance": {
+    "value": "none",
+    "where": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.ganjingworld.com/s/3R4W9AypXb"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.ganjingworld.com/s/3R4W9AypXb"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "影片創作組：金賞獎 1 名 US$2,000 及獎狀、銀賞獎 1 名 US$1,000 及獎狀、銅賞獎 10 名各 US$500 及獎狀、優秀獎若干名獲獎品及獎狀。繪畫創作組（分四個年齡段）：頭獎共 4 名各 US$500 及獎狀、優秀獎若干名獲頒乾淨樂學 US$88 及獎狀。另設友善校園非主要獎金表揚。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.ganjingworld.com/s/3R4W9AypXb",
+        "quote": "金賞獎：1名，獎金US$2,000及獎狀"
+      },
+      {
+        "url": "https://www.ganjingworld.com/s/3R4W9AypXb",
+        "quote": "銀賞獎：1名，獎金US$1,000及獎狀"
+      },
+      {
+        "url": "https://www.ganjingworld.com/s/3R4W9AypXb",
+        "quote": "銅賞獎：10名，每名獎金US$500及獎狀"
+      },
+      {
+        "url": "https://www.ganjingworld.com/s/3R4W9AypXb",
+        "quote": "頭獎：共4名，獎金US$500及獎狀 (分四個年齡段6-8歲、9-11歲、12-14歲、15-18歲）"
+      },
+      {
+        "url": "https://www.ganjingworld.com/s/3R4W9AypXb",
+        "quote": "優秀獎：四個年齡段若干名，獲頒乾淨樂學US$88及獎狀。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "restricted",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.ganjingworld.com/s/3R4W9AypXb",
+        "quote": "影片可使用AI工具協助剪輯、字幕、配音、翻譯、特效或畫面製作，但須由參賽者主導創意與完成作品。"
+      },
+      {
+        "url": "https://www.ganjingworld.com/s/3R4W9AypXb",
+        "quote": "使用AI生成畫面、聲音、人物或其他重要內容時，須於報名資料中主動說明使用工具及使用方式。"
+      },
+      {
+        "url": "https://www.ganjingworld.com/s/3R4W9AypXb",
+        "quote": "完全由生成式AI自動產出的圖片，不得參加繪畫創作組。"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://www.ganjingworld.com/@Kindness.TW",
+    "rules": [
+      {
+        "title": "第四屆《#善念點亮台灣》影片暨繪畫創作大賽活動章程",
+        "url": "https://www.ganjingworld.com/s/3R4W9AypXb"
+      }
+    ],
+    "registration": null
+  },
+  "found_via": [
+    {
+      "name": "獎金獵人刊登頁",
+      "url": "https://bhuntr.com/tw/competitions/tquo9h6lxaavwyhojw"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-21",
+    "method": "single",
+    "unread": [],
+    "note": null,
+    "readers": [
+      "gemini-4-hydrogen-medium"
+    ]
+  },
+  "first_seen": "2026-11-20",
+  "updated": "2026-11-21"
+}

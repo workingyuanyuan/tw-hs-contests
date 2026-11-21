@@ -1,0 +1,208 @@
+{
+  "schema": 1,
+  "id": "2027-hfu-design",
+  "title": "2027〈大觸特觸全國高中職設計競賽〉",
+  "edition": "2027",
+  "summary": "全國高中職在校生設計 30 公分內立體角色，初審填線上表單並郵寄照片與表件，入圍者至台北現場發表。",
+  "organizers": [
+    {
+      "name": "華梵大學",
+      "role": "主辦"
+    },
+    {
+      "name": "IDDAT 臺北市工業設計發展協會",
+      "role": "主辦"
+    },
+    {
+      "name": "華梵大學智慧生活設計學系",
+      "role": "承辦"
+    }
+  ],
+  "categories": [
+    "設計"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職"
+    ],
+    "division": "hs_only",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": 1,
+    "teacher": "optional",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/1g_5l9eFjD-6DTKhF0j_bJ5bBA-tgCiXo/view?usp=sharing",
+        "quote": "1. 凡全國高中職在校生皆可報名參加。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1g_5l9eFjD-6DTKhF0j_bJ5bBA-tgCiXo/view?usp=sharing",
+        "quote": "3. 每人各類限送一件作品。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1g_5l9eFjD-6DTKhF0j_bJ5bBA-tgCiXo/view?usp=sharing",
+        "quote": "1. 本次競賽須填寫線上報名表單：https://reurl.cc/OQzezy"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1g_5l9eFjD-6DTKhF0j_bJ5bBA-tgCiXo/view?usp=sharing",
+        "quote": "指導老師 (若無則填\"無\")"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "submission_deadline",
+      "label": "收件截止",
+      "date": "2027-02-26",
+      "time": null,
+      "original": "2027 年2 月1 日起至2027 年2 月26 日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://drive.google.com/file/d/1g_5l9eFjD-6DTKhF0j_bJ5bBA-tgCiXo/view?usp=sharing",
+          "quote": "（二）收件時間：2027 年2 月1 日起至2027 年2 月26 日"
+        }
+      ]
+    },
+    {
+      "kind": "shortlist_announcement",
+      "label": "初審結果公布",
+      "date": "2027-03-17",
+      "time": null,
+      "original": "2027 年3 月17 日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://drive.google.com/file/d/1g_5l9eFjD-6DTKhF0j_bJ5bBA-tgCiXo/view?usp=sharing",
+          "quote": "（三）初審結果公布：2027 年3 月17 日"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "複審與頒獎",
+      "date": "2027-04-10",
+      "time": "10:00",
+      "original": "2027 年4 月10 日，10:00-12:00 佈展，13:00 進行作品發表、複審與頒獎",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://drive.google.com/file/d/1g_5l9eFjD-6DTKhF0j_bJ5bBA-tgCiXo/view?usp=sharing",
+          "quote": "（四）複審與頒獎：2027 年4 月10 日，於松山文創園區「iF 台北設計沙龍」舉辦，當日 10:00-12:00 佈展，13:00 進行作品發表、複審與頒獎。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名",
+      "what": "線上報名表單",
+      "how": "online"
+    },
+    {
+      "stage": "初審",
+      "what": "紙本送件表（附件一個人資料及作品說明與彩色照片、附件二著作財產權授權同意書、附件三個資提供同意書）",
+      "how": "mail"
+    },
+    {
+      "stage": "複審",
+      "what": "30×30×30 公分以內立體作品實體及現場作品發表",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "finalists",
+    "where": "松山文創園區「iF 台北設計沙龍」",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/1g_5l9eFjD-6DTKhF0j_bJ5bBA-tgCiXo/view?usp=sharing",
+        "quote": "（一）舉辦方式：採公開徵件方式，辦理書面文件初審，入選者需出席複審作品發表。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1g_5l9eFjD-6DTKhF0j_bJ5bBA-tgCiXo/view?usp=sharing",
+        "quote": "（四）複審與頒獎：2027 年4 月10 日，於松山文創園區「iF 台北設計沙龍」舉辦，當日 10:00-12:00 佈展，13:00 進行作品發表、複審與頒獎。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/1g_5l9eFjD-6DTKhF0j_bJ5bBA-tgCiXo/view?usp=sharing"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "金獎 1 名 1 萬元（含稅）、銀獎 1 名 8 仟元（含稅）、銅獎 2 名各 5 仟元（含稅）、佳作 10 名各 1 仟元（含稅），以上皆附獎狀乙紙；入選若干名頒發獎狀乙紙。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/1g_5l9eFjD-6DTKhF0j_bJ5bBA-tgCiXo/view?usp=sharing",
+        "quote": "（一）金獎：1 名，獎金新臺幣1 萬元整（含稅），獎狀乙紙。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1g_5l9eFjD-6DTKhF0j_bJ5bBA-tgCiXo/view?usp=sharing",
+        "quote": "（二）銀獎：1 名，獎金新臺幣8 仟元整（含稅），獎狀乙紙。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1g_5l9eFjD-6DTKhF0j_bJ5bBA-tgCiXo/view?usp=sharing",
+        "quote": "（三）銅獎：2 名，獎金新臺幣5 仟元整（含稅），獎狀乙紙。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1g_5l9eFjD-6DTKhF0j_bJ5bBA-tgCiXo/view?usp=sharing",
+        "quote": "（四）佳作：10 名，獎金新臺幣1 仟元整（含稅），獎狀乙紙。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1g_5l9eFjD-6DTKhF0j_bJ5bBA-tgCiXo/view?usp=sharing",
+        "quote": "（五）入選：若干名，獎狀乙紙。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/1g_5l9eFjD-6DTKhF0j_bJ5bBA-tgCiXo/view?usp=sharing"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://reurl.cc/Xx3bb0",
+    "rules": [
+      {
+        "title": "徵件簡章",
+        "url": "https://drive.google.com/file/d/1g_5l9eFjD-6DTKhF0j_bJ5bBA-tgCiXo/view?usp=sharing"
+      }
+    ],
+    "registration": "https://reurl.cc/OQzezy"
+  },
+  "found_via": [
+    {
+      "name": "www.ksvs.kh.edu.tw",
+      "url": "https://www.ksvs.kh.edu.tw/v4/cpsub/article.php?id=12608"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-21",
+    "method": "single",
+    "unread": [],
+    "note": null,
+    "readers": [
+      "gemini-4-hydrogen-medium"
+    ]
+  },
+  "first_seen": "2026-11-20",
+  "updated": "2026-11-20",
+  "level": "checked",
+  "url": "https://workingyuanyuan.github.io/tw-hs-contests/contests/2027-hfu-design/",
+  "markdown": "https://workingyuanyuan.github.io/tw-hs-contests/contests/2027-hfu-design.md"
+}

@@ -1,0 +1,194 @@
+{
+  "schema": 1,
+  "id": "2027-ndhu-qilai-literature",
+  "title": "第27屆東華奇萊文學獎",
+  "edition": "第 27 屆",
+  "summary": "全國高中生可參加高中文學短篇小說獎（8千字內）及林君鴻童話獎（2千字內），採線上報名並繳交電子檔與紙本三份。",
+  "organizers": [
+    {
+      "name": "國立東華大學人文社會科學學院",
+      "role": "主辦"
+    },
+    {
+      "name": "華文文學與創作學系",
+      "role": "協辦"
+    },
+    {
+      "name": "中國語文學系",
+      "role": "協辦"
+    },
+    {
+      "name": "英美語文學系",
+      "role": "協辦"
+    },
+    {
+      "name": "楊牧文學研究中心",
+      "role": "協辦"
+    }
+  ],
+  "categories": [
+    "語文與寫作"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "大專"
+    ],
+    "division": "separate",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": 1,
+    "teacher": "none",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/18VaO0BE0WDCBJaScDGDDR5g4xTQNh23M/view?usp=sharing",
+        "quote": "4. 東華奇萊全國高中文學獎：本年度徵選短篇小說獎：全國高中在學學生皆可參加。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/18VaO0BE0WDCBJaScDGDDR5g4xTQNh23M/view?usp=sharing",
+        "quote": "5. 林君鴻全國兒童文學-童話獎：全國高中以上在學學生皆可參加。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/18VaO0BE0WDCBJaScDGDDR5g4xTQNh23M/view?usp=sharing",
+        "quote": "備註：1~3 項次須為國立東華大學各學制具正式學籍在學學生。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/18VaO0BE0WDCBJaScDGDDR5g4xTQNh23M/view?usp=sharing",
+        "quote": "必須同時完成線上報名、紙本繳交及寄送作品電子檔，最後以收到紙本為準，截止日以郵戳日期為憑。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/18VaO0BE0WDCBJaScDGDDR5g4xTQNh23M/view?usp=sharing",
+        "quote": "4. 每人每類別限投一篇，各獎項作品恕不退件，請作者自存底稿。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "submission_deadline",
+      "label": "稿件繳交及線上報名截止",
+      "date": "2027-03-15",
+      "time": "17:00",
+      "original": "2027 年3 月15 日(星期一)下午5 時止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://drive.google.com/file/d/18VaO0BE0WDCBJaScDGDDR5g4xTQNh23M/view?usp=sharing",
+          "quote": "1. 2027 年3 月15 日(星期一)下午5 時止。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "線上報名",
+      "what": "填寫線上報名表",
+      "how": "online"
+    },
+    {
+      "stage": "電子檔投稿",
+      "what": "作品電子檔（Word 檔及未鎖碼之 pdf 檔格式各一份）寄至指定信箱",
+      "how": "online"
+    },
+    {
+      "stage": "紙本繳交",
+      "what": "專用報名表、切結書各一份、學生證影本或在學證明、匿名紙本作品三份",
+      "how": "mail"
+    }
+  ],
+  "attendance": {
+    "value": "finalists",
+    "where": "東華奇萊全國高中文學獎為線上決審會議；林君鴻全國兒童文學-童話獎為書面決審不需出席；東華校內組為校內決審會議",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/18VaO0BE0WDCBJaScDGDDR5g4xTQNh23M/view?usp=sharing",
+        "quote": "短篇小說獎、散文獎、現代詩獎入圍決審之創作者均應出席校內決審會議暨頒獎活動，東華奇萊全國高中文學獎應出席線上決審 會議"
+      },
+      {
+        "url": "https://drive.google.com/file/d/18VaO0BE0WDCBJaScDGDDR5g4xTQNh23M/view?usp=sharing",
+        "quote": "林君鴻全國兒童文學-童話獎為書面決 審，創作者不需出席會議，得獎結果及頒獎時間另去函通知。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/18VaO0BE0WDCBJaScDGDDR5g4xTQNh23M/view?usp=sharing"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "東華奇萊全國高中文學獎（短篇小說獎）：首獎 1 名 10,000 元及獎盃、評審獎 1 名 6,000 元及獎盃、推薦獎若干名各 3,000 元及獎狀。林君鴻全國兒童文學-童話獎：第一名 8,000 元、第二名 5,000 元、第三名 3,000 元，皆附獎狀。東華校內組（短篇小說、散文、現代詩）另設首獎、評審獎與推薦獎。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/18VaO0BE0WDCBJaScDGDDR5g4xTQNh23M/view?usp=sharing",
+        "quote": "首獎一名，獎金壹萬元及獎盃。 評審獎一名，獎金陸仟元及獎盃。 推薦獎若干名，獎金各參仟元及獎狀。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/18VaO0BE0WDCBJaScDGDDR5g4xTQNh23M/view?usp=sharing",
+        "quote": "第一名：一名，獎金捌仟元及獎狀。 第二名：一名，獎金伍仟元及獎狀。 第三名：一名，獎金參仟元及獎狀。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "banned",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/18VaO0BE0WDCBJaScDGDDR5g4xTQNh23M/view?usp=sharing",
+        "quote": "5. 投稿作品若屬抄襲、曾在網路或平面等具有審查機制的平台發表、 或使用AI 人工智慧文字生成軟體、及其他違反比賽規則之情事，主辦單位得撤銷得獎資格，並追回獎金。"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://award.ndhu.edu.tw/",
+    "rules": [
+      {
+        "title": "第二十七屆東華奇萊文學獎徵文簡章",
+        "url": "https://drive.google.com/file/d/18VaO0BE0WDCBJaScDGDDR5g4xTQNh23M/view?usp=sharing"
+      }
+    ],
+    "registration": "https://reurl.cc/NOMDk5"
+  },
+  "found_via": [
+    {
+      "name": "東華奇萊文學獎官網",
+      "url": "https://award.ndhu.edu.tw/"
+    },
+    {
+      "name": "東華奇萊文學獎官網",
+      "url": "https://award.ndhu.edu.tw/"
+    },
+    {
+      "name": "簡章 Google Drive",
+      "url": "https://drive.google.com/file/d/18VaO0BE0WDCBJaScDGDDR5g4xTQNh23M/view?usp=sharing"
+    },
+    {
+      "name": "斗六高中轉發公告",
+      "url": "https://www.tlsh.ylc.edu.tw/2026/11/09/68992/"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-21",
+    "method": "single",
+    "unread": [
+      "專用報名表、第27屆東華奇萊文學獎切結書",
+      "宣傳海報"
+    ],
+    "note": null,
+    "readers": [
+      "gemini-4-hydrogen-medium"
+    ]
+  },
+  "first_seen": "2026-11-20",
+  "updated": "2026-11-20",
+  "conflict": "官網首頁公告（https://award.ndhu.edu.tw/）寫第 27 屆「東華奇萊全國高中文學獎」徵選散文獎、「林君鴻全國兒童文學獎」徵選童詩獎，但徵文簡章 PDF 與轉知公告皆寫高中組徵選短篇小說獎、林君鴻兒童文學徵選童話獎；本筆紀錄依徵文簡章為準。"
+}

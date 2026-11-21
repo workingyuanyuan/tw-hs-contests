@@ -1,0 +1,222 @@
+{
+  "schema": 1,
+  "id": "2026-fy-h-inno",
+  "title": "H-Inno 2026 全國健康關懷、智慧創新專題競賽",
+  "edition": "2026",
+  "summary": "大專及高中職學生組隊繳交健康關懷與智慧創新專題書面資料，入圍決賽者至輔英科大進行海報展示與口頭報告。",
+  "organizers": [
+    {
+      "name": "輔英科技大學 健康事業管理系",
+      "role": "主辦"
+    },
+    {
+      "name": "輔英科技大學 高齡全程照顧人才培育中心",
+      "role": "協辦"
+    }
+  ],
+  "categories": [
+    "醫護與照顧",
+    "資訊與 AI"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職",
+      "五專",
+      "大專"
+    ],
+    "division": "separate",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": null,
+    "team_max": 5,
+    "teacher": "required",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/1g0XVH4-LFvBKJ1GZwzISaJYxrgrBCtb_/view?usp=sharing",
+        "quote": "鼓勵全國大專校院及高中職學生關注健康產業、健康照護與生活需求"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1g0XVH4-LFvBKJ1GZwzISaJYxrgrBCtb_/view?usp=sharing",
+        "quote": "（一）大專組：大專校院在學學生。（二）高中職組：高中職在學學生。（三）每組指導老師1～2 人，學生組隊每組至多5 人。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1g0XVH4-LFvBKJ1GZwzISaJYxrgrBCtb_/view?usp=sharing",
+        "quote": "參賽團隊應於期限內完成線上報名，並上傳專題書面資料 PDF 及參賽相關同意文件。"
+      },
+      {
+        "url": "https://bhuntr.com/tw/competitions/jpcxzvdk0mborgad2d",
+        "quote": "1. 大專組 (含專科4~5年級)2. 高中職組 (含專科1~3年級)"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "報名及第一階段書面資料繳交截止",
+      "date": "2026-11-26",
+      "time": null,
+      "original": "115 年11 月26 日（星期四）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://drive.google.com/file/d/1g0XVH4-LFvBKJ1GZwzISaJYxrgrBCtb_/view?usp=sharing",
+          "quote": "即日起至115 年11 月26 日（星期四）止。"
+        }
+      ]
+    },
+    {
+      "kind": "shortlist_announcement",
+      "label": "決賽名單公布",
+      "date": "2026-11-30",
+      "time": null,
+      "original": "115 年11 月30 日（星期一）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://drive.google.com/file/d/1g0XVH4-LFvBKJ1GZwzISaJYxrgrBCtb_/view?usp=sharing",
+          "quote": "決賽名單預定於115 年11 月30 日（星期一）公布於輔英科技大學健康事業管理系網頁。"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "決賽資料上傳截止",
+      "date": "2026-12-07",
+      "time": "17:00",
+      "original": "115 年12 月7 日（星期一）17:00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://drive.google.com/file/d/1g0XVH4-LFvBKJ1GZwzISaJYxrgrBCtb_/view?usp=sharing",
+          "quote": "入選決賽團隊應於115 年12 月7 日（星期一）17:00 前完成決賽資料上傳。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "決賽",
+      "date": "2026-12-16",
+      "time": "13:00",
+      "original": "115 年12 月16 日（星期三）13:00～17:00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://drive.google.com/file/d/1g0XVH4-LFvBKJ1GZwzISaJYxrgrBCtb_/view?usp=sharing",
+          "quote": "（一）活動日期：115 年12 月16 日（星期三）。"
+        },
+        {
+          "url": "https://drive.google.com/file/d/1g0XVH4-LFvBKJ1GZwzISaJYxrgrBCtb_/view?usp=sharing",
+          "quote": "（二）活動時間：13:00～17:00。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "第一階段（報名及書面資料繳交）",
+      "what": "A4 版面 6 至 10 頁專題書面資料 PDF（含封面）及參賽相關同意文件",
+      "how": "online"
+    },
+    {
+      "stage": "第二階段（決賽資料繳交）",
+      "what": "A0 直式海報 PDF 檔 1 份，以及 20 頁以內口頭報告簡報 PPTX 檔及 PDF 檔各 1 份",
+      "how": "online"
+    },
+    {
+      "stage": "決賽",
+      "what": "現場進行專題成果報告及回答評審提問",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "finalists",
+    "where": "輔英科技大學 B 棟四樓 B402、B410",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/1g0XVH4-LFvBKJ1GZwzISaJYxrgrBCtb_/view?usp=sharing",
+        "quote": "參賽團隊應依公告時間到場，並推派學生進行專題成果報告及回答評審提問。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1g0XVH4-LFvBKJ1GZwzISaJYxrgrBCtb_/view?usp=sharing",
+        "quote": "（三）活動地點：輔英科技大學 B 棟四樓，B402、B410 兩個競賽主場地。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/1g0XVH4-LFvBKJ1GZwzISaJYxrgrBCtb_/view?usp=sharing"
+      },
+      {
+        "url": "https://bhuntr.com/tw/competitions/jpcxzvdk0mborgad2d"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "大專組與高中職組獎勵相同：第一名 1 名禮券 3,000 元、第二名 2 名每名禮券 1,500 元、第三名 3 名每名禮券 1,000 元、特優獎 4 名每名禮券 500 元，各頒發獎狀乙紙。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/1g0XVH4-LFvBKJ1GZwzISaJYxrgrBCtb_/view?usp=sharing",
+        "quote": "大專組與高中職組獎勵相同：第一名1 名（禮券3,000 元）；第二名2 名（每名禮券1,500 元）；第三名3 名（每名禮券1,000 元）；特優獎4 名（每名禮券500 元），各頒發獎狀乙紙。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/1g0XVH4-LFvBKJ1GZwzISaJYxrgrBCtb_/view?usp=sharing"
+      },
+      {
+        "url": "https://bhuntr.com/tw/competitions/jpcxzvdk0mborgad2d"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://ehba.fy.edu.tw/p/406-1105-77110,r1898.php?Lang=zh-tw",
+    "rules": [
+      {
+        "title": "競賽簡章 PDF",
+        "url": "https://drive.google.com/file/d/1g0XVH4-LFvBKJ1GZwzISaJYxrgrBCtb_/view?usp=sharing"
+      }
+    ],
+    "registration": "https://forms.gle/GnrfQy142cvvVA5Z9"
+  },
+  "found_via": [
+    {
+      "name": "官方簡章 PDF（Google Drive）",
+      "url": "https://drive.google.com/file/d/1g0XVH4-LFvBKJ1GZwzISaJYxrgrBCtb_/view?usp=sharing"
+    },
+    {
+      "name": "獎金獵人刊登頁",
+      "url": "https://bhuntr.com/tw/competitions/jpcxzvdk0mborgad2d"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-21",
+    "method": "dual",
+    "unread": [
+      "參賽相關同意文件"
+    ],
+    "note": null,
+    "readers": [
+      "gemini-4-hydrogen-medium",
+      "gpt-6.1-sol"
+    ]
+  },
+  "first_seen": "2026-11-20",
+  "updated": "2026-11-20",
+  "level": "verified",
+  "url": "https://workingyuanyuan.github.io/tw-hs-contests/contests/2026-fy-h-inno/",
+  "markdown": "https://workingyuanyuan.github.io/tw-hs-contests/contests/2026-fy-h-inno.md"
+}

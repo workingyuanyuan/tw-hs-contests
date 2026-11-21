@@ -1,0 +1,188 @@
+{
+  "schema": 1,
+  "id": "2027-ctsp-photography",
+  "title": "「中科拾光－精采一瞬四生共榮」中部科學園區攝影比賽",
+  "edition": "2026",
+  "summary": "各界攝影愛好者拍攝中部科學園區照片，線上繳交單張或組圖數位檔參賽。",
+  "organizers": [
+    {
+      "name": "國家科學及技術委員會中部科學園區管理局",
+      "role": "主辦"
+    },
+    {
+      "name": "山林水環境工程股份有限公司",
+      "role": "協辦"
+    },
+    {
+      "name": "力麗開發事業股份有限公司",
+      "role": "協辦"
+    },
+    {
+      "name": "山林旭科技環保工程股份有限公司",
+      "role": "協辦"
+    },
+    {
+      "name": "力麗社會福利慈善事業基金會Back to 1919",
+      "role": "協辦"
+    }
+  ],
+  "categories": [
+    "影音"
+  ],
+  "eligibility": {
+    "levels": [
+      "國小",
+      "國中",
+      "高中",
+      "高職",
+      "五專",
+      "大專",
+      "社會人士"
+    ],
+    "division": "mixed",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": 1,
+    "teacher": "none",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://cdn.bountyhunter.co/file-presign/fe1e9adb-99a1-4a8b-b080-9e5235922ae5.docx?dl=2026%E4%B8%AD%E9%83%A8%E7%A7%91%E5%AD%B8%E5%9C%92%E5%8D%80%E6%94%9D%E5%BD%B1%E6%AF%94%E8%B3%BD%E7%B0%A1%E7%AB%A0.docx",
+        "quote": "不限國籍，凡愛好攝影之人士皆可參加，另亦為中科園區從業人員設置專屬獎項(退休人員須檢附相關證明)，詳細獎項請見第柒大項。"
+      },
+      {
+        "url": "https://cdn.bountyhunter.co/file-presign/fe1e9adb-99a1-4a8b-b080-9e5235922ae5.docx?dl=2026%E4%B8%AD%E9%83%A8%E7%A7%91%E5%AD%B8%E5%9C%92%E5%8D%80%E6%94%9D%E5%BD%B1%E6%AF%94%E8%B3%BD%E7%B0%A1%E7%AB%A0.docx",
+        "quote": "每位參賽者報名作品限５件以內，每件作品皆可以單張照片或系列組圖呈現（評選採混合評比方式）。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "報名及收件截止",
+      "date": "2027-02-28",
+      "time": "23:59",
+      "original": "116年2月28日 23:59",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://cdn.bountyhunter.co/file-presign/fe1e9adb-99a1-4a8b-b080-9e5235922ae5.docx?dl=2026%E4%B8%AD%E9%83%A8%E7%A7%91%E5%AD%B8%E5%9C%92%E5%8D%80%E6%94%9D%E5%BD%B1%E6%AF%94%E8%B3%BD%E7%B0%A1%E7%AB%A0.docx",
+          "quote": "報名寄出日期為即日起至116年2月28日 23:59止，以寄出時間為準，逾期恕不受理。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "線上報名及交件",
+      "what": "每人限報 5 件以內（單張照片或最多 16 張之系列組圖全貌圖檔），JPEG/JPG/PNG/TIFF 檔、1,200 萬像素以上、300DPI 以上（組圖全貌圖檔比例 16：9），可附 150 字以內作品說明",
+      "how": "online"
+    },
+    {
+      "stage": "入圍後補件",
+      "what": "作品原始檔、同場景連拍照片或 RAW 等證明文件（擇一），以及著作財產權授權及個人資料使用同意書",
+      "how": "unknown"
+    }
+  ],
+  "attendance": {
+    "value": "none",
+    "where": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://cdn.bountyhunter.co/file-presign/fe1e9adb-99a1-4a8b-b080-9e5235922ae5.docx?dl=2026%E4%B8%AD%E9%83%A8%E7%A7%91%E5%AD%B8%E5%9C%92%E5%8D%80%E6%94%9D%E5%BD%B1%E6%AF%94%E8%B3%BD%E7%B0%A1%E7%AB%A0.docx"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://cdn.bountyhunter.co/file-presign/fe1e9adb-99a1-4a8b-b080-9e5235922ae5.docx?dl=2026%E4%B8%AD%E9%83%A8%E7%A7%91%E5%AD%B8%E5%9C%92%E5%8D%80%E6%94%9D%E5%BD%B1%E6%AF%94%E8%B3%BD%E7%B0%A1%E7%AB%A0.docx"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "一般組：金獎 1 名 10 萬元（獎狀、獎盃）、銀獎 1 名 6 萬元（獎狀、獎盃）、銅獎 1 名 3 萬元（獎狀、獎盃）、佳作 10 名各 5,000 元（獎狀）。中科園區從業人員組：中科攝影高手 10 名各 5,000 元（獎狀）。特別獎：圖文並茂獎若干名各 1 萬元（獎狀）、特別主題獎若干名各 3,000 元（獎狀）。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://cdn.bountyhunter.co/file-presign/fe1e9adb-99a1-4a8b-b080-9e5235922ae5.docx?dl=2026%E4%B8%AD%E9%83%A8%E7%A7%91%E5%AD%B8%E5%9C%92%E5%8D%80%E6%94%9D%E5%BD%B1%E6%AF%94%E8%B3%BD%E7%B0%A1%E7%AB%A0.docx",
+        "quote": "金獎：1名，獎金10萬元整，獎狀乙紙，獎盃乙座。"
+      },
+      {
+        "url": "https://cdn.bountyhunter.co/file-presign/fe1e9adb-99a1-4a8b-b080-9e5235922ae5.docx?dl=2026%E4%B8%AD%E9%83%A8%E7%A7%91%E5%AD%B8%E5%9C%92%E5%8D%80%E6%94%9D%E5%BD%B1%E6%AF%94%E8%B3%BD%E7%B0%A1%E7%AB%A0.docx",
+        "quote": "銀獎：1名，獎金6萬元整，獎狀乙紙，獎盃乙座。"
+      },
+      {
+        "url": "https://cdn.bountyhunter.co/file-presign/fe1e9adb-99a1-4a8b-b080-9e5235922ae5.docx?dl=2026%E4%B8%AD%E9%83%A8%E7%A7%91%E5%AD%B8%E5%9C%92%E5%8D%80%E6%94%9D%E5%BD%B1%E6%AF%94%E8%B3%BD%E7%B0%A1%E7%AB%A0.docx",
+        "quote": "銅獎：1名，獎金3萬元整，獎狀乙紙，獎盃乙座。"
+      },
+      {
+        "url": "https://cdn.bountyhunter.co/file-presign/fe1e9adb-99a1-4a8b-b080-9e5235922ae5.docx?dl=2026%E4%B8%AD%E9%83%A8%E7%A7%91%E5%AD%B8%E5%9C%92%E5%8D%80%E6%94%9D%E5%BD%B1%E6%AF%94%E8%B3%BD%E7%B0%A1%E7%AB%A0.docx",
+        "quote": "佳作：10名，每名獎金5,000元整，獎狀乙紙。"
+      },
+      {
+        "url": "https://cdn.bountyhunter.co/file-presign/fe1e9adb-99a1-4a8b-b080-9e5235922ae5.docx?dl=2026%E4%B8%AD%E9%83%A8%E7%A7%91%E5%AD%B8%E5%9C%92%E5%8D%80%E6%94%9D%E5%BD%B1%E6%AF%94%E8%B3%BD%E7%B0%A1%E7%AB%A0.docx",
+        "quote": "中科攝影高手：10名，每名獎金5,000元整，獎狀乙紙。"
+      },
+      {
+        "url": "https://cdn.bountyhunter.co/file-presign/fe1e9adb-99a1-4a8b-b080-9e5235922ae5.docx?dl=2026%E4%B8%AD%E9%83%A8%E7%A7%91%E5%AD%B8%E5%9C%92%E5%8D%80%E6%94%9D%E5%BD%B1%E6%AF%94%E8%B3%BD%E7%B0%A1%E7%AB%A0.docx",
+        "quote": "圖文並茂獎：名額若干，獎金1萬元整，獎狀乙紙。"
+      },
+      {
+        "url": "https://cdn.bountyhunter.co/file-presign/fe1e9adb-99a1-4a8b-b080-9e5235922ae5.docx?dl=2026%E4%B8%AD%E9%83%A8%E7%A7%91%E5%AD%B8%E5%9C%92%E5%8D%80%E6%94%9D%E5%BD%B1%E6%AF%94%E8%B3%BD%E7%B0%A1%E7%AB%A0.docx",
+        "quote": "特別主題獎(生態、婚紗、親子等)：名額若干，獎金3,000元整，獎狀乙紙。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "restricted",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://cdn.bountyhunter.co/file-presign/fe1e9adb-99a1-4a8b-b080-9e5235922ae5.docx?dl=2026%E4%B8%AD%E9%83%A8%E7%A7%91%E5%AD%B8%E5%9C%92%E5%8D%80%E6%94%9D%E5%BD%B1%E6%AF%94%E8%B3%BD%E7%B0%A1%E7%AB%A0.docx",
+        "quote": "參賽作品應以實際拍攝為主，若有應用AI技術者，須將其創作理念及AI技術使用內容一併詳述於作品說明中。"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://contest.bhuntr.com/tw/pl99893z0uy22padag",
+    "rules": [
+      {
+        "title": "2026中部科學園區攝影比賽簡章",
+        "url": "https://cdn.bountyhunter.co/file-presign/fe1e9adb-99a1-4a8b-b080-9e5235922ae5.docx?dl=2026%E4%B8%AD%E9%83%A8%E7%A7%91%E5%AD%B8%E5%9C%92%E5%8D%80%E6%94%9D%E5%BD%B1%E6%AF%94%E8%B3%BD%E7%B0%A1%E7%AB%A0.docx"
+      },
+      {
+        "title": "著作財產權授權及個人資料使用同意書",
+        "url": "https://cdn.bountyhunter.co/file-presign/ec90f362-122c-41ad-846a-9ad803ceb819.docx?dl=2026%E4%B8%AD%E9%83%A8%E7%A7%91%E5%AD%B8%E5%9C%92%E5%8D%80%E6%94%9D%E5%BD%B1%E6%AF%94%E8%B3%BD-%E8%91%97%E4%BD%9C%E8%B2%A1%E7%94%A2%E6%AC%8A%E6%8E%88%E6%AC%8A%E5%8F%8A%E5%80%8B%E4%BA%BA%E8%B3%87%E6%96%99%E4%BD%BF%E7%94%A8%E5%90%8C%E6%84%8F%E6%9B%B8.docx"
+      }
+    ],
+    "registration": "https://contest.bhuntr.com/tw/pl99893z0uy22padag/entry/"
+  },
+  "found_via": [
+    {
+      "name": "獎金獵人刊登頁",
+      "url": "https://bhuntr.com/tw/competitions/pl99893z0uy22padag"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-21",
+    "method": "single",
+    "unread": [],
+    "note": null,
+    "readers": [
+      "gemini-4-hydrogen-medium"
+    ]
+  },
+  "first_seen": "2026-11-20",
+  "updated": "2026-11-20",
+  "level": "checked",
+  "url": "https://workingyuanyuan.github.io/tw-hs-contests/contests/2027-ctsp-photography/",
+  "markdown": "https://workingyuanyuan.github.io/tw-hs-contests/contests/2027-ctsp-photography.md"
+}

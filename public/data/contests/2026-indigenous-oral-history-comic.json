@@ -1,0 +1,239 @@
+{
+  "schema": 1,
+  "id": "2026-indigenous-oral-history-comic",
+  "title": "115 年度原住民族政治受難者口述歷史影像改編漫畫徵件活動",
+  "edition": "115 年度",
+  "summary": "海內外人士依口述歷史紀錄片改編創作 19 至 25 頁繁體中文漫畫，線上繳交作品 PDF 與同意書。",
+  "organizers": [
+    {
+      "name": "原住民族委員會",
+      "role": "主辦"
+    },
+    {
+      "name": "國家人權博物館",
+      "role": "協辦"
+    },
+    {
+      "name": "財團法人原住民族文化事業基金會",
+      "role": "協辦"
+    },
+    {
+      "name": "商周集團 商周編輯顧問股份有限公司",
+      "role": "承辦"
+    }
+  ],
+  "categories": [
+    "美術",
+    "社會人文"
+  ],
+  "eligibility": {
+    "levels": [
+      "國小",
+      "國中",
+      "高中",
+      "高職",
+      "五專",
+      "大專",
+      "社會人士"
+    ],
+    "division": "mixed",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": null,
+    "teacher": "none",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://oral-history.bwctaiwan.com/",
+        "quote": "凡對漫畫創作有興趣，或關心原住民族政治受難者議題之海內外人士皆可參加，惟作品須以華語及繁體中文創作。"
+      },
+      {
+        "url": "https://oral-history.bwctaiwan.com/",
+        "quote": "未具完全行為能力人（依徵件截止日計算未滿 18 歲者），需由法定代理人一同簽署參加同意書，未簽署者視同喪失參賽資格。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "other",
+      "label": "公布徵件簡章",
+      "date": "2026-10-06",
+      "time": null,
+      "original": "115.10.06",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://cdn.bountyhunter.co/file-presign/3f74b038-7736-406b-9164-fa07340fe4b9.pdf?dl=%E5%BE%B5%E4%BB%B6%E7%B0%A1%E7%AB%A0.pdf",
+          "quote": "公布徵件簡章\n115.10.06"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "徵件截止",
+      "date": "2026-12-15",
+      "time": null,
+      "original": "115 年10 月06 日至115 年12 月15 日止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://cdn.bountyhunter.co/file-presign/3f74b038-7736-406b-9164-fa07340fe4b9.pdf?dl=%E5%BE%B5%E4%BB%B6%E7%B0%A1%E7%AB%A0.pdf",
+          "quote": "四、 徵件期間：115 年10 月06 日至115 年12 月15 日止。收件時間以線上平台\n上傳完成之系統時間為準，逾期恕不受理。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "評選期間結束",
+      "date": "2027-02-26",
+      "time": null,
+      "original": "115.12.16 ｜ 116.02.26",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://cdn.bountyhunter.co/file-presign/3f74b038-7736-406b-9164-fa07340fe4b9.pdf?dl=%E5%BE%B5%E4%BB%B6%E7%B0%A1%E7%AB%A0.pdf",
+          "quote": "評選期間\n115.12.16\n｜\n116.02.26"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "公布入選名單",
+      "date": "2027-03-01",
+      "time": null,
+      "original": "116.3.01",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://cdn.bountyhunter.co/file-presign/3f74b038-7736-406b-9164-fa07340fe4b9.pdf?dl=%E5%BE%B5%E4%BB%B6%E7%B0%A1%E7%AB%A0.pdf",
+          "quote": "公布入選名單\n116.3.01"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "頒獎典禮暨推廣座談",
+      "date": null,
+      "time": null,
+      "original": "116.5 月",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://cdn.bountyhunter.co/file-presign/3f74b038-7736-406b-9164-fa07340fe4b9.pdf?dl=%E5%BE%B5%E4%BB%B6%E7%B0%A1%E7%AB%A0.pdf",
+          "quote": "頒獎典禮暨\n推廣座談\n116.5 月"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "線上投稿",
+      "what": "報名表、漫畫作品 PDF 檔（19 至 25 頁，17 公分 × 23 公分比例，300dpi 以上，另附人物設計草圖與分鏡圖）、身分證明文件掃描檔、親筆簽名之參加及授權同意書 PDF 檔",
+      "how": "online"
+    },
+    {
+      "stage": "獲獎後",
+      "what": "符合印刷出版規格之完稿檔案（CMYK／單色網點、右翻裝訂、對話文字圖層、JPG＋PSD 檔等）",
+      "how": "unknown"
+    }
+  ],
+  "attendance": {
+    "value": "none",
+    "where": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://oral-history.bwctaiwan.com/"
+      },
+      {
+        "url": "https://cdn.bountyhunter.co/file-presign/3f74b038-7736-406b-9164-fa07340fe4b9.pdf?dl=%E5%BE%B5%E4%BB%B6%E7%B0%A1%E7%AB%A0.pdf"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://oral-history.bwctaiwan.com/"
+      },
+      {
+        "url": "https://cdn.bountyhunter.co/file-presign/3f74b038-7736-406b-9164-fa07340fe4b9.pdf?dl=%E5%BE%B5%E4%BB%B6%E7%B0%A1%E7%AB%A0.pdf"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "金質獎 2 名，每人新臺幣 5 萬元；銀質獎 2 名，每人新臺幣 3 萬元；銅質獎 2 名，每人新臺幣 1 萬元；入選獎 4 名，每人新臺幣 2,500 元。獲獎作品將出版實體成果專輯及電子書。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://cdn.bountyhunter.co/file-presign/3f74b038-7736-406b-9164-fa07340fe4b9.pdf?dl=%E5%BE%B5%E4%BB%B6%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "金\n質獎\n質獎 2 名，每人獲頒獎金新臺幣\n新臺幣 5 萬元整。"
+      },
+      {
+        "url": "https://cdn.bountyhunter.co/file-presign/3f74b038-7736-406b-9164-fa07340fe4b9.pdf?dl=%E5%BE%B5%E4%BB%B6%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "銀質獎 2 名，每人獲頒獎金新臺幣\n新臺幣 3 萬元整。"
+      },
+      {
+        "url": "https://cdn.bountyhunter.co/file-presign/3f74b038-7736-406b-9164-fa07340fe4b9.pdf?dl=%E5%BE%B5%E4%BB%B6%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "銅質獎 2 名，每人獲頒獎金新臺幣\n新臺幣 1 萬元整。"
+      },
+      {
+        "url": "https://cdn.bountyhunter.co/file-presign/3f74b038-7736-406b-9164-fa07340fe4b9.pdf?dl=%E5%BE%B5%E4%BB%B6%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "入選獎 4 名，每人獲頒獎金新臺幣\n新臺幣 2,500 元整。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "banned",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://oral-history.bwctaiwan.com/",
+        "quote": "嚴禁使用 AI 技術生成漫畫圖像（如 Midjourney、Stable Diffusion 等）或劇本內容（如 ChatGPT 等）。違者將取消參賽資格；若於獲獎後查證屬實，將撤銷獎金、獎狀與得獎資格。"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://oral-history.bwctaiwan.com/",
+    "rules": [
+      {
+        "title": "徵件簡章",
+        "url": "https://cdn.bountyhunter.co/file-presign/3f74b038-7736-406b-9164-fa07340fe4b9.pdf?dl=%E5%BE%B5%E4%BB%B6%E7%B0%A1%E7%AB%A0.pdf"
+      },
+      {
+        "title": "版面規範",
+        "url": "https://cdn.bountyhunter.co/file-presign/7bfd643e-a800-434d-9ed0-fc4a62d8f274.pdf?dl=%E7%89%88%E9%9D%A2%E8%A6%8F%E7%AF%84.pdf"
+      },
+      {
+        "title": "參加及授權同意書",
+        "url": "https://cdn.bountyhunter.co/file-presign/c76c7ebb-3001-4c3c-b993-2fcf878b8063.docx?dl=%E5%8F%83%E5%8A%A0%E5%8F%8A%E6%8E%88%E6%AC%8A%E5%90%8C%E6%84%8F%E6%9B%B8.docx"
+      }
+    ],
+    "registration": "https://docs.google.com/forms/d/e/1FAIpQLScexib3AgqkWQ-M1m9BnOvnWGVi5WOH0k0xoHm40brywQpGFA/viewform?usp=publish-editor"
+  },
+  "found_via": [
+    {
+      "name": "獎金獵人刊登頁",
+      "url": "https://bhuntr.com/tw/competitions/r3af34t6g0cpynickr"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-21",
+    "method": "single",
+    "unread": [],
+    "note": null,
+    "readers": [
+      "gemini-4-hydrogen-medium"
+    ]
+  },
+  "first_seen": "2026-11-20",
+  "updated": "2026-11-20",
+  "level": "checked",
+  "url": "https://workingyuanyuan.github.io/tw-hs-contests/contests/2026-indigenous-oral-history-comic/",
+  "markdown": "https://workingyuanyuan.github.io/tw-hs-contests/contests/2026-indigenous-oral-history-comic.md"
+}

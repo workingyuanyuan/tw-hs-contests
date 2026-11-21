@@ -1,0 +1,230 @@
+{
+  "schema": 1,
+  "id": "2026-aicup-solar-defect",
+  "title": "結合少樣本學習、資料生成與多模態視覺語言模型（VLM）之太陽能板瑕疵檢測與根因分析比賽",
+  "edition": "2026",
+  "summary": "在學學生及社會人士組隊開發太陽能板瑕疵定位與根因分析 AI 模型，線上提交預測結果，指定隊伍須繳交模型文件與程式碼。",
+  "organizers": [
+    {
+      "name": "AI CUP 競賽主辦團隊",
+      "role": "主辦"
+    },
+    {
+      "name": "教育部資訊及科技教育司",
+      "role": "指導"
+    }
+  ],
+  "categories": [
+    "資訊與 AI",
+    "工程與製造"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職",
+      "大專",
+      "社會人士"
+    ],
+    "division": "mixed",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": null,
+    "team_max": null,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.aidea-web.tw/topic/3c8ec48b-0dff-4b14-9b5e-d91bbb98c699",
+        "quote": "報名時具中華民國學籍之在學學生（含高中職、大專校院及研究生）可組隊參加。"
+      },
+      {
+        "url": "https://www.aidea-web.tw/topic/3c8ec48b-0dff-4b14-9b5e-d91bbb98c699",
+        "quote": "社會人士亦可參加並列入綜合排名；社會人士組僅得獲主辦單位發給之獎狀，不具獎金及其他實質獎勵資格。"
+      },
+      {
+        "url": "https://www.aidea-web.tw/topic/3c8ec48b-0dff-4b14-9b5e-d91bbb98c699",
+        "quote": "全隊均為學生者列為學生組；隊伍中如有任一非學生身分成員，列為社會人士組。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "報名截止（延長後）",
+      "date": "2026-11-30",
+      "time": "23:59",
+      "original": "11 月 30 日（一）23:59:59",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.aidea-web.tw/topic/3c8ec48b-0dff-4b14-9b5e-d91bbb98c699",
+          "quote": "延長報名截止時間：即日起至 11 月 30 日（一）23:59:59 止"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "結果提交截止",
+      "date": "2026-12-04",
+      "time": "23:59",
+      "original": "2026/09/30–2026/12/04 23:59:59",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.aidea-web.tw/topic/3c8ec48b-0dff-4b14-9b5e-d91bbb98c699",
+          "quote": "2026/12/04 23:59:59 結果提交"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "公布 Private Leaderboard",
+      "date": "2026-12-09",
+      "time": null,
+      "original": "2026/12/09",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.aidea-web.tw/topic/3c8ec48b-0dff-4b14-9b5e-d91bbb98c699",
+          "quote": "2026/12/09 公布 Private Leaderboard"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "報告與程式碼上傳截止（指定隊伍）",
+      "date": "2026-12-16",
+      "time": "23:59",
+      "original": "2026/12/09 00:00:00–2026/12/16 23:59:59",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.aidea-web.tw/topic/3c8ec48b-0dff-4b14-9b5e-d91bbb98c699",
+          "quote": "2026/12/16 23:59:59 報告與程式碼上傳期間"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "公布最終名次",
+      "date": "2027-01-13",
+      "time": null,
+      "original": "2027/01/13",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.aidea-web.tw/topic/3c8ec48b-0dff-4b14-9b5e-d91bbb98c699",
+          "quote": "2027/01/13 公布最終名次"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "頒獎典禮（暫定）",
+      "date": null,
+      "time": null,
+      "original": "2027年3月",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.aidea-web.tw/topic/3c8ec48b-0dff-4b14-9b5e-d91bbb98c699",
+          "quote": "2027年3月 頒獎典禮(暫定)"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "結果提交",
+      "what": "Testing set 預測結果（瑕疵位置多邊形區域及瑕疵根因文字說明），每日曆日最多提交 3 次",
+      "how": "online"
+    },
+    {
+      "stage": "文件審查（指定隊伍）",
+      "what": "預測模型說明文件及完整程式碼（含資料前處理、訓練與推論程式、模型權重、參數設定與執行環境，及額外訓練資料說明）",
+      "how": "online"
+    }
+  ],
+  "attendance": {
+    "value": "none",
+    "where": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.aidea-web.tw/topic/3c8ec48b-0dff-4b14-9b5e-d91bbb98c699"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.aidea-web.tw/topic/3c8ec48b-0dff-4b14-9b5e-d91bbb98c699"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "總獎勵規模暫定新臺幣 300,000 元（限全隊均具中華民國在學學生身分隊伍）：第一名 1 名 100,000 元、第二名 1 名 50,000 元、第三名 1 名 30,000 元、優等 2 名各 15,000 元、佳作 5 名各 8,000 元、評審特別獎 1 名價值 50,000 元國網 GPU 運算資源；前 15 名學生隊伍獲頒教育部獎狀，前 25% 且高於 Baseline 隊伍（含社會人士組）獲頒主辦單位獎狀。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.aidea-web.tw/topic/3c8ec48b-0dff-4b14-9b5e-d91bbb98c699",
+        "quote": "競賽總獎勵規模暫定為新臺幣300,000元（含國網 GPU 運算資源）；實際名額、形式及金額以正式公告與評審委員會決議為準。"
+      },
+      {
+        "url": "https://www.aidea-web.tw/topic/3c8ec48b-0dff-4b14-9b5e-d91bbb98c699",
+        "quote": "第一名 1名 新臺幣100,000元"
+      },
+      {
+        "url": "https://www.aidea-web.tw/topic/3c8ec48b-0dff-4b14-9b5e-d91bbb98c699",
+        "quote": "最終排名前15名且全隊均具學生身分之隊伍，經評審委員審定後，獲頒教育部獎狀。"
+      },
+      {
+        "url": "https://www.aidea-web.tw/topic/3c8ec48b-0dff-4b14-9b5e-d91bbb98c699",
+        "quote": "名次位於前 25% 且成績高於 Baseline 之隊伍（含社會人士組），得獲頒主辦單位發給之獎狀。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "required",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.aidea-web.tw/topic/3c8ec48b-0dff-4b14-9b5e-d91bbb98c699",
+        "quote": "本競賽以主辦單位提供之太陽能板可見光與紅外線影像資料集為基礎，要求參賽隊伍開發可同時執行瑕疵定位及根因文字分析之人工智慧系統。"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://www.aidea-web.tw/topic/3c8ec48b-0dff-4b14-9b5e-d91bbb98c699",
+    "rules": [],
+    "registration": "https://go.aicup.tw/"
+  },
+  "found_via": [
+    {
+      "name": "AIdea 議題頁",
+      "url": "https://www.aidea-web.tw/topic/3c8ec48b-0dff-4b14-9b5e-d91bbb98c699"
+    },
+    {
+      "name": "AI CUP 2026 競賽頁",
+      "url": "https://www.aicup.tw/ai-cup-2026-competition"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-21",
+    "method": "dual",
+    "unread": [],
+    "note": null,
+    "readers": [
+      "gemini-4-hydrogen-medium",
+      "gpt-6.1-sol"
+    ]
+  },
+  "first_seen": "2026-11-20",
+  "updated": "2026-11-21",
+  "conflict": "活動時間表仍列報名期間至 2026/11/16 23:59:59，惟 2026/11/02 延長通知公告及頁面頂端均載明延長至 11 月 30 日 23:59:59，本紀錄採用延長後日期 2026-11-30。"
+}

@@ -1,0 +1,260 @@
+{
+  "schema": 1,
+  "id": "2026-nantou-pearl-itinerary",
+  "title": "2026 南投市珍珠遊程設計全國競賽",
+  "edition": "2026",
+  "summary": "2 至 4 名高中職或大專學生組隊設計南投市一日遊程並繳交企劃書，入選決賽者須赴南投大戲院現場簡報。",
+  "organizers": [
+    {
+      "name": "南投市公所",
+      "role": "主辦"
+    },
+    {
+      "name": "南開科技大學",
+      "role": "主辦"
+    },
+    {
+      "name": "南開科技大學休閒事業管理系",
+      "role": "承辦"
+    },
+    {
+      "name": "南開科技大學永續發展推動中心",
+      "role": "協辦"
+    },
+    {
+      "name": "南開科技大學校友服務中心",
+      "role": "協辦"
+    },
+    {
+      "name": "長榮大學觀光與餐飲管理學系",
+      "role": "協辦"
+    },
+    {
+      "name": "國立南投高級商業職業學校",
+      "role": "協辦"
+    }
+  ],
+  "categories": [
+    "餐旅",
+    "創業與企劃"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職",
+      "五專",
+      "大專"
+    ],
+    "division": "separate",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 2,
+    "team_max": 4,
+    "teacher": "required",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/65/pta_225271_3692039_90545.pdf",
+        "quote": "1. 大專院校組：大專院校、五專部(四、五年級)在校學生(本國籍及外國籍學生皆可參加)"
+      },
+      {
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/65/pta_225271_3692039_90545.pdf",
+        "quote": "2. 高中職組：高中職學校、五專部(一至三年級)之在校學生(本國籍及外國籍學生皆可參加)"
+      },
+      {
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/65/pta_225271_3692039_90545.pdf",
+        "quote": "各隊人數以2-4名為原則(可同校跨科系、但不得跨校)，同一人不得跨隊參加，一旦報名即不得更換成員，每隊需有一名在校教師或從事休閒觀光旅遊業師擔任帶隊老師（以2名為限）"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "報名及繳費截止",
+      "date": "2026-11-23",
+      "time": "17:00",
+      "original": "自即日起至2026年11月23日（一）17時止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/65/pta_225271_3692039_90545.pdf",
+          "quote": "報名時間：自即日起至2026年11月23日（一）17時止"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "電子資料上傳期限",
+      "date": "2026-11-30",
+      "time": "23:59",
+      "original": "2026年11月30日（一）23時59分截止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/65/pta_225271_3692039_90545.pdf",
+          "quote": "電子資料上傳期限：2026年11月30日（一）23時59分截止"
+        }
+      ]
+    },
+    {
+      "kind": "shortlist_announcement",
+      "label": "入選決賽名單公告",
+      "date": "2026-12-07",
+      "time": "17:00",
+      "original": "2026年12月7日(一）17時",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/65/pta_225271_3692039_90545.pdf",
+          "quote": "3.2026年12月7日(一）17時 審查完畢並於比賽活動粉絲專頁及南投市公所粉絲專頁公告入選決賽名單。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "決賽簡報電子檔寄送截止",
+      "date": "2026-12-11",
+      "time": "17:00",
+      "original": "2026年12月11日（五）17時前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/65/pta_225271_3692039_90545.pdf",
+          "quote": "限於2026年12月11日（五）17時前，以電子郵件寄送"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "決賽",
+      "date": "2026-12-15",
+      "time": null,
+      "original": "2026年12月15日(二）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/65/pta_225271_3692039_90545.pdf",
+          "quote": "競賽日期：2026年12月15日(二）"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名",
+      "what": "線上報名表單、報名費繳費證明",
+      "how": "online"
+    },
+    {
+      "stage": "初賽",
+      "what": "遊程企劃書 PDF 檔（10MB 以內、內頁不超過 20 頁）、學生證或居留證影本、著作權聲明與授權同意書",
+      "how": "online"
+    },
+    {
+      "stage": "決賽",
+      "what": "簡報電子檔（事前電郵寄送）及現場 10 分鐘口頭報告與 5 分鐘問答",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "finalists",
+    "where": "南投大戲院（南投市大同街87號）",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/65/pta_225271_3692039_90545.pdf",
+        "quote": "1.決賽採「現場簡報方式」進行，時間為10分鐘口頭報告與5分鐘回應問題(不包括評審委員提問時間)"
+      },
+      {
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/65/pta_225271_3692039_90545.pdf",
+        "quote": "競賽決賽地點：南投大戲院(南投市大同街87號)"
+      }
+    ]
+  },
+  "fee": {
+    "value": "required",
+    "amount": "每隊新台幣 400 元",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/65/pta_225271_3692039_90545.pdf",
+        "quote": "新台幣400元整/每隊，請以線上eATM或ATM轉帳、臨櫃匯款、信用卡、台灣Pay等方式繳納報名費"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "高中職組與大專院校組分別頒發：第一名獎金 20,000 元、獎盃及獎狀；第二名獎金 10,000 元、獎盃及獎狀；第三名獎金 8,000 元、獎盃及獎狀；優勝及佳作若干名獎金 2,000 元及獎狀。另設一步一腳印人氣獎禮券 2,000 元 1 名、指導老師獎狀及參加獎電影票每人 1 張。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/65/pta_225271_3692039_90545.pdf",
+        "quote": "(1) 第一名：獎金20,000元、獎盃乙座及獎狀每人乙紙。"
+      },
+      {
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/65/pta_225271_3692039_90545.pdf",
+        "quote": "(2) 第二名：獎金10,000元、獎盃乙座及獎狀每人乙紙。"
+      },
+      {
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/65/pta_225271_3692039_90545.pdf",
+        "quote": "(3) 第三名：獎金8,000元、獎盃乙座及獎狀每人乙紙。"
+      },
+      {
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/65/pta_225271_3692039_90545.pdf",
+        "quote": "(4) 優勝及佳作若干名：獎金2,000元及獎狀每人乙紙。"
+      },
+      {
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/65/pta_225271_3692039_90545.pdf",
+        "quote": "3. 一步一腳印人氣獎：禮券2,000 元1 名"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "allowed",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/65/pta_225271_3692039_90545.pdf",
+        "quote": "不禁止參賽者運用生成式AI輔助進行資料蒐集、景點文案撰寫、行程視覺設計（地圖、預算表、導覽腳本等）與行銷內容產出。但所有AI應用成果須標註資料來源與產出紀錄。"
+      }
+    ]
+  },
+  "links": {
+    "official": null,
+    "rules": [
+      {
+        "title": "2026南投市珍珠遊程設計全國競賽簡章(定稿版)",
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/65/pta_225271_3692039_90545.pdf"
+      }
+    ],
+    "registration": "https://forms.gle/zLjFh8t5zNaAni589"
+  },
+  "found_via": [
+    {
+      "name": "簡章 PDF（彰化高中轉發附件）",
+      "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/65/pta_225271_3692039_90545.pdf"
+    },
+    {
+      "name": "彰化高中轉發公告",
+      "url": "https://www.chsh.chc.edu.tw/p/406-1009-195132,r70.php?Lang=zh-tw"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-21",
+    "method": "dual",
+    "unread": [
+      "202608南投市珍珠遊程海報.pdf（圖片檔無文字）"
+    ],
+    "note": null,
+    "readers": [
+      "gemini-4-hydrogen-medium",
+      "gpt-6.1-sol"
+    ]
+  },
+  "first_seen": "2026-11-20",
+  "updated": "2026-11-20",
+  "level": "verified",
+  "url": "https://workingyuanyuan.github.io/tw-hs-contests/contests/2026-nantou-pearl-itinerary/",
+  "markdown": "https://workingyuanyuan.github.io/tw-hs-contests/contests/2026-nantou-pearl-itinerary.md"
+}

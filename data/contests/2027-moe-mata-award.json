@@ -1,0 +1,255 @@
+{
+  "schema": 1,
+  "id": "2027-moe-mata-award",
+  "title": "第13屆MATA獎–Butaso！努力專注！115年-116年大專校院暨高級中等學校學生原住民族主題影音及拍片企劃競賽",
+  "edition": "第13屆",
+  "summary": "大專校院學生繳交原住民族主題影音作品，高級中等學校學生組隊繳交拍片企劃書參賽。",
+  "organizers": [
+    {
+      "name": "教育部",
+      "role": "主辦"
+    },
+    {
+      "name": "國立臺灣藝術大學",
+      "role": "承辦"
+    },
+    {
+      "name": "原住民族委員會",
+      "role": "協辦"
+    }
+  ],
+  "categories": [
+    "影音",
+    "社會人文"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職",
+      "五專",
+      "大專"
+    ],
+    "division": "separate",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 2,
+    "team_max": 5,
+    "teacher": "required",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg225/%E7%AC%AC13%E5%B1%86MATA%E7%8D%8E-Butaso.pdf",
+        "quote": "全國各公私立高級中等學校、非學校型態高級中等實驗教育之在學學生。"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg225/%E7%AC%AC13%E5%B1%86MATA%E7%8D%8E-Butaso.pdf",
+        "quote": "每隊須有至少一位指導老師。"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg225/%E7%AC%AC13%E5%B1%86MATA%E7%8D%8E-Butaso.pdf",
+        "quote": "報名須為團體報名，每隊人數至多五人（含隊長），並派一名隊長為代表人報名，指導老師不列入組隊上限人數計算。"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg225/%E7%AC%AC13%E5%B1%86MATA%E7%8D%8E-Butaso.pdf",
+        "quote": "全國各公私立大學、獨立學院、碩博士班、專科學校、四技及二技之在學學生、在職專班生。"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg225/%E7%AC%AC13%E5%B1%86MATA%E7%8D%8E-Butaso.pdf",
+        "quote": "一律採線上報名，不接受紙本，參賽者須於115 年5 月1 日上午10:00 起至116 年6 月7 日午夜11:59 截止前至https://forms.gle/8DDoVv2mmJ2ARSvv7 填寫完整之企劃徵選相關資料，始完成報名程序"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "other",
+      "label": "線上報名開始",
+      "date": "2026-05-01",
+      "time": "10:00",
+      "original": "115 年5 月1 日（週五）上午10:00 起",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg225/%E7%AC%AC13%E5%B1%86MATA%E7%8D%8E-Butaso.pdf",
+          "quote": "線上報名開始 115 年5 月1 日（週五）上午10:00 起"
+        }
+      ]
+    },
+    {
+      "kind": "registration_deadline",
+      "label": "線上報名截止",
+      "date": "2027-06-07",
+      "time": "23:59",
+      "original": "116 年6 月7 日（週一）午夜11:59 止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg225/%E7%AC%AC13%E5%B1%86MATA%E7%8D%8E-Butaso.pdf",
+          "quote": "線上報名截止 116 年6 月7 日（週一）午夜11:59 止"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "競賽初審（暫定）",
+      "date": "2027-06-15",
+      "time": null,
+      "original": "116 年6 月15 日（週二）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg225/%E7%AC%AC13%E5%B1%86MATA%E7%8D%8E-Butaso.pdf",
+          "quote": "競賽初審（暫定） 116 年6 月15 日（週二）"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "競賽決審（暫定）",
+      "date": "2027-07-06",
+      "time": null,
+      "original": "116 年7 月6 日（週二）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg225/%E7%AC%AC13%E5%B1%86MATA%E7%8D%8E-Butaso.pdf",
+          "quote": "競賽決審（暫定） 116 年7 月6 日（週二）"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "公告獲獎名單（暫定）",
+      "date": null,
+      "time": null,
+      "original": "於臉書粉絲專頁另行公告",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg225/%E7%AC%AC13%E5%B1%86MATA%E7%8D%8E-Butaso.pdf",
+          "quote": "公告獲獎名單（暫定） 於臉書粉絲專頁另行公告"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "頒獎典禮（暫定）",
+      "date": "2027-09-22",
+      "time": "14:00",
+      "original": "116 年9 月22 日（週三）下午2:00 至4:00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg225/%E7%AC%AC13%E5%B1%86MATA%E7%8D%8E-Butaso.pdf",
+          "quote": "頒獎典禮（暫定） 116 年9 月22 日（週三）下午2:00 至4:00"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "巡迴影展（另行通知辦理）",
+      "date": null,
+      "time": null,
+      "original": "116 年10 月起",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg225/%E7%AC%AC13%E5%B1%86MATA%E7%8D%8E-Butaso.pdf",
+          "quote": "巡迴影展（另行通知辦理） 116 年10 月起"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "高級中等學校拍片企劃組線上報名",
+      "what": "企劃書（含作品資料及附件五團體報名表）、在學證明、參賽同意書（附件六）、著作權切結書（附件七）及個人資料提供同意書（附件八）PDF 檔",
+      "how": "online"
+    },
+    {
+      "stage": "大專校院影音競賽組線上報名",
+      "what": "上傳至 YouTube 之非公開影片（1080p MP4 或 MOV，劇情/紀錄/新聞專題至多 30 分鐘、動畫至多 10 分鐘）、3 至 5 張原檔照片雲端網址、在學證明、報名表、參賽同意書及著作權切結書 PDF 檔",
+      "how": "online"
+    }
+  ],
+  "attendance": {
+    "value": "none",
+    "where": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg225/%E7%AC%AC13%E5%B1%86MATA%E7%8D%8E-Butaso.pdf"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg225/%E7%AC%AC13%E5%B1%86MATA%E7%8D%8E-Butaso.pdf"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "高級中等學校拍片企劃組總獎金 15 萬元，優選 15 名每名 1 萬元、每人獎狀乙紙，指導老師頒感謝狀；大專校院影音競賽組總獎金 120 萬元，各類別首獎 1 名 12 萬元、銀獎 1 名 6 萬元、銅獎 1 名 4 萬元、優選 4 名各 2 萬元，皆附獎狀，前三名另附獎座，指導老師頒感謝狀。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg225/%E7%AC%AC13%E5%B1%86MATA%E7%8D%8E-Butaso.pdf",
+        "quote": "（二）高級中等學校拍片企劃組：總獎金新臺幣15 萬，共15 個獎項。"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg225/%E7%AC%AC13%E5%B1%86MATA%E7%8D%8E-Butaso.pdf",
+        "quote": "優選 15 名 1 萬元"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg225/%E7%AC%AC13%E5%B1%86MATA%E7%8D%8E-Butaso.pdf",
+        "quote": "（一）大專校院影音競賽組：總獎金新臺幣120 萬，共28 個獎項，各類別獨立評選，各類別均提供以下獎項："
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "restricted",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg225/%E7%AC%AC13%E5%B1%86MATA%E7%8D%8E-Butaso.pdf",
+        "quote": "二、本競賽不得全使用AI（人工智慧）進行文字企劃創作，運用AI輔助生成部分文字、圖片等內容則不在此限，企劃內容至少需50%為創作者原創拍攝製作。"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg225/%E7%AC%AC13%E5%B1%86MATA%E7%8D%8E-Butaso.pdf",
+        "quote": "二、 本競賽不得全使用AI（人工智慧）做影片生成，運用AI 輔助產製部分素材、剪輯影片、後製功能，則不在此限，影片內容至少需50%為創作者原創拍攝製作。"
+      }
+    ]
+  },
+  "links": {
+    "official": null,
+    "rules": [
+      {
+        "title": "第13屆MATA獎競賽辦法",
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg225/%E7%AC%AC13%E5%B1%86MATA%E7%8D%8E-Butaso.pdf"
+      }
+    ],
+    "registration": "https://forms.gle/8DDoVv2mmJ2ARSvv7"
+  },
+  "found_via": [
+    {
+      "name": "競賽辦法 PDF（建國中學網站上的副本，搜尋取得）",
+      "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg225/%E7%AC%AC13%E5%B1%86MATA%E7%8D%8E-Butaso.pdf"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-21",
+    "method": "single",
+    "unread": [],
+    "note": null,
+    "readers": [
+      "gemini-4-hydrogen-medium"
+    ]
+  },
+  "first_seen": "2026-11-20",
+  "updated": "2026-11-20"
+}

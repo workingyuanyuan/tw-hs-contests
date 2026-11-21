@@ -1,0 +1,151 @@
+{
+  "schema": 1,
+  "id": "2026-wlcef-literature-award",
+  "title": "第五屆全國高中生文學獎",
+  "edition": "第 5 屆（115 學年度）",
+  "summary": "全國高中職及五專前三年學生於官網上傳 Word 檔與創作聲明，參加散文（2500 字內）或新詩（40 行內）徵文。",
+  "organizers": [
+    {
+      "name": "財團法人桃園市武陵文教基金會",
+      "role": "主辦"
+    },
+    {
+      "name": "桃園市政府",
+      "role": "主辦"
+    },
+    {
+      "name": "桃園市立武陵高級中等學校",
+      "role": "協辦"
+    },
+    {
+      "name": "桃園市立陽明高級中等學校",
+      "role": "協辦"
+    }
+  ],
+  "categories": [
+    "語文與寫作"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職",
+      "五專"
+    ],
+    "division": "hs_only",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": 1,
+    "teacher": "none",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://wlcef.vcom.tw/article/第五屆全國高中生文學獎（115學年度）",
+        "quote": "六、參加資格：凡具備中華民國國籍之全國高中職（含五專前三年）在學學生(不含休學生)均可參加，唯須以中文寫作。"
+      },
+      {
+        "url": "https://wlcef.vcom.tw/article/第五屆全國高中生文學獎（115學年度）",
+        "quote": "七、獎勵內容：同一作者可以同時參加散文、新詩組比賽，惟每組以一篇為限。"
+      },
+      {
+        "url": "https://wlcef.vcom.tw/article/第五屆全國高中生文學獎（115學年度）",
+        "quote": "（二）請上武陵文教基金會官網（wlcef.vcom.tw）文學獎專區/第五屆全國高中生文學獎，完整填寫報名表各項資料後，上傳參賽稿件及報名表(含創作聲明)，始完成投稿參賽程序。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "submission_deadline",
+      "label": "截稿日期",
+      "date": "2026-12-31",
+      "time": null,
+      "original": "115年12月31日止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://wlcef.vcom.tw/article/第五屆全國高中生文學獎（115學年度）",
+          "quote": "九、截稿日期：115年12月31日止（以電子郵件收件紀錄為憑）。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "投稿",
+      "what": "線上填寫報名表，上傳 Word 檔參賽稿件（散文 2500 字以內、新詩 40 行以內，不接受 PDF 及手寫稿）及報名表（含創作聲明）",
+      "how": "online"
+    }
+  ],
+  "attendance": {
+    "value": "none",
+    "where": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://wlcef.vcom.tw/article/第五屆全國高中生文學獎（115學年度）"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://wlcef.vcom.tw/article/第五屆全國高中生文學獎（115學年度）"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "散文類：第一名 150,000 元、第二名 100,000 元、第三名 60,000 元、佳作 6-8 名各 20,000 元；新詩類：第一名 100,000 元、第二名 50,000 元、第三名 30,000 元、佳作 6-8 名各 10,000 元，皆附獎牌/獎座乙面或獎狀乙幀。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://wlcef.vcom.tw/article/第五屆全國高中生文學獎（115學年度）",
+        "quote": "（一）散文類 第一名：獎金150,000元，獎牌/獎座乙面或獎狀乙幀。 第二名：獎金100,000元，獎牌/獎座乙面或獎狀乙幀。 第三名：獎金60,000元，獎牌/獎座乙面或獎狀乙幀 佳 作：6-8名，各得獎金20,000元，獎牌/獎座乙面或獎狀乙幀。"
+      },
+      {
+        "url": "https://wlcef.vcom.tw/article/第五屆全國高中生文學獎（115學年度）",
+        "quote": "（二）新詩類 第一名：獎金100,000元，獎牌/獎座乙面或獎狀乙幀。 第二名：獎金50,000元，獎牌/獎座乙面或獎狀乙幀。 第三名：獎金30,000元，獎牌/獎座乙面或獎狀乙幀。 佳 作：6-8名，各得獎金10,000元，獎牌/獎座乙面或獎狀乙幀。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "banned",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://wlcef.vcom.tw/article/第五屆全國高中生文學獎（115學年度）",
+        "quote": "(四)參賽者在填寫報名資料，上傳稿件時，請同時填具創作聲明，保證作品完全自己獨立創作，未使用AI工具直接生成或協助提供構思與架構、大綱建議、靈感發想、重要資料與意象、題材討論、文章閱讀意見反饋、改寫、續寫、語句潤飾、修改、補充、與其他實質內容創作協助等。"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://wlcef.vcom.tw/article/第五屆全國高中生文學獎（115學年度）",
+    "rules": [],
+    "registration": "https://wlcef.vcom.tw/article/我要投稿"
+  },
+  "found_via": [
+    {
+      "name": "武陵文教基金會競賽官網",
+      "url": "https://wlcef.vcom.tw/"
+    },
+    {
+      "name": "武陵文教基金會活動頁",
+      "url": "https://wlcef.vcom.tw/"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-21",
+    "method": "single",
+    "unread": [],
+    "note": null,
+    "readers": [
+      "gemini-4-hydrogen-medium"
+    ]
+  },
+  "first_seen": "2026-11-20",
+  "updated": "2026-11-20"
+}

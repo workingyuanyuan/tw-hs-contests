@@ -1,0 +1,228 @@
+{
+  "schema": 1,
+  "id": "2026-tpcu-ba-stock-king",
+  "title": "2026 北城企管全國股王股后爭霸賽",
+  "edition": "2026",
+  "summary": "全國大專與高中職學生個人報名，於虛擬交易所使用初始本金 1,000 萬元進行台股模擬交易，依總報酬率排名。",
+  "organizers": [
+    {
+      "name": "臺北城市科技大學企業管理系",
+      "role": "主辦"
+    },
+    {
+      "name": "教育部",
+      "role": "指導"
+    },
+    {
+      "name": "寶碩財務科技",
+      "role": "協辦"
+    },
+    {
+      "name": "臺北城市科技大學商管學院",
+      "role": "協辦"
+    }
+  ],
+  "categories": [
+    "商管與行銷"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職",
+      "大專"
+    ],
+    "division": "separate",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": 1,
+    "teacher": "required",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://ba.tpcu.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9MemcxTDNCMFlWODFOak0yTlY4M01EYzNNRFUzWHpreU5UZ3pMbkJrWmc9PQ==&fname=0054ROB0RKSSTXHHEDXSKPMOPK30NPGCWS3440XSIHJD10A5QKA4FDEGPKOKVWXXZTPOZT102024NK14YW30A000OPNO35GC00MPNO40UWYW01UWECOK20FCSS4025YXA5NOSX34TWFGSWHCUS30A110",
+        "quote": "三、參賽資格：採個人競賽，參賽者須為全國大專院校暨高中職在學學生；分為大專組及高中職組。"
+      },
+      {
+        "url": "https://ba.tpcu.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9MemcxTDNCMFlWODFOak0yTlY4M01EYzNNRFUzWHpreU5UZ3pMbkJrWmc9PQ==&fname=0054ROB0RKSSTXHHEDXSKPMOPK30NPGCWS3440XSIHJD10A5QKA4FDEGPKOKVWXXZTPOZT102024NK14YW30A000OPNO35GC00MPNO40UWYW01UWECOK20FCSS4025YXA5NOSX34TWFGSWHCUS30A110",
+        "quote": "填寫報名資料，務必指定一位指導老師，請勿重複報名；"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "報名截止",
+      "date": "2026-11-20",
+      "time": null,
+      "original": "2026/10/27(二) - 2026/11/20(五)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://ba.tpcu.edu.tw/p/406-1032-90101,r398.php?Lang=zh-tw",
+          "quote": "（一）報名期間：2026/10/27(二) - 2026/11/20(五)"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "試玩期間結束",
+      "date": "2026-11-20",
+      "time": null,
+      "original": "2026/11/20",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://ba.tpcu.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9MemcxTDNCMFlWODFOak0yTlY4M01EYzNNRFUzWHpreU5UZ3pMbkJrWmc9PQ==&fname=0054ROB0RKSSTXHHEDXSKPMOPK30NPGCWS3440XSIHJD10A5QKA4FDEGPKOKVWXXZTPOZT102024NK14YW30A000OPNO35GC00MPNO40UWYW01UWECOK20FCSS4025YXA5NOSX34TWFGSWHCUS30A110",
+          "quote": "※2026/11/20 收盤後結束試玩，並清除所有試玩期間交易相關記錄，還原至初始本金NT$1,000 萬元；"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "競賽開始",
+      "date": "2026-11-23",
+      "time": null,
+      "original": "2026/11/23",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://ba.tpcu.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9MemcxTDNCMFlWODFOak0yTlY4M01EYzNNRFUzWHpreU5UZ3pMbkJrWmc9PQ==&fname=0054ROB0RKSSTXHHEDXSKPMOPK30NPGCWS3440XSIHJD10A5QKA4FDEGPKOKVWXXZTPOZT102024NK14YW30A000OPNO35GC00MPNO40UWYW01UWECOK20FCSS4025YXA5NOSX34TWFGSWHCUS30A110",
+          "quote": "（三）競賽期間：2026/11/23 ~ 2026/12/04。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "競賽結束",
+      "date": "2026-12-04",
+      "time": null,
+      "original": "2026/12/04",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://ba.tpcu.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9MemcxTDNCMFlWODFOak0yTlY4M01EYzNNRFUzWHpreU5UZ3pMbkJrWmc9PQ==&fname=0054ROB0RKSSTXHHEDXSKPMOPK30NPGCWS3440XSIHJD10A5QKA4FDEGPKOKVWXXZTPOZT102024NK14YW30A000OPNO35GC00MPNO40UWYW01UWECOK20FCSS4025YXA5NOSX34TWFGSWHCUS30A110",
+          "quote": "（三）競賽期間：2026/11/23 ~ 2026/12/04。"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "公布成績",
+      "date": "2026-12-04",
+      "time": null,
+      "original": "2026/12/04",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://ba.tpcu.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9MemcxTDNCMFlWODFOak0yTlY4M01EYzNNRFUzWHpreU5UZ3pMbkJrWmc9PQ==&fname=0054ROB0RKSSTXHHEDXSKPMOPK30NPGCWS3440XSIHJD10A5QKA4FDEGPKOKVWXXZTPOZT102024NK14YW30A000OPNO35GC00MPNO40UWYW01UWECOK20FCSS4025YXA5NOSX34TWFGSWHCUS30A110",
+          "quote": "（四）頒獎典禮：預計2026/12/04 於企管系網頁公布成績；2023/12/09 舉辦頒獎典禮。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "頒獎典禮",
+      "date": "2026-12-09",
+      "time": null,
+      "original": "2026/12/09(三)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://ba.tpcu.edu.tw/p/406-1032-90101,r398.php?Lang=zh-tw",
+          "quote": "（三）頒獎典禮：2026/12/09(三)"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "競賽期間",
+      "what": "透過虛擬交易所進行台灣上市、上櫃股票模擬買賣交易",
+      "how": "online"
+    }
+  ],
+  "attendance": {
+    "value": "none",
+    "where": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://ba.tpcu.edu.tw/p/406-1032-90101,r398.php?Lang=zh-tw"
+      },
+      {
+        "url": "https://ba.tpcu.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9MemcxTDNCMFlWODFOak0yTlY4M01EYzNNRFUzWHpreU5UZ3pMbkJrWmc9PQ==&fname=0054ROB0RKSSTXHHEDXSKPMOPK30NPGCWS3440XSIHJD10A5QKA4FDEGPKOKVWXXZTPOZT102024NK14YW30A000OPNO35GC00MPNO40UWYW01UWECOK20FCSS4025YXA5NOSX34TWFGSWHCUS30A110"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://ba.tpcu.edu.tw/p/406-1032-90101,r398.php?Lang=zh-tw"
+      },
+      {
+        "url": "https://ba.tpcu.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9MemcxTDNCMFlWODFOak0yTlY4M01EYzNNRFUzWHpreU5UZ3pMbkJrWmc9PQ==&fname=0054ROB0RKSSTXHHEDXSKPMOPK30NPGCWS3440XSIHJD10A5QKA4FDEGPKOKVWXXZTPOZT102024NK14YW30A000OPNO35GC00MPNO40UWYW01UWECOK20FCSS4025YXA5NOSX34TWFGSWHCUS30A110"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "大專組暨高中職組分別取前三名及佳作三名頒發獎狀，冠軍獎金 5,000 元、亞軍獎金 3,000 元、季軍獎金 2,000 元。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://ba.tpcu.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9MemcxTDNCMFlWODFOak0yTlY4M01EYzNNRFUzWHpreU5UZ3pMbkJrWmc9PQ==&fname=0054ROB0RKSSTXHHEDXSKPMOPK30NPGCWS3440XSIHJD10A5QKA4FDEGPKOKVWXXZTPOZT102024NK14YW30A000OPNO35GC00MPNO40UWYW01UWECOK20FCSS4025YXA5NOSX34TWFGSWHCUS30A110",
+        "quote": "大專組暨高中職組分別取前三名及佳作三名頒發獎狀。冠軍頒發獎金5,000 元，亞軍頒發獎金3,000 元，季軍頒發獎金2,000 元。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://ba.tpcu.edu.tw/p/406-1032-90101,r398.php?Lang=zh-tw"
+      },
+      {
+        "url": "https://ba.tpcu.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9MemcxTDNCMFlWODFOak0yTlY4M01EYzNNRFUzWHpreU5UZ3pMbkJrWmc9PQ==&fname=0054ROB0RKSSTXHHEDXSKPMOPK30NPGCWS3440XSIHJD10A5QKA4FDEGPKOKVWXXZTPOZT102024NK14YW30A000OPNO35GC00MPNO40UWYW01UWECOK20FCSS4025YXA5NOSX34TWFGSWHCUS30A110"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://ba.tpcu.edu.tw/p/406-1032-90101,r398.php?Lang=zh-tw",
+    "rules": [
+      {
+        "title": "2026股王股后競賽規則",
+        "url": "https://ba.tpcu.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9MemcxTDNCMFlWODFOak0yTlY4M01EYzNNRFUzWHpreU5UZ3pMbkJrWmc9PQ==&fname=0054ROB0RKSSTXHHEDXSKPMOPK30NPGCWS3440XSIHJD10A5QKA4FDEGPKOKVWXXZTPOZT102024NK14YW30A000OPNO35GC00MPNO40UWYW01UWECOK20FCSS4025YXA5NOSX34TWFGSWHCUS30A110"
+      }
+    ],
+    "registration": "https://forms.gle/8iVUHMe2rrh6qRyF7"
+  },
+  "found_via": [
+    {
+      "name": "臺北城市科大企管系公告",
+      "url": "https://ba.tpcu.edu.tw/p/406-1032-90101,r398.php?Lang=zh-tw"
+    },
+    {
+      "name": "臺北城市科大企管系公告",
+      "url": "https://ba.tpcu.edu.tw/p/406-1032-90101,r398.php?Lang=zh-tw"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-20",
+    "method": "dual",
+    "unread": [],
+    "note": null,
+    "readers": [
+      "gemini-4-hydrogen-medium",
+      "gpt-6.1-sol"
+    ]
+  },
+  "first_seen": "2026-11-20",
+  "updated": "2026-11-20",
+  "conflict": "競賽規則 PDF 中部分日期誤植為 2023（報名與試玩截止日寫為 2023/11/20、頒獎典禮寫為 2023/12/09），本紀錄依官網公告頁與規則其餘時程採用 2026 年。"
+}

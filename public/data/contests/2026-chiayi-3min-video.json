@@ -1,0 +1,261 @@
+{
+  "schema": 1,
+  "id": "2026-chiayi-3min-video",
+  "title": "2027嘉義市國際三分鐘影片大賽",
+  "edition": "2027",
+  "summary": "不限年齡個人或團隊創作原創極短片，線上繳交 3 分至 3 分 59 秒影片及劇照，入圍決審者應出席頒獎典禮。",
+  "organizers": [
+    {
+      "name": "嘉義市政府",
+      "role": "指導"
+    },
+    {
+      "name": "嘉義市政府文化局",
+      "role": "主辦"
+    },
+    {
+      "name": "舊視界文化藝術有限公司",
+      "role": "協辦"
+    }
+  ],
+  "categories": [
+    "影音"
+  ],
+  "eligibility": {
+    "levels": [
+      "國小",
+      "國中",
+      "高中",
+      "高職",
+      "五專",
+      "大專",
+      "社會人士"
+    ],
+    "division": "mixed",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": null,
+    "teacher": "none",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://filmfreeway.com/2027ThreeMinutesVideoCompetition",
+        "quote": "1. 不限年齡、國籍、性別均可參加。"
+      },
+      {
+        "url": "https://filmfreeway.com/2027ThreeMinutesVideoCompetition",
+        "quote": "2. 個人或團隊均可參賽。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "submission_deadline",
+      "label": "報名及影片徵件截止",
+      "date": "2026-11-30",
+      "time": null,
+      "original": "2026 年 11 月 30 日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://filmfreeway.com/2027ThreeMinutesVideoCompetition",
+          "quote": "即日起至 2026 年 11 月 30 日止，至 FilmFreeway 線上平台報名。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "公佈第一階段資格合格名單",
+      "date": "2026-12-09",
+      "time": null,
+      "original": "2026年12月09日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://filmfreeway.com/2027ThreeMinutesVideoCompetition",
+          "quote": "2026年12月09日公佈資格合格名單。"
+        }
+      ]
+    },
+    {
+      "kind": "shortlist_announcement",
+      "label": "公佈第二階段初審入圍名單",
+      "date": "2026-12-30",
+      "time": null,
+      "original": "2026年12月30日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://filmfreeway.com/2027ThreeMinutesVideoCompetition",
+          "quote": "2026年12月30日公佈入圍名單。"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "初審入圍者補件截止",
+      "date": "2027-01-13",
+      "time": null,
+      "original": "2027 年 01 月 13 日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://filmfreeway.com/2027ThreeMinutesVideoCompetition",
+          "quote": "通過初審之入圍者，須於名單公佈後兩週內（2027 年 01 月 13 日前）補齊:"
+        }
+      ]
+    },
+    {
+      "kind": "shortlist_announcement",
+      "label": "公佈第三階段複審入圍名單",
+      "date": "2027-01-27",
+      "time": null,
+      "original": "2027年1月27日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://filmfreeway.com/2027ThreeMinutesVideoCompetition",
+          "quote": "2027年1月27日公佈入圍名單。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "頒獎典禮暨公佈得獎名單",
+      "date": null,
+      "time": null,
+      "original": "2027年3月上旬（FilmFreeway Event Date: March 6, 2027）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://filmfreeway.com/2027ThreeMinutesVideoCompetition",
+          "quote": "2027年3月上旬於嘉義市立博物館進行頒獎典禮，"
+        },
+        {
+          "url": "https://filmfreeway.com/2027ThreeMinutesVideoCompetition",
+          "quote": "March 6, 2027 Event Date"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "第一階段報名",
+      "what": "3:00–3:59 原創極短片（MOV 或 MP4、H.264、1920x1080 以上）、中英文作品簡介、高解析度影像劇照 3 張及中英文導演簡介",
+      "how": "online"
+    },
+    {
+      "stage": "第二階段初審入圍補件",
+      "what": "無字幕版本影片、英文字幕 SRT 檔及著作權切結書",
+      "how": "unknown"
+    }
+  ],
+  "attendance": {
+    "value": "finalists",
+    "where": "嘉義市立博物館",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://filmfreeway.com/2027ThreeMinutesVideoCompetition",
+        "quote": "2.影片一經入圍即不得以任何理由退賽，入圍者應配合出席影展相關活動及頒獎典禮。"
+      },
+      {
+        "url": "https://filmfreeway.com/2027ThreeMinutesVideoCompetition",
+        "quote": "2027年3月上旬於嘉義市立博物館進行頒獎典禮，"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://filmfreeway.com/2027ThreeMinutesVideoCompetition"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/2026/11/05/2027%e5%98%89%e7%be%a9%e5%b8%82%e5%9c%8b%e9%9a%9b%e4%b8%89%e5%88%86%e9%90%98%e5%bd%b1%e7%89%87%e5%a4%a7%e8%b3%bd/"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "總獎金新臺幣 200 萬元：金獎 1 名 360,000 元、銀獎 1 名 300,000 元、銅獎 1 名 240,000 元；技術獎項（最佳創意、最佳剪輯、最佳美術設計、最佳音效、最佳攝影各 1 名 175,000 元，最佳演員 1 名 125,000 元，評審特別獎 1 名 100,000 元），皆附獎狀與獎盃。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://filmfreeway.com/2027ThreeMinutesVideoCompetition",
+        "quote": "🏆金獎：360,000元新臺幣/位 共1位"
+      },
+      {
+        "url": "https://filmfreeway.com/2027ThreeMinutesVideoCompetition",
+        "quote": "🏆銀獎：300,000元新臺幣/位 共1位"
+      },
+      {
+        "url": "https://filmfreeway.com/2027ThreeMinutesVideoCompetition",
+        "quote": "🏆銅獎：240,000元新臺幣/位 共1位."
+      },
+      {
+        "url": "https://filmfreeway.com/2027ThreeMinutesVideoCompetition",
+        "quote": "▶︎最佳創意獎：175,000元新臺幣/位 共1位"
+      },
+      {
+        "url": "https://filmfreeway.com/2027ThreeMinutesVideoCompetition",
+        "quote": "▶︎最佳演員獎：125,000元新臺幣/位 共1位"
+      },
+      {
+        "url": "https://filmfreeway.com/2027ThreeMinutesVideoCompetition",
+        "quote": "▶︎評審特別獎：100,000元新臺幣/位 共1位"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/2026/11/05/2027%e5%98%89%e7%be%a9%e5%b8%82%e5%9c%8b%e9%9a%9b%e4%b8%89%e5%88%86%e9%90%98%e5%bd%b1%e7%89%87%e5%a4%a7%e8%b3%bd/",
+        "quote": "總獎金高達新臺幣200萬元"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "restricted",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://filmfreeway.com/2027ThreeMinutesVideoCompetition",
+        "quote": "「非透過攝影機拍攝完成之影像」（包含2D/3D動畫、AI生成影像、動態圖形或其他純數位創作影像形式），於影片累計總長度不得超過 1 分鐘（60 秒）。"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://filmfreeway.com/2027ThreeMinutesVideoCompetition",
+    "rules": [],
+    "registration": "https://filmfreeway.com/2027ThreeMinutesVideoCompetition"
+  },
+  "found_via": [
+    {
+      "name": "filmfreeway.com",
+      "url": "https://filmfreeway.com/2027ThreeMinutesVideoCompetition"
+    },
+    {
+      "name": "臺南女中轉發公告",
+      "url": "https://www.tngs.tn.edu.tw/2026/11/05/2027%e5%98%89%e7%be%a9%e5%b8%82%e5%9c%8b%e9%9a%9b%e4%b8%89%e5%88%86%e9%90%98%e5%bd%b1%e7%89%87%e5%a4%a7%e8%b3%bd/"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-21",
+    "method": "dual",
+    "unread": [
+      "著作權切結書（https://pse.is/9kb3sd）"
+    ],
+    "note": null,
+    "readers": [
+      "gemini-4-hydrogen-medium",
+      "gpt-6.1-sol"
+    ]
+  },
+  "first_seen": "2026-11-20",
+  "updated": "2026-11-21",
+  "conflict": "簡章英文版「How to Register」寫明於 2026 年 11 月 29 日前報名，其餘中英文時程與 FilmFreeway 頁面及學校公告皆載明截止日為 2026 年 11 月 30 日，本紀錄採 2026-11-30。",
+  "level": "verified",
+  "url": "https://workingyuanyuan.github.io/tw-hs-contests/contests/2026-chiayi-3min-video/",
+  "markdown": "https://workingyuanyuan.github.io/tw-hs-contests/contests/2026-chiayi-3min-video.md"
+}

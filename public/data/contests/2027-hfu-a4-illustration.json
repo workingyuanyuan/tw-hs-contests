@@ -1,0 +1,223 @@
+{
+  "schema": 1,
+  "id": "2027-hfu-a4-illustration",
+  "title": "2027 風起雲遊全國高中職插畫A4 秀",
+  "edition": "2027",
+  "summary": "全國高中職及五專生以「如果動物會說話」為題創作 A4 插畫，填寫線上報名表並郵寄實體作品與附件。",
+  "organizers": [
+    {
+      "name": "華梵大學",
+      "role": "主辦"
+    },
+    {
+      "name": "華梵大學美術與文創學系",
+      "role": "承辦"
+    }
+  ],
+  "categories": [
+    "美術"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職",
+      "五專"
+    ],
+    "division": "hs_only",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": 1,
+    "teacher": "optional",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/55/pta_227578_5490559_68211.pdf",
+        "quote": "1. 凡全國高中職(含五專)在校生皆可報名參加。"
+      },
+      {
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/55/pta_227578_5490559_68211.pdf",
+        "quote": "3. 每人限送一件作品。"
+      },
+      {
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/55/pta_227578_5490559_68211.pdf",
+        "quote": "指導老師 \n(若無則填”無”)"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "submission_deadline",
+      "label": "收件截止",
+      "date": "2027-02-26",
+      "time": null,
+      "original": "2027 年2 月1 日至2027 年2 月26 日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/55/pta_227578_5490559_68211.pdf",
+          "quote": "（二）收件時間：2027 年2 月1 日至2027 年2 月26 日，以郵戳為憑。"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "得獎公告",
+      "date": "2027-03-22",
+      "time": null,
+      "original": "2027 年3 月22 日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/55/pta_227578_5490559_68211.pdf",
+          "quote": "（三）得獎公告：2027 年3 月22 日。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "頒獎活動",
+      "date": "2027-05-22",
+      "time": null,
+      "original": "2027 年5 月22 日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/55/pta_227578_5490559_68211.pdf",
+          "quote": "頒獎活動：2027 年5 月22 日（於得獎公告中說明）"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "展覽期間結束",
+      "date": "2027-05-27",
+      "time": null,
+      "original": "2027 年5 月14 日至5 月27 日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/55/pta_227578_5490559_68211.pdf",
+          "quote": "展覽期間：2027 年5 月14 日至5 月27 日。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "未附回郵信封作品領回期限",
+      "date": "2027-07-31",
+      "time": null,
+      "original": "2027 年7 月31 日前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/55/pta_227578_5490559_68211.pdf",
+          "quote": "（二） 未附回郵信封者，將不另寄送，若需領回，請於2027 年7 月31 日前至華梵大學招生\n發展中心辦公室領取。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "線上報名",
+      "what": "線上報名表單",
+      "how": "online"
+    },
+    {
+      "stage": "實體投稿",
+      "what": "A4 尺寸插畫作品（建議固定於 A4 支撐板材）、個人資料及作品說明（附件一）、著作財產權授權同意書（附件二）、個人資料提供同意書（附件三）及作品回郵信封",
+      "how": "mail"
+    }
+  ],
+  "attendance": {
+    "value": "none",
+    "where": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/55/pta_227578_5490559_68211.pdf"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/55/pta_227578_5490559_68211.pdf"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "特優 2 名（獎金 1 萬元含稅、獎狀、畫冊）、優選 3 名（獎金 5,000 元含稅、獎狀、畫冊）、佳作 10 名（獎金 2,000 元含稅、獎狀、畫冊）、入選若干名（獎狀、畫冊）、網路票選獎（獎金 3,000 元含稅、獎狀）。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/55/pta_227578_5490559_68211.pdf",
+        "quote": "（一） 特優：2 名，獎金新臺幣1 萬元整（含稅），獎狀乙紙、畫冊乙份。"
+      },
+      {
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/55/pta_227578_5490559_68211.pdf",
+        "quote": "（二） 優選：3 名，獎金新臺幣5 仟元整（含稅），獎狀乙紙、畫冊乙份。"
+      },
+      {
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/55/pta_227578_5490559_68211.pdf",
+        "quote": "（三） 佳作：10 名，獎金新臺幣2 仟元整（含稅），獎狀乙紙、畫冊乙份。"
+      },
+      {
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/55/pta_227578_5490559_68211.pdf",
+        "quote": "（四） 入選：依作品水準錄取若干，發給獎狀乙紙、畫冊乙份。"
+      },
+      {
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/55/pta_227578_5490559_68211.pdf",
+        "quote": "（五） 網路票選獎：名，獎金新臺幣3 仟元整(含稅)，獎狀乙紙。（於得獎公告後開始票"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/55/pta_227578_5490559_68211.pdf"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://reurl.cc/Xx3EZM",
+    "rules": [
+      {
+        "title": "2027 華梵大學〈風起雲遊全國高中職插畫A4 秀〉徵件簡章",
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/55/pta_227578_5490559_68211.pdf"
+      }
+    ],
+    "registration": "https://reurl.cc/kpDnQx"
+  },
+  "found_via": [
+    {
+      "name": "簡章 PDF（彰化高中轉發附件）",
+      "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/55/pta_227578_5490559_68211.pdf"
+    },
+    {
+      "name": "彰化高中轉知公告",
+      "url": "https://www.chsh.chc.edu.tw/p/406-1009-196480,r70.php?Lang=zh-tw"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-21",
+    "method": "single",
+    "unread": [],
+    "note": null,
+    "readers": [
+      "gemini-4-hydrogen-medium"
+    ]
+  },
+  "first_seen": "2026-11-20",
+  "updated": "2026-11-20",
+  "level": "checked",
+  "url": "https://workingyuanyuan.github.io/tw-hs-contests/contests/2027-hfu-a4-illustration/",
+  "markdown": "https://workingyuanyuan.github.io/tw-hs-contests/contests/2027-hfu-a4-illustration.md"
+}

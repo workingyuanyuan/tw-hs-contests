@@ -1,0 +1,329 @@
+{
+  "schema": 1,
+  "id": "2026-indigenous-science-fair",
+  "title": "原住民族文化與科學展覽會",
+  "edition": "115 學年度",
+  "summary": "高級中等以下學生組隊（至少半數具原住民身分）就原民文化科學主題研究，經構想、計畫書、成果報告審查後於實體科展簡報。",
+  "organizers": [
+    {
+      "name": "教育部國民及學前教育署",
+      "role": "主辦"
+    },
+    {
+      "name": "原住民族委員會",
+      "role": "主辦"
+    },
+    {
+      "name": "國立東華大學原住民族課程發展協作中心",
+      "role": "承辦"
+    },
+    {
+      "name": "各直轄市、各縣（市）政府",
+      "role": "協辦"
+    }
+  ],
+  "categories": [
+    "自然科學",
+    "社會人文",
+    "農業與環境"
+  ],
+  "eligibility": {
+    "levels": [
+      "國小",
+      "國中",
+      "高中",
+      "高職"
+    ],
+    "division": "separate",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "school",
+    "team_min": 2,
+    "team_max": 4,
+    "teacher": "required",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/1TglIGY42aA5w2UqtlQAQhYLH9mlsnu4H/view?usp=sharing",
+        "quote": "以公、私立高級中等以下學校及參與高級中等以下教育階段非學校型態實驗教育之原住民族（含平埔族群）學生為主，組隊報名參賽，並區分為國小組、國中組及高中組。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1TglIGY42aA5w2UqtlQAQhYLH9mlsnu4H/view?usp=sharing",
+        "quote": "2、高中組學生隊員限2至4名，其中至少半數具原住民身分"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1TglIGY42aA5w2UqtlQAQhYLH9mlsnu4H/view?usp=sharing",
+        "quote": "（二）指導教師部分： 1或2位，可由教師（不限原住民身分者）、家長或部落耆老擔任。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1TglIGY42aA5w2UqtlQAQhYLH9mlsnu4H/view?usp=sharing",
+        "quote": "（二）團隊應由學校或立案人民團體報名參賽。跨校組隊者，應協調由其中1校負責報名及相關行政作業事宜。"
+      },
+      {
+        "url": "https://ieiw.k12ea.gov.tw/ScienceFair/News/Detail/693380eb-7225-4d13-94c3-3cae771ef9ac",
+        "quote": "參加組別：高中組/國中組/國小組，歡迎全國高級中等以下學校、國中小(及非學校型態實驗教育)原民師生組隊報名參賽"
+      },
+      {
+        "url": "https://ieiw.k12ea.gov.tw/ScienceFair/News/Detail/0cef88f1-7358-4005-ad0b-91a07f0af806",
+        "quote": "全國公私立國小、國中及高中職教師與學生、學校行政人員、非學校型態實驗教育學生及相關指導教師"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "other",
+      "label": "線上徵件說明會報名截止",
+      "date": "2026-11-20",
+      "time": "17:00",
+      "original": "115年11月20日（五）17:00止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://ieiw.k12ea.gov.tw/ScienceFair/News/Detail/0cef88f1-7358-4005-ad0b-91a07f0af806",
+          "quote": "報名期限： 即日起至115年11月20日（五）17:00止"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "實體徵件說明會報名截止",
+      "date": "2026-12-01",
+      "time": "17:00",
+      "original": "115年12月1日（二）17:00止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://ieiw.k12ea.gov.tw/ScienceFair/News/Detail/0cef88f1-7358-4005-ad0b-91a07f0af806",
+          "quote": "報名期限： 即日起至115年12月1日（二）17:00止"
+        }
+      ]
+    },
+    {
+      "kind": "registration_deadline",
+      "label": "第一階段線上報名截止",
+      "date": "2026-12-17",
+      "time": null,
+      "original": "115年12月17日（星期四）止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://drive.google.com/file/d/1TglIGY42aA5w2UqtlQAQhYLH9mlsnu4H/view?usp=sharing",
+          "quote": "（一）採線上報名，自即日起至115年12月17日（星期四）止；以報名系統時間為憑，逾期不受理。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "原生科學家高峰營（高中組實體研習）",
+      "date": "2027-01-27",
+      "time": null,
+      "original": "116年1月26日至1月27日（星期二、三）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://drive.google.com/file/d/1TglIGY42aA5w2UqtlQAQhYLH9mlsnu4H/view?usp=sharing",
+          "quote": "(1) 北、中、南區（臺中教育大學）：116年1月26日至1月27日（星期二、三）。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "原生科學高峰營線上研習截止",
+      "date": "2027-02-03",
+      "time": null,
+      "original": "116年 2 月 3 日（三）前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://ieiw.k12ea.gov.tw/ScienceFair/Brochure",
+          "quote": "線上研習 116年 2 月 3 日（三）前至官方網站觀看授課影片（如因故不克參加，須事先向承辦單位東華大學請假後另行補課）。"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "研究成果報告繳交截止",
+      "date": "2027-04-22",
+      "time": null,
+      "original": "116年4月22日（星期四）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://drive.google.com/file/d/1TglIGY42aA5w2UqtlQAQhYLH9mlsnu4H/view?usp=sharing",
+          "quote": "（二）研究成果報告繳交期限為116年4月22日（星期四），採線上繳交。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "實體科展（暫訂 116 年 7 月，日期另行公告）",
+      "date": null,
+      "time": null,
+      "original": "暫訂於116年7月間",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://drive.google.com/file/d/1TglIGY42aA5w2UqtlQAQhYLH9mlsnu4H/view?usp=sharing",
+          "quote": "（一）暫訂於116年7月間舉辦實體科展；舉辦日期及地點，由主辦單位另行公告。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "第一階段（報名）",
+      "what": "團隊基本資料表、研究構想書（500 字以內）、身分確認書（含學生資料證明）",
+      "how": "online"
+    },
+    {
+      "stage": "第二階段（原生科學家高峰營後）",
+      "what": "簡要版研究計畫書（至少 3 頁）",
+      "how": "online"
+    },
+    {
+      "stage": "第三階段（研究作品製作）",
+      "what": "研究週誌（至少 3 次期中查核）、研究成果報告書（Word 與 PDF）、研究週誌一整份（含研究歷程照片 10 張）、3 分鐘內研究歷程短片（AVI 檔）、著作權授權同意書（紙本）",
+      "how": "online"
+    },
+    {
+      "stage": "第四階段（實體科展）",
+      "what": "展品（展版海報及實物）、10 分鐘口頭簡報與 10 至 15 分鐘現場問答",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "finalists",
+    "where": "分區實體研習：臺北 IEAT 會議中心、國立中山大學、國立東華大學、國立臺中教育大學；實體科展地點暫訂 116 年 7 月另行公告",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/1TglIGY42aA5w2UqtlQAQhYLH9mlsnu4H/view?usp=sharing",
+        "quote": "（三）研究構想書經審查通過之團隊成員（包括全體師生），須參加「原生科學家高峰營」研習。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1TglIGY42aA5w2UqtlQAQhYLH9mlsnu4H/view?usp=sharing",
+        "quote": "（三）各團隊應製作展品（包括展版海報及實物）於科展現場展出，並進行10分鐘簡報及現場問答10-15分鐘，以供審查委員現場評分。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://ieiw.k12ea.gov.tw/ScienceFair/"
+      },
+      {
+        "url": "https://www.tlsh.ylc.edu.tw/2026/10/25/68390/"
+      },
+      {
+        "url": "https://ieiw.k12ea.gov.tw/ScienceFair/News/Detail/0cef88f1-7358-4005-ad0b-91a07f0af806"
+      },
+      {
+        "url": "https://ieiw.k12ea.gov.tw/ScienceFair/News/Detail/693380eb-7225-4d13-94c3-3cae771ef9ac"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1TglIGY42aA5w2UqtlQAQhYLH9mlsnu4H/view?usp=sharing"
+      },
+      {
+        "url": "https://ieiw.k12ea.gov.tw/ScienceFair/Brochure"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "高中組及國中組各設第一名金熊獎（1 組）學生及指導教師每人 1 萬元、第二名銀熊獎（1 組）每人 8 仟元、第三名銅熊獎（2 組）每人 6 仟元、佳作獎（3 組）每人 2 仟 5 佰元（國小組銀熊 2 組、銅熊 3 組、佳作 6 組），均附團隊獎盃 1 座及每人獎狀 1 張；另設探索精神獎、原住民族科學傳播獎及榮譽獎項頒發獎盃或獎狀，並依規定辦理敘獎。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/1TglIGY42aA5w2UqtlQAQhYLH9mlsnu4H/view?usp=sharing",
+        "quote": "第一名金熊獎（1組）學生獎學金每人1萬元，教師指導獎金每人1萬元，團隊獎盃1座，每人獎狀1張。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1TglIGY42aA5w2UqtlQAQhYLH9mlsnu4H/view?usp=sharing",
+        "quote": "第二名銀熊獎（1組）學生獎學金每人8仟元，教師指導獎金每人8仟元，團隊獎盃1座，每人獎狀1張。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1TglIGY42aA5w2UqtlQAQhYLH9mlsnu4H/view?usp=sharing",
+        "quote": "第三名銅熊獎（2組）學生獎學金每人6仟元，教師指導獎金每人6仟元，團隊獎盃1座，每人獎狀1張。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1TglIGY42aA5w2UqtlQAQhYLH9mlsnu4H/view?usp=sharing",
+        "quote": "佳作獎（3組）學生獎學金每人2仟5佰元，教師指導獎金每人2仟5佰元，團隊獎盃1座，每人獎狀1張。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1TglIGY42aA5w2UqtlQAQhYLH9mlsnu4H/view?usp=sharing",
+        "quote": "本獎項由入圍第四階段之團隊中決選，各組酌取若干件，團隊獎盃1座、指導教師及學生各獎狀1張。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1TglIGY42aA5w2UqtlQAQhYLH9mlsnu4H/view?usp=sharing",
+        "quote": "本獎項由全體參賽團隊製作之「研究歷程短片」作為評選內容，經各組委員決選後，各組酌取若干件，指導教師及學生各獎狀1張。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://ieiw.k12ea.gov.tw/ScienceFair/"
+      },
+      {
+        "url": "https://www.tlsh.ylc.edu.tw/2026/10/25/68390/"
+      },
+      {
+        "url": "https://ieiw.k12ea.gov.tw/ScienceFair/News/Detail/0cef88f1-7358-4005-ad0b-91a07f0af806"
+      },
+      {
+        "url": "https://ieiw.k12ea.gov.tw/ScienceFair/News/Detail/693380eb-7225-4d13-94c3-3cae771ef9ac"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1TglIGY42aA5w2UqtlQAQhYLH9mlsnu4H/view?usp=sharing"
+      },
+      {
+        "url": "https://ieiw.k12ea.gov.tw/ScienceFair/Brochure"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://ieiw.k12ea.gov.tw/ScienceFair/",
+    "rules": [
+      {
+        "title": "115學年度原住民族文化與科學展覽會參賽簡章",
+        "url": "https://drive.google.com/file/d/1TglIGY42aA5w2UqtlQAQhYLH9mlsnu4H/view?usp=sharing"
+      },
+      {
+        "title": "參賽簡章網頁",
+        "url": "https://ieiw.k12ea.gov.tw/ScienceFair/Brochure"
+      }
+    ],
+    "registration": "https://ieiw.k12ea.gov.tw/ScienceFair/Team/ContactInfo"
+  },
+  "found_via": [
+    {
+      "name": "ieiw.k12ea.gov.tw",
+      "url": "https://ieiw.k12ea.gov.tw/ScienceFair/"
+    },
+    {
+      "name": "斗六高中轉發公告",
+      "url": "https://www.tlsh.ylc.edu.tw/2026/10/25/68390/"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-21",
+    "method": "single",
+    "unread": [
+      "報名網站下載之表件（研究構想摘要、身分確認書、肖像授權同意書、研究計畫書、研究成果報告書、研究週誌、著作權授權同意書、諮詢費用領據、個資同意書）",
+      "實體及線上徵件說明會計畫書",
+      "參賽海報"
+    ],
+    "note": null,
+    "readers": [
+      "gemini-4-hydrogen-medium"
+    ]
+  },
+  "first_seen": "2026-11-20",
+  "updated": "2026-11-21",
+  "conflict": "官方網站首頁與簡章網頁標題仍標示「114 學年度」，且網頁版簡章另列線上研習期限為 116 年 2 月 3 日前，與 115 學年度 PDF 簡章（於各場次高峰營辦理前觀看）略異；本紀錄以 115 學年度 PDF 參賽簡章為主，並輔以網頁版簡章補充該線上研習日期。"
+}

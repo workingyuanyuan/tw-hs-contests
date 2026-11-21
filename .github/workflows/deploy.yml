@@ -1,0 +1,67 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    outputs:
+      indexnow: ${{ steps.indexnow.outputs.body }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 11
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: pnpm
+      - run: pnpm install --frozen-lockfile
+      # Build, then run the acceptance checks. A failed check stops the deploy.
+      - run: pnpm verify
+      # Compare each page's Markdown twin with the live one, before the deploy replaces it.
+      # A failed comparison shows as a warning and submits nothing; it does not block the deploy.
+      - id: indexnow
+        continue-on-error: true
+        run: |
+          body=$(node scripts/indexnow.mjs)
+          printf 'body=%s\n' "$body" >> "$GITHUB_OUTPUT"
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
+
+  # Tell IndexNow search engines (Bing, Yandex and others; not Google) which pages changed.
+  indexnow:
+    needs: [build, deploy]
+    if: needs.build.outputs.indexnow != ''
+    runs-on: ubuntu-latest
+    steps:
+      - env:
+          BODY: ${{ needs.build.outputs.indexnow }}
+        run: >
+          curl --silent --show-error --fail-with-body -X POST
+          -H 'Content-Type: application/json; charset=utf-8'
+          --data "$BODY" https://api.indexnow.org/indexnow
+          -w 'IndexNow HTTP %{http_code}\n'

@@ -1,0 +1,194 @@
+{
+  "schema": 1,
+  "id": "2027-mcu-crime-fiction",
+  "title": "高中生犯罪文學短篇小說比賽",
+  "edition": "2027",
+  "summary": "全國高中職與五專一至三年級學生獨立創作繁中、英或日文犯罪文學短篇小說，以電子郵件投稿作品及報名切結文件。",
+  "organizers": [
+    {
+      "name": "銘傳大學人文社會科學暨教育學院",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "語文與寫作",
+    "社會人文"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職",
+      "五專"
+    ],
+    "division": "hs_only",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": 1,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/1InUPwvmBKiUgqBKe6OQLE4InD6pk_l3w/view?usp=sharing",
+        "quote": "參賽對象：全國公私立高級中等學校（含普通型、技術型、綜合型高中）之在學學生，以及五年制專科學校一至三年級學生（以投稿截止日仍具備有效在學資格者為準）。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1InUPwvmBKiUgqBKe6OQLE4InD6pk_l3w/view?usp=sharing",
+        "quote": "創作人數限制：每人限投稿一篇作品，僅限單一作者獨立創作，不接受二人或二人以上之共同創作作品。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "submission_deadline",
+      "label": "收件截止",
+      "date": "2027-02-20",
+      "time": "23:59",
+      "original": "2027.02.20(星期六) 晚間11:59 止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://drive.google.com/file/d/1InUPwvmBKiUgqBKe6OQLE4InD6pk_l3w/view?usp=sharing",
+          "quote": "收件截止 2027.02.20(星期六) 晚間11:59 止（以投稿信箱收件時間為準）"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "評選期間",
+      "date": "2027-04-15",
+      "time": null,
+      "original": "2027.03.02-2027.04.15",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://drive.google.com/file/d/1InUPwvmBKiUgqBKe6OQLE4InD6pk_l3w/view?usp=sharing",
+          "quote": "評選期間 2027.03.02-2027.04.15"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "得獎公告",
+      "date": "2027-04-20",
+      "time": null,
+      "original": "2027.04.20(暫定)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://drive.google.com/file/d/1InUPwvmBKiUgqBKe6OQLE4InD6pk_l3w/view?usp=sharing",
+          "quote": "得獎公告 2027.04.20(暫定)"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "投稿",
+      "what": "3,000 至 5,000 字繁中或日文（或 2,000 至 4,000 單字英文）犯罪文學短篇小說之匿名 Word 及 PDF 檔、報名表與在學證明掃描檔、個資及授權同意書、原創與生成式 AI 使用切結書",
+      "how": "online"
+    }
+  ],
+  "attendance": {
+    "value": "none",
+    "where": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/1InUPwvmBKiUgqBKe6OQLE4InD6pk_l3w/view?usp=sharing"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/1InUPwvmBKiUgqBKe6OQLE4InD6pk_l3w/view?usp=sharing"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "第一名 1 名新臺幣 10,000 元及獎狀乙紙；第二名 1 名新臺幣 7,000 元及獎狀乙紙；第三名 1 名新臺幣 5,000 元及獎狀乙紙；佳作 3 名每名新臺幣 3,000 元及獎狀乙紙。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/1InUPwvmBKiUgqBKe6OQLE4InD6pk_l3w/view?usp=sharing",
+        "quote": "第一名 1 名 新臺幣 10,000 元及獎狀乙紙"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1InUPwvmBKiUgqBKe6OQLE4InD6pk_l3w/view?usp=sharing",
+        "quote": "第二名 1 名 新臺幣 7,000 元及獎狀乙紙"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1InUPwvmBKiUgqBKe6OQLE4InD6pk_l3w/view?usp=sharing",
+        "quote": "第三名 1 名 新臺幣 5,000 元及獎狀乙紙"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1InUPwvmBKiUgqBKe6OQLE4InD6pk_l3w/view?usp=sharing",
+        "quote": "佳作 3 名 每名新臺幣 3,000 元及獎狀乙紙"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "restricted",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/1InUPwvmBKiUgqBKe6OQLE4InD6pk_l3w/view?usp=sharing",
+        "quote": "允許使用範圍：參賽者得使用AI 作為輔助工具，進行背景資料蒐集、透過互動討論啟發靈感，以及語言修正；惟AI 不得取代參賽者的獨立思考、文學創意及實際寫作，亦不得使用AI 將作品翻譯成英文或日文。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1InUPwvmBKiUgqBKe6OQLE4InD6pk_l3w/view?usp=sharing",
+        "quote": "揭露與查核義務：投稿時須填寫並簽署「原創與生成式 AI 使用切結書」，據實揭露使用之工具名稱、用途、使用範圍及其運用於作品中的具體部分。"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://hsse.mcu.edu.tw/crimefiction/",
+    "rules": [
+      {
+        "title": "活動辦法",
+        "url": "https://drive.google.com/file/d/1InUPwvmBKiUgqBKe6OQLE4InD6pk_l3w/view?usp=sharing"
+      }
+    ],
+    "registration": null
+  },
+  "found_via": [
+    {
+      "name": "銘傳大學人社院公告頁面",
+      "url": "https://hsse.mcu.edu.tw/"
+    },
+    {
+      "name": "銘傳人社院官網",
+      "url": "https://hsse.mcu.edu.tw/"
+    },
+    {
+      "name": "簡章 Google Drive",
+      "url": "https://drive.google.com/file/d/1InUPwvmBKiUgqBKe6OQLE4InD6pk_l3w/view?usp=sharing"
+    },
+    {
+      "name": "斗六高中轉發公告",
+      "url": "https://www.tlsh.ylc.edu.tw/2026/10/27/68463/"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-21",
+    "method": "single",
+    "unread": [
+      "活動報名表",
+      "原創與生成式 AI 使用切結書",
+      "個人資料告知暨著作權授權同意書",
+      "海報"
+    ],
+    "note": null,
+    "readers": [
+      "gemini-4-hydrogen-medium"
+    ]
+  },
+  "first_seen": "2026-11-20",
+  "updated": "2026-11-20"
+}

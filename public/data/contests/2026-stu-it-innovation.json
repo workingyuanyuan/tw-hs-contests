@@ -1,0 +1,185 @@
+{
+  "schema": 1,
+  "id": "2026-stu-it-innovation",
+  "title": "2026資訊科技創新設計暨應用競賽",
+  "edition": "2026",
+  "summary": "全國高中職學生針對資訊科技創新設計與應用提案，報名時須寄交 A0 作品海報電子檔，晉級者須於決賽現場簡報。",
+  "organizers": [
+    {
+      "name": "台灣網路智能學會(WIC)",
+      "role": "主辦"
+    },
+    {
+      "name": "樹德科技大學資訊學院",
+      "role": "協辦"
+    },
+    {
+      "name": "樹德科技大學-資工系",
+      "role": "協辦"
+    },
+    {
+      "name": "樹德科技大學-電通系",
+      "role": "協辦"
+    }
+  ],
+  "categories": [
+    "資訊與 AI"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職"
+    ],
+    "division": "hs_only",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": null,
+    "team_max": null,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://sites.google.com/stu.edu.tw/2026stucar/%E9%A6%96%E9%A0%81",
+        "quote": "全國高中職學生"
+      },
+      {
+        "url": "https://sites.google.com/stu.edu.tw/2026stucar/%E9%A6%96%E9%A0%81",
+        "quote": "報名參賽隊伍，請於活動報名表單填寫參賽資料"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "報名及海報寄交截止",
+      "date": "2026-12-07",
+      "time": "17:00",
+      "original": "2026年12月07日(一) 下午 17:00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://sites.google.com/stu.edu.tw/2026stucar/%E9%A6%96%E9%A0%81",
+          "quote": "2026年12月07日(一) 下午 17:00 截止報名"
+        }
+      ]
+    },
+    {
+      "kind": "shortlist_announcement",
+      "label": "公布晉級決賽名單",
+      "date": "2026-12-11",
+      "time": "12:00",
+      "original": "2026年12月11日(五) 中午 12:00 前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://sites.google.com/stu.edu.tw/2026stucar/%E9%A6%96%E9%A0%81",
+          "quote": "2026年12月11日(五) 中午 12:00 前公布晉級決賽名單"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "決賽暨頒獎典禮",
+      "date": "2026-12-18",
+      "time": null,
+      "original": "2026年12月18日(五)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://sites.google.com/stu.edu.tw/2026stucar/%E9%A6%96%E9%A0%81",
+          "quote": "2026年12月18日(五)，決賽暨頒獎典禮"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名",
+      "what": "A0 規格（300dpi 以上，jpg 或 pdf）作品海報電子檔",
+      "how": "online"
+    },
+    {
+      "stage": "決賽",
+      "what": "口頭簡報投影片（若有實體作品可現場展示）",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "finalists",
+    "where": "樹德科技大學 圖資大樓 L0105（高雄市燕巢區橫山路59號）",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://sites.google.com/stu.edu.tw/2026stucar/%E9%A6%96%E9%A0%81",
+        "quote": "2026年12月11日(五) 中午 12:00 前公布晉級決賽名單"
+      },
+      {
+        "url": "https://sites.google.com/stu.edu.tw/2026stucar/%E9%A6%96%E9%A0%81",
+        "quote": "競賽當天需準備投影片，介紹參賽作品內容，若有實體作品，也可帶來現場展示。"
+      },
+      {
+        "url": "https://sites.google.com/stu.edu.tw/2026stucar/%E9%A6%96%E9%A0%81",
+        "quote": "決賽地點 / 樹德科技大學 圖資大樓 L0105"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://sites.google.com/stu.edu.tw/2026stucar/%E9%A6%96%E9%A0%81"
+      }
+    ]
+  },
+  "prizes": {
+    "text": null,
+    "basis": "unread",
+    "evidence": []
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://sites.google.com/stu.edu.tw/2026stucar/%E9%A6%96%E9%A0%81"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://sites.google.com/stu.edu.tw/2026stucar/%E9%A6%96%E9%A0%81",
+    "rules": [],
+    "registration": "https://forms.gle/a98jV7nE5zQ3cmP1A"
+  },
+  "found_via": [
+    {
+      "name": "競賽官網",
+      "url": "https://sites.google.com/stu.edu.tw/2026stucar/%E9%A6%96%E9%A0%81"
+    },
+    {
+      "name": "鳳新高中轉知",
+      "url": "https://www.fhsh.khc.edu.tw/aa/news-aa/20261106/47278"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-21",
+    "method": "dual",
+    "unread": [
+      "六、獎勵方式「決賽獎金與辦法」表格（頁面嵌入檔案或圖片）",
+      "國立鳳新高中公告之競賽海報圖片"
+    ],
+    "note": null,
+    "readers": [
+      "gemini-4-hydrogen-medium",
+      "gpt-6.1-sol"
+    ]
+  },
+  "first_seen": "2026-11-20",
+  "updated": "2026-11-21",
+  "level": "verified",
+  "url": "https://workingyuanyuan.github.io/tw-hs-contests/contests/2026-stu-it-innovation/",
+  "markdown": "https://workingyuanyuan.github.io/tw-hs-contests/contests/2026-stu-it-innovation.md"
+}

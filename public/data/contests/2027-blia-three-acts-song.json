@@ -1,0 +1,222 @@
+{
+  "schema": 1,
+  "id": "2027-blia-three-acts-song",
+  "title": "第七屆「三好歌曲」創作大賽",
+  "edition": "第七屆",
+  "summary": "對音樂創作有興趣者依三好精神或指定詞庫譜曲，線上繳交 mp3 試聽帶、歌詞與授權書，入圍前 10 名現場決賽。",
+  "organizers": [
+    {
+      "name": "國際佛光會中華佛光青年總團",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "音樂"
+  ],
+  "eligibility": {
+    "levels": [
+      "國小",
+      "國中",
+      "高中",
+      "高職",
+      "五專",
+      "大專",
+      "社會人士"
+    ],
+    "division": "mixed",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": null,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://cdn.bountyhunter.co/file-presign/18575288-a3c1-41ff-ba9c-30db8c6f7d50.pdf?dl=%E9%9D%92%E5%B9%B4%E5%9C%98-%E7%AC%AC%E4%B8%83%E5%B1%86%E3%80%8C%E4%B8%89%E5%A5%BD%E6%AD%8C%E6%9B%B2%E3%80%8D%E5%89%B5%E4%BD%9C%E5%A4%A7%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "四、報名資格：凡對音樂創作有興趣者，皆可報名。"
+      },
+      {
+        "url": "https://cdn.bountyhunter.co/file-presign/18575288-a3c1-41ff-ba9c-30db8c6f7d50.pdf?dl=%E9%9D%92%E5%B9%B4%E5%9C%98-%E7%AC%AC%E4%B8%83%E5%B1%86%E3%80%8C%E4%B8%89%E5%A5%BD%E6%AD%8C%E6%9B%B2%E3%80%8D%E5%89%B5%E4%BD%9C%E5%A4%A7%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "五、線上報名：https://forms.gle/ApHPeZTUmMenxMtZ6 (免報名費)。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "submission_deadline",
+      "label": "收件截止",
+      "date": "2027-02-10",
+      "time": "20:00",
+      "original": "2027 年2 月10 日20:00 止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://cdn.bountyhunter.co/file-presign/18575288-a3c1-41ff-ba9c-30db8c6f7d50.pdf?dl=%E9%9D%92%E5%B9%B4%E5%9C%98-%E7%AC%AC%E4%B8%83%E5%B1%86%E3%80%8C%E4%B8%89%E5%A5%BD%E6%AD%8C%E6%9B%B2%E3%80%8D%E5%89%B5%E4%BD%9C%E5%A4%A7%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf",
+          "quote": "七、收件日期：即日起至2027 年2 月10 日20:00 止。"
+        }
+      ]
+    },
+    {
+      "kind": "shortlist_announcement",
+      "label": "公布入圍作品",
+      "date": "2027-03-18",
+      "time": null,
+      "original": "2027 年3 月18 日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://cdn.bountyhunter.co/file-presign/18575288-a3c1-41ff-ba9c-30db8c6f7d50.pdf?dl=%E9%9D%92%E5%B9%B4%E5%9C%98-%E7%AC%AC%E4%B8%83%E5%B1%86%E3%80%8C%E4%B8%89%E5%A5%BD%E6%AD%8C%E6%9B%B2%E3%80%8D%E5%89%B5%E4%BD%9C%E5%A4%A7%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf",
+          "quote": "於2027 年3 月18 日公布入圍作品，入圍前10 名將進入決賽。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "決賽",
+      "date": "2027-04-24",
+      "time": null,
+      "original": "2027 年4 月24 日（六）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://cdn.bountyhunter.co/file-presign/18575288-a3c1-41ff-ba9c-30db8c6f7d50.pdf?dl=%E9%9D%92%E5%B9%B4%E5%9C%98-%E7%AC%AC%E4%B8%83%E5%B1%86%E3%80%8C%E4%B8%89%E5%A5%BD%E6%AD%8C%E6%9B%B2%E3%80%8D%E5%89%B5%E4%BD%9C%E5%A4%A7%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf",
+          "quote": "二、決賽日期：2027 年4 月24 日（六）。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "徵件投稿",
+      "what": "線上報名表、親筆簽名掃描或拍照之作品授權書、5 分鐘內完整 mp3 試聽帶（建議 192–256 kbit/s）、歌詞及樂譜（五線譜或簡譜，若有請提供）",
+      "how": "online"
+    },
+    {
+      "stage": "決賽（入圍前 10 名）",
+      "what": "現場演唱（表演人數最多 15 人、樂器不超過 5 種；現場伴奏須自備樂器，使用伴唱帶者收到入圍通知後須寄至活動信箱）",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "finalists",
+    "where": "台北文創大樓1F 文化廣場",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://cdn.bountyhunter.co/file-presign/18575288-a3c1-41ff-ba9c-30db8c6f7d50.pdf?dl=%E9%9D%92%E5%B9%B4%E5%9C%98-%E7%AC%AC%E4%B8%83%E5%B1%86%E3%80%8C%E4%B8%89%E5%A5%BD%E6%AD%8C%E6%9B%B2%E3%80%8D%E5%89%B5%E4%BD%9C%E5%A4%A7%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "三、決賽地點：台北文創大樓1F 文化廣場。"
+      },
+      {
+        "url": "https://cdn.bountyhunter.co/file-presign/18575288-a3c1-41ff-ba9c-30db8c6f7d50.pdf?dl=%E9%9D%92%E5%B9%B4%E5%9C%98-%E7%AC%AC%E4%B8%83%E5%B1%86%E3%80%8C%E4%B8%89%E5%A5%BD%E6%AD%8C%E6%9B%B2%E3%80%8D%E5%89%B5%E4%BD%9C%E5%A4%A7%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "入圍前10 名將進入決賽。"
+      },
+      {
+        "url": "https://cdn.bountyhunter.co/file-presign/18575288-a3c1-41ff-ba9c-30db8c6f7d50.pdf?dl=%E9%9D%92%E5%B9%B4%E5%9C%98-%E7%AC%AC%E4%B8%83%E5%B1%86%E3%80%8C%E4%B8%89%E5%A5%BD%E6%AD%8C%E6%9B%B2%E3%80%8D%E5%89%B5%E4%BD%9C%E5%A4%A7%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "決賽當天可以使用現場伴奏或伴唱帶進行演唱。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://cdn.bountyhunter.co/file-presign/18575288-a3c1-41ff-ba9c-30db8c6f7d50.pdf?dl=%E9%9D%92%E5%B9%B4%E5%9C%98-%E7%AC%AC%E4%B8%83%E5%B1%86%E3%80%8C%E4%B8%89%E5%A5%BD%E6%AD%8C%E6%9B%B2%E3%80%8D%E5%89%B5%E4%BD%9C%E5%A4%A7%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "五、線上報名：https://forms.gle/ApHPeZTUmMenxMtZ6 (免報名費)。"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "入圍獎作品獲得紀念獎狀乙幀；決選作品總獎金 NT 200,000，決賽另設現場票選最佳人氣獎。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://cdn.bountyhunter.co/file-presign/18575288-a3c1-41ff-ba9c-30db8c6f7d50.pdf?dl=%E9%9D%92%E5%B9%B4%E5%9C%98-%E7%AC%AC%E4%B8%83%E5%B1%86%E3%80%8C%E4%B8%89%E5%A5%BD%E6%AD%8C%E6%9B%B2%E3%80%8D%E5%89%B5%E4%BD%9C%E5%A4%A7%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "(一)入圍獎作品將獲得紀念獎狀乙幀。"
+      },
+      {
+        "url": "https://cdn.bountyhunter.co/file-presign/18575288-a3c1-41ff-ba9c-30db8c6f7d50.pdf?dl=%E9%9D%92%E5%B9%B4%E5%9C%98-%E7%AC%AC%E4%B8%83%E5%B1%86%E3%80%8C%E4%B8%89%E5%A5%BD%E6%AD%8C%E6%9B%B2%E3%80%8D%E5%89%B5%E4%BD%9C%E5%A4%A7%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "(二)決選作品獎金：總獎金NT 200,000"
+      },
+      {
+        "url": "https://cdn.bountyhunter.co/file-presign/18575288-a3c1-41ff-ba9c-30db8c6f7d50.pdf?dl=%E9%9D%92%E5%B9%B4%E5%9C%98-%E7%AC%AC%E4%B8%83%E5%B1%86%E3%80%8C%E4%B8%89%E5%A5%BD%E6%AD%8C%E6%9B%B2%E3%80%8D%E5%89%B5%E4%BD%9C%E5%A4%A7%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "(二)決賽：除主辦單位邀請評審小組外，增加現場票選最佳人氣獎。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://bhuntr.com/tw/competitions/fj36o93ctawywuwaox"
+      },
+      {
+        "url": "https://cdn.bountyhunter.co/file-presign/18575288-a3c1-41ff-ba9c-30db8c6f7d50.pdf?dl=%E9%9D%92%E5%B9%B4%E5%9C%98-%E7%AC%AC%E4%B8%83%E5%B1%86%E3%80%8C%E4%B8%89%E5%A5%BD%E6%AD%8C%E6%9B%B2%E3%80%8D%E5%89%B5%E4%BD%9C%E5%A4%A7%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf"
+      },
+      {
+        "url": "https://cdn.bountyhunter.co/file-presign/9a127ec0-095b-48d7-a457-24ea44eddbff.pdf?dl=%E8%8B%B1%E6%96%87%E9%80%9A%E5%95%9FTAG%20Song%20Composition%20CompetitionRegistration%20Form.pdf"
+      },
+      {
+        "url": "https://cdn.bountyhunter.co/file-presign/56d1e2d5-3f2c-4a4b-9a54-babe3d4b76e5.docx?dl=B%E5%89%B5%E4%BD%9C%E5%A4%A7%E8%B3%BD-%E6%8E%88%E6%AC%8A%E6%9B%B8.docx"
+      },
+      {
+        "url": "https://cdn.bountyhunter.co/file-presign/14011837-45e3-4652-bde0-d4efde7dfd7a.docx?dl=B%E5%89%B5%E4%BD%9C%E5%A4%A7%E8%B3%BD-%E8%8B%B1%E6%96%87%E6%8E%88%E6%AC%8A%E6%9B%B8.docx"
+      }
+    ]
+  },
+  "links": {
+    "official": null,
+    "rules": [
+      {
+        "title": "第七屆「三好歌曲」創作大賽簡章",
+        "url": "https://cdn.bountyhunter.co/file-presign/18575288-a3c1-41ff-ba9c-30db8c6f7d50.pdf?dl=%E9%9D%92%E5%B9%B4%E5%9C%98-%E7%AC%AC%E4%B8%83%E5%B1%86%E3%80%8C%E4%B8%89%E5%A5%BD%E6%AD%8C%E6%9B%B2%E3%80%8D%E5%89%B5%E4%BD%9C%E5%A4%A7%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf"
+      },
+      {
+        "title": "英文簡章與報名表",
+        "url": "https://cdn.bountyhunter.co/file-presign/9a127ec0-095b-48d7-a457-24ea44eddbff.pdf?dl=%E8%8B%B1%E6%96%87%E9%80%9A%E5%95%9FTAG%20Song%20Composition%20CompetitionRegistration%20Form.pdf"
+      },
+      {
+        "title": "作品授權書",
+        "url": "https://cdn.bountyhunter.co/file-presign/56d1e2d5-3f2c-4a4b-9a54-babe3d4b76e5.docx?dl=B%E5%89%B5%E4%BD%9C%E5%A4%A7%E8%B3%BD-%E6%8E%88%E6%AC%8A%E6%9B%B8.docx"
+      },
+      {
+        "title": "英文授權書",
+        "url": "https://cdn.bountyhunter.co/file-presign/14011837-45e3-4652-bde0-d4efde7dfd7a.docx?dl=B%E5%89%B5%E4%BD%9C%E5%A4%A7%E8%B3%BD-%E8%8B%B1%E6%96%87%E6%8E%88%E6%AC%8A%E6%9B%B8.docx"
+      },
+      {
+        "title": "星雲大師詩詞庫（中文）",
+        "url": "https://cdn.bountyhunter.co/file-presign/9e45f2ed-14df-48aa-b4d2-dc36d98ba809.pdf?dl=C%E6%98%9F%E9%9B%B2%E5%A4%A7%E5%B8%AB%E8%A9%A9%E8%A9%9E%E5%BA%AB-%E4%B8%AD%E6%96%87.pdf"
+      },
+      {
+        "title": "星雲大師詩詞庫（英文）",
+        "url": "https://cdn.bountyhunter.co/file-presign/4b4061ff-946c-48cd-9e50-79230c3994e2.pdf?dl=C%20venerable%20master%20Hsing%20Yun_s%20lyrics.pdf"
+      }
+    ],
+    "registration": "https://forms.gle/ApHPeZTUmMenxMtZ6"
+  },
+  "found_via": [
+    {
+      "name": "bhuntr.com",
+      "url": "https://bhuntr.com/tw/competitions/fj36o93ctawywuwaox"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-21",
+    "method": "single",
+    "unread": [],
+    "note": null,
+    "readers": [
+      "gemini-4-hydrogen-medium"
+    ]
+  },
+  "first_seen": "2026-11-20",
+  "updated": "2026-11-20",
+  "conflict": "獎金獵人頁面「活動時程」欄寫入圍決賽公布時間為 2027 年 4 月 24 日，但同頁「活動簡介」、中文簡章及英文簡章皆載明為 2027 年 3 月 18 日，本筆資料依簡章採用 2027-03-18。",
+  "level": "checked",
+  "url": "https://workingyuanyuan.github.io/tw-hs-contests/contests/2027-blia-three-acts-song/",
+  "markdown": "https://workingyuanyuan.github.io/tw-hs-contests/contests/2027-blia-three-acts-song.md"
+}

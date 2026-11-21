@@ -1,0 +1,237 @@
+{
+  "schema": 1,
+  "id": "2026-100spotlights-video",
+  "title": "台灣觀光100亮點-亮點熱映中 限時招募短影音玩家",
+  "edition": "2026",
+  "summary": "喜愛旅遊者報名任務媒合，入選後前往指定亮點拍攝60至90秒短影音，於社群發布並在去趣建行程回傳連結。",
+  "organizers": [
+    {
+      "name": "交通部觀光署",
+      "role": "主辦"
+    },
+    {
+      "name": "去趣 chicTrip",
+      "role": "協辦"
+    },
+    {
+      "name": "喬商廣告股份有限公司",
+      "role": "承辦"
+    }
+  ],
+  "categories": [
+    "影音"
+  ],
+  "eligibility": {
+    "levels": [
+      "國小",
+      "國中",
+      "高中",
+      "高職",
+      "五專",
+      "大專",
+      "社會人士"
+    ],
+    "division": "mixed",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": 1,
+    "teacher": "none",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://100spotlights.taiwan.net.tw/featured_info.php",
+        "quote": "三、活動對象：凡喜愛旅遊、樂於透過影像記錄及分享旅行體驗，並具個人公開社群帳號者，皆可報名參加。"
+      },
+      {
+        "url": "https://100spotlights.taiwan.net.tw/featured_info.php",
+        "quote": "未滿20歲之未成年人獲選人氣獎，另須提供法定代理人（或監護人）之身份證明文件，始有領獎資格。"
+      },
+      {
+        "url": "https://100spotlights.taiwan.net.tw/featured_info.php",
+        "quote": "同一投稿人可重複於自媒體平台(Facebook、Instagram Reels、YouTube Shorts)上傳作品，最終將以單一平台最高按讚／愛心數作為「亮點人氣獎」得獎依據，每人僅限得獎一次。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "100亮點玩家報名截止",
+      "date": "2026-11-30",
+      "time": null,
+      "original": "2026年10月29日 ~ 2026年11月30 日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://100spotlights.taiwan.net.tw/featured_info.php",
+          "quote": "2026年10月29日 ~ 2026年11月30 日"
+        }
+      ]
+    },
+    {
+      "kind": "shortlist_announcement",
+      "label": "公告100位正取玩家",
+      "date": "2026-12-11",
+      "time": null,
+      "original": "2026年12月1日 ~ 2026年12月11日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://100spotlights.taiwan.net.tw/featured_info.php",
+          "quote": "2026年12月1日 ~ 2026年12月11日"
+        },
+        {
+          "url": "https://bhuntr.com/tw/competitions/0eltee1k1e7snjk31v",
+          "quote": "主辦單位將進行遴選及任務媒合，預計於2026年12月11日公告100位正取玩家，實際媒合任務以錄取通知為準。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "寄送專屬亮點任務包",
+      "date": "2026-12-31",
+      "time": null,
+      "original": "2026年12月15日 ~ 2026年12月31日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://100spotlights.taiwan.net.tw/featured_info.php",
+          "quote": "2026年12月15日 ~ 2026年12月31日"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "完成任務、發布影片與行程並回傳成果截止",
+      "date": "2027-06-30",
+      "time": "23:59",
+      "original": "2027年1月1日 ~ 2027年6月30日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://100spotlights.taiwan.net.tw/featured_info.php",
+          "quote": "於2027年6月30日前回傳作品連結及相關成果資料。"
+        },
+        {
+          "url": "https://100spotlights.taiwan.net.tw/featured_info.php",
+          "quote": "前20名獲得「亮點人氣獎」，評比時間自影片上傳日至2027年6月30日23:59分為止。"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "公告亮點人氣玩家及去趣行程人氣獎得主",
+      "date": "2027-07-09",
+      "time": null,
+      "original": "2027年7月9日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://100spotlights.taiwan.net.tw/featured_info.php",
+          "quote": "2027年7月9日"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名",
+      "what": "填寫報名表、提供公開社群帳號並選填 5 個亮點任務志願",
+      "how": "online"
+    },
+    {
+      "stage": "任務執行與作品繳交",
+      "what": "前往指定亮點拍攝 60–90 秒 9:16 MP4 直式短影音，於社群平台公開發布、至去趣官網創建行程並回傳作品連結及相關成果資料，並依任務包規定繳交完整影片檔案",
+      "how": "online"
+    }
+  ],
+  "attendance": {
+    "value": "unknown",
+    "where": null,
+    "basis": "unread",
+    "evidence": []
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://100spotlights.taiwan.net.tw/featured_info.php"
+      },
+      {
+        "url": "https://bhuntr.com/tw/competitions/0eltee1k1e7snjk31v"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "完成任務並通過審核可獲玩家獎勵金 1 萬元（澎湖、金門、馬祖再加碼 2 千元）；亮點人氣獎前 20 名：第 1 名 10 萬元、第 2 名 5 萬元、第 3 名 3 萬元、第 4–5 名各 1 萬元、第 6–10 名各 5 千元、第 11–20 名各 3 千元；去趣人氣獎前 20 名各 5 千元。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://100spotlights.taiwan.net.tw/featured_info.php",
+        "quote": "經審核符合活動規範後，即可獲得玩家獎勵金新臺幣(以下同)1萬元，澎湖、金門、馬祖再加碼2仟元！"
+      },
+      {
+        "url": "https://bhuntr.com/tw/competitions/0eltee1k1e7snjk31v",
+        "quote": "名次獎勵名額第1名100,000元1名第2名50,000元1名第3名30,000元1名第4-5名10,000元2名第6-10名5,000元5名第11-20名3,000元10名"
+      },
+      {
+        "url": "https://100spotlights.taiwan.net.tw/featured_info.php",
+        "quote": "該行程之被「儲存行程」數量最高前20名參賽者，可獲得「去趣人氣獎」，每位人氣獎得主將獲得獎金5,000元。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://100spotlights.taiwan.net.tw/featured_info.php"
+      },
+      {
+        "url": "https://bhuntr.com/tw/competitions/0eltee1k1e7snjk31v"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://100spotlights.taiwan.net.tw/featured_info.php",
+    "rules": [
+      {
+        "title": "亮點熱映中－100亮點任務一覽表",
+        "url": "https://cdn.bountyhunter.co/file-presign/d29aa3fe-4b37-4bdb-b33f-6314728f50f9.pdf?dl=%E4%BA%AE%E9%BB%9E%E7%86%B1%E6%98%A0%E4%B8%AD%EF%BC%8D100%E4%BA%AE%E9%BB%9E%E4%BB%BB%E5%8B%99%E4%B8%80%E8%A6%BD%E8%A1%A8.xlsx.pdf"
+      },
+      {
+        "title": "亮點熱映中-活動辦法",
+        "url": "https://cdn.bountyhunter.co/file-presign/6f8bc604-1c6a-4cd0-8de8-bbc7aaedbfe5.pdf?dl=%E4%BA%AE%E9%BB%9E%E7%86%B1%E6%98%A0%E4%B8%AD-%E6%B4%BB%E5%8B%95%E8%BE%A6%E6%B3%95.pdf"
+      }
+    ],
+    "registration": "https://forms.gle/3JtJZ6WLNsCb4CKK6"
+  },
+  "found_via": [
+    {
+      "name": "獎金獵人刊登頁",
+      "url": "https://bhuntr.com/tw/competitions/0eltee1k1e7snjk31v"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-21",
+    "method": "dual",
+    "unread": [
+      "亮點熱映中-活動辦法.pdf",
+      "專屬亮點任務包（錄取後寄送）"
+    ],
+    "note": "兩次讀取不一致，未列出：到場：none 對 finalists",
+    "readers": [
+      "gemini-4-hydrogen-medium",
+      "gpt-6.1-sol"
+    ]
+  },
+  "first_seen": "2026-11-20",
+  "updated": "2026-11-21",
+  "level": "verified",
+  "url": "https://workingyuanyuan.github.io/tw-hs-contests/contests/2026-100spotlights-video/",
+  "markdown": "https://workingyuanyuan.github.io/tw-hs-contests/contests/2026-100spotlights-video.md"
+}

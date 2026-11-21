@@ -1,0 +1,235 @@
+{
+  "schema": 1,
+  "id": "2027-agongdianxi-literature",
+  "title": "2027「第二十屆阿公店溪文學獎」",
+  "edition": "第二十屆",
+  "summary": "國小至大專學生以大高雄地區為主題創作童詩或散文，並繳交電子檔與紙本稿件。",
+  "organizers": [
+    {
+      "name": "高雄市政府文化局",
+      "role": "主辦"
+    },
+    {
+      "name": "高雄市岡山大專青年協會",
+      "role": "承辦"
+    },
+    {
+      "name": "高雄市政府",
+      "role": "指導"
+    },
+    {
+      "name": "高雄市政府客家事務委員會",
+      "role": "協辦"
+    },
+    {
+      "name": "社團法人高雄市客家青年藝文協會",
+      "role": "協辦"
+    },
+    {
+      "name": "高雄市政府教育局",
+      "role": "協辦"
+    },
+    {
+      "name": "高雄市政府文化局岡山文化中心",
+      "role": "協辦"
+    },
+    {
+      "name": "國立成功大學台灣語文測驗中心",
+      "role": "協辦"
+    }
+  ],
+  "categories": [
+    "語文與寫作",
+    "社會人文"
+  ],
+  "eligibility": {
+    "levels": [
+      "國小",
+      "國中",
+      "高中",
+      "五專",
+      "大專"
+    ],
+    "division": "separate",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": 1,
+    "teacher": "optional",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/1Wu135qrbUvlWGm6FB8iWLAHX_u_uwBuQ/view",
+        "quote": "一、 國小組：目前設籍或就讀於高雄市之國小四至六年級學生。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1Wu135qrbUvlWGm6FB8iWLAHX_u_uwBuQ/view",
+        "quote": "二、 國中組：目前設籍或就讀於高雄市之國中學生。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1Wu135qrbUvlWGm6FB8iWLAHX_u_uwBuQ/view",
+        "quote": "三、 高中組：目前設籍或就讀於高雄市之高中學生。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1Wu135qrbUvlWGm6FB8iWLAHX_u_uwBuQ/view",
+        "quote": "四、 大專組：目前設籍或就讀於高雄市之專科、大學、研究所學生。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1Wu135qrbUvlWGm6FB8iWLAHX_u_uwBuQ/view",
+        "quote": "五、 上述各組若未設籍或就讀於高雄市之學生，作品主題及內容應以大高雄地區有關。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1Wu135qrbUvlWGm6FB8iWLAHX_u_uwBuQ/view",
+        "quote": "3. 散文類：(每一人限投稿一篇作品)"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1Wu135qrbUvlWGm6FB8iWLAHX_u_uwBuQ/view",
+        "quote": "2. 指導老師獎：各類組名次前三名作品之指導老師，頒發獎狀及獎品。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "submission_deadline",
+      "label": "收件截止",
+      "date": "2027-01-31",
+      "time": null,
+      "original": "自2026 年10 月1 日起至2027 年1 月31 日止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://drive.google.com/file/d/1Wu135qrbUvlWGm6FB8iWLAHX_u_uwBuQ/view",
+          "quote": "一、 收件時間：自2026 年10 月1 日起至2027 年1 月31 日止，以e-mail 收件日或郵戳為憑，逾時恕不受理。"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "得獎名單公佈（預計）",
+      "date": null,
+      "time": null,
+      "original": "預計2027 年4 月",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://drive.google.com/file/d/1Wu135qrbUvlWGm6FB8iWLAHX_u_uwBuQ/view",
+          "quote": "一、 得獎名單預計2027 年4 月以e-mail 方式通知得獎者或於高雄市政府文化局(http://www.khcc.gov.tw/)網站公佈得獎名單。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "頒獎典禮（預計）",
+      "date": null,
+      "time": null,
+      "original": "預計2027 年6 月份選擇一個星期日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://drive.google.com/file/d/1Wu135qrbUvlWGm6FB8iWLAHX_u_uwBuQ/view",
+          "quote": "二、 預計2027 年6 月份選擇一個星期日舉行頒獎典禮，日期另行通知。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "投稿（電子檔）",
+      "what": "Excel 報名表、Word 投稿作品及近六個月內作者相片 .jpg 檔",
+      "how": "online"
+    },
+    {
+      "stage": "投稿（紙本）",
+      "what": "A4 白色紙張雙面列印並加頁碼之 Word 稿件紙本一份",
+      "how": "mail"
+    }
+  ],
+  "attendance": {
+    "value": "none",
+    "where": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/1Wu135qrbUvlWGm6FB8iWLAHX_u_uwBuQ/view"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/1Wu135qrbUvlWGm6FB8iWLAHX_u_uwBuQ/view"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "各類組取前三名及優選若干名頒發獎狀、獎品與獎金（指導老師僅頒獎狀及獎品）：台語童詩、客語童詩及散文國小組第一名 3,000 元至優選 500 元；散文國中組 5,000 至 700 元、高中組 8,000 至 1,000 元、大專組及台語散文 10,000 至 2,000 元；台語類另設「發枝賞」加額獎金。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/1Wu135qrbUvlWGm6FB8iWLAHX_u_uwBuQ/view",
+        "quote": "1. 第一名、第二名、第三名及優選：台語童詩類、客語童詩類、散文類及台語散文類各組之投稿者，依名次各取三名及優選若干名，頒發獎狀及獎品。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1Wu135qrbUvlWGm6FB8iWLAHX_u_uwBuQ/view",
+        "quote": "第一名獎金8,000 元、第二名獎金5,000 元、第三名獎金3,000 元、優選1,000 元，以上均頒發獎品、獎狀。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1Wu135qrbUvlWGm6FB8iWLAHX_u_uwBuQ/view",
+        "quote": "第一名獎金10,000 元、第二名獎金7,000 元、第三名獎金4,000 元、優選2,000 元，以上均頒發獎品、獎狀。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "banned",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/1Wu135qrbUvlWGm6FB8iWLAHX_u_uwBuQ/view",
+        "quote": "一、 投稿作品必須為全新創作，不得使用人工智慧（AI）創作，不得提供或參加過任何活動，若有不實之處，經承辦單位查證後將喪失參賽資格。"
+      }
+    ]
+  },
+  "links": {
+    "official": null,
+    "rules": [
+      {
+        "title": "2027「第二十屆阿公店溪文學獎」徵文辦法",
+        "url": "https://drive.google.com/file/d/1Wu135qrbUvlWGm6FB8iWLAHX_u_uwBuQ/view"
+      },
+      {
+        "title": "徵文辦法與報名繳件範例格式雲端資料夾",
+        "url": "https://drive.google.com/drive/u/1/folders/1oCABjTVzlCUcrhA-Y94wTYXImDvKHKLz"
+      }
+    ],
+    "registration": null
+  },
+  "found_via": [
+    {
+      "name": "徵文辦法 PDF（Google Drive，高雄高工轉發附件）",
+      "url": "https://drive.google.com/file/d/1Wu135qrbUvlWGm6FB8iWLAHX_u_uwBuQ/view"
+    },
+    {
+      "name": "高雄高工轉發公告",
+      "url": "https://www.ksvs.kh.edu.tw/v4/cpsub/article.php?id=12682"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-21",
+    "method": "single",
+    "unread": [
+      "Excel 報名表範例檔",
+      "各類組 Word 稿件範例檔"
+    ],
+    "note": null,
+    "readers": [
+      "gemini-4-hydrogen-medium"
+    ]
+  },
+  "first_seen": "2026-11-20",
+  "updated": "2026-11-20"
+}

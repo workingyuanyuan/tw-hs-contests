@@ -1,0 +1,218 @@
+{
+  "schema": 1,
+  "id": "2026-nkust-h2gp-taiwan",
+  "title": "H2GP Taiwan 2027大獎賽－全球最大跨學科氫能教育活動",
+  "edition": "2027",
+  "summary": "高中職學生至多 5 人組隊，繳交參賽具結書與參賽動機說明，入選 20 隊於決賽以氫燃料電池遙控車競賽。",
+  "organizers": [
+    {
+      "name": "國立高雄科技大學",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "工程與製造",
+    "自然科學"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職"
+    ],
+    "division": "hs_only",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": null,
+    "team_max": 5,
+    "teacher": "required",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文本文_115XS00795_29133528490.pdf",
+        "quote": "二、活動對象：全國有興趣參與之高中職一至三年級在學學生，每隊至多五人，隊員不限學群或類組，可跨校組隊；"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文本文_115XS00795_29133528490.pdf",
+        "quote": "報名後經初賽篩選全國總隊數為20隊且每校至多2隊參與臺灣站決賽，每隊應有指導老師一名且須為編制內教師，同校2隊指導老師可為同一人。"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文附件_附件一_H2GPTW2027參加流程說明_1_29133528490.pdf",
+        "quote": "四、說明會後若確認有參與意願，續填寫線上報名表、上傳在學證明及編制內教師證明，同時將參賽具結書、參賽動機說明填寫並親簽完成掃描後"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "other",
+      "label": "線上說明會議",
+      "date": "2026-11-04",
+      "time": "14:30",
+      "original": "2026年11月4日下午2:30",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文本文_115XS00795_29133528490.pdf",
+          "quote": "(二)線上說明會議：2026年11月4日下午2:30。"
+        }
+      ]
+    },
+    {
+      "kind": "registration_deadline",
+      "label": "隊伍報名截止",
+      "date": "2026-12-14",
+      "time": "12:00",
+      "original": "2026年11月4日至12月14日中午12:00整",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文本文_115XS00795_29133528490.pdf",
+          "quote": "(三)隊伍報名：2026年11月4日至12月14日中午12:00整，逾時不再接受報名。"
+        }
+      ]
+    },
+    {
+      "kind": "shortlist_announcement",
+      "label": "初選預計公告",
+      "date": "2027-01-04",
+      "time": null,
+      "original": "2027年1月4日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文本文_115XS00795_29133528490.pdf",
+          "quote": "(四)初選預計公告：2027年1月4日。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "教師培訓活動",
+      "date": "2027-01-16",
+      "time": "09:00",
+      "original": "2027年1月16日上午9:00至下午4:00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文本文_115XS00795_29133528490.pdf",
+          "quote": "(五)教師培訓活動：2027年1月16日上午9:00至下午4:00（地點另行公告）。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "臺灣站決賽（暫定）",
+      "date": "2027-05-01",
+      "time": null,
+      "original": "2027年5月1-2日（暫定）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文本文_115XS00795_29133528490.pdf",
+          "quote": "(七)H2GP Taiwan 2027大獎賽臺灣站決賽：2027年5月1-2日（暫定）。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名與初選",
+      "what": "線上報名表、在學證明、編制內教師證明，以及親簽掃描之參賽具結書與參賽動機說明 PDF",
+      "how": "online"
+    },
+    {
+      "stage": "臺灣站決賽（入選 20 隊）",
+      "what": "設計並改裝氫燃料電池遙控車參與現場競賽",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "finalists",
+    "where": "國立高雄科技大學建工校區（暫定）",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文本文_115XS00795_29133528490.pdf",
+        "quote": "報名後經初賽篩選全國總隊數為20隊且每校至多2隊參與臺灣站決賽"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文本文_115XS00795_29133528490.pdf",
+        "quote": "五、活動地點：臺灣站決賽及教師培訓活動預計於國立高雄科技大學建工校區舉行，實際舉辦地點請依大會最後公告為準。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文本文_115XS00795_29133528490.pdf",
+        "quote": "三、活動方式：無需繳交報名費及相關訓練課程費用。"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "參賽隊伍可獲得參賽證明，前三名頒發獎牌，全國第一名代表臺灣參加世界總決賽。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文本文_115XS00795_29133528490.pdf",
+        "quote": "六、活動獎勵：參賽隊伍可獲得參賽證明，前三名頒發獎牌以資獎勵，全國第一名並將代表臺灣參加世界總決賽（確切時間及地點待世界總決賽主辦單位公告）。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文本文_115XS00795_29133528490.pdf"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文附件_附件一_H2GPTW2027參加流程說明_1_29133528490.pdf"
+      }
+    ]
+  },
+  "links": {
+    "official": null,
+    "rules": [
+      {
+        "title": "國立高雄科技大學來文本文",
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文本文_115XS00795_29133528490.pdf"
+      },
+      {
+        "title": "附件一：H2GP Taiwan 2027 參加流程說明",
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文附件_附件一_H2GPTW2027參加流程說明_1_29133528490.pdf"
+      }
+    ],
+    "registration": null
+  },
+  "found_via": [
+    {
+      "name": "www.nknush.kh.edu.tw",
+      "url": "https://www.nknush.kh.edu.tw/announcement/high-school-news/22103/%e5%85%ac%e5%91%8ah2gp-taiwan-2027%e5%a4%a7%e7%8d%8e%e8%b3%bd%ef%bc%8d%e5%85%a8%e7%90%83%e6%9c%80%e5%a4%a7%e8%b7%a8%e5%ad%b8%e7%a7%91%e6%b0%ab%e8%83%bd%e6%95%99%e8%82%b2%e6%b4%bb%e5%8b%95%e8%a8%ad/"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-21",
+    "method": "single",
+    "unread": [
+      "說明會參加報名表",
+      "線上報名表",
+      "參賽具結書",
+      "參賽動機說明",
+      "H2GP TAIWAN 官方 LINE 帳號 QR Code"
+    ],
+    "note": null,
+    "readers": [
+      "gemini-4-hydrogen-medium"
+    ]
+  },
+  "first_seen": "2026-11-20",
+  "updated": "2026-11-20",
+  "level": "checked",
+  "url": "https://workingyuanyuan.github.io/tw-hs-contests/contests/2026-nkust-h2gp-taiwan/",
+  "markdown": "https://workingyuanyuan.github.io/tw-hs-contests/contests/2026-nkust-h2gp-taiwan.md"
+}

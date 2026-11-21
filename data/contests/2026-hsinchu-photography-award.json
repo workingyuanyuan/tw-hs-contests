@@ -1,0 +1,187 @@
+{
+  "schema": 1,
+  "id": "2026-hsinchu-photography-award",
+  "title": "2026第二屆新竹攝影獎",
+  "edition": "第二屆",
+  "summary": "海內外攝影愛好者依不限題材拍攝並沖放8×12吋相片，每人最多10張連同題名表郵寄參賽，入選以上須補交電子檔。",
+  "organizers": [
+    {
+      "name": "新竹縣樹杞林攝影學會",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "美術"
+  ],
+  "eligibility": {
+    "levels": [
+      "國小",
+      "國中",
+      "高中",
+      "高職",
+      "五專",
+      "大專",
+      "社會人士"
+    ],
+    "division": "mixed",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": 1,
+    "teacher": "none",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://shuqilin.blogspot.com/2026/07/2026_0337696560.html",
+        "quote": "1、參賽資格:凡愛好攝影的海内外人士均可參加"
+      },
+      {
+        "url": "https://shuqilin.blogspot.com/2026/07/2026_0337696560.html",
+        "quote": "4、參賽張數:每人最多10張"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "submission_deadline",
+      "label": "收件截止",
+      "date": "2026-11-25",
+      "time": null,
+      "original": "2026年9月10日〜11月25日止(送達為止)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://shuqilin.blogspot.com/2026/07/2026_0337696560.html",
+          "quote": "5、收件日期:2026年9月10日〜11月25日止(送達為止)"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "評審日期（預定）",
+      "date": "2026-12-05",
+      "time": null,
+      "original": "預定2026年12月5日(六)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://shuqilin.blogspot.com/2026/07/2026_0337696560.html",
+          "quote": "五、評審日期:預定2026年12月5日(六)"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "頒獎日期（預定）",
+      "date": "2026-12-19",
+      "time": null,
+      "original": "預定2026年12月19日(六)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://shuqilin.blogspot.com/2026/07/2026_0337696560.html",
+          "quote": "六、頒獎日期:預定2026年12月19日(六)第四次理、監事會暨新竹攝影獎頒獎"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "初賽送件",
+      "what": "8×12 吋彩色或黑白相片（不得裝裱、不留白邊，背面貼題名表），每人最多 10 張，厚紙板保護郵寄",
+      "how": "mail"
+    },
+    {
+      "stage": "入選以上補件",
+      "what": "調整前原始檔（限 RAW）及調整後作品檔（Tiff 或 JPG，至少 1200 萬像素）電子檔",
+      "how": "online"
+    }
+  ],
+  "attendance": {
+    "value": "none",
+    "where": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://shuqilin.blogspot.com/2026/07/2026_0337696560.html"
+      },
+      {
+        "url": "https://bhuntr.com/tw/competitions/mrlqqv9gpa1vplh923"
+      }
+    ]
+  },
+  "fee": {
+    "value": "required",
+    "amount": "會員每人新台幣 500 元、非會員每人新台幣 700 元、海外參加者美金 20 元／人民幣 150 元",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://shuqilin.blogspot.com/2026/07/2026_0337696560.html",
+        "quote": "7、參賽費用:參加者會員每人新台幣500元、非會員每人新台幣700元"
+      },
+      {
+        "url": "https://shuqilin.blogspot.com/2026/07/2026_0337696560.html",
+        "quote": "海外参加者美金20元/人民幣150元， 轉帳匯款户名:新竹林樹杞林攝影學會"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "新竹攝影獎 1 名：獎狀、獎金 30,000 元；優選獎 1 名：獎狀、獎金 5,000 元；佳作獎 3 名：各得獎狀、獎金 2,000 元；入選獎 9 名：各得獎狀、獎金 1,000 元。佳作以上加贈學會年費 1 年資格（非會員須繳入會費 300 元）；入選以上加贈贊助禮品及年鑑（須繳優惠製版費 700 元）。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://shuqilin.blogspot.com/2026/07/2026_0337696560.html",
+        "quote": "新竹攝影獎一名:獨得獎狀一纸、獎金新台幣30,000元"
+      },
+      {
+        "url": "https://shuqilin.blogspot.com/2026/07/2026_0337696560.html",
+        "quote": "優選獎一名:獨得獎狀一纸、獎金新台幣5,000元"
+      },
+      {
+        "url": "https://shuqilin.blogspot.com/2026/07/2026_0337696560.html",
+        "quote": "佳作獎三名:各得獎狀一纸、獎金新台幣2,000元"
+      },
+      {
+        "url": "https://shuqilin.blogspot.com/2026/07/2026_0337696560.html",
+        "quote": "入選獎九名:各得獎狀一紙、獎金新台幣1,000元"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "banned",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://shuqilin.blogspot.com/2026/07/2026_0337696560.html",
+        "quote": "不得翻拍、複製、簽名、重曝及各類美工合成等方式處理影像、亦不得使用AI生成之圖像後製軟體合成及改造(包含增加或減少原始影像的元素)。"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://shuqilin.blogspot.com/2026/07/2026_0337696560.html",
+    "rules": [],
+    "registration": null
+  },
+  "found_via": [
+    {
+      "name": "獎金獵人刊登頁",
+      "url": "https://bhuntr.com/tw/competitions/mrlqqv9gpa1vplh923"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-21",
+    "method": "dual",
+    "unread": [
+      "題名表（附表圖片）"
+    ],
+    "note": null,
+    "readers": [
+      "gemini-4-hydrogen-medium",
+      "gpt-6.1-sol"
+    ]
+  },
+  "first_seen": "2026-11-20",
+  "updated": "2026-11-20"
+}

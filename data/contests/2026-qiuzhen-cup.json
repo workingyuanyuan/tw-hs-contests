@@ -1,0 +1,197 @@
+{
+  "schema": 1,
+  "id": "2026-qiuzhen-cup",
+  "title": "求真盃全國高中商管個案競賽",
+  "edition": "2026",
+  "summary": "4 至 6 人組隊到東海大學，當天拿到企業個案，限時分析、製作簡報並上台答詢。",
+  "organizers": [
+    {
+      "name": "路思義文教協會",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "商管與行銷"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職"
+    ],
+    "division": "hs_only",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 4,
+    "team_max": 6,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://wodewangzhan-7nf60w.webnode.page/",
+        "quote": "報名資格:全國高中職學生(須提供學生在學證明)"
+      },
+      {
+        "url": "https://wodewangzhan-7nf60w.webnode.page/",
+        "quote": "每校最多ˇ2隊，每隊4-6人（正式上台 4 人）"
+      },
+      {
+        "url": "https://wodewangzhan-7nf60w.webnode.page/",
+        "quote": "競賽名額：36 隊，額滿為止"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "報名截止",
+      "date": "2026-11-20",
+      "time": null,
+      "original": "報名期間:2026/08/31-11/20",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://wodewangzhan-7nf60w.webnode.page/",
+          "quote": "報名期間:2026/08/31-11/20"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "初賽",
+      "date": "2026-12-12",
+      "time": null,
+      "original": "競賽日期:2026/12/12、13",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://wodewangzhan-7nf60w.webnode.page/",
+          "quote": "競賽日期:2026/12/12、13"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "決賽",
+      "date": "2026-12-13",
+      "time": null,
+      "original": "STEP 5｜晉級決賽 12/13",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://wodewangzhan-7nf60w.webnode.page/",
+          "quote": "STEP 5｜晉級決賽 12/13"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "競賽當日",
+      "what": "現場完成的個案分析簡報，4 人上台報告並答詢",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "東海大學管理學院",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://wodewangzhan-7nf60w.webnode.page/",
+        "quote": "競賽地點:東海大學管理學院"
+      },
+      {
+        "url": "https://wodewangzhan-7nf60w.webnode.page/",
+        "quote": "比賽當日，大會將公布競賽個案，各隊需在有限時間內完成分析、擬定策略並製作簡報，向專業評審進行成果發表"
+      }
+    ]
+  },
+  "fee": {
+    "value": "deposit",
+    "amount": "保證金 1,000 元，競賽當天歸還",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://wodewangzhan-7nf60w.webnode.page/",
+        "quote": "保證金:1000元(於競賽當天歸還)"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "特優 15,000 元、優勝 10,000 元、佳作 5,000 元，皆附獎狀與獎牌；殿軍得獎狀、獎牌與獎品。名次只頒給進入複賽的隊伍。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://wodewangzhan-7nf60w.webnode.page/%e7%8d%8e%e9%87%912/",
+        "quote": "僅提供進入複賽隊伍"
+      },
+      {
+        "url": "https://wodewangzhan-7nf60w.webnode.page/%e7%8d%8e%e9%87%912/",
+        "quote": "特優（冠軍）：獎狀+獎牌+15,000元"
+      },
+      {
+        "url": "https://wodewangzhan-7nf60w.webnode.page/%e7%8d%8e%e9%87%912/",
+        "quote": "優勝（亞軍）：獎狀+獎牌+10,000元"
+      },
+      {
+        "url": "https://wodewangzhan-7nf60w.webnode.page/%e7%8d%8e%e9%87%912/",
+        "quote": "佳作（季軍）：獎狀+獎牌+5,000元"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "allowed",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://wodewangzhan-7nf60w.webnode.page/%e9%97%9c%e6%96%bc%e6%88%91%e5%80%91/",
+        "quote": "求真盃採 AI 開放使用制度，參賽者可以選擇適合自己的 AI 工具協助分析。"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://wodewangzhan-7nf60w.webnode.page/",
+    "rules": [
+      {
+        "title": "比賽資訊",
+        "url": "https://wodewangzhan-7nf60w.webnode.page/%e6%af%94%e8%b3%bd%e8%b3%87%e8%a8%8a/"
+      },
+      {
+        "title": "獎金資訊",
+        "url": "https://wodewangzhan-7nf60w.webnode.page/%e7%8d%8e%e9%87%912/"
+      },
+      {
+        "title": "關於我們",
+        "url": "https://wodewangzhan-7nf60w.webnode.page/%e9%97%9c%e6%96%bc%e6%88%91%e5%80%91/"
+      },
+      {
+        "title": "常見問題",
+        "url": "https://wodewangzhan-7nf60w.webnode.page/%e5%b8%b8%e8%a6%8bq-a/"
+      }
+    ],
+    "registration": null
+  },
+  "found_via": [
+    {
+      "name": "斗六高中轉知公告",
+      "url": "https://www.tlsh.ylc.edu.tw/2026/10/21/68304/"
+    }
+  ],
+  "conflict": "官網首頁寫競賽日期是 2026/12/12、13，同站「比賽資訊」頁寫 2026 年 11 月 14 日及 15 日；本頁採首頁的日期。",
+  "verification": {
+    "last_verified": "2026-11-18",
+    "method": "single",
+    "unread": [
+      "競賽規則",
+      "報到須知",
+      "評分標準",
+      "晉級方式",
+      "報名管道"
+    ],
+    "note": null
+  },
+  "first_seen": "2026-11-16",
+  "updated": "2026-11-18"
+}

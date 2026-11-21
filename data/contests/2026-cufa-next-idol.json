@@ -1,0 +1,137 @@
+{
+  "schema": 1,
+  "id": "2026-cufa-next-idol",
+  "title": "2026《NEXT IDOL》KPOP偶像舞蹈大賽",
+  "edition": "2026",
+  "summary": "2008 至 2011 年出生之青少年報名參加，依官方舞蹈版本進行 KPOP 完整舞蹈還原演出並現場評選。",
+  "organizers": [
+    {
+      "name": "崇右學校財團法人崇右影藝科技大學表演藝術系",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "表演藝術"
+  ],
+  "eligibility": {
+    "levels": [
+      "國中",
+      "高中",
+      "高職",
+      "五專"
+    ],
+    "division": "unknown",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": null,
+    "team_max": null,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.taivs.tp.edu.tw/content?a=T0RESVQwUkZlazVVYTNoTmFsRTl3c21lT0J6YTY1RWUwc0dWaW50ZWx5",
+        "quote": "(四)參賽資格：2008年至2011年間出生之青少年。"
+      },
+      {
+        "url": "https://www.taivs.tp.edu.tw/content?a=T0RESVQwUkZlazVVYTNoTmFsRTl3c21lT0J6YTY1RWUwc0dWaW50ZWx5",
+        "quote": "三、活動詳細內容、報名方式及競賽相關規定，請參閱官方Instagram（@kpopbase.tw），線上報名網址： https://forms.gle/j2VFd5jFNv4MoaUv7。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "報名截止",
+      "date": "2026-12-06",
+      "time": "23:59",
+      "original": "115年12月6日（星期日）下午11時 59分止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.taivs.tp.edu.tw/content?a=T0RESVQwUkZlazVVYTNoTmFsRTl3c21lT0J6YTY1RWUwc0dWaW50ZWx5",
+          "quote": "(六)報名期間：即日起至115年12月6日（星期日）下午11時 59分止。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "活動日期",
+      "date": "2026-12-20",
+      "time": "14:00",
+      "original": "115年12月20日（星期日）下午2時至5時",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.taivs.tp.edu.tw/content?a=T0RESVQwUkZlazVVYTNoTmFsRTl3c21lT0J6YTY1RWUwc0dWaW50ZWx5",
+          "quote": "(二)活動日期：115年12月20日（星期日）下午2時至5時。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "競賽",
+      "what": "依 KPOP 官方舞蹈版本進行完整舞蹈還原演出",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "崇右影藝科技大學（基隆市信義區義七路40號）",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.taivs.tp.edu.tw/content?a=T0RESVQwUkZlazVVYTNoTmFsRTl3c21lT0J6YTY1RWUwc0dWaW50ZWx5",
+        "quote": "(三)活動地點：崇右影藝科技大學（基隆市信義區義七路40 號）。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.taivs.tp.edu.tw/content?a=T0RESVQwUkZlazVVYTNoTmFsRTl3c21lT0J6YTY1RWUwc0dWaW50ZWx5",
+        "quote": "(七)報名費用：全程免費。"
+      }
+    ]
+  },
+  "prizes": {
+    "text": null,
+    "basis": "unread",
+    "evidence": []
+  },
+  "ai_policy": {
+    "value": "unknown",
+    "basis": "unread",
+    "evidence": []
+  },
+  "links": {
+    "official": null,
+    "rules": [],
+    "registration": "https://forms.gle/j2VFd5jFNv4MoaUv7"
+  },
+  "found_via": [
+    {
+      "name": "www.taivs.tp.edu.tw",
+      "url": "https://www.taivs.tp.edu.tw/content?a=T0RESVQwUkZlazVVYTNoTmFsRTl3c21lT0J6YTY1RWUwc0dWaW50ZWx5"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-21",
+    "method": "single",
+    "unread": [
+      "官方Instagram（@kpopbase.tw）之活動詳細內容、報名方式及競賽相關規定"
+    ],
+    "note": "第二次讀取沒有確認：參賽對象、推薦",
+    "readers": [
+      "gemini-4-hydrogen-medium",
+      "gpt-6.1-sol"
+    ]
+  },
+  "first_seen": "2026-11-20",
+  "updated": "2026-11-21"
+}

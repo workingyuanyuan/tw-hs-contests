@@ -1,0 +1,182 @@
+{
+  "schema": 1,
+  "id": "2027-cyut-smart-care-essay",
+  "title": "2026 全國高中職學校小論文競賽：智慧照顧與高齡創新生活",
+  "edition": "2026",
+  "summary": "2 至 6 名高中職生在指導老師帶領下，針對智慧照顧與高齡創新生活主題線上繳交 4 至 10 頁小論文。",
+  "organizers": [
+    {
+      "name": "臺灣高齡學習與服務管理學會",
+      "role": "主辦"
+    },
+    {
+      "name": "朝陽科技大學銀髮產業管理系",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "醫護與照顧",
+    "社會人文",
+    "語文與寫作"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職"
+    ],
+    "division": "hs_only",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 2,
+    "team_max": 6,
+    "teacher": "required",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/1qr2wnRUYEU35w8WlMiR-hxxIzxMpn6NL/view",
+        "quote": "全國各公私立高中職在籍學生（不限科系、學程與年級，普通高中、技術型高中、綜合高中皆可報名參加）。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1qr2wnRUYEU35w8WlMiR-hxxIzxMpn6NL/view",
+        "quote": "參賽團隊每隊 2 至 6 人為限，可跨班、跨科系或跨校組隊。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1qr2wnRUYEU35w8WlMiR-hxxIzxMpn6NL/view",
+        "quote": "每隊均須設指導老師，每隊以 1 至 2 名指導老師為限。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1qr2wnRUYEU35w8WlMiR-hxxIzxMpn6NL/view",
+        "quote": "一律採線上網路報名與資料上傳，不接受紙本寄送。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "submission_deadline",
+      "label": "投稿收件截止",
+      "date": "2027-01-11",
+      "time": "12:00",
+      "original": "2027 年1 月11 日（一）中午 12:00 止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://drive.google.com/file/d/1qr2wnRUYEU35w8WlMiR-hxxIzxMpn6NL/view",
+          "quote": "（一）投稿收件截止日期：即日起至 2027 年1 月11 日（一）中午 12:00 止（以系統收件時間為準，逾期恕不受理）。"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "公告評審成績與獲獎名單",
+      "date": "2027-01-18",
+      "time": "17:00",
+      "original": "2027 年 1 月18 日（一）下午 17:00 前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://drive.google.com/file/d/1qr2wnRUYEU35w8WlMiR-hxxIzxMpn6NL/view",
+          "quote": "（二）公告評審成績與獲獎名單：2027 年 1 月18 日（一）下午 17:00 前公告於朝陽科大銀髮產業管理系網站，並同步以 E-mail 通知得獎團隊代表。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名及投稿",
+      "what": "個人資料同意書掃描 PDF、投稿者基本資料暨授權書掃描 PDF、4 至 10 頁匿名小論文全文（.docx 或 .pdf）",
+      "how": "online"
+    }
+  ],
+  "attendance": {
+    "value": "none",
+    "where": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/1qr2wnRUYEU35w8WlMiR-hxxIzxMpn6NL/view"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/1qr2wnRUYEU35w8WlMiR-hxxIzxMpn6NL/view"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "第一名（1 隊）獎金 3,000 元及每位隊員獎狀；第二名（1 隊）獎金 2,000 元及每位隊員獎狀；第三名（1 隊）獎金 1,000 元及每位隊員獎狀；佳作若干名每位隊員獎狀；獲獎隊伍指導老師致贈優秀指導證明。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/1qr2wnRUYEU35w8WlMiR-hxxIzxMpn6NL/view",
+        "quote": "1. 第一名（1 隊）：頒發獎金新臺幣 3,000 元及每位隊員教育部認可規格之得獎獎狀乙紙。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1qr2wnRUYEU35w8WlMiR-hxxIzxMpn6NL/view",
+        "quote": "2. 第二名（1 隊）：頒發獎金新臺幣 2,000 元及每位隊員得獎獎狀乙紙。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1qr2wnRUYEU35w8WlMiR-hxxIzxMpn6NL/view",
+        "quote": "3. 第三名（1 隊）：頒發獎金新臺幣 1,000 元及每位隊員得獎獎狀乙紙。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1qr2wnRUYEU35w8WlMiR-hxxIzxMpn6NL/view",
+        "quote": "4. 佳作（擇優錄取若干名）：頒發每位隊員得獎獎狀乙紙。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1qr2wnRUYEU35w8WlMiR-hxxIzxMpn6NL/view",
+        "quote": "（二）指導老師獎勵：所有獲獎隊伍之指導老師，每位致贈「優秀指導證明」乙紙，以茲感謝與表彰教學指導貢獻。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "restricted",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/1qr2wnRUYEU35w8WlMiR-hxxIzxMpn6NL/view",
+        "quote": "（二）生成式 AI 使用規範：參賽作品若運用生成式 AI 工具輔助發想、潤飾或資料檢索，應於內文中明確揭露工具名稱與使用範圍，小論文主體分析與實徵探究應由參賽成員親自完成。"
+      }
+    ]
+  },
+  "links": {
+    "official": null,
+    "rules": [
+      {
+        "title": "競賽簡章",
+        "url": "https://drive.google.com/file/d/1qr2wnRUYEU35w8WlMiR-hxxIzxMpn6NL/view"
+      }
+    ],
+    "registration": "https://forms.gle/qopbaCfrtzFpnUDj8"
+  },
+  "found_via": [
+    {
+      "name": "競賽簡章 PDF（Google Drive，斗六高中轉發附件）",
+      "url": "https://drive.google.com/file/d/1qr2wnRUYEU35w8WlMiR-hxxIzxMpn6NL/view"
+    },
+    {
+      "name": "斗六高中轉發公告",
+      "url": "https://www.tlsh.ylc.edu.tw/2026/11/17/69286/"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-21",
+    "method": "single",
+    "unread": [],
+    "note": null,
+    "readers": [
+      "gemini-4-hydrogen-medium"
+    ]
+  },
+  "first_seen": "2026-11-20",
+  "updated": "2026-11-20",
+  "level": "checked",
+  "url": "https://workingyuanyuan.github.io/tw-hs-contests/contests/2027-cyut-smart-care-essay/",
+  "markdown": "https://workingyuanyuan.github.io/tw-hs-contests/contests/2027-cyut-smart-care-essay.md"
+}

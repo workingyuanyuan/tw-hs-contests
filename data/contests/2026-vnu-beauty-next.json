@@ -1,0 +1,210 @@
+{
+  "schema": 1,
+  "id": "2026-vnu-beauty-next",
+  "title": "BEAUTY NEXT 2026 美麗新世代－全國創新美業 × 寵物美容大賽",
+  "edition": "2026",
+  "summary": "高中職與大專學生參加美業創新或寵物美容競賽，靜態組當日現場擺放作品，動態組現場實作評分。",
+  "organizers": [
+    {
+      "name": "萬能科技大學",
+      "role": "主辦"
+    },
+    {
+      "name": "萬能科技大學時尚造型設計暨表演藝術系",
+      "role": "承辦"
+    },
+    {
+      "name": "各高中職相關科系",
+      "role": "協辦"
+    },
+    {
+      "name": "VIVI MAKEUP STUDIO",
+      "role": "協辦"
+    },
+    {
+      "name": "多彩多姿管理認證聯盟頭皮管理",
+      "role": "協辦"
+    },
+    {
+      "name": "KCT 社團法人台灣畜犬協會",
+      "role": "協辦"
+    }
+  ],
+  "categories": [
+    "技藝與技能",
+    "設計"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職",
+      "大專"
+    ],
+    "division": "mixed",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": null,
+    "team_max": null,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/1uPFm1bGd5Mia6lqeVIqcWtCPRjp58PMq/view?usp=sharing",
+        "quote": "二、 競賽對象：各高中職、大專院校"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1uPFm1bGd5Mia6lqeVIqcWtCPRjp58PMq/view?usp=sharing",
+        "quote": "各組報名皆以網路報名系統，或紙本團體報名方式提交。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "報名截止",
+      "date": "2026-11-25",
+      "time": "23:59",
+      "original": "即日期至2026 年11 月 25 日晚間23:59 時止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://drive.google.com/file/d/1uPFm1bGd5Mia6lqeVIqcWtCPRjp58PMq/view?usp=sharing",
+          "quote": "報名日期：即日期至2026 年11 月 25 日晚間23:59 時止。"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "靜態作品繳交",
+      "date": "2026-12-09",
+      "time": "10:00",
+      "original": "2026/12/09，早上10：00 前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://drive.google.com/file/d/1uPFm1bGd5Mia6lqeVIqcWtCPRjp58PMq/view?usp=sharing",
+          "quote": "靜態作品繳交於：2026/12/09，早上10：00 前擺放就位。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "競賽日期",
+      "date": "2026-12-09",
+      "time": "08:00",
+      "original": "2026 年12 月9 日(星期三）08:00-16:30",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://drive.google.com/file/d/1uPFm1bGd5Mia6lqeVIqcWtCPRjp58PMq/view?usp=sharing",
+          "quote": "三、 競賽日期︰2026 年12 月9 日(星期三）08:00-16:30"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "靜態類組",
+      "what": "依組別自備乙級華麗新娘妝紙圖、沙龍凝膠美甲 5 甲片（含 4*6 相框）、霧眉假皮一對或創意美睫假人頭作品",
+      "how": "onsite"
+    },
+    {
+      "stage": "動態類組（美髮、美容、寵物美容）",
+      "what": "依組別於現場進行美髮燙髮/整髮（假人頭）、真人時尚新娘/創意舞台整體造型或寵物擬真狗美容實作",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "萬能科技大學 中山堂",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/1uPFm1bGd5Mia6lqeVIqcWtCPRjp58PMq/view?usp=sharing",
+        "quote": "四、 競賽地點：萬能科技大學 中山堂"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1uPFm1bGd5Mia6lqeVIqcWtCPRjp58PMq/view?usp=sharing",
+        "quote": "靜態組作品須於競賽前完成，並請選手於競賽當天自行保護，並於10：00 放入評分區。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "required",
+    "amount": "高中職校學生憑學生證免報名費；大專學生憑學生證每組 600 元",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/1uPFm1bGd5Mia6lqeVIqcWtCPRjp58PMq/view?usp=sharing",
+        "quote": "□高中職校學生憑學生證免報名費"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1uPFm1bGd5Mia6lqeVIqcWtCPRjp58PMq/view?usp=sharing",
+        "quote": "□大專學生憑學生證每組600 元"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "每組人數滿 15 人頒發獎金、獎盃與獎狀，未滿 15 人取前三名發放獎狀。美髮動態類、美容動態類及寵物美容類冠軍 3,000 元、亞軍 2,000 元、季軍 1,000 元；靜態類冠軍 2,000 元、亞軍 1,000 元、季軍 500 元。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/1uPFm1bGd5Mia6lqeVIqcWtCPRjp58PMq/view?usp=sharing",
+        "quote": "九、競賽獎勵：每組人數滿15 人採競賽獎勵金/獎盃/獎狀發放。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1uPFm1bGd5Mia6lqeVIqcWtCPRjp58PMq/view?usp=sharing",
+        "quote": "冠軍一名 獎金$3000/獎盃/獎狀"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1uPFm1bGd5Mia6lqeVIqcWtCPRjp58PMq/view?usp=sharing",
+        "quote": "【靜態類ABCD 組項目】"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1uPFm1bGd5Mia6lqeVIqcWtCPRjp58PMq/view?usp=sharing",
+        "quote": "冠軍一名 獎金$2000/獎盃/獎狀"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/1uPFm1bGd5Mia6lqeVIqcWtCPRjp58PMq/view?usp=sharing"
+      }
+    ]
+  },
+  "links": {
+    "official": null,
+    "rules": [
+      {
+        "title": "競賽簡章",
+        "url": "https://drive.google.com/file/d/1uPFm1bGd5Mia6lqeVIqcWtCPRjp58PMq/view?usp=sharing"
+      }
+    ],
+    "registration": "https://forms.gle/RJGSM7MFYN2APZUX6"
+  },
+  "found_via": [
+    {
+      "name": "www.ksvs.kh.edu.tw",
+      "url": "https://www.ksvs.kh.edu.tw/v4/cpsub/article.php?id=12712"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-21",
+    "method": "dual",
+    "unread": [
+      "海報（無文字圖片 PDF）"
+    ],
+    "note": null,
+    "readers": [
+      "gemini-4-hydrogen-medium",
+      "gpt-6.1-sol"
+    ]
+  },
+  "first_seen": "2026-11-20",
+  "updated": "2026-11-20"
+}

@@ -1,0 +1,219 @@
+{
+  "schema": 1,
+  "id": "2026-ideax-star-challenge",
+  "title": "IdeaX創星季•創新挑戰賽",
+  "edition": "2026",
+  "summary": "不限資格，1 至 5 人可於線上提出生活痛點或針對痛點撰寫解方企劃投件，經模擬募資與評審決選角逐獎金與點數。",
+  "organizers": [
+    {
+      "name": "IdeaX 創點子",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "創業與企劃",
+    "商管與行銷"
+  ],
+  "eligibility": {
+    "levels": [
+      "國小",
+      "國中",
+      "高中",
+      "高職",
+      "五專",
+      "大專",
+      "社會人士"
+    ],
+    "division": "mixed",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": 5,
+    "teacher": "none",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://bhuntr.com/tw/competitions/62pw1n23s7cqzlwu94",
+        "quote": "一、參賽資格完全不限：不限青年或在學學生身分，社會人士、自由創客、新創團隊皆可自由參賽。"
+      },
+      {
+        "url": "https://bhuntr.com/tw/competitions/62pw1n23s7cqzlwu94",
+        "quote": "個人可獨立報名提案，亦歡迎 1 至 5 人組隊，均由該登入帳號統籌代表投件。"
+      },
+      {
+        "url": "https://bhuntr.com/tw/competitions/62pw1n23s7cqzlwu94",
+        "quote": "三、需登入 IdeaX 用戶帳號：所有參賽者須完成註冊並登入 IdeaX 創點子平台帳號，方能啟動競賽權限、提交提案、發布痛點與操作創星幣。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "other",
+      "label": "痛點徵件與提痛點報名截止",
+      "date": "2026-11-13",
+      "time": "16:30",
+      "original": "10/24 00:00 – 11/13 16:30",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://bhuntr.com/tw/competitions/62pw1n23s7cqzlwu94",
+          "quote": "一、第一階段 • 痛點徵件（10/24 00:00 – 11/13 16:30）"
+        }
+      ]
+    },
+    {
+      "kind": "registration_deadline",
+      "label": "報名截止",
+      "date": "2026-12-04",
+      "time": "16:30",
+      "original": "10/17 00:00 ~ 12/04 16:30",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://bhuntr.com/tw/competitions/62pw1n23s7cqzlwu94",
+          "quote": "報名時段 : 10/17 00:00 ~ 12/04 16:30 ( 欲提痛點之參與者請於 11/13 16:30 痛點徵件截止前完成報名 )"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "模擬募資與提案截止",
+      "date": "2026-12-04",
+      "time": "16:30",
+      "original": "11/16 10:00 – 12/04 16:30",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://bhuntr.com/tw/competitions/62pw1n23s7cqzlwu94",
+          "quote": "三、第二階段 • 模擬募資（11/16 10:00 – 12/04 16:30）：【全面開放功能】，期間持續開放報名與提案（至 12/04 16:30 截止收件）！"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "決選審查",
+      "date": "2026-12-11",
+      "time": null,
+      "original": "12/05 – 12/11",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://bhuntr.com/tw/competitions/62pw1n23s7cqzlwu94",
+          "quote": "四、第三階段 • 進入決選（12/05 – 12/11）：提案與募資收件截止，由評審團依四大維度指標進行審查。"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "公布結果",
+      "date": "2026-12-16",
+      "time": null,
+      "original": "12/16 前公布",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://bhuntr.com/tw/competitions/62pw1n23s7cqzlwu94",
+          "quote": "五、第四階段 • 公布結果（12/16 前公布）：於創星季競賽網首頁盛大公告最終得獎榜單。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "第一階段（痛點徵件）",
+      "what": "生活或產業待解決的痛點（線上提交）",
+      "how": "online"
+    },
+    {
+      "stage": "第二階段（提案）",
+      "what": "針對痛點的解方企劃（線上投件，提案資料無特定規範，決審檢視完整企劃與 BP 簡報）",
+      "how": "online"
+    }
+  ],
+  "attendance": {
+    "value": "none",
+    "where": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://bhuntr.com/tw/competitions/62pw1n23s7cqzlwu94"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://bhuntr.com/tw/competitions/62pw1n23s7cqzlwu94"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "冠軍總價值 NT$30,000（現金 NT$20,000＋8,000 點平台點數＋榮譽徽章）；亞軍總價值 NT$10,000（現金 NT$6,000＋3,200 點＋徽章）；季軍總價值 NT$5,000（現金 NT$3,000＋1,600 點＋徽章）。痛點提出過審送 200 點；痛點被前 10 名採用最高享價值 NT$1,500 好禮；推薦過審每案 300 點。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://bhuntr.com/tw/competitions/62pw1n23s7cqzlwu94",
+        "quote": "冠軍（First Prize）：總價值 NT$30,000（NT$20,000 現金 ＋ 8,000 點平台點數，點數效期 180 日 ＋ IdeaX 官方「創之星」最高榮譽徽章）。"
+      },
+      {
+        "url": "https://bhuntr.com/tw/competitions/62pw1n23s7cqzlwu94",
+        "quote": "亞軍（Second Prize）：總價值 NT$10,000（NT$6,000 現金 ＋ 3,200 點平台點數，點數效期 180 日 ＋ IdeaX 官方「創之星」榮譽徽章）。"
+      },
+      {
+        "url": "https://bhuntr.com/tw/competitions/62pw1n23s7cqzlwu94",
+        "quote": "季軍（Third Prize）：總價值 NT$5,000（NT$3,000 現金 ＋ 1,600 點平台點數，點數效期 180 日 ＋ IdeaX 官方「創之星」榮譽徽章）。"
+      },
+      {
+        "url": "https://bhuntr.com/tw/competitions/62pw1n23s7cqzlwu94",
+        "quote": "二、痛點提出獎（人人有獎）：成功提出生活或產業切身痛點（需過審），即送 200 點 IdeaX 創點子平台點數（價值 $250，效期 60 日）。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://bhuntr.com/tw/competitions/62pw1n23s7cqzlwu94"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://www.ideax.tw/challenge",
+    "rules": [
+      {
+        "title": "活動辦法（創星季官網）",
+        "url": "https://www.ideax.tw/challenge/rules"
+      }
+    ],
+    "registration": "https://www.ideax.tw/challenge/join"
+  },
+  "found_via": [
+    {
+      "name": "獎金獵人刊登頁",
+      "url": "https://bhuntr.com/tw/competitions/62pw1n23s7cqzlwu94"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-21",
+    "method": "disputed",
+    "unread": [
+      "創星季賽事官網（動態載入頁面未完全顯示）"
+    ],
+    "note": "兩次讀取的關鍵事實不一致：截止日：['2026-12-04'] 對 ['2026-11-13', '2026-12-04']",
+    "readers": [
+      "gemini-4-hydrogen-medium",
+      "gpt-6.1-sol"
+    ]
+  },
+  "first_seen": "2026-11-20",
+  "updated": "2026-11-20",
+  "level": "unverified",
+  "url": null,
+  "markdown": null
+}

@@ -1,0 +1,203 @@
+{
+  "schema": 1,
+  "id": "2027-nownews-crossroad-resilience",
+  "title": "2026年跨世代《青年就是「韌」性！》公民提案競賽",
+  "edition": "2026",
+  "summary": "高中職以上 2 至 5 人組隊，針對全社會防衛韌性繳交企畫書，入圍者須參加口試決選。",
+  "organizers": [
+    {
+      "name": "今日傳媒股份有限公司",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "社會人文",
+    "創業與企劃"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職",
+      "五專",
+      "大專"
+    ],
+    "division": "mixed",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 2,
+    "team_max": 5,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/1ps8CVLmUVvutmMKxd_B1PyOS3_HYDONB/view",
+        "quote": "目前仍就讀中華民國政府機關立案公、私立高中職以上之學校 ，每個提案團隊人數2至5人（可跨校）。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1ps8CVLmUVvutmMKxd_B1PyOS3_HYDONB/view",
+        "quote": "前往指定的表單網址，填寫繳件表單：https://forms.gle/fFwFuSaJpm7w2yC6A"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "submission_deadline",
+      "label": "繳件截止",
+      "date": "2027-01-08",
+      "time": "12:00",
+      "original": "2027 年 1 月 8 日（五）12:00 前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://drive.google.com/file/d/1ps8CVLmUVvutmMKxd_B1PyOS3_HYDONB/view",
+          "quote": "繳件截止時間：2027 年 1 月 8 日（五）12:00 前。"
+        }
+      ]
+    },
+    {
+      "kind": "shortlist_announcement",
+      "label": "入圍名單公告",
+      "date": "2027-01-25",
+      "time": null,
+      "original": "2027 年 1 月 25 日（一）前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://drive.google.com/file/d/1ps8CVLmUVvutmMKxd_B1PyOS3_HYDONB/view",
+          "quote": "入圍名單公告：2027 年 1 月 25 日（一）前公告於 NOWNEWS 今日新聞官網、NOWNEWS App 及跨世代倡議平台，請參賽者逕行上網查詢。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "口試決選會",
+      "date": "2027-02-13",
+      "time": "14:00",
+      "original": "2027 年 2 月 13 日（六）14：00～17：00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://drive.google.com/file/d/1ps8CVLmUVvutmMKxd_B1PyOS3_HYDONB/view",
+          "quote": "入圍者須參加 2027 年 2 月 13 日（六）14：00～17：00 所舉行之口試決選會。"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "獲獎名單公告",
+      "date": "2027-02-15",
+      "time": null,
+      "original": "2027 年 2 月 15 日（一）前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://drive.google.com/file/d/1ps8CVLmUVvutmMKxd_B1PyOS3_HYDONB/view",
+          "quote": "獲獎名單公告：2027 年 2 月 15 日（一）前公告於 NOWNEWS 今日新聞官網、NOWNEWS App 及跨世代倡議平台，請參賽者逕行上網查詢。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "初選繳件",
+      "what": "公民提案企畫書（依公版範本書寫，盡量不超過 10 頁）、所有組員親筆簽名授權同意書掃描檔、NOWNEWS App 個人中心截圖與使用回饋",
+      "how": "online"
+    },
+    {
+      "stage": "口試決選會（入圍者）",
+      "what": "口試簡報",
+      "how": "unknown"
+    }
+  ],
+  "attendance": {
+    "value": "finalists",
+    "where": null,
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/1ps8CVLmUVvutmMKxd_B1PyOS3_HYDONB/view",
+        "quote": "入圍者須參加 2027 年 2 月 13 日（六）14：00～17：00 所舉行之口試決選會。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/1ps8CVLmUVvutmMKxd_B1PyOS3_HYDONB/view"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "特優 1 組：獎金新台幣 5 萬元及獎狀；優選 1 組：獎金新台幣 3 萬元及獎狀；佳作 1 組：獎金新台幣 1 萬元及獎狀。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/1ps8CVLmUVvutmMKxd_B1PyOS3_HYDONB/view",
+        "quote": "特優 1 組：獎金新台幣 伍萬元整 及 獎狀。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1ps8CVLmUVvutmMKxd_B1PyOS3_HYDONB/view",
+        "quote": "優選 1 組：獎金新台幣 參萬元整 及 獎狀。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1ps8CVLmUVvutmMKxd_B1PyOS3_HYDONB/view",
+        "quote": "佳作 1 組：獎金新台幣 壹萬元整 及 獎狀。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/1ps8CVLmUVvutmMKxd_B1PyOS3_HYDONB/view"
+      }
+    ]
+  },
+  "links": {
+    "official": null,
+    "rules": [
+      {
+        "title": "競賽簡章_2026年跨世代《青年就是「韌」性！》公民提案競賽辦法",
+        "url": "https://drive.google.com/file/d/1ps8CVLmUVvutmMKxd_B1PyOS3_HYDONB/view"
+      },
+      {
+        "title": "2026公民提案競賽企劃書格式說明",
+        "url": "https://drive.google.com/file/d/1oMWU3v6FtTvlN7mq7bCKAmpAj948krzt/view"
+      },
+      {
+        "title": "2026授權使用同意書",
+        "url": "https://drive.google.com/file/d/1J0Z0A8ORBsdnBADzzRHkQKJgXI1oN6rG/view"
+      },
+      {
+        "title": "範本_2026公民提案企畫書",
+        "url": "https://drive.google.com/file/d/1gYUKFAKc7mz4ubcB9jd6JINjeS3AP2RZ/view"
+      }
+    ],
+    "registration": "https://forms.gle/fFwFuSaJpm7w2yC6A"
+  },
+  "found_via": [
+    {
+      "name": "官方競賽辦法 Google Drive 資料夾",
+      "url": "https://drive.google.com/drive/folders/1CGNhZ8flzmJCrZRFtBN3semn5GTMllXJ"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-21",
+    "method": "dual",
+    "unread": [],
+    "note": null,
+    "readers": [
+      "gemini-4-hydrogen-medium",
+      "gpt-6.1-sol"
+    ]
+  },
+  "first_seen": "2026-11-20",
+  "updated": "2026-11-20",
+  "conflict": "競賽簡章所載之報名繳件表單連結為 https://forms.gle/fFwFuSaJpm7w2yC6A，企劃書格式說明所載連結則為 https://forms.gle/dJHazwJbRDtVibrS8；本紀錄依競賽簡章為準。"
+}

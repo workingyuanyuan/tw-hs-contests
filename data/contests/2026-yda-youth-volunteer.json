@@ -1,0 +1,203 @@
+{
+  "schema": 1,
+  "id": "2026-yda-youth-volunteer",
+  "title": "青年志工行動競賽表揚計畫（青志獎）",
+  "edition": "第 4 屆",
+  "summary": "6 人以上青年志工團隊提報年度志願服務成果與佐證資料參賽，入選決選者須現場簡報。",
+  "organizers": [
+    {
+      "name": "教育部青年發展署",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "社會人文",
+    "其他"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職",
+      "大專",
+      "社會人士"
+    ],
+    "division": "separate",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 6,
+    "team_max": null,
+    "teacher": "optional",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/11/青年志工行動競賽表揚計畫（青志獎）實施計畫.pdf",
+        "quote": "團隊成員為15 歲至35 歲（如115 年度競賽為例，即民國80 年1 月1 日至民國100 年12 月31 日出生，每年度依此類推）之青年，且每隊人數6 人以上。"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/11/青年志工行動競賽表揚計畫（青志獎）實施計畫.pdf",
+        "quote": "競賽類別：分為高中職組、大專校院組及社會青年組等3 組。"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/11/青年志工行動競賽表揚計畫（青志獎）實施計畫.pdf",
+        "quote": "高中職組：成員以15 歲以上未滿18 歲之學生為主體之團隊。"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/11/青年志工行動競賽表揚計畫（青志獎）實施計畫.pdf",
+        "quote": "報名方式：請於報名截止收件日前將申請應備文件上傳至本計畫報名系統（https://youthvolunteer.yda.gov.tw/），逾期不予受理。"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/11/青年志工行動競賽表揚計畫（青志獎）實施計畫.pdf",
+        "quote": "學校、組織或指導老師之角色及所提供之資源及協助。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "報名及徵件截止",
+      "date": "2026-12-21",
+      "time": "12:00",
+      "original": "12月21日中午12時",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://youthvolunteer.yda.gov.tw/",
+          "quote": "第4屆青志獎徵件至12月21日中午12時止，歡迎有志青年提案~"
+        },
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/11/青年志工行動競賽表揚計畫（青志獎）實施計畫.pdf",
+          "quote": "每年12 月20 日中午12 時前。 ※如遇假日則順延至上班第一日。"
+        }
+      ]
+    },
+    {
+      "kind": "shortlist_announcement",
+      "label": "決選入圍名單公布",
+      "date": null,
+      "time": null,
+      "original": "次年1 月至2 月間",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/11/青年志工行動競賽表揚計畫（青志獎）實施計畫.pdf",
+          "quote": "決選入圍名單公布 次年1 月至2 月間。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "決選及頒獎",
+      "date": null,
+      "time": null,
+      "original": "次年3 月上、中旬間",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/11/青年志工行動競賽表揚計畫（青志獎）實施計畫.pdf",
+          "quote": "決選及頒獎時間 次年3 月上、中旬間。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名與書面初選",
+      "what": "檢核表與封面、報名表、服務計畫內容摘要表、團隊成員一覽表、個人資料提供同意書暨切結書、當年度服務成果資料（含 5 至 10 張服務相片）等應備文件",
+      "how": "online"
+    },
+    {
+      "stage": "簡報決選",
+      "what": "現場簡報 6 分鐘及詢答 4 分鐘（每隊參加簡報人數最多 6 人）",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "finalists",
+    "where": null,
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/11/青年志工行動競賽表揚計畫（青志獎）實施計畫.pdf",
+        "quote": "簡報決選：以現場簡報為原則。"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/11/青年志工行動競賽表揚計畫（青志獎）實施計畫.pdf",
+        "quote": "決選團隊進行現場簡報及詢答，由評選小組評分並經共識會議，決定得獎團隊名單。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/11/青年志工行動競賽表揚計畫（青志獎）實施計畫.pdf"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "青年志工團隊競賽（各組分別評選）：深耕典範獎至多 2 組各 10 萬元及獎座、海外及國內參訪機會；青年志霸獎每組 1 名 5 萬元及獎座、海外參訪機會；績優服務獎每組 3 至 4 名各 4 萬元及獎座、海外參訪機會；志能運用獎每組 3 至 5 名各 3 萬元及國內參訪機會；樂苗新秀獎每組 1 至 3 名各 2 萬元；佳行獎（進入決選未入選上述獎項者）1 萬元；各得獎團隊成員頒給獎狀 1 張，指導老師頒發感謝狀，另設績優指導獎頒發獎座。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/11/青年志工行動競賽表揚計畫（青志獎）實施計畫.pdf",
+        "quote": "擇優頒發「深耕典範獎」（每屆至多2 組），給予10 萬元獎勵金、獎座及國內外參訪機會"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/11/青年志工行動競賽表揚計畫（青志獎）實施計畫.pdf",
+        "quote": "以上各獎項得獎團隊提報之成員，頒給獎狀1 張。"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/2026/11/12/%e3%80%90%e8%bd%89%e7%9f%a5%e3%80%91%e7%ac%ac4%e5%b1%86%e3%80%8c%e9%9d%92%e5%b9%b4%e5%bf%97%e5%b7%a5%e8%a1%8c%e5%8b%95%e7%ab%b6%e8%b3%bd%e8%a1%a8%e6%8f%9a%e8%a8%88%e7%95%ab%ef%bc%88%e9%9d%92%e5%bf%97/",
+        "quote": "各組得獎團隊依獎項頒發獎座、獎狀，最高可獲得新臺幣（以下同）10萬元獎金。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/11/青年志工行動競賽表揚計畫（青志獎）實施計畫.pdf"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://youthvolunteer.yda.gov.tw/",
+    "rules": [
+      {
+        "title": "青年志工行動競賽表揚計畫（青志獎）實施計畫",
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/11/青年志工行動競賽表揚計畫（青志獎）實施計畫.pdf"
+      }
+    ],
+    "registration": "https://youthvolunteer.yda.gov.tw/content/competition_04_00.php"
+  },
+  "found_via": [
+    {
+      "name": "青年志工網站線上申請",
+      "url": "https://youthvolunteer.yda.gov.tw/"
+    },
+    {
+      "name": "教育部青年發展署青志獎官網",
+      "url": "https://youthvolunteer.yda.gov.tw/"
+    },
+    {
+      "name": "臺南女中轉知公告（含實施計畫 PDF）",
+      "url": "https://www.tngs.tn.edu.tw/2026/11/12/%e3%80%90%e8%bd%89%e7%9f%a5%e3%80%91%e7%ac%ac4%e5%b1%86%e3%80%8c%e9%9d%92%e5%b9%b4%e5%bf%97%e5%b7%a5%e8%a1%8c%e5%8b%95%e7%ab%b6%e8%b3%bd%e8%a1%a8%e6%8f%9a%e8%a8%88%e7%95%ab%ef%bc%88%e9%9d%92%e5%bf%97/"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-21",
+    "method": "single",
+    "unread": [],
+    "note": null,
+    "readers": [
+      "gemini-4-hydrogen-medium"
+    ]
+  },
+  "first_seen": "2026-11-20",
+  "updated": "2026-11-21"
+}

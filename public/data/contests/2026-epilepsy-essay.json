@@ -1,0 +1,190 @@
+{
+  "schema": 1,
+  "id": "2026-epilepsy-essay",
+  "title": "第二十四屆「人間有情-關懷癲癇」徵文比賽",
+  "edition": "第 24 屆",
+  "summary": "具中華民國國籍之社會人士及全國大專至國小學生以關懷癲癇為題，撰寫 5000 字內散文或 50 行內新詩，採紙本或電郵投稿。",
+  "organizers": [
+    {
+      "name": "台灣癲癇醫學會",
+      "role": "主辦"
+    },
+    {
+      "name": "教育部",
+      "role": "指導"
+    },
+    {
+      "name": "文化部",
+      "role": "協辦"
+    }
+  ],
+  "categories": [
+    "語文與寫作",
+    "社會人文",
+    "醫護與照顧"
+  ],
+  "eligibility": {
+    "levels": [
+      "國小",
+      "國中",
+      "高中",
+      "大專",
+      "社會人士"
+    ],
+    "division": "separate",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": 1,
+    "teacher": "none",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.epilepsy.org.tw/sites/default/files/2026-02/%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%9B%9B%E5%B1%86%E4%BA%BA%E9%96%93%E6%9C%89%E6%83%85%E9%97%9C%E6%87%B7%E7%99%B2%E7%99%87%E5%BE%B5%E6%96%87%E6%AF%94%E8%B3%BD%E8%BE%A6%E6%B3%95%E5%8F%8A%E5%A0%B1%E5%90%8D%E9%A0%88%E7%9F%A5_1.docx",
+        "quote": "一、參加對象：具中華民國國籍之社會人士及全國大專院校、高中、國中、國小之學生均可參加。"
+      },
+      {
+        "url": "https://www.epilepsy.org.tw/sites/default/files/2026-02/%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%9B%9B%E5%B1%86%E4%BA%BA%E9%96%93%E6%9C%89%E6%83%85%E9%97%9C%E6%87%B7%E7%99%B2%E7%99%87%E5%BE%B5%E6%96%87%E6%AF%94%E8%B3%BD%E8%BE%A6%E6%B3%95%E5%8F%8A%E5%A0%B1%E5%90%8D%E9%A0%88%E7%9F%A5_1.docx",
+        "quote": "癲癇朋友組： 國小組 國中組 高中組 成人組（大專以上及社會人士）"
+      },
+      {
+        "url": "https://www.epilepsy.org.tw/sites/default/files/2026-02/%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%9B%9B%E5%B1%86%E4%BA%BA%E9%96%93%E6%9C%89%E6%83%85%E9%97%9C%E6%87%B7%E7%99%B2%E7%99%87%E5%BE%B5%E6%96%87%E6%AF%94%E8%B3%BD%E8%BE%A6%E6%B3%95%E5%8F%8A%E5%A0%B1%E5%90%8D%E9%A0%88%E7%9F%A5_1.docx",
+        "quote": "社會朋友組： 國小組 國中組 高中組 成人組（大專以上及社會人士）"
+      },
+      {
+        "url": "https://www.epilepsy.org.tw/sites/default/files/2026-02/%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%9B%9B%E5%B1%86%E4%BA%BA%E9%96%93%E6%9C%89%E6%83%85%E9%97%9C%E6%87%B7%E7%99%B2%E7%99%87%E5%BE%B5%E6%96%87%E6%AF%94%E8%B3%BD%E8%BE%A6%E6%B3%95%E5%8F%8A%E5%A0%B1%E5%90%8D%E9%A0%88%E7%9F%A5_1.docx",
+        "quote": "一、每人參選作品以一篇為限。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "submission_deadline",
+      "label": "徵文截止",
+      "date": "2026-12-21",
+      "time": null,
+      "original": "115年12月21日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.epilepsy.org.tw/sites/default/files/2026-02/%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%9B%9B%E5%B1%86%E4%BA%BA%E9%96%93%E6%9C%89%E6%83%85%E9%97%9C%E6%87%B7%E7%99%B2%E7%99%87%E5%BE%B5%E6%96%87%E6%AF%94%E8%B3%BD%E8%BE%A6%E6%B3%95%E5%8F%8A%E5%A0%B1%E5%90%8D%E9%A0%88%E7%9F%A5_1.docx",
+          "quote": "二、截止日期：即日起至115年12月21日(星期一)。"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "評選結果公告",
+      "date": "2027-02-19",
+      "time": null,
+      "original": "116年2月19日前(暫訂)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.epilepsy.org.tw/sites/default/files/2026-02/%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%9B%9B%E5%B1%86%E4%BA%BA%E9%96%93%E6%9C%89%E6%83%85%E9%97%9C%E6%87%B7%E7%99%B2%E7%99%87%E5%BE%B5%E6%96%87%E6%AF%94%E8%B3%BD%E8%BE%A6%E6%B3%95%E5%8F%8A%E5%A0%B1%E5%90%8D%E9%A0%88%E7%9F%A5_1.docx",
+          "quote": "評選結果公告：116年2月19日前(暫訂)。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "投稿（紙本）",
+      "what": "5000 字以內散文或 50 行以內新詩參選作品紙本及報名表",
+      "how": "mail"
+    },
+    {
+      "stage": "投稿（E-mail）",
+      "what": "5000 字以內散文或 50 行以內新詩參選作品 Word 檔、PDF 檔及報名表",
+      "how": "online"
+    }
+  ],
+  "attendance": {
+    "value": "none",
+    "where": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.epilepsy.org.tw/sites/default/files/2026-02/%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%9B%9B%E5%B1%86%E4%BA%BA%E9%96%93%E6%9C%89%E6%83%85%E9%97%9C%E6%87%B7%E7%99%B2%E7%99%87%E5%BE%B5%E6%96%87%E6%AF%94%E8%B3%BD%E8%BE%A6%E6%B3%95%E5%8F%8A%E5%A0%B1%E5%90%8D%E9%A0%88%E7%9F%A5_1.docx"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.epilepsy.org.tw/sites/default/files/2026-02/%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%9B%9B%E5%B1%86%E4%BA%BA%E9%96%93%E6%9C%89%E6%83%85%E9%97%9C%E6%87%B7%E7%99%B2%E7%99%87%E5%BE%B5%E6%96%87%E6%AF%94%E8%B3%BD%E8%BE%A6%E6%B3%95%E5%8F%8A%E5%A0%B1%E5%90%8D%E9%A0%88%E7%9F%A5_1.docx"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "各組第一名 1 名獎金 3,000 元、第二名 1 名獎金 2,000 元、第三名 1 名獎金 1,000 元、佳作 3 名，皆贈獎狀乙面及作品集乙本。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.epilepsy.org.tw/sites/default/files/2026-02/%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%9B%9B%E5%B1%86%E4%BA%BA%E9%96%93%E6%9C%89%E6%83%85%E9%97%9C%E6%87%B7%E7%99%B2%E7%99%87%E5%BE%B5%E6%96%87%E6%AF%94%E8%B3%BD%E8%BE%A6%E6%B3%95%E5%8F%8A%E5%A0%B1%E5%90%8D%E9%A0%88%E7%9F%A5_1.docx",
+        "quote": "五、獎勵辦法：第一名 每組取一名、獎金3,000元，獎狀乙面，作品集乙本。"
+      },
+      {
+        "url": "https://www.epilepsy.org.tw/sites/default/files/2026-02/%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%9B%9B%E5%B1%86%E4%BA%BA%E9%96%93%E6%9C%89%E6%83%85%E9%97%9C%E6%87%B7%E7%99%B2%E7%99%87%E5%BE%B5%E6%96%87%E6%AF%94%E8%B3%BD%E8%BE%A6%E6%B3%95%E5%8F%8A%E5%A0%B1%E5%90%8D%E9%A0%88%E7%9F%A5_1.docx",
+        "quote": "第二名 每組取一名、獎金2,000元，獎狀乙面，作品集乙本。"
+      },
+      {
+        "url": "https://www.epilepsy.org.tw/sites/default/files/2026-02/%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%9B%9B%E5%B1%86%E4%BA%BA%E9%96%93%E6%9C%89%E6%83%85%E9%97%9C%E6%87%B7%E7%99%B2%E7%99%87%E5%BE%B5%E6%96%87%E6%AF%94%E8%B3%BD%E8%BE%A6%E6%B3%95%E5%8F%8A%E5%A0%B1%E5%90%8D%E9%A0%88%E7%9F%A5_1.docx",
+        "quote": "第三名 每組取一名、獎金1,000元，獎狀乙面，作品集乙本。"
+      },
+      {
+        "url": "https://www.epilepsy.org.tw/sites/default/files/2026-02/%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%9B%9B%E5%B1%86%E4%BA%BA%E9%96%93%E6%9C%89%E6%83%85%E9%97%9C%E6%87%B7%E7%99%B2%E7%99%87%E5%BE%B5%E6%96%87%E6%AF%94%E8%B3%BD%E8%BE%A6%E6%B3%95%E5%8F%8A%E5%A0%B1%E5%90%8D%E9%A0%88%E7%9F%A5_1.docx",
+        "quote": "佳 作 每組取三名、每名獎狀乙面，作品集乙本。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "banned",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.epilepsy.org.tw/sites/default/files/2026-02/%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%9B%9B%E5%B1%86%E4%BA%BA%E9%96%93%E6%9C%89%E6%83%85%E9%97%9C%E6%87%B7%E7%99%B2%E7%99%87%E5%BE%B5%E6%96%87%E6%AF%94%E8%B3%BD%E8%BE%A6%E6%B3%95%E5%8F%8A%E5%A0%B1%E5%90%8D%E9%A0%88%E7%9F%A5_1.docx",
+        "quote": "三、參賽作品須未曾對外發表過，亦不得抄襲或模仿，且不得使用AI人工智慧協助撰寫。"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://www.epilepsy.org.tw/news/event-information/235",
+    "rules": [
+      {
+        "title": "第二十四屆人間有情關懷癲癇徵文比賽辦法及報名須知",
+        "url": "https://www.epilepsy.org.tw/sites/default/files/2026-02/%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%9B%9B%E5%B1%86%E4%BA%BA%E9%96%93%E6%9C%89%E6%83%85%E9%97%9C%E6%87%B7%E7%99%B2%E7%99%87%E5%BE%B5%E6%96%87%E6%AF%94%E8%B3%BD%E8%BE%A6%E6%B3%95%E5%8F%8A%E5%A0%B1%E5%90%8D%E9%A0%88%E7%9F%A5_1.docx"
+      }
+    ],
+    "registration": null
+  },
+  "found_via": [
+    {
+      "name": "台灣癲癇醫學會官網",
+      "url": "https://www.epilepsy.org.tw"
+    },
+    {
+      "name": "台灣癲癇醫學會官方網站",
+      "url": "https://www.epilepsy.org.tw"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-21",
+    "method": "single",
+    "unread": [],
+    "note": null,
+    "readers": [
+      "gemini-4-hydrogen-medium"
+    ]
+  },
+  "first_seen": "2026-11-20",
+  "updated": "2026-11-20",
+  "level": "checked",
+  "url": "https://workingyuanyuan.github.io/tw-hs-contests/contests/2026-epilepsy-essay/",
+  "markdown": "https://workingyuanyuan.github.io/tw-hs-contests/contests/2026-epilepsy-essay.md"
+}

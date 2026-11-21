@@ -1,0 +1,235 @@
+{
+  "schema": 1,
+  "id": "2026-igd-ninth-creation",
+  "title": "《第九造物》遊戲狂潮設計",
+  "edition": "2026",
+  "summary": "在學學生組隊創作數位遊戲，線上繳交展示影片連結與 PDF 企劃文件，入選者須到場實機展示與簡報。",
+  "organizers": [
+    {
+      "name": "國立臺灣科技大學數位娛樂科技研究中心",
+      "role": "主辦"
+    },
+    {
+      "name": "TNDA 臺灣未來設計創業家培力聯盟",
+      "role": "主辦"
+    },
+    {
+      "name": "臺灣產學策進會",
+      "role": "承辦"
+    },
+    {
+      "name": "沐序策略行銷",
+      "role": "承辦"
+    }
+  ],
+  "categories": [
+    "資訊與 AI",
+    "設計"
+  ],
+  "eligibility": {
+    "levels": [
+      "國小",
+      "國中",
+      "高中",
+      "高職",
+      "五專",
+      "大專"
+    ],
+    "division": "mixed",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": null,
+    "team_max": null,
+    "teacher": "optional",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://igd.gamelab.com.tw/assets/files/%E7%AC%AC%E4%B9%9D%E9%80%A0%E7%89%A9_%E7%AB%B6%E8%B3%BD%E8%A6%8F%E7%A8%8B%EF%BC%88%E7%B8%BD%E5%89%87%EF%BC%89.pdf?v=c3e4a659be34",
+        "quote": "一、 參賽團隊成員皆須為115 學年度第一學期正式註冊在學之學生。"
+      },
+      {
+        "url": "https://igd.gamelab.com.tw/assets/files/%E7%AC%AC%E4%B9%9D%E9%80%A0%E7%89%A9_%E7%AB%B6%E8%B3%BD%E8%A6%8F%E7%A8%8B%EF%BC%88%E7%B8%BD%E5%89%87%EF%BC%89.pdf?v=c3e4a659be34",
+        "quote": "二、 參賽團隊須檢附學生證、在學證明或該學期註冊繳費證明，始得參賽。"
+      },
+      {
+        "url": "https://igd.gamelab.com.tw/assets/files/%E7%AC%AC%E4%B9%9D%E9%80%A0%E7%89%A9_%E7%AB%B6%E8%B3%BD%E8%A6%8F%E7%A8%8B%EF%BC%88%E7%B8%BD%E5%89%87%EF%BC%89.pdf?v=c3e4a659be34",
+        "quote": "（二）繳件方式：https://igd.gamelab.com.tw"
+      },
+      {
+        "url": "https://igd.gamelab.com.tw/assets/files/%E7%AC%AC%E4%B9%9D%E9%80%A0%E7%89%A9_%E7%AB%B6%E8%B3%BD%E8%A6%8F%E7%A8%8B%EF%BC%88%E7%B8%BD%E5%89%87%EF%BC%89.pdf?v=c3e4a659be34",
+        "quote": "二、 各組得設立隊長1 人、指導老師至少 1 人。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "報名及繳件截止",
+      "date": "2026-12-18",
+      "time": "23:59",
+      "original": "中華民國115 年11 月16 日（一）至12 月18 日（五），晚上23:59 截止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://igd.gamelab.com.tw/assets/files/%E7%AC%AC%E4%B9%9D%E9%80%A0%E7%89%A9_%E7%AB%B6%E8%B3%BD%E8%A6%8F%E7%A8%8B%EF%BC%88%E7%B8%BD%E5%89%87%EF%BC%89.pdf?v=c3e4a659be34",
+          "quote": "（一）時間：中華民國115 年11 月16 日（一）至12 月18 日（五），晚上23:59 截止，逾時不予受理。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "線上初選評測",
+      "date": "2026-12-30",
+      "time": null,
+      "original": "中華民國115年12月19日（六）至12月30日（三）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://igd.gamelab.com.tw/#/rules",
+          "quote": "初選\n日期：中華民國115年12月19日（六）至12月30日（三）"
+        }
+      ]
+    },
+    {
+      "kind": "shortlist_announcement",
+      "label": "初選入選團隊公布",
+      "date": "2026-12-31",
+      "time": null,
+      "original": "民國115 年 12 月31 日（四）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://igd.gamelab.com.tw/assets/files/%E7%AC%AC%E4%B9%9D%E9%80%A0%E7%89%A9_%E7%AB%B6%E8%B3%BD%E8%A6%8F%E7%A8%8B%EF%BC%88%E7%B8%BD%E5%89%87%EF%BC%89.pdf?v=c3e4a659be34",
+          "quote": "擬於民國115 年 12 月31 日（四），公布入選團隊。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "實體決選",
+      "date": "2027-01-08",
+      "time": null,
+      "original": "中華民國116 年01 月08 日（五）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://igd.gamelab.com.tw/assets/files/%E7%AC%AC%E4%B9%9D%E9%80%A0%E7%89%A9_%E7%AB%B6%E8%B3%BD%E8%A6%8F%E7%A8%8B%EF%BC%88%E7%B8%BD%E5%89%87%EF%BC%89.pdf?v=c3e4a659be34",
+          "quote": "三、 決選：\n（一） 日期：中華民國116 年01 月08 日（五）。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "國際 Pitch",
+      "date": "2027-05-15",
+      "time": null,
+      "original": "2027 05/13 - 05/15",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://igd.gamelab.com.tw/#/rules",
+          "quote": "2027\n05/13 - 05/15\n報名投件\n線上初選\n實體決選\n國際 Pitch"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名",
+      "what": "5 分鐘內遊戲展示影片連結、PDF 格式遊戲企劃與說明文件，及學生證、在學證明或該學期註冊繳費證明",
+      "how": "online"
+    },
+    {
+      "stage": "決選（入選 15 組）",
+      "what": "現場實機展示並提供玩家遊玩，及 10 分鐘實體評審（3 分鐘產品行銷、5 分鐘直播試玩、2 分鐘評審問答）",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "finalists",
+    "where": "臺灣當代文化實驗場，聯合餐廳 1F（台北市大安區建國南路一段177號）",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://igd.gamelab.com.tw/assets/files/%E7%AC%AC%E4%B9%9D%E9%80%A0%E7%89%A9_%E7%AB%B6%E8%B3%BD%E8%A6%8F%E7%A8%8B%EF%BC%88%E7%B8%BD%E5%89%87%EF%BC%89.pdf?v=c3e4a659be34",
+        "quote": "由評分最高之15 組進行實體決選。"
+      },
+      {
+        "url": "https://igd.gamelab.com.tw/#/rules",
+        "quote": "地點：臺灣當代文化實驗場，聯合餐廳 1F（台北市大安區建國南路一段177號）"
+      },
+      {
+        "url": "https://igd.gamelab.com.tw/assets/files/%E7%AC%AC%E4%B9%9D%E9%80%A0%E7%89%A9_%E7%AB%B6%E8%B3%BD%E8%A6%8F%E7%A8%8B%EF%BC%88%E7%B8%BD%E5%89%87%EF%BC%89.pdf?v=c3e4a659be34",
+        "quote": "1. 實體展覽－需於指定地點實機展示並提供現場玩家遊玩。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://igd.gamelab.com.tw/assets/files/%E7%AC%AC%E4%B9%9D%E9%80%A0%E7%89%A9_%E7%AB%B6%E8%B3%BD%E8%A6%8F%E7%A8%8B%EF%BC%88%E7%B8%BD%E5%89%87%EF%BC%89.pdf?v=c3e4a659be34"
+      },
+      {
+        "url": "https://igd.gamelab.com.tw/#/rules"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "年度最佳遊戲獎 1 名 10 萬元；最佳劇情獎、最佳技術獎、最佳美術獎、最佳音效獎各 1 名各 5 萬元；最佳人氣獎 1 名 3 萬元（總獎金 33 萬元）。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://igd.gamelab.com.tw/assets/files/%E7%AC%AC%E4%B9%9D%E9%80%A0%E7%89%A9_%E7%AB%B6%E8%B3%BD%E8%A6%8F%E7%A8%8B%EF%BC%88%E7%B8%BD%E5%89%87%EF%BC%89.pdf?v=c3e4a659be34",
+        "quote": "一、 年度最佳遊戲獎：1 名，獎金新台幣10 萬元整。\n二、 最佳劇情獎：1 名，獎金新台幣5 萬元整。\n三、 最佳技術獎：1 名，獎金新台幣5 萬元整。"
+      },
+      {
+        "url": "https://igd.gamelab.com.tw/assets/files/%E7%AC%AC%E4%B9%9D%E9%80%A0%E7%89%A9_%E7%AB%B6%E8%B3%BD%E8%A6%8F%E7%A8%8B%EF%BC%88%E7%B8%BD%E5%89%87%EF%BC%89.pdf?v=c3e4a659be34",
+        "quote": "四、 最佳美術獎：1 名，獎金新台幣5 萬元整。\n五、 最佳音效獎：1 名，獎金新台幣5 萬元整。\n六、 最佳人氣獎：1 名，獎金新台幣3 萬元整。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://igd.gamelab.com.tw/assets/files/%E7%AC%AC%E4%B9%9D%E9%80%A0%E7%89%A9_%E7%AB%B6%E8%B3%BD%E8%A6%8F%E7%A8%8B%EF%BC%88%E7%B8%BD%E5%89%87%EF%BC%89.pdf?v=c3e4a659be34"
+      },
+      {
+        "url": "https://igd.gamelab.com.tw/#/rules"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://igd.gamelab.com.tw",
+    "rules": [
+      {
+        "title": "《第九造物》遊戲狂潮設計競賽規程（總則）",
+        "url": "https://igd.gamelab.com.tw/assets/files/%E7%AC%AC%E4%B9%9D%E9%80%A0%E7%89%A9_%E7%AB%B6%E8%B3%BD%E8%A6%8F%E7%A8%8B%EF%BC%88%E7%B8%BD%E5%89%87%EF%BC%89.pdf?v=c3e4a659be34"
+      }
+    ],
+    "registration": "https://igd.gamelab.com.tw/#/login"
+  },
+  "found_via": [
+    {
+      "name": "獎金獵人刊登頁",
+      "url": "https://bhuntr.com/tw/competitions/tgsbfa6qftfmlqlw5k"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-21",
+    "method": "single",
+    "unread": [],
+    "note": null,
+    "readers": [
+      "gemini-4-hydrogen-medium"
+    ]
+  },
+  "first_seen": "2026-11-20",
+  "updated": "2026-11-20"
+}

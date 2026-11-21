@@ -1,0 +1,187 @@
+{
+  "schema": 1,
+  "id": "2026-nkut-innovative-marketing",
+  "title": "【行銷新思維】全國創新行銷暨小論文競賽",
+  "edition": "2026",
+  "summary": "2 至 6 人組隊就創新行銷主題郵寄或網路繳交專題、小論文或企劃作品，入圍者出席現場簡報。",
+  "organizers": [
+    {
+      "name": "南開科技大學行銷與流通管理系",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "商管與行銷",
+    "創業與企劃"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職",
+      "大專"
+    ],
+    "division": "separate",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 2,
+    "team_max": 6,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://bm.nutn.edu.tw/download/news_20261103165910.pdf",
+        "quote": "每隊由 2 至 6 人 自由組隊參賽，共分為以下兩組："
+      },
+      {
+        "url": "https://bm.nutn.edu.tw/download/news_20261103165910.pdf",
+        "quote": "高中職組： 全台高中職學生。可直接以學校已完成之「小論文」、「自主學習小專題」或「實作成果」投稿，不限書面、影片或多媒體等任何作品形式。"
+      },
+      {
+        "url": "https://bm.nutn.edu.tw/download/news_20261103165910.pdf",
+        "quote": "大學組：全國大專院校大學部學生。以「實務專題」或「企劃書」作品投稿。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "submission_deadline",
+      "label": "初賽收件截止",
+      "date": "2026-12-04",
+      "time": null,
+      "original": "12 月 4 日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://bm.nutn.edu.tw/download/news_20261103165910.pdf",
+          "quote": "初賽收件截止：12 月 4 日 (採郵寄或網路上傳 皆可)"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "決賽現場發表暨頒獎典禮",
+      "date": "2026-12-18",
+      "time": null,
+      "original": "12 月 18 日 (五)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://bm.nutn.edu.tw/download/news_20261103165910.pdf",
+          "quote": "決賽現場發表：12 月 18 日 (五) (入圍隊伍進行現場簡報審查)"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "初賽",
+      "what": "高中職組繳交小論文、自主學習小專題或實作成果（不限書面、影片或多媒體形式）；大學組繳交實務專題或企劃書",
+      "how": "online"
+    },
+    {
+      "stage": "決賽",
+      "what": "現場簡報審查",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "finalists",
+    "where": null,
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://bm.nutn.edu.tw/download/news_20261103165910.pdf",
+        "quote": "決賽現場發表：12 月 18 日 (五) (入圍隊伍進行現場簡報審查)"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://bm.nutn.edu.tw/download/news_20261103165910.pdf"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "總獎金至少 26,000 元，高中職組與大學組各設：第一名（冠軍）1 隊 5,000 元、第二名（亞軍）1 隊 3,000 元、第三名（季軍）1 隊 2,000 元、優勝 3 隊各 1,000 元、佳作若干名，皆頒發榮譽獎狀。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://bm.nutn.edu.tw/download/news_20261103165910.pdf",
+        "quote": "本競賽總獎金至少 26,000 元，高中職組與大學組各設有 6 個獲獎名額，視贊助企業與參加隊數酌予增減‧"
+      },
+      {
+        "url": "https://bm.nutn.edu.tw/download/news_20261103165910.pdf",
+        "quote": "第一名 (冠軍) 每組 1 隊 新臺幣 5,000 元 + 榮譽獎狀"
+      },
+      {
+        "url": "https://bm.nutn.edu.tw/download/news_20261103165910.pdf",
+        "quote": "第二名 (亞軍) 每組 1 隊 新臺幣 3,000 元 + 榮譽獎狀"
+      },
+      {
+        "url": "https://bm.nutn.edu.tw/download/news_20261103165910.pdf",
+        "quote": "第三名 (季軍) 每組 1 隊 新臺幣 2,000 元 + 榮譽獎狀"
+      },
+      {
+        "url": "https://bm.nutn.edu.tw/download/news_20261103165910.pdf",
+        "quote": "優勝 每組 3 隊 新臺幣 1,000 元 + 榮譽獎狀"
+      },
+      {
+        "url": "https://bm.nutn.edu.tw/download/news_20261103165910.pdf",
+        "quote": "佳作 每組 若干名 頒發榮譽獎狀"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://bm.nutn.edu.tw/download/news_20261103165910.pdf"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://nkmlm.nkut.edu.tw/front/news/news.php?ID=bmt1dF9tbG0mbmV3cw==&Sn=431",
+    "rules": [
+      {
+        "title": "活動辦法",
+        "url": "https://bm.nutn.edu.tw/download/news_20261103165910.pdf"
+      },
+      {
+        "title": "活動海報",
+        "url": "https://bm.nutn.edu.tw/download/news_20261103165927.pdf"
+      }
+    ],
+    "registration": "https://pse.is/9tafbx"
+  },
+  "found_via": [
+    {
+      "name": "南開科大行管系官網公告（含活動辦法 PDF）",
+      "url": "https://nkmlm.nkut.edu.tw/front/news/news.php?ID=bmt1dF9tbG0mbmV3cw==&Sn=431"
+    },
+    {
+      "name": "大安高工 競賽資訊 RSS",
+      "url": "https://www.taivs.tp.edu.tw/"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-21",
+    "method": "dual",
+    "unread": [
+      "競賽報名 Google 表單（需登入）"
+    ],
+    "note": null,
+    "readers": [
+      "gemini-4-hydrogen-medium",
+      "gpt-6.1-sol"
+    ]
+  },
+  "first_seen": "2026-11-20",
+  "updated": "2026-11-20"
+}

@@ -1,0 +1,221 @@
+{
+  "schema": 1,
+  "id": "2027-danjiang-bridge-photo-painting",
+  "title": "淡江大橋通車系列攝影暨繪畫比賽",
+  "edition": "2026",
+  "summary": "不限年齡與國籍皆可免費參加，攝影組線上傳照、繪畫組郵寄或親送四開紙本原稿，皆須附報名表。",
+  "organizers": [
+    {
+      "name": "交通部公路局北區公路新建工程分局",
+      "role": "主辦"
+    },
+    {
+      "name": "驊采整合行銷股份有限公司",
+      "role": "承辦"
+    }
+  ],
+  "categories": [
+    "美術",
+    "影音"
+  ],
+  "eligibility": {
+    "levels": [
+      "國小",
+      "國中",
+      "高中",
+      "高職",
+      "五專",
+      "大專",
+      "社會人士"
+    ],
+    "division": "mixed",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": 1,
+    "teacher": "none",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://contest.bhuntr.com/tw/ozumm66vptkqd53lw7",
+        "quote": "★【攝影比賽】無年齡限制，凡愛好攝影之國內外人士皆可免費參加。★【繪畫比賽】兒童組（12歲含以下）、青年組（13-18歲）、社會組（19歲含以上），不限國籍皆可免費參加。"
+      },
+      {
+        "url": "https://contest.bhuntr.com/tw/ozumm66vptkqd53lw7",
+        "quote": "▪每位參賽者於每場次可投稿最多1件作品，請自行擇優上傳。"
+      },
+      {
+        "url": "https://contest.bhuntr.com/tw/ozumm66vptkqd53lw7",
+        "quote": "（5）每人限參加一件 （入選之重複參賽者，由主辦單位擇優錄取）。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "submission_deadline",
+      "label": "攝影比賽第一階段徵件截止",
+      "date": "2026-03-31",
+      "time": null,
+      "original": "114年12月24日至115年03月31日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://contest.bhuntr.com/tw/ozumm66vptkqd53lw7",
+          "quote": "第一階段徵件時間：114年12月24日至115年03月31日"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "繪畫比賽徵件截止",
+      "date": "2026-03-31",
+      "time": null,
+      "original": "114年12月24日至115年03月31日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://contest.bhuntr.com/tw/ozumm66vptkqd53lw7",
+          "quote": "徵件時間：114年12月24日至115年03月31日"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "攝影比賽第一階段與繪畫比賽公告獲獎名單",
+      "date": "2026-04-20",
+      "time": null,
+      "original": "115年4月20日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://contest.bhuntr.com/tw/ozumm66vptkqd53lw7",
+          "quote": "（1）攝影比賽第1場與繪畫比賽的得獎名單將於115年4月20日公布至本比賽活動官方網站。"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "攝影比賽第二階段徵件截止",
+      "date": "2027-03-31",
+      "time": null,
+      "original": "115年04月01日至116年03月31日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://contest.bhuntr.com/tw/ozumm66vptkqd53lw7",
+          "quote": "第二階段徵件時間：115年04月01日至116年03月31日"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "攝影比賽第二階段公告獲獎名單",
+      "date": "2027-04-20",
+      "time": null,
+      "original": "116年04月20日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://contest.bhuntr.com/tw/ozumm66vptkqd53lw7",
+          "quote": "公告獲獎名單日期：116年04月20日"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "攝影比賽",
+      "what": "1,600 萬像素以上、20MB 以下數位影像檔（JPEG、JPG 或 PGN）及報名表（含授權同意書）",
+      "how": "online"
+    },
+    {
+      "stage": "繪畫比賽（郵寄）",
+      "what": "四開紙本平面原始手稿（±10% 內，媒材不限）及報名表（含授權同意書）",
+      "how": "mail"
+    },
+    {
+      "stage": "繪畫比賽（親送）",
+      "what": "四開紙本平面原始手稿（±10% 內，媒材不限）及報名表（含授權同意書）",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "none",
+    "where": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://contest.bhuntr.com/tw/ozumm66vptkqd53lw7"
+      },
+      {
+        "url": "https://bhuntr.com/tw/competitions/ozumm66vptkqd53lw7"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://contest.bhuntr.com/tw/ozumm66vptkqd53lw7",
+        "quote": "★【攝影比賽】無年齡限制，凡愛好攝影之國內外人士皆可免費參加。★【繪畫比賽】兒童組（12歲含以下）、青年組（13-18歲）、社會組（19歲含以上），不限國籍皆可免費參加。"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "攝影組：金獎 1 名 20,000 元、銀獎 1 名 15,000 元、銅獎 1 名 10,000 元、優獎 10 名各 5,000 元、佳作 10 名各 3,000 元。繪畫組：金獎 1 名 10,000 元、銀獎 1 名 8,000 元、銅獎 1 名 6,000 元、佳作 10 名各 3,000 元。各獎項均附獎狀 1 張。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://contest.bhuntr.com/tw/ozumm66vptkqd53lw7",
+        "quote": "攝影組（1）金獎：1名，獎金新臺幣 20,000\n元，獎狀 1\n張。（2）銀獎：1名，獎金新臺幣 15,000\n元，獎狀 1\n張。（3）銅獎：1名，獎金新臺幣 10,000\n元，獎狀 1\n張。"
+      },
+      {
+        "url": "https://contest.bhuntr.com/tw/ozumm66vptkqd53lw7",
+        "quote": "繪畫組（1）金獎：1名，獎金新台幣 10,000\n元，獎狀 1\n張。（2）銀獎：1名，獎金新台幣 8,000\n元，獎狀 1\n張。（3）銅獎：1名，獎金新台幣 6,000\n元，獎狀 1\n張。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "banned",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://contest.bhuntr.com/tw/ozumm66vptkqd53lw7",
+        "quote": "▪禁止以 AI 生成、電腦合成、翻拍、格放、疊片、裱框 等方式製作或修改影像。"
+      },
+      {
+        "url": "https://contest.bhuntr.com/tw/ozumm66vptkqd53lw7",
+        "quote": "（3）不可使用電腦繪圖或數位AI合成方式進行創作。"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://contest.bhuntr.com/tw/ozumm66vptkqd53lw7",
+    "rules": [],
+    "registration": "https://contest.bhuntr.com/tw/ozumm66vptkqd53lw7/entry/185461/185724/"
+  },
+  "found_via": [
+    {
+      "name": "獎金獵人刊登頁",
+      "url": "https://bhuntr.com/tw/competitions/ozumm66vptkqd53lw7"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-21",
+    "method": "single",
+    "unread": [],
+    "note": null,
+    "readers": [
+      "gemini-4-hydrogen-medium"
+    ]
+  },
+  "first_seen": "2026-11-20",
+  "updated": "2026-11-20",
+  "level": "checked",
+  "url": "https://workingyuanyuan.github.io/tw-hs-contests/contests/2027-danjiang-bridge-photo-painting/",
+  "markdown": "https://workingyuanyuan.github.io/tw-hs-contests/contests/2027-danjiang-bridge-photo-painting.md"
+}

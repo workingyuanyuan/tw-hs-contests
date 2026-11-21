@@ -1,0 +1,83 @@
+---
+// Override of Starlight's MarkdownContent: the one-sentence answer above the page body
+// and the page notes (scope, caveat, date, sources) after it, all in the same
+// container as the body. Extractors that keep only the main article (Readability and
+// the like) would drop them anywhere else.
+// The same frontmatter fields also produce the Markdown twin (src/lib/page-md.mjs)
+// and the JSON-LD (src/routeData.ts).
+import '@astrojs/starlight/style/markdown.css';
+import { SITE, LABELS, LOCALES, DATA_PATH, pageId, localeOf, mdPath, llmsPath, withBase, isoDate } from '../lib/site.mjs';
+
+const { data } = Astro.locals.starlightRoute.entry;
+const id = pageId(Astro.locals.starlightRoute.entry.id);
+const locale = localeOf(id);
+const t = LABELS[locale.lang];
+// Starlight's built-in 404 page has no contract fields. It gets links to the home page
+// and the page list instead, so a wrong URL is not a dead end.
+const hasFacts = Boolean(data.lastVerified && data.sources);
+// A note for agents that read the HTML: scope and caveat, which sighted readers find in
+// the page notes after the body, and where the Markdown and the data are. It is hidden with a CSS class (not `hidden` or `aria-hidden`, which extractors
+// treat as "drop this").
+const agentNote = hasFacts
+	? `${t.appliesTo}：${data.appliesTo}。${t.caveat}：${data.caveat} Markdown：${SITE}${mdPath(id)} 。所有頁面：${SITE}${llmsPath(locale)} 、${SITE}/index.json 。完整資料：${SITE}${DATA_PATH} 。`
+	: '';
+---
+
+<div class="sl-markdown-content">
+{/* No wrapper around the note, the answer and the page notes: as direct children of
+     the article container they make it the element a readability-style extractor
+     keeps, together with the body. */}
+{hasFacts && <>
+<p class="not-content agent-note">{agentNote}</p>
+<p class="not-content answer">{data.description}</p>
+</>}
+{!hasFacts && <div class="not-content not-found">
+<p>找不到這一頁。比賽頁面的網址以年份開頭，全部小寫，例如 <code>/contests/2026-…/</code>。</p>
+<ul>
+	{LOCALES.map((l) => (
+		<li>
+			<a href={withBase(l.dir ? `/${l.dir}/` : '/')}>{t.home}</a>、<a href={withBase(llmsPath(l))}>{t.pageList}</a>
+		</li>
+	))}
+</ul>
+</div>}
+<slot />
+{/* Page notes after the body. The skin for .answer and .facts is in src/styles/site.css. */}
+{hasFacts && <dl class="not-content facts">
+	<dt>{t.appliesTo}</dt>
+	<dd>{data.appliesTo}</dd>
+	<dt>{t.caveat}</dt>
+	<dd>{data.caveat}</dd>
+	<dt>{t.lastVerified}</dt>
+	<dd><time datetime={isoDate(data.lastVerified)}>{isoDate(data.lastVerified)}</time></dd>
+	<dt>{t.sources}</dt>
+	<dd>
+		<ul>
+			{data.sources.map((source) => <li><a href={source.url}>{source.title}</a></li>)}
+		</ul>
+	</dd>
+	<dt>{t.markdown}</dt>
+	<dd><a href={withBase(mdPath(id))}>{mdPath(id)}</a></dd>
+</dl>}
+</div>
+
+<style>
+	.agent-note {
+		position: absolute;
+		width: 1px;
+		height: 1px;
+		margin: -1px;
+		padding: 0;
+		overflow: hidden;
+		clip-path: inset(50%);
+		white-space: nowrap;
+	}
+	.not-found {
+		margin-top: 1.5rem;
+	}
+	ul {
+		margin: 0;
+		padding: 0;
+		list-style: none;
+	}
+</style>
