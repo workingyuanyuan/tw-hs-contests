@@ -30,7 +30,7 @@ from urllib.parse import urlparse
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from validate import ROOT, Cache, check, entry_deadline  # noqa: E402
 
-SITE = os.environ.get("SITE_URL", "https://workingyuanyuan.github.io/tw-hs-contests").rstrip("/")
+SITE = os.environ.get("SITE_URL", "https://yuanaruru.com/tw-hs-contests").rstrip("/")
 DOCS = ROOT / "src/content/docs"
 DATA_OUT = ROOT / "public/data"
 DATA_URL = f"{SITE}/data/contests.json"

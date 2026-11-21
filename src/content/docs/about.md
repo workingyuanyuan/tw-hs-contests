@@ -7,7 +7,7 @@ lastVerified: 2026-11-21
 kind: page
 sources:
   - title: 所有比賽的完整資料
-    url: https://workingyuanyuan.github.io/tw-hs-contests/data/contests.json
+    url: https://yuanaruru.com/tw-hs-contests/data/contests.json
 ---
 
 ## 收錄範圍

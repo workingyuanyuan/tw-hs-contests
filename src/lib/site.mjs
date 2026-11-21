@@ -4,7 +4,7 @@
 // The public address, including the sub-path of a GitHub Pages project site, without a
 // trailing slash. SITE_URL overrides it for local agent tests (see tests/agent-eval/README.md).
 // pipeline/build_pages.py reads the same variable and default.
-export const SITE = (process.env.SITE_URL ?? 'https://workingyuanyuan.github.io/tw-hs-contests').replace(/\/+$/, '');
+export const SITE = (process.env.SITE_URL ?? 'https://yuanaruru.com/tw-hs-contests').replace(/\/+$/, '');
 /** Scheme and host of SITE. */
 export const ORIGIN = new URL(SITE).origin;
 /** Sub-path the site is served under: `/tw-hs-contests`, or the empty string at a domain root. */

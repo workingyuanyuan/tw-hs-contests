@@ -9,7 +9,7 @@ sidebar:
   label: "美術"
 sources:
   - title: "所有比賽的完整資料"
-    url: "https://workingyuanyuan.github.io/tw-hs-contests/data/contests.json"
+    url: "https://yuanaruru.com/tw-hs-contests/data/contests.json"
 ---
 
 | 截止日 | 比賽 | 參賽對象 |

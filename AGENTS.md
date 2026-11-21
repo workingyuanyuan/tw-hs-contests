@@ -2,7 +2,7 @@
 
 This site is a catalogue of contests that senior-high and vocational-high students in Taiwan can enter. Its readers are teachers and school staff, and the AI agents that work for them. The rules in `../AGENTS.md` apply; this file holds what is specific to this site and wins where it differs.
 
-Status on 2026-11-21: 92 records (87 with pages, 33 read twice), `pnpm verify` passes, and the agent test passed 9 of 10 on the site against 1 of 10 on the organizers' pages (`tests/agent-eval/README.md`). The owner approved the look "periodical" on 2026-11-20 and, on 2026-11-21, the redesign below: a catalogue that wins the attention of teachers and students, not a fact sheet in the daily report's terms. Published on 2026-11-21 at https://workingyuanyuan.github.io/tw-hs-contests/ from the public repository workingyuanyuan/tw-hs-contests (a push to `main` deploys). There is no schedule: the owner starts the daily report by hand (the computer must be on), and its prompt ends with `pnpm publish-daily`. Pages change only on such a run.
+Status on 2026-11-21: 92 records (87 with pages, 33 read twice), `pnpm verify` passes, and the agent test passed 9 of 10 on the site against 1 of 10 on the organizers' pages (`tests/agent-eval/README.md`). The owner approved the look "periodical" on 2026-11-20 and, on 2026-11-21, the redesign below: a catalogue that wins the attention of teachers and students, not a fact sheet in the daily report's terms. Published on 2026-11-21 at https://yuanaruru.com/tw-hs-contests/ from the public repository workingyuanyuan/tw-hs-contests (a push to `main` deploys). There is no schedule: the owner starts the daily report by hand (the computer must be on), and its prompt ends with `pnpm publish-daily`. Pages change only on such a run.
 
 ## Decisions by the owner
 
@@ -18,7 +18,7 @@ Status on 2026-11-21: 92 records (87 with pages, 33 read twice), `pnpm verify` p
 - The catalogue holds facts only. Whether a contest suits AI-assisted student work is a separate, private product (`~/Projects/tw-highschool-ai-activity-daily`) that reads these records. Nothing here ranks, recommends or filters by suitability.
 - A contest is included when it has judging, it gives a rank or a prize, and senior-high or vocational-high students may enter. Contests limited to one county or city, and contests that need the school's nomination, are included. Camps, certification exams and lectures are not.
 - One JSON file per contest edition in `data/contests/`, kept in git. Scripts are the only writers of these files.
-- Static files on GitHub Pages, in a public repository of its own. Name and address: `tw-hs-contests`, `https://workingyuanyuan.github.io/tw-hs-contests/`.
+- Static files on GitHub Pages, in a public repository of its own. Name and address: `tw-hs-contests`, `https://yuanaruru.com/tw-hs-contests/`.
 - Traditional Chinese only, at the root. There is no English version.
 - Look (2026-11-20): "periodical". Serif headings (Noto Serif TC, SIL OFL, from `@fontsource/noto-serif-tc`, loaded in slices by `unicode-range`), body text in the system sans font, ink on paper, one red accent, hairlines and no boxes, light and dark themes. The skin draws no text with CSS `content`. Component overrides: `MarkdownContent`, `ThemeSelect`.
 
