@@ -4,8 +4,8 @@
 //  a. Head: every page has a <title> and a meta description that no other page of its
 //     language has, a canonical link to itself and, on a site with more than one
 //     language, an hreflang link to the same page in each language.
-//  b. Sitemap: lists every HTML page and nothing else, each with the day the page was
-//     last verified as its lastmod.
+//  b. Sitemap: lists every HTML page once and nothing else, each with the day the page
+//     was last verified as its lastmod.
 
 import { readFileSync, existsSync } from 'node:fs';
 import { join } from 'node:path';
@@ -16,13 +16,16 @@ import { SITE, LOCALES, localeOf, idInLocale, htmlPath, isoDate } from '../src/l
  * @param {string} DIST the built site
  * @param {{ id: string, data: Record<string, any> }[]} pages every page, as readPages() gives them
  * @param {(page: string, message: string) => void} fail records one problem
+ * @param {{ mayShareDescription?: (page: { id: string, data: Record<string, any> }) => boolean }} [options]
+ *   pages whose description another page may repeat (their titles must still differ)
  */
-export function checkFound(DIST, pages, fail) {
+export function checkFound(DIST, pages, fail, { mayShareDescription = () => false } = {}) {
 	const read = (path) => readFileSync(join(DIST, path), 'utf8');
 
 	// a. Head
 	const seen = { title: new Map(), description: new Map() };
-	for (const { id } of pages) {
+	for (const page of pages) {
+		const { id } = page;
 		const file = (htmlPath(id) + 'index.html').slice(1);
 		if (!existsSync(join(DIST, file))) continue; // check-dist.mjs reports the missing page
 		const html = read(file);
@@ -36,6 +39,7 @@ export function checkFound(DIST, pages, fail) {
 				fail(id, `no ${name} in <head>`);
 				continue;
 			}
+			if (name === 'description' && mayShareDescription(page)) continue;
 			const key = `${localeOf(id).lang}\n${text}`;
 			if (seen[name].has(key)) fail(id, `same ${name} as ${seen[name].get(key)}: ${text}`);
 			else seen[name].set(key, id);
@@ -68,7 +72,9 @@ export function checkFound(DIST, pages, fail) {
 			continue;
 		}
 		for (const [, entry] of read(file).matchAll(/<url>([\s\S]*?)<\/url>/g)) {
-			listed.set(/<loc>([^<]+)<\/loc>/.exec(entry)?.[1], /<lastmod>([^<]+)<\/lastmod>/.exec(entry)?.[1]);
+			const url = /<loc>([^<]+)<\/loc>/.exec(entry)?.[1].replaceAll('&amp;', '&');
+			if (listed.has(url)) fail(String(url), 'listed more than once in the sitemap');
+			listed.set(url, /<lastmod>([^<]+)<\/lastmod>/.exec(entry)?.[1]);
 		}
 	}
 	const expected = new Map(

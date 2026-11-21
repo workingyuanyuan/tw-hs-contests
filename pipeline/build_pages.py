@@ -182,7 +182,14 @@ def contest_sources(rec) -> list:
     return out
 
 
-def contest_page(rec, linked_subjects=frozenset(SUBJECT_SLUGS)) -> str:
+def shared_titles(records) -> set:
+    """Names that more than one contest page would carry: one contest in two editions. Each page
+    needs a title of its own (scripts/check-found.mjs), so those pages add the edition."""
+    names = [r["title"] for r in records]
+    return {name for name in names if names.count(name) > 1}
+
+
+def contest_page(rec, linked_subjects=frozenset(SUBJECT_SLUGS), shared=frozenset()) -> str:
     """`linked_subjects`: subjects that have a page (a subject page lists open contests only)."""
     e = rec["eligibility"]
     who = levels_text(e["levels"])
@@ -227,7 +234,7 @@ def contest_page(rec, linked_subjects=frozenset(SUBJECT_SLUGS)) -> str:
         body += [f"| {d['date']} {d['time'] or ''} | {cell(d['label'])} |".replace("  |", " |") for d in dated]
 
     fields = {
-        "title": rec["title"],
+        "title": f"{rec['title']}（{rec['edition']}）" if rec["title"] in shared else rec["title"],
         "description": rec["summary"],
         "appliesTo": f"{rec['edition']} 這一屆",
         "caveat": caveat(rec),
@@ -350,8 +357,9 @@ def main():
         public.append(out)
         write(DATA_OUT / "contests" / f"{rec['id']}.json", json.dumps(out, ensure_ascii=False, indent=2) + "\n")
     subjects = {name: subjects[name] for name in SUBJECT_SLUGS if name in subjects}
+    shared = shared_titles(paged)
     for rec in paged:
-        write(DOCS / "contests" / f"{rec['id']}.md", contest_page(rec, set(subjects)))
+        write(DOCS / "contests" / f"{rec['id']}.md", contest_page(rec, set(subjects), shared))
 
     for m, items in months.items():
         if m == "undated":

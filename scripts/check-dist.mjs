@@ -261,7 +261,9 @@ else {
 	if (data.count !== data.contests.length) fail(dataFile, 'count does not match the number of contests');
 }
 
-checkFound(DIST, pages, fail);
+// Two editions of one contest may carry the same summary; their titles differ, because
+// pipeline/build_pages.py adds the edition to a name that two pages share.
+checkFound(DIST, pages, fail, { mayShareDescription: (page) => kindOf(page) === 'contest' });
 
 if (failures.length) {
 	console.error(`FAIL: ${failures.filter((f) => !f.startsWith('    ')).length} problem(s) in ${pages.length} pages\n`);
