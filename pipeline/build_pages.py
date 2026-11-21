@@ -355,21 +355,21 @@ def main():
 
     for m, items in months.items():
         if m == "undated":
-            page = index_page("截止日未定的比賽", "截止日未定", f"{len(items)} 則，主辦單位尚未公布截止日。",
+            page = index_page("截止日未定的比賽", "截止日未定", f"截止日未定的比賽 {len(items)} 則，主辦單位尚未公布截止日。",
                               f"資料更新至 {last_checked(items)}", items)
         else:
             name = f"{m[:4]} 年 {int(m[5:])} 月"
-            page = index_page(f"{name}截止的比賽", name, first_last(items, "最早"),
+            page = index_page(f"{name}截止的比賽", name, f"{name}截止的比賽 " + first_last(items, "最早"),
                               f"資料更新至 {last_checked(items)}", items)
         write(DOCS / "deadlines" / f"{m}.md", page)
     for m, items in archive.items():
         name = f"{m[:4]} 年 {int(m[5:])} 月"
         write(DOCS / "archive" / f"{m}.md",
-              index_page(f"{name}截止的比賽（封存）", f"{name}截止", first_last(items, "最晚"),
+              index_page(f"{name}截止的比賽（封存）", f"{name}截止", f"{name}已截止的比賽 " + first_last(items, "最晚"),
                          f"資料更新至 {last_checked(items)}", items, ARCHIVE_CAVEAT))
     for name, items in subjects.items():
         write(DOCS / "subjects" / f"{SUBJECT_SLUGS[name]}.md",
-              index_page(f"類別：{name}", name, first_last(items, "最早"),
+              index_page(f"類別：{name}", name, f"{name}類的比賽 " + first_last(items, "最早"),
                          f"資料更新至 {last_checked(items)}", items))
     write(DOCS / "index.md", home_page(paged, months, subjects, archive))
     write(DATA_OUT / "contests.json", json.dumps(

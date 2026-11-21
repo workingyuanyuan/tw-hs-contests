@@ -17,6 +17,7 @@
 //  9. The 404 page links each language's home page and page list.
 // 10. robots.txt names the sitemap and carries a Content-Signal line.
 // 11. Data files: data/contests.json lists every contest page, each with its own JSON file.
+// Being found: title, description, canonical, hreflang and sitemap (scripts/check-found.mjs).
 
 import { readFileSync, readdirSync, existsSync } from 'node:fs';
 import { join, relative } from 'node:path';
@@ -27,6 +28,7 @@ import TurndownService from 'turndown';
 import { SITE, LOCALES, LLMS_NOTES, DATA_PATH, localeOf, htmlPath, mdPath, llmsPath, withBase } from '../src/lib/site.mjs';
 import { bundlePath } from '../src/lib/llms.mjs';
 import { readPages } from '../src/lib/content-index.mjs';
+import { checkFound } from './check-found.mjs';
 
 const DIST = fileURLToPath(new URL('../dist/', import.meta.url));
 const LIMIT = 5000;
@@ -258,6 +260,8 @@ else {
 	}
 	if (data.count !== data.contests.length) fail(dataFile, 'count does not match the number of contests');
 }
+
+checkFound(DIST, pages, fail);
 
 if (failures.length) {
 	console.error(`FAIL: ${failures.filter((f) => !f.startsWith('    ')).length} problem(s) in ${pages.length} pages\n`);

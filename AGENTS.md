@@ -2,7 +2,7 @@
 
 This site is a catalogue of contests that senior-high and vocational-high students in Taiwan can enter. Its readers are teachers and school staff, and the AI agents that work for them. The rules in `../AGENTS.md` apply; this file holds what is specific to this site and wins where it differs.
 
-Status on 2026-11-21: 92 records (87 with pages, 33 read twice), `pnpm verify` passes, and the agent test passed 9 of 10 on the site against 1 of 10 on the organizers' pages (`tests/agent-eval/README.md`). The owner approved the look "periodical" on 2026-11-20 and, on 2026-11-21, the redesign below: a catalogue that wins the attention of teachers and students, not a fact sheet in the daily report's terms. Published on 2026-11-21 at https://workingyuanyuan.github.io/tw-hs-contests/ from the public repository workingyuanyuan/tw-hs-contests (a push to `main` deploys). The daily run is not scheduled yet: pages change only when someone runs `pnpm daily` and pushes.
+Status on 2026-11-21: 92 records (87 with pages, 33 read twice), `pnpm verify` passes, and the agent test passed 9 of 10 on the site against 1 of 10 on the organizers' pages (`tests/agent-eval/README.md`). The owner approved the look "periodical" on 2026-11-20 and, on 2026-11-21, the redesign below: a catalogue that wins the attention of teachers and students, not a fact sheet in the daily report's terms. Published on 2026-11-21 at https://workingyuanyuan.github.io/tw-hs-contests/ from the public repository workingyuanyuan/tw-hs-contests (a push to `main` deploys). There is no schedule: the owner starts the daily report by hand (the computer must be on), and its prompt ends with `pnpm publish-daily`. Pages change only on such a run.
 
 ## Decisions by the owner
 
@@ -47,6 +47,7 @@ Status on 2026-11-21: 92 records (87 with pages, 33 read twice), `pnpm verify` p
 
 ```
 pnpm daily       # the daily run: queue, re-check, read new contests, write the pages (pipeline/daily.py)
+pnpm publish-daily  # the daily run, then verify, commit and push (deploys). The daily report's prompt runs it as its last step
 pnpm queue       # add the contests of the newest daily-report snapshot to data/candidates.json
 pnpm extract --limit 5 --key c0005      # read queued contests with the two readers (pnpm passes a `--` on to the script: leave it out)
 pnpm fetch <url> [<url> ...]   # cache the text and links of a document
@@ -119,3 +120,6 @@ One search serves two products. The daily report (`~/Projects/tw-highschool-ai-a
 | `src/lib/page-md.mjs`, `src/lib/llms.mjs`, `src/pages/` | Markdown twins, `llms.txt`, bundles, `index.json`, `robots.txt` |
 | `src/components/MarkdownContent.astro`, `src/components/ThemeSelect.astro`, `src/styles/site.css` | Answer above the body and page notes after it; theme buttons; the skin |
 | `scripts/check-dist.mjs`, `scripts/preview.mjs` | Acceptance checks, local preview |
+| `src/lib/sitemap.mjs` | Sitemap options: `lastmod` of each page from `lastVerified` |
+| `scripts/check-found.mjs` | Checks called by `check-dist.mjs`: a title and description of its own for every page, canonical, `hreflang`, sitemap |
+| `tests/agent-eval/questions.json` | The site's question list: what readers ask, each with the expected answer and qualifier. The agent test and the search test draw from it |

@@ -1,6 +1,6 @@
 ---
 title: "類別：資訊與 AI"
-description: "17 則，最早在 2026-11-22 截止。"
+description: "資訊與 AI類的比賽 17 則，最早在 2026-11-22 截止。"
 appliesTo: "資料更新至 2026-11-21"
 caveat: "截止日指新參賽者報名的最後一天，以臺灣時間計。"
 lastVerified: 2026-11-21

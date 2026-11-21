@@ -32,6 +32,15 @@ Start URL for this site: `http://127.0.0.1:4417/tw-hs-contests/`. Start URLs for
 
 4. Run `pnpm pages` and `pnpm verify` afterwards without `SITE_URL`, so that the pages and `dist/` carry the public address again.
 
+## Search test
+
+Checks whether an agent that starts from a question, with no URL, finds this site. It runs on the live site once its pages are indexed. It is a record, not a gate for publishing.
+
+1. Give a fresh agent the questions from `questions.json` (without the expected answers, and without this site's name or address), a web search tool, and the fetch command above as its only way to read a page. No start URL.
+2. Record the search tool, the queries the agent made and its answers. The fetch log holds the URLs it read.
+3. Score each question: pass needs a page of this site among the pages read, and the answer with its qualifier. Record "not found" when no page of this site was read.
+4. For each miss, find the cause: the page is not indexed (sitemap, links, `robots.txt`); it is indexed but not chosen (the question's words are not in its title or headings, it has nothing the source lacks, nothing links to the site); or it was read and the qualifier was lost.
+
 ## Results
 
 ### 2026-11-21

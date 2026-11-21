@@ -9,6 +9,7 @@
     "queue": "python3 -I pipeline/candidates.py",
     "extract": "uv run -q --isolated --with pymupdf --with playwright --with jsonschema python -I pipeline/extract.py",
     "daily": "uv run -q --isolated --with pymupdf --with playwright --with jsonschema python -I pipeline/daily.py",
+    "publish-daily": "bash scripts/publish-daily.sh",
     "build": "astro build",
     "preview": "node scripts/preview.mjs",
     "astro": "astro",
@@ -17,6 +18,7 @@
   },
   "dependencies": {
     "@astrojs/markdown-satteri": "0.4.10",
+    "@astrojs/sitemap": "^3.7.5",
     "@astrojs/starlight": "^0.43.1",
     "@fontsource/noto-serif-tc": "^5.3.1",
     "astro": "^7.3.6",
