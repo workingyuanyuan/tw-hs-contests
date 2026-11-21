@@ -2,7 +2,7 @@
 
 This site is a catalogue of contests that senior-high and vocational-high students in Taiwan can enter. Its readers are teachers and school staff, and the AI agents that work for them. The rules in `../AGENTS.md` apply; this file holds what is specific to this site and wins where it differs.
 
-Status on 2026-11-21: 92 records (87 with pages: 78 open, 9 archived; 27 read twice), and `pnpm verify` passes. The owner approved the look "periodical" on 2026-11-20 and, on 2026-11-21, the redesign below: a catalogue that wins the attention of teachers and students, not a fact sheet in the daily report's terms. The collection pipeline (queue, fetch of HTML, PDF, Word and Google files, two independent readers, daily re-check) exists. Not done yet: the agent test. There is no git repository and nothing is published.
+Status on 2026-11-21: 92 records (87 with pages, 33 read twice), `pnpm verify` passes, and the agent test passed 9 of 10 on the site against 1 of 10 on the organizers' pages (`tests/agent-eval/README.md`). The owner approved the look "periodical" on 2026-11-20 and, on 2026-11-21, the redesign below: a catalogue that wins the attention of teachers and students, not a fact sheet in the daily report's terms. The git repository has a local commit on `main`; nothing is pushed or published.
 
 ## Decisions by the owner
 
