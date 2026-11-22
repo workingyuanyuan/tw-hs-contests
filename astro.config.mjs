@@ -27,13 +27,14 @@ export default defineConfig({
 				{ label: '依截止月份', items: [{ autogenerate: { directory: 'deadlines' } }] },
 				{ label: '依類別', items: [{ autogenerate: { directory: 'subjects' } }] },
 				{ label: '封存', collapsed: true, items: [{ autogenerate: { directory: 'archive' } }] },
-				{ label: '關於本站', items: [{ slug: 'about' }] },
 			],
 			customCss: ['@fontsource/noto-serif-tc/700.css', '@fontsource/noto-serif-tc/900.css', './src/styles/site.css'],
 			components: {
 				// The answer above the body and the page notes after it; one-click theme buttons.
 				MarkdownContent: './src/components/MarkdownContent.astro',
 				ThemeSelect: './src/components/ThemeSelect.astro',
+				// The site name and the header links to the Markdown twin, llms.txt and index.json.
+				SiteTitle: './src/components/SiteTitle.astro',
 				// LINE share and copy-announcement buttons on contest pages, outside the article.
 				Footer: './src/components/Footer.astro',
 			},

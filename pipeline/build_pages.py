@@ -17,7 +17,7 @@ only when one is charged. Attendance, AI rules and the quotes stay in the data f
 the private daily report reads; they are not the catalogue's business.
 A contest is open while a new entrant can still register (validate.entry_deadline); after
 that it moves to the archive.
-Hand-written pages (about.md) are not touched.
+There are no hand-written pages.
 """
 import json
 import os
@@ -289,7 +289,7 @@ def home_page(records, months, subjects, archive) -> str:
         "title": "高中職競賽目錄",
         "description": f"現在可以報名的比賽 {len(live)} 則，{len(soon)} 則在 {SOON_DAYS} 天內截止。",
         "appliesTo": f"資料更新至 {last_checked(records)}",
-        "caveat": "本站不是任何比賽的主辦單位；報名以主辦單位的頁面為準。",
+        "caveat": "日期皆為臺灣時間 (UTC+8)；截止日是新參賽者報名的最後一天，報名方式與資格以主辦單位的簡章與報名頁為準。",
         "lastVerified": last_checked(records),
         "kind": "page",
     }
@@ -308,7 +308,6 @@ def home_page(records, months, subjects, archive) -> str:
     if archive:
         body += ["", "## 封存", ""]
         body += [f"- [{m[:4]} 年 {int(m[5:])} 月截止](/archive/{m}/)：{len(items)} 則" for m, items in sorted(archive.items(), reverse=True)]
-    body += ["", "## 關於本站", "", "[收錄範圍與資料來源](/about/)；[所有比賽的完整資料](/data/contests.json)（JSON）、[所有頁面的清單](/index.json)（JSON）"]
     return frontmatter(fields, [{"title": "所有比賽的完整資料", "url": DATA_URL}]) + "\n" + "\n".join(body) + "\n"
 
 

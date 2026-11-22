@@ -47,7 +47,7 @@ Do not browse the web. Do not change any file except `out.json` (and the `check/
 - `id`: the edition's year, a hyphen, then a short ASCII key of lower-case letters, digits and hyphens, for example `2026-thu-smart-sustainability`. The year is the year of the registration deadline.
 - `links.official`: the organizer's own page for this contest, when it is among the documents or their links. `links.rules`: rule documents (PDF and the like) with a short title. `links.registration`: the registration address when a document gives it.
 - `verification.unread`: the names of documents that the rules refer to and that you could not read (a form, an annex, an image without text). `verification.note`: `null`.
-- `conflict`: when the organizer's documents contradict each other on a fact, say so in one or two sentences and say which one the record follows. Otherwise leave the field out.
+- `conflict`: when the organizer's documents contradict each other on a fact, say so in one or two sentences, naming each document and the value it gives. Write about the documents only, never about the record, the page or the site (not 「本頁採……」 or 「本站……」); the page itself shows the value the record follows. Otherwise leave the field out.
 - Do not copy personal contact details (a contact person's name, phone, e-mail) anywhere, not even inside a quote. The check fails on them.
 - The script fills these; write them as placeholders: `"found_via": []`, `"first_seen"` and `"updated"` today, `"verification.last_verified"` today, `"verification.method": "single"`, `"schema": 1`.
 

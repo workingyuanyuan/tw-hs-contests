@@ -1,0 +1,71 @@
+---
+// Override of Starlight's SiteTitle: the site name and links to the machine-readable outputs
+// of the current page. The bracketed key hints before the links are drawn by CSS
+// (`[data-key]::before`), so they never reach the text an agent extracts from the page.
+import { TITLE, LABELS, pageId, localeOf, mdPath, llmsPath, withBase } from '../lib/site.mjs';
+
+const { siteTitleHref, entry } = Astro.locals.starlightRoute;
+const locale = localeOf(entry.id);
+const t = LABELS[locale.lang];
+const links = [
+	...(entry.data.lastVerified ? [{ key: 'M', label: 'Markdown', href: withBase(mdPath(pageId(entry.id))) }] : []),
+	{ key: 'L', label: 'llms.txt', href: withBase(llmsPath(locale)) },
+	{ key: 'J', label: 'index.json', href: withBase('/index.json') },
+];
+---
+
+<a href={siteTitleHref} class="site-title">{TITLE[locale.lang]}</a>
+<nav class="outputs" aria-label={t.formats}>
+	{links.map((link) => <a href={link.href} data-key={link.key} aria-keyshortcuts={link.key.toLowerCase()}>{link.label}</a>)}
+</nav>
+
+<script is:inline>
+	// Single-key shortcuts for the links above. Ignored while typing or with modifier keys.
+	document.addEventListener('keydown', (event) => {
+		if (event.defaultPrevented || event.ctrlKey || event.metaKey || event.altKey) return;
+		const target = event.target;
+		if (target instanceof HTMLElement) {
+			if (target.isContentEditable || /^(INPUT|TEXTAREA|SELECT)$/.test(target.tagName)) return;
+		}
+		if (document.querySelector('dialog[open]')) return;
+		const link = document.querySelector(`nav.outputs a[data-key="${event.key.toUpperCase()}"]`);
+		if (link instanceof HTMLAnchorElement) link.click();
+	});
+</script>
+
+<style>
+	.site-title {
+		display: flex;
+		align-items: center;
+		font-size: var(--sl-text-h4);
+		text-decoration: none;
+		white-space: nowrap;
+	}
+	.outputs {
+		display: none;
+		gap: 1.25rem;
+		margin-inline-start: 1.5rem;
+		font-size: var(--sl-text-sm);
+		white-space: nowrap;
+	}
+	@media (min-width: 72rem) {
+		.outputs {
+			display: flex;
+			align-items: center;
+		}
+	}
+	.outputs a {
+		color: var(--sl-color-gray-3);
+		text-decoration: none;
+	}
+	.outputs a::before {
+		content: '[' attr(data-key) '] ';
+		color: var(--sl-color-text-accent);
+	}
+	.outputs a:hover,
+	.outputs a:focus-visible {
+		color: var(--sl-color-white);
+		text-decoration: underline;
+		text-underline-offset: 0.3em;
+	}
+</style>

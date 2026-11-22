@@ -9,7 +9,7 @@
 //  4. Equivalence: headings and code blocks extracted from the HTML match the twin.
 //  5. No decoration leak: marks the skin draws with CSS must not appear in the
 //     text extracted from the HTML.
-//  6. Index coverage: the home page links every index page and the About page within its
+//  6. Index coverage: the home page links every index page within its
 //     first 5,000 extracted characters, and every contest page is linked from an index page.
 //  7. Bundles: each language's llms-full.txt and llms-small.txt carry every page's
 //     answer and caveat; a hidden pointer to the Markdown twin survives extraction.
@@ -17,6 +17,8 @@
 //  9. The 404 page links each language's home page and page list.
 // 10. robots.txt names the sitemap and carries a Content-Signal line.
 // 11. Data files: data/contests.json lists every contest page, each with its own JSON file.
+// Header and page text: the header links the twin, llms.txt and index.json with key hints
+//     drawn by CSS; no text in <main> is about the site or the page (scripts/check-page-text.mjs).
 // Being found: title, description, canonical, hreflang and sitemap (scripts/check-found.mjs).
 
 import { readFileSync, readdirSync, existsSync } from 'node:fs';
@@ -29,6 +31,7 @@ import { SITE, LOCALES, LLMS_NOTES, DATA_PATH, localeOf, htmlPath, mdPath, llmsP
 import { bundlePath } from '../src/lib/llms.mjs';
 import { readPages } from '../src/lib/content-index.mjs';
 import { checkFound } from './check-found.mjs';
+import { checkHeaderLinks, checkKeyHintCss, checkSelfReference } from './check-page-text.mjs';
 
 const DIST = fileURLToPath(new URL('../dist/', import.meta.url));
 const LIMIT = 5000;
@@ -177,7 +180,7 @@ for (const { id, data } of pages) {
 		fail(id, 'a readability-style extractor does not keep the pointer to the Markdown twin');
 	}
 
-	// 6. The home page links every index page and hand-written page within the first 5,000
+	// 6. The home page links every index page within the first 5,000
 	// characters an extractor returns. Contest pages are too many for that: each must be
 	// linked from at least one index page instead.
 	if (id === 'index') {
@@ -190,6 +193,11 @@ for (const { id, data } of pages) {
 	if (kindOf({ data }) === 'index') {
 		for (const a of mainEl.querySelectorAll('a[href]')) linkedContests.add(a.getAttribute('href'));
 	}
+
+	// Header links and page text (scripts/check-page-text.mjs): the header links the twin,
+	// llms.txt and index.json, and no text in <main> is about the site or the page.
+	checkHeaderLinks(doc, id, fail, { markdown: withBase(mdPath(id)), llms: withBase(llmsPath(localeOf(id))), json: withBase('/index.json') });
+	checkSelfReference(doc, id, fail);
 
 	// 5. No decoration leak into extracted text.
 	const visible = normalize(doc.body.textContent);
@@ -263,6 +271,9 @@ else {
 
 // Two editions of one contest may carry the same summary; their titles differ, because
 // pipeline/build_pages.py adds the edition to a name that two pages share.
+// The key hints of the header links ([M], [L], [J]) are drawn by the built CSS.
+checkKeyHintCss(DIST, fail);
+
 checkFound(DIST, pages, fail, { mayShareDescription: (page) => kindOf(page) === 'contest' });
 
 if (failures.length) {

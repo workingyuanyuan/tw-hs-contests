@@ -76,7 +76,7 @@ One search serves two products. The daily report (`~/Projects/tw-highschool-ai-a
 
 `work/` holds the readers' folders and is not committed.
 
-`pnpm pages` runs `pipeline/build_pages.py`. It checks every record (schema, file name, every quote present in the cached text of its document with whitespace ignored, every date present in its quote, at least one link), leaves out a record with an error and exits with 1. It replaces `src/content/docs/index.md`, `contests/`, `deadlines/`, `subjects/`, `archive/` and `public/data/`. Quotes stay in the data files; pages do not show them. Do not edit those by hand; change the record or the generator. `about.md` is hand-written.
+`pnpm pages` runs `pipeline/build_pages.py`. It checks every record (schema, file name, every quote present in the cached text of its document with whitespace ignored, every date present in its quote, at least one link), leaves out a record with an error and exits with 1. It replaces `src/content/docs/index.md`, `contests/`, `deadlines/`, `subjects/`, `archive/` and `public/data/`. Quotes stay in the data files; pages do not show them. Do not edit those by hand; change the record or the generator.
 
 `pipeline/validate.py` runs the same checks alone: `uv run -q --isolated --with jsonschema python -I pipeline/validate.py`.
 
@@ -115,7 +115,6 @@ One search serves two products. The daily report (`~/Projects/tw-highschool-ai-a
 | `pipeline/validate.py` | Checks and verification level |
 | `pipeline/build_pages.py` | Writes the pages and `public/data/` from the records |
 | `cache/` | Text of fetched documents, not committed |
-| `src/content/docs/about.md` | The only hand-written page |
 | `src/lib/site.mjs` | Site URL and sub-path, URL rules, `llms.txt` notes, labels |
 | `src/lib/page-md.mjs`, `src/lib/llms.mjs`, `src/pages/` | Markdown twins, `llms.txt`, bundles, `index.json`, `robots.txt` |
 | `src/components/MarkdownContent.astro`, `src/components/ThemeSelect.astro`, `src/styles/site.css` | Answer above the body and page notes after it; theme buttons; the skin |
