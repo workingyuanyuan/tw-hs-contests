@@ -8,7 +8,7 @@ Status on 2026-11-21: 92 records (87 with pages, 33 read twice), `pnpm verify` p
 
 - Goal: every contest in the country, all subjects. This is a goal, not a guarantee: the site states which sources were read and how fresh each record is.
 - A page needs supported facts on the deadline and on who may enter (`KEY_FACTS` in `pipeline/validate.py`; owner, 2026-11-21).
-- Readers are teachers who pass contests on to students in LINE groups, and students who land on one contest page from such a link (owner, 2026-11-21, after advice from three models). Pages show the contest: what to do, the deadline, who may enter, deliverables, prizes, timeline. A fee is shown only when one is charged. Attendance and AI rules are not shown: they were the owner's personal criteria for the daily report and stay in the data files.
+- Readers are teachers who pass contests on to students in LINE groups, and students who land on one contest page from such a link (owner, 2026-11-21, after advice from three models). Pages show the contest: what to do, the deadline, who may enter, deliverables, prizes, timeline. A fee is shown only when one is charged. Attendance and AI rules are not shown: they serve the daily report and stay in the data files.
 - A contest is open while a new entrant can still register (`entry_deadline` in `pipeline/validate.py`): the next registration deadline, else the next submission deadline, leaving out deadlines for entrants already through a round. After it, the contest moves to the archive (`/archive/<yyyy-mm>/`); its page keeps its address and says it is closed.
 - When the organizer's documents contradict each other, the reader picks one version and the page says which (`conflict`, in the caveat). Owner's decision.
 - The docs-sites rules hold without exceptions (owner, 2026-11-21): registration links stay in the sources in the page notes, the sidebar layout stays. The LINE share and copy buttons sit outside the article container, like the theme buttons (`src/components/Footer.astro`).
@@ -21,7 +21,7 @@ Status on 2026-11-21: 92 records (87 with pages, 33 read twice), `pnpm verify` p
 - One JSON file per contest edition in `data/contests/`, kept in git. Scripts are the only writers of these files.
 - Static files on GitHub Pages, in a public repository of its own. Name and address: `tw-hs-contests`, `https://yuanaruru.com/tw-hs-contests/`.
 - Traditional Chinese only, at the root. There is no English version.
-- Look (2026-11-20): "periodical". Serif headings (Noto Serif TC, SIL OFL, from `@fontsource/noto-serif-tc`, loaded in slices by `unicode-range`), body text in the system sans font, ink on paper, one red accent, hairlines and no boxes, light and dark themes. The skin draws no text with CSS `content`. Component overrides: `MarkdownContent`, `ThemeSelect`. Icon (`public/favicon.svg`): a trophy in paper colour on the light theme's red. No Chinese character: the owner ruled out 賽, which sounds like a rude word in Taiwanese.
+- Look (2026-11-20): "periodical". Serif headings (Noto Serif TC, SIL OFL, from `@fontsource/noto-serif-tc`, loaded in slices by `unicode-range`), body text in the system sans font, ink on paper, one red accent, hairlines and no boxes, light and dark themes. The skin draws no text with CSS `content`. Component overrides: `MarkdownContent`, `ThemeSelect`. Icon (`public/favicon.svg`): a trophy in paper colour on the light theme's red. No Chinese character: 賽 reads as a rude word in Taiwanese.
 
 ## Choices under "Decide per site" in `../AGENTS.md`
 
