@@ -20,7 +20,7 @@ Status on 2026-11-21: 92 records (87 with pages, 33 read twice), `pnpm verify` p
 - One JSON file per contest edition in `data/contests/`, kept in git. Scripts are the only writers of these files.
 - Static files on GitHub Pages, in a public repository of its own. Name and address: `tw-hs-contests`, `https://yuanaruru.com/tw-hs-contests/`.
 - Traditional Chinese only, at the root. There is no English version.
-- Look (2026-11-20): "periodical". Serif headings (Noto Serif TC, SIL OFL, from `@fontsource/noto-serif-tc`, loaded in slices by `unicode-range`), body text in the system sans font, ink on paper, one red accent, hairlines and no boxes, light and dark themes. The skin draws no text with CSS `content`. Component overrides: `MarkdownContent`, `ThemeSelect`.
+- Look (2026-11-20): "periodical". Serif headings (Noto Serif TC, SIL OFL, from `@fontsource/noto-serif-tc`, loaded in slices by `unicode-range`), body text in the system sans font, ink on paper, one red accent, hairlines and no boxes, light and dark themes. The skin draws no text with CSS `content`. Component overrides: `MarkdownContent`, `ThemeSelect`. Icon (`public/favicon.svg`): a trophy in paper colour on the light theme's red. No Chinese character: the owner ruled out 賽, which sounds like a rude word in Taiwanese.
 
 ## Choices under "Decide per site" in `../AGENTS.md`
 
