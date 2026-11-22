@@ -3,9 +3,14 @@
 Run: uv run -q --isolated --with pymupdf --with playwright --with jsonschema python -I pipeline/daily.py [--limit N] [--jobs N]
 
 1. Add the contests of the newest daily-report snapshot to data/candidates.json.
-2. Re-check every open record: fetch its documents again. When the text is unchanged and the
-   checks still pass, the documents have been read again today: last_verified becomes today.
-   When a document changed, the contest is queued to be read again under the same id.
+2. Re-check every watched record (open, or closed within 14 days) with the comparison of
+   pipeline/upstream.py: fetch each document once and compare it with the baseline in
+   upstream/manifest.json. No difference, every document read and the checks pass: the documents
+   have been read again today, last_verified becomes today and the baseline is renewed. A
+   difference (a quote gone, lines about dates, registration or fees added or removed, a
+   correction posted, a document gone): the contest is queued to be read again under the same id,
+   even when another of its documents could not be read. The same unresolved change does not
+   queue it again once its readings failed.
 3. Read queued candidates with the first reader (pipeline/extract.py), at most --limit; then give
    at most --second open single-reader records to the second reader, soonest deadline first.
    The second reader's quota (Codex) runs out after about 45 long readings, so it confirms the
@@ -25,68 +30,63 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import candidates as cq  # noqa: E402
 import extract  # noqa: E402
-from fetch import cached_text, fact_changes, fingerprint_of, load_index  # noqa: E402
-from validate import ROOT, Cache, check, entry_deadline  # noqa: E402
+import upstream as up  # noqa: E402
+from fetch import store  # noqa: E402
+from validate import ROOT, Cache, check  # noqa: E402
 
 TODAY = cq.TODAY
 CONTESTS = ROOT / "data/contests"
 
 
-def open_records():
-    """Records a new entrant can still join (or whose deadline is not known yet)."""
-    for path in sorted(CONTESTS.glob("*.json")):
-        rec = json.loads(path.read_text(encoding="utf-8"))
-        due = entry_deadline(rec)
-        if due is None or due[0] >= TODAY:
-            yield path, rec
-
-
-def evidence_urls(rec):
-    urls = {ev["url"] for fact in (rec["eligibility"], *rec["dates"], rec["attendance"], rec["fee"], rec["prizes"], rec["ai_policy"])
-            for ev in fact["evidence"]}
-    return sorted(urls)
+REASONS = {"quote gone": "原句已不在文件裡，重新讀取", "source changed": "文件有變動，重新讀取",
+           "correction posted": "主辦單位貼出更正，重新讀取", "document gone": "文件已移除，重新讀取",
+           "checks": "原句已不在文件裡，重新讀取"}
 
 
 def recheck():
     """Returns {'confirmed': [...], 'changed': [...], 'unreachable': [...]}."""
     result = {"confirmed": [], "changed": [], "unreachable": []}
+    records = list(up.watched())
+    seen = up.observe(sorted({u for _, rec in records for u in up.sources(rec)}))
+    results = up.compare_all(records, seen, up.load_manifest())
+    unread = {u for r in results.values() for u in r["unread"]}
+    # The cache holds what was read today, so that readers and the checks see the same text.
+    for url, got in seen.items():
+        if "error" not in got and url not in unread:
+            store(url, got["body"], got["text"], got["links"], got["info"])
     queue = cq.load()
-    for path, rec in open_records():
-        if rec["verification"]["last_verified"] == TODAY:
-            continue
-        changed, failed = [], []
-        for url in evidence_urls(rec):
-            # A view counter that moved, or a new headline in a sidebar, is not a changed document:
-            # only added or removed lines about deadlines, dates or registration call for reading again.
-            # A fact whose quote was edited away also fails the check below and is read again.
-            entry_before = load_index().get(url)
-            _, err = extract.get(url)
-            entry_after = load_index().get(url)
-            if err:
-                failed.append(url)
-            elif fingerprint_of(entry_before) != fingerprint_of(entry_after) and \
-                    fact_changes(cached_text(entry_before), cached_text(entry_after)):
-                changed.append(url)
-        if failed:
+    renewed = {}
+    for path, rec in records:
+        r = results[rec["id"]]
+        diffs = [(kind, detail) for kind, detail in r["diffs"] if kind not in up.REPORT_ONLY]
+        if not diffs and r["unread"]:
             result["unreachable"].append(rec["id"])
             continue
-        errors, _, _ = check(path, Cache())
-        if not changed and not errors:
-            rec["verification"]["last_verified"] = TODAY
-            path.write_text(json.dumps(rec, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-            result["confirmed"].append(rec["id"])
-            continue
+        if not diffs:
+            errors, _, _ = check(path, Cache())
+            if not errors:
+                rec["verification"]["last_verified"] = TODAY
+                path.write_text(json.dumps(rec, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+                renewed[rec["id"]] = up.baseline_from_seen(rec, seen)
+                result["confirmed"].append(rec["id"])
+                continue
+            diffs = [("checks", errors[0])]
         result["changed"].append(rec["id"])
-        urls = [{"url": u, "role": "rules", "name": ""} for u in cq.record_urls(rec) - {f["url"] for f in rec["found_via"]}]
-        urls += [{"url": f["url"], "role": "announcement", "name": f["name"]} for f in rec["found_via"] if f["url"]]
+        change = r["change"] or up.short("checks " + diffs[0][1])
         cand = next((c for c in queue if c.get("record") == rec["id"]), None)
+        if cand and cand.get("change") == change and cand["status"] in ("failed", "given_up", "new"):
+            continue  # the same change, already queued or given up after failed readings
+        # every document of the record, and the links that announce the change, so that the readers see them
+        docs = (cq.record_urls(rec) | set(up.sources(rec))) - {f["url"] for f in rec["found_via"]}
+        urls = [{"url": u, "role": "rules", "name": ""} for u in [*r["targets"], *sorted(docs - set(r["targets"]))]]
+        urls += [{"url": f["url"], "role": "announcement", "name": f["name"]} for f in rec["found_via"] if f["url"]]
         if not cand:
             cand = {"key": f"c{len(queue) + 1:04d}", "title": rec["title"], "deadline": None, "urls": urls,
                     "seen_in": "recheck", "first_seen": rec["first_seen"], "last_seen": TODAY, "attempts": 0}
             queue.append(cand)
-        cand.update(status="new", record=rec["id"], attempts=0,
-                    note="文件有變動，重新讀取" if changed else "原句已不在文件裡，重新讀取")
+        cand.update(status="new", record=rec["id"], attempts=0, change=change, urls=urls, note=REASONS[diffs[0][0]])
     cq.save(queue)
+    up.save_baselines(renewed, keep={rec["id"] for _, rec in records})
     return result
 
 

@@ -144,12 +144,14 @@ def merge(queue, found, seen_on):
 
 
 def link_records(queue):
-    """Mark candidates whose links already belong to a record."""
+    """Mark candidates whose links already belong to a record. A candidate that reads a record
+    again (`record` set by the daily re-check) is left as it is."""
     for path in sorted((ROOT / "data/contests").glob("*.json")):
         rec = json.loads(path.read_text(encoding="utf-8"))
         urls = {same_url(u) for u in record_urls(rec)}
         for c in queue:
-            if c["status"] in ("new", "failed") and urls & {same_url(u["url"]) for u in c["urls"]}:
+            if c["status"] in ("new", "failed") and not c.get("record") \
+                    and urls & {same_url(u["url"]) for u in c["urls"]}:
                 c["status"], c["record"] = "done", rec["id"]
 
 

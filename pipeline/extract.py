@@ -34,6 +34,7 @@ from urllib.parse import urlparse
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import candidates as cq  # noqa: E402
+import upstream as up  # noqa: E402
 from fetch import cached, fetch, load_index  # noqa: E402
 from validate import ROOT, Cache, check, entry_deadline  # noqa: E402
 
@@ -343,6 +344,8 @@ def place(rec, cand, readers, method, note):
     if errors:
         raise ValueError("record fails after the script's fields were filled: " + errors[0])
     path.write_text(json.dumps(rec, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    # What the readers read is what pnpm upstream and the daily re-check compare with.
+    up.save_baselines({rid: up.baseline_from_cache(rec)})
     return rid, level
 
 
@@ -379,7 +382,8 @@ def process(cand, readers):
         queue = cq.load()
         for c in queue:
             if c["key"] == key:
-                c.update(outcome)
+                # a failed re-read keeps the id of the record it reads again
+                c.update({k: v for k, v in outcome.items() if v is not None or k != "record"})
                 c["attempts"] = c.get("attempts", 0) + 1
                 if c["status"] == "failed" and c["attempts"] >= cq.MAX_ATTEMPTS:
                     c["status"] = "given_up"

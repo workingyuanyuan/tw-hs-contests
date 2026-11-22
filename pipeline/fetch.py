@@ -15,7 +15,6 @@ it contains, [{text, url}]). <sha256> is the hash of the text (of the bytes when
 is no text), so a changed document gets a new file and the old record's quotes can be
 compared with it.
 """
-import difflib
 import glob
 import hashlib
 import io
@@ -260,7 +259,10 @@ def read(url: str):
             extra = f"&confirm={m.group(1).decode()}" + (f"&uuid={uuid.group(1).decode()}" if uuid else "")
             body, ctype, status = http_get(f"https://drive.usercontent.google.com/download?id={parse_qs(urlparse(target).query)['id'][0]}&export=download{extra}")
     if status >= 400 and how == "auto" and "html" in ctype:
-        text, links = browser_text(url)
+        try:
+            text, links = browser_text(url)
+        except Exception as e:  # noqa: BLE001  keep the status the server gave
+            raise FetchError(f"HTTP {status}; the browser failed too: {type(e).__name__}") from e
         return text.encode("utf-8"), text, links, {"kind": "html-rendered"}
     if status >= 400:
         raise FetchError(f"HTTP {status}")
@@ -299,9 +301,12 @@ def load_index() -> dict:
 # Lines that change while the document does not: view counters, countdowns, relative times.
 NOISE = re.compile(r"(瀏覽|點閱|點擊|人次|人數|觀看|閱讀數|[Vv]iews?|[Hh]its?)\D{0,6}[:：]?\s*[\d,]+"
                    r"|^[\d,.\s]{1,12}$|報名期限\s*[\d.]+\s*天|閱讀\s*\d+\s*分鐘"
-                   r"|昨天|前天|今天|剛剛|\d+\s*(秒|分鐘|小時|天)前")
-# A change that can touch a fact of the record: a deadline, a date, registration, a postponement.
-FACT_WORDS = re.compile(r"截止|延期|延長|展延|報名|收件|繳交|期限|日期|\d{1,2}\s*月\s*\d{1,2}\s*日"
+                   r"|昨天|前天|今天|剛剛|\d+\s*(秒|分鐘|小時|天)前"
+                   r"|IP\s*(位置|位址|地址)?\s*[:：]\s*\d{1,3}(\.\d{1,3}){3}")  # the visitor's IP address, shown by some pages
+# A change that can touch a fact of the record: a deadline, a date, registration, a postponement,
+# a fee, a correction, a cancellation.
+FACT_WORDS = re.compile(r"截止|延期|延長|展延|延後|提前|報名|收件|繳交|期限|日期|報名費|參賽費|費用|收費|保證金|額滿"
+                        r"|更正|修正|勘誤|異動|補充|取消|停辦|\d{1,2}\s*月\s*\d{1,2}\s*日"
                         r"|\d{2,4}\s*[/.-]\s*\d{1,2}\s*[/.-]\s*\d{1,2}")
 
 
@@ -314,32 +319,12 @@ def fingerprint(text: str) -> str:
     return hashlib.sha256("\n".join(meaningful_lines(text)).encode("utf-8")).hexdigest()
 
 
-def fact_changes(old: str, new: str) -> list:
-    """Lines added or removed between two texts of a document that mention a deadline, a date or
-    registration. Other changes (a news sidebar, a menu) do not call for reading the contest again."""
-    a, b = meaningful_lines(old), meaningful_lines(new)
-    diff = difflib.unified_diff(a, b, lineterm="", n=0)
-    return [line for line in diff if line[:1] in "+-" and not line.startswith(("+++", "---")) and FACT_WORDS.search(line)]
-
-
-def cached_text(entry: dict | None) -> str:
-    path = CACHE / f"{entry['sha256']}.txt" if entry else None
-    return path.read_text(encoding="utf-8") if path and path.exists() else ""
-
-
-def fingerprint_of(entry: dict | None) -> str | None:
-    """Fingerprint of an index entry; computed from the cached text for entries written before
-    fingerprints existed. None when there is no text."""
-    if not entry:
-        return None
-    if entry.get("fingerprint"):
-        return entry["fingerprint"]
-    text = cached_text(entry)
-    return fingerprint(text) if text else entry["sha256"]
-
-
 def fetch(url: str) -> dict:
-    body, text, links, info = read(url)
+    return store(url, *read(url))
+
+
+def store(url: str, body: bytes, text: str, links: list, info: dict) -> dict:
+    """Write a document read by read() to the cache and the index; returns its index entry."""
     # The hash of the text, so that a page whose markup changes on every request (a clock, a
     # token) keeps its hash; a document with no text is hashed by its bytes.
     sha = hashlib.sha256(text.encode("utf-8") if text else body).hexdigest()

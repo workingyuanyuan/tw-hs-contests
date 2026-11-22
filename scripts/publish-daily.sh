@@ -23,7 +23,7 @@ if ! pnpm -s verify; then
 	exit 1
 fi
 
-git add data src/content/docs public/data
+git add data upstream/manifest.json src/content/docs public/data
 if git diff --cached --quiet; then
 	echo "no change: $today"
 	exit 0

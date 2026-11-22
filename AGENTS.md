@@ -13,6 +13,7 @@ Status on 2026-11-21: 92 records (87 with pages, 33 read twice), `pnpm verify` p
 - When the organizer's documents contradict each other, the reader picks one version and the page says which (`conflict`, in the caveat). Owner's decision.
 - The docs-sites rules hold without exceptions (owner, 2026-11-21): registration links stay in the sources in the page notes, the sidebar layout stays. The LINE share and copy buttons sit outside the article container, like the theme buttons (`src/components/Footer.astro`).
 - Sources stay the 21 second-hand aggregators of the daily report (owner, 2026-11-21): organizers hold a contest about once a year, so watching them daily costs reading quota for little; the aggregators already cover most contests. Do not add organizer or government sources to the daily run.
+- Following the sources (owner, 2026-11-22, after advice from three models, log `20261122-161538-*`): the daily run compares the documents of the watched contests with what their records were read from and reads a changed contest again; `pnpm upstream` makes the same comparison and only reports. No scheduled workflow and no issue: an issue would wait for a person.
 - The first reader (Gemini) reads every candidate. The second reader (Codex, about 45 long readings per quota window) reads at most `--second` open single-reader records per run, soonest deadline first.
 - No person reviews the content, on any day. Scripts and a second independent reading are the only gates. Do not add a step that waits for a person.
 - The catalogue holds facts only. Whether a contest suits AI-assisted student work is a separate, private product (`~/Projects/tw-highschool-ai-activity-daily`) that reads these records. Nothing here ranks, recommends or filters by suitability.
@@ -48,6 +49,7 @@ Status on 2026-11-21: 92 records (87 with pages, 33 read twice), `pnpm verify` p
 ```
 pnpm daily       # the daily run: queue, re-check, read new contests, write the pages (pipeline/daily.py)
 pnpm publish-daily  # the daily run, then verify, commit and push (deploys). The daily report's prompt runs it as its last step
+pnpm upstream    # compare the documents of the watched contests with what their records were read from; changes nothing
 pnpm queue       # add the contests of the newest daily-report snapshot to data/candidates.json
 pnpm extract --limit 5 --key c0005      # read queued contests with the two readers (pnpm passes a `--` on to the script: leave it out)
 pnpm fetch <url> [<url> ...]   # cache the text and links of a document
@@ -72,7 +74,11 @@ One search serves two products. The daily report (`~/Projects/tw-highschool-ai-a
 6. Readers differ on which later steps count as deadlines, so the deadline compared is the first one, which the pages show.
 7. The script, not the reader, sets `found_via`, `first_seen`, `updated`, `verification.last_verified`, `method` and `readers`.
 
-`pipeline/daily.py` also re-checks open records: it fetches their documents again; unchanged text with passing checks moves `last_verified` to today; changed text queues the contest to be read again under the same id. A record that still fails is moved to `data/stale/` so that it is not published. Each run writes `data/runs/<date>.json`.
+`pipeline/daily.py` also re-checks the watched records with the comparison of `pnpm upstream` (see "When the sources change"). A record that still fails the checks is moved to `data/stale/` so that it is not published. Each run writes `data/runs/<date>.json`.
+
+## When the sources change
+
+Run `pnpm upstream` and read `upstream/README.md`.
 
 `work/` holds the readers' folders and is not committed.
 
@@ -112,6 +118,7 @@ One search serves two products. The daily report (`~/Projects/tw-highschool-ai-a
 | `pipeline/candidates.py`, `data/candidates.json` | The queue of contests to read |
 | `pipeline/extract.py`, `pipeline/brief.md`, `pipeline/check_out.py` | Two readers per contest; their instructions and self-check |
 | `pipeline/daily.py`, `data/runs/` | The daily run and its summaries |
+| `pipeline/upstream.py`, `upstream/` | `pnpm upstream`, the comparison the daily re-check uses; its README and manifest |
 | `pipeline/validate.py` | Checks and verification level |
 | `pipeline/build_pages.py` | Writes the pages and `public/data/` from the records |
 | `cache/` | Text of fetched documents, not committed |
