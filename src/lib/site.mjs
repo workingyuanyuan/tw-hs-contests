@@ -109,7 +109,7 @@ export const LABELS = {
 		allPages: '所有頁面',
 		home: '首頁',
 		pageList: '所有頁面清單',
-		formats: '機器可讀格式',
+		sections: '分類',
 	},
 };
 

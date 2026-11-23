@@ -1,6 +1,5 @@
 /* Skin "periodical": serif headings, hairlines, ink on paper, one red accent, no boxes.
-   The only text drawn with CSS `content` is the key hint before each header output link
-   (src/components/SiteTitle.astro); check 5 in scripts/check-dist.mjs has a pattern for it.
+   The skin draws no text with CSS `content`.
    Heading font: Noto Serif TC (SIL OFL 1.1), loaded in slices by unicode-range from
    @fontsource/noto-serif-tc (see astro.config.mjs). Body text uses the system sans font. */
 
