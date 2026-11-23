@@ -31,22 +31,32 @@ DEADLINES = {"registration_deadline", "submission_deadline"}
 # A deadline whose label says it is for entrants already through a round, not for new entrants.
 LATER_ROUND = re.compile(r"決賽|複賽|複審|入圍|晉級|決選|補件")
 TODAY = os.environ.get("BUILD_DATE") or datetime.now(timezone(timedelta(hours=8))).date().isoformat()
+# Taiwan time of day, so that a deadline at noon is passed by an evening build. Empty under
+# BUILD_DATE: a fixed build date compares whole days.
+NOW = "" if os.environ.get("BUILD_DATE") else datetime.now(timezone(timedelta(hours=8))).strftime("%H:%M")
 
 
-def entry_deadline(rec, today: str = TODAY):
+def entry_deadline(rec, today: str = TODAY, now: str = NOW):
     """The deadline a new entrant must meet, as (date, time or ""); None when the documents give none.
 
     Registration deadlines count; without any, submission deadlines do. Deadlines for entrants
-    already through a round (LATER_ROUND) do not count. Of the rest, the first on or after `today`
-    (a contest in stages or batches is open while one stage is), else the last one: then the
-    contest is closed. Pages, archive, re-check and the comparison of two readings use this date."""
+    already through a round (LATER_ROUND) do not count. Of the rest, the first not yet passed at
+    `today` `now` (a deadline without a time lasts the whole day; a contest in stages or batches is
+    open while one stage is), else the last one: then the contest is closed. Pages, archive,
+    re-check and the comparison of two readings use this date."""
     def dated(kind):
         return sorted((d["date"], d["time"] or "") for d in rec["dates"]
                       if d["kind"] == kind and d["date"] and not LATER_ROUND.search(d["label"]))
     found = dated("registration_deadline") or dated("submission_deadline")
     if not found:
         return None
-    return next((d for d in found if d[0] >= today), found[-1])
+    return next((d for d in found if not passed(d, today, now)), found[-1])
+
+
+def passed(deadline, today: str = TODAY, now: str = NOW) -> bool:
+    """True when a (date, time or "") deadline is over at `today` `now`, Taiwan time."""
+    day, time = deadline
+    return day < today or (day == today and bool(time) and bool(now) and time < now)
 
 def normalize(text: str) -> str:
     return re.sub(r"\s+", "", text)

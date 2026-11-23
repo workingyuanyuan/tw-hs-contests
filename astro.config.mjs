@@ -33,7 +33,7 @@ export default defineConfig({
 				// The answer above the body and the page notes after it; one-click theme buttons.
 				MarkdownContent: './src/components/MarkdownContent.astro',
 				ThemeSelect: './src/components/ThemeSelect.astro',
-				// The site name and the header links to the Markdown twin, llms.txt and index.json.
+				// The site name and the header links to the sidebar's top-level groups.
 				SiteTitle: './src/components/SiteTitle.astro',
 				// LINE share and copy-announcement buttons on contest pages, outside the article.
 				Footer: './src/components/Footer.astro',

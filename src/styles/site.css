@@ -294,3 +294,52 @@ h1#_top {
 		margin-bottom: 0.5rem;
 	}
 }
+
+/* Motion. Behind the content, a soft pool of lamplight drifts slowly over the paper; it adds
+   no text and nothing moves between or behind words. On arrival, once: the title and the
+   answer settle in like ink, and the rule under the answer is drawn from the left.
+   Nothing moves for a reader who asks for reduced motion. */
+:root {
+	--lamp: rgba(255, 196, 120, 0.07);
+}
+:root[data-theme='light'] {
+	--lamp: rgba(255, 214, 160, 0.32);
+}
+@media (prefers-reduced-motion: no-preference) {
+	body::before {
+		content: '';
+		position: fixed;
+		inset: -50vmax;
+		z-index: -1;
+		pointer-events: none;
+		background: radial-gradient(closest-side, var(--lamp), transparent) 0 0 / 70vmax 70vmax no-repeat;
+		animation: lamp 90s ease-in-out infinite alternate;
+	}
+	@keyframes lamp {
+		0% { transform: translate(55vw, 40vh); }
+		33% { transform: translate(95vw, 70vh); }
+		66% { transform: translate(70vw, 105vh); }
+		100% { transform: translate(110vw, 50vh); }
+	}
+
+	h1#_top,
+	.sl-markdown-content .answer {
+		animation: ink 0.7s cubic-bezier(0.2, 0.7, 0.2, 1) both;
+	}
+	.sl-markdown-content .answer {
+		animation-delay: 0.12s;
+		border-bottom-color: transparent;
+		background: linear-gradient(var(--rule), var(--rule)) left bottom / 100% 1px no-repeat;
+		animation-name: ink, rule;
+		animation-duration: 0.7s, 0.9s;
+		animation-delay: 0.12s, 0.3s;
+	}
+	@keyframes ink {
+		from { opacity: 0; filter: blur(3px); transform: translateY(0.4rem); }
+		to { opacity: 1; filter: none; transform: none; }
+	}
+	@keyframes rule {
+		from { background-size: 0 1px; }
+		to { background-size: 100% 1px; }
+	}
+}

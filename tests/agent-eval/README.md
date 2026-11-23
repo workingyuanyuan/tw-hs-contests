@@ -47,7 +47,7 @@ Checks whether an agent that starts from a question, with no URL, finds this sit
 
 | Run | Pass | Partial | Fail | Fetches (from the log) |
 | --- | --- | --- | --- | --- |
-| This site, start URL `http://127.0.0.1:4417/tw-hs-contests/` | 9 (q02 used 4 fetches) | 1 (q08) | 0 | 19 |
+| This site, start URL `http://127.0.0.1:4417/tw-hs-contests/` | 8 (q02 answered right in 4 fetches, over the limit of 3, so not counted) | 1 (q08) | 0 | 19 |
 | Organizers' pages | 1 (q05) | 2 (q01, q04) | 7 | 14 |
 
 On the site:

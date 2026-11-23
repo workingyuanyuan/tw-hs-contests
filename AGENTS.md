@@ -2,33 +2,41 @@
 
 This site is a catalogue of contests that senior-high and vocational-high students in Taiwan can enter. Its readers are teachers and school staff, and the AI agents that work for them. The rules in `../AGENTS.md` apply; this file holds what is specific to this site and wins where it differs.
 
-Status on 2026-11-21: 92 records (87 with pages, 33 read twice), `pnpm verify` passes, and the agent test passed 9 of 10 on the site against 1 of 10 on the organizers' pages (`tests/agent-eval/README.md`). The owner approved the look "periodical" on 2026-11-20 and, on 2026-11-21, the redesign below: a catalogue that wins the attention of teachers and students, not a fact sheet in the daily report's terms. Published on 2026-11-21 at https://yuanaruru.com/tw-hs-contests/ from the public repository workingyuanyuan/tw-hs-contests (a push to `main` deploys). There is no schedule: the owner starts the daily report by hand (the computer must be on), and its prompt ends with `pnpm publish-daily`. Pages change only on such a run.
+Live since 2026-11-21 at https://yuanaruru.com/tw-hs-contests/, from the public repository workingyuanyuan/tw-hs-contests (a push to `main` deploys). There is no schedule: the daily report is started by hand on this computer, and its prompt ends with `pnpm publish-daily`. Pages change only on such a run. Agent test results are in `tests/agent-eval/README.md`.
 
 ## Decisions by the owner
 
-- Goal: every contest in the country, all subjects. This is a goal, not a guarantee: the site states which sources were read and how fresh each record is.
+- Goal: every contest in the country, all subjects. This is a goal, not a guarantee: `llms.txt` and the data files state which sources were read and how fresh each record is; page text does not.
 - A page needs supported facts on the deadline and on who may enter (`KEY_FACTS` in `pipeline/validate.py`; owner, 2026-11-21).
-- Readers are teachers who pass contests on to students in LINE groups, and students who land on one contest page from such a link (owner, 2026-11-21, after advice from three models). Pages show the contest: what to do, the deadline, who may enter, deliverables, prizes, timeline. A fee is shown only when one is charged. Attendance and AI rules are not shown: they serve the daily report and stay in the data files.
-- A contest is open while a new entrant can still register (`entry_deadline` in `pipeline/validate.py`): the next registration deadline, else the next submission deadline, leaving out deadlines for entrants already through a round. After it, the contest moves to the archive (`/archive/<yyyy-mm>/`); its page keeps its address and says it is closed.
+- Readers are teachers who pass contests on to students in LINE groups, and students who land on one contest page from such a link (owner, 2026-11-21). Pages show the contest: what to do, the deadline, who may enter, deliverables, prizes, timeline. A fee is shown only when one is charged. Attendance and AI rules are not shown: they serve the daily report and stay in the data files.
+- A contest is open while a new entrant can still register (`entry_deadline` in `pipeline/validate.py`): the next registration deadline, else the next submission deadline, leaving out deadlines for entrants already through a round. It ends at its time, Taiwan time (`passed` in `pipeline/validate.py`; `../AGENTS.md`, Research and provenance). After it, the contest moves to the archive (`/archive/<yyyy-mm>/`); its page keeps its address and says it is closed.
 - When the organizer's documents contradict each other, the reader picks one version and the page says which (`conflict`, in the caveat). Owner's decision.
-- The docs-sites rules hold without exceptions (owner, 2026-11-21): registration links stay in the sources in the page notes, the sidebar layout stays. The LINE share and copy buttons sit outside the article container, like the theme buttons (`src/components/Footer.astro`).
+- Registration links stay in the sources in the page notes, and the sidebar layout stays as in `../AGENTS.md` (owner, 2026-11-21). The LINE share and copy buttons sit outside the article container, like the theme buttons (`src/components/Footer.astro`).
+- Source text (2026-11-23): each fact keeps the short quote it was read from (`evidence[].quote`, a sentence or two), committed with its record and published in `/data/contests.json`. The full text of fetched documents is not committed (`cache/`).
 - Sources stay the 21 second-hand aggregators of the daily report (owner, 2026-11-21): organizers hold a contest about once a year, so watching them daily costs reading quota for little; the aggregators already cover most contests. Do not add organizer or government sources to the daily run.
-- Following the sources (owner, 2026-11-22, after advice from three models, log `20261122-161538-*`): the daily run compares the documents of the watched contests with what their records were read from and reads a changed contest again; `pnpm upstream` makes the same comparison and only reports. No scheduled workflow and no issue: an issue would wait for a person.
-- The first reader (Gemini) reads every candidate. The second reader (Codex, about 45 long readings per quota window) reads at most `--second` open single-reader records per run, soonest deadline first.
-- No person reviews the content, on any day. Scripts and a second independent reading are the only gates. Do not add a step that waits for a person.
-- The catalogue holds facts only. Whether a contest suits AI-assisted student work is a separate, private product (`~/Projects/tw-highschool-ai-activity-daily`) that reads these records. Nothing here ranks, recommends or filters by suitability.
+- Following the sources (owner, 2026-11-22): the daily run reads a contest again when its documents changed; `pnpm upstream` only reports. No scheduled workflow and no issue, because an issue would wait for a person.
+- No person reviews the content, on any day. Scripts are the only gate: a record read once publishes at level `checked`, and a second independent reading, when quota allows, raises it to `verified` or withholds the page when the two disagree. Do not add a step that waits for a person.
+- The catalogue holds facts only. Whether a contest suits AI-assisted student work is a separate, private product (the daily report, `DAILY_REPO`) that reads these records. Nothing here ranks, recommends or filters by suitability.
 - A contest is included when it has judging, it gives a rank or a prize, and senior-high or vocational-high students may enter. Contests limited to one county or city, and contests that need the school's nomination, are included. Camps, certification exams and lectures are not.
 - One JSON file per contest edition in `data/contests/`, kept in git. Scripts are the only writers of these files.
 - Static files on GitHub Pages, in a public repository of its own. Name and address: `tw-hs-contests`, `https://yuanaruru.com/tw-hs-contests/`.
 - Traditional Chinese only, at the root. There is no English version.
-- Look (2026-11-20): "periodical". Serif headings (Noto Serif TC, SIL OFL, from `@fontsource/noto-serif-tc`, loaded in slices by `unicode-range`), body text in the system sans font, ink on paper, one red accent, hairlines and no boxes, light and dark themes. The skin draws no text with CSS `content`. Component overrides: `MarkdownContent`, `ThemeSelect`, `SiteTitle` (the header links the three sidebar groups, 依截止月份, 依類別 and 封存, each to its first page; the Markdown twin, `llms.txt` and `index.json` are linked from the page notes: owner decision 2026-11-22, which removed the `[M]` `[L]` `[J]` header links) and `Footer` (LINE share and copy on contest pages). Icon (`public/favicon.svg`): a trophy in paper colour on the light theme's red. No Chinese character: 賽 reads as a rude word in Taiwanese.
+- No "unofficial" label in the header (2026-11-23): contests have many organizers and no single official source, so there is no official site to tell this one apart from. `llms.txt` says once that the site is not the organizer of any contest and that each organizer's rules and corrections govern (`../AGENTS.md`, Visible page).
+- Look (2026-11-20): "periodical". Serif headings (Noto Serif TC, SIL OFL, from `@fontsource/noto-serif-tc`, loaded in slices by `unicode-range`), body text in the system sans font, ink on paper, one red accent, hairlines and no boxes, light and dark themes. Motion (2026-11-23): a soft pool of lamplight drifts behind the content over 90 s; on arrival the title and the answer settle in like ink and the rule under the answer is drawn once (`src/styles/site.css`, last block). Icon (`public/favicon.svg`): a trophy in paper colour on the light theme's red. No Chinese character: 賽 reads as a rude word in Taiwanese.
 
 ## Choices under "Decide per site" in `../AGENTS.md`
 
-- Pages are produced from records: the source of a contest page is its JSON record, not hand-written Markdown. A script writes the Markdown page from the record; the contract fields come from the record: `title`, `description` from `summary`, `appliesTo` from `edition`, `caveat` from the fact a reader most likely misses (finalists must attend, entry fee, limited to one county, nomination needed), `lastVerified`, `sources` from the documents read.
+- Pages are produced from records: the source of a contest page is its JSON record, not hand-written Markdown. A script writes the Markdown page from the record; the contract fields come from the record: `title`, `description` from `summary`, `appliesTo` from `edition`, `caveat` from the fact a reader most likely misses (see `caveat` under Pages), `lastVerified`, `sources` from the documents read.
 - Languages: one, so there is no translation step and no parity check.
-- The home page cannot link every contest within 5,000 characters. It links index pages (by deadline month, subject, region), and each index page lists its contests.
-- Who lets a change go live: the owner confirms the look and the hand-written pages. Contest records go live without confirmation when the checks pass.
+- The home page cannot link every contest within 5,000 characters. It links index pages (by deadline month, by subject, and the archive by month), and each index page lists its contests.
+- Who lets a change go live: there are no hand-written pages. The owner confirms the look and changes to the generator; contest records go live without confirmation when the checks pass.
+
+## Choices made by agents
+
+Not decided by the owner; change them when the work calls for it.
+
+- The first reader (Gemini) reads every candidate. The second reader (Codex, about 45 long readings per quota window) reads at most `--second` open single-reader records per run, soonest deadline first.
+- The skin draws no text with CSS `content`. Component overrides: `MarkdownContent`, `ThemeSelect`, `SiteTitle` (the header links the three sidebar groups, 依截止月份, 依類別 and 封存, each to its first page) and `Footer` (LINE share and copy on contest pages).
 
 ## Records
 
@@ -62,7 +70,7 @@ pnpm preview     # serve dist/ at http://127.0.0.1:4399/tw-hs-contests/ ; pass a
 
 ## Collection
 
-One search serves two products. The daily report (`~/Projects/tw-highschool-ai-activity-daily`, `DAILY_REPO`) finds contests and writes a snapshot that links every contest it saw: the graded ones, the excluded ones and a table of other contests for this catalogue (「目錄候選」). `pipeline/candidates.py` turns those links into the queue `data/candidates.json`; a contest seen again is matched by any shared link.
+One search serves two products. The daily report (a private repository, path in `DAILY_REPO`) finds contests and writes a snapshot that links every contest it saw: the graded ones, the excluded ones and a table of other contests for this catalogue (「目錄候選」). `pipeline/candidates.py` turns those links into the queue `data/candidates.json`; a contest seen again is matched by any shared link.
 
 `pipeline/extract.py` reads one candidate:
 
@@ -71,16 +79,18 @@ One search serves two products. The daily report (`~/Projects/tw-highschool-ai-a
 3. A reading whose checks fail gets one more run with the errors.
 4. Both pass and agree on the key facts (first deadline, who may enter, division, region, nomination): method `dual`, level `verified`. Both pass and disagree: method `disputed`, level `unverified`, no page; the note lists the differences. Attendance and fee are compared too, but a contradiction only removes that fact from the record (value `unknown`, basis `unread`, named in the note); it does not withhold the page. One passes: method `single`, level `checked`. Both skip: the candidate is `skipped` with the reason. Otherwise `failed`, tried once more on a later day.
 5. A reader that reports a usage limit is not called again in the same run. Records read by one reader for that reason get the second reading in a later run (`second_readings`, part of `pipeline/daily.py`; `pnpm extract --limit 0 --second 15` alone).
-6. Readers differ on which later steps count as deadlines, so the deadline compared is the first one, which the pages show.
+6. Readers differ on which later steps count as deadlines, so the deadline compared is the one a new entrant must meet (`entry_deadline`), which the pages show.
 7. The script, not the reader, sets `found_via`, `first_seen`, `updated`, `verification.last_verified`, `method` and `readers`.
 
-`pipeline/daily.py` also re-checks the watched records with the comparison of `pnpm upstream` (see "When the sources change"). A record that still fails the checks is moved to `data/stale/` so that it is not published. Each run writes `data/runs/<date>.json`.
+`pipeline/daily.py` also re-checks the watched records with the comparison of `pnpm upstream`. A record that still fails the checks is moved to `data/stale/` so that it is not published. Each run writes `data/runs/<date>.json`.
+
+`work/` holds the readers' folders and is not committed.
 
 ## When the sources change
 
 Run `pnpm upstream` and read `upstream/README.md`.
 
-`work/` holds the readers' folders and is not committed.
+## Writing the pages
 
 `pnpm pages` runs `pipeline/build_pages.py`. It checks every record (schema, file name, every quote present in the cached text of its document with whitespace ignored, every date present in its quote, at least one link), leaves out a record with an error and exits with 1. It replaces `src/content/docs/index.md`, `contests/`, `deadlines/`, `subjects/`, `archive/` and `public/data/`. Quotes stay in the data files; pages do not show them. Do not edit those by hand; change the record or the generator.
 
@@ -88,23 +98,22 @@ Run `pnpm upstream` and read `upstream/README.md`.
 
 ## Pages
 
-- `caveat` is chosen by the generator in this order: closed, school nomination, limited region, judged together with older entrants, fee or deposit, else the deadline. A `conflict` in the record is added after it. It is shown in the page notes after the body and in the hidden note, as `../AGENTS.md` says.
-- Pages state facts only ("No disclaimers about the page itself" in `../AGENTS.md`). A value that is `unknown`, or that rests on basis `absent` (the documents say nothing about a fee or about AI), is left out of the page. The page does not list unread documents and has no verification label. The data files keep all of it: `basis`, `verification.unread`, `level`.
+- `caveat` is chosen by the generator in this order: closed, school nomination, limited region, judged together with older entrants, fee or deposit, else that dates and times are Taiwan time. A `conflict` in the record is added after it (or stands alone, in place of the Taiwan-time sentence). It is shown in the page notes after the body and in the hidden note, as `../AGENTS.md` says.
+- Page text is about the contests ("Visible page" in `../AGENTS.md`). A value that is `unknown`, or that rests on basis `absent` (the documents say nothing about a fee or about AI), is left out of the page. The page does not list unread documents and has no verification label. The data files keep all of it: `basis`, `verification.unread`, `level`.
 - A record whose level is `unverified` gets no page. It is in `data/contests.json` with `url: null`.
 - Every link of a contest (official page, registration, rules, the announcement where it was found) is in `sources`, shown in the page notes. The body has no link list.
-- The home page says once that the site does not belong to any organizer; `llms.txt` says it too.
 - Index tables have three columns (deadline, contest with its one-sentence summary, who may enter); limits on entry are on the contest page only. Deadline and subject indexes list open contests only; archive indexes list closed ones.
 - The home page opens with two short lists (deadline and name, `HOME_ROWS` each): contests closing within 14 days and contests first seen in the last 7 days; the index links follow. More rows or columns push the index links past the first 5,000 characters, and `pnpm verify` fails.
-- No sentence explains the site or the page (owner, 2026-11-21): the answer line of a page is a fact (counts, the earliest deadline, the contest's summary), and the not-an-organizer statement is said once, in the home page's caveat and in `llms.txt`.
+- No sentence explains the site or the page (owner, 2026-11-21): the answer line of a page is a fact (counts, the earliest deadline, the contest's summary). The not-an-organizer statement is in `llms.txt` only.
+- Two editions of one contest may share a `description` (`mayShareDescription` in `scripts/check-dist.mjs`); their titles differ.
 - Contest pages are not in the sidebar. Every contest must be linked from an index page; the check script fails otherwise.
-- Screenshots go in `../preview/tw-hs-contests/` (`b/` holds the current look; `options/` the four options shown to the owner). Headless Chromium has no Chinese font here: point `FONTCONFIG_FILE` at a config that adds `/mnt/c/Windows/Fonts`.
+- Screenshots go in `../preview/tw-hs-contests/` (`b/` holds the current look; `options/` the four options shown to the owner). For Chinese in headless Chromium, see `../STACK.md` (Preview and screenshots).
 
 ## Verified pitfalls
 
 - `codex` (GPT reader) hit its usage limit after about 45 readings on 2026-11-20; the limit resets after some hours. Gemini via `agy` did not hit one in about 110 readings.
 - Links on school sites hold spaces and Chinese characters unescaped; `fetch.py` escapes them before the request.
 - bhuntr.com pages of closed contests return 404; such a candidate fails and is given up after two tries.
-
 - Inline tags split sentences in the extracted text ("作品須 至少使用 2 類不同 的"). Quotes are compared with all whitespace removed, so copy the sentence as it reads.
 - A date followed by a time ("2026/11/27 23:59") must be matched before whitespace is removed, or the day runs into the hour.
 
@@ -117,15 +126,18 @@ Run `pnpm upstream` and read `upstream/README.md`.
 | `pipeline/fetch.py` | Fetch a document and cache its text and links |
 | `pipeline/candidates.py`, `data/candidates.json` | The queue of contests to read |
 | `pipeline/extract.py`, `pipeline/brief.md`, `pipeline/check_out.py` | Two readers per contest; their instructions and self-check |
-| `pipeline/daily.py`, `data/runs/` | The daily run and its summaries |
+| `pipeline/daily.py`, `data/runs/`, `data/stale/` | The daily run, its summaries, and records that failed the re-check (no page) |
+| `scripts/publish-daily.sh` | `pnpm publish-daily`: the daily run, `pnpm verify`, commit and push |
+| `.github/workflows/deploy.yml`, `scripts/indexnow.mjs` | Build, `pnpm verify`, deploy, then submit changed pages to IndexNow |
 | `pipeline/upstream.py`, `upstream/` | `pnpm upstream`, the comparison the daily re-check uses; its README and manifest |
 | `pipeline/validate.py` | Checks and verification level |
 | `pipeline/build_pages.py` | Writes the pages and `public/data/` from the records |
 | `cache/` | Text of fetched documents, not committed |
 | `src/lib/site.mjs` | Site URL and sub-path, URL rules, `llms.txt` notes, labels |
 | `src/lib/page-md.mjs`, `src/lib/llms.mjs`, `src/pages/` | Markdown twins, `llms.txt`, bundles, `index.json`, `robots.txt` |
-| `src/components/MarkdownContent.astro`, `src/components/ThemeSelect.astro`, `src/styles/site.css` | Answer above the body and page notes after it; theme buttons; the skin |
-| `scripts/check-dist.mjs`, `scripts/preview.mjs` | Acceptance checks, local preview |
+| `src/components/MarkdownContent.astro`, `src/components/ThemeSelect.astro`, `src/styles/site.css` | Answer above the body and page notes after it, with the Markdown twin, `llms.txt` and `index.json` links; theme buttons; the skin |
+| `src/components/SiteTitle.astro`, `src/components/Footer.astro` | Site name and section links; LINE share and copy |
+| `scripts/check-dist.mjs`, `scripts/check-page-text.mjs`, `scripts/preview.mjs` | Acceptance checks (the second, copied unchanged from the reference site: section links, format links, no text about the site or the page), local preview |
 | `src/lib/sitemap.mjs` | Sitemap options: `lastmod` of each page from `lastVerified` |
 | `scripts/check-found.mjs` | Checks called by `check-dist.mjs`: a title and description of its own for every page, canonical, `hreflang`, sitemap |
 | `tests/agent-eval/questions.json` | The site's question list: what readers ask, each with the expected answer and qualifier. The agent test and the search test draw from it |

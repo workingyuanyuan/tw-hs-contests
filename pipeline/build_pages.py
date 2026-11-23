@@ -28,7 +28,7 @@ from pathlib import Path
 from urllib.parse import urlparse
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from validate import ROOT, Cache, check, entry_deadline  # noqa: E402
+from validate import ROOT, Cache, check, entry_deadline, passed  # noqa: E402
 
 SITE = os.environ.get("SITE_URL", "https://yuanaruru.com/tw-hs-contests").rstrip("/")
 DOCS = ROOT / "src/content/docs"
@@ -88,7 +88,7 @@ def deadline(rec):
 
 def is_open(rec) -> bool:
     d = deadline(rec)
-    return d is None or d[0] >= TODAY
+    return d is None or not passed(d)
 
 
 def deadline_text(rec) -> str:
@@ -153,13 +153,19 @@ def source_titles(rec) -> dict:
         titles[rec["links"]["registration"]] = "報名頁面"
     if rec["links"]["official"]:
         titles[rec["links"]["official"]] = "官方頁面"
-    # A cached page may be the official page under a longer address (index.html).
+    # A cached page may be the official page under a longer address (index.html); another page
+    # under the official address is a source of its own and keeps its path.
     official = rec["links"]["official"]
     for fact in facts_of(rec):
         for ev in fact["evidence"]:
             if ev["url"] not in titles:
-                same = official and ev["url"].startswith(official)
-                titles[ev["url"]] = "官方頁面" if same else urlparse(ev["url"]).netloc
+                rest = ev["url"][len(official):].strip("/") if official and ev["url"].startswith(official) else None
+                if rest in ("", "index.html", "index.htm", "index.php"):
+                    titles[ev["url"]] = "官方頁面"
+                elif rest is not None:
+                    titles[ev["url"]] = "官方網站其他頁面"
+                else:
+                    titles[ev["url"]] = urlparse(ev["url"]).netloc
     return titles
 
 
@@ -287,7 +293,7 @@ def home_page(records, months, subjects, archive) -> str:
     fresh = sorted((r for r in live if r["first_seen"] >= new_since), key=lambda r: (r["first_seen"], r["id"]), reverse=True)
     fields = {
         "title": "高中職競賽目錄",
-        "description": f"現在可以報名的比賽 {len(live)} 則，{len(soon)} 則在 {SOON_DAYS} 天內截止。",
+        "description": f"臺灣高中職學生現在可以報名的比賽 {len(live)} 則，{len(soon)} 則在 {SOON_DAYS} 天內截止。",
         "appliesTo": f"資料更新至 {last_checked(records)}",
         "caveat": "日期皆為臺灣時間 (UTC+8)；截止日是新參賽者報名的最後一天，報名方式與資格以主辦單位的簡章與報名頁為準。",
         "lastVerified": last_checked(records),
@@ -325,6 +331,12 @@ def main():
             rejected.append((path.name, errors))
             continue
         rec = json.loads(path.read_text(encoding="utf-8"))
+        # Every document a fact rests on is in the page's sources (../AGENTS.md, Content contract).
+        listed = {s["url"] for s in contest_sources(rec)}
+        missing = sorted({ev["url"] for fact in facts_of(rec) for ev in fact["evidence"]} - listed)
+        if missing:
+            rejected.append((path.name, [f"evidence not in the page's sources: {missing[0]}"]))
+            continue
         rec["_level"] = level
         records.append(rec)
     if not records:
