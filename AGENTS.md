@@ -122,6 +122,15 @@ Run `pnpm upstream` and read `upstream/README.md`.
 - Inline tags split sentences in the extracted text ("作品須 至少使用 2 類不同 的"). Quotes are compared with all whitespace removed, so copy the sentence as it reads.
 - A date followed by a time ("2026/11/27 23:59") must be matched before whitespace is removed, or the day runs into the hour.
 
+## Programs that read the catalogue
+
+The daily report, and any other program, reads the catalogue's data and writes nothing in this repository. The catalogue reads nothing from them: it does not read the daily report's snapshots, and `pnpm publish-daily` fetches and reads nothing; it checks and pushes what the rounds of a run wrote (`RUN.md`).
+
+- `https://yuanaruru.com/tw-hs-contests/data/contests.json` (`public/data/contests.json` in a clone): every record, open and closed, as published. `generated` is the date of the build. Each record carries `level` (`verified`, `checked`, `unverified`) and `url`, which is `null` for a record with no page. Fields are defined in `data/schema/contest.schema.json`; records carry `schema` (now 1). The facts pages leave out are here with their `basis`: `attendance`, `ai_policy`, a fee of none, `verification.unread`.
+- Open or closed is not a field. A contest is open until its entry deadline passes: `entry_deadline` and `passed` in `pipeline/validate.py`, Taiwan time.
+- Freshness: `data/runs/<date>.json` exists for each day a run discovered, and gives each source's pages read, announcements seen and new, and status (`ok`, `partial`, `failed`). `verification.last_verified` is the last day a record was read, or re-checked against unchanged documents.
+- Contests found and not yet in a record: `data/candidates.json`; the statuses are in the docstring of `pipeline/candidates.py`.
+
 ## Where things are
 
 | Path | Role |
