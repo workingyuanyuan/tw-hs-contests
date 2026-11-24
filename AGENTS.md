@@ -13,7 +13,8 @@ Live since 2026-11-21 at https://yuanaruru.com/tw-hs-contests/, from the public 
 - When the organizer's documents contradict each other, the reader picks one version and the page says which (`conflict`, in the caveat). Owner's decision.
 - Registration links stay in the sources in the page notes, and the sidebar layout stays as in `../AGENTS.md` (owner, 2026-11-21). The LINE share and copy buttons sit outside the article container, like the theme buttons (`src/components/Footer.astro`).
 - Source text (2026-11-23): each fact keeps the short quote it was read from (`evidence[].quote`, a sentence or two), committed with its record and published in `/data/contests.json`. The full text of fetched documents is not committed (`cache/`).
-- Sources stay the 21 second-hand aggregators of the daily report (owner, 2026-11-21): organizers hold a contest about once a year, so watching them daily costs reading quota for little; the aggregators already cover most contests. Do not add organizer or government sources to the daily run.
+- The catalogue finds contests itself (2026-11-24). It does not depend on the daily report; the daily report reads the catalogue's records. Scripts read the sources' list pages (`pnpm discover`, `data/sources.json`); models only judge (whether an announcement is a contest, what its documents say). A bounded web search may find the organizer's page or rules of a contest already found, never new sources to watch.
+- Sources: the list in `data/sources.json`. It started as the 21 second-hand aggregators the daily report read (2026-11-21), which were chosen for the daily report's purpose; it is to be reviewed against this catalogue's scope (2026-11-24), and the owner approves the new list. Until then, do not add organizer or government sources.
 - Following the sources (owner, 2026-11-22): the daily run reads a contest again when its documents changed; `pnpm upstream` only reports. No scheduled workflow and no issue, because an issue would wait for a person.
 - No person reviews the content, on any day. Scripts are the only gate: a record read once publishes at level `checked`, and a second independent reading, when quota allows, raises it to `verified` or withholds the page when the two disagree. Do not add a step that waits for a person.
 - The catalogue holds facts only. Whether a contest suits AI-assisted student work is a separate, private product (the daily report, `DAILY_REPO`) that reads these records. Nothing here ranks, recommends or filters by suitability.
@@ -58,7 +59,8 @@ Not decided by the owner; change them when the work calls for it.
 pnpm daily       # the daily run: queue, re-check, read new contests, write the pages (pipeline/daily.py)
 pnpm publish-daily  # the daily run, then verify, commit and push (deploys). The daily report's prompt runs it as its last step
 pnpm upstream    # compare the documents of the watched contests with what their records were read from; changes nothing
-pnpm queue       # add the contests of the newest daily-report snapshot to data/candidates.json
+pnpm discover    # read the sources' list pages; record every announcement in data/discovered.json
+pnpm queue       # add the contests of the newest daily-report snapshot to data/candidates.json (until discovery feeds the queue)
 pnpm extract --limit 5 --key c0005      # read queued contests with the two readers (pnpm passes a `--` on to the script: leave it out)
 pnpm fetch <url> [<url> ...]   # cache the text and links of a document
 pnpm pages       # check the records, then write the pages and data files from them
@@ -70,7 +72,9 @@ pnpm preview     # serve dist/ at http://127.0.0.1:4399/tw-hs-contests/ ; pass a
 
 ## Collection
 
-One search serves two products. The daily report (a private repository, path in `DAILY_REPO`) finds contests and writes a snapshot that links every contest it saw: the graded ones, the excluded ones and a table of other contests for this catalogue (「目錄候選」). `pipeline/candidates.py` turns those links into the queue `data/candidates.json`; a contest seen again is matched by any shared link.
+`pnpm discover` (`pipeline/discover.py`) reads each source in `data/sources.json` page by page and records every announcement in `data/discovered.json` with its title, its date on the list and an outcome; how far it reads, why it stops and how a source is marked failed are in the script's docstring. Each run writes, per source, the pages read, the announcements seen and new, the oldest date and the stop reason to `data/runs/<date>.json`. A source marked `partial` or `failed` is fixed in its entry in `data/sources.json`, not worked around.
+
+Being changed (2026-11-24): discovery does not feed the queue yet. Until a step that sorts announcements into contests and non-contests exists, the queue `data/candidates.json` still comes from the daily report's snapshot (`pipeline/candidates.py`, path in `DAILY_REPO`); a contest seen again is matched by any shared link. On its first run discovery found about 90 of the 92 open contests in the snapshots of 2026-11-13 to 2026-11-20; the two it missed were on no list page it read.
 
 `pipeline/extract.py` reads one candidate:
 
@@ -124,6 +128,7 @@ Run `pnpm upstream` and read `upstream/README.md`.
 | `data/schema/contest.schema.json` | Definition of a record |
 | `data/contests/<id>.json` | One contest edition each |
 | `pipeline/fetch.py` | Fetch a document and cache its text and links |
+| `data/sources.json`, `pipeline/discover.py`, `data/discovered.json` | The sources, `pnpm discover`, and every announcement it found |
 | `pipeline/candidates.py`, `data/candidates.json` | The queue of contests to read |
 | `pipeline/extract.py`, `pipeline/brief.md`, `pipeline/check_out.py` | Two readers per contest; their instructions and self-check |
 | `pipeline/daily.py`, `data/runs/`, `data/stale/` | The daily run, its summaries, and records that failed the re-check (no page) |

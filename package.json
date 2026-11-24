@@ -6,6 +6,7 @@
     "dev": "astro dev",
     "pages": "uv run -q --isolated --with jsonschema python -I pipeline/build_pages.py",
     "fetch": "uv run -q --isolated --with pymupdf --with playwright --with jsonschema python -I pipeline/fetch.py",
+    "discover": "uv run -q --isolated --with pymupdf --with playwright --with jsonschema python -I pipeline/discover.py",
     "queue": "python3 -I pipeline/candidates.py",
     "extract": "uv run -q --isolated --with pymupdf --with playwright --with jsonschema python -I pipeline/extract.py",
     "upstream": "uv run -q --isolated --with pymupdf --with playwright --with jsonschema python -I pipeline/upstream.py",

@@ -16,6 +16,7 @@ is no text), so a changed document gets a new file and the old record's quotes c
 compared with it.
 """
 import glob
+import os
 import hashlib
 import io
 import json
@@ -223,19 +224,60 @@ def http_get(url: str):
         return e.read(), e.headers.get("Content-Type", ""), e.code
 
 
-def browser_text(url: str):
-    """Render a page in headless Chromium and return (text, links)."""
+def chromium() -> str | None:
+    """A Chromium to drive: $CHROME_PATH, else Playwright's own headless shell, else Playwright's default."""
+    if os.environ.get("CHROME_PATH"):
+        return os.environ["CHROME_PATH"]
+    exe = sorted(glob.glob(str(Path.home() / ".cache/ms-playwright/chromium_headless_shell-*/*/chrome-headless-shell")))
+    return exe[-1] if exe else None
+
+
+def browser_text(url: str, scrolls: int = 0):
+    """Render a page in headless Chromium and return (text, links). `scrolls`: times at most to scroll
+    to the bottom first, for lists that load more items as the reader scrolls; it stops early when the
+    page stops growing.
+
+    The page is loaded, then given up to 20 s to fall network-idle: pages that keep a connection open
+    (Wix, chat widgets) never do, and are read after the wait. A link with no text of its own (an image
+    link) takes the text of another link to the same address, else its title, aria-label or image alt."""
+    from playwright.sync_api import TimeoutError as PlaywrightTimeout  # noqa: PLC0415
     from playwright.sync_api import sync_playwright  # noqa: PLC0415
 
-    exe = sorted(glob.glob(str(Path.home() / ".cache/ms-playwright/chromium_headless_shell-*/*/chrome-headless-shell")))
+    exe = chromium()
     with sync_playwright() as p:
-        browser = p.chromium.launch(executable_path=exe[-1]) if exe else p.chromium.launch()
-        page = browser.new_page(user_agent=UA, locale="zh-TW")
-        resp = page.goto(url, wait_until="networkidle", timeout=60000)
+        browser = p.chromium.launch(executable_path=exe) if exe else p.chromium.launch()
+        page = browser.new_page(user_agent=UA, locale="zh-TW", ignore_https_errors=True)
+        resp = page.goto(url, wait_until="load", timeout=60000)
+        try:
+            page.wait_for_load_state("networkidle", timeout=20000)
+        except PlaywrightTimeout:
+            page.wait_for_timeout(3000)
         page.wait_for_timeout(1500)
+        height = page.evaluate("document.body.scrollHeight")
+        for _ in range(scrolls):
+            page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
+            page.wait_for_timeout(1500)
+            grown = page.evaluate("document.body.scrollHeight")
+            for _ in range(3):  # nothing loaded yet: wait a little longer before calling it the end
+                if grown != height:
+                    break
+                page.wait_for_timeout(2000)
+                page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
+                grown = page.evaluate("document.body.scrollHeight")
+            if grown == height:
+                break
+            height = grown
         text = page.evaluate("document.body.innerText")
-        links = page.evaluate("""[...document.querySelectorAll('a[href]')].map(a => ({text: a.innerText.trim().replace(/\\s+/g,' '), url: a.href}))
-            .filter(l => /^https?:/.test(l.url))""")
+        links = page.evaluate("""(() => {
+            const as = [...document.querySelectorAll('a[href]')];
+            const named = {};
+            for (const a of as) { const t = a.innerText.trim(); if (t && !(a.href in named)) named[a.href] = t; }
+            return as.map(a => {
+                const img = a.querySelector('img[alt]');
+                const t = a.innerText.trim() || named[a.href] || a.title || a.getAttribute('aria-label') || (img ? img.alt : '');
+                return {text: t.replace(/\\s+/g, ' '), url: a.href};
+            }).filter(l => /^https?:/.test(l.url));
+        })()""")
         status = resp.status if resp else 0
         browser.close()
     if status >= 400:

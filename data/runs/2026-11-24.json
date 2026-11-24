@@ -1,0 +1,215 @@
+{
+ "date": "2026-11-24",
+ "discover": {
+  "taivs": {
+   "name": "大安高工 競賽資訊",
+   "pages": 1,
+   "seen": 25,
+   "new": 25,
+   "oldest": "2026-11-06",
+   "stop": "end",
+   "status": "ok",
+   "first_page": 25
+  },
+  "ksvs": {
+   "name": "高雄高工 競賽公告",
+   "pages": 1,
+   "seen": 59,
+   "new": 59,
+   "oldest": "2026-10-16",
+   "stop": "end",
+   "status": "ok",
+   "first_page": 59
+  },
+  "fhsh": {
+   "name": "鳳新高中 營隊競賽",
+   "pages": 5,
+   "seen": 63,
+   "new": 61,
+   "oldest": "2026-06-01",
+   "stop": "old",
+   "status": "ok",
+   "first_page": 15
+  },
+  "nknush": {
+   "name": "高師大附中 校外競賽與活動",
+   "pages": 10,
+   "seen": 213,
+   "new": 212,
+   "oldest": "2026-06-08",
+   "stop": "old",
+   "status": "ok",
+   "first_page": 24
+  },
+  "tngs": {
+   "name": "臺南女中 學生競賽",
+   "pages": 11,
+   "seen": 110,
+   "new": 93,
+   "oldest": "2026-05-19",
+   "stop": "old",
+   "status": "ok",
+   "first_page": 10
+  },
+  "tlsh": {
+   "name": "斗六高中 營隊研習競賽",
+   "pages": 6,
+   "seen": 250,
+   "new": 243,
+   "oldest": "2025-09-03",
+   "stop": "old",
+   "status": "ok",
+   "first_page": 100
+  },
+  "chsh": {
+   "name": "彰化高中 競賽公告",
+   "pages": 2,
+   "seen": 100,
+   "new": 97,
+   "oldest": "2025-09-17",
+   "stop": "old",
+   "status": "ok",
+   "first_page": 50
+  },
+  "hssh": {
+   "name": "西松高中 校外競賽公告",
+   "pages": 5,
+   "seen": 50,
+   "new": 50,
+   "oldest": "2025-09-22",
+   "stop": "old",
+   "status": "ok",
+   "first_page": 10
+  },
+  "dlsh": {
+   "name": "大里高中 校外活動與競賽",
+   "pages": 13,
+   "seen": 259,
+   "new": 242,
+   "oldest": "2026-06-29",
+   "stop": "old",
+   "status": "ok",
+   "first_page": 20
+  },
+  "scime": {
+   "name": "全國技藝競賽資訊平臺 商業類",
+   "pages": 1,
+   "seen": 30,
+   "new": 29,
+   "oldest": "2025-12-08",
+   "stop": "end",
+   "status": "ok",
+   "first_page": 30
+  },
+  "ntunhs": {
+   "name": "臺北護理健康大學 學生專題競賽",
+   "pages": 1,
+   "seen": 1,
+   "new": 1,
+   "oldest": null,
+   "stop": "end",
+   "status": "ok",
+   "first_page": 1
+  },
+  "ewant": {
+   "name": "ewant 育網自主學習競賽",
+   "pages": 1,
+   "seen": 7,
+   "new": 7,
+   "oldest": "2021-03-01",
+   "stop": "old",
+   "status": "ok",
+   "first_page": 7
+  },
+  "bhuntr": {
+   "name": "獎金獵人 競賽平台",
+   "pages": 1,
+   "seen": 206,
+   "new": 204,
+   "oldest": null,
+   "stop": "end",
+   "status": "ok",
+   "first_page": 206
+  },
+  "shs": {
+   "name": "中學生網站",
+   "pages": 1,
+   "seen": 10,
+   "new": 9,
+   "oldest": "2026-06-15",
+   "stop": "end",
+   "status": "ok",
+   "first_page": 10
+  },
+  "mxeduc": {
+   "name": "旺宏教育基金會",
+   "pages": 1,
+   "seen": 9,
+   "new": 8,
+   "oldest": "2025-11-02",
+   "stop": "end",
+   "status": "ok",
+   "first_page": 9
+  },
+  "fg": {
+   "name": "北一女中 最新消息",
+   "pages": 15,
+   "seen": 311,
+   "new": 268,
+   "oldest": "2026-10-13",
+   "stop": "max",
+   "status": "partial",
+   "first_page": 31
+  },
+  "csghs": {
+   "name": "中山女高 最新消息",
+   "pages": 15,
+   "seen": 243,
+   "new": 214,
+   "oldest": "2026-08-03",
+   "stop": "max",
+   "status": "partial",
+   "first_page": 36
+  },
+  "aicup": {
+   "name": "AI CUP",
+   "pages": 1,
+   "seen": 20,
+   "new": 13,
+   "oldest": "2025-07-15",
+   "stop": "end",
+   "status": "ok",
+   "first_page": 20
+  },
+  "mediatek": {
+   "name": "聯發科技 智在家鄉",
+   "pages": 1,
+   "seen": 5,
+   "new": 3,
+   "oldest": "2025-08-13",
+   "stop": "end",
+   "status": "ok",
+   "first_page": 5
+  },
+  "twsf": {
+   "name": "臺灣國際科學展覽會 TISF",
+   "pages": 1,
+   "seen": 8,
+   "new": 8,
+   "oldest": "2025-08-28",
+   "stop": "old",
+   "status": "ok",
+   "first_page": 8
+  },
+  "jhsh": {
+   "name": "錦和高中 學生競賽",
+   "pages": 1,
+   "seen": 33,
+   "new": 31,
+   "oldest": "2026-08-04",
+   "stop": "end",
+   "status": "ok",
+   "first_page": 33
+  }
+ }
+}

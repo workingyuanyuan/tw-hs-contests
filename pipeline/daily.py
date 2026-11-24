@@ -152,7 +152,9 @@ def main():
     }
     runs = ROOT / "data/runs"
     runs.mkdir(parents=True, exist_ok=True)
-    (runs / f"{TODAY}.json").write_text(json.dumps(summary, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+    path = runs / f"{TODAY}.json"  # discover.py writes its own part of the same file
+    earlier = json.loads(path.read_text(encoding="utf-8")) if path.exists() else {}
+    path.write_text(json.dumps({**earlier, **summary}, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
     print(json.dumps({k: summary[k] for k in ("queue", "records")}, ensure_ascii=False))
     sys.exit(build.returncode)
 

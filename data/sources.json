@@ -1,0 +1,218 @@
+[
+ {
+  "id": "taivs",
+  "name": "大安高工 競賽資訊",
+  "url": "https://www.taivs.tp.edu.tw/rssfeeds?a=T0RESTk1ODgxNzE3NDMzODk1MVRDaW50ZWx5&b=T0RESTYyaW50ZWx5&c=T0RESU56UTRNekF6TnpnPTVnVE55Y1ROeElrVGludGVseQ==",
+  "read": "rss",
+  "item": ".",
+  "pages": null,
+  "max_pages": 1,
+  "note": "RSS that declares iso-8859-1 and is UTF-8, holding the 25 latest posts; the HTML list pages only by script."
+ },
+ {
+  "id": "ksvs",
+  "name": "高雄高工 競賽公告",
+  "url": "https://www.ksvs.kh.edu.tw/v4/cpsub/index-race.php",
+  "read": "html",
+  "item": "/cpsub/article\\.php\\?id=\\d+",
+  "pages": null,
+  "max_pages": 1,
+  "note": "One public page of the latest 60 or so announcements, with no paging; older ones need a login."
+ },
+ {
+  "id": "fhsh",
+  "name": "鳳新高中 營隊競賽",
+  "url": "https://www.fhsh.khc.edu.tw/category/aa/營隊競賽/",
+  "read": "html",
+  "item": "/aa/news-aa/\\d{8}/\\d+",
+  "pages": "https://www.fhsh.khc.edu.tw/category/aa/營隊競賽/page/{n}",
+  "max_pages": 10,
+  "note": "The category archive, 15 posts a page; the page under /aa/ shows only the latest 26."
+ },
+ {
+  "id": "nknush",
+  "name": "高師大附中 校外競賽與活動",
+  "url": "https://www.nknush.kh.edu.tw/category/competitions-activities/external-competitions-activities/",
+  "read": "html",
+  "item": "nknush\\.kh\\.edu\\.tw/announcement/.*\\d+/",
+  "pages": "https://www.nknush.kh.edu.tw/category/competitions-activities/external-competitions-activities/page/{n}/",
+  "max_pages": 12,
+  "note": "WordPress category, about 22 posts a page."
+ },
+ {
+  "id": "tngs",
+  "name": "臺南女中 學生競賽",
+  "url": "https://www.tngs.tn.edu.tw/category/文章分類/學生活動/學生競賽/",
+  "read": "html",
+  "item": "tngs\\.tn\\.edu\\.tw/20\\d\\d/\\d\\d/\\d\\d/",
+  "pages": "https://www.tngs.tn.edu.tw/category/文章分類/學生活動/學生競賽/page/{n}/",
+  "max_pages": 14,
+  "note": "The category feed holds only the last 10 posts; the HTML pages hold all."
+ },
+ {
+  "id": "tlsh",
+  "name": "斗六高中 營隊研習競賽",
+  "url": "https://www.tlsh.ylc.edu.tw/affairs/stu-affairs/camp/",
+  "read": "html",
+  "item": "tlsh\\.ylc\\.edu\\.tw/20\\d\\d/\\d\\d/\\d\\d/\\d+/",
+  "pages": "https://www.tlsh.ylc.edu.tw/category/stu_study/page/{n}/",
+  "start": 4,
+  "max_pages": 15,
+  "note": "The camp page lists the latest 100 posts of the stu_study category; older ones are in its archive, about 30 a page."
+ },
+ {
+  "id": "chsh",
+  "name": "彰化高中 競賽公告",
+  "url": "https://www.chsh.chc.edu.tw/p/403-1009-70.php",
+  "read": "html",
+  "item": "/p/406-1009-\\d+",
+  "pages": "https://www.chsh.chc.edu.tw/p/403-1009-70-{n}.php",
+  "max_pages": 6,
+  "note": "RPage list, 50 a page."
+ },
+ {
+  "id": "hssh",
+  "name": "西松高中 校外競賽公告",
+  "url": "https://www.hssh.tp.edu.tw/p/412-1000-540.php",
+  "read": "html",
+  "item": "/p/405-1000-\\d+,c540",
+  "pages": "https://www.hssh.tp.edu.tw/p/412-1000-540-{n}.php",
+  "max_pages": 7,
+  "note": "RPage list, 10 a page; its page buttons lead to 412-1000-540-{n}.php."
+ },
+ {
+  "id": "dlsh",
+  "name": "大里高中 校外活動與競賽",
+  "url": "https://dlsh.tc.edu.tw/p/403-1068-2145-1.php",
+  "read": "html",
+  "item": "/p/406-1068-\\d+",
+  "pages": "https://dlsh.tc.edu.tw/p/403-1068-2145-{n}.php",
+  "max_pages": 15,
+  "note": "RPage list, 20 a page."
+ },
+ {
+  "id": "scime",
+  "name": "全國技藝競賽資訊平臺 商業類",
+  "url": "https://sci-me.k12ea.gov.tw/Contest/ContestAnnounList?c_class=2",
+  "read": "html",
+  "item": "ContestView\\?cont_id=\\d+",
+  "pages": null,
+  "max_pages": 1,
+  "date": "before",
+  "note": "National skills contest, business division; the date column sits several cells before the title."
+ },
+ {
+  "id": "ntunhs",
+  "name": "臺北護理健康大學 學生專題競賽",
+  "url": "https://icd-rnd.ntunhs.edu.tw/p/412-1038-150.php?Lang=zh-tw",
+  "read": "html",
+  "item": "/p/40[56]-1038-\\d+",
+  "pages": null,
+  "max_pages": 1,
+  "note": "RPage list with one page, which held a single announcement on 2026-11-24."
+ },
+ {
+  "id": "ewant",
+  "name": "ewant 育網自主學習競賽",
+  "url": "https://www.ewant.org/local/enterprise/sailpage.php?id=279",
+  "read": "html",
+  "item": "mooccourse/mnetcourseinfo\\.php\\?hostid=\\d+&id=\\d+",
+  "pages": null,
+  "max_pages": 1,
+  "date": "after",
+  "note": "One page for the contest; each edition links to its own course page, named in the image's alt text."
+ },
+ {
+  "id": "bhuntr",
+  "name": "獎金獵人 競賽平台",
+  "url": "https://bhuntr.com/tw/competitions",
+  "read": "render",
+  "item": "bhuntr\\.com/tw/competitions/[^/?#]+$",
+  "pages": null,
+  "max_pages": 1,
+  "scrolls": 10,
+  "note": "The list of open contests loads 24 at a time as you scroll; cards carry no posting date."
+ },
+ {
+  "id": "shs",
+  "name": "中學生網站",
+  "url": "https://www.shs.edu.tw/Customer/Home/GetAllMessage",
+  "read": "render",
+  "item": "ShowMessage\\?id=\\d+",
+  "pages": null,
+  "max_pages": 1,
+  "note": "The full message list, drawn by JavaScript, 10 a page; the home page shows only six."
+ },
+ {
+  "id": "mxeduc",
+  "name": "旺宏教育基金會",
+  "url": "https://www.mxeduc.org.tw/_layouts/15/WebPages/NewsSearch.aspx",
+  "read": "render",
+  "item": "/news/Pages/\\d+\\.aspx",
+  "pages": null,
+  "max_pages": 1,
+  "note": "News drawn by JavaScript."
+ },
+ {
+  "id": "fg",
+  "name": "北一女中 最新消息",
+  "url": "https://www.fg.tp.edu.tw/news/",
+  "read": "html",
+  "item": "fg\\.tp\\.edu\\.tw/news/[^/?#]+/$",
+  "pages": "https://www.fg.tp.edu.tw/category/news/page/{n}/",
+  "max_pages": 15,
+  "date": "before",
+  "note": "All school news, about 20 a page, so 15 pages reach back only about six weeks; /news/page/{n}/ answers 404, the category archive does not."
+ },
+ {
+  "id": "csghs",
+  "name": "中山女高 最新消息",
+  "url": "https://www.csghs.tp.edu.tw/news/",
+  "read": "html",
+  "item": "csghs\\.tp\\.edu\\.tw/news/[^/?#]+/?$",
+  "pages": "https://www.csghs.tp.edu.tw/category/news/page/{n}/",
+  "max_pages": 15,
+  "date": "before",
+  "note": "All school news, about 16 a page, so 15 pages reach back about 16 weeks; /news/page/{n}/ answers 404, the category archive does not."
+ },
+ {
+  "id": "aicup",
+  "name": "AI CUP",
+  "url": "https://www.aicup.tw/blog-feed.xml",
+  "read": "rss",
+  "item": ".",
+  "pages": null,
+  "max_pages": 1,
+  "note": "The Wix blog feed of the news page, 20 latest posts; the rendered page never falls network-idle."
+ },
+ {
+  "id": "mediatek",
+  "name": "聯發科技 智在家鄉",
+  "url": "https://impact.mediatek.com/",
+  "read": "html",
+  "item": "impact\\.mediatek\\.com/news-view/",
+  "pages": null,
+  "max_pages": 1,
+  "note": "The old address redirects to the programme's home page, whose news block holds the five latest posts."
+ },
+ {
+  "id": "twsf",
+  "name": "臺灣國際科學展覽會 TISF",
+  "url": "https://twsf.ntsec.gov.tw/News.aspx",
+  "read": "html",
+  "item": "News-Content\\.aspx",
+  "pages": "https://twsf.ntsec.gov.tw/News.aspx?&p={n}",
+  "max_pages": 4,
+  "note": "News list."
+ },
+ {
+  "id": "jhsh",
+  "name": "錦和高中 學生競賽",
+  "url": "https://www.jhsh.ntpc.edu.tw/p/403-1000-51.php?Lang=zh-tw",
+  "read": "html",
+  "item": "/p/406-1000-\\d+",
+  "pages": null,
+  "max_pages": 1,
+  "note": "RPage list whose one page holds every announcement since early August."
+ }
+]
