@@ -279,12 +279,13 @@
   ],
   "verification": {
     "last_verified": "2026-11-24",
-    "method": "single",
+    "method": "dual",
     "unread": [
       "試辦現場創作之類組、簡章、時間、地點公告（115 年 10 月 18 日前於比賽專網公告）"
     ],
     "note": null,
     "readers": [
+      "claude-opus-5-5",
       "claude-opus-5-5"
     ]
   },

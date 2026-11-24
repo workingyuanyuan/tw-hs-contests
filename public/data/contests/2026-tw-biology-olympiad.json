@@ -1,0 +1,270 @@
+{
+  "schema": 1,
+  "id": "2026-tw-biology-olympiad",
+  "title": "2027 年第38 屆中華民國生物奧林匹亞競賽",
+  "edition": "2027 年第 38 屆",
+  "summary": "國中與高中職學生由學校團體報名，參加生物學科筆試選拔。",
+  "organizers": [
+    {
+      "name": "教育部國民及學前教育署",
+      "role": "主辦"
+    },
+    {
+      "name": "國立中山大學 生物科學系",
+      "role": "承辦"
+    },
+    {
+      "name": "中華民國生物奧林匹亞委員會",
+      "role": "承辦"
+    }
+  ],
+  "categories": [
+    "自然科學"
+  ],
+  "eligibility": {
+    "levels": [
+      "國中",
+      "高中",
+      "高職"
+    ],
+    "division": "unknown",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "school",
+    "team_min": null,
+    "team_max": null,
+    "teacher": "required",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/26/pta_225972_808747_38704.pdf",
+        "quote": "具中華民國國籍之高級中等以下學校在學中學生且年齡未滿 20 歲者，得由生物科任課教師或導師推薦，並以學校團體方式報名。"
+      },
+      {
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/26/pta_225972_808747_38704.pdf",
+        "quote": "年級：07 國一，08 國二，09 國三"
+      },
+      {
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/26/pta_225972_808747_38704.pdf",
+        "quote": "10 高一，11 高二，12 高三"
+      },
+      {
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/26/pta_225972_808747_38704.pdf",
+        "quote": "指導老師：填寫老師姓名，不可空白"
+      },
+      {
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/26/pta_225972_808747_38704.pdf",
+        "quote": "初賽選拔依國際大會規定應開放給所有符合報名資格的學生參加，沒有名額限制。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "other",
+      "label": "彰化高中學生校內團體報名截止",
+      "date": "2026-09-17",
+      "time": null,
+      "original": "9月17日(四)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.chsh.chc.edu.tw/p/406-1009-195481,r70.php?Lang=zh-tw",
+          "quote": "本校團體報名：即日起～ 9月17日(四)截止 。"
+        }
+      ]
+    },
+    {
+      "kind": "registration_deadline",
+      "label": "學校團體報名截止",
+      "date": "2026-09-22",
+      "time": "17:00",
+      "original": "115 年9 月22 日(二)下午5 時",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/26/pta_225972_808747_38704.pdf",
+          "quote": "報名日期：即日起～115 年9 月22 日(二)下午5 時截止。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "初賽",
+      "date": "2026-11-07",
+      "time": "09:30",
+      "original": "115 年11 月7 日(星期六)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/26/pta_225972_808747_38704.pdf",
+          "quote": "一、初賽日期：115 年11 月7 日(星期六)"
+        },
+        {
+          "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/26/pta_225972_808747_38704.pdf",
+          "quote": "考試時間：上午9:30～11:30"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "試題疑義受理截止（由學校提出）",
+      "date": "2026-11-09",
+      "time": null,
+      "original": "11 月9 日(一)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/26/pta_225972_808747_38704.pdf",
+          "quote": "考試結束後三天11 月9 日(一)內，受理全國試題疑義，提出者以學校為單位，"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "公佈初賽正確答案與錄取名單",
+      "date": "2026-11-26",
+      "time": null,
+      "original": "11 月26 日(四)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/26/pta_225972_808747_38704.pdf",
+          "quote": "本會預計11 月26 日(四)將於網站公佈初賽正確答案、公佈錄取名單，本會將另行公文通知。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "成績複查申請截止",
+      "date": "2026-12-02",
+      "time": null,
+      "original": "12 月2 日(三)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/26/pta_225972_808747_38704.pdf",
+          "quote": "並於12 月2 日(三)前提出複查申請，逾期恕不受理。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "複賽（初賽錄取者）",
+      "date": "2027-01-31",
+      "time": null,
+      "original": "116 年1 月31 日(日)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/26/pta_225972_808747_38704.pdf",
+          "quote": "複賽預計116 年1 月31 日(日)分北區(台灣師大理學院校區)、中區(台中一中)及"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "初賽",
+      "what": "2 小時生物筆試，電腦閱卷",
+      "how": "onsite"
+    },
+    {
+      "stage": "複賽（初賽錄取者）",
+      "what": "於北、中、南區舉行的複賽",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "全國 11 考區（台北、新竹、台中、彰化、嘉義、台南、高雄、台東、花蓮、金門、澎湖）",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/26/pta_225972_808747_38704.pdf",
+        "quote": "考區代碼：一共11 區，數字格式需兩碼(如01)"
+      },
+      {
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/26/pta_225972_808747_38704.pdf",
+        "quote": "考生請攜帶「中華民國國民身份證件、有照片健保卡、護照正本」應考。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/26/pta_225972_808747_38704.pdf",
+        "quote": "本考試教育部全額補助，考生無需負擔任何費用，請多多鼓勵考生參加。"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "初賽錄取到考人數前 5%（不少於 200 位）；前 200 名頒特優錄取證書，201～400 名頒優良證書，401～600 名頒嘉獎證書。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/26/pta_225972_808747_38704.pdf",
+        "quote": "錄取名額：到考人數錄取前5%，不少於200 位。"
+      },
+      {
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/26/pta_225972_808747_38704.pdf",
+        "quote": "頒發證書：為鼓勵考生除頒發特優錄取證書(前200 名)外，將另"
+      },
+      {
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/26/pta_225972_808747_38704.pdf",
+        "quote": "頒201~400 名優良證書及401~600 名嘉獎證書。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/26/pta_225972_808747_38704.pdf"
+      },
+      {
+        "url": "https://www.chsh.chc.edu.tw/p/406-1009-195481,r70.php?Lang=zh-tw"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://tpmso.org/ibo/",
+    "rules": [
+      {
+        "title": "2027年第38屆初賽報名簡章",
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/26/pta_225972_808747_38704.pdf"
+      }
+    ],
+    "registration": null
+  },
+  "found_via": [
+    {
+      "name": "彰化高中 競賽公告",
+      "url": "https://www.chsh.chc.edu.tw/p/406-1009-195481,r70.php?Lang=zh-tw"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-24",
+    "method": "single",
+    "unread": [
+      "附件1 聯絡人註冊及報名流程說明",
+      "附件2_聯絡人註冊檔.xlsx",
+      "附件3_學校認證表.doc",
+      "附件4_報名檔.xlsx",
+      "附件5 試題疑義反映意見表"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-24",
+  "level": "checked",
+  "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-tw-biology-olympiad/",
+  "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-tw-biology-olympiad.md"
+}

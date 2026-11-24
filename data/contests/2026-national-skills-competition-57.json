@@ -257,13 +257,14 @@
   ],
   "verification": {
     "last_verified": "2026-11-24",
-    "method": "single",
+    "method": "dual",
     "unread": [
       "第57屆全國技能競賽分區技能競賽簡章",
       "116年度全國技能競賽簡章"
     ],
     "note": null,
     "readers": [
+      "claude-opus-5-5",
       "claude-opus-5-5"
     ]
   },

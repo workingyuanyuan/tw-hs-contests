@@ -133,12 +133,13 @@
   ],
   "verification": {
     "last_verified": "2026-11-24",
-    "method": "single",
+    "method": "dual",
     "unread": [
       "115學年度全國學生舞蹈比賽實施要點"
     ],
     "note": null,
     "readers": [
+      "claude-opus-5-5",
       "claude-opus-5-5"
     ]
   },

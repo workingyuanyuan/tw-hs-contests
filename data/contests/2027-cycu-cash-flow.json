@@ -212,12 +212,13 @@
   ],
   "verification": {
     "last_verified": "2026-11-24",
-    "method": "single",
+    "method": "dual",
     "unread": [
       "活動海報"
     ],
     "note": null,
     "readers": [
+      "claude-opus-5-5",
       "claude-opus-5-5"
     ]
   },

@@ -1,0 +1,271 @@
+{
+  "schema": 1,
+  "id": "2027-ukmt-imc",
+  "title": "UKMT-IMC 英國中級數學挑戰",
+  "edition": "2027",
+  "summary": "全國 10 年級及以下學生參加英國中級數學挑戰，作答英文數學選擇題試卷。",
+  "organizers": [
+    {
+      "name": "英國UKMT(United Kingdom Mathematics Trust)",
+      "role": "主辦"
+    },
+    {
+      "name": "中華數學協會",
+      "role": "承辦"
+    },
+    {
+      "name": "OLPCS 數學俱樂部",
+      "role": "承辦"
+    }
+  ],
+  "categories": [
+    "數學"
+  ],
+  "eligibility": {
+    "levels": [
+      "國小",
+      "國中",
+      "高中",
+      "高職"
+    ],
+    "division": "unknown",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": 1,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=QzUrTlNodlFsRXluenZXSU4wYVpNcHVDU3VMREEyYjVER1R6cjE3aE9XYmtMcjlNcm9hZGdOU0tJdHlmVTNWSTJGSnlZcGhpZ1Vaem9TU2FXeDZYdnZPekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=Z0lLYllQb0RNZ3gycERQc29NaWFQNkJwWDRlUFVvQXNDemtWc1ZvNkNQWXBWQi9pRTJGd09tVHljUUJ4OVdRWg==",
+        "quote": "全國各縣市之10 年級及以下之學生。(可跳級參加)"
+      },
+      {
+        "url": "https://dlsh.tc.edu.tw/p/406-1068-650278,r2145.php?Lang=zh-tw",
+        "quote": "參加對象為10年級及以下之學生，將由英國UKMT組委會以統一分數線進行全球評獎。"
+      },
+      {
+        "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=QzUrTlNodlFsRXluenZXSU4wYVpNcHVDU3VMREEyYjVER1R6cjE3aE9XYmtMcjlNcm9hZGdOU0tJdHlmVTNWSTJGSnlZcGhpZ1Vaem9TU2FXeDZYdnZPekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=Z0lLYllQb0RNZ3gycERQc29NaWFQNkJwWDRlUFVvQXNDemtWc1ZvNkNQWXBWQi9pRTJGd09tVHljUUJ4OVdRWg==",
+        "quote": "四、個人報名線上考場活動流程："
+      },
+      {
+        "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=QzUrTlNodlFsRXluenZXSU4wYVpNcHVDU3VMREEyYjVER1R6cjE3aE9XYmtMcjlNcm9hZGdOU0tJdHlmVTNWSTJGSnlZcGhpZ1Vaem9TU2FXeDZYdnZPekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=Z0lLYllQb0RNZ3gycERQc29NaWFQNkJwWDRlUFVvQXNDemtWc1ZvNkNQWXBWQi9pRTJGd09tVHljUUJ4OVdRWg==",
+        "quote": "報名截止，請於截止日前填寫google 報名表單後送出、完成報名費用匯款，並加"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "報名截止（學校團體報名與個人報名）",
+      "date": "2027-01-11",
+      "time": null,
+      "original": "1/11(一)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=QzUrTlNodlFsRXluenZXSU4wYVpNcHVDU3VMREEyYjVER1R6cjE3aE9XYmtMcjlNcm9hZGdOU0tJdHlmVTNWSTJGSnlZcGhpZ1Vaem9TU2FXeDZYdnZPekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=Z0lLYllQb0RNZ3gycERQc29NaWFQNkJwWDRlUFVvQXNDemtWc1ZvNkNQWXBWQi9pRTJGd09tVHljUUJ4OVdRWg==",
+          "quote": "1/11(一)"
+        },
+        {
+          "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=QzUrTlNodlFsRXluenZXSU4wYVpNcHVDU3VMREEyYjVER1R6cjE3aE9XYmtMcjlNcm9hZGdOU0tJdHlmVTNWSTJGSnlZcGhpZ1Vaem9TU2FXeDZYdnZPekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=Z0lLYllQb0RNZ3gycERQc29NaWFQNkJwWDRlUFVvQXNDemtWc1ZvNkNQWXBWQi9pRTJGd09tVHljUUJ4OVdRWg==",
+          "quote": "報名截止，學校須於截止日前將附件「UKMT-IMC 團體報名表」填寫回傳至協會，"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "個人報名考生收到考前通知",
+      "date": "2027-01-21",
+      "time": null,
+      "original": "1/21(四)起",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=QzUrTlNodlFsRXluenZXSU4wYVpNcHVDU3VMREEyYjVER1R6cjE3aE9XYmtMcjlNcm9hZGdOU0tJdHlmVTNWSTJGSnlZcGhpZ1Vaem9TU2FXeDZYdnZPekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=Z0lLYllQb0RNZ3gycERQc29NaWFQNkJwWDRlUFVvQXNDemtWc1ZvNkNQWXBWQi9pRTJGd09tVHljUUJ4OVdRWg==",
+          "quote": "1/21(四)起"
+        },
+        {
+          "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=QzUrTlNodlFsRXluenZXSU4wYVpNcHVDU3VMREEyYjVER1R6cjE3aE9XYmtMcjlNcm9hZGdOU0tJdHlmVTNWSTJGSnlZcGhpZ1Vaem9TU2FXeDZYdnZPekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=Z0lLYllQb0RNZ3gycERQc29NaWFQNkJwWDRlUFVvQXNDemtWc1ZvNkNQWXBWQi9pRTJGd09tVHljUUJ4OVdRWg==",
+          "quote": "由主辦單位ASEEDER 統一將考前通知發送給考生"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "考試（學校考場於當日自選時段）",
+      "date": "2027-01-28",
+      "time": null,
+      "original": "2027 年1 月28 日(四)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=QzUrTlNodlFsRXluenZXSU4wYVpNcHVDU3VMREEyYjVER1R6cjE3aE9XYmtMcjlNcm9hZGdOU0tJdHlmVTNWSTJGSnlZcGhpZ1Vaem9TU2FXeDZYdnZPekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=Z0lLYllQb0RNZ3gycERQc29NaWFQNkJwWDRlUFVvQXNDemtWc1ZvNkNQWXBWQi9pRTJGd09tVHljUUJ4OVdRWg==",
+          "quote": "一、活動時間：2027 年1 月28 日(四)"
+        },
+        {
+          "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=QzUrTlNodlFsRXluenZXSU4wYVpNcHVDU3VMREEyYjVER1R6cjE3aE9XYmtMcjlNcm9hZGdOU0tJdHlmVTNWSTJGSnlZcGhpZ1Vaem9TU2FXeDZYdnZPekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=Z0lLYllQb0RNZ3gycERQc29NaWFQNkJwWDRlUFVvQXNDemtWc1ZvNkNQWXBWQi9pRTJGd09tVHljUUJ4OVdRWg==",
+          "quote": "※不限時段，但需於1 月28 日當日完成。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "個人線上考場考試",
+      "date": "2027-01-28",
+      "time": "20:00",
+      "original": "1 月28 日(四) 20:00-21:00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=QzUrTlNodlFsRXluenZXSU4wYVpNcHVDU3VMREEyYjVER1R6cjE3aE9XYmtMcjlNcm9hZGdOU0tJdHlmVTNWSTJGSnlZcGhpZ1Vaem9TU2FXeDZYdnZPekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=Z0lLYllQb0RNZ3gycERQc29NaWFQNkJwWDRlUFVvQXNDemtWc1ZvNkNQWXBWQi9pRTJGd09tVHljUUJ4OVdRWg==",
+          "quote": "※時間為1 月28 日(四) 20:00-21:00。"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "公布成績並提供獎項證書",
+      "date": null,
+      "time": null,
+      "original": "3 月中旬",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=QzUrTlNodlFsRXluenZXSU4wYVpNcHVDU3VMREEyYjVER1R6cjE3aE9XYmtMcjlNcm9hZGdOU0tJdHlmVTNWSTJGSnlZcGhpZ1Vaem9TU2FXeDZYdnZPekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=Z0lLYllQb0RNZ3gycERQc29NaWFQNkJwWDRlUFVvQXNDemtWc1ZvNkNQWXBWQi9pRTJGd09tVHljUUJ4OVdRWg==",
+          "quote": "主辦單位進行考生成績批改處理與排名取獎後，公布成績並提供對應獎項證書。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "英國中級數學奧林匹克（須先通過 UKMT-IMC）",
+      "date": "2027-03-19",
+      "time": null,
+      "original": "3/19",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=QzUrTlNodlFsRXluenZXSU4wYVpNcHVDU3VMREEyYjVER1R6cjE3aE9XYmtMcjlNcm9hZGdOU0tJdHlmVTNWSTJGSnlZcGhpZ1Vaem9TU2FXeDZYdnZPekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=Z0lLYllQb0RNZ3gycERQc29NaWFQNkJwWDRlUFVvQXNDemtWc1ZvNkNQWXBWQi9pRTJGd09tVHljUUJ4OVdRWg==",
+          "quote": "3. 英國中級數學奧林匹克將在3/19 舉行，欲參加者須先參加通過UKMT-IMC。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "學校自辦實體考場（團體報名 10 人以上）",
+      "what": "60 分鐘英文試卷（附中文翻譯），25 題選擇題，禁用計算機；答題卷由學校掃描回傳",
+      "how": "onsite"
+    },
+    {
+      "stage": "個人線上考場",
+      "what": "以 UKMT 亞洲區線上系統作答同一試卷，另以一台設備開 ZOOM 同步畫面",
+      "how": "online"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "學校自辦實體考場，或個人線上考場（ZOOM 同步）",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=QzUrTlNodlFsRXluenZXSU4wYVpNcHVDU3VMREEyYjVER1R6cjE3aE9XYmtMcjlNcm9hZGdOU0tJdHlmVTNWSTJGSnlZcGhpZ1Vaem9TU2FXeDZYdnZPekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=Z0lLYllQb0RNZ3gycERQc29NaWFQNkJwWDRlUFVvQXNDemtWc1ZvNkNQWXBWQi9pRTJGd09tVHljUUJ4OVdRWg==",
+        "quote": "團體報名達10 人以上，學校可申請自辦實體考場。"
+      },
+      {
+        "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=QzUrTlNodlFsRXluenZXSU4wYVpNcHVDU3VMREEyYjVER1R6cjE3aE9XYmtMcjlNcm9hZGdOU0tJdHlmVTNWSTJGSnlZcGhpZ1Vaem9TU2FXeDZYdnZPekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=Z0lLYllQb0RNZ3gycERQc29NaWFQNkJwWDRlUFVvQXNDemtWc1ZvNkNQWXBWQi9pRTJGd09tVHljUUJ4OVdRWg==",
+        "quote": "全線上進行（使用UKMT 官方亞洲區線上系統應考，且需準備"
+      },
+      {
+        "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=QzUrTlNodlFsRXluenZXSU4wYVpNcHVDU3VMREEyYjVER1R6cjE3aE9XYmtMcjlNcm9hZGdOU0tJdHlmVTNWSTJGSnlZcGhpZ1Vaem9TU2FXeDZYdnZPekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=Z0lLYllQb0RNZ3gycERQc29NaWFQNkJwWDRlUFVvQXNDemtWc1ZvNkNQWXBWQi9pRTJGd09tVHljUUJ4OVdRWg==",
+        "quote": "另一設備開啟ZOOM 會議室進行畫面同步。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "required",
+    "amount": "學校自辦考場每位考生 1100 元",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=QzUrTlNodlFsRXluenZXSU4wYVpNcHVDU3VMREEyYjVER1R6cjE3aE9XYmtMcjlNcm9hZGdOU0tJdHlmVTNWSTJGSnlZcGhpZ1Vaem9TU2FXeDZYdnZPekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=Z0lLYllQb0RNZ3gycERQc29NaWFQNkJwWDRlUFVvQXNDemtWc1ZvNkNQWXBWQi9pRTJGd09tVHljUUJ4OVdRWg==",
+        "quote": "學校自辦考場每位考生收費1100 元。"
+      },
+      {
+        "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=QzUrTlNodlFsRXluenZXSU4wYVpNcHVDU3VMREEyYjVER1R6cjE3aE9XYmtMcjlNcm9hZGdOU0tJdHlmVTNWSTJGSnlZcGhpZ1Vaem9TU2FXeDZYdnZPekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=Z0lLYllQb0RNZ3gycERQc29NaWFQNkJwWDRlUFVvQXNDemtWc1ZvNkNQWXBWQi9pRTJGd09tVHljUUJ4OVdRWg==",
+        "quote": "報名截止，請於截止日前填寫google 報名表單後送出、完成報名費用匯款，並加"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "金獎授予全球排名約前 8% 考生、銀獎約前 25%、銅獎約前 50%，未獲獎者可獲參與證書，皆為 UKMT 英文證書；另設學校最佳獎與年級最佳獎。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=QzUrTlNodlFsRXluenZXSU4wYVpNcHVDU3VMREEyYjVER1R6cjE3aE9XYmtMcjlNcm9hZGdOU0tJdHlmVTNWSTJGSnlZcGhpZ1Vaem9TU2FXeDZYdnZPekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=Z0lLYllQb0RNZ3gycERQc29NaWFQNkJwWDRlUFVvQXNDemtWc1ZvNkNQWXBWQi9pRTJGd09tVHljUUJ4OVdRWg==",
+        "quote": "七、取獎方式：金獎授予全球排名約前8%的頂尖考生；銀獎授予全球約前25%的"
+      },
+      {
+        "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=QzUrTlNodlFsRXluenZXSU4wYVpNcHVDU3VMREEyYjVER1R6cjE3aE9XYmtMcjlNcm9hZGdOU0tJdHlmVTNWSTJGSnlZcGhpZ1Vaem9TU2FXeDZYdnZPekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=Z0lLYllQb0RNZ3gycERQc29NaWFQNkJwWDRlUFVvQXNDemtWc1ZvNkNQWXBWQi9pRTJGd09tVHljUUJ4OVdRWg==",
+        "quote": "考生；銅獎授予全球約前50%的考生。未獲獎的考生可獲得參與"
+      },
+      {
+        "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=QzUrTlNodlFsRXluenZXSU4wYVpNcHVDU3VMREEyYjVER1R6cjE3aE9XYmtMcjlNcm9hZGdOU0tJdHlmVTNWSTJGSnlZcGhpZ1Vaem9TU2FXeDZYdnZPekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=Z0lLYllQb0RNZ3gycERQc29NaWFQNkJwWDRlUFVvQXNDemtWc1ZvNkNQWXBWQi9pRTJGd09tVHljUUJ4OVdRWg==",
+        "quote": "※將由UKMT 英國組委會參考英國學生分數線授予英文證書。"
+      },
+      {
+        "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=QzUrTlNodlFsRXluenZXSU4wYVpNcHVDU3VMREEyYjVER1R6cjE3aE9XYmtMcjlNcm9hZGdOU0tJdHlmVTNWSTJGSnlZcGhpZ1Vaem9TU2FXeDZYdnZPekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=Z0lLYllQb0RNZ3gycERQc29NaWFQNkJwWDRlUFVvQXNDemtWc1ZvNkNQWXBWQi9pRTJGd09tVHljUUJ4OVdRWg==",
+        "quote": "除了上述獎項外，競賽還設有「學校最佳獎（頒給全校最高分者）」"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://dlsh.tc.edu.tw/p/406-1068-650278,r2145.php?Lang=zh-tw"
+      },
+      {
+        "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=QzUrTlNodlFsRXluenZXSU4wYVpNcHVDU3VMREEyYjVER1R6cjE3aE9XYmtMcjlNcm9hZGdOU0tJdHlmVTNWSTJGSnlZcGhpZ1Vaem9TU2FXeDZYdnZPekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=Z0lLYllQb0RNZ3gycERQc29NaWFQNkJwWDRlUFVvQXNDemtWc1ZvNkNQWXBWQi9pRTJGd09tVHljUUJ4OVdRWg=="
+      }
+    ]
+  },
+  "links": {
+    "official": null,
+    "rules": [
+      {
+        "title": "2027 UKMT-IMC 活動計劃書",
+        "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=QzUrTlNodlFsRXluenZXSU4wYVpNcHVDU3VMREEyYjVER1R6cjE3aE9XYmtMcjlNcm9hZGdOU0tJdHlmVTNWSTJGSnlZcGhpZ1Vaem9TU2FXeDZYdnZPekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=Z0lLYllQb0RNZ3gycERQc29NaWFQNkJwWDRlUFVvQXNDemtWc1ZvNkNQWXBWQi9pRTJGd09tVHljUUJ4OVdRWg=="
+      }
+    ],
+    "registration": "https://forms.gle/LuCunkdTwukV3kSQ8"
+  },
+  "found_via": [
+    {
+      "name": "大里高中 校外活動與競賽",
+      "url": "https://dlsh.tc.edu.tw/p/406-1068-650278,r2145.php?Lang=zh-tw"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-24",
+    "method": "dual",
+    "unread": [
+      "UKMT-IMC 團體報名表",
+      "公文.pdf"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5",
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-24",
+  "level": "verified",
+  "url": "https://yuanaruru.com/tw-hs-contests/contests/2027-ukmt-imc/",
+  "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2027-ukmt-imc.md"
+}

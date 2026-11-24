@@ -301,10 +301,11 @@
   ],
   "verification": {
     "last_verified": "2026-11-24",
-    "method": "single",
+    "method": "dual",
     "unread": [],
     "note": null,
     "readers": [
+      "claude-opus-5-5",
       "claude-opus-5-5"
     ]
   },

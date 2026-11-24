@@ -1,0 +1,232 @@
+{
+  "schema": 1,
+  "id": "2026-new-immigrants-dream-plan",
+  "title": "第13屆新住民及子女築夢計畫",
+  "edition": "第13屆",
+  "summary": "新住民或其子女2至5人組隊，依五大主題組別撰寫築夢計畫書參加甄選。",
+  "organizers": [
+    {
+      "name": "內政部移民署",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "創業與企劃",
+    "社會人文"
+  ],
+  "eligibility": {
+    "levels": [
+      "國小",
+      "國中",
+      "高中",
+      "高職",
+      "五專",
+      "大專",
+      "社會人士"
+    ],
+    "division": "mixed",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 2,
+    "team_max": 5,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs271/內政部移民署辦理「第13屆新住民及子女築夢計畫」報名簡章.pdf",
+        "quote": "二、新住民子女：上述新住民之子女，年齡8歳以上且在臺居住者。"
+      },
+      {
+        "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs271/內政部移民署辦理「第13屆新住民及子女築夢計畫」報名簡章.pdf",
+        "quote": "二、參加對象：每組報名者之參與人數至多5人·其中2人必須為新住民或新住民子女"
+      },
+      {
+        "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs271/內政部移民署辦理「第13屆新住民及子女築夢計畫」報名簡章.pdf",
+        "quote": "一、報名組別：共5類組別擇一參加"
+      },
+      {
+        "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs271/內政部移民署辦理「第13屆新住民及子女築夢計畫」報名簡章.pdf",
+        "quote": "(一)須先於本計畫線上報名系統登打報名相關資訊"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "報名截止（紙本以收件郵戳日期為憑）",
+      "date": "2026-12-15",
+      "time": null,
+      "original": "115年12月15日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs271/內政部移民署辦理「第13屆新住民及子女築夢計畫」報名簡章.pdf",
+          "quote": "一、報名期間：即日起至115年12月15日止。"
+        },
+        {
+          "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs271/內政部移民署辦理「第13屆新住民及子女築夢計畫」報名簡章.pdf",
+          "quote": "(三)報名時間以收件郵戳日期為憑·逾期恕不受理"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "獲獎名單公布（預計）",
+      "date": null,
+      "time": null,
+      "original": "116年2月",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs271/內政部移民署辦理「第13屆新住民及子女築夢計畫」報名簡章.pdf",
+          "quote": "二、獲獎名單公布：預計116年2月公布。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "成果發表暨圓夢祝賀茶會（暫訂）",
+      "date": null,
+      "time": null,
+      "original": "116年9月",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs271/內政部移民署辦理「第13屆新住民及子女築夢計畫」報名簡章.pdf",
+          "quote": "四、成果發表暨圓夢祝賀茶會：暫訂於116年9月辦理。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名",
+      "what": "線上報名系統填寫報名資訊",
+      "how": "online"
+    },
+    {
+      "stage": "報名",
+      "what": "報名表、個人資料使用授權同意書、築夢計畫書，附3個月內全戶戶籍謄本或身分證明文件，以掛號寄送",
+      "how": "mail"
+    }
+  ],
+  "attendance": {
+    "value": "none",
+    "where": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs271/內政部移民署辦理「第13屆新住民及子女築夢計畫」報名簡章.pdf"
+      },
+      {
+        "url": "https://www.fg.tp.edu.tw/view-doc/23/(教育局)轉知內政部移民署辦理「第13屆新住民及子女築夢計畫」02.pdf"
+      },
+      {
+        "url": "https://www.fg.tp.edu.tw/view-doc/23/(教育局)轉知內政部移民署辦理「第13屆新住民及子女築夢計畫」01.pdf"
+      },
+      {
+        "url": "https://www.csghs.tp.edu.tw/news/%e5%85%a7%e6%94%bf%e9%83%a8%e7%a7%bb%e6%b0%91%e7%bd%b2%e8%be%a6%e7%90%86%e3%80%8c%e7%ac%ac13%e5%b1%86%e6%96%b0%e4%bd%8f%e6%b0%91%e5%8f%8a%e5%ad%90%e5%a5%b3%e7%af%89%e5%a4%a2%e8%a8%88%e7%95%ab%e3%80%8d/"
+      },
+      {
+        "url": "https://www.fg.tp.edu.tw/news/%e5%85%a7%e6%94%bf%e9%83%a8%e7%a7%bb%e6%b0%91%e7%bd%b2%e8%be%a6%e7%90%86%e3%80%8c%e7%ac%ac13%e5%b1%86%e6%96%b0%e4%bd%8f%e6%b0%91%e5%8f%8a%e5%ad%90%e5%a5%b3%e7%af%89%e5%a4%a2%e8%a8%88%e7%95%ab%e3%80%8d/"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs271/內政部移民署辦理「第13屆新住民及子女築夢計畫」報名簡章.pdf"
+      },
+      {
+        "url": "https://www.fg.tp.edu.tw/view-doc/23/(教育局)轉知內政部移民署辦理「第13屆新住民及子女築夢計畫」02.pdf"
+      },
+      {
+        "url": "https://www.fg.tp.edu.tw/view-doc/23/(教育局)轉知內政部移民署辦理「第13屆新住民及子女築夢計畫」01.pdf"
+      },
+      {
+        "url": "https://www.csghs.tp.edu.tw/news/%e5%85%a7%e6%94%bf%e9%83%a8%e7%a7%bb%e6%b0%91%e7%bd%b2%e8%be%a6%e7%90%86%e3%80%8c%e7%ac%ac13%e5%b1%86%e6%96%b0%e4%bd%8f%e6%b0%91%e5%8f%8a%e5%ad%90%e5%a5%b3%e7%af%89%e5%a4%a2%e8%a8%88%e7%95%ab%e3%80%8d/"
+      },
+      {
+        "url": "https://www.fg.tp.edu.tw/news/%e5%85%a7%e6%94%bf%e9%83%a8%e7%a7%bb%e6%b0%91%e7%bd%b2%e8%be%a6%e7%90%86%e3%80%8c%e7%ac%ac13%e5%b1%86%e6%96%b0%e4%bd%8f%e6%b0%91%e5%8f%8a%e5%ad%90%e5%a5%b3%e7%af%89%e5%a4%a2%e8%a8%88%e7%95%ab%e3%80%8d/"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "五組各預計 8 組、共 40 組獲獎團隊，依夢想內容每組築夢獎金最高新臺幣 10 萬元；甄選委員得增減各組獲獎組數及金額，獎金於獲獎者接受業師第 1 次輔導並修改計畫後核撥。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs271/內政部移民署辦理「第13屆新住民及子女築夢計畫」報名簡章.pdf",
+        "quote": "每一組別預計核發8組·共計40組獲獎團隊，並依夢想內容提供每組築夢獎金最高新臺幣（以下同）10萬元。"
+      },
+      {
+        "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs271/內政部移民署辦理「第13屆新住民及子女築夢計畫」報名簡章.pdf",
+        "quote": "並由本署及甄審委員於本計畫獎金總額度內，增減調整各組獲獎組數及金額。"
+      },
+      {
+        "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs271/內政部移民署辦理「第13屆新住民及子女築夢計畫」報名簡章.pdf",
+        "quote": "三、獎金核發方式：獲獎名單公布後，獲獎者應接受業師第1次輔導，並配合業師指導建議計畫內容修改，始核撥1次全額獎金。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs271/內政部移民署辦理「第13屆新住民及子女築夢計畫」報名簡章.pdf"
+      },
+      {
+        "url": "https://www.fg.tp.edu.tw/view-doc/23/(教育局)轉知內政部移民署辦理「第13屆新住民及子女築夢計畫」02.pdf"
+      },
+      {
+        "url": "https://www.fg.tp.edu.tw/view-doc/23/(教育局)轉知內政部移民署辦理「第13屆新住民及子女築夢計畫」01.pdf"
+      },
+      {
+        "url": "https://www.csghs.tp.edu.tw/news/%e5%85%a7%e6%94%bf%e9%83%a8%e7%a7%bb%e6%b0%91%e7%bd%b2%e8%be%a6%e7%90%86%e3%80%8c%e7%ac%ac13%e5%b1%86%e6%96%b0%e4%bd%8f%e6%b0%91%e5%8f%8a%e5%ad%90%e5%a5%b3%e7%af%89%e5%a4%a2%e8%a8%88%e7%95%ab%e3%80%8d/"
+      },
+      {
+        "url": "https://www.fg.tp.edu.tw/news/%e5%85%a7%e6%94%bf%e9%83%a8%e7%a7%bb%e6%b0%91%e7%bd%b2%e8%be%a6%e7%90%86%e3%80%8c%e7%ac%ac13%e5%b1%86%e6%96%b0%e4%bd%8f%e6%b0%91%e5%8f%8a%e5%ad%90%e5%a5%b3%e7%af%89%e5%a4%a2%e8%a8%88%e7%95%ab%e3%80%8d/"
+      }
+    ]
+  },
+  "links": {
+    "official": null,
+    "rules": [
+      {
+        "title": "報名簡章（含報名表、個人資料使用授權同意書、計畫書格式）",
+        "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs271/內政部移民署辦理「第13屆新住民及子女築夢計畫」報名簡章.pdf"
+      }
+    ],
+    "registration": "https://forms.gle/KzEZsd77tKg2AWN48"
+  },
+  "found_via": [
+    {
+      "name": "中山女高 最新消息",
+      "url": "https://www.csghs.tp.edu.tw/news/%e5%85%a7%e6%94%bf%e9%83%a8%e7%a7%bb%e6%b0%91%e7%bd%b2%e8%be%a6%e7%90%86%e3%80%8c%e7%ac%ac13%e5%b1%86%e6%96%b0%e4%bd%8f%e6%b0%91%e5%8f%8a%e5%ad%90%e5%a5%b3%e7%af%89%e5%a4%a2%e8%a8%88%e7%95%ab%e3%80%8d/"
+    },
+    {
+      "name": "北一女中 最新消息",
+      "url": "https://www.fg.tp.edu.tw/news/%e5%85%a7%e6%94%bf%e9%83%a8%e7%a7%bb%e6%b0%91%e7%bd%b2%e8%be%a6%e7%90%86%e3%80%8c%e7%ac%ac13%e5%b1%86%e6%96%b0%e4%bd%8f%e6%b0%91%e5%8f%8a%e5%ad%90%e5%a5%b3%e7%af%89%e5%a4%a2%e8%a8%88%e7%95%ab%e3%80%8d/"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-24",
+    "method": "single",
+    "unread": [],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-24",
+  "level": "checked",
+  "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-new-immigrants-dream-plan/",
+  "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-new-immigrants-dream-plan.md"
+}

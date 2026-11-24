@@ -137,12 +137,13 @@
   ],
   "verification": {
     "last_verified": "2026-11-24",
-    "method": "single",
+    "method": "dual",
     "unread": [
       "國際獅子會 300B2 區「新北市高中反毒反霸凌反飆車反詐騙宣導英文口語表達比賽辦法」"
     ],
     "note": null,
     "readers": [
+      "claude-opus-5-5",
       "claude-opus-5-5"
     ]
   },

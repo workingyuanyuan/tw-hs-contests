@@ -1,0 +1,221 @@
+{
+  "schema": 1,
+  "id": "2026-taoyuan-student-music",
+  "title": "桃園市115學年度學生音樂比賽",
+  "edition": "115 學年度",
+  "summary": "桃園市學生以個人或團體參加弦樂、鋼琴、胡琴、聲樂、合奏、合唱及樂曲創作等項目的音樂比賽。",
+  "organizers": [
+    {
+      "name": "桃園市政府教育局",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "音樂"
+  ],
+  "eligibility": {
+    "levels": [
+      "國小",
+      "國中",
+      "高中",
+      "高職"
+    ],
+    "division": "unknown",
+    "regions": [
+      "桃園市"
+    ],
+    "nomination": "unknown",
+    "team_min": null,
+    "team_max": null,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.sssh.tyc.edu.tw/news/%e6%a1%83%e5%9c%92%e5%b8%82115%e5%ad%b8%e5%b9%b4%e5%ba%a6%e5%ad%b8%e7%94%9f%e9%9f%b3%e6%a8%82%e6%af%94%e8%b3%bd/",
+        "quote": "為提供本市學生音樂才藝展能舞台，促進音樂教育精進發展"
+      },
+      {
+        "url": "https://www.sssh.tyc.edu.tw/view-doc/19/1150806音樂比賽時間來文.pdf",
+        "quote": "正本：本市公私立各級學校（含大專院校、高中職、公私立國中小）"
+      },
+      {
+        "url": "https://www.sssh.tyc.edu.tw/news/%e6%a1%83%e5%9c%92%e5%b8%82115%e5%ad%b8%e5%b9%b4%e5%ba%a6%e5%ad%b8%e7%94%9f%e9%9f%b3%e6%a8%82%e6%af%94%e8%b3%bd/",
+        "quote": "本案事涉學生重要權益，旨揭實施要點請貴校務必確實轉知所學生及家長"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "網路報名及報名表郵寄截止（郵戳為憑）",
+      "date": "2026-09-08",
+      "time": null,
+      "original": "115年9月1日(星期二)起至115年9月8日(星期二)止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.sssh.tyc.edu.tw/news/%e6%a1%83%e5%9c%92%e5%b8%82115%e5%ad%b8%e5%b9%b4%e5%ba%a6%e5%ad%b8%e7%94%9f%e9%9f%b3%e6%a8%82%e6%af%94%e8%b3%bd/",
+          "quote": "(四)報名日期：115年9月1日(星期二)起至115年9月8日(星期二)止。(郵戳為憑，逾期概不受理)。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "出場序及指定曲抽籤",
+      "date": "2026-09-29",
+      "time": "14:00",
+      "original": "115年9月29日(星期二)下午2時",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.sssh.tyc.edu.tw/news/%e6%a1%83%e5%9c%92%e5%b8%82115%e5%ad%b8%e5%b9%b4%e5%ba%a6%e5%ad%b8%e7%94%9f%e9%9f%b3%e6%a8%82%e6%af%94%e8%b3%bd/",
+          "quote": "(六)出場序及指定曲抽籤：115年9月29日(星期二)下午2時於桃園市立平鎮國民中學辦理。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "客家文化館場次團體賽領隊會議",
+      "date": "2026-11-11",
+      "time": "14:00",
+      "original": "115年11月11日(星期三)下午2時",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.sssh.tyc.edu.tw/news/%e6%a1%83%e5%9c%92%e5%b8%82115%e5%ad%b8%e5%b9%b4%e5%ba%a6%e5%ad%b8%e7%94%9f%e9%9f%b3%e6%a8%82%e6%af%94%e8%b3%bd/",
+          "quote": "１、客文館部分：115年11月11日(星期三)下午2時於客家文化館視聽簡報室舉行。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "個人賽及小型團體賽（10月13日至11月20日）",
+      "date": "2026-11-20",
+      "time": null,
+      "original": "115年10月13日(星期二)至11月20日(星期五)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.sssh.tyc.edu.tw/news/%e6%a1%83%e5%9c%92%e5%b8%82115%e5%ad%b8%e5%b9%b4%e5%ba%a6%e5%ad%b8%e7%94%9f%e9%9f%b3%e6%a8%82%e6%af%94%e8%b3%bd/",
+          "quote": "１、個人賽、小型團體賽(直笛合奏、口琴合奏、口琴四重奏、銅管五重奏、木管五重奏、鋼琴三重奏、鋼琴五重奏、弦樂四重奏、弦樂合奏及合唱等)：115年10月13日(星期二)至11月20日(星期五)。"
+        },
+        {
+          "url": "https://www.sssh.tyc.edu.tw/view-doc/19/1150806音樂比賽時間來文.pdf",
+          "quote": "(一)115年10月13日(星期二)至11月20日(星期五)：個人賽全項目及部分團賽"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "六和高中場次團體賽領隊會議",
+      "date": "2026-11-30",
+      "time": "14:00",
+      "original": "115年11月30日(星期一)下午2時",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.sssh.tyc.edu.tw/news/%e6%a1%83%e5%9c%92%e5%b8%82115%e5%ad%b8%e5%b9%b4%e5%ba%a6%e5%ad%b8%e7%94%9f%e9%9f%b3%e6%a8%82%e6%af%94%e8%b3%bd/",
+          "quote": "２、六和高中部分：115年11月30日(星期一)下午2時於六和高中活動中心舉行。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "大型團體賽（12月1日至12月11日）",
+      "date": "2026-12-11",
+      "time": null,
+      "original": "115年12月1日(星期二)至12月11日(星期五)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.sssh.tyc.edu.tw/news/%e6%a1%83%e5%9c%92%e5%b8%82115%e5%ad%b8%e5%b9%b4%e5%ba%a6%e5%ad%b8%e7%94%9f%e9%9f%b3%e6%a8%82%e6%af%94%e8%b3%bd/",
+          "quote": "２、大型團體賽(打擊樂合奏、管樂合奏、管弦樂合奏、兒童樂隊、國樂合奏、行進管樂及絲竹室內樂)：115年12月1日(星期二)至12月11日(星期五)。"
+        },
+        {
+          "url": "https://www.sssh.tyc.edu.tw/view-doc/19/1150806音樂比賽時間來文.pdf",
+          "quote": "(三)115年12月1日(星期二)至12月11日(星期五)：團體賽項目"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名",
+      "what": "網路報名後列印並核章的正式報名表正本，限時掛號寄至平鎮國中，每張報名表限報一個項目",
+      "how": "mail"
+    },
+    {
+      "stage": "比賽",
+      "what": "依抽籤出場序現場演出，含指定曲",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "桃園市客家文化館演藝廳（個人賽、小型團體賽）、桃園市立平鎮國民中學（樂曲創作、歌曲創作）、桃園市私立六和高中（大型團體賽）、桃園市仁和國民中學（行進管樂）",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.sssh.tyc.edu.tw/news/%e6%a1%83%e5%9c%92%e5%b8%82115%e5%ad%b8%e5%b9%b4%e5%ba%a6%e5%ad%b8%e7%94%9f%e9%9f%b3%e6%a8%82%e6%af%94%e8%b3%bd/",
+        "quote": "鋼琴五重奏、弦樂四重奏、弦樂合奏及合唱等)：桃園市客家文化館演藝廳；另樂曲創作或歌曲創作比賽假桃園市立平鎮國民中學辦理。"
+      },
+      {
+        "url": "https://www.sssh.tyc.edu.tw/news/%e6%a1%83%e5%9c%92%e5%b8%82115%e5%ad%b8%e5%b9%b4%e5%ba%a6%e5%ad%b8%e7%94%9f%e9%9f%b3%e6%a8%82%e6%af%94%e8%b3%bd/",
+        "quote": "２、大型團體賽(打擊樂合奏、管樂合奏、管弦樂合奏、兒童樂隊、國樂合奏及絲竹室內樂)：桃園市私立六和高中。"
+      },
+      {
+        "url": "https://www.sssh.tyc.edu.tw/news/%e6%a1%83%e5%9c%92%e5%b8%82115%e5%ad%b8%e5%b9%b4%e5%ba%a6%e5%ad%b8%e7%94%9f%e9%9f%b3%e6%a8%82%e6%af%94%e8%b3%bd/",
+        "quote": "３、大型團體賽(行進管樂)：桃園市仁和國民中學。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "unknown",
+    "amount": null,
+    "basis": "unread",
+    "evidence": []
+  },
+  "prizes": {
+    "text": null,
+    "basis": "unread",
+    "evidence": []
+  },
+  "ai_policy": {
+    "value": "unknown",
+    "basis": "unread",
+    "evidence": []
+  },
+  "links": {
+    "official": "http://163.30.153.4/Index/index.asp",
+    "rules": [
+      {
+        "title": "桃園市政府教育局賽程安排函（PDF）",
+        "url": "https://www.sssh.tyc.edu.tw/view-doc/19/1150806音樂比賽時間來文.pdf"
+      },
+      {
+        "title": "比賽實施要點下載（桃園市政府教育局最新消息）",
+        "url": "https://www.tyc.edu.tw/News.aspx?n=5143&sms=10535"
+      }
+    ],
+    "registration": "http://163.30.153.4/Index/index.asp"
+  },
+  "found_via": [
+    {
+      "name": "壽山高中 校外競賽",
+      "url": "https://www.sssh.tyc.edu.tw/news/%e6%a1%83%e5%9c%92%e5%b8%82115%e5%ad%b8%e5%b9%b4%e5%ba%a6%e5%ad%b8%e7%94%9f%e9%9f%b3%e6%a8%82%e6%af%94%e8%b3%bd/"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-24",
+    "method": "single",
+    "unread": [
+      "115學年度桃園市學生音樂比賽實施計畫（實施要點及各類組詳細規定附件）"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-24"
+}

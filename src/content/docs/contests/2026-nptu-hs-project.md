@@ -1,6 +1,6 @@
 ---
 title: "2026 全國高中職專題競賽"
-description: "高中職學生組隊依資訊、商業、電子機械領域上傳專題海報，再到屏東大學現場發表。"
+description: "全國高中職學生組隊就資訊、商業行銷或電子機械領域專題製作海報，到國立屏東大學現場發表展示。"
 appliesTo: "2026 這一屆"
 caveat: "報名已於 2026-10-25 截止。"
 lastVerified: 2026-11-24
@@ -10,13 +10,13 @@ sources:
   - title: "官方頁面"
     url: "https://ccsnptu.wixsite.com/contest"
   - title: "活動簡章"
-    url: "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=eFUxcHhPRE4wT2NyQ2t1QS9EUktpWWlaZUZPb1h1cjAzOUF0VFRyLzZhYXI2OVpXcm92Q21QdU95NktycTF6QVUzekM4Vkg4Q295Q0tuaTM1T2tkUy9Pekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=NnlHV0NqdWRpRnAyR2Z6SEFhZG5pakxwd1ZWdDFtM3JqZkFuQ1RkeGwxWT0="
+    url: "https://www.hgsh.hc.edu.tw/wp-content/uploads/doc/u1220/活動簡章-2026全國高中職專題競賽.pdf"
   - title: "常見問題"
-    url: "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=eFUxcHhPRE4wT2NyQ2t1QS9EUktpWWlaZUZPb1h1cjAzOUF0VFRyLzZhYUlvRjdOT2tHVzUwOTl5OGdNdEFyYVkra01HcnE3MW4ybWNrSTJWUTFkTGZPekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=R1dEYTF2SDhXckZXMVVoV0pEMUJEQkIrL2h2dkhjd205MktOMGxtcTNvVXBWQi9pRTJGd09tVHljUUJ4OVdRWg=="
-  - title: "轉發公告：大里高中 校外活動與競賽"
-    url: "https://dlsh.tc.edu.tw/p/406-1068-639881,r2145.php?Lang=zh-tw"
-  - title: "轉發公告：大里高中 校外活動與競賽"
-    url: "https://dlsh.tc.edu.tw/p/406-1068-619145,r2145.php?Lang=zh-tw"
+    url: "https://www.hgsh.hc.edu.tw/view-doc/6/常見問題-2026全國高中職專題競賽.pdf"
+  - title: "www.hgsh.hc.edu.tw"
+    url: "https://www.hgsh.hc.edu.tw/view-doc/6/活動簡章-2026全國高中職專題競賽.pdf"
+  - title: "轉發公告：新竹女中 活動研習"
+    url: "https://www.hgsh.hc.edu.tw/news/2026%e5%85%a8%e5%9c%8b%e9%ab%98%e4%b8%ad%e8%81%b7%e5%b0%88%e9%a1%8c%e7%ab%b6%e8%b3%bd/"
 ---
 
 ## 重點
@@ -31,19 +31,22 @@ sources:
 
 ## 要交什麼
 
-- 報名：線上報名表（以 Google 帳號登入）（線上繳交）
-- 海報上傳：依公版格式製作的專題海報，PDF 或 PNG（線上繳交）
-- 決賽：自行印製的 A0 海報、5 分鐘中文或英文簡報與成果作品（現場）
+- 報名：活動網站報名表（以 Google 帳號登入填寫）（線上繳交）
+- 海報上傳：以規定海報格式製作的海報，存為 PDF 或 PNG 上傳（線上繳交）
+- 決賽：自行印製 A0 海報（1 至 3 張）布置攤位，自備筆電簡報 5 分鐘，評審講評與問答 3 分鐘，可一併展示成果作品（現場）
 
 ## 獎項
 
-各領域第一名獎盃、獎金 5,000 元及獎狀；第二名獎盃、獎金 3,000 元及獎狀；第三名獎盃、獎金 2,000 元及獎狀；優勝若干組，獎金 1,000 元及獎狀。
+各領域分別評比：第一名獎盃、獎金 5,000 元及獎狀；第二名獎盃、獎金 3,000 元及獎狀；第三名獎盃、獎金 2,000 元及獎狀；優勝若干組，獎金 1,000 元及獎狀。主辦單位可視評分狀況調整得獎組數。
 
 ## 時程
 
 | 日期 | 事項 |
 | --- | --- |
-| 2026-10-25 | 填寫報名表截止 |
-| 2026-11-08 | 上傳競賽海報截止 |
-| 2026-11-16 | 寄發出席調查 |
-| 2026-12-06 09:00 | 決賽 |
+| 2026-10-25 | 填表報名截止 |
+| 2026-11-04 | 報名領域已額滿而來信表達意願者，獲通知是否釋出名額 |
+| 2026-11-08 | 海報上傳截止 |
+| 2026-11-16 | 主辦單位寄發出席調查，一星期內回覆出席人數 |
+| 2026-11-18 | 需基本供電以外、有線網路或指定報告時間者來信說明截止 |
+| 2026-12-06 | 決賽 |
+| 2026-12-06 | 競賽名次公布及頒獎 |

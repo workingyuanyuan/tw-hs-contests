@@ -1,0 +1,175 @@
+{
+  "schema": 1,
+  "id": "2026-chemistry-olympiad-prelim",
+  "title": "2027第59屆化學奧林匹亞全國初選競賽",
+  "edition": "第59屆",
+  "summary": "國中及高中職學生應考以高中化學科內容為基礎的化學筆試。",
+  "organizers": [
+    {
+      "name": "unknown",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "自然科學"
+  ],
+  "eligibility": {
+    "levels": [
+      "國中",
+      "高中",
+      "高職"
+    ],
+    "division": "unknown",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "school",
+    "team_min": null,
+    "team_max": null,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.chsh.chc.edu.tw/p/406-1009-195628,r70.php?Lang=zh-tw",
+        "quote": "一、報名資格：符合下列條件之我國高級中等以下教育階段學生（不含國民小學學生）："
+      },
+      {
+        "url": "https://www.chsh.chc.edu.tw/p/406-1009-195628,r70.php?Lang=zh-tw",
+        "quote": "1.具有中華民國身分證者；"
+      },
+      {
+        "url": "https://www.chsh.chc.edu.tw/p/406-1009-195628,r70.php?Lang=zh-tw",
+        "quote": "2.民國96年7月1日(含)以後出生者( 20歲以下)。僅接受學校統一報名。"
+      },
+      {
+        "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=22183",
+        "quote": "（採校內團體報名，請把握這個時間喔！）"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "金門高中學生校內報名截止",
+      "date": "2026-10-02",
+      "time": "17:00",
+      "original": "115年10月2日(星期五)下午5點",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=22183",
+          "quote": "報名時間：即日起115年10月2日(星期五)下午5點止。"
+        }
+      ]
+    },
+    {
+      "kind": "registration_deadline",
+      "label": "彰化高中學生校內報名截止",
+      "date": "2026-10-06",
+      "time": null,
+      "original": "10月6日(二)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.chsh.chc.edu.tw/p/406-1009-195628,r70.php?Lang=zh-tw",
+          "quote": "三、欲報名同學請自即日起至 10月6日(二)前截止，掃描所附之QR Code，填寫報名表單，逾期不受理報名候。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "初賽考試",
+      "date": "2026-11-14",
+      "time": "14:00",
+      "original": "115年11月14日(六) 下午14:00-16:00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.chsh.chc.edu.tw/p/406-1009-195628,r70.php?Lang=zh-tw",
+          "quote": "二、考試時間：115年11月14日(六) 下午14:00-16:00 。"
+        },
+        {
+          "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=22183",
+          "quote": "初賽日期：115年11月14日（星期六）14:00至16:00。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "初賽",
+      "what": "14:00 至 16:00 兩小時筆試，於報名的考區考場作答",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "各考區考場：建國中學、武陵高中、臺中一中、嘉義高中、臺南一中、高雄中學、宜蘭高中、花蓮高中、馬公高中",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.chsh.chc.edu.tw/p/406-1009-195628,r70.php?Lang=zh-tw",
+        "quote": "※為避免國家行政資源浪費，請報名考生務必到場應試。"
+      },
+      {
+        "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=22183",
+        "quote": "考試地點：金門無設考場，請擇一考區報名，交通需自理。"
+      },
+      {
+        "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=22183",
+        "quote": "臺北考區：建國中學 (將視報名人數加開師大公館校區考場)"
+      },
+      {
+        "url": "https://www.chsh.chc.edu.tw/p/406-1009-195628,r70.php?Lang=zh-tw",
+        "quote": "五、初賽日期：115年11月14日(六)，初賽地點：中彰投地區(台中一中)。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "unknown",
+    "amount": null,
+    "basis": "unread",
+    "evidence": []
+  },
+  "prizes": {
+    "text": null,
+    "basis": "unread",
+    "evidence": []
+  },
+  "ai_policy": {
+    "value": "unknown",
+    "basis": "unread",
+    "evidence": []
+  },
+  "links": {
+    "official": "https://tpmso.org/twicho/",
+    "rules": [],
+    "registration": null
+  },
+  "found_via": [
+    {
+      "name": "彰化高中 競賽公告",
+      "url": "https://www.chsh.chc.edu.tw/p/406-1009-195628,r70.php?Lang=zh-tw"
+    },
+    {
+      "name": "金門高中 最新消息",
+      "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=22183"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-24",
+    "method": "single",
+    "unread": [
+      "化學奧林匹亞活動網站（tpmso.org/twicho/）的考試相關規定及公告"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-24",
+  "level": "checked",
+  "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-chemistry-olympiad-prelim/",
+  "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-chemistry-olympiad-prelim.md"
+}

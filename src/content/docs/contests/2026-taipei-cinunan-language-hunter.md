@@ -2,7 +2,7 @@
 title: "臺北市母語巢線上互動遊戲–族語獵人cinunan闖關競賽"
 description: "臺北市國小至高中職學生在活動網站以族語完成四關闖關遊戲，依最高語別總分排名。"
 appliesTo: "2026 這一屆"
-caveat: "高中職學生與大專生或社會人士同組評比。"
+caveat: "高中職學生與國小、國中學生同組評比。"
 lastVerified: 2026-11-24
 kind: "contest"
 deadline: "2026-11-30"

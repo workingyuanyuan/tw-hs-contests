@@ -1,6 +1,6 @@
 ---
 title: "高中職競賽目錄"
-description: "臺灣高中職學生現在可以報名的比賽 90 則，29 則在 14 天內截止。"
+description: "臺灣高中職學生現在可以報名的比賽 97 則，30 則在 14 天內截止。"
 appliesTo: "資料更新至 2026-11-24"
 caveat: "日期皆為臺灣時間 (UTC+8)；截止日是新參賽者報名的最後一天。"
 lastVerified: 2026-11-24
@@ -26,37 +26,41 @@ sources:
 ## 截止月份
 
 - [2026 年 11 月](/deadlines/2026-11/)：18 則
-- [2026 年 12 月](/deadlines/2026-12/)：34 則
-- [2027 年 1 月](/deadlines/2027-01/)：17 則
+- [2026 年 12 月](/deadlines/2026-12/)：36 則
+- [2027 年 1 月](/deadlines/2027-01/)：19 則
 - [2027 年 2 月](/deadlines/2027-02/)：8 則
 - [2027 年 3 月](/deadlines/2027-03/)：7 則
+- [2027 年 4 月](/deadlines/2027-04/)：1 則
 - [2027 年 5 月](/deadlines/2027-05/)：2 則
 - [2027 年 6 月](/deadlines/2027-06/)：1 則
-- [截止日未定](/deadlines/undated/)：3 則
+- [截止日未定](/deadlines/undated/)：5 則
 
 ## 類別
 
-- [資訊與 AI](/subjects/ai-and-computing/)：17 則
-- [自然科學](/subjects/science/)：8 則
-- [語文與寫作](/subjects/language-and-writing/)：15 則
-- [外語](/subjects/foreign-languages/)：6 則
-- [社會人文](/subjects/humanities/)：14 則
+- [資訊與 AI](/subjects/ai-and-computing/)：18 則
+- [自然科學](/subjects/science/)：9 則
+- [數學](/subjects/math/)：1 則
+- [語文與寫作](/subjects/language-and-writing/)：16 則
+- [外語](/subjects/foreign-languages/)：7 則
+- [社會人文](/subjects/humanities/)：15 則
 - [商管與行銷](/subjects/business/)：9 則
-- [創業與企劃](/subjects/entrepreneurship/)：7 則
-- [設計](/subjects/design/)：14 則
+- [創業與企劃](/subjects/entrepreneurship/)：8 則
+- [設計](/subjects/design/)：15 則
 - [美術](/subjects/fine-arts/)：12 則
 - [影音](/subjects/video/)：23 則
-- [音樂](/subjects/music/)：2 則
+- [音樂](/subjects/music/)：5 則
 - [表演藝術](/subjects/performing-arts/)：5 則
 - [技藝與技能](/subjects/skills/)：6 則
-- [餐旅](/subjects/hospitality/)：5 則
+- [餐旅](/subjects/hospitality/)：4 則
 - [工程與製造](/subjects/engineering/)：10 則
-- [農業與環境](/subjects/agriculture-and-environment/)：5 則
+- [農業與環境](/subjects/agriculture-and-environment/)：6 則
 - [醫護與照顧](/subjects/health-and-care/)：6 則
 - [其他](/subjects/other/)：2 則
 
 ## 封存
 
-- [2026 年 11 月截止](/archive/2026-11/)：16 則
-- [2026 年 10 月截止](/archive/2026-10/)：3 則
-- [2026 年 9 月截止](/archive/2026-09/)：7 則
+- [2026 年 11 月截止](/archive/2026-11/)：22 則
+- [2026 年 10 月截止](/archive/2026-10/)：7 則
+- [2026 年 9 月截止](/archive/2026-09/)：12 則
+- [2026 年 6 月截止](/archive/2026-06/)：1 則
+- [2026 年 5 月截止](/archive/2026-05/)：1 則

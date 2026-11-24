@@ -1,0 +1,135 @@
+{
+  "schema": 1,
+  "id": "2026-taoyuan-student-dance",
+  "title": "桃園市115學年度學生舞蹈比賽",
+  "edition": "115 學年度",
+  "summary": "桃園市學生經學校報名，演出舞蹈作品參加比賽。",
+  "organizers": [
+    {
+      "name": "桃園市",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "表演藝術"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中"
+    ],
+    "division": "unknown",
+    "regions": [
+      "桃園市"
+    ],
+    "nomination": "unknown",
+    "team_min": null,
+    "team_max": null,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "http://www.wlsh.tyc.edu.tw/p/406-1000-42973,r83.php?Lang=zh-tw",
+        "quote": "本市115學年度學生舞蹈比賽實施要點(下稱本要點)修正及新增事項詳如附件一"
+      },
+      {
+        "url": "http://www.wlsh.tyc.edu.tw/p/406-1000-42973,r83.php?Lang=zh-tw",
+        "quote": "(四) 報名方式：請速洽學務處活動組,逾時不候"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "報名截止",
+      "date": "2026-10-14",
+      "time": null,
+      "original": "115年10月7日(星期三)至10月14日(星期三)止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "http://www.wlsh.tyc.edu.tw/p/406-1000-42973,r83.php?Lang=zh-tw",
+          "quote": "(三) 報名日期：115年10月7日(星期三)至10月14日(星期三)止。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "比賽（11 月 19 日至 22 日，先一區後二區）",
+      "date": "2026-11-19",
+      "time": "08:30",
+      "original": "115年11月19日(星期四)起至11月22日(星期日) ，上午8時30分至至下午5時",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "http://www.wlsh.tyc.edu.tw/p/406-1000-42973,r83.php?Lang=zh-tw",
+          "quote": "(二) 比賽日期：115年11月19日(星期四)起至11月22日(星期日) ，上午8時30分至至下午5時，賽程安排先一區後二區。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "比賽",
+      "what": "於平鎮高中體育館現場演出舞蹈",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "桃園市立平鎮高級中等學校體育館",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "http://www.wlsh.tyc.edu.tw/p/406-1000-42973,r83.php?Lang=zh-tw",
+        "quote": "(一) 比賽地點：桃園市立平鎮高級中等學校體育館。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "unknown",
+    "amount": null,
+    "basis": "unread",
+    "evidence": []
+  },
+  "prizes": {
+    "text": null,
+    "basis": "unread",
+    "evidence": []
+  },
+  "ai_policy": {
+    "value": "unknown",
+    "basis": "unread",
+    "evidence": []
+  },
+  "links": {
+    "official": null,
+    "rules": [
+      {
+        "title": "武陵高中校外競賽公告",
+        "url": "http://www.wlsh.tyc.edu.tw/p/406-1000-42973,r83.php?Lang=zh-tw"
+      }
+    ],
+    "registration": null
+  },
+  "found_via": [
+    {
+      "name": "武陵高中 校外競賽",
+      "url": "http://www.wlsh.tyc.edu.tw/p/406-1000-42973,r83.php?Lang=zh-tw"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-24",
+    "method": "single",
+    "unread": [
+      "附件一：本市115學年度學生舞蹈比賽實施要點修正及新增事項",
+      "附件二：本年度修正事項重點說明",
+      "115學年度全國學生舞蹈比賽實施要點"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-24"
+}

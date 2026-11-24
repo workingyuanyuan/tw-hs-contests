@@ -1,0 +1,208 @@
+{
+  "schema": 1,
+  "id": "2026-nthu-giwas-showdown",
+  "title": "「吉娃斯愛科學決戰」體驗賽",
+  "edition": "2026",
+  "summary": "各級學校師生在線上作答科學概念與原住民族文化知識的單選題，依分數與答題時間排名。",
+  "organizers": [
+    {
+      "name": "國立清華大學學習科學與科技研究所",
+      "role": "主辦"
+    },
+    {
+      "name": "國立清華大學原住民族科學發展中心",
+      "role": "主辦"
+    },
+    {
+      "name": "新竹振道有線電視公司",
+      "role": "協辦"
+    },
+    {
+      "name": "清華網路文教基金會",
+      "role": "協辦"
+    }
+  ],
+  "categories": [
+    "自然科學",
+    "社會人文"
+  ],
+  "eligibility": {
+    "levels": [
+      "國小",
+      "國中",
+      "高中",
+      "高職",
+      "五專",
+      "大專"
+    ],
+    "division": "mixed",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": 1,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs8112/「吉娃斯愛科學決戰」.pdf",
+        "quote": "參賽資格：我國境內各級學校師生均可參加，未滿18 歲者需經家長或教師同\n意參加本活動。"
+      },
+      {
+        "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs8112/「吉娃斯愛科學決戰」.pdf",
+        "quote": "報名方式：參賽者須至《吉娃斯愛科學》評量專區\n（https://quiz.yabit.org.tw/）完成會員註冊，並使用個人會\n員帳號及密碼登入，始得參與測驗練習與線上活動競賽。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "other",
+      "label": "線上競賽",
+      "date": "2026-11-14",
+      "time": "10:00",
+      "original": "2026 年11 月14 日（星期六） 上午10：00 至12：00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs8112/「吉娃斯愛科學決戰」.pdf",
+          "quote": "活動日期：2026 年11 月14 日（星期六）"
+        },
+        {
+          "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs8112/「吉娃斯愛科學決戰」.pdf",
+          "quote": "活動時間：上午10：00 至12：00"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "實體公開決賽（線上競賽前三名）",
+      "date": "2026-11-21",
+      "time": "11:00",
+      "original": "115年11月21日（六）上午11時至11時30分",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.csghs.tp.edu.tw/news/%e8%bd%89%e7%9f%a5%e8%87%ba%e5%8c%97%e5%b8%82%e6%94%bf%e5%ba%9c%e6%95%99%e8%82%b2%e5%b1%80%ef%bc%8c%e5%9c%8b%e7%ab%8b%e6%b8%85%e8%8f%af%e5%a4%a7%e5%ad%b8%e8%be%a6%e7%90%86%e7%a7%91%e6%99%ae%e6%b4%bb/",
+          "quote": "（三）實體公開決賽：線上競賽前3名取得決賽資格，於115年11月21日（六）上午11時至11時30分，假新竹振道有線電視攝影棚辦理。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "線上競賽前 20 名獎狀與周邊產品郵寄期限",
+      "date": "2026-12-10",
+      "time": null,
+      "original": "12 月10 日前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs8112/「吉娃斯愛科學決戰」.pdf",
+          "quote": "由主辦單位聯繫並於12 月10 日前\n前郵寄獎狀及《吉娃斯愛科學》動畫周邊產品（吉娃斯布偶吊飾與文具）。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "線上競賽",
+      "what": "40 分鐘內作答 25 題單選題（每題 4 分，滿分 100 分），每人限一次",
+      "how": "online"
+    },
+    {
+      "stage": "實體公開決賽（線上競賽前三名）",
+      "what": "搶答",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "finalists",
+    "where": "新竹振道有線電視攝影棚（新竹市中華路三段126號地下1樓）",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs8112/「吉娃斯愛科學決戰」.pdf",
+        "quote": "11 月21 日（星期六）上午11：00 至11：30 於新竹振道有線電視攝影棚（新\n竹市中華路三段126 號地下1 樓）（新竹火車站附近），以搶答方式，進行實\n體公開決賽「吉娃斯愛科學決戰」體驗賽"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs8112/「吉娃斯愛科學決戰」.pdf",
+        "quote": "（二）報名費用：免報名費。"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "線上競賽前 20 名頒發獎狀及《吉娃斯愛科學》動畫周邊產品（吉娃斯布偶吊飾與文具），前三名另取得實體公開決賽資格；實體公開決賽第一至第三名各頒發獎狀乙紙。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs8112/「吉娃斯愛科學決戰」.pdf",
+        "quote": "行榜」區所顯示活動競賽之前20 名者，由主辦單位聯繫並於12 月10 日前\n前郵寄獎狀及《吉娃斯愛科學》動畫周邊產品（吉娃斯布偶吊飾與文具）。"
+      },
+      {
+        "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs8112/「吉娃斯愛科學決戰」.pdf",
+        "quote": "（二）實體公開決賽「吉娃斯愛科學決戰」體驗賽第一名獎狀，第二名獎狀，第三名\n獎狀。各頒發獎狀乙紙。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs8112/「吉娃斯愛科學決戰」.pdf"
+      },
+      {
+        "url": "https://www.csghs.tp.edu.tw/news/%e8%bd%89%e7%9f%a5%e8%87%ba%e5%8c%97%e5%b8%82%e6%94%bf%e5%ba%9c%e6%95%99%e8%82%b2%e5%b1%80%ef%bc%8c%e5%9c%8b%e7%ab%8b%e6%b8%85%e8%8f%af%e5%a4%a7%e5%ad%b8%e8%be%a6%e7%90%86%e7%a7%91%e6%99%ae%e6%b4%bb/"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://quiz.yabit.org.tw/",
+    "rules": [
+      {
+        "title": "「吉娃斯愛科學決戰」體驗賽實施計畫",
+        "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs8112/「吉娃斯愛科學決戰」.pdf"
+      }
+    ],
+    "registration": "https://quiz.yabit.org.tw/"
+  },
+  "found_via": [
+    {
+      "name": "武陵高中 校外競賽",
+      "url": "http://www.wlsh.tyc.edu.tw/p/406-1000-43647,r83.php?Lang=zh-tw"
+    },
+    {
+      "name": "成功高中 活動競賽",
+      "url": "https://www.cksh.tp.edu.tw/news/%e3%80%90%e8%bd%89%e7%9f%a5%e3%80%91%e5%9c%8b%e7%ab%8b%e6%b8%85%e8%8f%af%e5%a4%a7%e5%ad%b8%e8%be%a6%e7%90%86%e7%a7%91%e6%99%ae%e6%b4%bb%e5%8b%95%e7%ab%b6%e8%b3%bd%e3%80%8c%e5%90%89%e5%a8%83%e6%96%af/"
+    },
+    {
+      "name": "中山女高 最新消息",
+      "url": "https://www.csghs.tp.edu.tw/news/%e8%bd%89%e7%9f%a5%e8%87%ba%e5%8c%97%e5%b8%82%e6%94%bf%e5%ba%9c%e6%95%99%e8%82%b2%e5%b1%80%ef%bc%8c%e5%9c%8b%e7%ab%8b%e6%b8%85%e8%8f%af%e5%a4%a7%e5%ad%b8%e8%be%a6%e7%90%86%e7%a7%91%e6%99%ae%e6%b4%bb/"
+    },
+    {
+      "name": "高雄高工 競賽公告",
+      "url": "https://www.ksvs.kh.edu.tw/v4/cpsub/article.php?id=12685"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-24",
+    "method": "single",
+    "unread": [],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-24",
+  "level": "unverified",
+  "url": null,
+  "markdown": null
+}

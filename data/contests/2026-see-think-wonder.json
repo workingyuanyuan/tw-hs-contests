@@ -3,10 +3,10 @@
   "id": "2026-see-think-wonder",
   "title": "2027 See Think Wonder 思考挑戰賽",
   "edition": "2027",
-  "summary": "國高中生三人組隊參加三階段思考挑戰，線上繳交個人觀察報告書，晉級者參與線上口試及臺灣大學實體黑客松提案發表。",
+  "summary": "國、高中生三人一組，觀察生活中的指定景物，撰寫觀察與思考報告書參賽。",
   "organizers": [
     {
-      "name": "雙橡教育 Twin Oaks Education",
+      "name": "雙橡教育",
       "role": "主辦"
     }
   ],
@@ -16,7 +16,8 @@
   "eligibility": {
     "levels": [
       "國中",
-      "高中"
+      "高中",
+      "高職"
     ],
     "division": "mixed",
     "regions": [
@@ -25,16 +26,20 @@
     "nomination": "none",
     "team_min": 3,
     "team_max": 3,
-    "teacher": "none",
+    "teacher": "unknown",
     "basis": "quote",
     "evidence": [
       {
-        "url": "https://bhuntr.com/tw/competitions/vfe75l2vn90dvo953r",
-        "quote": "全球 12–18 歲，目前就讀國中、高中或具同等學歷的學生，國籍不限。每隊 3 人，可自行組隊，也可單獨報名，由主辦單位協助隨機組隊。"
+        "url": "https://www.stwchallenge.org/challengeway",
+        "quote": "對象：全球國中生、高中生（年齡介於 12-18 歲之間）"
       },
       {
-        "url": "https://bhuntr.com/tw/competitions/vfe75l2vn90dvo953r",
-        "quote": "學生自行報名｜無論已組好隊伍或希望由主辦單位協助組隊，皆可填寫「個人報名表單」"
+        "url": "https://www.stwchallenge.org/challengeway",
+        "quote": "參賽形式：採團體賽制，每組 3 人，自行組隊後填表報名；亦可獨自填表報名、由主辦單位協助隨機組隊，2027.01.08（五）名單公布後恕無法申請隊伍更換。"
+      },
+      {
+        "url": "https://www.stwchallenge.org/apply",
+        "quote": "不論國籍，只要你對 See Think Wonder 思考挑戰賽有興趣，且正在就讀國、高中（或同等學歷），都歡迎報名參賽！"
       }
     ]
   },
@@ -44,86 +49,90 @@
       "label": "報名截止",
       "date": "2026-12-21",
       "time": "23:59",
-      "original": "2026/12/21（一）23:59",
+      "original": "2026.12.21（一）11:59 p.m.",
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://bhuntr.com/tw/competitions/vfe75l2vn90dvo953r",
-          "quote": "免費報名，截止至 2026/12/21（一）23:59"
+          "url": "https://www.stwchallenge.org/apply",
+          "quote": "報名開放至 2026.12.21（一）11:59 p.m."
         }
       ]
     },
     {
       "kind": "other",
-      "label": "公布組隊名單，寄發書審題目與報告書撰寫指引",
+      "label": "書審題目與組隊名單公布",
       "date": "2027-01-08",
       "time": null,
-      "original": "2027/01/08（五）",
+      "original": "2027.01.08（五）",
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://bhuntr.com/tw/competitions/vfe75l2vn90dvo953r",
-          "quote": "2027/01/08（五）公布組隊名單，寄發書審題目與報告書撰寫指引"
+          "url": "https://www.stwchallenge.org/challengeway",
+          "quote": "報告書撰寫指引將於 2027.01.08（五）以信件公布"
+        },
+        {
+          "url": "https://www.stwchallenge.org/challengeway",
+          "quote": "主辦單位將於 2027.01.08（五）公布組隊名單"
         }
       ]
     },
     {
       "kind": "submission_deadline",
-      "label": "線上繳交書審報告書截止",
+      "label": "報告書提交截止",
       "date": "2027-02-19",
       "time": null,
-      "original": "2027/01/08（五）至 02/19（五）",
+      "original": "2027.01.08（五）- 2027.02.19（五）",
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://bhuntr.com/tw/competitions/vfe75l2vn90dvo953r",
-          "quote": "2027/01/08（五）至 02/19（五）線上繳交書審報告書，02/19 為繳交截止日"
+          "url": "https://www.stwchallenge.org/challengeway",
+          "quote": "日期：2027.01.08（五）- 2027.02.19（五），期限內繳交即可"
         }
       ]
     },
     {
       "kind": "other",
-      "label": "線上口試",
+      "label": "前 30 名隊伍線上口試",
       "date": "2027-03-20",
       "time": null,
-      "original": "2027/03/20（六）",
+      "original": "2027.03.20（六）",
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://bhuntr.com/tw/competitions/vfe75l2vn90dvo953r",
-          "quote": "2027/03/20（六）線上口試，各隊於指定時段全員上線"
+          "url": "https://www.stwchallenge.org/challengeway",
+          "quote": "日期：2027.03.20（六），各組於指定口試時段上線即可"
         }
       ]
     },
     {
       "kind": "final_event",
-      "label": "臺灣大學實體黑客松",
-      "date": "2027-04-25",
+      "label": "前 15 名隊伍實體黑客松（三日，至 4 月 25 日）",
+      "date": "2027-04-23",
       "time": null,
-      "original": "2027/04/23（五）至 04/25（日）",
+      "original": "2027.04.23（五）- 2027.04.25（日）",
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://bhuntr.com/tw/competitions/vfe75l2vn90dvo953r",
-          "quote": "2027/04/23（五）至 04/25（日）臺灣大學實體黑客松，晉級隊伍須全員參與三天"
+          "url": "https://www.stwchallenge.org/challengeway",
+          "quote": "日期：2027.04.23（五）- 2027.04.25（日），於臺灣大學實體進行，具體細節將於晉級後通知，並會協助提供公假之申請公文"
         }
       ]
     }
   ],
   "deliverables": [
     {
-      "stage": "報告書書審",
-      "what": "每位參賽者各自完成並線上繳交報告書",
+      "stage": "關卡 1｜報告書書審",
+      "what": "每位參賽者各自提交報告書，寫下對指定景物的觀察與思考過程",
       "how": "online"
     },
     {
-      "stage": "線上口試",
-      "what": "隊伍全員參與即時問答，每組約 15–20 分鐘",
+      "stage": "關卡 2｜線上口試（前 30 名隊伍）",
+      "what": "小組線上即時問答，每組約 15-20 分鐘，須全員出席",
       "how": "online"
     },
     {
-      "stage": "實體黑客松",
-      "what": "前兩天進行培訓與團隊討論，第三天下午發表提案",
+      "stage": "關卡 3｜實體黑客松（前 15 名隊伍）",
+      "what": "兩日培訓與團隊討論後，第三日下午提案報告",
       "how": "onsite"
     }
   ],
@@ -133,12 +142,12 @@
     "basis": "quote",
     "evidence": [
       {
-        "url": "https://bhuntr.com/tw/competitions/vfe75l2vn90dvo953r",
-        "quote": "口試成績前 15 名晉級實體黑客松。實體黑客松｜2027/04/23（五）– 04/25（日)"
+        "url": "https://www.stwchallenge.org/challengeway",
+        "quote": "日期：2027.04.23（五）- 2027.04.25（日），於臺灣大學實體進行，具體細節將於晉級後通知，並會協助提供公假之申請公文"
       },
       {
-        "url": "https://bhuntr.com/tw/competitions/vfe75l2vn90dvo953r",
-        "quote": "於臺灣大學舉行。前兩天進行培訓與團隊討論，第三天下午發表提案。"
+        "url": "https://www.stwchallenge.org/challengeway",
+        "quote": "進行方式：以真實的情境發想創造，前兩日為參賽者培訓及團隊討論，第三日下午為提案報告；三日皆須全員出席"
       }
     ]
   },
@@ -148,62 +157,65 @@
     "basis": "quote",
     "evidence": [
       {
-        "url": "https://bhuntr.com/tw/competitions/vfe75l2vn90dvo953r",
-        "quote": "免費報名，截止至 2026/12/21（一）23:59"
+        "url": "https://www.stwchallenge.org/challengeway",
+        "quote": "A：參賽者不需要付報名費，本賽事由捐款人及雙橡教育贊助。"
       }
     ]
   },
   "prizes": {
-    "text": "依個人書審分數頒發金、銀、銅等證書（未達銅等但期限內繳交完整報告書者獲參加證明）；晉級實體黑客松者獲雙橡海外課程獎學金 2 萬元及黑客松參賽證明；冠軍隊伍每位成員各獲台灣－香港來回機票 1 張；另設 2028 雙橡美國 HTH 計畫全額贊助 1 名（國一或國二獲獎者改頒雙橡海外課程獎學金）。",
+    "text": "書審依個人分數頒發金、銀、銅等思考力證書，完整提交未達銅級者得參加證明；晉級黑客松者各得雙橡海外課程獎學金 2 萬元；黑客松冠軍隊伍每人台灣香港來回機票乙張；2028 雙橡美國 HTH 計畫全額贊助 1 名（國一、國二生改頒雙橡海外課程獎學金）；完成黑客松之隊伍得參賽證明。",
     "basis": "quote",
     "evidence": [
       {
-        "url": "https://bhuntr.com/tw/competitions/vfe75l2vn90dvo953r",
-        "quote": "See Think Wonder 思考力證書｜依個人書審分數頒發金、銀、銅等證書。"
+        "url": "https://www.stwchallenge.org/challengeway",
+        "quote": "See Think Wonder 思考力證書：依據個人分數，將頒發金／銀／銅級證書，詳細證書等級標準請見下方說明；若在時限內提交完整報告書卻未達銅級，則可獲得參加證明"
       },
       {
-        "url": "https://bhuntr.com/tw/competitions/vfe75l2vn90dvo953r",
-        "quote": "雙橡海外課程獎學金 2 萬元｜凡晉級實體黑客松者皆可獲得台灣－香港來回機票｜冠軍隊伍每位成員各獲 1 張"
+        "url": "https://www.stwchallenge.org/challengeway",
+        "quote": "獎勵辦法：雙橡海外課程獎學金 2 萬元（凡晉級黑客松者）"
       },
       {
-        "url": "https://bhuntr.com/tw/competitions/vfe75l2vn90dvo953r",
-        "quote": "2028 雙橡美國 HTH 計畫全額贊助｜名額 1 名。若獲獎者為國一或國二學生，則頒發雙橡海外課程獎學金"
+        "url": "https://www.stwchallenge.org/challengeway",
+        "quote": "台灣香港來回機票（冠軍隊伍每人乙張）"
+      },
+      {
+        "url": "https://www.stwchallenge.org/challengeway",
+        "quote": "2028 雙橡美國 HTH 計畫全額贊助（1 名；若獲獎者為國一、國二生，則頒發雙橡海外課程獎學金）"
+      },
+      {
+        "url": "https://www.stwchallenge.org/challengeway",
+        "quote": "黑客松參賽證明（完成黑客松之隊伍）"
       }
     ]
   },
   "ai_policy": {
-    "value": "not_mentioned",
-    "basis": "absent",
-    "evidence": [
-      {
-        "url": "https://bhuntr.com/tw/competitions/vfe75l2vn90dvo953r"
-      },
-      {
-        "url": "https://www.stwchallenge.org/apply"
-      }
-    ]
+    "value": "unknown",
+    "basis": "unread",
+    "evidence": []
   },
   "links": {
-    "official": "https://www.stwchallenge.org/",
+    "official": "https://www.stwchallenge.org/challengeway",
     "rules": [],
-    "registration": "https://www.stwchallenge.org/apply"
+    "registration": "https://forms.gle/URzz2QWAGcqr72aZ9"
   },
   "found_via": [
     {
-      "name": "獎金獵人刊登頁",
-      "url": "https://bhuntr.com/tw/competitions/vfe75l2vn90dvo953r"
+      "name": "南投高中 最新消息",
+      "url": "https://www.ntsh.ntct.edu.tw/ischool/public/news_view/show.php?nid=22592"
     }
   ],
   "verification": {
     "last_verified": "2026-11-24",
     "method": "disputed",
-    "unread": [],
-    "note": "兩次讀取的關鍵事實不一致：參賽對象：['高中'] 對 ['高中', '高職']",
+    "unread": [
+      "報告書撰寫指引（2027.01.08 以信件公布）"
+    ],
+    "note": "兩次讀取的關鍵事實不一致：參賽對象：['高中', '高職'] 對 ['高中']",
     "readers": [
-      "gemini-4-hydrogen-medium",
+      "claude-opus-5-5",
       "claude-opus-5-5"
     ]
   },
   "first_seen": "2026-11-20",
-  "updated": "2026-11-20"
+  "updated": "2026-11-24"
 }

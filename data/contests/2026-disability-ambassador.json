@@ -1,0 +1,269 @@
+{
+  "schema": 1,
+  "id": "2026-disability-ambassador",
+  "title": "第二屆無障礙大使選拔活動",
+  "edition": "第二屆",
+  "summary": "身心障礙者繳交介紹自我與專長的報名表及才藝表演影片，角逐無障礙大使。",
+  "organizers": [
+    {
+      "name": "社團法人台灣無障礙協會",
+      "role": "主辦"
+    },
+    {
+      "name": "衛生福利部社會及家庭署",
+      "role": "指導"
+    },
+    {
+      "name": "高雄市政府社會局",
+      "role": "協辦"
+    },
+    {
+      "name": "下港之聲廣播電台",
+      "role": "協辦"
+    },
+    {
+      "name": "潮州之聲廣播電台",
+      "role": "協辦"
+    },
+    {
+      "name": "屏東之聲廣播電台",
+      "role": "協辦"
+    },
+    {
+      "name": "凱旋廣播電台",
+      "role": "協辦"
+    },
+    {
+      "name": "番薯電視台",
+      "role": "協辦"
+    },
+    {
+      "name": "鳳鳴廣播電台",
+      "role": "協辦"
+    },
+    {
+      "name": "成功廣播電台",
+      "role": "協辦"
+    },
+    {
+      "name": "kiss radio 聯播網",
+      "role": "協辦"
+    },
+    {
+      "name": "教育廣播電台",
+      "role": "協辦"
+    },
+    {
+      "name": "台灣無障礙國際股份有限公司",
+      "role": "協辦"
+    },
+    {
+      "name": "高雄市彩券販賣人員職業工會",
+      "role": "協辦"
+    }
+  ],
+  "categories": [
+    "表演藝術",
+    "其他"
+  ],
+  "eligibility": {
+    "levels": [],
+    "division": "unknown",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": null,
+    "team_max": null,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs223/無障礙大使暨歲末愛心物資加油站 募資項目DM海報.pdf",
+        "quote": "我們除辦理各類型身心障礙者選拔活動外，也將遴"
+      },
+      {
+        "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs223/無障礙大使初選報名表.pdf",
+        "quote": "參賽方式 □線上報名 □電話報名"
+      },
+      {
+        "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs223/無障礙大使初選報名表.pdf",
+        "quote": "◎報名表請於民國115 年11 月15 日前回寄至台灣無障礙協會"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "報名截止",
+      "date": "2026-11-15",
+      "time": null,
+      "original": "115年11月15日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.csghs.tp.edu.tw/news/%e7%ac%ac%e4%ba%8c%e5%b1%86%e7%84%a1%e9%9a%9c%e7%a4%99%e5%a4%a7%e4%bd%bf%e9%81%b8%e6%8b%94%e6%b4%bb%e5%8b%95/",
+          "quote": "(三)報名期間 : 即日起至115年11月15日 截止。"
+        },
+        {
+          "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs223/無障礙大使暨歲末愛心物資加油站DM海報.pdf",
+          "quote": "即日起至11/15(日) 報名時間"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "決賽",
+      "date": "2026-12-05",
+      "time": "14:00",
+      "original": "115年12月5日 (星期六) 下午二點",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.csghs.tp.edu.tw/news/%e7%ac%ac%e4%ba%8c%e5%b1%86%e7%84%a1%e9%9a%9c%e7%a4%99%e5%a4%a7%e4%bd%bf%e9%81%b8%e6%8b%94%e6%b4%bb%e5%8b%95/",
+          "quote": "(一)活動時間 : 115年12月5日 (星期六) 下午二點 。"
+        },
+        {
+          "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs223/無障礙大使暨歲末愛心物資加油站DM海報.pdf",
+          "quote": "12/5(六)下午2:00 決賽日期"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "初選報名",
+      "what": "報名表：個人大頭貼、50 字自我介紹、100 字內個人專長特質與自我故事分享",
+      "how": "mail"
+    },
+    {
+      "stage": "初選報名",
+      "what": "5 分鐘內才藝表演的影片或圖片",
+      "how": "online"
+    },
+    {
+      "stage": "決賽",
+      "what": "到高雄市政府社會局無障礙之家出席決賽",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "finalists",
+    "where": "高雄市政府社會局無障礙之家四樓禮堂（高雄市前鎮區翠亨北路392號）",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.csghs.tp.edu.tw/news/%e7%ac%ac%e4%ba%8c%e5%b1%86%e7%84%a1%e9%9a%9c%e7%a4%99%e5%a4%a7%e4%bd%bf%e9%81%b8%e6%8b%94%e6%b4%bb%e5%8b%95/",
+        "quote": "(二)活動地點 : 高雄市政府社會局無障礙之家四樓禮堂 (高雄市前鎮區翠亨北路392號)。"
+      },
+      {
+        "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs223/無障礙大使暨歲末愛心物資加油站DM海報.pdf",
+        "quote": "12/5(六)下午2:00 決賽日期 決賽地點 社會局無障礙之家4樓禮堂"
+      },
+      {
+        "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs223/無障礙大使初選報名表.pdf",
+        "quote": "115 年度台灣無障礙大使初選報名表"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.csghs.tp.edu.tw/news/%e7%ac%ac%e4%ba%8c%e5%b1%86%e7%84%a1%e9%9a%9c%e7%a4%99%e5%a4%a7%e4%bd%bf%e9%81%b8%e6%8b%94%e6%b4%bb%e5%8b%95/"
+      },
+      {
+        "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs223/無障礙大使暨歲末愛心物資加油站DM海報.pdf"
+      },
+      {
+        "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs223/無障礙大使初選報名表.pdf"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "第 1 名獎金新台幣 15,000 元＋獎盃、第 2 名 10,000 元＋獎盃、第 3 名 5,000 元＋獎盃，第四名至第八名優等獎 2,000 元，所有參賽者皆獲獎牌與肩帶；獲選者擔任 2027 年親善大使。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs223/無障礙大使暨歲末愛心物資加油站DM海報.pdf",
+        "quote": "第1名獎金新台幣15,000元+獎盃"
+      },
+      {
+        "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs223/無障礙大使暨歲末愛心物資加油站DM海報.pdf",
+        "quote": "第名獎金新台幣10,000元+獎盃"
+      },
+      {
+        "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs223/無障礙大使暨歲末愛心物資加油站DM海報.pdf",
+        "quote": "第名獎金新台幣5,000元+獎盃"
+      },
+      {
+        "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs223/無障礙大使暨歲末愛心物資加油站DM海報.pdf",
+        "quote": "★第四名至第八名優等獎2000元★"
+      },
+      {
+        "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs223/無障礙大使暨歲末愛心物資加油站DM海報.pdf",
+        "quote": "所有參賽者皆可獲得獎牌與肩帶"
+      },
+      {
+        "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs223/無障礙大使暨歲末愛心物資加油站DM海報.pdf",
+        "quote": "1.擔任2027年親善大使角色。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.csghs.tp.edu.tw/news/%e7%ac%ac%e4%ba%8c%e5%b1%86%e7%84%a1%e9%9a%9c%e7%a4%99%e5%a4%a7%e4%bd%bf%e9%81%b8%e6%8b%94%e6%b4%bb%e5%8b%95/"
+      },
+      {
+        "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs223/無障礙大使暨歲末愛心物資加油站DM海報.pdf"
+      },
+      {
+        "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs223/無障礙大使初選報名表.pdf"
+      }
+    ]
+  },
+  "links": {
+    "official": null,
+    "rules": [
+      {
+        "title": "活動 DM 海報",
+        "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs223/無障礙大使暨歲末愛心物資加油站DM海報.pdf"
+      },
+      {
+        "title": "募資項目 DM 海報",
+        "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs223/無障礙大使暨歲末愛心物資加油站 募資項目DM海報.pdf"
+      },
+      {
+        "title": "初選報名表",
+        "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs223/無障礙大使初選報名表.pdf"
+      }
+    ],
+    "registration": null
+  },
+  "found_via": [
+    {
+      "name": "金門高中 最新消息",
+      "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=22657"
+    },
+    {
+      "name": "中山女高 最新消息",
+      "url": "https://www.csghs.tp.edu.tw/news/%e7%ac%ac%e4%ba%8c%e5%b1%86%e7%84%a1%e9%9a%9c%e7%a4%99%e5%a4%a7%e4%bd%bf%e9%81%b8%e6%8b%94%e6%b4%bb%e5%8b%95/"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-24",
+    "method": "single",
+    "unread": [],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-24"
+}

@@ -1,0 +1,297 @@
+{
+  "schema": 1,
+  "id": "2026-tpcu-en-ja-newscaster-reading",
+  "title": "2026全國高中職暨大專校院英日語播報員朗讀競賽",
+  "edition": "2026",
+  "summary": "高中職及大專學生以英語或日語朗讀介紹笠間市的播報稿，模擬電視播報員播報。",
+  "organizers": [
+    {
+      "name": "臺北城市科技大學應用外語系",
+      "role": "主辦"
+    },
+    {
+      "name": "日本茨城縣笠間市台灣辦事處",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "外語"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職",
+      "大專"
+    ],
+    "division": "mixed",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "school",
+    "team_min": 1,
+    "team_max": 1,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.fg.tp.edu.tw/wp-content/uploads/doc/experiment/2026全國高中職暨大專校院英日語播報員朗讀競賽簡章.pdf",
+        "quote": "經教育部核准設立之在校高中職或大專校院學生。"
+      },
+      {
+        "url": "https://www.fg.tp.edu.tw/wp-content/uploads/doc/experiment/2026全國高中職暨大專校院英日語播報員朗讀競賽簡章.pdf",
+        "quote": "英語組（高中職及大專校院）"
+      },
+      {
+        "url": "https://www.fg.tp.edu.tw/wp-content/uploads/doc/experiment/2026全國高中職暨大專校院英日語播報員朗讀競賽簡章.pdf",
+        "quote": "各校依組別可各有2 位學生參賽(即英語組可2 位，日語組可2 位)。"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/11/「2026全國高中職暨大專校院英日語播報員朗讀競賽」.pdf",
+        "quote": "主旨：函請 貴單位遴薦學生參加「2026全國高中職暨大專校院英日語播報員朗讀競賽」，請查照。"
+      },
+      {
+        "url": "https://www.fg.tp.edu.tw/wp-content/uploads/doc/experiment/2026全國高中職暨大專校院英日語播報員朗讀競賽簡章.pdf",
+        "quote": "自行控制播報進度：參賽者使用簡報筆自行切換投影片，依個人朗讀速度"
+      },
+      {
+        "url": "https://www.fg.tp.edu.tw/wp-content/uploads/doc/experiment/2026全國高中職暨大專校院英日語播報員朗讀競賽簡章.pdf",
+        "quote": "英日語組以共50 名參賽者為限，以報名先後決定參賽資格，敬請盡速完成報名。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "報名截止（Google 表單）",
+      "date": "2026-12-05",
+      "time": "12:00",
+      "original": "12 月5 日(六)中午12:00 前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.fg.tp.edu.tw/wp-content/uploads/doc/experiment/2026全國高中職暨大專校院英日語播報員朗讀競賽簡章.pdf",
+          "quote": "請即日起至12 月5 日(六)中午12:00 前填寫Google 表單完成報名手續。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "公告成功報名參賽名單（此日前）",
+      "date": "2026-12-06",
+      "time": null,
+      "original": "12 月6 日(日)前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.fg.tp.edu.tw/wp-content/uploads/doc/experiment/2026全國高中職暨大專校院英日語播報員朗讀競賽簡章.pdf",
+          "quote": "成功報名參賽結果將於12 月6 日(日)前公告，公告處為「臺北城市科技大學應用外語系」首頁「最新消息」。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "報到、比賽順序抽籤與篇目抽籤",
+      "date": "2026-12-08",
+      "time": "11:00",
+      "original": "12 月8 日(二) 上午11:00 ~12:00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.fg.tp.edu.tw/wp-content/uploads/doc/experiment/2026全國高中職暨大專校院英日語播報員朗讀競賽簡章.pdf",
+          "quote": "12 月8 日(二) 上午11:00 ~12:00"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "競賽",
+      "date": "2026-12-08",
+      "time": "12:30",
+      "original": "12 月8 日(二) 中午12:30~15:30",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.fg.tp.edu.tw/wp-content/uploads/doc/experiment/2026全國高中職暨大專校院英日語播報員朗讀競賽簡章.pdf",
+          "quote": "競賽日期: 2026 年12 月8 日(星期二)。"
+        },
+        {
+          "url": "https://www.fg.tp.edu.tw/wp-content/uploads/doc/experiment/2026全國高中職暨大專校院英日語播報員朗讀競賽簡章.pdf",
+          "quote": "12 月8 日(二) 中午12:30~15:30"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "頒獎典禮（暫定）",
+      "date": "2026-12-08",
+      "time": "16:00",
+      "original": "12 月8 日(二) 下午16:00 ~16:30 (暫定)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.fg.tp.edu.tw/wp-content/uploads/doc/experiment/2026全國高中職暨大專校院英日語播報員朗讀競賽簡章.pdf",
+          "quote": "12 月8 日(二) 下午16:00 ~16:30 (暫定)"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名",
+      "what": "填寫 Google 報名表單",
+      "how": "online"
+    },
+    {
+      "stage": "競賽當日",
+      "what": "現場抽籤決定篇目，看螢幕上的 PPT 播報稿朗讀並以簡報筆自行換頁；不用紙本稿，無須背稿",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "臺北城市科技大學財經大樓 4 樓會議廳",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.fg.tp.edu.tw/wp-content/uploads/doc/experiment/2026全國高中職暨大專校院英日語播報員朗讀競賽簡章.pdf",
+        "quote": "報到及抽籤：參賽者完成報到後，現場抽籤決定當日朗讀播報稿篇目及"
+      },
+      {
+        "url": "https://www.fg.tp.edu.tw/wp-content/uploads/doc/experiment/2026全國高中職暨大專校院英日語播報員朗讀競賽簡章.pdf",
+        "quote": "競賽地點: 臺北城市科技大學 財經大樓4 樓會議廳（112 台北市北投區"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.fg.tp.edu.tw/wp-content/uploads/doc/experiment/2026全國高中職暨大專校院英日語播報員朗讀競賽簡章.pdf"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/11/「2026全國高中職暨大專校院英日語播報員朗讀競賽」.pdf"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "英語組、日語組各前三名頒發獎狀及獎金，另頒各組佳作數名、評審特別獎各 1 名；並頒參賽證明與指導老師感謝狀。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.fg.tp.edu.tw/wp-content/uploads/doc/experiment/2026全國高中職暨大專校院英日語播報員朗讀競賽簡章.pdf",
+        "quote": "英語組（高中職及大專校院）前三名及日語組（高中職及大專校院）前三名頒發獎狀及獎金。頒發各組佳作數名、頒發各組評審特別獎各1 名。"
+      },
+      {
+        "url": "https://www.fg.tp.edu.tw/wp-content/uploads/doc/experiment/2026全國高中職暨大專校院英日語播報員朗讀競賽簡章.pdf",
+        "quote": "頒發參賽證明、指導老師感謝狀。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.fg.tp.edu.tw/wp-content/uploads/doc/experiment/2026全國高中職暨大專校院英日語播報員朗讀競賽簡章.pdf"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/11/「2026全國高中職暨大專校院英日語播報員朗讀競賽」.pdf"
+      }
+    ]
+  },
+  "links": {
+    "official": null,
+    "rules": [
+      {
+        "title": "競賽簡章",
+        "url": "https://www.fg.tp.edu.tw/wp-content/uploads/doc/experiment/2026全國高中職暨大專校院英日語播報員朗讀競賽簡章.pdf"
+      },
+      {
+        "title": "臺北城市科技大學公文",
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/11/「2026全國高中職暨大專校院英日語播報員朗讀競賽」.pdf"
+      }
+    ],
+    "registration": "https://forms.gle/LhdHKvLtKtPGsLSS8"
+  },
+  "found_via": [
+    {
+      "name": "成功高中 活動競賽",
+      "url": "https://www.cksh.tp.edu.tw/news/%e3%80%90%e8%bd%89%e7%9f%a5%e3%80%91%e5%9f%8e%e5%b8%82%e5%ad%b8%e6%a0%a1%e8%b2%a1%e5%9c%98%e6%b3%95%e4%ba%ba%e8%87%ba%e5%8c%97%e5%9f%8e%e5%b8%82%e7%a7%91%e6%8a%80%e5%a4%a7%e5%ad%b8%e8%88%89%e8%be%a6/"
+    },
+    {
+      "name": "潮州高中 學生課外活動",
+      "url": "https://www.ccsh.ptc.edu.tw/data.php?id=19294&tpl=5"
+    },
+    {
+      "name": "金門高中 最新消息",
+      "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=22674"
+    },
+    {
+      "name": "斗六高中 營隊研習競賽",
+      "url": "https://www.tlsh.ylc.edu.tw/2026/11/11/69024/"
+    },
+    {
+      "name": "彰化高中 競賽公告",
+      "url": "https://www.chsh.chc.edu.tw/p/406-1009-196884,r70.php?Lang=zh-tw"
+    },
+    {
+      "name": "北一女中 最新消息",
+      "url": "https://www.fg.tp.edu.tw/news/%e5%8f%b0%e5%8c%97%e5%9f%8e%e5%b8%82%e7%a7%91%e6%8a%80%e5%a4%a7%e5%ad%b8%e3%80%8c2026%e5%85%a8%e5%9c%8b%e9%ab%98%e4%b8%ad%e8%81%b7%e6%9a%a8%e5%a4%a7%e5%b0%88%e6%a0%a1%e9%99%a2%e8%8b%b1%e6%97%a5/"
+    },
+    {
+      "name": "錦和高中 學生競賽",
+      "url": "https://www.jhsh.ntpc.edu.tw/p/406-1000-21327,r51.php?Lang=zh-tw"
+    },
+    {
+      "name": "羅東高工 最新消息",
+      "url": "https://www.ltivs.ilc.edu.tw/p/406-1000-5347,r12.php?Lang=zh-tw"
+    },
+    {
+      "name": "鶯歌工商 最新消息",
+      "url": "https://www.ykvs.ntpc.edu.tw/p/406-1000-25789,r23.php"
+    },
+    {
+      "name": "中山女高 最新消息",
+      "url": "https://www.csghs.tp.edu.tw/news/%e5%9f%8e%e5%b8%82%e7%a7%91%e6%8a%80%e5%a4%a7%e5%ad%b8%e8%be%a6%e7%90%86%e3%80%8c2026%e5%85%a8%e5%9c%8b%e9%ab%98%e4%b8%ad%e8%81%b7%e6%9a%a8%e5%a4%a7%e5%b0%88%e6%a0%a1%e9%99%a2%e8%8b%b1%e6%97%a5/"
+    },
+    {
+      "name": "嘉義女中 競賽與投稿",
+      "url": "https://www.cygsh.cy.edu.tw/p/406-1013-187184,r679.php"
+    },
+    {
+      "name": "高雄高工 競賽公告",
+      "url": "https://www.ksvs.kh.edu.tw/v4/cpsub/article.php?id=12702"
+    },
+    {
+      "name": "苗栗高中 學生校外營隊、活動、比賽",
+      "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=28660"
+    },
+    {
+      "name": "高師大附中 校外競賽與活動",
+      "url": "https://www.nknush.kh.edu.tw/announcement/22639/%e5%85%ac%e5%91%8a%e8%a8%93%e8%82%b2%e7%b5%84%e8%87%ba%e5%8c%97%e5%9f%8e%e5%b8%82%e7%a7%91%e6%8a%80%e5%a4%a7%e5%ad%b8%e3%80%8c2026%e5%85%a8%e5%9c%8b%e9%ab%98%e4%b8%ad%e8%81%b7%e6%9a%a8%e5%a4%a7/"
+    },
+    {
+      "name": "大同高中 學生競賽活動",
+      "url": "https://www.ttsh.tp.edu.tw/news/%e8%87%ba%e5%8c%97%e5%9f%8e%e5%b8%82%e7%a7%91%e6%8a%80%e5%a4%a7%e5%ad%b82026%e5%85%a8%e5%9c%8b%e9%ab%98%e4%b8%ad%e8%81%b7%e6%9a%a8%e5%a4%a7%e5%b0%88%e6%a0%a1%e9%99%a2%e8%8b%b1%e6%97%a5%e8%aa%9e/"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-24",
+    "method": "single",
+    "unread": [
+      "報名表"
+    ],
+    "note": "第二次讀取沒有確認：推薦",
+    "readers": [
+      "claude-opus-5-5",
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-24",
+  "level": "checked",
+  "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-tpcu-en-ja-newscaster-reading/",
+  "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-tpcu-en-ja-newscaster-reading.md"
+}

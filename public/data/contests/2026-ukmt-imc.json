@@ -1,0 +1,115 @@
+{
+  "schema": 1,
+  "id": "2026-ukmt-imc",
+  "title": "UKMT-IMC",
+  "edition": "2026",
+  "summary": "10 年級及以下學生作答英國 UKMT 數學競賽試題，由英國 UKMT 組委會統一評獎。",
+  "organizers": [
+    {
+      "name": "中華數學協會",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "數學"
+  ],
+  "eligibility": {
+    "levels": [
+      "國小",
+      "國中",
+      "高中",
+      "高職"
+    ],
+    "division": "unknown",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "unknown",
+    "team_min": null,
+    "team_max": null,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.ntsh.ntct.edu.tw/ischool/public/news_view/show.php?nid=23343",
+        "quote": "本競賽為國際競賽，採用全英文試卷，參加對象為10年級及以下之學生，將由英國UKMT組委會以統一分數線進行全球評獎。"
+      }
+    ]
+  },
+  "dates": [],
+  "deliverables": [
+    {
+      "stage": "競賽",
+      "what": "全英文數學試卷作答",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "考場（各校可申請舉辦校內考場）",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.ntsh.ntct.edu.tw/ischool/public/news_view/show.php?nid=23343",
+        "quote": "也歡迎各校舉辦校內考場，敬請聯繫競賽窗口申請。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "unknown",
+    "amount": null,
+    "basis": "unread",
+    "evidence": []
+  },
+  "prizes": {
+    "text": "由英國 UKMT 組委會以統一分數線進行全球評獎，獎項有金獎證書。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.ntsh.ntct.edu.tw/ischool/public/news_view/show.php?nid=23343",
+        "quote": "將由英國UKMT組委會以統一分數線進行全球評獎。"
+      },
+      {
+        "url": "https://www.ntsh.ntct.edu.tw/ischool/public/news_view/show.php?nid=23343",
+        "quote": "一張金獎證書足以讓申請履歷脫穎而出。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "unknown",
+    "basis": "unread",
+    "evidence": []
+  },
+  "links": {
+    "official": null,
+    "rules": [
+      {
+        "title": "UKMT 競賽轉知公告",
+        "url": "https://www.ntsh.ntct.edu.tw/ischool/public/news_view/show.php?nid=23343"
+      }
+    ],
+    "registration": null
+  },
+  "found_via": [
+    {
+      "name": "南投高中 最新消息",
+      "url": "https://www.ntsh.ntct.edu.tw/ischool/public/news_view/show.php?nid=23343"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-24",
+    "method": "single",
+    "unread": [
+      "公告附件（其他詳細比賽資訊）"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-24",
+  "level": "unverified",
+  "url": null,
+  "markdown": null
+}

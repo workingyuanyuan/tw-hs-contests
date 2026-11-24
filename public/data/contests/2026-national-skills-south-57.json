@@ -341,18 +341,19 @@
   ],
   "verification": {
     "last_verified": "2026-11-24",
-    "method": "single",
+    "method": "dual",
     "unread": [
       "技能檢定中心技能競賽專區網站公告的各職類競賽試題"
     ],
     "note": null,
     "readers": [
+      "claude-opus-5-5",
       "claude-opus-5-5"
     ]
   },
   "first_seen": "2026-11-24",
   "updated": "2026-11-24",
-  "level": "checked",
+  "level": "verified",
   "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-national-skills-south-57/",
   "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-national-skills-south-57.md"
 }

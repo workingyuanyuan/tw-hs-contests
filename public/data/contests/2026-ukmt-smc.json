@@ -1,0 +1,257 @@
+{
+  "schema": 1,
+  "id": "2026-ukmt-smc",
+  "title": "2026 UKMT-SMC 英國高級數學挑戰",
+  "edition": "2026",
+  "summary": "12 年級及以下學生參加 90 分鐘的英國高級數學挑戰筆試，作答 25 題數學題。",
+  "organizers": [
+    {
+      "name": "英國UKMT(United Kingdom Mathematics Trust)",
+      "role": "主辦"
+    },
+    {
+      "name": "中華數學協會",
+      "role": "承辦"
+    },
+    {
+      "name": "OLPCS 數學俱樂部",
+      "role": "承辦"
+    }
+  ],
+  "categories": [
+    "數學"
+  ],
+  "eligibility": {
+    "levels": [
+      "國小",
+      "國中",
+      "高中",
+      "高職"
+    ],
+    "division": "mixed",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": 1,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/1awIeQVlu_UlczgOqQReCxYB8ZzPWUx9I/view?usp=sharing",
+        "quote": "全國各縣市之12 年級及以下之學生。(可跳級參加)"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1awIeQVlu_UlczgOqQReCxYB8ZzPWUx9I/view?usp=sharing",
+        "quote": "報名截止，請於截止日前填寫google 報名表單後送出、完成報名費用匯款"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1awIeQVlu_UlczgOqQReCxYB8ZzPWUx9I/view?usp=sharing",
+        "quote": "團體報名達10 人以上，學校可申請自辦實體考場。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "報名截止（學校自辦考場團體報名及個人報名）",
+      "date": "2026-09-21",
+      "time": null,
+      "original": "9/21(一)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://drive.google.com/file/d/1awIeQVlu_UlczgOqQReCxYB8ZzPWUx9I/view?usp=sharing",
+          "quote": "9/21(一)"
+        },
+        {
+          "url": "https://drive.google.com/file/d/1awIeQVlu_UlczgOqQReCxYB8ZzPWUx9I/view?usp=sharing",
+          "quote": "報名截止，學校須於截止日前將附件「UKMT-IMC 團體報名表」填寫回傳至協會，"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "個人報名考生收到考前通知",
+      "date": "2026-10-01",
+      "time": null,
+      "original": "10/01(四)起",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://drive.google.com/file/d/1awIeQVlu_UlczgOqQReCxYB8ZzPWUx9I/view?usp=sharing",
+          "quote": "10/01(四)起 由主辦單位ASEEDER 統一將考前通知發送給考生，若未收到請私訊Line@詢問"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "考試（學校自辦考場於當日自選時段）",
+      "date": "2026-10-08",
+      "time": null,
+      "original": "2026 年10 月08 日(四)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://drive.google.com/file/d/1awIeQVlu_UlczgOqQReCxYB8ZzPWUx9I/view?usp=sharing",
+          "quote": "一、活動時間：2026 年10 月08 日(四)"
+        },
+        {
+          "url": "https://drive.google.com/file/d/1awIeQVlu_UlczgOqQReCxYB8ZzPWUx9I/view?usp=sharing",
+          "quote": "※不限時段，但需於10 月08 日當日完成。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "考試（高雄實體考區及線上考區）",
+      "date": "2026-10-08",
+      "time": "20:00",
+      "original": "10 月08 日(四) 20:00 ~ 21:30",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://drive.google.com/file/d/1awIeQVlu_UlczgOqQReCxYB8ZzPWUx9I/view?usp=sharing",
+          "quote": "※時間為10 月08 日(四) 20:00 ~ 21:30。"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "公布成績並提供獎項證書",
+      "date": null,
+      "time": null,
+      "original": "12 月上旬",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://drive.google.com/file/d/1awIeQVlu_UlczgOqQReCxYB8ZzPWUx9I/view?usp=sharing",
+          "quote": "主辦單位進行考生成績批改處理與排名取獎後，公布成績並提供對應獎項證書。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "學校自辦考場",
+      "what": "90 分鐘筆試答題卷（22 題選擇題及 3 題 000-999 三位數計算題），由學校掃描回傳",
+      "how": "onsite"
+    },
+    {
+      "stage": "個人考場：高雄實體考區",
+      "what": "於考區現場作答 90 分鐘筆試",
+      "how": "onsite"
+    },
+    {
+      "stage": "個人考場：線上考區（非考區縣市、東部及離島）",
+      "what": "以 UKMT 亞洲區線上系統作答，並以另一設備開啟 Zoom 監考",
+      "how": "online"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "學校自辦實體考場、高雄實體考區或線上考區",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/1awIeQVlu_UlczgOqQReCxYB8ZzPWUx9I/view?usp=sharing",
+        "quote": "團體報名達10 人以上，學校可申請自辦實體考場。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1awIeQVlu_UlczgOqQReCxYB8ZzPWUx9I/view?usp=sharing",
+        "quote": "高雄實體考區（若未達10 人則改至線上考區）。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "required",
+    "amount": "學校自辦考場每位考生 1100 元",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/1awIeQVlu_UlczgOqQReCxYB8ZzPWUx9I/view?usp=sharing",
+        "quote": "學校自辦考場每位考生收費1100 元。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1awIeQVlu_UlczgOqQReCxYB8ZzPWUx9I/view?usp=sharing",
+        "quote": "報名截止，請於截止日前填寫google 報名表單後送出、完成報名費用匯款"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "金獎授予全球排名約前 11% 考生、銀獎約前 22%、銅獎約前 33%，未獲獎者可獲參與證書；另設學校最佳獎（全校最高分者）與年級最佳獎（各年級校內最高分者）。由 UKMT 英國組委會授予英文證書。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/1awIeQVlu_UlczgOqQReCxYB8ZzPWUx9I/view?usp=sharing",
+        "quote": "七、取獎方式：金獎授予全球排名約前11%的頂尖考生；銀獎授予全球約前22%的"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1awIeQVlu_UlczgOqQReCxYB8ZzPWUx9I/view?usp=sharing",
+        "quote": "考生；銅獎授予全球約前33%的考生。未獲獎的考生可獲得參與"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1awIeQVlu_UlczgOqQReCxYB8ZzPWUx9I/view?usp=sharing",
+        "quote": "※將由UKMT 英國組委會參考英國學生分數線授予英文證書。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1awIeQVlu_UlczgOqQReCxYB8ZzPWUx9I/view?usp=sharing",
+        "quote": "除了上述獎項外，競賽還設有「學校最佳獎（頒給全校最高分者）」"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1awIeQVlu_UlczgOqQReCxYB8ZzPWUx9I/view?usp=sharing",
+        "quote": "和「年級最佳獎（頒給各年級校內最高分者）」。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/1awIeQVlu_UlczgOqQReCxYB8ZzPWUx9I/view?usp=sharing"
+      }
+    ]
+  },
+  "links": {
+    "official": null,
+    "rules": [
+      {
+        "title": "2026 UKMT-SMC 活動計劃書",
+        "url": "https://drive.google.com/file/d/1awIeQVlu_UlczgOqQReCxYB8ZzPWUx9I/view?usp=sharing"
+      },
+      {
+        "title": "活動海報",
+        "url": "https://drive.google.com/file/d/1Fv7G_PhCxgNICFvBfdKxpYFkufglm2DA/view?usp=sharing"
+      }
+    ],
+    "registration": "https://forms.gle/25DA1vKy1hViVG3V8"
+  },
+  "found_via": [
+    {
+      "name": "大里高中 校外活動與競賽",
+      "url": "https://dlsh.tc.edu.tw/p/406-1068-633103,r2145.php?Lang=zh-tw"
+    },
+    {
+      "name": "斗六高中 營隊研習競賽",
+      "url": "https://www.tlsh.ylc.edu.tw/2026/09/16/67291/"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-24",
+    "method": "single",
+    "unread": [
+      "團體報名表（報名表.ods）"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-24",
+  "level": "checked",
+  "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-ukmt-smc/",
+  "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-ukmt-smc.md"
+}

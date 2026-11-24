@@ -1,0 +1,173 @@
+{
+  "schema": 1,
+  "id": "2026-apmo-preliminary",
+  "title": "2027年亞太數學奧林匹亞競賽初賽",
+  "edition": "2027",
+  "summary": "學生在各考區參加亞太數學奧林匹亞初賽筆試，範圍為代數、組合、幾何與數論。",
+  "organizers": [
+    {
+      "name": "unknown",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "數學"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中"
+    ],
+    "division": "unknown",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "school",
+    "team_min": null,
+    "team_max": null,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=22281",
+        "quote": "報名資格：凡對數學有興趣，且具備自主學習能力的同學皆可報名。"
+      },
+      {
+        "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=22281",
+        "quote": "報名時間：即日起115年10月11日(星期日)下午5點止。（採校內團體報名，請把握這個時間喔！）"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "校內團體報名截止",
+      "date": "2026-10-11",
+      "time": "17:00",
+      "original": "115年10月11日(星期日)下午5點止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=22281",
+          "quote": "報名時間：即日起115年10月11日(星期日)下午5點止。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "寄發考生通知單，公布考生名單及准考證號",
+      "date": "2026-10-23",
+      "time": null,
+      "original": "115 年 10 月 23 日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=22281",
+          "quote": "115 年 10 月 23 日寄發考生通知單，同時公布考生名單及准考證號於數奧官方網站。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "初賽",
+      "date": "2026-11-14",
+      "time": "10:00",
+      "original": "115年11月14日（星期六）上午10:00至12:00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=22281",
+          "quote": "初賽日期：115年11月14日（星期六）上午10:00至12:00。"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "公告錄取名單（預計，實際日期視數學工作小組會議決議而定）",
+      "date": "2026-11-30",
+      "time": null,
+      "original": "115 年 11 月 30 日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=22281",
+          "quote": "115 年 11 月 30 日公告錄取名單（惟實際公告日期需視「數學工作小組」會議之決議而定），不另行寄發書面通知。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "初賽",
+      "what": "筆試 2 小時：選填題 5 題、計算證明題 2 題",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "臺北、桃竹苗、中彰投、雲嘉、臺南、高雄、宜蘭、花蓮考區擇一（金門無設考場）",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=22281",
+        "quote": "考試地點：金門無設考場，請擇一考區報名，交通需自理。"
+      },
+      {
+        "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=22281",
+        "quote": "初賽日期：115年11月14日（星期六）上午10:00至12:00。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "unknown",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=22281"
+      }
+    ]
+  },
+  "prizes": {
+    "text": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=22281"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "unknown",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=22281"
+      }
+    ]
+  },
+  "links": {
+    "official": null,
+    "rules": [],
+    "registration": "https://forms.gle/n24Y3ikisCDm6eVo7"
+  },
+  "found_via": [
+    {
+      "name": "金門高中 最新消息",
+      "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=22281"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-24",
+    "method": "single",
+    "unread": [],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-24",
+  "level": "checked",
+  "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-apmo-preliminary/",
+  "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-apmo-preliminary.md"
+}

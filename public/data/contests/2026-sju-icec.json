@@ -215,7 +215,7 @@
   ],
   "verification": {
     "last_verified": "2026-11-24",
-    "method": "single",
+    "method": "dual",
     "unread": [
       "活動簡章",
       "樂齡生活創新方案設計企畫書",
@@ -224,12 +224,13 @@
     ],
     "note": null,
     "readers": [
+      "claude-opus-5-5",
       "claude-opus-5-5"
     ]
   },
   "first_seen": "2026-11-24",
   "updated": "2026-11-24",
-  "level": "checked",
+  "level": "verified",
   "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-sju-icec/",
   "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-sju-icec.md"
 }

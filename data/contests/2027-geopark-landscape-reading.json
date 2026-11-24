@@ -1,0 +1,238 @@
+{
+  "schema": 1,
+  "id": "2027-geopark-landscape-reading",
+  "title": "第七屆臺灣地質公園學會讀景比賽",
+  "edition": "第七屆",
+  "summary": "高中職學生選一張臺灣地景照片，蒐集資料解讀與詮釋地景，撰寫自訂標題的讀景短文。",
+  "organizers": [
+    {
+      "name": "農業部林業及自然保育署",
+      "role": "指導"
+    },
+    {
+      "name": "臺灣地質公園學會",
+      "role": "主辦"
+    },
+    {
+      "name": "國立臺灣大學",
+      "role": "協辦"
+    },
+    {
+      "name": "國立臺灣師範大學",
+      "role": "協辦"
+    },
+    {
+      "name": "國立東華大學",
+      "role": "協辦"
+    }
+  ],
+  "categories": [
+    "自然科學",
+    "農業與環境",
+    "語文與寫作"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職"
+    ],
+    "division": "hs_only",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": 1,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.cygsh.cy.edu.tw/app/index.php?Action=downloadfile&file=K3l3NmtOQ1I0dVNiZGJZZ2lOOC9GTU1mekVNREMwTzJ1d2VQbFJiUW1nK2h1dnhlRGZEYXE2dE81VzBOTG9KT0kyaGY2WGxlcGxUZVB2ZExLb2phWHpMcHdWVnQxbTNyamZBbkNUZHhsMVk9&fname=aStOYUlhc09kZzJmSjh4cXpqVk1RNVNwcmVQeE44ZGdDRzMvR211OXF2ekFSNXdzSmdGSkdqN0lTc25tUm1vME11bkJWVzNXYmV1TjhDY0pOM0dYVmc9PQ==",
+        "quote": "國內、外之公、私立高中職學生，以及同等級自學學生，皆可以個人資格參加比賽。"
+      },
+      {
+        "url": "https://www.cygsh.cy.edu.tw/app/index.php?Action=downloadfile&file=K3l3NmtOQ1I0dVNiZGJZZ2lOOC9GTU1mekVNREMwTzJ1d2VQbFJiUW1nK2h1dnhlRGZEYXE2dE81VzBOTG9KT0kyaGY2WGxlcGxUZVB2ZExLb2phWHpMcHdWVnQxbTNyamZBbkNUZHhsMVk9&fname=aStOYUlhc09kZzJmSjh4cXpqVk1RNVNwcmVQeE44ZGdDRzMvR211OXF2ekFSNXdzSmdGSkdqN0lTc25tUm1vME11bkJWVzNXYmV1TjhDY0pOM0dYVmc9PQ==",
+        "quote": "參賽作品限定以個人資格參賽"
+      },
+      {
+        "url": "https://www.cygsh.cy.edu.tw/app/index.php?Action=downloadfile&file=K3l3NmtOQ1I0dVNiZGJZZ2lOOC9GTU1mekVNREMwTzJ1d2VQbFJiUW1nK2h1dnhlRGZEYXE2dE81VzBOTG9KT0kyaGY2WGxlcGxUZVB2ZExLb2phWHpMcHdWVnQxbTNyamZBbkNUZHhsMVk9&fname=aStOYUlhc09kZzJmSjh4cXpqVk1RNVNwcmVQeE44ZGdDRzMvR211OXF2ekFSNXdzSmdGSkdqN0lTc25tUm1vME11bkJWVzNXYmV1TjhDY0pOM0dYVmc9PQ==",
+        "quote": "本比賽免報名費；一律採線上報名、送件"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "線上報名截止",
+      "date": "2027-01-22",
+      "time": null,
+      "original": "116年1月22日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.cygsh.cy.edu.tw/app/index.php?Action=downloadfile&file=K3l3NmtOQ1I0dVNiZGJZZ2lOOC9GTU1mekVNREMwTzJ1d2VQbFJiUW1nOERteGhadGJ1VTVnUkplcGtUOHF3M0kyaGY2WGxlcGxUZVB2ZExLb2phWHpMcHdWVnQxbTNyamZBbkNUZHhsMVk9&fname=WTdoR1lwM2RPR3pPaUlldzdUNE5La3E0eGRWbEhQSk51Y1ViazZCREtOczM5WG5nQ0hxOVo2d0kvSnY1cGtIQ3RUUk0xWkdDSEprKzZiS1dFdjN0eENsVUgrSVRZWEE2WlBKeEFISDFaQms9",
+          "quote": "報名期間自116年1月4日起至1月22日止"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "作品上傳截止",
+      "date": "2027-01-22",
+      "time": null,
+      "original": "116 年01 月04 日（一）至01 月22 日（五）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.cygsh.cy.edu.tw/app/index.php?Action=downloadfile&file=K3l3NmtOQ1I0dVNiZGJZZ2lOOC9GTU1mekVNREMwTzJ1d2VQbFJiUW1nK2h1dnhlRGZEYXE2dE81VzBOTG9KT0kyaGY2WGxlcGxUZVB2ZExLb2phWHpMcHdWVnQxbTNyamZBbkNUZHhsMVk9&fname=aStOYUlhc09kZzJmSjh4cXpqVk1RNVNwcmVQeE44ZGdDRzMvR211OXF2ekFSNXdzSmdGSkdqN0lTc25tUm1vME11bkJWVzNXYmV1TjhDY0pOM0dYVmc9PQ==",
+          "quote": "作品上傳：116 年01 月04 日（一）至01 月22 日（五）。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "評選作業結束",
+      "date": "2027-02-28",
+      "time": null,
+      "original": "116 年02 月11 日（四）至02 月28 日（日）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.cygsh.cy.edu.tw/app/index.php?Action=downloadfile&file=K3l3NmtOQ1I0dVNiZGJZZ2lOOC9GTU1mekVNREMwTzJ1d2VQbFJiUW1nK2h1dnhlRGZEYXE2dE81VzBOTG9KT0kyaGY2WGxlcGxUZVB2ZExLb2phWHpMcHdWVnQxbTNyamZBbkNUZHhsMVk9&fname=aStOYUlhc09kZzJmSjh4cXpqVk1RNVNwcmVQeE44ZGdDRzMvR211OXF2ekFSNXdzSmdGSkdqN0lTc25tUm1vME11bkJWVzNXYmV1TjhDY0pOM0dYVmc9PQ==",
+          "quote": "評選作業：116 年02 月11 日（四）至02 月28 日（日）。"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "結果公布",
+      "date": "2027-03-05",
+      "time": null,
+      "original": "116 年03 月05 日（五）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.cygsh.cy.edu.tw/app/index.php?Action=downloadfile&file=K3l3NmtOQ1I0dVNiZGJZZ2lOOC9GTU1mekVNREMwTzJ1d2VQbFJiUW1nK2h1dnhlRGZEYXE2dE81VzBOTG9KT0kyaGY2WGxlcGxUZVB2ZExLb2phWHpMcHdWVnQxbTNyamZBbkNUZHhsMVk9&fname=aStOYUlhc09kZzJmSjh4cXpqVk1RNVNwcmVQeE44ZGdDRzMvR211OXF2ekFSNXdzSmdGSkdqN0lTc25tUm1vME11bkJWVzNXYmV1TjhDY0pOM0dYVmc9PQ==",
+          "quote": "結果公布：116 年03 月05 日（五）。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "特優作品頒獎典禮（臺灣地質公園年會期間）",
+      "date": "2027-03-12",
+      "time": null,
+      "original": "116 年3 月12 日（五）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.cygsh.cy.edu.tw/app/index.php?Action=downloadfile&file=K3l3NmtOQ1I0dVNiZGJZZ2lOOC9GTU1mekVNREMwTzJ1d2VQbFJiUW1nK2h1dnhlRGZEYXE2dE81VzBOTG9KT0kyaGY2WGxlcGxUZVB2ZExLb2phWHpMcHdWVnQxbTNyamZBbkNUZHhsMVk9&fname=aStOYUlhc09kZzJmSjh4cXpqVk1RNVNwcmVQeE44ZGdDRzMvR211OXF2ekFSNXdzSmdGSkdqN0lTc25tUm1vME11bkJWVzNXYmV1TjhDY0pOM0dYVmc9PQ==",
+          "quote": "頒獎典禮：配合116 年3 月12 日（五）臺灣地質公園年會期間舉行。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名",
+      "what": "線上報名表",
+      "how": "online"
+    },
+    {
+      "stage": "送件",
+      "what": "讀景報告 Word 檔與 PDF 檔，2,000 字以內、至多 4 頁，含報告標題、本文、延伸探討、參考資料，APA 格式",
+      "how": "online"
+    },
+    {
+      "stage": "送件",
+      "what": "親筆簽名的參賽切結書與著作財產權使用同意書（拍照或 PDF）",
+      "how": "online"
+    }
+  ],
+  "attendance": {
+    "value": "none",
+    "where": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.cygsh.cy.edu.tw/app/index.php?Action=downloadfile&file=K3l3NmtOQ1I0dVNiZGJZZ2lOOC9GTU1mekVNREMwTzJ1d2VQbFJiUW1nK2h1dnhlRGZEYXE2dE81VzBOTG9KT0kyaGY2WGxlcGxUZVB2ZExLb2phWHpMcHdWVnQxbTNyamZBbkNUZHhsMVk9&fname=aStOYUlhc09kZzJmSjh4cXpqVk1RNVNwcmVQeE44ZGdDRzMvR211OXF2ekFSNXdzSmdGSkdqN0lTc25tUm1vME11bkJWVzNXYmV1TjhDY0pOM0dYVmc9PQ=="
+      },
+      {
+        "url": "https://www.cygsh.cy.edu.tw/app/index.php?Action=downloadfile&file=K3l3NmtOQ1I0dVNiZGJZZ2lOOC9GTU1mekVNREMwTzJ1d2VQbFJiUW1nOERteGhadGJ1VTVnUkplcGtUOHF3M0kyaGY2WGxlcGxUZVB2ZExLb2phWHpMcHdWVnQxbTNyamZBbkNUZHhsMVk9&fname=WTdoR1lwM2RPR3pPaUlldzdUNE5La3E0eGRWbEhQSk51Y1ViazZCREtOczM5WG5nQ0hxOVo2d0kvSnY1cGtIQ3RUUk0xWkdDSEprKzZiS1dFdjN0eENsVUgrSVRZWEE2WlBKeEFISDFaQms9"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.cygsh.cy.edu.tw/app/index.php?Action=downloadfile&file=K3l3NmtOQ1I0dVNiZGJZZ2lOOC9GTU1mekVNREMwTzJ1d2VQbFJiUW1nK2h1dnhlRGZEYXE2dE81VzBOTG9KT0kyaGY2WGxlcGxUZVB2ZExLb2phWHpMcHdWVnQxbTNyamZBbkNUZHhsMVk9&fname=aStOYUlhc09kZzJmSjh4cXpqVk1RNVNwcmVQeE44ZGdDRzMvR211OXF2ekFSNXdzSmdGSkdqN0lTc25tUm1vME11bkJWVzNXYmV1TjhDY0pOM0dYVmc9PQ==",
+        "quote": "本比賽免報名費"
+      },
+      {
+        "url": "https://www.cygsh.cy.edu.tw/app/index.php?Action=downloadfile&file=K3l3NmtOQ1I0dVNiZGJZZ2lOOC9GTU1mekVNREMwTzJ1d2VQbFJiUW1nOERteGhadGJ1VTVnUkplcGtUOHF3M0kyaGY2WGxlcGxUZVB2ZExLb2phWHpMcHdWVnQxbTNyamZBbkNUZHhsMVk9&fname=WTdoR1lwM2RPR3pPaUlldzdUNE5La3E0eGRWbEhQSk51Y1ViazZCREtOczM5WG5nQ0hxOVo2d0kvSnY1cGtIQ3RUUk0xWkdDSEprKzZiS1dFdjN0eENsVUgrSVRZWEE2WlBKeEFISDFaQms9",
+        "quote": "採線上報名，免收報名費"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "分特優、優選、佳作三等第，得獎者獲獎狀 1 只；特優作品得獎者及其指導老師受邀參加頒獎典禮，並有機會獲得參加日本地質公園交流、考察活動之來回機票。作品符合規定者得發給參賽證明（電子檔）。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.cygsh.cy.edu.tw/app/index.php?Action=downloadfile&file=K3l3NmtOQ1I0dVNiZGJZZ2lOOC9GTU1mekVNREMwTzJ1d2VQbFJiUW1nK2h1dnhlRGZEYXE2dE81VzBOTG9KT0kyaGY2WGxlcGxUZVB2ZExLb2phWHpMcHdWVnQxbTNyamZBbkNUZHhsMVk9&fname=aStOYUlhc09kZzJmSjh4cXpqVk1RNVNwcmVQeE44ZGdDRzMvR211OXF2ekFSNXdzSmdGSkdqN0lTc25tUm1vME11bkJWVzNXYmV1TjhDY0pOM0dYVmc9PQ==",
+        "quote": "本比賽依活動目的分「特優」、「優選」及「佳作」三等第評選；得獎者頒發獎狀1 只。"
+      },
+      {
+        "url": "https://www.cygsh.cy.edu.tw/app/index.php?Action=downloadfile&file=K3l3NmtOQ1I0dVNiZGJZZ2lOOC9GTU1mekVNREMwTzJ1d2VQbFJiUW1nK2h1dnhlRGZEYXE2dE81VzBOTG9KT0kyaGY2WGxlcGxUZVB2ZExLb2phWHpMcHdWVnQxbTNyamZBbkNUZHhsMVk9&fname=aStOYUlhc09kZzJmSjh4cXpqVk1RNVNwcmVQeE44ZGdDRzMvR211OXF2ekFSNXdzSmdGSkdqN0lTc25tUm1vME11bkJWVzNXYmV1TjhDY0pOM0dYVmc9PQ==",
+        "quote": "作品符合比賽規定者，即通過第一階段審核，得發給參賽證明（電子檔）"
+      },
+      {
+        "url": "https://www.cygsh.cy.edu.tw/app/index.php?Action=downloadfile&file=K3l3NmtOQ1I0dVNiZGJZZ2lOOC9GTU1mekVNREMwTzJ1d2VQbFJiUW1nK2h1dnhlRGZEYXE2dE81VzBOTG9KT0kyaGY2WGxlcGxUZVB2ZExLb2phWHpMcHdWVnQxbTNyamZBbkNUZHhsMVk9&fname=aStOYUlhc09kZzJmSjh4cXpqVk1RNVNwcmVQeE44ZGdDRzMvR211OXF2ekFSNXdzSmdGSkdqN0lTc25tUm1vME11bkJWVzNXYmV1TjhDY0pOM0dYVmc9PQ==",
+        "quote": "特優作品得獎者及其指導老師，將受邀參加頒獎典禮，以及有機會獲得參加日本地質公園交流、考察活動之來回機票。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "banned",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.cygsh.cy.edu.tw/app/index.php?Action=downloadfile&file=K3l3NmtOQ1I0dVNiZGJZZ2lOOC9GTU1mekVNREMwTzJ1d2VQbFJiUW1nK2h1dnhlRGZEYXE2dE81VzBOTG9KT0kyaGY2WGxlcGxUZVB2ZExLb2phWHpMcHdWVnQxbTNyamZBbkNUZHhsMVk9&fname=aStOYUlhc09kZzJmSjh4cXpqVk1RNVNwcmVQeE44ZGdDRzMvR211OXF2ekFSNXdzSmdGSkdqN0lTc25tUm1vME11bkJWVzNXYmV1TjhDY0pOM0dYVmc9PQ==",
+        "quote": "不得使用任何形式AI 軟體。"
+      }
+    ]
+  },
+  "links": {
+    "official": "http://www.geopark.org.tw/",
+    "rules": [
+      {
+        "title": "第七屆臺灣地質公園學會讀景比賽簡章",
+        "url": "https://www.cygsh.cy.edu.tw/app/index.php?Action=downloadfile&file=K3l3NmtOQ1I0dVNiZGJZZ2lOOC9GTU1mekVNREMwTzJ1d2VQbFJiUW1nK2h1dnhlRGZEYXE2dE81VzBOTG9KT0kyaGY2WGxlcGxUZVB2ZExLb2phWHpMcHdWVnQxbTNyamZBbkNUZHhsMVk9&fname=aStOYUlhc09kZzJmSjh4cXpqVk1RNVNwcmVQeE44ZGdDRzMvR211OXF2ekFSNXdzSmdGSkdqN0lTc25tUm1vME11bkJWVzNXYmV1TjhDY0pOM0dYVmc9PQ=="
+      }
+    ],
+    "registration": null
+  },
+  "found_via": [
+    {
+      "name": "嘉義女中 競賽與投稿",
+      "url": "https://www.cygsh.cy.edu.tw/p/406-1013-187315,r679.php"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-24",
+    "method": "dual",
+    "unread": [
+      "線上報名專區的報名表"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5",
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-24"
+}

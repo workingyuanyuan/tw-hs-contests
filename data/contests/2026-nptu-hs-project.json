@@ -3,7 +3,7 @@
   "id": "2026-nptu-hs-project",
   "title": "2026 全國高中職專題競賽",
   "edition": "2026",
-  "summary": "高中職學生組隊依資訊、商業、電子機械領域上傳專題海報，再到屏東大學現場發表。",
+  "summary": "全國高中職學生組隊就資訊、商業行銷或電子機械領域專題製作海報，到國立屏東大學現場發表展示。",
   "organizers": [
     {
       "name": "國立屏東大學資訊學院",
@@ -36,63 +36,95 @@
     "basis": "quote",
     "evidence": [
       {
-        "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=eFUxcHhPRE4wT2NyQ2t1QS9EUktpWWlaZUZPb1h1cjAzOUF0VFRyLzZhYXI2OVpXcm92Q21QdU95NktycTF6QVUzekM4Vkg4Q295Q0tuaTM1T2tkUy9Pekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=NnlHV0NqdWRpRnAyR2Z6SEFhZG5pakxwd1ZWdDFtM3JqZkFuQ1RkeGwxWT0=",
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/6/活動簡章-2026全國高中職專題競賽.pdf",
         "quote": "三、對象：全國高中（職）學生"
       },
       {
-        "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=eFUxcHhPRE4wT2NyQ2t1QS9EUktpWWlaZUZPb1h1cjAzOUF0VFRyLzZhYUlvRjdOT2tHVzUwOTl5OGdNdEFyYVkra01HcnE3MW4ybWNrSTJWUTFkTGZPekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=R1dEYTF2SDhXckZXMVVoV0pEMUJEQkIrL2h2dkhjd205MktOMGxtcTNvVXBWQi9pRTJGd09tVHljUUJ4OVdRWg==",
-        "quote": "故就讀五專一至三年級的學生可報名參賽。"
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/6/常見問題-2026全國高中職專題競賽.pdf",
+        "quote": "依中華民國教育程度標準分類系統表，五專前三年是為符合高級中等等級，故就讀五專一至三年級的學生可報名參賽。"
       },
       {
-        "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=eFUxcHhPRE4wT2NyQ2t1QS9EUktpWWlaZUZPb1h1cjAzOUF0VFRyLzZhYUlvRjdOT2tHVzUwOTl5OGdNdEFyYVkra01HcnE3MW4ybWNrSTJWUTFkTGZPekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=R1dEYTF2SDhXckZXMVVoV0pEMUJEQkIrL2h2dkhjd205MktOMGxtcTNvVXBWQi9pRTJGd09tVHljUUJ4OVdRWg==",
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/6/常見問題-2026全國高中職專題競賽.pdf",
         "quote": "每組以3~5 人為佳(僅建議，人數少於3 人或多於5 人也可報名)。"
       },
       {
-        "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=eFUxcHhPRE4wT2NyQ2t1QS9EUktpWWlaZUZPb1h1cjAzOUF0VFRyLzZhYXI2OVpXcm92Q21QdU95NktycTF6QVUzekM4Vkg4Q295Q0tuaTM1T2tkUy9Pekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=NnlHV0NqdWRpRnAyR2Z6SEFhZG5pakxwd1ZWdDFtM3JqZkFuQ1RkeGwxWT0=",
-        "quote": "至活動網站點選1 我要報名，將資料填列完成後送出。"
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/6/活動簡章-2026全國高中職專題競賽.pdf",
+        "quote": "一、填表報名：9 月1 日 (星期二)起至10 月25 日 (星期日)止，至活動網站點選1 我要報名，將資料填列完成後送出。"
       }
     ]
   },
   "dates": [
     {
       "kind": "registration_deadline",
-      "label": "填寫報名表截止",
+      "label": "填表報名截止",
       "date": "2026-10-25",
       "time": null,
-      "original": "115年9月1日(星期二)至10月25日(星期日)止",
+      "original": "10 月25 日 (星期日)止",
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://dlsh.tc.edu.tw/p/406-1068-639881,r2145.php?Lang=zh-tw",
-          "quote": "１、 填寫報名表：115年9月1日(星期二)至10月25日(星期日)止。"
-        }
-      ]
-    },
-    {
-      "kind": "submission_deadline",
-      "label": "上傳競賽海報截止",
-      "date": "2026-11-08",
-      "time": null,
-      "original": "115年11月8日(星期日)截止",
-      "basis": "quote",
-      "evidence": [
-        {
-          "url": "https://dlsh.tc.edu.tw/p/406-1068-639881,r2145.php?Lang=zh-tw",
-          "quote": "２、 上傳競賽海報：115年11月8日(星期日)截止"
+          "url": "https://www.hgsh.hc.edu.tw/view-doc/6/活動簡章-2026全國高中職專題競賽.pdf",
+          "quote": "一、填表報名：9 月1 日 (星期二)起至10 月25 日 (星期日)止"
         }
       ]
     },
     {
       "kind": "other",
-      "label": "寄發出席調查",
-      "date": "2026-11-16",
+      "label": "報名領域已額滿而來信表達意願者，獲通知是否釋出名額",
+      "date": "2026-11-04",
       "time": null,
-      "original": "11 月16 日 (星期一)前",
+      "original": "11/4",
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=eFUxcHhPRE4wT2NyQ2t1QS9EUktpWWlaZUZPb1h1cjAzOUF0VFRyLzZhYXI2OVpXcm92Q21QdU95NktycTF6QVUzekM4Vkg4Q295Q0tuaTM1T2tkUy9Pekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=NnlHV0NqdWRpRnAyR2Z6SEFhZG5pakxwd1ZWdDFtM3JqZkFuQ1RkeGwxWT0=",
+          "url": "https://www.hgsh.hc.edu.tw/view-doc/6/常見問題-2026全國高中職專題競賽.pdf",
+          "quote": "若有堅持還是想報名者，請來信聯繫意願，承辦人將在11/4 通知是否有釋出名額。"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "海報上傳截止",
+      "date": "2026-11-08",
+      "time": null,
+      "original": "11 月8 日 (星期日)前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.hgsh.hc.edu.tw/view-doc/6/活動簡章-2026全國高中職專題競賽.pdf",
+          "quote": "二、上傳海報：11 月8 日 (星期日)前至活動網站下載海報格式"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "主辦單位寄發出席調查，一星期內回覆出席人數",
+      "date": "2026-11-16",
+      "time": null,
+      "original": "預計11 月16 日 (星期一)前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.hgsh.hc.edu.tw/view-doc/6/活動簡章-2026全國高中職專題競賽.pdf",
           "quote": "三、出席確認：預計11 月16 日 (星期一)前寄發出席調查，請於一星期內回覆活動當天出席人數。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "需基本供電以外、有線網路或指定報告時間者來信說明截止",
+      "date": "2026-11-18",
+      "time": null,
+      "original": "11/18 前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.hgsh.hc.edu.tw/view-doc/6/常見問題-2026全國高中職專題競賽.pdf",
+          "quote": "有基本供電以外或有線網路需求者，請於11/18 前來信說明。"
+        },
+        {
+          "url": "https://www.hgsh.hc.edu.tw/view-doc/6/常見問題-2026全國高中職專題競賽.pdf",
+          "quote": "如有特殊情形需指定報告時間，請於11/18 前寄信告知理由，主辦方將酌予彈性調整。"
         }
       ]
     },
@@ -100,21 +132,35 @@
       "kind": "final_event",
       "label": "決賽",
       "date": "2026-12-06",
-      "time": "09:00",
-      "original": "115年12月6日(星期日)",
+      "time": null,
+      "original": "115 年12 月6 日（星期日）",
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://dlsh.tc.edu.tw/p/406-1068-639881,r2145.php?Lang=zh-tw",
-          "quote": "(二) 活動日期：115年12月6日(星期日)。"
+          "url": "https://www.hgsh.hc.edu.tw/view-doc/6/活動簡章-2026全國高中職專題競賽.pdf",
+          "quote": "一、時間：115 年12 月6 日（星期日）"
         },
         {
-          "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=eFUxcHhPRE4wT2NyQ2t1QS9EUktpWWlaZUZPb1h1cjAzOUF0VFRyLzZhYXI2OVpXcm92Q21QdU95NktycTF6QVUzekM4Vkg4Q295Q0tuaTM1T2tkUy9Pekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=NnlHV0NqdWRpRnAyR2Z6SEFhZG5pakxwd1ZWdDFtM3JqZkFuQ1RkeGwxWT0=",
+          "url": "https://www.hgsh.hc.edu.tw/view-doc/6/活動簡章-2026全國高中職專題競賽.pdf",
           "quote": "四、決賽：12 月6 日 (星期日)依時程至活動地點進行決賽。"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "競賽名次公布及頒獎",
+      "date": "2026-12-06",
+      "time": null,
+      "original": "115 年12 月6 日（星期日）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.hgsh.hc.edu.tw/view-doc/6/活動簡章-2026全國高中職專題競賽.pdf",
+          "quote": "一、時間：115 年12 月6 日（星期日）"
         },
         {
-          "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=eFUxcHhPRE4wT2NyQ2t1QS9EUktpWWlaZUZPb1h1cjAzOUF0VFRyLzZhYXI2OVpXcm92Q21QdU95NktycTF6QVUzekM4Vkg4Q295Q0tuaTM1T2tkUy9Pekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=NnlHV0NqdWRpRnAyR2Z6SEFhZG5pakxwd1ZWdDFtM3JqZkFuQ1RkeGwxWT0=",
-          "quote": "9:00 ~ 9:30 30’ 報到"
+          "url": "https://www.hgsh.hc.edu.tw/view-doc/6/活動簡章-2026全國高中職專題競賽.pdf",
+          "quote": "競賽名次公布及頒獎"
         }
       ]
     }
@@ -122,17 +168,17 @@
   "deliverables": [
     {
       "stage": "報名",
-      "what": "線上報名表（以 Google 帳號登入）",
+      "what": "活動網站報名表（以 Google 帳號登入填寫）",
       "how": "online"
     },
     {
       "stage": "海報上傳",
-      "what": "依公版格式製作的專題海報，PDF 或 PNG",
+      "what": "以規定海報格式製作的海報，存為 PDF 或 PNG 上傳",
       "how": "online"
     },
     {
       "stage": "決賽",
-      "what": "自行印製的 A0 海報、5 分鐘中文或英文簡報與成果作品",
+      "what": "自行印製 A0 海報（1 至 3 張）布置攤位，自備筆電簡報 5 分鐘，評審講評與問答 3 分鐘，可一併展示成果作品",
       "how": "onsite"
     }
   ],
@@ -142,11 +188,11 @@
     "basis": "quote",
     "evidence": [
       {
-        "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=eFUxcHhPRE4wT2NyQ2t1QS9EUktpWWlaZUZPb1h1cjAzOUF0VFRyLzZhYUlvRjdOT2tHVzUwOTl5OGdNdEFyYVkra01HcnE3MW4ybWNrSTJWUTFkTGZPekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=R1dEYTF2SDhXckZXMVVoV0pEMUJEQkIrL2h2dkhjd205MktOMGxtcTNvVXBWQi9pRTJGd09tVHljUUJ4OVdRWg==",
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/6/常見問題-2026全國高中職專題競賽.pdf",
         "quote": "本競賽無初審機制，線上報名並完成競賽資料(海報)上傳後，請準時於活動當日至會場進行競賽即可。"
       },
       {
-        "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=eFUxcHhPRE4wT2NyQ2t1QS9EUktpWWlaZUZPb1h1cjAzOUF0VFRyLzZhYXI2OVpXcm92Q21QdU95NktycTF6QVUzekM4Vkg4Q295Q0tuaTM1T2tkUy9Pekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=NnlHV0NqdWRpRnAyR2Z6SEFhZG5pakxwd1ZWdDFtM3JqZkFuQ1RkeGwxWT0=",
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/6/活動簡章-2026全國高中職專題競賽.pdf",
         "quote": "二、地點：國立屏東大學屏商校區風雨球場"
       }
     ]
@@ -157,34 +203,35 @@
     "basis": "absent",
     "evidence": [
       {
-        "url": "https://dlsh.tc.edu.tw/p/406-1068-639881,r2145.php?Lang=zh-tw"
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/6/活動簡章-2026全國高中職專題競賽.pdf"
       },
       {
-        "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=eFUxcHhPRE4wT2NyQ2t1QS9EUktpWWlaZUZPb1h1cjAzOUF0VFRyLzZhYXI2OVpXcm92Q21QdU95NktycTF6QVUzekM4Vkg4Q295Q0tuaTM1T2tkUy9Pekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=NnlHV0NqdWRpRnAyR2Z6SEFhZG5pakxwd1ZWdDFtM3JqZkFuQ1RkeGwxWT0="
-      },
-      {
-        "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=eFUxcHhPRE4wT2NyQ2t1QS9EUktpWWlaZUZPb1h1cjAzOUF0VFRyLzZhYUlvRjdOT2tHVzUwOTl5OGdNdEFyYVkra01HcnE3MW4ybWNrSTJWUTFkTGZPekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=R1dEYTF2SDhXckZXMVVoV0pEMUJEQkIrL2h2dkhjd205MktOMGxtcTNvVXBWQi9pRTJGd09tVHljUUJ4OVdRWg=="
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/6/常見問題-2026全國高中職專題競賽.pdf"
       }
     ]
   },
   "prizes": {
-    "text": "各領域第一名獎盃、獎金 5,000 元及獎狀；第二名獎盃、獎金 3,000 元及獎狀；第三名獎盃、獎金 2,000 元及獎狀；優勝若干組，獎金 1,000 元及獎狀。",
+    "text": "各領域分別評比：第一名獎盃、獎金 5,000 元及獎狀；第二名獎盃、獎金 3,000 元及獎狀；第三名獎盃、獎金 2,000 元及獎狀；優勝若干組，獎金 1,000 元及獎狀。主辦單位可視評分狀況調整得獎組數。",
     "basis": "quote",
     "evidence": [
       {
-        "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=eFUxcHhPRE4wT2NyQ2t1QS9EUktpWWlaZUZPb1h1cjAzOUF0VFRyLzZhYXI2OVpXcm92Q21QdU95NktycTF6QVUzekM4Vkg4Q295Q0tuaTM1T2tkUy9Pekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=NnlHV0NqdWRpRnAyR2Z6SEFhZG5pakxwd1ZWdDFtM3JqZkFuQ1RkeGwxWT0=",
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/6/活動簡章-2026全國高中職專題競賽.pdf",
+        "quote": "各領域均評比名次與獎勵如下，主辦單位可視委員評分狀況予以調整得獎組數："
+      },
+      {
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/6/活動簡章-2026全國高中職專題競賽.pdf",
         "quote": "1. 第一名：獎盃、獎金5,000 元及獎狀"
       },
       {
-        "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=eFUxcHhPRE4wT2NyQ2t1QS9EUktpWWlaZUZPb1h1cjAzOUF0VFRyLzZhYXI2OVpXcm92Q21QdU95NktycTF6QVUzekM4Vkg4Q295Q0tuaTM1T2tkUy9Pekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=NnlHV0NqdWRpRnAyR2Z6SEFhZG5pakxwd1ZWdDFtM3JqZkFuQ1RkeGwxWT0=",
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/6/活動簡章-2026全國高中職專題競賽.pdf",
         "quote": "2. 第二名：獎盃、獎金3,000 元及獎狀"
       },
       {
-        "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=eFUxcHhPRE4wT2NyQ2t1QS9EUktpWWlaZUZPb1h1cjAzOUF0VFRyLzZhYXI2OVpXcm92Q21QdU95NktycTF6QVUzekM4Vkg4Q295Q0tuaTM1T2tkUy9Pekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=NnlHV0NqdWRpRnAyR2Z6SEFhZG5pakxwd1ZWdDFtM3JqZkFuQ1RkeGwxWT0=",
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/6/活動簡章-2026全國高中職專題競賽.pdf",
         "quote": "3. 第三名：獎盃、獎金2,000 元及獎狀"
       },
       {
-        "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=eFUxcHhPRE4wT2NyQ2t1QS9EUktpWWlaZUZPb1h1cjAzOUF0VFRyLzZhYXI2OVpXcm92Q21QdU95NktycTF6QVUzekM4Vkg4Q295Q0tuaTM1T2tkUy9Pekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=NnlHV0NqdWRpRnAyR2Z6SEFhZG5pakxwd1ZWdDFtM3JqZkFuQ1RkeGwxWT0=",
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/6/活動簡章-2026全國高中職專題競賽.pdf",
         "quote": "4. 優勝：獎金1,000 元及獎狀，若干組"
       }
     ]
@@ -194,10 +241,10 @@
     "basis": "absent",
     "evidence": [
       {
-        "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=eFUxcHhPRE4wT2NyQ2t1QS9EUktpWWlaZUZPb1h1cjAzOUF0VFRyLzZhYXI2OVpXcm92Q21QdU95NktycTF6QVUzekM4Vkg4Q295Q0tuaTM1T2tkUy9Pekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=NnlHV0NqdWRpRnAyR2Z6SEFhZG5pakxwd1ZWdDFtM3JqZkFuQ1RkeGwxWT0="
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/6/活動簡章-2026全國高中職專題競賽.pdf"
       },
       {
-        "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=eFUxcHhPRE4wT2NyQ2t1QS9EUktpWWlaZUZPb1h1cjAzOUF0VFRyLzZhYUlvRjdOT2tHVzUwOTl5OGdNdEFyYVkra01HcnE3MW4ybWNrSTJWUTFkTGZPekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=R1dEYTF2SDhXckZXMVVoV0pEMUJEQkIrL2h2dkhjd205MktOMGxtcTNvVXBWQi9pRTJGd09tVHljUUJ4OVdRWg=="
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/6/常見問題-2026全國高中職專題競賽.pdf"
       }
     ]
   },
@@ -206,32 +253,26 @@
     "rules": [
       {
         "title": "活動簡章",
-        "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=eFUxcHhPRE4wT2NyQ2t1QS9EUktpWWlaZUZPb1h1cjAzOUF0VFRyLzZhYXI2OVpXcm92Q21QdU95NktycTF6QVUzekM4Vkg4Q295Q0tuaTM1T2tkUy9Pekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=NnlHV0NqdWRpRnAyR2Z6SEFhZG5pakxwd1ZWdDFtM3JqZkFuQ1RkeGwxWT0="
+        "url": "https://www.hgsh.hc.edu.tw/wp-content/uploads/doc/u1220/活動簡章-2026全國高中職專題競賽.pdf"
       },
       {
         "title": "常見問題",
-        "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=eFUxcHhPRE4wT2NyQ2t1QS9EUktpWWlaZUZPb1h1cjAzOUF0VFRyLzZhYUlvRjdOT2tHVzUwOTl5OGdNdEFyYVkra01HcnE3MW4ybWNrSTJWUTFkTGZPekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=R1dEYTF2SDhXckZXMVVoV0pEMUJEQkIrL2h2dkhjd205MktOMGxtcTNvVXBWQi9pRTJGd09tVHljUUJ4OVdRWg=="
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/6/常見問題-2026全國高中職專題競賽.pdf"
       }
     ],
     "registration": null
   },
   "found_via": [
     {
-      "name": "大里高中 校外活動與競賽",
-      "url": "https://dlsh.tc.edu.tw/p/406-1068-639881,r2145.php?Lang=zh-tw"
-    },
-    {
-      "name": "大里高中 校外活動與競賽",
-      "url": "https://dlsh.tc.edu.tw/p/406-1068-619145,r2145.php?Lang=zh-tw"
+      "name": "新竹女中 活動研習",
+      "url": "https://www.hgsh.hc.edu.tw/news/2026%e5%85%a8%e5%9c%8b%e9%ab%98%e4%b8%ad%e8%81%b7%e5%b0%88%e9%a1%8c%e7%ab%b6%e8%b3%bd/"
     }
   ],
   "verification": {
     "last_verified": "2026-11-24",
     "method": "single",
     "unread": [
-      "公文.pdf",
-      "活動海報 dm.png",
-      "活動網站的公版海報格式"
+      "活動網站的海報格式"
     ],
     "note": null,
     "readers": [

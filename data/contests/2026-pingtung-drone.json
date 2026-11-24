@@ -1,0 +1,269 @@
+{
+  "schema": 1,
+  "id": "2026-pingtung-drone",
+  "title": "2026屏東縣無人機競賽",
+  "edition": "2026",
+  "summary": "屏東縣國小至高中職學生組隊，參加無人機足球、穿環、程控任務或虛擬飛行技能比賽。",
+  "organizers": [
+    {
+      "name": "屏東縣政府教育處",
+      "role": "主辦"
+    },
+    {
+      "name": "國立屏東科技大學",
+      "role": "主辦"
+    },
+    {
+      "name": "國立屏東大學",
+      "role": "協辦"
+    },
+    {
+      "name": "國立虎尾科技大學",
+      "role": "協辦"
+    },
+    {
+      "name": "中華民國航空太空學會",
+      "role": "協辦"
+    },
+    {
+      "name": "明正國中科技中心",
+      "role": "承辦"
+    },
+    {
+      "name": "南州國中科技中心",
+      "role": "承辦"
+    },
+    {
+      "name": "潮州國中科技中心",
+      "role": "承辦"
+    },
+    {
+      "name": "車城國中科技中心",
+      "role": "承辦"
+    }
+  ],
+  "categories": [
+    "工程與製造",
+    "技藝與技能",
+    "資訊與 AI"
+  ],
+  "eligibility": {
+    "levels": [
+      "國小",
+      "國中",
+      "高中",
+      "高職"
+    ],
+    "division": "separate",
+    "regions": [
+      "屏東縣"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": 5,
+    "teacher": "required",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.ccsh.ptc.edu.tw/images/file/data19312/8a88fd1d2f6f9d4676569555df567546.pdf",
+        "quote": "3.1報名資格與須知：本縣國小、國中、高中職 115學年度之在學學生。"
+      },
+      {
+        "url": "https://www.ccsh.ptc.edu.tw/images/file/data19312/8a88fd1d2f6f9d4676569555df567546.pdf",
+        "quote": "註：高中職組報名隊伍低於10隊，則合併國中組及高中職組為國高中 職組。"
+      },
+      {
+        "url": "https://www.ccsh.ptc.edu.tw/images/file/data19312/8a88fd1d2f6f9d4676569555df567546.pdf",
+        "quote": "各組別內可混合組隊(不分年級、可為同校混合組隊但不可跨校，以最高年級的隊員為學籍分組之依據)，並由指導老師指導參賽。"
+      },
+      {
+        "url": "https://www.ccsh.ptc.edu.tw/images/file/data19312/8a88fd1d2f6f9d4676569555df567546.pdf",
+        "quote": "6.4.2 選手組成為「攻擊手1 名」、「守衛選手2 名」、「候補選手2 名」。"
+      },
+      {
+        "url": "https://www.ccsh.ptc.edu.tw/images/file/data19312/8a88fd1d2f6f9d4676569555df567546.pdf",
+        "quote": "9.2.1 梯次進行方式：每梯次安排最多5 名選手同時上台進行比賽"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "網路報名截止",
+      "date": "2026-11-13",
+      "time": null,
+      "original": "115年11月13日(星期五)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.ccsh.ptc.edu.tw/images/file/data19312/8a88fd1d2f6f9d4676569555df567546.pdf",
+          "quote": "2.6.1報名期限：即日起至115年11月13日(星期五)止。"
+        }
+      ]
+    },
+    {
+      "kind": "registration_deadline",
+      "label": "在學證明與同意書紙本收件截止（郵戳為憑）",
+      "date": "2026-11-13",
+      "time": null,
+      "original": "115年11月13日(星期五)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.ccsh.ptc.edu.tw/images/file/data19312/8a88fd1d2f6f9d4676569555df567546.pdf",
+          "quote": "在學證明（含著作財產授權書）收件截止日期至115年11月13日(星期五)止(以郵戳為憑)。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "初賽",
+      "date": "2026-11-20",
+      "time": null,
+      "original": "115年11月20日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.ccsh.ptc.edu.tw/images/file/data19312/8a88fd1d2f6f9d4676569555df567546.pdf",
+          "quote": "(1)115年11月20日初賽，競賽場地：屏東縣南州國中體育館。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "決賽與頒獎典禮",
+      "date": "2026-11-21",
+      "time": null,
+      "original": "115年11月21日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.ccsh.ptc.edu.tw/images/file/data19312/8a88fd1d2f6f9d4676569555df567546.pdf",
+          "quote": "(2) 115年11月21日決賽，競賽場地：屏東縣南州國中體育館。"
+        },
+        {
+          "url": "https://www.ccsh.ptc.edu.tw/images/file/data19312/8a88fd1d2f6f9d4676569555df567546.pdf",
+          "quote": "2.7.2.7競賽成績公布：競賽決賽後將舉行頒獎典禮並公布冠、亞、季軍"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名",
+      "what": "網路報名表（含競賽當天用餐葷素選項）",
+      "how": "online"
+    },
+    {
+      "stage": "報名",
+      "what": "學校核章的在學證明，及每位選手簽署的肖像權、著作權與個人資料同意書紙本",
+      "how": "mail"
+    },
+    {
+      "stage": "初賽與決賽",
+      "what": "在屏東縣南州國中體育館操控無人機比賽；虛擬飛行技能挑戰賽的設備由大會提供",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "屏東縣南州國中體育館",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.ccsh.ptc.edu.tw/images/file/data19312/8a88fd1d2f6f9d4676569555df567546.pdf",
+        "quote": "115年11月20-21日競賽場地：屏東縣南州國中體育館"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.ccsh.ptc.edu.tw/images/file/data19312/8a88fd1d2f6f9d4676569555df567546.pdf"
+      },
+      {
+        "url": "https://www.ccsh.ptc.edu.tw/images/file/data19312/1c476e953e51223b19bde61406265011.docx"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "高中職、國中、國小各組金牌 1 隊、銀牌 2 隊、銅牌 3 隊；佳作：無人機足球賽為進入淘汰賽而未得上述獎項的隊伍，其他項目取未得上述獎項隊伍的 60%，參賽選手及指導老師均可獲得獎狀。得獎隊伍指導老師另依名次記功或嘉獎。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.ccsh.ptc.edu.tw/images/file/data19312/8a88fd1d2f6f9d4676569555df567546.pdf",
+        "quote": "金牌 高中職、國中、國小各組 1 隊"
+      },
+      {
+        "url": "https://www.ccsh.ptc.edu.tw/images/file/data19312/8a88fd1d2f6f9d4676569555df567546.pdf",
+        "quote": "銀牌 高中職、國中、國小各組 2 隊"
+      },
+      {
+        "url": "https://www.ccsh.ptc.edu.tw/images/file/data19312/8a88fd1d2f6f9d4676569555df567546.pdf",
+        "quote": "銅牌 高中職、國中、國小各組 3 隊"
+      },
+      {
+        "url": "https://www.ccsh.ptc.edu.tw/images/file/data19312/8a88fd1d2f6f9d4676569555df567546.pdf",
+        "quote": "無人機足球賽：未得到以上獎項且進入淘汰賽的之參賽隊伍。"
+      },
+      {
+        "url": "https://www.ccsh.ptc.edu.tw/images/file/data19312/8a88fd1d2f6f9d4676569555df567546.pdf",
+        "quote": "其他項目：未得到以上獎項之參賽隊伍，將取 60%獲頒佳作獎以資鼓勵，參賽選手及指導老師均可獲得獎狀乙紙。"
+      },
+      {
+        "url": "https://www.ccsh.ptc.edu.tw/images/file/data19312/8a88fd1d2f6f9d4676569555df567546.pdf",
+        "quote": "金牌 指導老師記功1次及指導證明一份"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.ccsh.ptc.edu.tw/images/file/data19312/8a88fd1d2f6f9d4676569555df567546.pdf"
+      },
+      {
+        "url": "https://www.ccsh.ptc.edu.tw/images/file/data19312/1c476e953e51223b19bde61406265011.docx"
+      }
+    ]
+  },
+  "links": {
+    "official": null,
+    "rules": [
+      {
+        "title": "2026屏東縣無人機競賽活動簡章（PDF）",
+        "url": "https://www.ccsh.ptc.edu.tw/images/file/data19312/8a88fd1d2f6f9d4676569555df567546.pdf"
+      },
+      {
+        "title": "在學證明與肖像權、著作權與個人資料同意書（DOCX）",
+        "url": "https://www.ccsh.ptc.edu.tw/images/file/data19312/1c476e953e51223b19bde61406265011.docx"
+      }
+    ],
+    "registration": "https://reurl.cc/XxxEM7"
+  },
+  "found_via": [
+    {
+      "name": "潮州高中 學生課外活動",
+      "url": "https://www.ccsh.ptc.edu.tw/data.php?id=19312&tpl=27"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-24",
+    "method": "single",
+    "unread": [
+      "FAI 世界無人機足球競賽規則",
+      "競賽群組公告的補充規定"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-24",
+  "conflict": "活動簡章第 2.4 節賽程表的註記寫穿環任務賽每隊比賽 2 次、取最優成績，第 7.6.4 節則寫每隊比賽次數 3 次。"
+}

@@ -1,0 +1,305 @@
+{
+  "schema": 1,
+  "id": "2026-native-new-immigrant-language-song",
+  "title": "115 學年度全國師生本土語及新住民語歌謠比賽",
+  "edition": "115 學年度",
+  "summary": "各級學校師生組成合唱團，以本土語或新住民語演唱歌謠，由評審評定等第。",
+  "organizers": [
+    {
+      "name": "教育部",
+      "role": "指導"
+    },
+    {
+      "name": "各直轄市及縣市政府教育局、各縣市政府（初賽）",
+      "role": "主辦"
+    },
+    {
+      "name": "國立臺灣藝術教育館（決賽）",
+      "role": "主辦"
+    },
+    {
+      "name": "新竹縣政府教育局（決賽）",
+      "role": "承辦"
+    }
+  ],
+  "categories": [
+    "音樂"
+  ],
+  "eligibility": {
+    "levels": [
+      "國小",
+      "國中",
+      "高中",
+      "高職",
+      "五專"
+    ],
+    "division": "separate",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "school",
+    "team_min": 10,
+    "team_max": 65,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://web.arte.gov.tw/country/upfile/news/115/20260803_164832_527_pmes.pdf",
+        "quote": "三、高中職組（就讀於公私立高級中學高中部及高級職業學校、五專一、二、三年級及七年一貫制大學一、二、三年級之學生組成之團隊，不得跨校組之。"
+      },
+      {
+        "url": "https://web.arte.gov.tw/country/upfile/news/115/20260803_164832_527_pmes.pdf",
+        "quote": "由各縣市（區）派隊參加，分下列各組："
+      },
+      {
+        "url": "https://web.arte.gov.tw/country/upfile/news/115/20260803_164832_527_pmes.pdf",
+        "quote": "2.各級學校得由各校先行舉辦校內比賽，由優勝者參加初賽，或由各校選派參賽。"
+      },
+      {
+        "url": "https://web.arte.gov.tw/country/upfile/news/115/20260803_164832_527_pmes.pdf",
+        "quote": "比賽時全員須同時上臺，舞臺上全員人數以10 至65 人為限(包含指揮、伴奏及翻譜人員，不含候補人員)，並得增報3 人為候補人員"
+      },
+      {
+        "url": "https://web.arte.gov.tw/country/upfile/news/115/20260803_164832_527_pmes.pdf",
+        "quote": "九、各類組報名參賽之團隊限於其學校所在地之縣市（區）報名比賽，不得跨縣市或越區報名。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "other",
+      "label": "各縣市初賽辦理完畢",
+      "date": "2026-12-20",
+      "time": null,
+      "original": "115 年12 月20 日之前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://web.arte.gov.tw/country/upfile/news/115/20260803_164832_527_pmes.pdf",
+          "quote": "初賽於民國115 年12 月20 日之前舉辦完畢，由各主辦單位編排賽程實施。"
+        }
+      ]
+    },
+    {
+      "kind": "registration_deadline",
+      "label": "決賽線上報名截止",
+      "date": "2026-12-25",
+      "time": "17:00",
+      "original": "115 年12 月25 日17 時止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://web.arte.gov.tw/country/upfile/news/115/20260803_164832_527_pmes.pdf",
+          "quote": "線上作業時間自115 年11 月20 日9 時起至115 年12 月25 日17 時止。"
+        },
+        {
+          "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=22771",
+          "quote": "旨揭決賽報名自115年11月20日上午9時起至115年12月25日下午5時止"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "初賽主辦單位寄送決賽代表報名表截止（郵戳為憑）；大陸臺商子弟學校及海外臺灣學校寄送紙本報名表截止",
+      "date": "2026-12-31",
+      "time": null,
+      "original": "115 年12 月31 日前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://web.arte.gov.tw/country/upfile/news/115/20260803_164832_527_pmes.pdf",
+          "quote": "(十)各初賽主辦單位應於115 年12 月31 日前將代表參加決賽者之報名表免備文寄(送)予本會，始完成報名手續（郵遞者以郵戳為憑）。"
+        },
+        {
+          "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=22771",
+          "quote": "列印1份紙本報名表經就讀學校蓋妥印信，於115年12月31日前（以郵戳為憑）寄（送）達藝教館"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "決賽（預定 4 月 12 日至 4 月 22 日間舉行，依報名隊數排定賽程）",
+      "date": "2027-04-12",
+      "time": null,
+      "original": "116 年 4 月 12 日至 4 月 22 日間",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://web.arte.gov.tw/country/upfile/news/115/20260803_164832_527_pmes.pdf",
+          "quote": "辦理期間預定於116年4月12日至4月22日間舉行，依決賽報名隊數調整賽程後公布施行。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "初賽（各縣市）",
+      "what": "依各縣市初賽辦法上臺演唱",
+      "how": "onsite"
+    },
+    {
+      "stage": "決賽報名",
+      "what": "在比賽網站填寫資料並列印報名表，經學校與初賽主辦單位用印後寄送",
+      "how": "online"
+    },
+    {
+      "stage": "決賽",
+      "what": "合唱演出：依語系類演唱指定曲與自選曲各一首或自選曲二首，總長 10 分鐘內，舞臺上 10 至 65 人",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "初賽由各縣市擇定場所；決賽在新竹縣政府文化局演藝廳",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://web.arte.gov.tw/country/upfile/news/115/20260803_164832_527_pmes.pdf",
+        "quote": "由各主辦單位自行擇定適當場所舉行為原則，可分區辦理。"
+      },
+      {
+        "url": "https://web.arte.gov.tw/country/upfile/news/115/20260803_164832_527_pmes.pdf",
+        "quote": "(五)比賽地點：新竹縣政府文化局演藝廳"
+      },
+      {
+        "url": "https://web.arte.gov.tw/country/upfile/news/115/20260803_164832_527_pmes.pdf",
+        "quote": "比賽時全員須同時上臺"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://web.arte.gov.tw/country/upfile/news/115/20260803_164832_527_pmes.pdf"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "決賽平均 90 分以上為特優、85 分以上為優等、80 分以上為甲等，甲等以上不限名額，頒發獎狀，特優另頒獎座；初賽優等以上團隊由各縣市比照決賽獎勵。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://web.arte.gov.tw/country/upfile/news/115/20260803_164832_527_pmes.pdf",
+        "quote": "其平均分數90 分以上者為「特優」，85 分以上未滿90 分者為「優等」，80 分以上未滿85 分者為「甲等」，未滿80 分者不列入等第。"
+      },
+      {
+        "url": "https://web.arte.gov.tw/country/upfile/news/115/20260803_164832_527_pmes.pdf",
+        "quote": "凡成績達到「甲等」以上之等第，不限名額，皆予以獎勵。"
+      },
+      {
+        "url": "https://web.arte.gov.tw/country/upfile/news/115/20260803_164832_527_pmes.pdf",
+        "quote": "1.各優勝團隊獲評等者於決賽後現場頒發獎狀"
+      },
+      {
+        "url": "https://web.arte.gov.tw/country/upfile/news/115/20260803_164832_527_pmes.pdf",
+        "quote": "獲得「特優」之團隊，並頒發獎座，以資鼓勵。"
+      },
+      {
+        "url": "https://web.arte.gov.tw/country/upfile/news/115/20260803_164832_527_pmes.pdf",
+        "quote": "凡經初賽評定為優等以上之團隊（含指導老師、指揮、伴奏及相關行政人員），比照決賽獎勵辦法由各主辦單位分別給予獎勵。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://web.arte.gov.tw/country/upfile/news/115/20260803_164832_527_pmes.pdf"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://web.arte.gov.tw/country/news_M/disp.asp?id=166",
+    "rules": [
+      {
+        "title": "115學年度全國師生本土語及新住民語歌謠比賽實施要點（PDF）",
+        "url": "https://web.arte.gov.tw/country/upfile/news/115/20260803_164832_527_pmes.pdf"
+      },
+      {
+        "title": "115學年度全國師生本土語及新住民語歌謠比賽實施要點（ODT）",
+        "url": "https://web.arte.gov.tw/country/upfile/news/115/20260803_164832_606_smv3.odt"
+      }
+    ],
+    "registration": "https://web.arte.gov.tw/country/"
+  },
+  "found_via": [
+    {
+      "name": "金門高中 最新消息",
+      "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=22771"
+    },
+    {
+      "name": "新竹高商 消息公佈欄",
+      "url": "https://www.hccvs.hc.edu.tw/ischool/public/news_view/show.php?nid=26099"
+    },
+    {
+      "name": "苗栗農工 處室公告",
+      "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=25995"
+    },
+    {
+      "name": "苗栗農工 處室公告",
+      "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=25996"
+    },
+    {
+      "name": "南港高工 重要資訊",
+      "url": "https://www.nkhs.tp.edu.tw/ischool/public/news_view/show.php?nid=34231"
+    },
+    {
+      "name": "斗六高中 營隊研習競賽",
+      "url": "https://www.tlsh.ylc.edu.tw/2026/08/03/65481/"
+    },
+    {
+      "name": "大同高中 學生競賽活動",
+      "url": "https://www.ttsh.tp.edu.tw/news/115%e5%ad%b8%e5%b9%b4%e5%ba%a6%e5%85%a8%e5%9c%8b%e5%b8%ab%e7%94%9f%e6%9c%ac%e5%9c%9f%e8%aa%9e%e5%8f%8a%e6%96%b0%e4%bd%8f%e6%b0%91%e8%aa%9e%e6%ad%8c%e8%ac%a0%e6%af%94%e8%b3%bd%e5%af%a6%e6%96%bd/"
+    },
+    {
+      "name": "苗栗高中 學生校外營隊、活動、比賽",
+      "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=27488"
+    },
+    {
+      "name": "苗栗高中 學生校外營隊、活動、比賽",
+      "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=27489"
+    },
+    {
+      "name": "金門高中 最新消息",
+      "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=21789"
+    },
+    {
+      "name": "新竹高商 消息公佈欄",
+      "url": "https://www.hccvs.hc.edu.tw/ischool/public/news_view/show.php?nid=26042"
+    },
+    {
+      "name": "斗六高中 營隊研習競賽",
+      "url": "https://www.tlsh.ylc.edu.tw/2026/08/03/65510/"
+    },
+    {
+      "name": "成功高中 活動競賽",
+      "url": "https://www.cksh.tp.edu.tw/news/%e3%80%90%e8%bd%89%e7%9f%a5%e3%80%91115%e5%ad%b8%e5%b9%b4%e5%ba%a6%e5%85%a8%e5%9c%8b%e5%b8%ab%e7%94%9f%e6%9c%ac%e5%9c%9f%e8%aa%9e%e5%8f%8a%e6%96%b0%e4%bd%8f%e6%b0%91%e8%aa%9e%e6%ad%8c%e8%ac%a0/"
+    },
+    {
+      "name": "獎金獵人 競賽平台",
+      "url": "https://bhuntr.com/tw/competitions/i8pf0sd5x95jbemmb8"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-24",
+    "method": "dual",
+    "unread": [
+      "各縣市初賽辦法",
+      "指定曲曲目"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5",
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-24",
+  "level": "verified",
+  "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-native-new-immigrant-language-song/",
+  "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-native-new-immigrant-language-song.md"
+}

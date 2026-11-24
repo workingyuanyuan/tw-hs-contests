@@ -151,9 +151,10 @@
       "附件1至6及異動申請書、決賽放棄切結書",
       "第九屆農友名單.docx"
     ],
-    "note": null,
+    "note": "第二次讀取沒有確認：截止日、參賽對象、分組、地區、推薦",
     "readers": [
-      "gemini-4-hydrogen-medium"
+      "gemini-4-hydrogen-medium",
+      "claude-opus-5-5"
     ]
   },
   "first_seen": "2026-11-20",

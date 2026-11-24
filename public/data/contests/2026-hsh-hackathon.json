@@ -1,0 +1,479 @@
+{
+  "schema": 1,
+  "id": "2026-hsh-hackathon",
+  "title": "2026 中學生黑客松競賽",
+  "edition": "第六屆",
+  "summary": "國中與高中職學生 2 至 4 人組隊，以生活化人工智慧加值雲端應用為題提出創意構想並發展成提案。",
+  "organizers": [
+    {
+      "name": "高雄市立高雄女子高級中學",
+      "role": "主辦"
+    },
+    {
+      "name": "教育部國民及學前教育署",
+      "role": "指導"
+    },
+    {
+      "name": "高雄市政府教育局",
+      "role": "指導"
+    },
+    {
+      "name": "新興科技教育遠距示範服務計畫辦公室",
+      "role": "指導"
+    },
+    {
+      "name": "Microsoft微軟",
+      "role": "協辦"
+    },
+    {
+      "name": "台灣微課程發展協會",
+      "role": "協辦"
+    }
+  ],
+  "categories": [
+    "資訊與 AI",
+    "創業與企劃"
+  ],
+  "eligibility": {
+    "levels": [
+      "國中",
+      "高中",
+      "高職"
+    ],
+    "division": "mixed",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 2,
+    "team_max": 4,
+    "teacher": "optional",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://sites.google.com/view/hsh2026/",
+        "quote": "1、國內外公、私立高中職或國中學校之在學學生為限，每隊學生2-4人，指導老師0-2名。（國中參賽隊伍需至少1位指導老師，高中職參賽隊伍可以無指導老師自行組隊或1-2位老師指導組隊。）"
+      },
+      {
+        "url": "https://sites.google.com/view/hsh2026/",
+        "quote": "1、每個隊伍僅需1人代表進行線上報名即可，不需所有隊員都進行報名。"
+      },
+      {
+        "url": "https://sites.google.com/view/hsh2026/",
+        "quote": "5、明日之星（3組）：限國中學生，學生及教師各頒發獎狀1紙（教育局） 、禮券2,000元、精美獎品1份(比序第一名)。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "海選報名截止（延長後）",
+      "date": "2026-05-13",
+      "time": "17:00",
+      "original": "5/13(三)下午5時",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://sites.google.com/view/hsh2026/",
+          "quote": "爰將報名時間延長至5/13(三)下午5時止，另創意構想繳交期限同步順延至5/15(五)下午1時止，5/24(日)下午5點公布海選入圍名單。"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "創意構想繳交截止（順延後）",
+      "date": "2026-05-15",
+      "time": "13:00",
+      "original": "5/15(五)下午1時",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://sites.google.com/view/hsh2026/",
+          "quote": "爰將報名時間延長至5/13(三)下午5時止，另創意構想繳交期限同步順延至5/15(五)下午1時止，5/24(日)下午5點公布海選入圍名單。"
+        }
+      ]
+    },
+    {
+      "kind": "shortlist_announcement",
+      "label": "公布主賽事海選入圍名單與子賽事海選名單",
+      "date": "2026-05-24",
+      "time": "17:00",
+      "original": "5/24(日)下午5點",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://sites.google.com/view/hsh2026/",
+          "quote": "爰將報名時間延長至5/13(三)下午5時止，另創意構想繳交期限同步順延至5/15(五)下午1時止，5/24(日)下午5點公布海選入圍名單。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "黑客挑戰日第1階（北區，新北市雲端智慧科技中心）",
+      "date": "2026-05-30",
+      "time": null,
+      "original": "115年5月30日（星期六）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://sites.google.com/view/hsh2026/",
+          "quote": "第1階：115年5月30日（星期六）"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "黑客挑戰日第2階（北區，新北市雲端智慧科技中心）",
+      "date": "2026-05-31",
+      "time": null,
+      "original": "115年5月31日（星期日）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://sites.google.com/view/hsh2026/",
+          "quote": "第2階：115年5月31日（星期日）"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "黑客挑戰日第1階（中區，臺中市教育網路中心）",
+      "date": "2026-06-06",
+      "time": null,
+      "original": "115年6月6日（星期六）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://sites.google.com/view/hsh2026/",
+          "quote": "第1階：115年6月6日（星期六）"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "黑客挑戰日第2階（中區，臺中市教育網路中心）",
+      "date": "2026-06-07",
+      "time": null,
+      "original": "115年6月7日（星期日）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://sites.google.com/view/hsh2026/",
+          "quote": "第2階：115年6月7日（星期日）"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "黑客挑戰日第1階（南區，高雄女中）",
+      "date": "2026-06-13",
+      "time": null,
+      "original": "115年6月13日（星期六）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://sites.google.com/view/hsh2026/",
+          "quote": "第1階：115年6月13日（星期六）"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "黑客挑戰日第2階（南區，高雄女中）",
+      "date": "2026-06-14",
+      "time": null,
+      "original": "115年6月14日（星期日）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://sites.google.com/view/hsh2026/",
+          "quote": "第2階：115年6月14日（星期日）"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "複選提案繳交截止",
+      "date": "2026-06-22",
+      "time": "17:00",
+      "original": "115年6月22日（星期一）下午5點",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://sites.google.com/view/hsh2026/",
+          "quote": "1、提交複選提案：115年6月22日（星期一）下午5點截止。"
+        }
+      ]
+    },
+    {
+      "kind": "shortlist_announcement",
+      "label": "公布複選入選名單",
+      "date": "2026-06-29",
+      "time": "17:00",
+      "original": "115年6月29日（星期一）下午5點",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://sites.google.com/view/hsh2026/",
+          "quote": "7、黑客複選入選名單於官網公告：115年6月29日（星期一）下午5點。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "黑客挑戰日第3階（北區，新北市雲端智慧科技中心）",
+      "date": "2026-07-07",
+      "time": null,
+      "original": "115年7月7日（星期二）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://sites.google.com/view/hsh2026/",
+          "quote": "第3階：115年7月7日（星期二）"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "黑客挑戰日第3階（中區，臺中市教育網路中心）",
+      "date": "2026-07-08",
+      "time": null,
+      "original": "115年7月8日（星期三）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://sites.google.com/view/hsh2026/",
+          "quote": "第3階：115年7月8日（星期三）"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "黑客挑戰日第3階（南區，高雄女中）",
+      "date": "2026-07-10",
+      "time": null,
+      "original": "115年7月10日（星期四）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://sites.google.com/view/hsh2026/",
+          "quote": "第3階：115年7月10日（星期四）"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "子賽事隊伍任務補件截止",
+      "date": "2026-07-19",
+      "time": "23:59",
+      "original": "115 年 7 月 19 日（日）23:59:59",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://sites.google.com/view/hsh2026/",
+          "quote": "115 年 7 月 19 日（日）23:59:59"
+        }
+      ]
+    },
+    {
+      "kind": "shortlist_announcement",
+      "label": "公布子賽事決賽入圍名單",
+      "date": "2026-07-20",
+      "time": null,
+      "original": "2026.07.20",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://sites.google.com/view/hsh2026/",
+          "quote": "第六屆 中學生黑客松 子賽事決賽入圍名單 公布(2026.07.20)"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "子賽事決賽：AI賦能創作、展示與同儕互評",
+      "date": "2026-07-25",
+      "time": null,
+      "original": "115年7月25日（星期六）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://sites.google.com/view/hsh2026/",
+          "quote": "1、Special Issue子賽事：115年7月25日（星期六）AI賦能創作、展示與同儕互評，"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "主賽事決賽；子賽事評審與頒獎",
+      "date": "2026-07-26",
+      "time": null,
+      "original": "115年7月26日（星期日）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://sites.google.com/view/hsh2026/",
+          "quote": "主賽事：115年7月26日（星期日）"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "公布優勝名單",
+      "date": "2026-07-26",
+      "time": null,
+      "original": "2026.07.26",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://sites.google.com/view/hsh2026/",
+          "quote": "第六屆 中學生黑客松 優勝名單 公布(2026.07.26)"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "海選",
+      "what": "一頁 A4 內、至少 300 字的創意構想 Word 檔，附鉛筆手繪圖像化情境示意，及 AI 協作切結書",
+      "how": "online"
+    },
+    {
+      "stage": "複選",
+      "what": "複選提案、全體成員親筆簽名的參賽切結書與學生證正反面影本（PDF）",
+      "how": "online"
+    },
+    {
+      "stage": "決賽（Hacking Day）",
+      "what": "現場作品簡報、展示及問題詢答",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "finalists",
+    "where": "黑客挑戰日：新北市雲端智慧科技中心、臺中市教育網路中心或高雄女中擇一場次；決賽：高雄市立高雄女子高級中學",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://sites.google.com/view/hsh2026/",
+        "quote": "黑客挑戰日1開放所有報名隊伍參與 - 入圍(實體), 未入圍(線上挑戰日)。"
+      },
+      {
+        "url": "https://sites.google.com/view/hsh2026/",
+        "quote": "3、北、中區及南區各辦理1場次，各隊伍必須參與1場次，且隊員中至少需1人參加。"
+      },
+      {
+        "url": "https://sites.google.com/view/hsh2026/",
+        "quote": "Hacking Day：黑力展示，參賽隊伍於現場進行競賽做作品簡報、展示及問題詢答，各組確切詢答時間將視情況調整公告。"
+      },
+      {
+        "url": "https://sites.google.com/view/hsh2026/",
+        "quote": "2、地點：高雄市立高雄女子高級中學（高雄市前金區五福三路122號）"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.tlsh.ylc.edu.tw/2026/04/17/62009/",
+        "quote": "報名自即日起至115年5月8日（星期五）下午5時止，不收取報名費。"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "金獎 1 組：獎盃、國教署獎狀（學生及教師）、獎金 1 萬元、精美獎品；銀獎 2 組：獎盃、國教署獎狀、獎金 5,000 元、精美獎品；銅獎 4 組：獎盃、國教署獎狀、獎金 3,000 元、精美獎品；佳作 8 組：教育局獎狀；明日之星 3 組（限國中學生）：教育局獎狀、禮券 2,000 元；子賽事：教育局獎狀、精美獎品。參加海選、複選之隊伍授予參賽證書。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://sites.google.com/view/hsh2026/",
+        "quote": "1、金獎（1組）：頒發獎盃1座、獎狀學生及教師各1紙（國教署）、獎金1萬元、精美獎品1份。"
+      },
+      {
+        "url": "https://sites.google.com/view/hsh2026/",
+        "quote": "2、銀獎（2組）：頒發獎盃1座、獎狀學生及教師各1紙（國教署） 、獎金5,000元、精美獎品1份。"
+      },
+      {
+        "url": "https://sites.google.com/view/hsh2026/",
+        "quote": "3、銅獎（4組）：頒發獎盃1座、獎狀學生及教師各1紙（國教署）、獎金3,000元、精美獎品1份。"
+      },
+      {
+        "url": "https://sites.google.com/view/hsh2026/",
+        "quote": "4、佳作（8組）：頒發獎狀1紙（教育局）。"
+      },
+      {
+        "url": "https://sites.google.com/view/hsh2026/",
+        "quote": "5、明日之星（3組）：限國中學生，學生及教師各頒發獎狀1紙（教育局） 、禮券2,000元、精美獎品1份(比序第一名)。"
+      },
+      {
+        "url": "https://sites.google.com/view/hsh2026/",
+        "quote": "6、Special Issue子賽事：學生及教師各頒發獎狀1紙（教育局）、精美獎品。"
+      },
+      {
+        "url": "https://sites.google.com/view/hsh2026/",
+        "quote": "（二）參加海選、複選之隊伍授予參賽證書（官方、Microsoft）。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "restricted",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://sites.google.com/view/hsh2026/",
+        "quote": "可以與Al協作，但不能全交給Al。需填寫AI協作切結書。"
+      },
+      {
+        "url": "https://sites.google.com/view/hsh2026/",
+        "quote": "AI協作切結書，可以由隊長代表簽署。自行創作，或人類積極參與的AI協作，都不影響評分。"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://sites.google.com/view/hsh2026/",
+    "rules": [
+      {
+        "title": "參賽切結及授權同意書",
+        "url": "https://tinyurl.com/hsh-2026-signdoc"
+      },
+      {
+        "title": "家長/監護人同意書",
+        "url": "https://tinyurl.com/hsh-2026-signdoc2"
+      },
+      {
+        "title": "海選「創意構想」說明＋AI協作切結書（PDF）",
+        "url": "https://tinyurl.com/hsh-2026-idea-pdf"
+      }
+    ],
+    "registration": "https://tinyurl.com/hsh-2026-reg"
+  },
+  "found_via": [
+    {
+      "name": "斗六高中 營隊研習競賽",
+      "url": "https://www.tlsh.ylc.edu.tw/2026/04/17/62009/"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-24",
+    "method": "single",
+    "unread": [
+      "競賽簡章",
+      "黑客松海選「創意構想與圖像示意」說明",
+      "子賽事活動資訊",
+      "黑客松獎勵措施與證明",
+      "黑客松競賽評分項目"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-24",
+  "conflict": "官網「競賽時間與地點」與斗六高中轉知公告寫報名至115年5月8日下午5點截止、創意構想115年5月10日截止、海選入選名單5月15日公告；官網「重要訊息快報」則公告報名延長至5/13下午5時、創意構想順延至5/15下午1時、5/24下午5點公布海選入圍名單。",
+  "level": "checked",
+  "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-hsh-hackathon/",
+  "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-hsh-hackathon.md"
+}

@@ -1,0 +1,388 @@
+{
+  "schema": 1,
+  "id": "2026-national-hs-commercial-skills",
+  "title": "115學年度全國高級中等學校學生商業類技藝競賽",
+  "edition": "115 學年度",
+  "summary": "各校初賽選出的專業群科應屆畢業生，參加平面設計、程式設計、會計資訊等九個商業職種的技藝競賽。",
+  "organizers": [
+    {
+      "name": "教育部",
+      "role": "主辦"
+    },
+    {
+      "name": "臺北市政府教育局",
+      "role": "承辦"
+    },
+    {
+      "name": "教育部國民及學前教育署",
+      "role": "承辦"
+    },
+    {
+      "name": "臺北市立士林高級商業職業學校",
+      "role": "承辦"
+    },
+    {
+      "name": "新北市政府教育局",
+      "role": "協辦"
+    },
+    {
+      "name": "桃園市政府教育局",
+      "role": "協辦"
+    },
+    {
+      "name": "臺中市政府教育局",
+      "role": "協辦"
+    },
+    {
+      "name": "臺南市政府教育局",
+      "role": "協辦"
+    },
+    {
+      "name": "高雄市政府教育局",
+      "role": "協辦"
+    }
+  ],
+  "categories": [
+    "技藝與技能",
+    "商管與行銷",
+    "資訊與 AI"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職"
+    ],
+    "division": "hs_only",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "school",
+    "team_min": 1,
+    "team_max": 1,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://sci-me.k12ea.gov.tw/PortalFile/ContestData/11627/923042bf-e018-4232-b0c1-cd6217e0b961.pdf",
+        "quote": "全國公、私立高級中等學校設有專業群、科、綜合高中專門學程之學校（包括學校型態實驗教育學校）應屆畢（結）業學生，不包括延修生。"
+      },
+      {
+        "url": "https://sci-me.k12ea.gov.tw/PortalFile/ContestData/11627/923042bf-e018-4232-b0c1-cd6217e0b961.pdf",
+        "quote": "參賽人數：各校每一職種可報名人數為1 名。"
+      },
+      {
+        "url": "https://sci-me.k12ea.gov.tw/PortalFile/ContestData/11627/923042bf-e018-4232-b0c1-cd6217e0b961.pdf",
+        "quote": "學校應訂定校內競賽實施計畫及辦理校內初賽，並於115 年7 月31 日（五）前辦理校內初賽完竣並選拔學生代表。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "第一階段報名截止（學校登錄參賽職種人數及繳費）",
+      "date": "2026-06-12",
+      "time": null,
+      "original": "115 年5 月25 日（一）至6 月12 日（五）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://sci-me.k12ea.gov.tw/PortalFile/ContestData/11840/7dccca0b-7a86-4381-aa3b-5d12dc5eaa4a.pdf",
+          "quote": "115 年5 月25 日（一）至6 月12 日（五） 第一階段報名，登錄參賽職種人數及繳費。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "各校校內初賽辦理完竣並選拔學生代表",
+      "date": "2026-07-31",
+      "time": null,
+      "original": "115 年7 月31 日（五）前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://sci-me.k12ea.gov.tw/PortalFile/ContestData/11627/923042bf-e018-4232-b0c1-cd6217e0b961.pdf",
+          "quote": "學校應訂定校內競賽實施計畫及辦理校內初賽，並於115 年7 月31 日（五）前辦理校內初賽完竣並選拔學生代表。"
+        }
+      ]
+    },
+    {
+      "kind": "registration_deadline",
+      "label": "第二階段報名（決賽報名）截止，登錄正選手",
+      "date": "2026-09-11",
+      "time": null,
+      "original": "115 年8 月17 日（一）至9 月11 日（五）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://sci-me.k12ea.gov.tw/PortalFile/ContestData/11840/7dccca0b-7a86-4381-aa3b-5d12dc5eaa4a.pdf",
+          "quote": "115 年8 月17 日（一）至9 月11 日（五） 第二階段報名（決賽報名），登錄正選手，上傳通過校內初賽名單及紙本核章後上傳。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "更換選手或指導老師申請截止",
+      "date": "2026-10-06",
+      "time": null,
+      "original": "115 年9 月23 日（三）至10 月6 日（二）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://sci-me.k12ea.gov.tw/PortalFile/ContestData/11840/7dccca0b-7a86-4381-aa3b-5d12dc5eaa4a.pdf",
+          "quote": "115 年9 月23 日（三）至10 月6 日（二） 最後更換選手/指導老師截止日期"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "各校報到、崗位抽籤、領隊會議及設備檢測",
+      "date": "2026-12-01",
+      "time": "13:00",
+      "original": "12月1日（星期二）13:00–14:00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://sci-me.k12ea.gov.tw/PortalFile/ContestData/11627/923042bf-e018-4232-b0c1-cd6217e0b961.pdf",
+          "quote": "報到日期：115 年12 月1 日（二）"
+        },
+        {
+          "url": "https://sci-me.k12ea.gov.tw/Contest/ContestView?cont_id=11840",
+          "quote": "（一）12月1日（星期二）13:00–14:00各校 報到、14:00–14:30崗位抽籤、14:30–15:30領隊會議及16:00-17:00設備檢測。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "學術科競賽第一天",
+      "date": "2026-12-02",
+      "time": "07:50",
+      "original": "115 年12 月2 日（三）07:50-17:30",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://sci-me.k12ea.gov.tw/PortalFile/ContestData/11840/7dccca0b-7a86-4381-aa3b-5d12dc5eaa4a.pdf",
+          "quote": "115 年12 月2 日（三） 學術科競賽（詳見競賽活動日程表）"
+        },
+        {
+          "url": "https://sci-me.k12ea.gov.tw/PortalFile/ContestData/11627/923042bf-e018-4232-b0c1-cd6217e0b961.pdf",
+          "quote": "115 年12 月2 日（三）07:50-17:30"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "學術科競賽第二天",
+      "date": "2026-12-03",
+      "time": "07:50",
+      "original": "115 年12 月3 日（四）07:50-17:30",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://sci-me.k12ea.gov.tw/PortalFile/ContestData/11840/7dccca0b-7a86-4381-aa3b-5d12dc5eaa4a.pdf",
+          "quote": "115 年12 月3 日（四） 學術科競賽（詳見競賽活動日程表）"
+        },
+        {
+          "url": "https://sci-me.k12ea.gov.tw/PortalFile/ContestData/11627/923042bf-e018-4232-b0c1-cd6217e0b961.pdf",
+          "quote": "115 年12 月3 日（四）07:50-17:30"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "頒獎典禮",
+      "date": "2026-12-04",
+      "time": "08:30",
+      "original": "115 年12 月4 日（五）08：30 起",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://sci-me.k12ea.gov.tw/PortalFile/ContestData/11627/923042bf-e018-4232-b0c1-cd6217e0b961.pdf",
+          "quote": "頒獎日期：115 年12 月4 日（五）08：30 起。"
+        },
+        {
+          "url": "https://sci-me.k12ea.gov.tw/Contest/ContestView?cont_id=11840",
+          "quote": "（三）12月4日（五）進行頒獎典禮。"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "公告各職種競賽成績（頒獎當日十二時前）",
+      "date": "2026-12-04",
+      "time": "12:00",
+      "original": "頒獎當日十二時前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://sci-me.k12ea.gov.tw/PortalFile/ContestData/11627/923042bf-e018-4232-b0c1-cd6217e0b961.pdf",
+          "quote": "成績公告：執行學校應於頒獎當日十二時前公告各競賽職種之競賽成績；"
+        },
+        {
+          "url": "https://sci-me.k12ea.gov.tw/PortalFile/ContestData/11627/923042bf-e018-4232-b0c1-cd6217e0b961.pdf",
+          "quote": "頒獎日期：115 年12 月4 日（五）08：30 起。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "學科競賽",
+      "what": "各職種學科測驗，佔總成績 20% 以下",
+      "how": "onsite"
+    },
+    {
+      "stage": "術科競賽",
+      "what": "各職種實作測驗，例如網頁設計 4 小時、程式設計 3 小時、數位動畫 5 小時；佔總成績 80% 以上",
+      "how": "onsite"
+    },
+    {
+      "stage": "術科第一階段（平面設計、職場英文）",
+      "what": "平面設計：視覺設計手繪表現 2 小時；職場英文：英文寫作 40 分鐘",
+      "how": "onsite"
+    },
+    {
+      "stage": "術科第二階段（平面設計、職場英文入圍者）",
+      "what": "平面設計：數位設計 4 小時；職場英文：職場英語簡報製作及口頭簡報 8 小時",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "臺北市立士林高級商業職業學校",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://sci-me.k12ea.gov.tw/Contest/ContestView?cont_id=11840",
+        "quote": "三、競賽場地皆設置於臺北市立士林高級商業職業學校"
+      },
+      {
+        "url": "https://sci-me.k12ea.gov.tw/Contest/ContestView?cont_id=11840",
+        "quote": "（二）12月2日（星期三）至12月3日（星期四）進行各職種術科、學科競賽，詳細賽程請參閱附件1競賽活動日程及時間表。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "required",
+    "amount": "報名費每一職種每人新臺幣 1,700 元",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://sci-me.k12ea.gov.tw/PortalFile/ContestData/11627/923042bf-e018-4232-b0c1-cd6217e0b961.pdf",
+        "quote": "應繳交費用：報名費。每一職種每人新臺幣1,700 元。"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "九個職種共設金手獎 72 名、優勝 148 名，由大會頒獎；各職種金手獎前五名另得點將家金手獎獎金（選手 70%、指導老師 30%）。優勝學生可依技藝技能優良學生申請甄審及保送入學大專校院；各職種前三名可申請相關職類丙級或單一級技能檢定免術科測試。參賽學生均核發參賽證明。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://sci-me.k12ea.gov.tw/PortalFile/ContestData/11847/a6cae272-b528-4bb5-9858-4b09b657da66.pdf",
+        "quote": "角逐72 座金手獎以及148 座優勝獎項"
+      },
+      {
+        "url": "https://sci-me.k12ea.gov.tw/Contest/ContestView?cont_id=11840",
+        "quote": "五、各職種金手獎前五名將獲得「點將家金手獎獎金（選手70%、指導老師30%）」。"
+      },
+      {
+        "url": "https://sci-me.k12ea.gov.tw/PortalFile/ContestData/11627/923042bf-e018-4232-b0c1-cd6217e0b961.pdf",
+        "quote": "優勝學生除由大會頒獎外，並可依技藝技能優良學生申請甄審及保送入學就讀大專校院；"
+      },
+      {
+        "url": "https://sci-me.k12ea.gov.tw/PortalFile/ContestData/11627/923042bf-e018-4232-b0c1-cd6217e0b961.pdf",
+        "quote": "各競賽職種獲獎前三名者，若符合勞動部「技術士技能檢定及發證辦法」規定，自獲獎日起三年內，參加相關職類丙級或單一級技能檢定者，可申請免術科測試。"
+      },
+      {
+        "url": "https://sci-me.k12ea.gov.tw/PortalFile/ContestData/11627/923042bf-e018-4232-b0c1-cd6217e0b961.pdf",
+        "quote": "凡參賽學生核發參賽證明，指導教師頒發指導證書。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://sci-me.k12ea.gov.tw/PortalFile/ContestData/11627/923042bf-e018-4232-b0c1-cd6217e0b961.pdf"
+      },
+      {
+        "url": "https://sci-me.k12ea.gov.tw/PortalFile/ContestData/11847/a6cae272-b528-4bb5-9858-4b09b657da66.pdf"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://sci-me.k12ea.gov.tw/Contest/ContestView?cont_id=11627",
+    "rules": [
+      {
+        "title": "實施計畫",
+        "url": "https://sci-me.k12ea.gov.tw/PortalFile/ContestData/11627/923042bf-e018-4232-b0c1-cd6217e0b961.pdf"
+      },
+      {
+        "title": "競賽手冊",
+        "url": "https://sci-me.k12ea.gov.tw/PortalFile/ContestData/11847/a6cae272-b528-4bb5-9858-4b09b657da66.pdf"
+      },
+      {
+        "title": "競賽日程及相關流程",
+        "url": "https://sci-me.k12ea.gov.tw/PortalFile/ContestData/11840/7dccca0b-7a86-4381-aa3b-5d12dc5eaa4a.pdf"
+      }
+    ],
+    "registration": "https://signupsci-me.k12ea.gov.tw/Login/Index"
+  },
+  "found_via": [
+    {
+      "name": "全國技藝競賽資訊平臺 商業類",
+      "url": "https://sci-me.k12ea.gov.tw/Contest/ContestView?cont_id=11847"
+    },
+    {
+      "name": "全國技藝競賽資訊平臺 商業類",
+      "url": "https://sci-me.k12ea.gov.tw/Contest/ContestView?cont_id=11844"
+    },
+    {
+      "name": "全國技藝競賽資訊平臺 商業類",
+      "url": "https://sci-me.k12ea.gov.tw/Contest/ContestView?cont_id=11840"
+    },
+    {
+      "name": "三重商工 學生事務公告",
+      "url": "https://www.scvs.ntpc.edu.tw/p/406-1000-15897,r28.php"
+    },
+    {
+      "name": "全國技藝競賽資訊平臺 商業類",
+      "url": "https://sci-me.k12ea.gov.tw/Contest/ContestView?cont_id=11701"
+    },
+    {
+      "name": "全國技藝競賽資訊平臺 商業類",
+      "url": "https://sci-me.k12ea.gov.tw/Contest/ContestView?cont_id=11654"
+    },
+    {
+      "name": "全國技藝競賽資訊平臺 商業類",
+      "url": "https://sci-me.k12ea.gov.tw/Contest/ContestView?cont_id=11644"
+    },
+    {
+      "name": "全國技藝競賽資訊平臺 商業類",
+      "url": "https://sci-me.k12ea.gov.tw/Contest/ContestView?cont_id=11645"
+    },
+    {
+      "name": "全國技藝競賽資訊平臺 商業類",
+      "url": "https://sci-me.k12ea.gov.tw/Contest/ContestView?cont_id=11631"
+    },
+    {
+      "name": "全國技藝競賽資訊平臺 商業類",
+      "url": "https://sci-me.k12ea.gov.tw/Contest/ContestView?cont_id=11627"
+    },
+    {
+      "name": "全國技藝競賽資訊平臺 商業類",
+      "url": "https://sci-me.k12ea.gov.tw/Contest/ContestView?cont_id=11624"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-24",
+    "method": "single",
+    "unread": [],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-24"
+}

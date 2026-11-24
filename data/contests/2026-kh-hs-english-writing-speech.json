@@ -1,0 +1,138 @@
+{
+  "schema": 1,
+  "id": "2026-kh-hs-english-writing-speech",
+  "title": "115學年度高雄市高中英文作文暨演講比賽",
+  "edition": "115 學年度",
+  "summary": "高雄市高級中等學校學生參加英文作文或英語演講比賽。",
+  "organizers": [
+    {
+      "name": "高雄市立左營高級中學",
+      "role": "承辦"
+    }
+  ],
+  "categories": [
+    "外語"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職"
+    ],
+    "division": "hs_only",
+    "regions": [
+      "高雄市"
+    ],
+    "nomination": "unknown",
+    "team_min": null,
+    "team_max": null,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/1YP0kXBNRe2by2ngbHp8keYbzaz4aqgFD/view?usp=drive_link",
+        "quote": "115 學年度高雄市高級中等學校學生英語演講比賽注意事項"
+      },
+      {
+        "url": "https://www.ksvs.kh.edu.tw/v4/cpsub/article.php?id=12713",
+        "quote": "二、該校訂於115年11月20日（星期五）辦理旨揭競賽，請各校惠予參賽學生及帶隊、指導教師公（差）假登記。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "final_event",
+      "label": "英文作文及演講比賽",
+      "date": "2026-11-20",
+      "time": null,
+      "original": "115年11月20日（星期五）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.ksvs.kh.edu.tw/v4/cpsub/article.php?id=12713",
+          "quote": "二、該校訂於115年11月20日（星期五）辦理旨揭競賽，請各校惠予參賽學生及帶隊、指導教師公（差）假登記。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "英語演講",
+      "what": "指定題演講 3 分鐘與看圖題演講 2 分鐘，各有 5 分鐘準備；上台不得攜帶字典或參考資料",
+      "how": "onsite"
+    },
+    {
+      "stage": "英文作文",
+      "what": "於左營高中圖書館地下 1 樓閱覽室撰寫英文作文",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "高雄市立左營高級中學圖書館",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.ksvs.kh.edu.tw/v4/cpsub/article.php?id=12713",
+        "quote": "三、比賽當日上午7時50分至8時10分於該校圖書館1樓大廳報到，參賽學生應攜帶參賽證及附照片之身分證明文件，親自辦理報到，並依現場引導參加開幕式及競賽。"
+      },
+      {
+        "url": "https://www.ksvs.kh.edu.tw/v4/cpsub/article.php?id=12713",
+        "quote": "六、比賽地點為高雄市立左營高級中學"
+      }
+    ]
+  },
+  "fee": {
+    "value": "unknown",
+    "amount": null,
+    "basis": "unread",
+    "evidence": []
+  },
+  "prizes": {
+    "text": null,
+    "basis": "unread",
+    "evidence": []
+  },
+  "ai_policy": {
+    "value": "unknown",
+    "basis": "unread",
+    "evidence": []
+  },
+  "links": {
+    "official": "https://speech.tyhs.kh.edu.tw/action/75",
+    "rules": [
+      {
+        "title": "演講及作文比賽流程圖",
+        "url": "https://drive.google.com/file/d/1CGMDQBQmiRwvSbLLL6j07m7aJxZsrfNn/view?usp=drive_link"
+      },
+      {
+        "title": "英語演講比賽注意事項",
+        "url": "https://drive.google.com/file/d/1YP0kXBNRe2by2ngbHp8keYbzaz4aqgFD/view?usp=drive_link"
+      },
+      {
+        "title": "會場指引",
+        "url": "https://drive.google.com/file/d/1u065Bl8rhyJ1je0_4aA-WJVezWOAD9U8/view?usp=drive_link"
+      }
+    ],
+    "registration": null
+  },
+  "found_via": [
+    {
+      "name": "高雄高工 競賽公告",
+      "url": "https://www.ksvs.kh.edu.tw/v4/cpsub/article.php?id=12713"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-24",
+    "method": "single",
+    "unread": [
+      "競賽實施計畫",
+      "競賽網站「賽前叮嚀」"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-24"
+}

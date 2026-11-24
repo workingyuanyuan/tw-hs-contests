@@ -1,0 +1,282 @@
+{
+  "schema": 1,
+  "id": "2026-miaoli-student-music-prelim",
+  "title": "115學年度全國學生音樂比賽暨師生本土語及新住民語歌謠比賽苗栗縣初賽",
+  "edition": "115 學年度",
+  "summary": "苗栗縣各級學校學生與教師以器樂、歌唱及本土語、新住民語歌謠，參加個人或團體現場演出比賽。",
+  "organizers": [
+    {
+      "name": "苗栗縣政府",
+      "role": "主辦"
+    },
+    {
+      "name": "苗栗縣竹南國民小學",
+      "role": "承辦"
+    },
+    {
+      "name": "苗北藝文中心",
+      "role": "協辦"
+    },
+    {
+      "name": "教育部",
+      "role": "指導"
+    },
+    {
+      "name": "國立臺灣藝術教育館",
+      "role": "指導"
+    }
+  ],
+  "categories": [
+    "音樂"
+  ],
+  "eligibility": {
+    "levels": [
+      "國小",
+      "國中",
+      "高中",
+      "高職",
+      "大專"
+    ],
+    "division": "separate",
+    "regions": [
+      "苗栗縣"
+    ],
+    "nomination": "school",
+    "team_min": null,
+    "team_max": null,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/news/attached/26396/1150007116_2.pdf",
+        "quote": "一、除大專組可自行報名外，其他各組請由就讀學校彙整報名資料自115 年9 月9 日至9 月21 日止"
+      },
+      {
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/news/attached/26396/1150007116_2.pdf",
+        "quote": "並列印1 份紙本報名表經就讀學校加蓋印信"
+      },
+      {
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/news/attached/26396/1150007116_2.pdf",
+        "quote": "4. 高中職以下學生於111 及113 學年度均獲得全國學生音樂比賽個人項目同類組 決賽第一名者，得逕行依規定參加高中職以下學段之決賽。"
+      },
+      {
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/news/attached/26396/1150007116_2.pdf",
+        "quote": "比賽 組別 國小 國中"
+      },
+      {
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/news/attached/26396/1150007116_2.pdf",
+        "quote": "以戶籍為依據（須設籍半年）報名參加戶籍所在地之縣市初賽"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "線上報名截止",
+      "date": "2026-09-21",
+      "time": null,
+      "original": "自115年9月9日至9月21日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=27908",
+          "quote": "１、線上報名：自115年9月9日至9月21日請逕至本府教育"
+        }
+      ]
+    },
+    {
+      "kind": "registration_deadline",
+      "label": "加蓋學校印信之紙本報名表送達竹南國民小學截止",
+      "date": "2026-09-23",
+      "time": "17:00",
+      "original": "115年9月23日(星期三)17時前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=27908",
+          "quote": "紙本報名表請加蓋學校印信，於115年9 月23日(星期三)17時前寄(送)達竹南國民小學輔導室，完成報名手續"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "領隊會議（抽籤排定出場順序及個人組指定曲）",
+      "date": "2026-10-07",
+      "time": "14:00",
+      "original": "115 年10 月7 日（星期三）下午2 時",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlaivs.mlc.edu.tw/ischool/news/attached/26396/1150007116_2.pdf",
+          "quote": "一、時間：115 年10 月7 日（星期三）下午2 時"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "初賽比賽首日（苗北藝文中心）",
+      "date": "2026-11-17",
+      "time": null,
+      "original": "自115 年11 月17 日(星期二)至11 月22 日(星期日)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlaivs.mlc.edu.tw/ischool/news/attached/26396/1150007116_2.pdf",
+          "quote": "肆、 比賽日期：自115 年11 月17 日(星期二)至11 月22 日(星期日) ，共計6 日。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "初賽比賽末日（苗北藝文中心）",
+      "date": "2026-11-22",
+      "time": null,
+      "original": "自115 年11 月17 日(星期二)至11 月22 日(星期日)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlaivs.mlc.edu.tw/ischool/news/attached/26396/1150007116_2.pdf",
+          "quote": "肆、 比賽日期：自115 年11 月17 日(星期二)至11 月22 日(星期日) ，共計6 日。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "代表本縣參加全國決賽者紙本報名表送教育處截止",
+      "date": "2026-12-01",
+      "time": null,
+      "original": "115年12月1日(星期二)前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=27908",
+          "quote": "學校印信，於115年12月1日(星期二)前逕送本府教育處社"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "免初賽逕行參加決賽者向全國學生音樂比賽委員會報名截止",
+      "date": "2026-12-25",
+      "time": null,
+      "original": "115 年12 月25 日(五)前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlaivs.mlc.edu.tw/ischool/news/attached/26396/1150007116_2.pdf",
+          "quote": "(二)以上逕行參加決賽者，請於決賽報名截止期限115 年12 月25 日(五)前，逕向"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名",
+      "what": "線上填寫報名資料",
+      "how": "online"
+    },
+    {
+      "stage": "報名",
+      "what": "加蓋學校印信的紙本報名表",
+      "how": "mail"
+    },
+    {
+      "stage": "初賽",
+      "what": "個人組演奏（唱）指定曲及自選曲各一首；團體項目依全國比賽實施要點演出",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "苗北藝文中心 (苗栗縣竹南鎮公園路206 號)",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/news/attached/26396/1150007116_2.pdf",
+        "quote": "伍、 比賽地點：苗北藝文中心 (苗栗縣竹南鎮公園路206 號)。"
+      },
+      {
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/news/attached/26396/1150007116_2.pdf",
+        "quote": "比賽時，唱名3 次(每次間隔約10 秒)不到者，以棄權"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=27908"
+      },
+      {
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/news/attached/26396/1150007116_2.pdf"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "獲獎者頒發獎狀，分特優、優等、甲等；最優第一名（甲等以上）代表苗栗縣參加全國決賽。團體項目不發參賽學生個人獎狀，由各校自行開立得獎證明。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/news/attached/26396/1150007116_2.pdf",
+        "quote": "一、比賽獎勵：獲獎者均頒發獎狀乙禎。"
+      },
+      {
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/news/attached/26396/1150007116_2.pdf",
+        "quote": "對象 特優 優等 甲等"
+      },
+      {
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/news/attached/26396/1150007116_2.pdf",
+        "quote": "※最優第一名（甲等以上），代表本縣參加全國決賽。"
+      },
+      {
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/news/attached/26396/1150007116_2.pdf",
+        "quote": "另團體項目均不發給參賽學生個人奬狀 或證明，其得獎證明由各校依本權責依實際參賽學生名單（依據比賽當日之參賽者 名冊為準）自行開立。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "unknown",
+    "basis": "unread",
+    "evidence": []
+  },
+  "links": {
+    "official": "https://music.mlc.edu.tw/SEH/",
+    "rules": [
+      {
+        "title": "苗栗縣初賽實施計畫（PDF）",
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/news/attached/26396/1150007116_2.pdf"
+      }
+    ],
+    "registration": "https://music.mlc.edu.tw/SEH/"
+  },
+  "found_via": [
+    {
+      "name": "苗栗農工 處室公告",
+      "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26396"
+    },
+    {
+      "name": "苗栗高中 學生校外營隊、活動、比賽",
+      "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=27908"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-24",
+    "method": "single",
+    "unread": [
+      "115學年度全國學生音樂比賽實施要點",
+      "115學年度全國師生本土語及新住民語歌謠比賽實施要點",
+      "指定曲題庫"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-24",
+  "level": "checked",
+  "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-miaoli-student-music-prelim/",
+  "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-miaoli-student-music-prelim.md"
+}

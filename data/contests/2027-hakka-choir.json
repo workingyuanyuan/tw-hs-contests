@@ -1,0 +1,288 @@
+{
+  "schema": 1,
+  "id": "2027-hakka-choir",
+  "title": "2027客家合唱比賽",
+  "edition": "2027",
+  "summary": "16 至 60 人的合唱團以客家歌曲參賽，演唱指定曲與自選曲各一首。",
+  "organizers": [
+    {
+      "name": "客家委員會",
+      "role": "主辦"
+    },
+    {
+      "name": "好痛音樂事業有限公司",
+      "role": "承辦"
+    }
+  ],
+  "categories": [
+    "音樂"
+  ],
+  "eligibility": {
+    "levels": [
+      "國小",
+      "國中",
+      "高中",
+      "高職",
+      "大專",
+      "社會人士"
+    ],
+    "division": "separate",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 16,
+    "team_max": 60,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.bigsong.com.tw/Hakkachoir",
+        "quote": "兒少組：國中以下（含國中）。"
+      },
+      {
+        "url": "https://www.bigsong.com.tw/Hakkachoir",
+        "quote": "青少組：國中以上（含國中）、高中(職)含以下之在學青年。"
+      },
+      {
+        "url": "https://www.bigsong.com.tw/Hakkachoir",
+        "quote": "社會組：18歲以上（含18歲）。"
+      },
+      {
+        "url": "https://www.bigsong.com.tw/Hakkachoir",
+        "quote": "樂線組：55歲以上（含55歲）。"
+      },
+      {
+        "url": "https://www.bigsong.com.tw/Hakkachoir",
+        "quote": "一、一般合唱類、傳統山歌合唱類每隊可設指揮1人及伴奏若干人，無伴奏亦可，各隊人數（不含指揮、伴奏）至少16人，至多不超過60人，並得增報4人為候補團員。"
+      },
+      {
+        "url": "https://www.bigsong.com.tw/Hakkachoir",
+        "quote": "比賽一律採網路報名，並以郵寄方式繳交書面資料，供主辦單位審查"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "線上報名截止",
+      "date": "2027-04-16",
+      "time": "23:59",
+      "original": "116年4月16日（星期一）23時59分",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.bigsong.com.tw/Hakkachoir",
+          "quote": "即日起至116年4月16日（星期一）23時59分止"
+        },
+        {
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/11/A09000000E_1150117947_senddoc1_Attach1.pdf",
+          "quote": "期間，合唱類至116年4月16日(星期五)止"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "書面報名資料郵寄截止",
+      "date": "2027-04-21",
+      "time": null,
+      "original": "116年4月21日（星期二）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.bigsong.com.tw/Hakkachoir",
+          "quote": "比賽一律採網路報名，並於 116年4月21日（星期二）止前以郵寄方式繳交書面資料，供主辦單位審查"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "出場次序抽籤結果上網公告",
+      "date": "2027-05-10",
+      "time": null,
+      "original": "116年5月10日(星期一)前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.bigsong.com.tw/Hakkachoir",
+          "quote": "預定於116年5月10日(星期一)前以錄影抽籤方式排定出場次序並上 網公告"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "一般合唱類、傳統山歌合唱類比賽暨頒獎典禮（首日）",
+      "date": "2027-05-22",
+      "time": null,
+      "original": "116年5月22日（星期六）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.bigsong.com.tw/Hakkachoir",
+          "quote": "116年5月22日（星期六）至23日（星期日）"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "一般合唱類、傳統山歌合唱類比賽暨頒獎典禮（次日）",
+      "date": "2027-05-23",
+      "time": null,
+      "original": "5月23日（星期日）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.bigsong.com.tw/Hakkachoir",
+          "quote": "116年5月22日（星期六）至23日（星期日）"
+        },
+        {
+          "url": "https://www.jhsh.ntpc.edu.tw/p/406-1000-21395,r51.php?Lang=zh-tw",
+          "quote": "訂於116年5月22日（星期六）至5月23日（星期日）假苗栗縣苗北藝文中心演藝廳辦理「2027客家合唱比賽」"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名",
+      "what": "線上報名表，填指定曲、自選曲資料與指導老師名單",
+      "how": "online"
+    },
+    {
+      "stage": "報名",
+      "what": "報名切結書、參賽人員清冊、授權同意書與自選曲曲譜 7 份",
+      "how": "mail"
+    },
+    {
+      "stage": "報名",
+      "what": "參賽人員清冊 Word 檔、200 字內團隊簡介、團隊照片 5 張；宣傳影片可選",
+      "how": "online"
+    },
+    {
+      "stage": "比賽",
+      "what": "背譜演唱，演出以 10 分鐘內為原則，不得使用電子擴音",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "苗栗縣苗北藝文中心演藝廳",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.bigsong.com.tw/Hakkachoir",
+        "quote": "參賽團隊應於比賽大會司儀唱名時立即進入舞臺開始表演，若唱名3次未進場演唱者，視同棄權。"
+      },
+      {
+        "url": "https://www.bigsong.com.tw/Hakkachoir",
+        "quote": "苗栗縣苗北藝文中心 演藝廳（苗栗縣竹南鎮公園路206號）"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.bigsong.com.tw/Hakkachoir"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/11/A09000000E_1150117947_senddoc1_Attach1.pdf"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "各類（組）第一名 1 隊獎座、獎狀及獎金 10 萬元，第二名 6 萬元，第三名 4 萬元；佳作一般合唱類每組 3 隊、傳統山歌合唱類 1 隊，各獎狀及 2 萬元；特別獎若干名，各獎狀及 1 萬元（皆含稅）。一般合唱類兒少組、青少組前 3 名於 2028 年底前參加指標性國際合唱大賽完賽並唱客家歌曲，得申請最高 30 萬元補助。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.bigsong.com.tw/Hakkachoir",
+        "quote": "第一名：每類(組)1隊，各頒給獎座1座及獎狀1幀，獎金新臺幣10萬元整（含稅）。"
+      },
+      {
+        "url": "https://www.bigsong.com.tw/Hakkachoir",
+        "quote": "第二名：每類(組)1隊，各頒給獎座1座及獎狀1幀，獎金新臺幣6萬元整（含稅）。"
+      },
+      {
+        "url": "https://www.bigsong.com.tw/Hakkachoir",
+        "quote": "第三名：每類(組)1隊，各頒給獎座1座及獎狀1幀，獎金新臺幣4萬元整（含稅）。"
+      },
+      {
+        "url": "https://www.bigsong.com.tw/Hakkachoir",
+        "quote": "一般合唱類每組3隊、傳統山歌合唱類1隊，各頒給獎狀1幀，獎金新臺幣2萬元整（含稅）"
+      },
+      {
+        "url": "https://www.bigsong.com.tw/Hakkachoir",
+        "quote": "（評審得依現場表演情境酌情頒發）：若干名，獎勵不限個人或團隊，各頒給獎狀1幀，獎金新臺幣1萬元整(含稅)。"
+      },
+      {
+        "url": "https://www.bigsong.com.tw/Hakkachoir",
+        "quote": "本屆賽事獲得一般合唱類兒少組、青少組前3名之優勝隊伍，如於2028年底前參加具指標性之國際合唱大賽完賽，並以客家歌曲演唱，得向本會申請補助相關經費，補助金額以新臺幣30萬元為上限。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.bigsong.com.tw/Hakkachoir"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/11/A09000000E_1150117947_senddoc1_Attach1.pdf"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://www.bigsong.com.tw/Hakkachoir",
+    "rules": [],
+    "registration": "https://forms.gle/jy3uyFjGxmFdhBWK7"
+  },
+  "found_via": [
+    {
+      "name": "教育部國民及學前教育署 公文公告平台",
+      "url": "https://www.k12ea.gov.tw/Tw/Annc/Detail?filter=AC097895-3399-4890-8891-FC005A77CCB3&id=be81dfe9-9d24-4c25-ab16-6d16edf9eb15"
+    },
+    {
+      "name": "金門高中 最新消息",
+      "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=22770"
+    },
+    {
+      "name": "斗六高中 營隊研習競賽",
+      "url": "https://www.tlsh.ylc.edu.tw/2026/11/20/69341/"
+    },
+    {
+      "name": "錦和高中 學生競賽",
+      "url": "https://www.jhsh.ntpc.edu.tw/p/406-1000-21395,r51.php?Lang=zh-tw"
+    },
+    {
+      "name": "高師大附中 校外競賽與活動",
+      "url": "https://www.nknush.kh.edu.tw/announcement/23044/%e5%85%ac%e5%91%8a%e8%a8%93%e8%82%b2%e7%b5%84%e5%ae%a2%e5%ae%b6%e5%a7%94%e5%93%a1%e6%9c%83%e8%be%a6%e7%90%86%e4%b9%8b%e3%80%8c2027%e5%ae%a2%e5%ae%b6%e5%90%88%e5%94%b1%e6%af%94%e8%b3%bd%e3%80%8d/"
+    },
+    {
+      "name": "臺中一中 校外活動",
+      "url": "https://tcfsh.tc.edu.tw/p/406-1076-650855,r4385.php"
+    },
+    {
+      "name": "南投高中 最新消息",
+      "url": "https://www.ntsh.ntct.edu.tw/ischool/public/news_view/show.php?nid=23403"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-24",
+    "method": "dual",
+    "unread": [
+      "活動簡章",
+      "附件一指定曲列表"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5",
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-24",
+  "conflict": "活動網頁寫報名截止日 116年4月16日為星期一，客家委員會來函寫同日為星期五。"
+}

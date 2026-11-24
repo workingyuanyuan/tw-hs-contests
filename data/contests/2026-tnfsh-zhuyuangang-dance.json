@@ -1,0 +1,312 @@
+{
+  "schema": 1,
+  "id": "2026-tnfsh-zhuyuangang-dance",
+  "title": "第20屆竹園岡全國高中職學生流舞大賽",
+  "edition": "第 20 屆",
+  "summary": "高中職及五專一至三年級學生以社團組 3 至 12 人舞團，參加熱舞或 K-POP COVER 舞蹈比賽。",
+  "organizers": [
+    {
+      "name": "國立臺南第一高級中學韓舞社",
+      "role": "主辦"
+    },
+    {
+      "name": "國立臺南第一高級中學熱舞社",
+      "role": "主辦"
+    },
+    {
+      "name": "國立臺南第一高級中學學務處",
+      "role": "協辦"
+    },
+    {
+      "name": "國立臺南第一高級中學校友總會",
+      "role": "協辦"
+    },
+    {
+      "name": "國立臺南第一高級中學家長會",
+      "role": "協辦"
+    }
+  ],
+  "categories": [
+    "表演藝術"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職",
+      "五專"
+    ],
+    "division": "hs_only",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 3,
+    "team_max": 12,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/11/第20屆竹園岡全國高中職學生流舞大賽比賽辦法.pdf",
+        "quote": "(一) 全國公、私立高中職115 學年度在學學生。"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/11/第20屆竹園岡全國高中職學生流舞大賽比賽辦法.pdf",
+        "quote": "(二) 全國公、私立技專院校五專學制一至三年級115 學年度在學學生。"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/11/第20屆竹園岡全國高中職學生流舞大賽比賽辦法.pdf",
+        "quote": "1. 以社團為單位報名。單一團隊成員不得跨校組成，每隊上場比賽人數3 至12 人。"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/11/第20屆竹園岡全國高中職學生流舞大賽比賽辦法.pdf",
+        "quote": "2. 每校每組僅能報名1 隊。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "other",
+      "label": "開始報名",
+      "date": "2026-10-17",
+      "time": "08:00",
+      "original": "115 年10 月17 日（星期六）8:00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/11/第20屆竹園岡全國高中職學生流舞大賽比賽辦法.pdf",
+          "quote": "1. 報名時間：自 115 年10 月17 日（星期六）8:00 起至115 年11 月7 日（星期六）18:00"
+        }
+      ]
+    },
+    {
+      "kind": "registration_deadline",
+      "label": "網路報名截止",
+      "date": "2026-11-07",
+      "time": "18:00",
+      "original": "115 年11 月7 日（星期六）18:00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/11/第20屆竹園岡全國高中職學生流舞大賽比賽辦法.pdf",
+          "quote": "1. 報名時間：自 115 年10 月17 日（星期六）8:00 起至115 年11 月7 日（星期六）18:00"
+        },
+        {
+          "url": "https://www.tngs.tn.edu.tw/2026/11/05/%e8%87%ba%e5%8d%97%e4%b8%80%e4%b8%ad%e7%ac%ac20%e5%b1%86%e7%ab%b9%e5%9c%92%e5%b2%a1%e5%85%a8%e5%9c%8b%e9%ab%98%e4%b8%ad%e8%81%b7%e5%ad%b8%e7%94%9f%e6%b5%81%e8%88%9e%e5%a4%a7%e8%b3%bd%e5%85%ac%e5%91%8a/",
+          "quote": "報名時間至115年11月7日(星期六)晚間6時止（依報名系統時間戳記為憑）。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "臺南市學校報到截止",
+      "date": "2027-02-14",
+      "time": "08:30",
+      "original": "116 年2 月14 日（星期日）上午8:00 至8:30",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/11/第20屆竹園岡全國高中職學生流舞大賽比賽辦法.pdf",
+          "quote": "1. 臺南市學校：116 年2 月14 日（星期日）上午8:00 至8:30 報到。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "臺中（含臺中）以南學校報到截止",
+      "date": "2027-02-14",
+      "time": "09:00",
+      "original": "116 年2 月14 日（星期日）9:00 前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/11/第20屆竹園岡全國高中職學生流舞大賽比賽辦法.pdf",
+          "quote": "2. 臺中（含臺中）以南學校：116 年2 月14 日（星期日）9:00 前報到。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "臺中以北、東部縣市學校報到截止",
+      "date": "2027-02-14",
+      "time": "10:30",
+      "original": "116 年2 月14 日（星期日）10:30 前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/11/第20屆竹園岡全國高中職學生流舞大賽比賽辦法.pdf",
+          "quote": "3. 臺中以北、東部縣市學校：116 年2 月14 日（星期日）10:30 前報到。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "比賽（開幕典禮）",
+      "date": "2027-02-14",
+      "time": "13:30",
+      "original": "116年2月14日（星期日）下午1時30分",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/2026/11/05/%e8%87%ba%e5%8d%97%e4%b8%80%e4%b8%ad%e7%ac%ac20%e5%b1%86%e7%ab%b9%e5%9c%92%e5%b2%a1%e5%85%a8%e5%9c%8b%e9%ab%98%e4%b8%ad%e8%81%b7%e5%ad%b8%e7%94%9f%e6%b5%81%e8%88%9e%e5%a4%a7%e8%b3%bd%e5%85%ac%e5%91%8a/",
+          "quote": "一、本校熱舞社、韓舞社主辦「第20屆竹園岡全國高中職學生流舞大賽」，將於116年2月14日（星期日）下午1時30分，於本校群英堂舉行。"
+        },
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/11/第20屆竹園岡全國高中職學生流舞大賽比賽辦法.pdf",
+          "quote": "7. 開幕典禮：擬訂於116 年2 月14 日（星期日）13:30，於國立臺南一中群英堂舉行"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "頒獎暨閉幕典禮（比賽結束後）",
+      "date": "2027-02-14",
+      "time": null,
+      "original": "116 年2 月14 日（星期日）晚上比賽結束後",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/11/第20屆竹園岡全國高中職學生流舞大賽比賽辦法.pdf",
+          "quote": "8. 頒獎暨閉幕典禮：擬訂於116 年2 月14 日（星期日）晚上比賽結束後，於國立臺南一中群英堂舉行，請各隊務必參加。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名",
+      "what": "團隊報名資料，並上傳家長同意書與參賽者名冊 PDF",
+      "how": "online"
+    },
+    {
+      "stage": "報名（K-POP COVER 組）",
+      "what": "所仿造舞台或練習室影片的連結",
+      "how": "online"
+    },
+    {
+      "stage": "報名或錄取後（熱舞組）",
+      "what": "比賽音檔",
+      "how": "online"
+    },
+    {
+      "stage": "比賽當天檢錄",
+      "what": "核章後的參賽者名冊（含學生證黏貼聯）紙本與學生證正本",
+      "how": "onsite"
+    },
+    {
+      "stage": "比賽",
+      "what": "2 分 30 秒至 5 分鐘的舞蹈演出",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "國立臺南第一高級中學群英堂（臺南市東區民族路一段１號）",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/11/第20屆竹園岡全國高中職學生流舞大賽比賽辦法.pdf",
+        "quote": "國立臺南第一高級中學群英堂（臺南市東區民族路一段１號）"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/11/第20屆竹園岡全國高中職學生流舞大賽比賽辦法.pdf",
+        "quote": "2. 比賽時間以2 分30 秒至5 分鐘為限，依動作或音樂起始計之"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/11/第20屆竹園岡全國高中職學生流舞大賽比賽辦法.pdf",
+        "quote": "4. 未於指定時間完成報到，視同棄權。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "required",
+    "amount": "每隊 2,500 元",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/11/第20屆竹園岡全國高中職學生流舞大賽比賽辦法.pdf",
+        "quote": "2. 報名費：每隊報名費2,500 元整。報名確認成功後，本校將統一通知付款方式，請各隊依通知付款。"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "熱舞組與 K-POP COVER 組分別計算，名額依參賽隊數而定（19 至 20 隊取前三名暨優等一名）：冠軍獎學金 8,000 元、亞軍 5,000 元、季軍 3,000 元、優等 2,000 元，皆附獎座及獎狀；兩組另各取最佳造型獎一名，頒獎座及獎狀。獎狀只發團體獎狀一紙。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/11/第20屆竹園岡全國高中職學生流舞大賽比賽辦法.pdf",
+        "quote": "(七) 獎勵方式（兩組分別計算）"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/11/第20屆竹園岡全國高中職學生流舞大賽比賽辦法.pdf",
+        "quote": "取前三名暨優等一名"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/11/第20屆竹園岡全國高中職學生流舞大賽比賽辦法.pdf",
+        "quote": "兩組競賽另各取「最佳造型獎」一名"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/11/第20屆竹園岡全國高中職學生流舞大賽比賽辦法.pdf",
+        "quote": "2. 頒獎內容【得獎之團體組僅給予團體獎狀一紙，由得獎學校自行製發個人獎狀】"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/11/第20屆竹園岡全國高中職學生流舞大賽比賽辦法.pdf",
+        "quote": "(1) 冠軍：每隊獎學金8,000 元整，頒發獎座乙座及獎狀乙紙。"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/11/第20屆竹園岡全國高中職學生流舞大賽比賽辦法.pdf",
+        "quote": "(2) 亞軍：每隊獎學金5,000 元整，頒發獎座乙座及獎狀乙紙。"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/11/第20屆竹園岡全國高中職學生流舞大賽比賽辦法.pdf",
+        "quote": "(3) 季軍：每隊獎學金3,000 元整，頒發獎座乙座及獎狀乙紙。"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/11/第20屆竹園岡全國高中職學生流舞大賽比賽辦法.pdf",
+        "quote": "(4) 優等：每隊獎學金2,000 元整，頒發獎座乙座及獎狀乙紙。"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/11/第20屆竹園岡全國高中職學生流舞大賽比賽辦法.pdf",
+        "quote": "(5) 最佳造型獎：每隊頒發獎座乙座及獎狀乙紙。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.tngs.tn.edu.tw/2026/11/05/%e8%87%ba%e5%8d%97%e4%b8%80%e4%b8%ad%e7%ac%ac20%e5%b1%86%e7%ab%b9%e5%9c%92%e5%b2%a1%e5%85%a8%e5%9c%8b%e9%ab%98%e4%b8%ad%e8%81%b7%e5%ad%b8%e7%94%9f%e6%b5%81%e8%88%9e%e5%a4%a7%e8%b3%bd%e5%85%ac%e5%91%8a/"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/11/第20屆竹園岡全國高中職學生流舞大賽比賽辦法.pdf"
+      }
+    ]
+  },
+  "links": {
+    "official": null,
+    "rules": [
+      {
+        "title": "第20屆竹園岡全國高中職學生流舞大賽比賽辦法",
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/11/第20屆竹園岡全國高中職學生流舞大賽比賽辦法.pdf"
+      }
+    ],
+    "registration": "https://forms.gle/W4ExzMUQXz4ndDP98"
+  },
+  "found_via": [
+    {
+      "name": "臺南女中 學生競賽",
+      "url": "https://www.tngs.tn.edu.tw/2026/11/05/%e8%87%ba%e5%8d%97%e4%b8%80%e4%b8%ad%e7%ac%ac20%e5%b1%86%e7%ab%b9%e5%9c%92%e5%b2%a1%e5%85%a8%e5%9c%8b%e9%ab%98%e4%b8%ad%e8%81%b7%e5%ad%b8%e7%94%9f%e6%b5%81%e8%88%9e%e5%a4%a7%e8%b3%bd%e5%85%ac%e5%91%8a/"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-24",
+    "method": "single",
+    "unread": [],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-24"
+}

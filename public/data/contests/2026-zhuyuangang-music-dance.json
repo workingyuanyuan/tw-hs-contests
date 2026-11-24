@@ -1,0 +1,320 @@
+{
+  "schema": 1,
+  "id": "2026-zhuyuangang-music-dance",
+  "title": "第23屆竹園岡全國高中職學生流音大賽及第20屆竹園岡全國高中職學生流舞大賽",
+  "edition": "流音大賽第 23 屆、流舞大賽第 20 屆",
+  "summary": "高中職與五專一至三年級學生以校組隊，到臺南一中比賽熱音、吉他樂團演出或 K-POP、熱舞表演。",
+  "organizers": [
+    {
+      "name": "國立臺南第一高級中學熱音社",
+      "role": "主辦"
+    },
+    {
+      "name": "國立臺南第一高級中學吉他社",
+      "role": "主辦"
+    },
+    {
+      "name": "國立臺南第一高級中學韓舞社",
+      "role": "主辦"
+    },
+    {
+      "name": "國立臺南第一高級中學熱舞社",
+      "role": "主辦"
+    },
+    {
+      "name": "國立臺南第一高級中學學務處",
+      "role": "協辦"
+    },
+    {
+      "name": "國立臺南第一高級中學校友總會",
+      "role": "協辦"
+    },
+    {
+      "name": "國立臺南第一高級中學家長會",
+      "role": "協辦"
+    }
+  ],
+  "categories": [
+    "音樂",
+    "表演藝術"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職",
+      "五專"
+    ],
+    "division": "hs_only",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 3,
+    "team_max": 12,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/11/第-23-屆竹園岡全國高中職學生流音大賽.pdf",
+        "quote": "全國公、私立高中職115 學年度在學學生。"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/11/第-23-屆竹園岡全國高中職學生流音大賽.pdf",
+        "quote": "全國公、私立技專院校五專學制一至三年級115 學年度在學學生。"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/11/第-23-屆竹園岡全國高中職學生流音大賽.pdf",
+        "quote": "以校為單位報名，單一團隊成員不得跨校組成，每團至少3 人，最多10 人。"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/11/第-20-屆竹園岡全國高中職學生流舞大賽.pdf",
+        "quote": "以社團為單位報名。單一團隊成員不得跨校組成，每隊上場比賽人數3 至12 人。"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/11/第-23-屆竹園岡全國高中職學生流音大賽.pdf",
+        "quote": "請至連結表單填寫團隊報名資料，其中家⾧同意書、參賽者名冊須以 PDF 格式上傳"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "流音大賽、流舞大賽網路報名截止",
+      "date": "2026-11-07",
+      "time": "18:00",
+      "original": "115 年11 月7 日（星期六）18:00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/11/第-23-屆竹園岡全國高中職學生流音大賽.pdf",
+          "quote": "報名時間：自 115 年10 月17 日（星期六）8:00 起至115 年11 月7 日（星期六）18:00 止（依報名系統時間戳記為憑）。"
+        },
+        {
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/11/第-20-屆竹園岡全國高中職學生流舞大賽.pdf",
+          "quote": "報名時間：自 115 年10 月17 日（星期六）8:00 起至115 年11 月7 日（星期六）18:00 止（依報名系統時間戳記為憑）。"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "流音大賽參賽隊伍填寫比賽歌曲表單截止",
+      "date": "2026-12-19",
+      "time": "18:00",
+      "original": "115 年12 月19 日（星期六）18:00 前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/11/第-23-屆竹園岡全國高中職學生流音大賽.pdf",
+          "quote": "比賽歌曲：報名且繳費成功後，請於115 年12 月19 日（星期六）18:00 前填寫活動粉專公告之表單"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "流音大賽比賽",
+      "date": "2027-02-13",
+      "time": "13:30",
+      "original": "116年2月13日（星期六）下午1時30分",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/11/「第23屆竹園岡全國高中職學生流音大賽」及「第20屆竹園岡全國高中職學生流舞大賽」.pdf",
+          "quote": "本校熱音社、吉他社主辦「第23屆竹園岡全國高中職學生流音大賽」，將於116年2月13日（星期六）下午1時30分，於本校群英堂舉行。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "流舞大賽比賽",
+      "date": "2027-02-14",
+      "time": "13:30",
+      "original": "116年2月14日（星期日）下午1時30分",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/11/「第23屆竹園岡全國高中職學生流音大賽」及「第20屆竹園岡全國高中職學生流舞大賽」.pdf",
+          "quote": "本校熱舞社、韓舞社主辦「第20屆竹園岡全國高中職學生流舞大賽」，將於116年2月14日（星期日）下午1時30分，於本校群英堂舉行。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名",
+      "what": "線上表單填寫團隊資料，上傳家長同意書與參賽者名冊 PDF；K-POP COVER 組另填仿造舞台或練習室影片連結",
+      "how": "online"
+    },
+    {
+      "stage": "流音大賽報名繳費後",
+      "what": "比賽歌曲表單（中外流行歌曲、校園民歌或創作曲自選一首）；自創歌曲另交詞曲資料及音檔",
+      "how": "online"
+    },
+    {
+      "stage": "流舞大賽熱舞組",
+      "what": "比賽音檔，可於報名時上傳或於錄取後依主辦方寄送的表單繳交",
+      "how": "online"
+    },
+    {
+      "stage": "比賽當天",
+      "what": "參賽者名冊（含學生證黏貼聯）紙本與學生證正本，檢錄後上台",
+      "how": "onsite"
+    },
+    {
+      "stage": "流音大賽",
+      "what": "樂團現場演出，準備及演唱不超過 10 分鐘",
+      "how": "onsite"
+    },
+    {
+      "stage": "流舞大賽",
+      "what": "現場舞蹈演出 2 分 30 秒至 5 分鐘",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "國立臺南第一高級中學群英堂（臺南市東區民族路一段１號）",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/11/第-23-屆竹園岡全國高中職學生流音大賽.pdf",
+        "quote": "國立臺南第一高級中學群英堂（臺南市東區民族路一段１號）"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/11/第-23-屆竹園岡全國高中職學生流音大賽.pdf",
+        "quote": "比賽當天，請攜帶【參賽者名冊（含學生證黏貼聯）】與學生證正本。"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/11/第-20-屆竹園岡全國高中職學生流舞大賽.pdf",
+        "quote": "國立臺南第一高級中學群英堂（臺南市東區民族路一段１號）"
+      }
+    ]
+  },
+  "fee": {
+    "value": "required",
+    "amount": "每隊 2,500 元",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/11/第-23-屆竹園岡全國高中職學生流音大賽.pdf",
+        "quote": "報名費：每隊報名費2,500 元整。"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/11/第-20-屆竹園岡全國高中職學生流舞大賽.pdf",
+        "quote": "報名費：每隊報名費2,500 元整。"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "流音大賽團體獎（熱音組、吉他組分組，任一組未達 8 組則合併，依隊數取名次）：冠軍獎學金 12,000 元、亞軍 7,000 元、季軍 4,000 元，各頒獎座及獎狀；個人獎 8 人，各頒獎狀及獎學金 1,000 元。流舞大賽（K-POP COVER 組、熱舞組分別計算，依隊數取名次）：冠軍獎學金 8,000 元、亞軍 5,000 元、季軍 3,000 元、優等 2,000 元，各頒獎座及獎狀；兩組各取最佳造型獎一名，頒獎座及獎狀。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/11/第-23-屆竹園岡全國高中職學生流音大賽.pdf",
+        "quote": "冠軍：每隊獎學金12,000 元整，頒發獎座乙座及獎狀乙紙。"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/11/第-23-屆竹園岡全國高中職學生流音大賽.pdf",
+        "quote": "亞軍：每隊獎學金 7,000 元整，頒發獎座乙座及獎狀乙紙。"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/11/第-23-屆竹園岡全國高中職學生流音大賽.pdf",
+        "quote": "季軍：每隊獎學金 4,000 元整，頒發獎座乙座及獎狀乙紙。"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/11/第-23-屆竹園岡全國高中職學生流音大賽.pdf",
+        "quote": "錄取8 人，每位頒發獎狀1 紙，獎學金1,000 元整。"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/11/第-20-屆竹園岡全國高中職學生流舞大賽.pdf",
+        "quote": "冠軍：每隊獎學金8,000 元整，頒發獎座乙座及獎狀乙紙。"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/11/第-20-屆竹園岡全國高中職學生流舞大賽.pdf",
+        "quote": "亞軍：每隊獎學金5,000 元整，頒發獎座乙座及獎狀乙紙。"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/11/第-20-屆竹園岡全國高中職學生流舞大賽.pdf",
+        "quote": "季軍：每隊獎學金3,000 元整，頒發獎座乙座及獎狀乙紙。"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/11/第-20-屆竹園岡全國高中職學生流舞大賽.pdf",
+        "quote": "優等：每隊獎學金2,000 元整，頒發獎座乙座及獎狀乙紙。"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/11/第-20-屆竹園岡全國高中職學生流舞大賽.pdf",
+        "quote": "最佳造型獎：每隊頒發獎座乙座及獎狀乙紙。"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/11/第-20-屆竹園岡全國高中職學生流舞大賽.pdf",
+        "quote": "兩組競賽另各取「最佳造型獎」一名"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/11/第-23-屆竹園岡全國高中職學生流音大賽.pdf"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/11/第-20-屆竹園岡全國高中職學生流舞大賽.pdf"
+      }
+    ]
+  },
+  "links": {
+    "official": null,
+    "rules": [
+      {
+        "title": "第23屆竹園岡全國高中職學生流音大賽比賽辦法（PDF）",
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/11/第-23-屆竹園岡全國高中職學生流音大賽.pdf"
+      },
+      {
+        "title": "第20屆竹園岡全國高中職學生流舞大賽比賽辦法（PDF）",
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/11/第-20-屆竹園岡全國高中職學生流舞大賽.pdf"
+      },
+      {
+        "title": "國立臺南第一高級中學 115年11月2日函（PDF）",
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/11/「第23屆竹園岡全國高中職學生流音大賽」及「第20屆竹園岡全國高中職學生流舞大賽」.pdf"
+      }
+    ],
+    "registration": "https://forms.gle/kPe9z8nvLgsQA1ib6"
+  },
+  "found_via": [
+    {
+      "name": "中山女高 最新消息",
+      "url": "https://www.csghs.tp.edu.tw/news/%e5%9c%8b%e7%ab%8b%e8%87%ba%e5%8d%97%e7%ac%ac%e4%b8%80%e9%ab%98%e7%b4%9a%e4%b8%ad%e5%ad%b8%e7%a4%be%e5%9c%98%e8%88%89%e8%be%a6%e3%80%8c%e7%ac%ac23%e5%b1%86%e7%ab%b9%e5%9c%92%e5%b2%a1%e5%85%a8%e5%9c%8b/"
+    },
+    {
+      "name": "成功高中 活動競賽",
+      "url": "https://www.cksh.tp.edu.tw/news/%e3%80%90%e8%bd%89%e7%9f%a5%e3%80%91-%e5%9c%8b%e7%ab%8b%e8%87%ba%e5%8d%97%e7%ac%ac%e4%b8%80%e9%ab%98%e7%b4%9a%e4%b8%ad%e5%ad%b8%e7%a4%be%e5%9c%98%e8%88%89%e8%be%a6%e3%80%8c%e7%ac%ac23%e5%b1%86/"
+    },
+    {
+      "name": "大同高中 學生競賽活動",
+      "url": "https://www.ttsh.tp.edu.tw/news/%e5%9c%8b%e7%ab%8b%e8%87%ba%e5%8d%97%e7%ac%ac%e4%b8%80%e9%ab%98%e7%b4%9a%e4%b8%ad%e5%ad%b8-%e8%88%89%e8%be%a6%e3%80%8c%e7%ac%ac23%e5%b1%86%e7%ab%b9%e5%9c%92%e5%b2%a1%e5%85%a8%e5%9c%8b%e9%ab%98/"
+    },
+    {
+      "name": "高師大附中 校外競賽與活動",
+      "url": "https://www.nknush.kh.edu.tw/announcement/22305/%e5%85%ac%e5%91%8a%e8%a8%93%e8%82%b2%e7%b5%84%e5%9c%8b%e7%ab%8b%e8%87%ba%e5%8d%97%e7%ac%ac%e4%b8%80%e9%ab%98%e7%b4%9a%e4%b8%ad%e5%ad%b8%e3%80%8c%e7%ac%ac23%e5%b1%86%e7%ab%b9%e5%9c%92%e5%b2%a1%e5%85%a8/"
+    },
+    {
+      "name": "成功高中 活動競賽",
+      "url": "https://www.cksh.tp.edu.tw/news/%e3%80%90%e8%bd%89%e7%9f%a5%e3%80%91-%e5%9c%8b%e7%ab%8b%e8%87%ba%e5%8d%97%e7%ac%ac%e4%b8%80%e9%ab%98%e7%b4%9a%e4%b8%ad%e5%ad%b8%e8%88%89%e8%be%a6%e3%80%8c%e7%ac%ac23%e5%b1%86%e7%ab%b9%e5%9c%92/"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-24",
+    "method": "single",
+    "unread": [],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-24",
+  "conflict": "成功高中 2026 年 8 月 18 日的轉知公告寫流音大賽 115年12月19日、流舞大賽 115年12月20日舉行，報名至 115年9月23日；國立臺南第一高級中學 115年11月2日函與兩份比賽辦法寫 116年2月13日、14日舉行，報名至 115年11月7日。",
+  "level": "checked",
+  "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-zhuyuangang-music-dance/",
+  "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-zhuyuangang-music-dance.md"
+}

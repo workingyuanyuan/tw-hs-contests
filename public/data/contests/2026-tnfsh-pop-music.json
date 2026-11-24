@@ -1,0 +1,281 @@
+{
+  "schema": 1,
+  "id": "2026-tnfsh-pop-music",
+  "title": "第23屆竹園岡全國高中職學生流音大賽",
+  "edition": "第 23 屆",
+  "summary": "全國高中職及五專一至三年級學生組 3 至 10 人樂團，自選一首流行歌曲或創作曲演出比賽。",
+  "organizers": [
+    {
+      "name": "國立臺南第一高級中學熱音社",
+      "role": "主辦"
+    },
+    {
+      "name": "國立臺南第一高級中學吉他社",
+      "role": "主辦"
+    },
+    {
+      "name": "國立臺南第一高級中學學務處",
+      "role": "協辦"
+    },
+    {
+      "name": "國立臺南第一高級中學校友總會",
+      "role": "協辦"
+    },
+    {
+      "name": "國立臺南第一高級中學家長會",
+      "role": "協辦"
+    }
+  ],
+  "categories": [
+    "音樂"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職",
+      "五專"
+    ],
+    "division": "hs_only",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "school",
+    "team_min": 3,
+    "team_max": 10,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/11/第23屆竹園岡全國高中職學生流音大賽比賽辦法.pdf",
+        "quote": "全國公、私立高中職115 學年度在學學生。"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/11/第23屆竹園岡全國高中職學生流音大賽比賽辦法.pdf",
+        "quote": "全國公、私立技專院校五專學制一至三年級115 學年度在學學生。"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/11/第23屆竹園岡全國高中職學生流音大賽比賽辦法.pdf",
+        "quote": "以校為單位報名，單一團隊成員不得跨校組成，每團至少3 人，最多10 人。"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/11/第23屆竹園岡全國高中職學生流音大賽比賽辦法.pdf",
+        "quote": "每校每組只能報名1 隊。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "網路報名截止",
+      "date": "2026-11-07",
+      "time": "18:00",
+      "original": "115 年11 月7 日（星期六）18:00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/11/第23屆竹園岡全國高中職學生流音大賽比賽辦法.pdf",
+          "quote": "報名時間：自 115 年10 月17 日（星期六）8:00 起至115 年11 月7 日（星期六）18:00"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "比賽歌曲表單填寫截止",
+      "date": "2026-12-19",
+      "time": "18:00",
+      "original": "115 年12 月19 日（星期六）18:00 前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/11/第23屆竹園岡全國高中職學生流音大賽比賽辦法.pdf",
+          "quote": "比賽歌曲：報名且繳費成功後，請於115 年12 月19 日（星期六）18:00 前填寫活動粉專公告之表單"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "臺南市學校報到",
+      "date": "2027-02-13",
+      "time": "08:00",
+      "original": "116 年2 月 13 日（星期六）上午8:00 至8:30",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/11/第23屆竹園岡全國高中職學生流音大賽比賽辦法.pdf",
+          "quote": "臺南市學校：116 年2 月 13 日（星期六）上午8:00 至8:30 報到。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "臺中（含臺中）以南學校報到截止",
+      "date": "2027-02-13",
+      "time": "09:00",
+      "original": "116 年2 月 13 日（星期六）9:00 前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/11/第23屆竹園岡全國高中職學生流音大賽比賽辦法.pdf",
+          "quote": "臺中（含臺中）以南學校：116 年2 月 13 日（星期六）9:00 前報到。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "臺中以北、東部縣市學校報到截止",
+      "date": "2027-02-13",
+      "time": "10:30",
+      "original": "116 年2 月 13 日（星期六）10:30 前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/11/第23屆竹園岡全國高中職學生流音大賽比賽辦法.pdf",
+          "quote": "臺中以北、東部縣市學校：116 年2 月 13 日（星期六）10:30 前報到。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "比賽（開幕典禮）",
+      "date": "2027-02-13",
+      "time": "13:30",
+      "original": "116年2月13日（星期六）下午1時30分",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/2026/11/05/%e8%87%ba%e5%8d%97%e4%b8%80%e4%b8%ad%e7%ac%ac23%e5%b1%86%e7%ab%b9%e5%9c%92%e5%b2%a1%e5%85%a8%e5%9c%8b%e9%ab%98%e4%b8%ad%e8%81%b7%e5%ad%b8%e7%94%9f%e6%b5%81%e9%9f%b3%e5%a4%a7%e8%b3%bd%e5%85%ac%e5%91%8a/",
+          "quote": "將於116年2月13日（星期六）下午1時30分，於本校群英堂舉行。"
+        },
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/11/第23屆竹園岡全國高中職學生流音大賽比賽辦法.pdf",
+          "quote": "開幕典禮：擬訂於116 年2 月13 日（星期六）13:30，於國立臺南一中群英堂舉行"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "頒獎暨閉幕典禮（比賽結束後）",
+      "date": "2027-02-13",
+      "time": null,
+      "original": "116 年2 月 13 日（星期六）晚上比賽結束後",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/11/第23屆竹園岡全國高中職學生流音大賽比賽辦法.pdf",
+          "quote": "頒獎暨閉幕典禮：擬訂於116 年2 月 13 日（星期六）晚上比賽結束後，於國立臺南一中群英堂舉行"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名",
+      "what": "團隊報名資料，並以 PDF 上傳家長同意書與參賽者名冊",
+      "how": "online"
+    },
+    {
+      "stage": "比賽歌曲",
+      "what": "填寫比賽歌曲表單；表演自創歌曲者另交詞曲資料及音檔",
+      "how": "online"
+    },
+    {
+      "stage": "比賽當天",
+      "what": "彩排 6 分鐘，正式準備及演唱不超過 10 分鐘；繳交核章的參賽者名冊紙本並出示學生證正本",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "國立臺南第一高級中學群英堂（臺南市東區民族路一段１號）",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/11/第23屆竹園岡全國高中職學生流音大賽比賽辦法.pdf",
+        "quote": "國立臺南第一高級中學群英堂（臺南市東區民族路一段１號）"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/11/第23屆竹園岡全國高中職學生流音大賽比賽辦法.pdf",
+        "quote": "未於指定時間完成報到，視同棄權。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "required",
+    "amount": "每隊 2,500 元",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/11/第23屆竹園岡全國高中職學生流音大賽比賽辦法.pdf",
+        "quote": "報名費：每隊報名費2,500 元整。"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "團體獎分熱音組、吉他組（任一組未達 8 組則合併），依參賽隊數取冠軍至季軍：冠軍獎學金 12,000 元、亞軍 7,000 元、季軍 4,000 元，皆附獎座及團隊獎狀；個人獎錄取 8 人，各頒獎狀 1 紙、獎學金 1,000 元。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/11/第23屆竹園岡全國高中職學生流音大賽比賽辦法.pdf",
+        "quote": "團體獎：比賽採分組（熱音組、吉他組）進行，若有任一組別未達分組競賽所需最低組數（8 組），則將合併組別進行比賽"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/11/第23屆竹園岡全國高中職學生流音大賽比賽辦法.pdf",
+        "quote": "冠軍：每隊獎學金12,000 元整，頒發獎座乙座及獎狀乙紙。"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/11/第23屆竹園岡全國高中職學生流音大賽比賽辦法.pdf",
+        "quote": "亞軍：每隊獎學金 7,000 元整，頒發獎座乙座及獎狀乙紙。"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/11/第23屆竹園岡全國高中職學生流音大賽比賽辦法.pdf",
+        "quote": "季軍：每隊獎學金 4,000 元整，頒發獎座乙座及獎狀乙紙。"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/11/第23屆竹園岡全國高中職學生流音大賽比賽辦法.pdf",
+        "quote": "錄取8 人，每位頒發獎狀1 紙，獎學金1,000 元整。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.tngs.tn.edu.tw/2026/11/05/%e8%87%ba%e5%8d%97%e4%b8%80%e4%b8%ad%e7%ac%ac23%e5%b1%86%e7%ab%b9%e5%9c%92%e5%b2%a1%e5%85%a8%e5%9c%8b%e9%ab%98%e4%b8%ad%e8%81%b7%e5%ad%b8%e7%94%9f%e6%b5%81%e9%9f%b3%e5%a4%a7%e8%b3%bd%e5%85%ac%e5%91%8a/"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/11/第23屆竹園岡全國高中職學生流音大賽比賽辦法.pdf"
+      }
+    ]
+  },
+  "links": {
+    "official": null,
+    "rules": [
+      {
+        "title": "第23屆竹園岡全國高中職學生流音大賽比賽辦法",
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/11/第23屆竹園岡全國高中職學生流音大賽比賽辦法.pdf"
+      }
+    ],
+    "registration": "https://forms.gle/kPe9z8nvLgsQA1ib6"
+  },
+  "found_via": [
+    {
+      "name": "臺南女中 學生競賽",
+      "url": "https://www.tngs.tn.edu.tw/2026/11/05/%e8%87%ba%e5%8d%97%e4%b8%80%e4%b8%ad%e7%ac%ac23%e5%b1%86%e7%ab%b9%e5%9c%92%e5%b2%a1%e5%85%a8%e5%9c%8b%e9%ab%98%e4%b8%ad%e8%81%b7%e5%ad%b8%e7%94%9f%e6%b5%81%e9%9f%b3%e5%a4%a7%e8%b3%bd%e5%85%ac%e5%91%8a/"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-24",
+    "method": "single",
+    "unread": [],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-24",
+  "level": "checked",
+  "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-tnfsh-pop-music/",
+  "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-tnfsh-pop-music.md"
+}

@@ -1,0 +1,255 @@
+{
+  "schema": 1,
+  "id": "2026-fy-environmental-painting",
+  "title": "環境教育繪畫競賽",
+  "edition": "第六屆",
+  "summary": "不限對象者以高雄大寮磚窯園區與中保亭場域為題，每人繪製一件繪畫作品參賽。",
+  "organizers": [
+    {
+      "name": "輔英科技大學-環境與生命學院USR計畫",
+      "role": "主辦"
+    },
+    {
+      "name": "輔英科技大學環境與生命學院",
+      "role": "協辦"
+    },
+    {
+      "name": "輔英科技大學USR Hub",
+      "role": "協辦"
+    },
+    {
+      "name": "世德工業股份有限公司",
+      "role": "協辦"
+    },
+    {
+      "name": "旗勝科技股份有限公司",
+      "role": "協辦"
+    },
+    {
+      "name": "林園先進科技股份有限公司",
+      "role": "協辦"
+    }
+  ],
+  "categories": [
+    "美術",
+    "農業與環境"
+  ],
+  "eligibility": {
+    "levels": [
+      "國小",
+      "國中",
+      "高中",
+      "高職",
+      "五專",
+      "大專",
+      "社會人士"
+    ],
+    "division": "separate",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": 1,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27653/a115004976_1.pdf",
+        "quote": "參加對象：不限對象，皆可報名參加"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27653/a115004976_1.pdf",
+        "quote": "報名件數：每人限報名乙件作品"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27653/a115004976_1.pdf",
+        "quote": "青少年組：國中、高中職學生(含五專一~三年級)"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27653/a115004976_1.pdf",
+        "quote": "社會組：年滿18 歲以上一般民眾、樂齡長輩及在學學生"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27653/a115004976_2.pdf",
+        "quote": "掃描QR code 填寫Google 報名表單"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "submission_deadline",
+      "label": "報名與收件截止（以郵戳為憑）",
+      "date": "2026-10-16",
+      "time": "17:00",
+      "original": "115 年10 月16 日(五) 17：00 時止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27653/a115004976_1.pdf",
+          "quote": "收件時間：即日起至115 年10 月16 日(五) 17：00 時止(以郵戳為"
+        },
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27653/a115004976.pdf",
+          "quote": "四、活動時間：即日起至115年10月16日（星期日）17:00截止"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "得獎公布（預計11月初，於FB官方帳號）",
+      "date": null,
+      "time": null,
+      "original": "預計11 月初公告",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27653/a115004976_1.pdf",
+          "quote": "得獎公布時間：預計11 月初公告，請以輔英科大環境與生命學院USR 計畫"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名",
+      "what": "Google 報名表單",
+      "how": "online"
+    },
+    {
+      "stage": "交件",
+      "what": "8K 圖畫紙（38×26 公分）繪畫作品，媒材不限，背面黏貼填妥的報名表；寄送或親送輔英科技大學大門警衛室",
+      "how": "mail"
+    },
+    {
+      "stage": "得獎後",
+      "what": "著作財產權及授權同意書（附件二）",
+      "how": "mail"
+    }
+  ],
+  "attendance": {
+    "value": "none",
+    "where": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=27653"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27653/a115004976.pdf"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27653/a115004976_1.pdf"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27653/a115004976_2.pdf"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=27653"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27653/a115004976.pdf"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27653/a115004976_1.pdf"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27653/a115004976_2.pdf"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "各組分別頒發：第一名 1 名獎金 3,000 元、第二名 2 名各 2,000 元、第三名 3 名各 1,000 元、佳作 3 名各 500 元，皆附獎狀；入選若干名頒獎狀。名額得依收件狀況增減或從缺。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27653/a115004976_1.pdf",
+        "quote": "獎勵方式：採分組"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27653/a115004976_1.pdf",
+        "quote": "第一名(1 名)：獎金3,000 元及獎狀乙張。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27653/a115004976_1.pdf",
+        "quote": "第二名(2 名)：獎金2,000 元及獎狀乙張。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27653/a115004976_1.pdf",
+        "quote": "第三名(3 名)：獎金1,000 元及獎狀乙張。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27653/a115004976_1.pdf",
+        "quote": "佳作(3 名)：各得獎金500 元及獎狀乙張。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27653/a115004976_1.pdf",
+        "quote": "入選(若干名)：獎狀乙張。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27653/a115004976_1.pdf",
+        "quote": "獎項名額視收件狀況及品質，經評審團決議增減之；若參賽作品素質"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "banned",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27653/a115004976_1.pdf",
+        "quote": "禁止使用電腦繪畫或AI軟體作圖。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27653/a115004976_2.pdf",
+        "quote": "禁止使用電腦繪圖或AI 軟體作"
+      }
+    ]
+  },
+  "links": {
+    "official": null,
+    "rules": [
+      {
+        "title": "第六屆環境教育繪畫競賽活動簡章（PDF）",
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27653/a115004976_1.pdf"
+      },
+      {
+        "title": "第六屆環境教育繪畫競賽注意事項（PDF）",
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27653/a115004976_2.pdf"
+      },
+      {
+        "title": "輔英科技大學徵件公文（PDF）",
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27653/a115004976.pdf"
+      }
+    ],
+    "registration": "https://docs.google.com/forms/d/1n62y_8RqkBMqFrHedoOhpmNws4XlSULiqXuCBxCZk3Y/edit"
+  },
+  "found_via": [
+    {
+      "name": "苗栗高中 學生校外營隊、活動、比賽",
+      "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=27653"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-24",
+    "method": "single",
+    "unread": [
+      "報名表（黏貼於作品背面）",
+      "附件二（著作財產權及授權同意書）"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-24",
+  "conflict": "輔英科技大學函寫收件截止為115年10月16日（星期日），活動簡章與注意事項寫115年10月16日(五)。"
+}

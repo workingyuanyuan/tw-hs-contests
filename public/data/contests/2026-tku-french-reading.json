@@ -1,0 +1,237 @@
+{
+  "schema": 1,
+  "id": "2026-tku-french-reading",
+  "title": "115年度全國高中生法語朗讀競賽",
+  "edition": "115 年度",
+  "summary": "修習第二外語的高中職學生個人參賽，以法語朗讀主辦單位公告的法文短文。",
+  "organizers": [
+    {
+      "name": "淡江大學歐洲語文學系法文組",
+      "role": "主辦"
+    },
+    {
+      "name": "國立臺南高級商業職業學校(第二外語教育推動計畫)",
+      "role": "協辦"
+    }
+  ],
+  "categories": [
+    "外語"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職"
+    ],
+    "division": "hs_only",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "school",
+    "team_min": 1,
+    "team_max": 1,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.tfox.tku.edu.tw/tfox/?tkuisotope=%e6%b7%a1%e6%b1%9f%e5%a4%a7%e5%ad%b8115%e5%b9%b4%e5%ba%a6%e5%85%a8%e5%9c%8b%e9%ab%98%e4%b8%ad%e7%94%9f%e6%b3%95%e8%aa%9e%e6%9c%97%e8%ae%80%e7%ab%b6%e8%b3%bd",
+        "quote": "全國高級中等教育學校學生、參與高級中等實驗教育(含非學校型態實驗教育)學生"
+      },
+      {
+        "url": "https://www.tfox.tku.edu.tw/tfox/?tkuisotope=%e6%b7%a1%e6%b1%9f%e5%a4%a7%e5%ad%b8115%e5%b9%b4%e5%ba%a6%e5%85%a8%e5%9c%8b%e9%ab%98%e4%b8%ad%e7%94%9f%e6%b3%95%e8%aa%9e%e6%9c%97%e8%ae%80%e7%ab%b6%e8%b3%bd",
+        "quote": "修習該校高中、高職第二外語初階、大學第二外語預修專班之學生（需檢附足以佐證並核章之修課證明）。"
+      },
+      {
+        "url": "https://www.tfox.tku.edu.tw/tfox/?tkuisotope=%e6%b7%a1%e6%b1%9f%e5%a4%a7%e5%ad%b8115%e5%b9%b4%e5%ba%a6%e5%85%a8%e5%9c%8b%e9%ab%98%e4%b8%ad%e7%94%9f%e6%b3%95%e8%aa%9e%e6%9c%97%e8%ae%80%e7%ab%b6%e8%b3%bd",
+        "quote": "本活動總報名人數以20人為限，每校推薦參賽人數以2位為限，如報名超過，則依先後次序錄取，並增列5名備取。"
+      },
+      {
+        "url": "https://www.tfox.tku.edu.tw/tfox/wp-content/uploads/2026/10/淡江大學115全國高中生法語朗讀競賽活動實施計畫-含比賽辦法、流程及切結書.pdf",
+        "quote": "(一) 僅限定個人參賽。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "線上報名截止",
+      "date": "2026-11-06",
+      "time": "17:00",
+      "original": "115年11月6日（五）下午5時",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tfox.tku.edu.tw/tfox/?tkuisotope=%e6%b7%a1%e6%b1%9f%e5%a4%a7%e5%ad%b8115%e5%b9%b4%e5%ba%a6%e5%85%a8%e5%9c%8b%e9%ab%98%e4%b8%ad%e7%94%9f%e6%b3%95%e8%aa%9e%e6%9c%97%e8%ae%80%e7%ab%b6%e8%b3%bd",
+          "quote": "即日起至115年11月6日（五）下午5時截止，請至以下連結：https://reurl.cc/jVplOD 完成線上報名。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "正取者回覆是否確定參賽截止",
+      "date": "2026-11-11",
+      "time": "17:00",
+      "original": "11月11日（三）17：00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tfox.tku.edu.tw/tfox/?tkuisotope=%e6%b7%a1%e6%b1%9f%e5%a4%a7%e5%ad%b8115%e5%b9%b4%e5%ba%a6%e5%85%a8%e5%9c%8b%e9%ab%98%e4%b8%ad%e7%94%9f%e6%b3%95%e8%aa%9e%e6%9c%97%e8%ae%80%e7%ab%b6%e8%b3%bd",
+          "quote": "參賽正取者須於11月11日（三）17：00前依通知內容回覆是否確定參賽。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "備取名單通知",
+      "date": "2026-11-12",
+      "time": null,
+      "original": "11月12日（四）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tfox.tku.edu.tw/tfox/?tkuisotope=%e6%b7%a1%e6%b1%9f%e5%a4%a7%e5%ad%b8115%e5%b9%b4%e5%ba%a6%e5%85%a8%e5%9c%8b%e9%ab%98%e4%b8%ad%e7%94%9f%e6%b3%95%e8%aa%9e%e6%9c%97%e8%ae%80%e7%ab%b6%e8%b3%bd",
+          "quote": "備取名單將於11月12日（四）以電話及信件通知，報名參賽者自行留意。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "比賽文章公布",
+      "date": "2026-11-13",
+      "time": null,
+      "original": "11月13日（五）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tfox.tku.edu.tw/tfox/?tkuisotope=%e6%b7%a1%e6%b1%9f%e5%a4%a7%e5%ad%b8115%e5%b9%b4%e5%ba%a6%e5%85%a8%e5%9c%8b%e9%ab%98%e4%b8%ad%e7%94%9f%e6%b3%95%e8%aa%9e%e6%9c%97%e8%ae%80%e7%ab%b6%e8%b3%bd",
+          "quote": "將於11月13日（五）公告於淡江大學歐語系網站及高級中等學校第二外語教育推動計畫網站"
+        },
+        {
+          "url": "https://www.tfox.tku.edu.tw/tfox/wp-content/uploads/2026/10/淡江大學115全國高中生法語朗讀競賽活動實施計畫-含比賽辦法、流程及切結書.pdf",
+          "quote": "(文章預計於115 年11 月13 日公告於國教署"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "法語朗讀競賽暨頒獎典禮",
+      "date": "2026-12-12",
+      "time": "09:50",
+      "original": "115年12月12日(六) 上午9時50分至下午13時10分",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tfox.tku.edu.tw/tfox/?tkuisotope=%e6%b7%a1%e6%b1%9f%e5%a4%a7%e5%ad%b8115%e5%b9%b4%e5%ba%a6%e5%85%a8%e5%9c%8b%e9%ab%98%e4%b8%ad%e7%94%9f%e6%b3%95%e8%aa%9e%e6%9c%97%e8%ae%80%e7%ab%b6%e8%b3%bd",
+          "quote": "活動日期：115年12月12日(六) 上午9時50分至下午13時10分"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名",
+      "what": "線上報名，附核章之第二外語修課證明及參賽切結書",
+      "how": "online"
+    },
+    {
+      "stage": "比賽當日",
+      "what": "自公告的三篇法文文章中選一篇朗讀；評分為發音 30%、語調 30%、創意 40%",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "集思台中新烏日會議中心3樓巴本廳303會議室（臺中市烏日區）",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.tfox.tku.edu.tw/tfox/wp-content/uploads/2026/10/淡江大學115全國高中生法語朗讀競賽活動實施計畫-含比賽辦法、流程及切結書.pdf",
+        "quote": "(1) 參賽者於比賽當日至會場朗誦公告之三篇文章中自選的一篇文章。"
+      },
+      {
+        "url": "https://www.tfox.tku.edu.tw/tfox/?tkuisotope=%e6%b7%a1%e6%b1%9f%e5%a4%a7%e5%ad%b8115%e5%b9%b4%e5%ba%a6%e5%85%a8%e5%9c%8b%e9%ab%98%e4%b8%ad%e7%94%9f%e6%b3%95%e8%aa%9e%e6%9c%97%e8%ae%80%e7%ab%b6%e8%b3%bd",
+        "quote": "活動地點：集思台中新烏日會議中心3樓巴本廳303會議室 (臺中市烏日區高鐵東一路26號)"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.tfox.tku.edu.tw/tfox/?tkuisotope=%e6%b7%a1%e6%b1%9f%e5%a4%a7%e5%ad%b8115%e5%b9%b4%e5%ba%a6%e5%85%a8%e5%9c%8b%e9%ab%98%e4%b8%ad%e7%94%9f%e6%b3%95%e8%aa%9e%e6%9c%97%e8%ae%80%e7%ab%b6%e8%b3%bd"
+      },
+      {
+        "url": "https://www.tfox.tku.edu.tw/tfox/wp-content/uploads/2026/10/淡江大學115全國高中生法語朗讀競賽活動實施計畫-含比賽辦法、流程及切結書.pdf"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "第一名獎金 3,000 元、第二名 2,000 元、第三名 1,000 元，皆附獎狀；其餘參賽者獲頒參賽證明。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.tfox.tku.edu.tw/tfox/wp-content/uploads/2026/10/淡江大學115全國高中生法語朗讀競賽活動實施計畫-含比賽辦法、流程及切結書.pdf",
+        "quote": "(一)第一名：獎金3,000 元、獎狀乙紙。"
+      },
+      {
+        "url": "https://www.tfox.tku.edu.tw/tfox/wp-content/uploads/2026/10/淡江大學115全國高中生法語朗讀競賽活動實施計畫-含比賽辦法、流程及切結書.pdf",
+        "quote": "(二)第二名：獎金2,000 元、獎狀乙紙。"
+      },
+      {
+        "url": "https://www.tfox.tku.edu.tw/tfox/wp-content/uploads/2026/10/淡江大學115全國高中生法語朗讀競賽活動實施計畫-含比賽辦法、流程及切結書.pdf",
+        "quote": "(三)第三名：獎金1,000 元、獎狀乙紙。"
+      },
+      {
+        "url": "https://www.tfox.tku.edu.tw/tfox/wp-content/uploads/2026/10/淡江大學115全國高中生法語朗讀競賽活動實施計畫-含比賽辦法、流程及切結書.pdf",
+        "quote": "其餘參賽者皆可獲頒參賽證明乙張，以資鼓勵。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.tfox.tku.edu.tw/tfox/?tkuisotope=%e6%b7%a1%e6%b1%9f%e5%a4%a7%e5%ad%b8115%e5%b9%b4%e5%ba%a6%e5%85%a8%e5%9c%8b%e9%ab%98%e4%b8%ad%e7%94%9f%e6%b3%95%e8%aa%9e%e6%9c%97%e8%ae%80%e7%ab%b6%e8%b3%bd"
+      },
+      {
+        "url": "https://www.tfox.tku.edu.tw/tfox/wp-content/uploads/2026/10/淡江大學115全國高中生法語朗讀競賽活動實施計畫-含比賽辦法、流程及切結書.pdf"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://www.tfox.tku.edu.tw/tfox/?tkuisotope=%e6%b7%a1%e6%b1%9f%e5%a4%a7%e5%ad%b8115%e5%b9%b4%e5%ba%a6%e5%85%a8%e5%9c%8b%e9%ab%98%e4%b8%ad%e7%94%9f%e6%b3%95%e8%aa%9e%e6%9c%97%e8%ae%80%e7%ab%b6%e8%b3%bd",
+    "rules": [
+      {
+        "title": "活動實施計畫（含比賽辦法、流程及切結書）",
+        "url": "https://www.tfox.tku.edu.tw/tfox/wp-content/uploads/2026/10/淡江大學115全國高中生法語朗讀競賽活動實施計畫-含比賽辦法、流程及切結書.pdf"
+      },
+      {
+        "title": "朗讀文章",
+        "url": "https://www.tfox.tku.edu.tw/tfox/wp-content/uploads/2026/11/115年度高中朗讀競賽朗讀文章1.pdf"
+      }
+    ],
+    "registration": "https://reurl.cc/jVplOD"
+  },
+  "found_via": [
+    {
+      "name": "新竹高商 消息公佈欄",
+      "url": "https://www.hccvs.hc.edu.tw/ischool/public/news_view/show.php?nid=26570"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-24",
+    "method": "single",
+    "unread": [],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-24",
+  "level": "checked",
+  "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-tku-french-reading/",
+  "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-tku-french-reading.md"
+}

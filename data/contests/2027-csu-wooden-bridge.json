@@ -1,17 +1,22 @@
 {
   "schema": 1,
   "id": "2027-csu-wooden-bridge",
-  "title": "116年度全國高中職學生「木橋載重創新設計競賽」",
-  "edition": "116年度",
-  "summary": "全國高中職學生於1月18日前線上報名，參加3月27日舉行的木橋載重創新設計競賽。",
+  "title": "116 年度全國高中職學生「木橋載重創新設計競賽」",
+  "edition": "116 年度",
+  "summary": "高中職學生 3 至 4 人一組，以木條設計模擬橋梁結構的模型，比造型創意與載重強度。",
   "organizers": [
     {
-      "name": "正修科技大學",
+      "name": "正修科技大學土木與空間資訊系",
       "role": "主辦"
+    },
+    {
+      "name": "教育部",
+      "role": "指導"
     }
   ],
   "categories": [
-    "工程與製造"
+    "工程與製造",
+    "設計"
   ],
   "eligibility": {
     "levels": [
@@ -22,54 +27,89 @@
     "regions": [
       "全國"
     ],
-    "nomination": "unknown",
-    "team_min": null,
-    "team_max": null,
+    "nomination": "none",
+    "team_min": 3,
+    "team_max": 4,
     "teacher": "unknown",
     "basis": "quote",
     "evidence": [
       {
-        "url": "https://www.hccvs.hc.edu.tw/ischool/public/news_view/show.php?nid=26751",
-        "quote": "正修科技大學116年度全國高中職學生「木橋載重創新設計競賽」"
+        "url": "https://www.taivs.tp.edu.tw/static/webroot/G157187714602169/application/NN179540290087942.pdf",
+        "quote": "116 年度全國高中職學生「木橋載重創新設計競賽」"
+      },
+      {
+        "url": "https://www.taivs.tp.edu.tw/static/webroot/G157187714602169/application/NN179540290087942.pdf",
+        "quote": "團隊合作：以3-4 人為一組進行小組合作。"
+      },
+      {
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=27169",
+        "quote": "二、報名方式：請至本校土木與空間資訊系網址http://civil.csu.edu.tw之「木橋競賽線上報名」專區報名，並於116年1月18日(星期一)前完成報名流程。"
       }
     ]
   },
   "dates": [
     {
       "kind": "registration_deadline",
-      "label": "完成報名流程",
+      "label": "線上報名截止",
       "date": "2027-01-18",
       "time": null,
       "original": "116年1月18日(星期一)前",
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://www.hccvs.hc.edu.tw/ischool/public/news_view/show.php?nid=26751",
-          "quote": "116年1月18日(星期一)前完成報名流程。"
+          "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=27169",
+          "quote": "二、報名方式：請至本校土木與空間資訊系網址http://civil.csu.edu.tw之「木橋競賽線上報名」專區報名，並於116年1月18日(星期一)前完成報名流程。"
+        },
+        {
+          "url": "https://www.taivs.tp.edu.tw/static/webroot/G157187714602169/application/NN179540290087942.pdf",
+          "quote": "報名日期：請於116 年1 月18 日前填妥報名資料。"
         }
       ]
     },
     {
       "kind": "final_event",
-      "label": "競賽日期",
+      "label": "競賽（造型創意評比、強度設計比賽及頒獎）",
       "date": "2027-03-27",
-      "time": null,
-      "original": "116年3月27日(星期六)",
+      "time": "12:30",
+      "original": "中華民國116 年3 月27 日(星期六)",
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://www.hccvs.hc.edu.tw/ischool/public/news_view/show.php?nid=26751",
-          "quote": "競賽日期:116年3月27日(星期六)。"
+          "url": "https://www.taivs.tp.edu.tw/static/webroot/G157187714602169/application/NN179540290087942.pdf",
+          "quote": "時 間：中華民國116 年3 月27 日(星期六)"
+        },
+        {
+          "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=27169",
+          "quote": "三、競賽日期:116年3月27日(星期六)。"
+        },
+        {
+          "url": "https://www.taivs.tp.edu.tw/static/webroot/G157187714602169/application/NN179540290087942.pdf",
+          "quote": "12:30-13:00 \n學員報到"
         }
       ]
     }
   ],
-  "deliverables": [],
+  "deliverables": [
+    {
+      "stage": "競賽當日",
+      "what": "木條橋梁模型，現場接受造型創意評比及強度設計比賽（精準強度、最大強度）",
+      "how": "onsite"
+    }
+  ],
   "attendance": {
-    "value": "unknown",
-    "where": null,
-    "basis": "unread",
-    "evidence": []
+    "value": "all",
+    "where": "正修科技大學學生活動中心",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.taivs.tp.edu.tw/static/webroot/G157187714602169/application/NN179540290087942.pdf",
+        "quote": "地 點：學生活動中心(3F)"
+      },
+      {
+        "url": "https://www.taivs.tp.edu.tw/static/webroot/G157187714602169/application/NN179540290087942.pdf",
+        "quote": "主辦單位：正修科技大學 土木與空間資訊系"
+      }
+    ]
   },
   "fee": {
     "value": "unknown",
@@ -78,9 +118,26 @@
     "evidence": []
   },
   "prizes": {
-    "text": null,
-    "basis": "unread",
-    "evidence": []
+    "text": "造型創意獎、精準強度獎各取第一名 3,000 元、第二名 2,000 元、第三名 1,000 元（3 隊）、佳作 500 元（15 隊）；最大強度獎第一名 3,000 元、第二名 2,000 元、第三名 1,000 元、佳作 500 元（5 隊）。得獎者均頒個人獎狀。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.taivs.tp.edu.tw/static/webroot/G157187714602169/application/NN179540290087942.pdf",
+        "quote": "比賽方式：競賽分為造型創意獎及強度設計獎(含精準強度及最大強度)"
+      },
+      {
+        "url": "https://www.taivs.tp.edu.tw/static/webroot/G157187714602169/application/NN179540290087942.pdf",
+        "quote": "第一名3,000 元、第二名2,000 元、第三名1,000 元(3 隊)、佳作 500 元(15 隊)。"
+      },
+      {
+        "url": "https://www.taivs.tp.edu.tw/static/webroot/G157187714602169/application/NN179540290087942.pdf",
+        "quote": "第一名3,000 元、第二名2,000 元、第三名1,000 元、佳作 500 元(5 隊)。"
+      },
+      {
+        "url": "https://www.taivs.tp.edu.tw/static/webroot/G157187714602169/application/NN179540290087942.pdf",
+        "quote": "得獎均頒發個人獎狀一張，參加人員頒發個人參賽証明，指導老師附指導或得獎証明書。"
+      }
+    ]
   },
   "ai_policy": {
     "value": "unknown",
@@ -89,22 +146,31 @@
   },
   "links": {
     "official": null,
-    "rules": [],
+    "rules": [
+      {
+        "title": "競賽資訊（含活動流程表）",
+        "url": "https://www.taivs.tp.edu.tw/static/webroot/G157187714602169/application/NN179540290087942.pdf"
+      }
+    ],
     "registration": "http://civil.csu.edu.tw"
   },
   "found_via": [
     {
-      "name": "新竹高商 消息公佈欄",
-      "url": "https://www.hccvs.hc.edu.tw/ischool/public/news_view/show.php?nid=26751"
+      "name": "大安高工 競賽資訊",
+      "url": "https://www.taivs.tp.edu.tw/content?a=T0RESVRucG5NazVxVlRSTlZFVTk1RkVST0Z6YTY1RWUwc0dWaW50ZWx5"
+    },
+    {
+      "name": "苗栗農工 處室公告",
+      "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=27169"
     }
   ],
   "verification": {
     "last_verified": "2026-11-24",
-    "method": "dual",
+    "method": "single",
     "unread": [
-      "正修科技大學土木與空間資訊系網站「木橋競賽線上報名」專區"
+      "正修科技大學土木與空間資訊系網站「木橋競賽線上報名」專區的報名及競賽說明"
     ],
-    "note": null,
+    "note": "第二次讀取沒有確認：推薦",
     "readers": [
       "claude-opus-5-5",
       "claude-opus-5-5"

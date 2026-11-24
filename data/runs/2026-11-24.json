@@ -1433,15 +1433,618 @@
    ],
    "merged": [],
    "set_aside": []
+  },
+  {
+   "tasks": [
+    {
+     "task": "c0117-1",
+     "result": "skipped: 提供的文件皆未描述此比賽：大同高中公告頁僅有標題「臺北市115學年度學生創意戲劇比賽實施計畫」與「請參閱附件」，實施計畫附件（.odt）未能讀取；其餘文件為高一"
+    },
+    {
+     "task": "c0118-1",
+     "result": "done: 2027-geopark-landscape-reading (checked)"
+    },
+    {
+     "task": "c0119-1",
+     "result": "done: 2027-hakka-choir (checked)"
+    },
+    {
+     "task": "c0125-1",
+     "result": "done: 2026-national-hs-commercial-skills (checked)"
+    },
+    {
+     "task": "c0126-1",
+     "result": "asks for 1 more documents"
+    },
+    {
+     "task": "c0131-1",
+     "result": "done: 2026-native-new-immigrant-language-song (checked)"
+    },
+    {
+     "task": "c0132-1",
+     "result": "done: 2026-miaoli-student-music-prelim (checked)"
+    },
+    {
+     "task": "c0136-1",
+     "result": "done: 2026-national-student-music (checked)"
+    },
+    {
+     "task": "c0138-1",
+     "result": "done: 2026-phyedu-science-measurement (checked)"
+    },
+    {
+     "task": "c0140-1",
+     "result": "done: 2026-moe-green-chemistry-2 (checked)"
+    },
+    {
+     "task": "c0141-1",
+     "result": "done: 2027-nknu-tech-edu-conference (checked)"
+    },
+    {
+     "task": "c0142-1",
+     "result": "skipped: 文件未描述競賽內容：學校公告僅寫「內容詳如附件」，附件海報文字只有國小、國中、高中職的課程邀請碼，看不出有評審或獎項，且未連到其他說明此活動的文件。"
+    },
+    {
+     "task": "c0143-1",
+     "result": "done: 2026-ntpc-student-music (checked)"
+    },
+    {
+     "task": "c0144-1",
+     "result": "asks for 1 more documents"
+    },
+    {
+     "task": "c0145-1",
+     "result": "skipped: 書法展覽與迎春揮毫觀摩活動，學生由學校推薦現場揮毫，不評審、不排名，僅致贈感謝狀與紀念筆，非競賽。"
+    },
+    {
+     "task": "c0147-1",
+     "result": "done: 2026-phyedu-science-measurement (checked)"
+    },
+    {
+     "task": "c0149-1",
+     "result": "done: 2026-tku-french-reading (unverified), to be searched"
+    },
+    {
+     "task": "c0150-1",
+     "result": "skipped: 唯一文件是學校轉知公告，只有一句「詳情請逕至該校網頁查詢」，沒有簡章內容，也沒有任何連結可索取簡章，無文件描述此競賽的規則。"
+    },
+    {
+     "task": "c0151-1",
+     "result": "skipped: 唯一的文件是學校轉知公告，僅一句話請讀者逕至建國科技大學網頁查詢，未附連結，也未描述競賽的參賽資格、作品、評審或獎項。"
+    },
+    {
+     "task": "c0152-1",
+     "result": "skipped: 唯一文件是學校轉知公告，只寫競賽名稱並請讀者逕至宏國德霖科技大學網頁查詢，沒有簡章內容，也沒有可索取的連結，無法得知參賽資格、評審與獎項。"
+    },
+    {
+     "task": "c0153-1",
+     "result": "skipped: 唯一的文件是學校轉知公告，只寫出競賽名稱與主辦學校並請讀者自行查詢該校網頁，沒有參賽資格、評審方式、獎項或日期，也沒有附上任何連結，無法依文件判斷或記錄此競賽。"
+    },
+    {
+     "task": "c0154-1",
+     "result": "skipped: 唯一的文件是學校轉知簡報比賽口頭發表語言規定修正的短公告，未載比賽簡章、日期、參賽資格或獎勵，也沒有任何連結可索取簡章，無法寫成紀錄。"
+    },
+    {
+     "task": "c0155-1",
+     "result": "skipped: 唯一文件是學校轉知的一行公告，只有競賽名稱與報名表單網址，沒有簡章，也沒有可要求的連結；無法確認參賽資格是否含高中職學生、評審方式與獎項，教案設計競賽亦可能僅限"
+    },
+    {
+     "task": "c0156-1",
+     "result": "skipped: 唯一的文件是新竹高商學務處轉知的一行校外活動公告，只寫出朝陽科技大學「記憶中的歌謠：2026第一屆臺語老歌新聲盃大賽」的名稱與 Google 表單報名連結，沒有"
+    },
+    {
+     "task": "c0157-1",
+     "result": "done: 2026-ys-award (checked)"
+    },
+    {
+     "task": "c0158-1",
+     "result": "done: 2026-phyedu-science-measurement (checked)"
+    },
+    {
+     "task": "c0159-1",
+     "result": "asks for 3 more documents"
+    },
+    {
+     "task": "c0160-1",
+     "result": "skipped: 文件為「115年教育部文藝創作獎」得獎作品發表暨分享會（北、南、中三區）之宣傳公告，內容為講座性質的分享活動，未載徵件、評審或獎項等競賽規定，非本目錄收錄之競賽"
+    },
+    {
+     "task": "c0161-1",
+     "result": "skipped: 文件為國立臺北商業大學資訊管理系學生專題成果觀摩展及座談的轉知公告，邀請高中職師長蒞臨觀摩，並非高中職學生可報名、經評審給予名次或獎項的競賽。"
+    },
+    {
+     "task": "c0129-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0122-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0106-2",
+     "result": "asks for 5 more documents"
+    },
+    {
+     "task": "c0014-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0107-2",
+     "result": "asks for 3 more documents"
+    },
+    {
+     "task": "c0100-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0127-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0326-2",
+     "result": "asks for 1 more documents"
+    },
+    {
+     "task": "c0239-2",
+     "result": "asks for 4 more documents"
+    },
+    {
+     "task": "c0137-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0104-2",
+     "result": "asks for 2 more documents"
+    },
+    {
+     "task": "c0049-2",
+     "result": "second reading: single"
+    },
+    {
+     "task": "c0130-s",
+     "result": "0 kept, 0 dropped"
+    },
+    {
+     "task": "c0148-s",
+     "result": "3 kept, 0 dropped"
+    },
+    {
+     "task": "c0236-s",
+     "result": "0 kept, 3 dropped (https://c016.hwu.edu.tw/Category?CId=6962: does not name the contest)"
+    }
+   ],
+   "merged": [],
+   "set_aside": []
+  },
+  {
+   "tasks": [
+    {
+     "task": "c0126-1",
+     "result": "done: 2027-csu-wooden-bridge (checked)"
+    },
+    {
+     "task": "c0144-1",
+     "result": "done: 2026-taoyuan-student-music (checked)"
+    },
+    {
+     "task": "c0148-1",
+     "result": "done: 2026-tpcu-en-ja-newscaster-reading (checked)"
+    },
+    {
+     "task": "c0159-1",
+     "result": "done: 2026-fy-environmental-painting (checked)"
+    },
+    {
+     "task": "c0162-1",
+     "result": "asks for 2 more documents"
+    },
+    {
+     "task": "c0163-1",
+     "result": "done: 2026-see-think-wonder (checked)"
+    },
+    {
+     "task": "c0164-1",
+     "result": "asks for 3 more documents"
+    },
+    {
+     "task": "c0165-1",
+     "result": "done: 2027-ukmt-imc (checked)"
+    },
+    {
+     "task": "c0166-1",
+     "result": "asks for 4 more documents"
+    },
+    {
+     "task": "c0167-1",
+     "result": "done: 2026-ukmt-imc (unverified), to be searched"
+    },
+    {
+     "task": "c0168-1",
+     "result": "done: 2026-ukmt-smc (checked)"
+    },
+    {
+     "task": "c0169-1",
+     "result": "done: 2027-ukmt-imc-2 (checked)"
+    },
+    {
+     "task": "c0170-1",
+     "result": "asks for 4 more documents"
+    },
+    {
+     "task": "c0171-1",
+     "result": "asks for 6 more documents"
+    },
+    {
+     "task": "c0172-1",
+     "result": "skipped: 全國高中職電競大賽是以戰隊對戰決定勝負的電子競技賽事，屬錦標賽性質，並非評審參賽作品的競賽；斗六高中轉知公告只列總決賽地點、日期與報名、直播網址。"
+    },
+    {
+     "task": "c0173-1",
+     "result": "done: 2026-phyedu-science-measurement (checked)"
+    },
+    {
+     "task": "c0174-1",
+     "result": "skipped: 兩份文件都是金門高中轉知的金門區初賽與總決賽考場、時程及應試規範通知，未附簡章，也沒有任何連結；文件未說明主辦單位、參賽資格（是否開放高中職學生）、報名方式與獎"
+    },
+    {
+     "task": "c0175-1",
+     "result": "skipped: 「武營大圖鑑」是衛武營與 PaGamO 合作的線上遊戲藝術學習任務，文件未描述作品評審，也未提及名次、獎項或獎狀，不是競賽。"
+    },
+    {
+     "task": "c0176-1",
+     "result": "asks for 6 more documents"
+    },
+    {
+     "task": "c0177-1",
+     "result": "skipped: 文件為「臺灣客語寫作培訓營」研習公告（講習與寫作指導，核發研習時數），對象為教師、支援教師及其他有意學習者，並非評審給獎之競賽。"
+    },
+    {
+     "task": "c0178-1",
+     "result": "skipped: 金繪獎為文化部獎勵已在國內出版發行且載有ISBN或GPN之繪本作品的出版獎項，對象為繪本創作者、編輯、出版事業與跨域應用業者，報名期間另行公告，並非供高中職學生"
+    },
+    {
+     "task": "c0179-1",
+     "result": "done: 2026-nptu-hs-project (checked)"
+    },
+    {
+     "task": "c0180-1",
+     "result": "asks for 2 more documents"
+    },
+    {
+     "task": "c0181-1",
+     "result": "done: 2026-ukmt-smc (checked)"
+    },
+    {
+     "task": "c0182-1",
+     "result": "skipped: 參加對象為全國各公私立國民中學七、八、九年級在學學生，高中職學生不能參加。"
+    },
+    {
+     "task": "c0183-1",
+     "result": "done: 2026-chemistry-olympiad-prelim (checked)"
+    },
+    {
+     "task": "c0184-1",
+     "result": "done: 2026-apmo-preliminary (checked)"
+    },
+    {
+     "task": "c0185-1",
+     "result": "done: 2026-tw-biology-olympiad (checked)"
+    },
+    {
+     "task": "c0186-1",
+     "result": "skipped: 唯一的文件是高師大附中設備組給本校高一至高三學生的校內報名公告，合併四項奧林匹亞競賽初賽，只列校內報名截止日與考試時間；文件未載主辦單位、參賽資格、評選與獎項，"
+    },
+    {
+     "task": "c0187-1",
+     "result": "done: 2026-nthu-giwas-showdown (unverified), to be searched"
+    },
+    {
+     "task": "c0236-2",
+     "result": "asks for 3 more documents"
+    },
+    {
+     "task": "c0106-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0107-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0157-2",
+     "result": "not run"
+    },
+    {
+     "task": "c0141-2",
+     "result": "no second reading: skip (這是國立高雄師範大學工業科技教育學系舉辦的學術研討會論文徵稿，投稿者須於研討會口頭或海報發表；文件只請各校轉知「相關系所師生」，未載明高中職學生可投稿，屬學術研)"
+    },
+    {
+     "task": "c0326-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0239-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0118-2",
+     "result": "asks for 2 more documents"
+    },
+    {
+     "task": "c0119-2",
+     "result": "asks for 5 more documents"
+    },
+    {
+     "task": "c0104-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0136-2",
+     "result": "asks for 3 more documents"
+    },
+    {
+     "task": "c0131-2",
+     "result": "asks for 4 more documents"
+    },
+    {
+     "task": "c0130-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0149-s",
+     "result": "3 kept, 0 dropped"
+    }
+   ],
+   "merged": [],
+   "set_aside": []
+  },
+  {
+   "tasks": [
+    {
+     "task": "c0149-1",
+     "result": "done: 2026-tku-french-reading (checked)"
+    },
+    {
+     "task": "c0162-1",
+     "result": "done: 2026-pingtung-drone (checked)"
+    },
+    {
+     "task": "c0164-1",
+     "result": "done: 2026-see-think-wonder (checked)"
+    },
+    {
+     "task": "c0166-1",
+     "result": "done: 2027-ukmt-imc-2 (checked)"
+    },
+    {
+     "task": "c0170-1",
+     "result": "done: 2026-ukmt-smc (checked)"
+    },
+    {
+     "task": "c0171-1",
+     "result": "done: 2026-tpcu-ba-stock-king (checked)"
+    },
+    {
+     "task": "c0176-1",
+     "result": "done: 2026-tpcu-en-ja-newscaster-reading (checked)"
+    },
+    {
+     "task": "c0180-1",
+     "result": "done: 2027-ukmt-imc-2 (checked)"
+    },
+    {
+     "task": "c0188-1",
+     "result": "asks for 5 more documents"
+    },
+    {
+     "task": "c0189-1",
+     "result": "done: 2026-secondary-hackathon (unverified), to be searched"
+    },
+    {
+     "task": "c0190-1",
+     "result": "done: 2026-hsh-hackathon (checked)"
+    },
+    {
+     "task": "c0191-1",
+     "result": "skipped: 文件為學校轉知新北市經濟發展局活動資訊、請協助宣傳的公文，內容是「2026新北耶誕市集X亞洲電子競技公開賽」的展售活動與「特戰英豪」「英雄聯盟」總決賽，未說明供"
+    },
+    {
+     "task": "c0192-1",
+     "result": "skipped: 此為荒野保護協會提供學校申請的綠色生活地圖講座、桌遊體驗與工作坊推廣活動，沒有作品評審，也不頒發名次、獎項或獎狀，不是競賽。"
+    },
+    {
+     "task": "c0193-1",
+     "result": "asks for 1 more documents"
+    },
+    {
+     "task": "c0194-1",
+     "result": "asks for 6 more documents"
+    },
+    {
+     "task": "c0195-1",
+     "result": "done: 2026-economics-olympiad-school-round (unverified), to be searched"
+    },
+    {
+     "task": "c0196-1",
+     "result": "skipped: 徵件對象限中山女高高一至高三在學生，屬單一學校校內徵稿，不在收錄範圍。"
+    },
+    {
+     "task": "c0197-1",
+     "result": "done: 2026-national-skills-north (checked)"
+    },
+    {
+     "task": "c0198-1",
+     "result": "asks for 2 more documents"
+    },
+    {
+     "task": "c0199-1",
+     "result": "done: 2026-new-immigrants-dream-plan (checked)"
+    },
+    {
+     "task": "c0200-1",
+     "result": "asks for 2 more documents"
+    },
+    {
+     "task": "c0201-1",
+     "result": "asks for 1 more documents"
+    },
+    {
+     "task": "c0202-1",
+     "result": "done: 2026-disability-ambassador (checked)"
+    },
+    {
+     "task": "c0203-1",
+     "result": "done: 2026-kh-hs-english-writing-speech (unverified), to be searched"
+    },
+    {
+     "task": "c0204-1",
+     "result": "asks for 5 more documents"
+    },
+    {
+     "task": "c0205-1",
+     "result": "done: 2026-tnfsh-zhuyuangang-dance (checked)"
+    },
+    {
+     "task": "c0206-1",
+     "result": "done: 2026-taoyuan-student-dance (checked)"
+    },
+    {
+     "task": "c0207-1",
+     "result": "done: 2026-zhuyuangang-music-dance (checked)"
+    },
+    {
+     "task": "c0208-1",
+     "result": "done: 2026-tnfsh-zhuyuangang-dance (checked)"
+    },
+    {
+     "task": "c0209-1",
+     "result": "done: 2026-tnfsh-pop-music (checked)"
+    },
+    {
+     "task": "c0236-2",
+     "result": "second reading: single"
+    },
+    {
+     "task": "c0148-2",
+     "result": "second reading: single"
+    },
+    {
+     "task": "c0163-2",
+     "result": "second reading: disputed"
+    },
+    {
+     "task": "c0157-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0141-2",
+     "result": "no second reading: skip (此為國立高雄師範大學工業科技教育學系主辦之學術研討會論文徵稿，公文請學校轉知「相關系所師生」投稿，屬學術會議的摘要審查與發表，而非開放高中職學生參加的競賽。)"
+    },
+    {
+     "task": "c0169-2",
+     "result": "second reading: single"
+    },
+    {
+     "task": "c0165-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0146-2",
+     "result": "second reading: single"
+    },
+    {
+     "task": "c0118-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0119-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0136-2",
+     "result": "second reading: single"
+    },
+    {
+     "task": "c0131-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0167-s",
+     "result": "1 kept, 0 dropped"
+    },
+    {
+     "task": "c0187-s",
+     "result": "2 kept, 0 dropped"
+    }
+   ],
+   "merged": [],
+   "set_aside": []
+  },
+  {
+   "tasks": [],
+   "merged": [
+    "2026-moe-green-chemistry-2 merged into 2026-moe-green-chemistry",
+    "2027-ukmt-imc-2 merged into 2027-ukmt-imc"
+   ],
+   "set_aside": []
+  },
+  {
+   "tasks": [],
+   "merged": [],
+   "set_aside": []
+  },
+  {
+   "tasks": [
+    {
+     "task": "c0096-1",
+     "result": "done: 2027-blia-three-acts-song (checked)"
+    },
+    {
+     "task": "c0141-1",
+     "result": "asks for 5 more documents"
+    }
+   ],
+   "merged": [],
+   "set_aside": []
+  },
+  {
+   "tasks": [
+    {
+     "task": "c0141-1",
+     "result": "skipped: 這是國立高雄師範大學工業科技教育學系主辦的學術研討會論文徵稿，須繳費出席發表，會議簡介寫明對象為研究生及外校研究者；它是一場學術研討會，不是競賽，文件也沒有說高"
+    }
+   ],
+   "merged": [],
+   "set_aside": []
+  },
+  {
+   "tasks": [
+    {
+     "task": "c0141-1",
+     "result": "asks for 6 more documents"
+    }
+   ],
+   "merged": [],
+   "set_aside": []
+  },
+  {
+   "tasks": [
+    {
+     "task": "c0141-1",
+     "result": "skipped, 2027-nknu-tech-edu-conference set aside: 這是國立高雄師範大學工業科技教育學系主辦的學術研討會論文徵稿：摘要審查通過後須繳費出席，進行口頭或海報發表，屬學術研討會而非競賽。會議簡介說研討會提供研究生及外"
+    }
+   ],
+   "merged": [],
+   "set_aside": []
   }
  ],
  "queue": {
-  "done": 127,
-  "skipped": 17,
-  "new": 607,
-  "search": 2,
+  "done": 172,
+  "skipped": 40,
+  "new": 538,
+  "search": 3,
   "expired": 1
  },
  "announcements_waiting": 0,
- "records": 124
+ "records": 153
 }

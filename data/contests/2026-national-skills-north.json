@@ -3,7 +3,7 @@
   "id": "2026-national-skills-north",
   "title": "第57屆全國技能競賽北區分區技能競賽",
   "edition": "第 57 屆",
-  "summary": "經學校或單位推薦的選手報名北區分區賽，在競賽場地實地操作所報職類的技能。",
+  "summary": "北區8縣市單位推薦的青年組與青少年組選手，依所報職類實地操作技能，爭取名次與晉級全國賽。",
   "organizers": [
     {
       "name": "勞動部",
@@ -49,10 +49,11 @@
   "categories": [
     "技藝與技能",
     "工程與製造",
-    "餐旅"
+    "資訊與 AI"
   ],
   "eligibility": {
     "levels": [
+      "國小",
       "國中",
       "高中",
       "高職",
@@ -78,81 +79,137 @@
     "basis": "quote",
     "evidence": [
       {
-        "url": "https://www.fg.tp.edu.tw/view-doc/13/「第57屆全國技能競賽北區分區技能競賽」簡章.pdf",
+        "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs2221/北區分區技能競賽簡章.pdf",
         "quote": "選手應具有中華民國國籍，青年組限民國95 年1 月1 日以後出生者"
       },
       {
-        "url": "https://www.fg.tp.edu.tw/view-doc/13/「第57屆全國技能競賽北區分區技能競賽」簡章.pdf",
+        "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs2221/北區分區技能競賽簡章.pdf",
         "quote": "青少年組限民國100 年1 月1 日至民國103 年12 月31 日間出生者；經有關機關、學校、團體、公司行號、廠商及訓練機構推薦者，得報名參加。"
       },
       {
-        "url": "https://www.fg.tp.edu.tw/view-doc/13/「第57屆全國技能競賽北區分區技能競賽」簡章.pdf",
-        "quote": "選手由單一提名單位推薦，提名單位限設於新北市、臺北市、桃園市、基隆市、宜蘭縣、花蓮縣、金門縣及連江縣等8 縣（市）行政轄區內："
+        "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs2221/北區分區技能競賽簡章.pdf",
+        "quote": "選手由單一提名單位推薦，提名單位限設於新北市、臺北市、桃園市、基隆市、宜蘭縣、花蓮縣、金門縣及連江縣等8 縣（市）行政轄區內"
       },
       {
-        "url": "https://www.fg.tp.edu.tw/view-doc/13/「第57屆全國技能競賽北區分區技能競賽」簡章.pdf",
+        "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs2221/北區分區技能競賽簡章.pdf",
         "quote": "選手具學籍者，除下列情形之外，應以就讀學校為提名單位。"
       },
       {
-        "url": "https://www.fg.tp.edu.tw/view-doc/13/「第57屆全國技能競賽北區分區技能競賽」簡章.pdf",
+        "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs2221/北區分區技能競賽簡章.pdf",
         "quote": "機電整合(2 人1 組)"
       }
     ]
   },
   "dates": [
     {
-      "kind": "registration_deadline",
-      "label": "網路報名截止",
-      "date": "2026-12-07",
-      "time": "24:00",
-      "original": "115 年12 月7 日(星期一)24 時止",
+      "kind": "other",
+      "label": "網路報名開始",
+      "date": "2026-11-24",
+      "time": "09:00",
+      "original": "115 年11 月24 日(星期二)上午9 時",
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://www.fg.tp.edu.tw/view-doc/13/「第57屆全國技能競賽北區分區技能競賽」簡章.pdf",
+          "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs2221/北區分區技能競賽簡章.pdf",
           "quote": "自民國115 年11 月24 日(星期二)上午9 時起至115 年12 月7 日(星期一)24 時止。"
         }
       ]
     },
     {
-      "kind": "submission_deadline",
-      "label": "書面報名資料掛號寄出截止（郵戳為憑）",
-      "date": "2026-12-08",
+      "kind": "registration_deadline",
+      "label": "網路報名截止",
+      "date": "2026-12-07",
       "time": null,
-      "original": "115 年12 月8 日(星期二)以前(含當日，以郵戳為憑)",
+      "original": "115 年12 月7 日(星期一)24 時止",
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://www.fg.tp.edu.tw/view-doc/13/「第57屆全國技能競賽北區分區技能競賽」簡章.pdf",
-          "quote": "並於115 年12 月8 日(星期二)以前(含當日，以郵戳為憑)，以掛號郵寄"
+          "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs2221/北區分區技能競賽簡章.pdf",
+          "quote": "自民國115 年11 月24 日(星期二)上午9 時起至115 年12 月7 日(星期一)24 時止。"
+        }
+      ]
+    },
+    {
+      "kind": "registration_deadline",
+      "label": "書面報名資料掛號寄出截止（郵戳為憑）",
+      "date": "2026-12-08",
+      "time": null,
+      "original": "115 年12 月8 日(星期二)前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs2221/北區分區技能競賽簡章.pdf",
+          "quote": "※ 書面報名資料請於115 年12 月8 日(星期二)前寄出(郵戳為憑)。"
         }
       ]
     },
     {
       "kind": "other",
-      "label": "青年組中餐烹飪、西點製作、麵包製作技術士證影本補正截止",
+      "label": "青年組中餐烹飪、西點製作、麵包製作選手補正技術士證影本截止",
       "date": "2026-12-15",
       "time": null,
       "original": "115 年12 月15 日(星期二)前",
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://www.fg.tp.edu.tw/view-doc/13/「第57屆全國技能競賽北區分區技能競賽」簡章.pdf",
+          "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs2221/北區分區技能競賽簡章.pdf",
           "quote": "技術士證影本至遲應於115 年12 月15 日(星期二)前補正。"
         }
       ]
     },
     {
-      "kind": "final_event",
-      "label": "青少年組報到與競賽（至 3 月 23 日）",
-      "date": "2027-03-22",
+      "kind": "other",
+      "label": "團體組合職類申請遞補選手截止",
+      "date": "2027-02-19",
       "time": null,
-      "original": "116 年3 月22 日(星期一)",
+      "original": "116 年2 月19 日前",
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://www.fg.tp.edu.tw/view-doc/13/「第57屆全國技能競賽北區分區技能競賽」簡章.pdf",
-          "quote": "116 年3 月22 日(星期一)報到、熟悉場地、競賽；3 月23 日(星期二)競賽及"
+          "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs2221/北區分區技能競賽簡章.pdf",
+          "quote": "得於競賽30 日前(116 年2 月19 日前)，向承辦單位申請再推薦符合資格選手遞補，但以一人次為限。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "無法參賽選手書面請假截止",
+      "date": "2027-03-08",
+      "time": null,
+      "original": "116 年3 月8 日前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs2221/北區分區技能競賽簡章.pdf",
+          "quote": "應於競賽2 週前(即116 年3 月8 日前)以書面向北區承辦單位-勞動部勞動力發展署桃竹苗分署辦理請假"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "青少年組報到、熟悉場地及競賽",
+      "date": "2027-03-22",
+      "time": null,
+      "original": "116年3月22日（星期一）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.csghs.tp.edu.tw/news/%e3%80%8c%e7%ac%ac57%e5%b1%86%e5%85%a8%e5%9c%8b%e6%8a%80%e8%83%bd%e7%ab%b6%e8%b3%bd%e5%8c%97%e5%8d%80%e5%88%86%e5%8d%80%e6%8a%80%e8%83%bd%e7%ab%b6%e8%b3%bd%e3%80%8d%e7%b0%a1%e7%ab%a0%e9%9b%bb%e5%ad%90/",
+          "quote": "１、116年3月22日（星期一）報到、熟悉場地、競賽。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "青少年組競賽及評分",
+      "date": "2027-03-23",
+      "time": null,
+      "original": "116年3月23日（星期二）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.csghs.tp.edu.tw/news/%e3%80%8c%e7%ac%ac57%e5%b1%86%e5%85%a8%e5%9c%8b%e6%8a%80%e8%83%bd%e7%ab%b6%e8%b3%bd%e5%8c%97%e5%8d%80%e5%88%86%e5%8d%80%e6%8a%80%e8%83%bd%e7%ab%b6%e8%b3%bd%e3%80%8d%e7%b0%a1%e7%ab%a0%e9%9b%bb%e5%ad%90/",
+          "quote": "２、116年3月23日（星期二）競賽及評分。"
         }
       ]
     },
@@ -161,30 +218,40 @@
       "label": "青少年組公告英雄榜",
       "date": "2027-03-24",
       "time": "10:30",
-      "original": "3 月24 日(星期三)上午10 時30 分",
+      "original": "116年3月24日（星期三）10時30分",
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://www.fg.tp.edu.tw/view-doc/13/「第57屆全國技能競賽北區分區技能競賽」簡章.pdf",
-          "quote": "3 月24 日(星期三)上午10 時30 分公告英雄榜"
-        },
-        {
-          "url": "https://www.fg.tp.edu.tw/news/%e5%8b%9e%e5%8b%95%e9%83%a8%e5%8b%9e%e5%8b%95%e5%8a%9b%e7%99%bc%e5%b1%95%e7%bd%b2%e6%a1%83%e7%ab%b9%e8%8b%97%e5%88%86%e7%bd%b2%e6%89%bf%e8%be%a6%e3%80%8c%e7%ac%ac57%e5%b1%86%e5%85%a8%e5%9c%8b%e6%8a%80/",
-          "quote": "116年3月24日（星期三）10時30分於勞發署技能檢定中心及該分署網站公告英雄榜。"
+          "url": "https://www.csghs.tp.edu.tw/news/%e3%80%8c%e7%ac%ac57%e5%b1%86%e5%85%a8%e5%9c%8b%e6%8a%80%e8%83%bd%e7%ab%b6%e8%b3%bd%e5%8c%97%e5%8d%80%e5%88%86%e5%8d%80%e6%8a%80%e8%83%bd%e7%ab%b6%e8%b3%bd%e3%80%8d%e7%b0%a1%e7%ab%a0%e9%9b%bb%e5%ad%90/",
+          "quote": "３、116年3月24日（星期三）10時30分於勞發署技能檢定中心及本分署網站公告英雄榜。"
         }
       ]
     },
     {
       "kind": "final_event",
-      "label": "青年組報到與競賽（至 3 月 26 日）",
+      "label": "青年組報到、熟悉場地及競賽",
       "date": "2027-03-25",
       "time": null,
-      "original": "116 年3 月25 日(星期四)",
+      "original": "116年3月25日（星期四）",
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://www.fg.tp.edu.tw/view-doc/13/「第57屆全國技能競賽北區分區技能競賽」簡章.pdf",
-          "quote": "116 年3 月25 日(星期四)報到、熟悉場地、競賽；3 月26 日(星期五)競賽及"
+          "url": "https://www.csghs.tp.edu.tw/news/%e3%80%8c%e7%ac%ac57%e5%b1%86%e5%85%a8%e5%9c%8b%e6%8a%80%e8%83%bd%e7%ab%b6%e8%b3%bd%e5%8c%97%e5%8d%80%e5%88%86%e5%8d%80%e6%8a%80%e8%83%bd%e7%ab%b6%e8%b3%bd%e3%80%8d%e7%b0%a1%e7%ab%a0%e9%9b%bb%e5%ad%90/",
+          "quote": "１、116年3月25日（星期四）報到、熟悉場地及競賽。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "青年組競賽及評分",
+      "date": "2027-03-26",
+      "time": null,
+      "original": "116年3月26日（星期五）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.csghs.tp.edu.tw/news/%e3%80%8c%e7%ac%ac57%e5%b1%86%e5%85%a8%e5%9c%8b%e6%8a%80%e8%83%bd%e7%ab%b6%e8%b3%bd%e5%8c%97%e5%8d%80%e5%88%86%e5%8d%80%e6%8a%80%e8%83%bd%e7%ab%b6%e8%b3%bd%e3%80%8d%e7%b0%a1%e7%ab%a0%e9%9b%bb%e5%ad%90/",
+          "quote": "２、116年3月26日（星期五）競賽及評分。"
         }
       ]
     },
@@ -193,16 +260,12 @@
       "label": "青年組公告英雄榜",
       "date": "2027-03-27",
       "time": "10:30",
-      "original": "3 月27 日(星期六)上午10 時30 分",
+      "original": "116年3月27日（星期六）10時30分",
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://www.fg.tp.edu.tw/view-doc/13/「第57屆全國技能競賽北區分區技能競賽」簡章.pdf",
-          "quote": "3 月27 日(星期六)上午10 時30 分公告英雄榜"
-        },
-        {
-          "url": "https://www.fg.tp.edu.tw/news/%e5%8b%9e%e5%8b%95%e9%83%a8%e5%8b%9e%e5%8b%95%e5%8a%9b%e7%99%bc%e5%b1%95%e7%bd%b2%e6%a1%83%e7%ab%b9%e8%8b%97%e5%88%86%e7%bd%b2%e6%89%bf%e8%be%a6%e3%80%8c%e7%ac%ac57%e5%b1%86%e5%85%a8%e5%9c%8b%e6%8a%80/",
-          "quote": "116年3月27日（星期六）10時30分於勞發署技能檢定中心及該分署網站公告英雄榜。"
+          "url": "https://www.csghs.tp.edu.tw/news/%e3%80%8c%e7%ac%ac57%e5%b1%86%e5%85%a8%e5%9c%8b%e6%8a%80%e8%83%bd%e7%ab%b6%e8%b3%bd%e5%8c%97%e5%8d%80%e5%88%86%e5%8d%80%e6%8a%80%e8%83%bd%e7%ab%b6%e8%b3%bd%e3%80%8d%e7%b0%a1%e7%ab%a0%e9%9b%bb%e5%ad%90/",
+          "quote": "３、116年3月27日（星期六）10時30分於勞發署技能檢定中心及本分署網站公告英雄榜。"
         }
       ]
     }
@@ -210,32 +273,27 @@
   "deliverables": [
     {
       "stage": "報名",
-      "what": "網路報名登錄選手資料，上傳近二年內彩色正面半身相片",
-      "how": "online"
-    },
-    {
-      "stage": "報名",
-      "what": "列印的報名表（蓋提名單位印信）、身分證與學生證等證明文件影本、報名費郵政匯票、選手競賽通知信封，以掛號寄送",
+      "what": "網路報名後列印的報名表（蓋提名單位印信）、身分及學籍或投保證明影本、報名費郵政匯票",
       "how": "mail"
     },
     {
-      "stage": "競賽",
-      "what": "所報職類的實地技能操作；報名人數超過場地負荷時先辦筆試或技能測驗擇優參賽",
+      "stage": "分區競賽",
+      "what": "依所報職類技能範圍實地操作；報名人數超過場地容量的職類先辦筆試或技能測驗",
       "how": "onsite"
     }
   ],
   "attendance": {
     "value": "all",
-    "where": "依職類分配的北區競賽場地，如桃竹苗分署桃園職業訓練場、幼獅職業訓練場、萬能科技大學、木柵高工、南港高工",
+    "where": "桃竹苗分署桃園職業訓練場、幼獅職業訓練場、木柵高工、南港高工、三重商工、泰山高中、萬能科技大學、中華科技大學，依職類而定",
     "basis": "quote",
     "evidence": [
       {
-        "url": "https://www.fg.tp.edu.tw/view-doc/13/「第57屆全國技能競賽北區分區技能競賽」簡章.pdf",
+        "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs2221/北區分區技能競賽簡章.pdf",
         "quote": "第57 屆全國技能競賽分區技能競賽分別於北、中、南區辦理，競賽方式以實地技能操作進行。"
       },
       {
-        "url": "https://www.fg.tp.edu.tw/view-doc/13/「第57屆全國技能競賽北區分區技能競賽」簡章.pdf",
-        "quote": "勞動部勞動力發展署桃竹苗分署桃園職業訓練場(地址：桃園市楊梅區秀才路851 號)：電氣裝配、工業控制、漆作裝潢、花藝、平面設計技術、3D 數位遊戲藝術等6 職類。"
+        "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs2221/北區分區技能競賽簡章.pdf",
+        "quote": "勞動部勞動力發展署桃竹苗分署桃園職業訓練場(地址：桃園市楊梅區秀才路851 號)"
       }
     ]
   },
@@ -245,58 +303,50 @@
     "basis": "quote",
     "evidence": [
       {
-        "url": "https://www.fg.tp.edu.tw/view-doc/13/「第57屆全國技能競賽北區分區技能競賽」簡章.pdf",
+        "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs2221/北區分區技能競賽簡章.pdf",
         "quote": "每1 人報名費新台幣400 元整(請購買郵政匯票，匯票受款人：『勞動部勞動力發展署桃竹苗分署』)。"
       }
     ]
   },
   "prizes": {
-    "text": "每職類取前 5 名優勝（參賽不足 10 人或 10 組時取半數，無條件進位），參賽超過 10 人或 10 組時得取佳作。青年組第 1 名獎金 12,000 元、第 2 名 6,000 元、第 3 名 4,000 元；青少年組第 1 名 3,000 元、第 2 名 1,500 元、第 3 名 1,000 元；前 3 名另頒金、銀、銅牌，第 1 至 5 名及佳作皆頒獎狀。各職類前 5 名推薦晉級全國技能競賽；前 3 名 3 年內參加相關職類丙級或單一級技能檢定得申請免術科測試。",
+    "text": "每職類取前 5 名優勝（參賽不足 10 人或組時取半數），超過 10 人或組得取佳作。青年組第 1 名獎金 12,000 元、第 2 名 6,000 元、第 3 名 4,000 元，青少年組第 1 名 3,000 元、第 2 名 1,500 元、第 3 名 1,000 元，前 3 名另有金、銀、銅牌與獎狀；第 4、5 名與佳作頒獎狀。各職類前 5 名晉級全國技能競賽。",
     "basis": "quote",
     "evidence": [
       {
-        "url": "https://www.fg.tp.edu.tw/view-doc/13/「第57屆全國技能競賽北區分區技能競賽」簡章.pdf",
-        "quote": "每1 職類取前5 名優勝選手，參賽人數不足10 人或10 組時，優勝人數取參賽人數二分之一比例"
+        "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs2221/北區分區技能競賽簡章.pdf",
+        "quote": "獎勵：每1 職類取前5 名優勝選手，參賽人數不足10 人或10 組時，優勝人數取參賽人數二分之一比例"
       },
       {
-        "url": "https://www.fg.tp.edu.tw/view-doc/13/「第57屆全國技能競賽北區分區技能競賽」簡章.pdf",
-        "quote": "另各職類參賽人數超過10 人或10 組時，得取佳作數名"
-      },
-      {
-        "url": "https://www.fg.tp.edu.tw/view-doc/13/「第57屆全國技能競賽北區分區技能競賽」簡章.pdf",
+        "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs2221/北區分區技能競賽簡章.pdf",
         "quote": "第1 名：獎金新臺幣1 萬2 仟元、金牌1 面、獎狀乙幀。"
       },
       {
-        "url": "https://www.fg.tp.edu.tw/view-doc/13/「第57屆全國技能競賽北區分區技能競賽」簡章.pdf",
+        "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs2221/北區分區技能競賽簡章.pdf",
         "quote": "第2 名：獎金新臺幣6 仟元、銀牌1 面、獎狀乙幀。"
       },
       {
-        "url": "https://www.fg.tp.edu.tw/view-doc/13/「第57屆全國技能競賽北區分區技能競賽」簡章.pdf",
+        "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs2221/北區分區技能競賽簡章.pdf",
         "quote": "第3 名：獎金新臺幣4 仟元、銅牌1 面、獎狀乙幀。"
       },
       {
-        "url": "https://www.fg.tp.edu.tw/view-doc/13/「第57屆全國技能競賽北區分區技能競賽」簡章.pdf",
+        "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs2221/北區分區技能競賽簡章.pdf",
         "quote": "第1 名：獎金新臺幣3 仟元、金牌1 面、獎狀乙幀。"
       },
       {
-        "url": "https://www.fg.tp.edu.tw/view-doc/13/「第57屆全國技能競賽北區分區技能競賽」簡章.pdf",
+        "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs2221/北區分區技能競賽簡章.pdf",
         "quote": "第2 名：獎金新臺幣1 仟5 佰元、銀牌1 面、獎狀乙幀。"
       },
       {
-        "url": "https://www.fg.tp.edu.tw/view-doc/13/「第57屆全國技能競賽北區分區技能競賽」簡章.pdf",
+        "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs2221/北區分區技能競賽簡章.pdf",
         "quote": "第3 名：獎金新臺幣1 仟元、銅牌1 面、獎狀乙幀。"
       },
       {
-        "url": "https://www.fg.tp.edu.tw/view-doc/13/「第57屆全國技能競賽北區分區技能競賽」簡章.pdf",
+        "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs2221/北區分區技能競賽簡章.pdf",
         "quote": "第4 名、第5 名、佳作：獎狀乙幀。"
       },
       {
-        "url": "https://www.fg.tp.edu.tw/view-doc/13/「第57屆全國技能競賽北區分區技能競賽」簡章.pdf",
+        "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs2221/北區分區技能競賽簡章.pdf",
         "quote": "當年度分區技能競賽各區承辦單位推薦每一職類之前5 名晉級全國技能競賽"
-      },
-      {
-        "url": "https://www.fg.tp.edu.tw/view-doc/13/「第57屆全國技能競賽北區分區技能競賽」簡章.pdf",
-        "quote": "分區技能競賽獲得前3 名選手，自獲獎日起3 年內，參加相關職類丙級或單一級技能檢定時，得向主辦單位申請技能檢定免術科測試證明。"
       }
     ]
   },
@@ -305,11 +355,11 @@
     "basis": "quote",
     "evidence": [
       {
-        "url": "https://www.fg.tp.edu.tw/view-doc/13/「第57屆全國技能競賽北區分區技能競賽」簡章.pdf",
+        "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs2221/北區分區技能競賽簡章.pdf",
         "quote": "使用AI 工具輔助系統分析、程式設計時，能夠評估、驗證、管理其正確性，並進行必要的修正。"
       },
       {
-        "url": "https://www.fg.tp.edu.tw/view-doc/13/「第57屆全國技能競賽北區分區技能競賽」簡章.pdf",
+        "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs2221/北區分區技能競賽簡章.pdf",
         "quote": "AI 在3D 建模的輔助應用。"
       }
     ]
@@ -319,40 +369,25 @@
     "rules": [
       {
         "title": "第57屆全國技能競賽北區分區技能競賽簡章（PDF）",
-        "url": "https://www.fg.tp.edu.tw/view-doc/13/「第57屆全國技能競賽北區分區技能競賽」簡章.pdf"
+        "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs2221/北區分區技能競賽簡章.pdf"
       }
     ],
     "registration": "https://thmr.wda.gov.tw/"
   },
   "found_via": [
     {
-      "name": "北一女中 最新消息",
-      "url": "https://www.fg.tp.edu.tw/news/%e5%8b%9e%e5%8b%95%e9%83%a8%e5%8b%9e%e5%8b%95%e5%8a%9b%e7%99%bc%e5%b1%95%e7%bd%b2%e6%a1%83%e7%ab%b9%e8%8b%97%e5%88%86%e7%bd%b2%e6%89%bf%e8%be%a6%e3%80%8c%e7%ac%ac57%e5%b1%86%e5%85%a8%e5%9c%8b%e6%8a%80/"
-    },
-    {
-      "name": "壽山高中 校外競賽",
-      "url": "https://www.sssh.tyc.edu.tw/news/%e7%ac%ac57%e5%b1%86%e5%85%a8%e5%9c%8b%e6%8a%80%e8%83%bd%e7%ab%b6%e8%b3%bd%e5%8c%97%e5%8d%80%e5%88%86%e5%8d%80%e6%8a%80%e8%83%bd%e7%ab%b6%e8%b3%bd/"
-    },
-    {
-      "name": "成功高中 活動競賽",
-      "url": "https://www.cksh.tp.edu.tw/news/%e3%80%90%e8%bd%89%e7%9f%a5%e3%80%91%e7%ac%ac57%e5%b1%86%e5%85%a8%e5%9c%8b%e6%8a%80%e8%83%bd%e7%ab%b6%e8%b3%bd%e5%8c%97%e5%8d%80%e5%88%86%e5%8d%80%e6%8a%80%e8%83%bd%e7%ab%b6%e8%b3%bd/"
-    },
-    {
-      "name": "南港高工 重要資訊",
-      "url": "https://www.nkhs.tp.edu.tw/ischool/public/news_view/show.php?nid=35128"
-    },
-    {
-      "name": "大同高中 學生競賽活動",
-      "url": "https://www.ttsh.tp.edu.tw/news/%e6%aa%a2%e9%80%81%e5%8b%9e%e5%8b%95%e9%83%a8%e5%8b%9e%e5%8b%95%e5%8a%9b%e7%99%bc%e5%b1%95%e7%bd%b2%e6%a1%83%e7%ab%b9%e8%8b%97%e5%88%86%e7%bd%b2%e3%80%8c%e7%ac%ac57%e5%b1%86%e5%85%a8%e5%9c%8b%e6%8a%80/"
+      "name": "中山女高 最新消息",
+      "url": "https://www.csghs.tp.edu.tw/news/%e3%80%8c%e7%ac%ac57%e5%b1%86%e5%85%a8%e5%9c%8b%e6%8a%80%e8%83%bd%e7%ab%b6%e8%b3%bd%e5%8c%97%e5%8d%80%e5%88%86%e5%8d%80%e6%8a%80%e8%83%bd%e7%ab%b6%e8%b3%bd%e3%80%8d%e7%b0%a1%e7%ab%a0%e9%9b%bb%e5%ad%90/"
     }
   ],
   "verification": {
     "last_verified": "2026-11-24",
-    "method": "dual",
-    "unread": [],
+    "method": "single",
+    "unread": [
+      "各職類競賽試題（技能檢定中心技能競賽專區）"
+    ],
     "note": null,
     "readers": [
-      "claude-opus-5-5",
       "claude-opus-5-5"
     ]
   },

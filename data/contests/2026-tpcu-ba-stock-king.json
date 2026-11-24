@@ -1,17 +1,17 @@
 {
   "schema": 1,
   "id": "2026-tpcu-ba-stock-king",
-  "title": "2026 北城企管全國股王股后爭霸賽",
+  "title": "2026北城企管全國股王股后爭霸賽",
   "edition": "2026",
-  "summary": "全國大專與高中職學生個人報名，於虛擬交易所使用初始本金 1,000 萬元進行台股模擬交易，依總報酬率排名。",
+  "summary": "大專及高中職學生個人參加模擬股票投資競賽，依總報酬率高低排名。",
   "organizers": [
-    {
-      "name": "臺北城市科技大學企業管理系",
-      "role": "主辦"
-    },
     {
       "name": "教育部",
       "role": "指導"
+    },
+    {
+      "name": "臺北城市科技大學企業管理系",
+      "role": "主辦"
     },
     {
       "name": "寶碩財務科技",
@@ -42,11 +42,11 @@
     "basis": "quote",
     "evidence": [
       {
-        "url": "https://ba.tpcu.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9MemcxTDNCMFlWODFOak0yTlY4M01EYzNNRFUzWHpreU5UZ3pMbkJrWmc9PQ==&fname=0054ROB0RKSSTXHHEDXSKPMOPK30NPGCWS3440XSIHJD10A5QKA4FDEGPKOKVWXXZTPOZT102024NK14YW30A000OPNO35GC00MPNO40UWYW01UWECOK20FCSS4025YXA5NOSX34TWFGSWHCUS30A110",
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28700/%E3%80%8C2026%E5%8C%97%E5%9F%8E%E4%BC%81%E7%AE%A1%E5%85%A8%E5%9C%8B%E8%82%A1%E7%8E%8B%E8%82%A1%E5%90%8E%E7%88%AD%E9%9C%B8%E8%B3%BD%E3%80%8D%E7%AB%B6%E8%B3%BD%E8%A6%8F%E5%89%87.pdf",
         "quote": "三、參賽資格：採個人競賽，參賽者須為全國大專院校暨高中職在學學生；分為大專組及高中職組。"
       },
       {
-        "url": "https://ba.tpcu.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9MemcxTDNCMFlWODFOak0yTlY4M01EYzNNRFUzWHpreU5UZ3pMbkJrWmc9PQ==&fname=0054ROB0RKSSTXHHEDXSKPMOPK30NPGCWS3440XSIHJD10A5QKA4FDEGPKOKVWXXZTPOZT102024NK14YW30A000OPNO35GC00MPNO40UWYW01UWECOK20FCSS4025YXA5NOSX34TWFGSWHCUS30A110",
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28700/%E3%80%8C2026%E5%8C%97%E5%9F%8E%E4%BC%81%E7%AE%A1%E5%85%A8%E5%9C%8B%E8%82%A1%E7%8E%8B%E8%82%A1%E5%90%8E%E7%88%AD%E9%9C%B8%E8%B3%BD%E3%80%8D%E7%AB%B6%E8%B3%BD%E8%A6%8F%E5%89%87.pdf",
         "quote": "填寫報名資料，務必指定一位指導老師，請勿重複報名；"
       }
     ]
@@ -57,26 +57,12 @@
       "label": "報名截止",
       "date": "2026-11-20",
       "time": null,
-      "original": "2026/10/27(二) - 2026/11/20(五)",
+      "original": "2026/11/20(五)",
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://ba.tpcu.edu.tw/p/406-1032-90101,r398.php?Lang=zh-tw",
-          "quote": "（一）報名期間：2026/10/27(二) - 2026/11/20(五)"
-        }
-      ]
-    },
-    {
-      "kind": "other",
-      "label": "試玩期間結束",
-      "date": "2026-11-20",
-      "time": null,
-      "original": "2026/11/20",
-      "basis": "quote",
-      "evidence": [
-        {
-          "url": "https://ba.tpcu.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9MemcxTDNCMFlWODFOak0yTlY4M01EYzNNRFUzWHpreU5UZ3pMbkJrWmc9PQ==&fname=0054ROB0RKSSTXHHEDXSKPMOPK30NPGCWS3440XSIHJD10A5QKA4FDEGPKOKVWXXZTPOZT102024NK14YW30A000OPNO35GC00MPNO40UWYW01UWECOK20FCSS4025YXA5NOSX34TWFGSWHCUS30A110",
-          "quote": "※2026/11/20 收盤後結束試玩，並清除所有試玩期間交易相關記錄，還原至初始本金NT$1,000 萬元；"
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28700/%E3%80%8C2026%E5%8C%97%E5%9F%8E%E4%BC%81%E7%AE%A1%E5%85%A8%E5%9C%8B%E8%82%A1%E7%8E%8B%E8%82%A1%E5%90%8E%E7%88%AD%E9%9C%B8%E8%B3%BD%E3%80%8D%E5%85%AC%E6%96%87.pdf",
+          "quote": "(一)報名期間：2026/10/27(二)至2026/11/20(五)。"
         }
       ]
     },
@@ -85,12 +71,12 @@
       "label": "競賽開始",
       "date": "2026-11-23",
       "time": null,
-      "original": "2026/11/23",
+      "original": "2026/11/23(一)",
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://ba.tpcu.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9MemcxTDNCMFlWODFOak0yTlY4M01EYzNNRFUzWHpreU5UZ3pMbkJrWmc9PQ==&fname=0054ROB0RKSSTXHHEDXSKPMOPK30NPGCWS3440XSIHJD10A5QKA4FDEGPKOKVWXXZTPOZT102024NK14YW30A000OPNO35GC00MPNO40UWYW01UWECOK20FCSS4025YXA5NOSX34TWFGSWHCUS30A110",
-          "quote": "（三）競賽期間：2026/11/23 ~ 2026/12/04。"
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28700/%E3%80%8C2026%E5%8C%97%E5%9F%8E%E4%BC%81%E7%AE%A1%E5%85%A8%E5%9C%8B%E8%82%A1%E7%8E%8B%E8%82%A1%E5%90%8E%E7%88%AD%E9%9C%B8%E8%B3%BD%E3%80%8D%E5%85%AC%E6%96%87.pdf",
+          "quote": "(二)競賽期間：2026/11/23(一)至2026/12/04(五)。"
         }
       ]
     },
@@ -99,26 +85,26 @@
       "label": "競賽結束",
       "date": "2026-12-04",
       "time": null,
-      "original": "2026/12/04",
+      "original": "2026/12/04(五)",
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://ba.tpcu.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9MemcxTDNCMFlWODFOak0yTlY4M01EYzNNRFUzWHpreU5UZ3pMbkJrWmc9PQ==&fname=0054ROB0RKSSTXHHEDXSKPMOPK30NPGCWS3440XSIHJD10A5QKA4FDEGPKOKVWXXZTPOZT102024NK14YW30A000OPNO35GC00MPNO40UWYW01UWECOK20FCSS4025YXA5NOSX34TWFGSWHCUS30A110",
-          "quote": "（三）競賽期間：2026/11/23 ~ 2026/12/04。"
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28700/%E3%80%8C2026%E5%8C%97%E5%9F%8E%E4%BC%81%E7%AE%A1%E5%85%A8%E5%9C%8B%E8%82%A1%E7%8E%8B%E8%82%A1%E5%90%8E%E7%88%AD%E9%9C%B8%E8%B3%BD%E3%80%8D%E5%85%AC%E6%96%87.pdf",
+          "quote": "(二)競賽期間：2026/11/23(一)至2026/12/04(五)。"
         }
       ]
     },
     {
       "kind": "result_announcement",
-      "label": "公布成績",
+      "label": "企管系網頁公布成績（預計）",
       "date": "2026-12-04",
       "time": null,
       "original": "2026/12/04",
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://ba.tpcu.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9MemcxTDNCMFlWODFOak0yTlY4M01EYzNNRFUzWHpreU5UZ3pMbkJrWmc9PQ==&fname=0054ROB0RKSSTXHHEDXSKPMOPK30NPGCWS3440XSIHJD10A5QKA4FDEGPKOKVWXXZTPOZT102024NK14YW30A000OPNO35GC00MPNO40UWYW01UWECOK20FCSS4025YXA5NOSX34TWFGSWHCUS30A110",
-          "quote": "（四）頒獎典禮：預計2026/12/04 於企管系網頁公布成績；2023/12/09 舉辦頒獎典禮。"
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28700/%E3%80%8C2026%E5%8C%97%E5%9F%8E%E4%BC%81%E7%AE%A1%E5%85%A8%E5%9C%8B%E8%82%A1%E7%8E%8B%E8%82%A1%E5%90%8E%E7%88%AD%E9%9C%B8%E8%B3%BD%E3%80%8D%E7%AB%B6%E8%B3%BD%E8%A6%8F%E5%89%87.pdf",
+          "quote": "（四）頒獎典禮：預計2026/12/04 於企管系網頁公布成績；"
         }
       ]
     },
@@ -126,13 +112,13 @@
       "kind": "other",
       "label": "頒獎典禮",
       "date": "2026-12-09",
-      "time": null,
-      "original": "2026/12/09(三)",
+      "time": "13:30",
+      "original": "2026/12/09(三)下午13：30",
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://ba.tpcu.edu.tw/p/406-1032-90101,r398.php?Lang=zh-tw",
-          "quote": "（三）頒獎典禮：2026/12/09(三)"
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28700/%E3%80%8C2026%E5%8C%97%E5%9F%8E%E4%BC%81%E7%AE%A1%E5%85%A8%E5%9C%8B%E8%82%A1%E7%8E%8B%E8%82%A1%E5%90%8E%E7%88%AD%E9%9C%B8%E8%B3%BD%E3%80%8D%E5%85%AC%E6%96%87.pdf",
+          "quote": "(三)頒獎典禮：2026/12/09(三)下午13：30。"
         }
       ]
     }
@@ -140,7 +126,7 @@
   "deliverables": [
     {
       "stage": "競賽期間",
-      "what": "透過虛擬交易所進行台灣上市、上櫃股票模擬買賣交易",
+      "what": "以 NT$1,000 萬元虛擬本金在寶碩財務科技虛擬交易所買賣台灣上市、上櫃股票，持股須達 70% 以上且至少 3 檔，不可融資融券",
       "how": "online"
     }
   ],
@@ -150,32 +136,33 @@
     "basis": "absent",
     "evidence": [
       {
-        "url": "https://ba.tpcu.edu.tw/p/406-1032-90101,r398.php?Lang=zh-tw"
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28700/%E3%80%8C2026%E5%8C%97%E5%9F%8E%E4%BC%81%E7%AE%A1%E5%85%A8%E5%9C%8B%E8%82%A1%E7%8E%8B%E8%82%A1%E5%90%8E%E7%88%AD%E9%9C%B8%E8%B3%BD%E3%80%8D%E7%AB%B6%E8%B3%BD%E8%A6%8F%E5%89%87.pdf"
       },
       {
-        "url": "https://ba.tpcu.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9MemcxTDNCMFlWODFOak0yTlY4M01EYzNNRFUzWHpreU5UZ3pMbkJrWmc9PQ==&fname=0054ROB0RKSSTXHHEDXSKPMOPK30NPGCWS3440XSIHJD10A5QKA4FDEGPKOKVWXXZTPOZT102024NK14YW30A000OPNO35GC00MPNO40UWYW01UWECOK20FCSS4025YXA5NOSX34TWFGSWHCUS30A110"
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28700/%E3%80%8C2026%E5%8C%97%E5%9F%8E%E4%BC%81%E7%AE%A1%E5%85%A8%E5%9C%8B%E8%82%A1%E7%8E%8B%E8%82%A1%E5%90%8E%E7%88%AD%E9%9C%B8%E8%B3%BD%E3%80%8D%E5%85%AC%E6%96%87.pdf"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28700/%E3%80%8C2026%E5%8C%97%E5%9F%8E%E4%BC%81%E7%AE%A1%E5%85%A8%E5%9C%8B%E8%82%A1%E7%8E%8B%E8%82%A1%E5%90%8E%E7%88%AD%E9%9C%B8%E8%B3%BD%E3%80%8D%E6%B5%B7%E5%A0%B1.pdf"
       }
     ]
   },
   "fee": {
     "value": "none",
     "amount": null,
-    "basis": "absent",
+    "basis": "quote",
     "evidence": [
       {
-        "url": "https://ba.tpcu.edu.tw/p/406-1032-90101,r398.php?Lang=zh-tw"
-      },
-      {
-        "url": "https://ba.tpcu.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9MemcxTDNCMFlWODFOak0yTlY4M01EYzNNRFUzWHpreU5UZ3pMbkJrWmc9PQ==&fname=0054ROB0RKSSTXHHEDXSKPMOPK30NPGCWS3440XSIHJD10A5QKA4FDEGPKOKVWXXZTPOZT102024NK14YW30A000OPNO35GC00MPNO40UWYW01UWECOK20FCSS4025YXA5NOSX34TWFGSWHCUS30A110"
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28700/%E3%80%8C2026%E5%8C%97%E5%9F%8E%E4%BC%81%E7%AE%A1%E5%85%A8%E5%9C%8B%E8%82%A1%E7%8E%8B%E8%82%A1%E5%90%8E%E7%88%AD%E9%9C%B8%E8%B3%BD%E3%80%8D%E6%B5%B7%E5%A0%B1.pdf",
+        "quote": "免費参加|個人報名"
       }
     ]
   },
   "prizes": {
-    "text": "大專組暨高中職組分別取前三名及佳作三名頒發獎狀，冠軍獎金 5,000 元、亞軍獎金 3,000 元、季軍獎金 2,000 元。",
+    "text": "大專組與高中職組分別取前三名及佳作三名頒發獎狀；冠軍獎金 5,000 元、亞軍 3,000 元、季軍 2,000 元。",
     "basis": "quote",
     "evidence": [
       {
-        "url": "https://ba.tpcu.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9MemcxTDNCMFlWODFOak0yTlY4M01EYzNNRFUzWHpreU5UZ3pMbkJrWmc9PQ==&fname=0054ROB0RKSSTXHHEDXSKPMOPK30NPGCWS3440XSIHJD10A5QKA4FDEGPKOKVWXXZTPOZT102024NK14YW30A000OPNO35GC00MPNO40UWYW01UWECOK20FCSS4025YXA5NOSX34TWFGSWHCUS30A110",
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28700/%E3%80%8C2026%E5%8C%97%E5%9F%8E%E4%BC%81%E7%AE%A1%E5%85%A8%E5%9C%8B%E8%82%A1%E7%8E%8B%E8%82%A1%E5%90%8E%E7%88%AD%E9%9C%B8%E8%B3%BD%E3%80%8D%E7%AB%B6%E8%B3%BD%E8%A6%8F%E5%89%87.pdf",
         "quote": "大專組暨高中職組分別取前三名及佳作三名頒發獎狀。冠軍頒發獎金5,000 元，亞軍頒發獎金3,000 元，季軍頒發獎金2,000 元。"
       }
     ]
@@ -185,10 +172,13 @@
     "basis": "absent",
     "evidence": [
       {
-        "url": "https://ba.tpcu.edu.tw/p/406-1032-90101,r398.php?Lang=zh-tw"
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28700/%E3%80%8C2026%E5%8C%97%E5%9F%8E%E4%BC%81%E7%AE%A1%E5%85%A8%E5%9C%8B%E8%82%A1%E7%8E%8B%E8%82%A1%E5%90%8E%E7%88%AD%E9%9C%B8%E8%B3%BD%E3%80%8D%E7%AB%B6%E8%B3%BD%E8%A6%8F%E5%89%87.pdf"
       },
       {
-        "url": "https://ba.tpcu.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9MemcxTDNCMFlWODFOak0yTlY4M01EYzNNRFUzWHpreU5UZ3pMbkJrWmc9PQ==&fname=0054ROB0RKSSTXHHEDXSKPMOPK30NPGCWS3440XSIHJD10A5QKA4FDEGPKOKVWXXZTPOZT102024NK14YW30A000OPNO35GC00MPNO40UWYW01UWECOK20FCSS4025YXA5NOSX34TWFGSWHCUS30A110"
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28700/%E3%80%8C2026%E5%8C%97%E5%9F%8E%E4%BC%81%E7%AE%A1%E5%85%A8%E5%9C%8B%E8%82%A1%E7%8E%8B%E8%82%A1%E5%90%8E%E7%88%AD%E9%9C%B8%E8%B3%BD%E3%80%8D%E5%85%AC%E6%96%87.pdf"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28700/%E3%80%8C2026%E5%8C%97%E5%9F%8E%E4%BC%81%E7%AE%A1%E5%85%A8%E5%9C%8B%E8%82%A1%E7%8E%8B%E8%82%A1%E5%90%8E%E7%88%AD%E9%9C%B8%E8%B3%BD%E3%80%8D%E6%B5%B7%E5%A0%B1.pdf"
       }
     ]
   },
@@ -196,33 +186,84 @@
     "official": "https://ba.tpcu.edu.tw/p/406-1032-90101,r398.php?Lang=zh-tw",
     "rules": [
       {
-        "title": "2026股王股后競賽規則",
-        "url": "https://ba.tpcu.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9MemcxTDNCMFlWODFOak0yTlY4M01EYzNNRFUzWHpreU5UZ3pMbkJrWmc9PQ==&fname=0054ROB0RKSSTXHHEDXSKPMOPK30NPGCWS3440XSIHJD10A5QKA4FDEGPKOKVWXXZTPOZT102024NK14YW30A000OPNO35GC00MPNO40UWYW01UWECOK20FCSS4025YXA5NOSX34TWFGSWHCUS30A110"
+        "title": "競賽規則",
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28700/%E3%80%8C2026%E5%8C%97%E5%9F%8E%E4%BC%81%E7%AE%A1%E5%85%A8%E5%9C%8B%E8%82%A1%E7%8E%8B%E8%82%A1%E5%90%8E%E7%88%AD%E9%9C%B8%E8%B3%BD%E3%80%8D%E7%AB%B6%E8%B3%BD%E8%A6%8F%E5%89%87.pdf"
+      },
+      {
+        "title": "海報",
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28700/%E3%80%8C2026%E5%8C%97%E5%9F%8E%E4%BC%81%E7%AE%A1%E5%85%A8%E5%9C%8B%E8%82%A1%E7%8E%8B%E8%82%A1%E5%90%8E%E7%88%AD%E9%9C%B8%E8%B3%BD%E3%80%8D%E6%B5%B7%E5%A0%B1.pdf"
+      },
+      {
+        "title": "公文",
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28700/%E3%80%8C2026%E5%8C%97%E5%9F%8E%E4%BC%81%E7%AE%A1%E5%85%A8%E5%9C%8B%E8%82%A1%E7%8E%8B%E8%82%A1%E5%90%8E%E7%88%AD%E9%9C%B8%E8%B3%BD%E3%80%8D%E5%85%AC%E6%96%87.pdf"
       }
     ],
-    "registration": "https://forms.gle/8iVUHMe2rrh6qRyF7"
+    "registration": null
   },
   "found_via": [
     {
-      "name": "臺北城市科大企管系公告",
-      "url": "https://ba.tpcu.edu.tw/p/406-1032-90101,r398.php?Lang=zh-tw"
+      "name": "新竹高商 消息公佈欄",
+      "url": "https://www.hccvs.hc.edu.tw/ischool/public/news_view/show.php?nid=26745"
     },
     {
-      "name": "臺北城市科大企管系公告",
-      "url": "https://ba.tpcu.edu.tw/p/406-1032-90101,r398.php?Lang=zh-tw"
+      "name": "羅東高工 最新消息",
+      "url": "https://www.ltivs.ilc.edu.tw/p/406-1000-5399,r12.php?Lang=zh-tw"
+    },
+    {
+      "name": "南港高工 重要資訊",
+      "url": "https://www.nkhs.tp.edu.tw/ischool/public/news_view/show.php?nid=35281"
+    },
+    {
+      "name": "暨大附中 學生研習與競賽活動",
+      "url": "https://www.pshs.ntct.edu.tw/ischool/public/news_view/show.php?nid=34099"
+    },
+    {
+      "name": "大同高中 學生競賽活動",
+      "url": "https://www.ttsh.tp.edu.tw/news/%e5%9f%8e%e5%b8%82%e5%ad%b8%e6%a0%a1%e8%b2%a1%e5%9c%98%e6%b3%95%e4%ba%ba%e8%87%ba%e5%8c%97%e5%9f%8e%e5%b8%82%e7%a7%91%e6%8a%80%e5%a4%a7%e5%ad%b8%e4%bc%81%e6%a5%ad%e7%ae%a1%e7%90%86%e7%b3%bb%e8%88%89/"
+    },
+    {
+      "name": "高雄高工 競賽公告",
+      "url": "https://www.ksvs.kh.edu.tw/v4/cpsub/article.php?id=12734"
+    },
+    {
+      "name": "中山女高 最新消息",
+      "url": "https://www.csghs.tp.edu.tw/news/%e8%bd%89%e7%9f%a5%ef%bc%9a%e8%87%ba%e5%8c%97%e5%9f%8e%e5%b8%82%e7%a7%91%e6%8a%80%e5%a4%a7%e5%ad%b8%e8%88%89%e8%be%a6%e3%80%8c2026%e5%8c%97%e5%9f%8e%e4%bc%81%e7%ae%a1%e5%85%a8%e5%9c%8b%e8%82%a1/"
+    },
+    {
+      "name": "苗栗農工 處室公告",
+      "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=27116"
+    },
+    {
+      "name": "三重商工 學生事務公告",
+      "url": "https://www.scvs.ntpc.edu.tw/p/406-1000-16024,r28.php"
+    },
+    {
+      "name": "錦和高中 學生競賽",
+      "url": "https://www.jhsh.ntpc.edu.tw/p/406-1000-21346,r51.php?Lang=zh-tw"
+    },
+    {
+      "name": "高師大附中 校外競賽與活動",
+      "url": "https://www.nknush.kh.edu.tw/announcement/22755/%e5%85%ac%e5%91%8a%e8%a8%93%e8%82%b2%e7%b5%84%e8%87%ba%e5%8c%97%e5%9f%8e%e5%b8%82%e7%a7%91%e6%8a%80%e5%a4%a7%e5%ad%b8%e3%80%8c2026%e5%8c%97%e5%9f%8e%e4%bc%81%e7%ae%a1%e5%85%a8%e5%9c%8b%e8%82%a1/"
+    },
+    {
+      "name": "壽山高中 校外競賽",
+      "url": "https://www.sssh.tyc.edu.tw/news/%e8%87%ba%e5%8c%97%e5%9f%8e%e5%b8%82%e7%a7%91%e6%8a%80%e5%a4%a7%e5%ad%b8%e4%bc%81%e6%a5%ad%e7%ae%a1%e7%90%86%e7%b3%bb%e8%88%89%e8%be%a6%e3%80%8c2026%e5%8c%97%e5%9f%8e%e4%bc%81%e7%ae%a1%e5%85%a8/"
+    },
+    {
+      "name": "苗栗高中 學生校外營隊、活動、比賽",
+      "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=28700"
     }
   ],
   "verification": {
-    "last_verified": "2026-11-20",
-    "method": "dual",
+    "last_verified": "2026-11-24",
+    "method": "single",
     "unread": [],
     "note": null,
     "readers": [
-      "gemini-4-hydrogen-medium",
-      "gpt-6.1-sol"
+      "claude-opus-5-5"
     ]
   },
   "first_seen": "2026-11-20",
-  "updated": "2026-11-20",
-  "conflict": "競賽規則 PDF 中部分日期誤植為 2023（報名與試玩截止日寫為 2023/11/20、頒獎典禮寫為 2023/12/09），官網公告頁與規則其餘時程皆為 2026 年。"
+  "updated": "2026-11-24",
+  "conflict": "競賽規則把報名截止與頒獎典禮寫作 2023/11/20 與 2023/12/09，公文寫作 2026/11/20 與 2026/12/09；競賽規則的報名網址為 mba.tpcu.edu.tw，公文的活動網站為 ba.tpcu.edu.tw。"
 }

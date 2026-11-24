@@ -1,0 +1,283 @@
+{
+  "schema": 1,
+  "id": "2027-nknu-tech-edu-conference",
+  "title": "2027第23屆科技教育研究與發展學術研討會",
+  "edition": "第 23 屆",
+  "summary": "師生就科技教育研究主題投稿論文，經審查後於研討會口頭或海報發表，並角逐論文獎。",
+  "organizers": [
+    {
+      "name": "國立高雄師範大學工業科技教育學系",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "社會人文",
+    "資訊與 AI",
+    "工程與製造"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職",
+      "大專"
+    ],
+    "division": "unknown",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": null,
+    "team_max": null,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28681/%E3%80%8C2027%E7%AC%AC23%E5%B1%86%E7%A7%91%E6%8A%80%E6%95%99%E8%82%B2%E7%A0%94%E7%A9%B6%E8%88%87%E7%99%BC%E5%B1%95%E5%AD%B8%E8%A1%93%E7%A0%94%E8%A8%8E%E6%9C%83%E3%80%8D%E8%AB%96%E6%96%87%E5%BE%B5%E7%A8%BF%E5%85%AC%E6%96%87.pdf",
+        "quote": "並轉知貴校相關系所師生踴躍投稿及報名參加"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28681/%E3%80%8C2027%E7%AC%AC23%E5%B1%86%E7%A7%91%E6%8A%80%E6%95%99%E8%82%B2%E7%A0%94%E7%A9%B6%E8%88%87%E7%99%BC%E5%B1%95%E5%AD%B8%E8%A1%93%E7%A0%94%E8%A8%8E%E6%9C%83%E3%80%8D%E8%AB%96%E6%96%87%E5%BE%B5%E7%A8%BF%E5%85%AC%E6%96%87.pdf",
+        "quote": "正本：公私立大專校院、全國高級中等學校"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "other",
+      "label": "開放徵稿",
+      "date": "2026-10-26",
+      "time": null,
+      "original": "2026.10.26",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs287/「2027第23屆科技教育研究與發展學術研討會」海報.png",
+          "quote": "2026.10.26 開放徵稿"
+        }
+      ]
+    },
+    {
+      "kind": "registration_deadline",
+      "label": "投稿報名及摘要上傳截止",
+      "date": "2027-01-04",
+      "time": null,
+      "original": "116年1月4日（星期一）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.csghs.tp.edu.tw/news/%e5%9c%8b%e7%ab%8b%e9%ab%98%e9%9b%84%e5%b8%ab%e7%af%84%e5%a4%a7%e5%ad%b8%e3%80%8c2027%e7%ac%ac23%e5%b1%86%e7%a7%91%e6%8a%80%e6%95%99%e8%82%b2%e7%a0%94%e7%a9%b6%e8%88%87%e7%99%bc%e5%b1%95%e5%ad%b8/",
+          "quote": "四、投稿報名及摘要上傳自即日起至116年1月4日（星期一）止"
+        }
+      ]
+    },
+    {
+      "kind": "shortlist_announcement",
+      "label": "摘要審查結果公告",
+      "date": "2027-01-27",
+      "time": null,
+      "original": "116年1月27日（星期三）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.csghs.tp.edu.tw/news/%e5%9c%8b%e7%ab%8b%e9%ab%98%e9%9b%84%e5%b8%ab%e7%af%84%e5%a4%a7%e5%ad%b8%e3%80%8c2027%e7%ac%ac23%e5%b1%86%e7%a7%91%e6%8a%80%e6%95%99%e8%82%b2%e7%a0%94%e7%a9%b6%e8%88%87%e7%99%bc%e5%b1%95%e5%ad%b8/",
+          "quote": "預定於116年1月27日（星期三）於研討會網站公告摘要審查結果"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "摘要經接受者論文全文或海報完稿上傳截止",
+      "date": "2027-03-01",
+      "time": "23:59",
+      "original": "116年3月1日（星期一）23時59分",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.csghs.tp.edu.tw/news/%e5%9c%8b%e7%ab%8b%e9%ab%98%e9%9b%84%e5%b8%ab%e7%af%84%e5%a4%a7%e5%ad%b8%e3%80%8c2027%e7%ac%ac23%e5%b1%86%e7%a7%91%e6%8a%80%e6%95%99%e8%82%b2%e7%a0%94%e7%a9%b6%e8%88%87%e7%99%bc%e5%b1%95%e5%ad%b8/",
+          "quote": "五、摘要經接受者，請於116年3月1日（星期一）23時59分前，完成論文全文或海報完稿上傳，並檢附論文原創性比對結果PDF檔。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "全文／海報審查結果公告",
+      "date": "2027-03-25",
+      "time": null,
+      "original": "2027.03.25",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs287/「2027第23屆科技教育研究與發展學術研討會」海報.png",
+          "quote": "2027.03.25"
+        },
+        {
+          "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs287/「2027第23屆科技教育研究與發展學術研討會」海報.png",
+          "quote": "全文/海報審查結果公告"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "研討會線上報名截止",
+      "date": "2027-03-29",
+      "time": null,
+      "original": "2027.03.29",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs287/「2027第23屆科技教育研究與發展學術研討會」海報.png",
+          "quote": "2027.03.29"
+        },
+        {
+          "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs287/「2027第23屆科技教育研究與發展學術研討會」海報.png",
+          "quote": "研討會線上報名截止"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "全文／海報發表場次公告",
+      "date": "2027-04-09",
+      "time": null,
+      "original": "2027.04.09",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs287/「2027第23屆科技教育研究與發展學術研討會」海報.png",
+          "quote": "2027.04.09 全文/海報發表場次公告"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "研討會口頭或海報發表",
+      "date": "2027-04-25",
+      "time": null,
+      "original": "116年4月25日（星期日）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.csghs.tp.edu.tw/news/%e5%9c%8b%e7%ab%8b%e9%ab%98%e9%9b%84%e5%b8%ab%e7%af%84%e5%a4%a7%e5%ad%b8%e3%80%8c2027%e7%ac%ac23%e5%b1%86%e7%a7%91%e6%8a%80%e6%95%99%e8%82%b2%e7%a0%94%e7%a9%b6%e8%88%87%e7%99%bc%e5%b1%95%e5%ad%b8/",
+          "quote": "六、發表者請於116年4月25日（星期日）至研討會會場進行口頭或海報發表"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "公布論文獎得獎名單",
+      "date": "2027-04-25",
+      "time": null,
+      "original": "116年4月25日（星期日）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.csghs.tp.edu.tw/news/%e5%9c%8b%e7%ab%8b%e9%ab%98%e9%9b%84%e5%b8%ab%e7%af%84%e5%a4%a7%e5%ad%b8%e3%80%8c2027%e7%ac%ac23%e5%b1%86%e7%a7%91%e6%8a%80%e6%95%99%e8%82%b2%e7%a0%94%e7%a9%b6%e8%88%87%e7%99%bc%e5%b1%95%e5%ad%b8/",
+          "quote": "六、發表者請於116年4月25日（星期日）至研討會會場進行口頭或海報發表，當日並將公布論文獎得獎名單。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "投稿報名",
+      "what": "論文摘要，主題擇自六項徵稿主題",
+      "how": "online"
+    },
+    {
+      "stage": "摘要經接受者",
+      "what": "論文全文或海報完稿，並附論文原創性比對結果 PDF 檔",
+      "how": "online"
+    },
+    {
+      "stage": "研討會",
+      "what": "口頭或海報發表",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "finalists",
+    "where": "國立高雄師範大學燕巢校區科技大樓4樓工業科技教育學系",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.csghs.tp.edu.tw/news/%e5%9c%8b%e7%ab%8b%e9%ab%98%e9%9b%84%e5%b8%ab%e7%af%84%e5%a4%a7%e5%ad%b8%e3%80%8c2027%e7%ac%ac23%e5%b1%86%e7%a7%91%e6%8a%80%e6%95%99%e8%82%b2%e7%a0%94%e7%a9%b6%e8%88%87%e7%99%bc%e5%b1%95%e5%ad%b8/",
+        "quote": "六、發表者請於116年4月25日（星期日）至研討會會場進行口頭或海報發表"
+      },
+      {
+        "url": "https://www.csghs.tp.edu.tw/news/%e5%9c%8b%e7%ab%8b%e9%ab%98%e9%9b%84%e5%b8%ab%e7%af%84%e5%a4%a7%e5%ad%b8%e3%80%8c2027%e7%ac%ac23%e5%b1%86%e7%a7%91%e6%8a%80%e6%95%99%e8%82%b2%e7%a0%94%e7%a9%b6%e8%88%87%e7%99%bc%e5%b1%95%e5%ad%b8/",
+        "quote": "二、研討會地點：本校燕巢校區科技大樓4樓工業科技教育學系(高雄市燕巢區深中路62號)。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "unknown",
+    "amount": null,
+    "basis": "unread",
+    "evidence": []
+  },
+  "prizes": {
+    "text": "設有論文獎，於研討會當日公布得獎名單。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.csghs.tp.edu.tw/news/%e5%9c%8b%e7%ab%8b%e9%ab%98%e9%9b%84%e5%b8%ab%e7%af%84%e5%a4%a7%e5%ad%b8%e3%80%8c2027%e7%ac%ac23%e5%b1%86%e7%a7%91%e6%8a%80%e6%95%99%e8%82%b2%e7%a0%94%e7%a9%b6%e8%88%87%e7%99%bc%e5%b1%95%e5%ad%b8/",
+        "quote": "當日並將公布論文獎得獎名單。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "unknown",
+    "basis": "unread",
+    "evidence": []
+  },
+  "links": {
+    "official": "https://reurl.cc/omE9zq",
+    "rules": [
+      {
+        "title": "論文徵稿公文",
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28681/%E3%80%8C2027%E7%AC%AC23%E5%B1%86%E7%A7%91%E6%8A%80%E6%95%99%E8%82%B2%E7%A0%94%E7%A9%B6%E8%88%87%E7%99%BC%E5%B1%95%E5%AD%B8%E8%A1%93%E7%A0%94%E8%A8%8E%E6%9C%83%E3%80%8D%E8%AB%96%E6%96%87%E5%BE%B5%E7%A8%BF%E5%85%AC%E6%96%87.pdf"
+      }
+    ],
+    "registration": null
+  },
+  "found_via": [
+    {
+      "name": "中山女高 最新消息",
+      "url": "https://www.csghs.tp.edu.tw/news/%e5%9c%8b%e7%ab%8b%e9%ab%98%e9%9b%84%e5%b8%ab%e7%af%84%e5%a4%a7%e5%ad%b8%e3%80%8c2027%e7%ac%ac23%e5%b1%86%e7%a7%91%e6%8a%80%e6%95%99%e8%82%b2%e7%a0%94%e7%a9%b6%e8%88%87%e7%99%bc%e5%b1%95%e5%ad%b8/"
+    },
+    {
+      "name": "羅東高工 最新消息",
+      "url": "https://www.ltivs.ilc.edu.tw/p/406-1000-5353,r12.php?Lang=zh-tw"
+    },
+    {
+      "name": "嘉義女中 競賽與投稿",
+      "url": "https://www.cygsh.cy.edu.tw/p/406-1013-187187,r679.php"
+    },
+    {
+      "name": "苗栗農工 處室公告",
+      "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=27092"
+    },
+    {
+      "name": "苗栗高中 學生校外營隊、活動、比賽",
+      "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=28681"
+    },
+    {
+      "name": "大安高工 競賽資訊",
+      "url": "https://www.taivs.tp.edu.tw/content?a=T0RESVRVUmpNVTFVWXpKTlJFazkzVmthTkJ6YTY1RWUwc0dWaW50ZWx5"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-24",
+    "method": "single",
+    "unread": [
+      "研討會網站（https://reurl.cc/omE9zq）",
+      "研討會相關資訊頁（https://reurl.cc/1lN4VY）"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-24"
+}
