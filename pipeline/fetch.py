@@ -31,6 +31,7 @@ import re
 import subprocess
 import sys
 import tempfile
+import time
 import urllib.error
 import urllib.parse
 import urllib.request
@@ -50,6 +51,10 @@ BLOCK = {"br", "p", "div", "li", "tr", "h1", "h2", "h3", "h4", "h5", "h6", "td",
 BROWSER_HOSTS: set = set()
 # bhuntr.com: the page is drawn by JavaScript, but the full rules are in the JSON-LD Event.
 MIN_TEXT = 200  # an HTML page with less text than this is rendered in a browser
+# Seconds at least between two requests to a host whose robots.txt sets a Crawl-delay. Kept within
+# one process; separate runs are minutes apart.
+CRAWL_DELAY = {"www.k12ea.gov.tw": 120}
+_last_request: dict = {}
 
 
 class FetchError(Exception):
@@ -228,6 +233,12 @@ def http_get(url: str):
     # Links on school sites often hold spaces and Chinese characters unescaped.
     url = urllib.parse.quote(url, safe=":/?#[]@!$&'()*+,;=%~")
     req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept-Language": "zh-TW,zh;q=0.9"})
+    host = urlparse(url).hostname or ""
+    if host in CRAWL_DELAY:
+        wait = _last_request.get(host, 0) + CRAWL_DELAY[host] - time.monotonic()
+        if wait > 0:
+            time.sleep(wait)
+        _last_request[host] = time.monotonic()
     try:
         with urllib.request.urlopen(req, timeout=40) as resp:
             return resp.read(), resp.headers.get("Content-Type", ""), resp.status

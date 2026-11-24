@@ -1,6 +1,6 @@
 {
   "site": "https://yuanaruru.com/tw-hs-contests",
-  "generated": "2026-11-21",
+  "generated": "2026-11-24",
   "timezone": "Asia/Taipei",
   "count": 92,
   "contests": [
@@ -469,7 +469,7 @@
       },
       "first_seen": "2026-11-20",
       "updated": "2026-11-21",
-      "conflict": "活動時間表仍列報名期間至 2026/11/16 23:59:59，惟 2026/11/02 延長通知公告及頁面頂端均載明延長至 11 月 30 日 23:59:59，本紀錄採用延長後日期 2026-11-30。",
+      "conflict": "活動時間表仍列報名期間至 2026/11/16 23:59:59，惟 2026/11/02 延長通知公告及頁面頂端均載明延長至 11 月 30 日 23:59:59。",
       "level": "verified",
       "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-aicup-solar-defect/",
       "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-aicup-solar-defect.md"
@@ -602,7 +602,7 @@
         ]
       },
       "prizes": {
-        "text": "依注意事項說明，獎項包含獎金、獎座及獎狀；各名次具體金額未載於文字內容中。",
+        "text": "獎項包含獎金、獎座及獎狀。",
         "basis": "quote",
         "evidence": [
           {
@@ -905,7 +905,7 @@
       },
       "first_seen": "2026-11-20",
       "updated": "2026-11-21",
-      "conflict": "簡章英文版「How to Register」寫明於 2026 年 11 月 29 日前報名，其餘中英文時程與 FilmFreeway 頁面及學校公告皆載明截止日為 2026 年 11 月 30 日，本紀錄採 2026-11-30。",
+      "conflict": "簡章英文版「How to Register」寫明於 2026 年 11 月 29 日前報名，其餘中英文時程與 FilmFreeway 頁面及學校公告皆載明截止日為 2026 年 11 月 30 日。",
       "level": "verified",
       "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-chiayi-3min-video/",
       "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-chiayi-3min-video.md"
@@ -1278,7 +1278,7 @@
       },
       "first_seen": "2026-11-20",
       "updated": "2026-11-21",
-      "conflict": "BeClass 頁面所附之 docx 附件檔內文年份仍標示為 2025 及中華民國 114 年，本紀錄依學會 2026 競賽官網記載為準。",
+      "conflict": "BeClass 頁面所附之 docx 附件檔內文年份仍標示為 2025 及中華民國 114 年，與學會 2026 競賽官網不同。",
       "level": "checked",
       "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-chtiia-creative-entrepreneurship/",
       "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-chtiia-creative-entrepreneurship.md"
@@ -2956,7 +2956,7 @@
       },
       "first_seen": "2026-11-20",
       "updated": "2026-11-20",
-      "conflict": "關於初評方式，獎金獵人頁面寫僅就作品與簡報進行書面評選，活動官網則載明初賽為 80% 評審評分加 20% 大眾人氣；名次獎金額官網顯示 0 元，本紀錄依獎金獵人頁面所載填列。",
+      "conflict": "關於初評方式，獎金獵人頁面寫僅就作品與簡報進行書面評選，活動官網則載明初賽為 80% 評審評分加 20% 大眾人氣；名次獎金額官網顯示 0 元。",
       "level": "unverified",
       "url": null,
       "markdown": null
@@ -3767,7 +3767,7 @@
       ],
       "attendance": {
         "value": "all",
-        "where": "南港展覽館 1 館 1F、4F（台灣醫療科技展觀展體驗；決審地點未載）",
+        "where": "南港展覽館 1 館 1F、4F（台灣醫療科技展觀展體驗）",
         "basis": "quote",
         "evidence": [
           {
@@ -3861,7 +3861,7 @@
       },
       "first_seen": "2026-11-20",
       "updated": "2026-11-20",
-      "conflict": "簡章本文（肆、一、(三)與肆、三、(三)）及西松高中公告皆載明資料繳交截止日為 12 月 24 日，惟簡章陸、競賽重要日程表列為 2026/12/25；本紀錄依簡章本文及公告採 2026-12-24。",
+      "conflict": "簡章本文（肆、一、(三)與肆、三、(三)）及西松高中公告皆載明資料繳交截止日為 12 月 24 日，惟簡章陸、競賽重要日程表列為 2026/12/25。",
       "level": "verified",
       "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-ibmi-medtech-creative/",
       "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-ibmi-medtech-creative.md"
@@ -4889,7 +4889,7 @@
       },
       "first_seen": "2026-11-20",
       "updated": "2026-11-21",
-      "conflict": "官方網站首頁與簡章網頁標題仍標示「114 學年度」，且網頁版簡章另列線上研習期限為 116 年 2 月 3 日前，與 115 學年度 PDF 簡章（於各場次高峰營辦理前觀看）略異；本紀錄以 115 學年度 PDF 參賽簡章為主，並輔以網頁版簡章補充該線上研習日期。",
+      "conflict": "官方網站首頁與簡章網頁標題仍標示「114 學年度」，且網頁版簡章另列線上研習期限為 116 年 2 月 3 日前，與 115 學年度 PDF 簡章（於各場次高峰營辦理前觀看）略異。",
       "level": "checked",
       "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-indigenous-science-fair/",
       "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-indigenous-science-fair.md"
@@ -7524,7 +7524,7 @@
         ]
       },
       "prizes": {
-        "text": "總獎金達 450,000 元，另設 AI 微電影最佳人氣獎（各組別詳細獎金由網頁動態生成，未顯示於文件）。",
+        "text": "總獎金達 450,000 元，另設 AI 微電影最佳人氣獎。",
         "basis": "quote",
         "evidence": [
           {
@@ -7587,7 +7587,7 @@
       },
       "first_seen": "2026-11-20",
       "updated": "2026-11-20",
-      "conflict": "官網最新公告與競賽時程寫報名截止時間為 23:59（或 23:59:59），立即報名參賽區另寫 24:00，本紀錄依競賽時程與最新公告採 23:59。",
+      "conflict": "官網最新公告與競賽時程寫報名截止時間為 23:59（或 23:59:59），立即報名參賽區另寫 24:00。",
       "level": "verified",
       "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-nutn-ai-project/",
       "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-nutn-ai-project.md"
@@ -9744,7 +9744,7 @@
       },
       "first_seen": "2026-11-20",
       "updated": "2026-11-20",
-      "conflict": "英文版簡章（Rules and Regulations）載明收件期間為 2026 年 10 月 8 日至 11 月 8 日 24:00，而中文版延期報名簡章與活動官網均載明報名與收件至 115 年 11 月 25 日 23:59 截止；本紀錄依較新之中文版延期報名簡章與活動官網採計 2026-11-25。",
+      "conflict": "英文版簡章（Rules and Regulations）載明收件期間為 2026 年 10 月 8 日至 11 月 8 日 24:00，而中文版延期報名簡章與活動官網均載明報名與收件至 115 年 11 月 25 日 23:59 截止。",
       "level": "verified",
       "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-taipei-five-senses-video/",
       "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-taipei-five-senses-video.md"
@@ -11234,7 +11234,7 @@
       },
       "first_seen": "2026-11-20",
       "updated": "2026-11-20",
-      "conflict": "競賽規則 PDF 中部分日期誤植為 2023（報名與試玩截止日寫為 2023/11/20、頒獎典禮寫為 2023/12/09），本紀錄依官網公告頁與規則其餘時程採用 2026 年。",
+      "conflict": "競賽規則 PDF 中部分日期誤植為 2023（報名與試玩截止日寫為 2023/11/20、頒獎典禮寫為 2023/12/09），官網公告頁與規則其餘時程皆為 2026 年。",
       "level": "verified",
       "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-tpcu-ba-stock-king/",
       "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-tpcu-ba-stock-king.md"
@@ -13315,7 +13315,7 @@
       },
       "first_seen": "2026-11-20",
       "updated": "2026-11-21",
-      "conflict": "各組參賽規則頁記載「禁止生成式 AI 技術之使用」，但 2026/11/19 更新之官方常見問題說明非內容生成輔助工具不在此限，且遊戲組開放於揭露後使用 AI 輔助程式開發；本紀錄依較新之常見問題採 restricted。",
+      "conflict": "各組參賽規則頁記載「禁止生成式 AI 技術之使用」，但 2026/11/19 更新之官方常見問題說明非內容生成輔助工具不在此限，且遊戲組開放於揭露後使用 AI 輔助程式開發。",
       "level": "checked",
       "url": "https://yuanaruru.com/tw-hs-contests/contests/2027-bahamut-acg-award/",
       "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2027-bahamut-acg-award.md"
@@ -18163,7 +18163,7 @@
       },
       "first_seen": "2026-11-20",
       "updated": "2026-11-20",
-      "conflict": "競賽簡章所載之報名繳件表單連結為 https://forms.gle/fFwFuSaJpm7w2yC6A，企劃書格式說明所載連結則為 https://forms.gle/dJHazwJbRDtVibrS8；本紀錄依競賽簡章為準。",
+      "conflict": "競賽簡章所載之報名繳件表單連結為 https://forms.gle/fFwFuSaJpm7w2yC6A，企劃書格式說明所載連結則為 https://forms.gle/dJHazwJbRDtVibrS8。",
       "level": "verified",
       "url": "https://yuanaruru.com/tw-hs-contests/contests/2027-nownews-crossroad-resilience/",
       "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2027-nownews-crossroad-resilience.md"
@@ -18441,7 +18441,7 @@
         "evidence": []
       },
       "prizes": {
-        "text": "六大主題分別評選，各主題皆設有金、銀、銅牌及特優獎項與獎金（金額未載）。",
+        "text": "六大主題分別評選，各主題皆設有金、銀、銅牌及特優獎項與獎金。",
         "basis": "quote",
         "evidence": [
           {
@@ -19976,7 +19976,7 @@
       },
       "first_seen": "2026-11-20",
       "updated": "2026-11-20",
-      "conflict": "官網活動頁面（ytlee.org.tw/activity/2681）與報名簡章 PDF 在初賽結果通知日（2 月 25 日與 2 月 20 日）、報名截止時間（簡章日程段寫 23:00，官網與簡章總覽寫上午 11:00）及東區說明會日期（9 月 3 日與 9 月 10 日）有所不同；依簡章備註「以官網公告為準」，本紀錄從官網。",
+      "conflict": "官網活動頁面（ytlee.org.tw/activity/2681）與報名簡章 PDF 在初賽結果通知日（2 月 25 日與 2 月 20 日）、報名截止時間（簡章日程段寫 23:00，官網與簡章總覽寫上午 11:00）及東區說明會日期（9 月 3 日與 9 月 10 日）有所不同；簡章備註「以官網公告為準」。",
       "level": "checked",
       "url": "https://yuanaruru.com/tw-hs-contests/contests/2027-yt-3mintalk4science/",
       "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2027-yt-3mintalk4science.md"

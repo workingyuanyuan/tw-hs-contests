@@ -2,7 +2,7 @@
 title: "2026年跨世代《青年就是「韌」性！》公民提案競賽"
 description: "高中職以上 2 至 5 人組隊，針對全社會防衛韌性繳交企畫書，入圍者須參加口試決選。"
 appliesTo: "2026 這一屆"
-caveat: "高中職學生與大專生或社會人士同組評比。競賽簡章所載之報名繳件表單連結為 https://forms.gle/fFwFuSaJpm7w2yC6A，企劃書格式說明所載連結則為 https://forms.gle/dJHazwJbRDtVibrS8；本紀錄依競賽簡章為準。"
+caveat: "高中職學生與大專生或社會人士同組評比。競賽簡章所載之報名繳件表單連結為 https://forms.gle/fFwFuSaJpm7w2yC6A，企劃書格式說明所載連結則為 https://forms.gle/dJHazwJbRDtVibrS8。"
 lastVerified: 2026-11-21
 kind: "contest"
 deadline: "2027-01-08"

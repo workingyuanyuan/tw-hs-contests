@@ -12,6 +12,13 @@
 //   page notes name the source. Where sources disagree, name the other source
 //   ("Prydwen and Game8 spell it Daffodil"). Quotations (blockquotes) are left out.
 //
+// - checkOpening: the answer line is the page's only opening. The body starts with a heading,
+//   a table, a list, a quotation or an image, never with a paragraph of prose: a paragraph
+//   there is a second opening, and it restates the answer line (owner decision, 2026-11-24).
+//
+// These patterns catch only phrasings already seen. Text about the page in other words, and a
+// sentence that restates another, are left to the prose ledger (scripts/prose-review.mjs).
+//
 // Copy this file unchanged between sites; site-specific words go in `extra`.
 
 export const SELF_REFERENCE = [
@@ -69,5 +76,18 @@ export function checkSelfReference(doc, id, fail, extra = []) {
 			const at = Math.max(0, m.index - 30);
 			fail(id, `prose names its source instead of stating the fact: …${prose.slice(at, m.index + m[0].length + 30).trim()}…`);
 		}
+	}
+}
+
+/** Fails when the body opens with a paragraph of prose instead of a heading, table, list, quotation or image. */
+export function checkOpening(doc, id, fail) {
+	const content = doc.querySelector('main .sl-markdown-content');
+	if (!content || ![...content.children].some((el) => el.classList.contains('answer'))) return;
+	for (const el of content.children) {
+		if (el.matches('.agent-note, .answer, script, style, link, meta')) continue;
+		if (el.tagName === 'P' && el.textContent.trim() && !el.querySelector('img, picture, svg')) {
+			fail(id, `the body opens with a paragraph after the answer line; start it with a heading, table, list, quotation or image: ${el.textContent.trim().slice(0, 60)}…`);
+		}
+		break;
 	}
 }

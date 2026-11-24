@@ -47,9 +47,8 @@ SUBJECT_SLUGS = {
 }
 DIVISION_TEXT = {"hs_only": "只限高中職學生", "separate": "高中職自成一組", "mixed": "高中職與其他對象同組評比"}
 HOW_TEXT = {"online": "線上繳交", "mail": "郵寄或親送", "onsite": "現場", "unknown": ""}
-HOME_ROWS = 8  # contests in each list on the home page; more push the index links past 5,000 characters
+HOME_ROWS = 8  # contests in the list on the home page; more push the index links past 5,000 characters
 SOON_DAYS = 14  # "closing soon" on the home page
-NEW_DAYS = 7  # "newly added" on the home page
 
 
 def ystr(text) -> str:
@@ -96,8 +95,6 @@ def deadline_text(rec) -> str:
     return "" if not d else f"{d[0]} {d[1]}".strip()
 
 
-def days_before(iso: str, days: int) -> str:
-    return (datetime.fromisoformat(iso) - timedelta(days=days)).date().isoformat()
 
 
 def organizers(rec) -> str:
@@ -289,13 +286,11 @@ def home_page(records, months, subjects, archive) -> str:
     live = [r for r in records if is_open(r)]
     soon_end = (datetime.fromisoformat(TODAY) + timedelta(days=SOON_DAYS)).date().isoformat()
     soon = [r for r in live if deadline(r) and deadline(r)[0] <= soon_end]
-    new_since = days_before(TODAY, NEW_DAYS)
-    fresh = sorted((r for r in live if r["first_seen"] >= new_since), key=lambda r: (r["first_seen"], r["id"]), reverse=True)
     fields = {
         "title": "高中職競賽目錄",
         "description": f"臺灣高中職學生現在可以報名的比賽 {len(live)} 則，{len(soon)} 則在 {SOON_DAYS} 天內截止。",
         "appliesTo": f"資料更新至 {last_checked(records)}",
-        "caveat": "日期皆為臺灣時間 (UTC+8)；截止日是新參賽者報名的最後一天，報名方式與資格以主辦單位的簡章與報名頁為準。",
+        "caveat": "日期皆為臺灣時間 (UTC+8)；截止日是新參賽者報名的最後一天。",
         "lastVerified": last_checked(records),
         "kind": "page",
     }
@@ -303,13 +298,11 @@ def home_page(records, months, subjects, archive) -> str:
     # The home lists are short (date and name): the home page must reach every other page within the
     # first 5,000 characters an agent's fetch returns (scripts/check-dist.mjs). Columns go before pages.
     body += contest_table(soon[:HOME_ROWS], short=True) if soon else [f"{soon_end} 之前沒有截止的比賽。"]
-    if fresh:
-        body += ["", f"## 新收錄（{new_since} 起）", ""] + contest_table(fresh[:HOME_ROWS], short=True)
-    body += ["", "## 依截止月份", ""]
+    body += ["", "## 截止月份", ""]
     body += [f"- [{m[:4]} 年 {int(m[5:])} 月](/deadlines/{m}/)：{len(items)} 則" for m, items in sorted(months.items()) if m != "undated"]
     if "undated" in months:
         body.append(f"- [截止日未定](/deadlines/undated/)：{len(months['undated'])} 則")
-    body += ["", "## 依類別", ""]
+    body += ["", "## 類別", ""]
     body += [f"- [{name}](/subjects/{SUBJECT_SLUGS[name]}/)：{len(items)} 則" for name, items in subjects.items()]
     if archive:
         body += ["", "## 封存", ""]

@@ -30,6 +30,7 @@ Do not browse the web. Do not change any file except `out.json`, `model.txt` and
 
 - Facts only, from these documents only. Never from memory, from the title, or from another year's edition. A value the documents do not support is `null` or `"unknown"`.
 - Write values in Traditional Chinese as the documents do; keep names exactly as written.
+- Write what the documents say, never what they leave out: not 「金額未載」, 「未提及」 or 「未顯示於文件」. A value the documents do not give is left out of the sentence, or the fact is `unknown`.
 - Every fact carries `basis` and `evidence`:
   - `quote`: each evidence item has the document's `url` (from the first line of its `docs/NN.txt`) and a `quote` copied from the text after `---`, character for character, without changing punctuation or full-width and half-width forms. Copy a whole clause or sentence, at most about 150 characters. Do not join text from two places into one quote; use two evidence items.
   - `absent`: the documents were read in full and say nothing about it. Evidence lists the documents read, `url` only, no `quote`. Use it for `fee`, `attendance`, `ai_policy` and `prizes` only:
@@ -50,7 +51,7 @@ Do not browse the web. Do not change any file except `out.json`, `model.txt` and
 - `id`: the edition's year, a hyphen, then a short ASCII key of lower-case letters, digits and hyphens, for example `2026-thu-smart-sustainability`. The year is the year of the registration deadline.
 - `links.official`: the organizer's own page for this contest, when it is among the documents or their links. `links.rules`: rule documents (PDF and the like) with a short title. `links.registration`: the registration address when a document gives it.
 - `verification.unread`: the names of documents that the rules refer to and that you could not read (a form, an annex, an image without text). `verification.note`: `null`.
-- `conflict`: when the organizer's documents contradict each other on a fact, say so in one or two sentences, naming each document and the value it gives. Write about the documents only, never about the record, the page or the site (not 「本頁採……」 or 「本站……」); the page itself shows the value the record follows. Otherwise leave the field out.
+- `conflict`: when the organizer's documents contradict each other on a fact, say so in one or two sentences, naming each document and the value it gives. Write about the documents only, never about the record, the page or the site (not 「本紀錄採……」, 「本頁採……」 or 「本站……」); the page itself shows the value the record follows. Otherwise leave the field out.
 - Do not copy personal contact details (a contact person's name, phone, e-mail) anywhere, not even inside a quote. The check fails on them.
 - The script fills these; write them as placeholders: `"found_via": []`, `"first_seen"` and `"updated"` today, `"verification.last_verified"` today, `"verification.method": "single"`, `"schema": 1`.
 

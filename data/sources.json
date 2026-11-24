@@ -214,5 +214,146 @@
   "pages": null,
   "max_pages": 1,
   "note": "RPage list whose one page holds every announcement since early August."
+ },
+ {
+  "id": "scvs",
+  "name": "三重商工 學生事務公告",
+  "url": "https://www.scvs.ntpc.edu.tw/p/403-1000-28-1.php",
+  "read": "html",
+  "item": "/p/406-1000-\\d+,r28",
+  "pages": "https://www.scvs.ntpc.edu.tw/p/403-1000-28-{n}.php",
+  "max_pages": 25,
+  "note": "RPage list of student-affairs notices, 12 a page; by page 9 the posts date back to 2024."
+ },
+ {
+  "id": "ykvs",
+  "name": "鶯歌工商 最新消息",
+  "url": "https://www.ykvs.ntpc.edu.tw/p/403-1000-23-1.php",
+  "read": "html",
+  "item": "/p/406-1000-\\d+,r23",
+  "pages": "https://www.ykvs.ntpc.edu.tw/p/403-1000-23-{n}.php",
+  "max_pages": 20,
+  "date": "after",
+  "note": "RPage list of all school news, 20 a page; the date sits two lines below the title, after the posting office."
+ },
+ {
+  "id": "ltivs",
+  "name": "羅東高工 最新消息",
+  "url": "https://www.ltivs.ilc.edu.tw/p/403-1000-12-1.php?Lang=zh-tw",
+  "read": "html",
+  "item": "/p/406-1000-\\d+,r12",
+  "pages": "https://www.ltivs.ilc.edu.tw/p/403-1000-12-{n}.php?Lang=zh-tw",
+  "max_pages": 25,
+  "note": "RPage list of all school news, 20 a page."
+ },
+ {
+  "id": "sssh",
+  "name": "壽山高中 校外競賽",
+  "url": "https://www.sssh.tyc.edu.tw/category/news/news_03/",
+  "read": "html",
+  "item": "sssh\\.tyc\\.edu\\.tw/(news|office)/.+",
+  "pages": "https://www.sssh.tyc.edu.tw/category/news/news_03/page/{n}/",
+  "max_pages": 10,
+  "note": "WordPress category of outside contests, about 25 posts a page; the date sits on the line above the title."
+ },
+ {
+  "id": "k12ea",
+  "name": "教育部國民及學前教育署 公文公告平台",
+  "url": "https://www.k12ea.gov.tw/Tw/Annc/List?filter=AC097895-3399-4890-8891-FC005A77CCB3",
+  "read": "html",
+  "item": "/Tw/Annc/Detail\\?filter=AC097895-3399-4890-8891-FC005A77CCB3&id=",
+  "pages": "https://www.k12ea.gov.tw/Tw/Annc/List?filter=AC097895-3399-4890-8891-FC005A77CCB3&page={n}",
+  "max_pages": 12,
+  "note": "Forwarded documents from all divisions, including contests run by other agencies, 10 a page; the date is printed inside the link text. robots.txt sets Crawl-delay 120 (CRAWL_DELAY in pipeline/fetch.py)."
+ },
+ {
+  "id": "aidea",
+  "name": "AIdea 人工智慧共創平台 競賽議題",
+  "url": "https://www.aidea-web.tw/",
+  "read": "html",
+  "item": "aidea-web\\.tw/topic/[0-9a-f-]{36}$",
+  "pages": null,
+  "max_pages": 1,
+  "note": "The home page lists the newest contest topics, then standing practice topics open until 2099; the date read is the first day of each contest period."
+ },
+ {
+  "id": "wlsh",
+  "name": "武陵高中 校外競賽",
+  "url": "https://www.wlsh.tyc.edu.tw/p/403-1000-83-1.php?Lang=zh-tw",
+  "read": "html",
+  "item": "/p/406-1000-\\d+,r83",
+  "pages": "https://www.wlsh.tyc.edu.tw/p/403-1000-83-{n}.php?Lang=zh-tw",
+  "max_pages": 8,
+  "note": "RPage list, 20 a page."
+ },
+ {
+  "id": "cksh",
+  "name": "成功高中 活動競賽",
+  "url": "https://www.cksh.tp.edu.tw/category/news/news_2/",
+  "read": "html",
+  "item": "cksh\\.tp\\.edu\\.tw/news/[^/?#]+/?$",
+  "pages": "https://www.cksh.tp.edu.tw/category/news/news_2/page/{n}/",
+  "max_pages": 25,
+  "note": "WordPress category, about 15 posts a page."
+ },
+ {
+  "id": "ttsh",
+  "name": "大同高中 學生競賽活動",
+  "url": "https://www.ttsh.tp.edu.tw/category/news/news_04/",
+  "read": "html",
+  "item": "ttsh\\.tp\\.edu\\.tw/news/[^/?#]+/?$",
+  "pages": "https://www.ttsh.tp.edu.tw/category/news/news_04/page/{n}/",
+  "max_pages": 12,
+  "note": "WordPress category, 20 posts a page; pinned posts lead the first page."
+ },
+ {
+  "id": "hshs",
+  "name": "海山高中 學生競賽活動",
+  "url": "https://www.hshs.ntpc.edu.tw/p/403-1000-156-1.php?Lang=zh-tw",
+  "read": "html",
+  "item": "/p/406-1000-\\d+,r156",
+  "pages": "https://www.hshs.ntpc.edu.tw/p/403-1000-156-{n}.php?Lang=zh-tw",
+  "max_pages": 8,
+  "note": "RPage list, 12 a page, with no dates; it holds the school's own contests as well as forwarded ones."
+ },
+ {
+  "id": "cygsh",
+  "name": "嘉義女中 競賽與投稿",
+  "url": "https://www.cygsh.cy.edu.tw/p/403-1013-679-1.php?Lang=zh-tw",
+  "read": "html",
+  "item": "/p/406-1013-\\d+,r679",
+  "pages": null,
+  "max_pages": 1,
+  "note": "RPage list whose one page holds every post since August 2025."
+ },
+ {
+  "id": "tcfsh",
+  "name": "臺中一中 校外活動",
+  "url": "https://tcfsh.tc.edu.tw/p/403-1076-4385-1.php?Lang=zh-tw",
+  "read": "html",
+  "item": "/p/406-1076-\\d+,r4385",
+  "pages": "https://tcfsh.tc.edu.tw/p/403-1076-4385-{n}.php?Lang=zh-tw",
+  "max_pages": 10,
+  "note": "RPage list, 20 a page, kept back to late May."
+ },
+ {
+  "id": "hgsh",
+  "name": "新竹女中 活動研習",
+  "url": "https://www.hgsh.hc.edu.tw/category/news/news3/",
+  "read": "html",
+  "item": "hgsh\\.hc\\.edu\\.tw/news/[^/?#]+/?$",
+  "pages": "https://www.hgsh.hc.edu.tw/category/news/news3/page/{n}/",
+  "max_pages": 12,
+  "note": "WordPress category, 20 posts a page; it also carries teacher workshops."
+ },
+ {
+  "id": "ccshpt",
+  "name": "潮州高中 學生課外活動",
+  "url": "https://www.ccsh.ptc.edu.tw/data_news.php?type=news6",
+  "read": "html",
+  "item": "data\\.php\\?id=\\d{5,}&tpl=(?!(?:10|25)$)\\d+$",
+  "pages": "https://www.ccsh.ptc.edu.tw/data_news.php?page={n}&tpl=&sys_name=&keyword=&highlights=&video=&type=news6",
+  "max_pages": 16,
+  "note": "News list of the school's own system, 10 a page; links with tpl=10 or tpl=25 are the side banners on every page."
  }
 ]

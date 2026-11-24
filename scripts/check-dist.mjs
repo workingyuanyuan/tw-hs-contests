@@ -17,6 +17,7 @@
 //  9. The 404 page links each language's home page and page list.
 // 10. robots.txt names the sitemap and carries a Content-Signal line.
 // 11. Data files: data/contests.json lists every contest page, each with its own JSON file.
+// 12. Prose ledger: every unit of the site's own prose is in reviews/prose-ledger.json.
 // Header and page text: the header links the first page of each sidebar group (deadlines,
 //     subjects, archive) in order; the page notes link the Markdown twin, llms.txt and
 //     index.json; no text in <main> is about the site or the page (scripts/check-page-text.mjs).
@@ -32,7 +33,8 @@ import { SITE, LOCALES, LLMS_NOTES, DATA_PATH, localeOf, htmlPath, mdPath, llmsP
 import { bundlePath } from '../src/lib/llms.mjs';
 import { readPages } from '../src/lib/content-index.mjs';
 import { checkFound } from './check-found.mjs';
-import { checkHeaderAndOutputs, checkSelfReference } from './check-page-text.mjs';
+import { checkHeaderAndOutputs, checkSelfReference, checkOpening } from './check-page-text.mjs';
+import { checkProse } from './prose-review.mjs';
 
 const DIST = fileURLToPath(new URL('../dist/', import.meta.url));
 const LIMIT = 5000;
@@ -210,6 +212,7 @@ for (const { id, data } of pages) {
 		outputs: [withBase(mdPath(id)), withBase(llmsPath(localeOf(id))), withBase('/index.json')],
 	});
 	checkSelfReference(doc, id, fail);
+	checkOpening(doc, id, fail);
 
 	// 5. No decoration leak into extracted text.
 	const visible = normalize(doc.body.textContent);
@@ -284,6 +287,10 @@ else {
 // pipeline/build_pages.py adds the edition to a name that two pages share.
 
 checkFound(DIST, pages, fail, { mayShareDescription: (page) => kindOf(page) === 'contest' });
+
+// 12. Prose ledger: every unit of the site's own prose has been read against
+//     scripts/prose-rubric.md and is recorded in reviews/prose-ledger.json (scripts/prose-review.mjs).
+await checkProse(fail, DIST);
 
 if (failures.length) {
 	console.error(`FAIL: ${failures.filter((f) => !f.startsWith('    ')).length} problem(s) in ${pages.length} pages\n`);

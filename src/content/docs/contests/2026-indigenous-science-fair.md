@@ -2,7 +2,7 @@
 title: "原住民族文化與科學展覽會"
 description: "高級中等以下學生組隊（至少半數具原住民身分）就原民文化科學主題研究，經構想、計畫書、成果報告審查後於實體科展簡報。"
 appliesTo: "115 學年度 這一屆"
-caveat: "須由學校推薦或薦送，學生不能自行報名。官方網站首頁與簡章網頁標題仍標示「114 學年度」，且網頁版簡章另列線上研習期限為 116 年 2 月 3 日前，與 115 學年度 PDF 簡章（於各場次高峰營辦理前觀看）略異；本紀錄以 115 學年度 PDF 參賽簡章為主，並輔以網頁版簡章補充該線上研習日期。"
+caveat: "須由學校推薦或薦送，學生不能自行報名。官方網站首頁與簡章網頁標題仍標示「114 學年度」，且網頁版簡章另列線上研習期限為 116 年 2 月 3 日前，與 115 學年度 PDF 簡章（於各場次高峰營辦理前觀看）略異。"
 lastVerified: 2026-11-21
 kind: "contest"
 deadline: "2026-12-17"
@@ -15,6 +15,10 @@ sources:
     url: "https://drive.google.com/file/d/1TglIGY42aA5w2UqtlQAQhYLH9mlsnu4H/view?usp=sharing"
   - title: "參賽簡章網頁"
     url: "https://ieiw.k12ea.gov.tw/ScienceFair/Brochure"
+  - title: "官方網站其他頁面"
+    url: "https://ieiw.k12ea.gov.tw/ScienceFair/News/Detail/693380eb-7225-4d13-94c3-3cae771ef9ac"
+  - title: "官方網站其他頁面"
+    url: "https://ieiw.k12ea.gov.tw/ScienceFair/News/Detail/0cef88f1-7358-4005-ad0b-91a07f0af806"
   - title: "轉發公告：斗六高中轉發公告"
     url: "https://www.tlsh.ylc.edu.tw/2026/10/25/68390/"
 ---

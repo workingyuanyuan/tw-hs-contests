@@ -115,6 +115,25 @@ def contact_details(rec) -> list:
     return [name for name, pattern in CONTACT if pattern.search(text)]
 
 
+# Page text is about the contest: never about the record, the page or the site, and never about what a
+# document leaves out (the fact is left out instead). The prose ledger reads the rest (scripts/prose-review.mjs).
+SELF_TEXT = re.compile(r"本紀錄|本記錄|本頁|本站|本目錄|未載|未提及|未顯示|未列出|未註明|未明列")
+
+
+def own_text(value, key=""):
+    """The record's own wording: every string outside evidence, links, found_via and the script's notes."""
+    if key in ("evidence", "links", "found_via", "url", "verification"):
+        return
+    if isinstance(value, str):
+        yield value
+    elif isinstance(value, dict):
+        for k, v in value.items():
+            yield from own_text(v, k)
+    elif isinstance(value, list):
+        for v in value:
+            yield from own_text(v, key)
+
+
 def check_fact(name, fact, unknown, cache, errors, warnings):
     """Return True when the fact is supported: a checked quote, or documents read that say nothing."""
     basis, evidence = fact["basis"], fact["evidence"]
@@ -168,6 +187,10 @@ def check(path: Path, cache: Cache):
 
     for name in contact_details(rec):
         errors.append(f"personal contact detail in the record ({name}): leave it out, even inside a quote")
+    for text in own_text(rec):
+        m = SELF_TEXT.search(text)
+        if m:
+            errors.append(f"wording about the record or about what a document leaves out ({m.group(0)}): {text[:60]}")
 
     if rec["id"] != path.stem:
         errors.append(f"id '{rec['id']}' does not match the file name")

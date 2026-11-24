@@ -13,6 +13,8 @@ sources:
     url: "https://igd.gamelab.com.tw/#/login"
   - title: "《第九造物》遊戲狂潮設計競賽規程（總則）"
     url: "https://igd.gamelab.com.tw/assets/files/%E7%AC%AC%E4%B9%9D%E9%80%A0%E7%89%A9_%E7%AB%B6%E8%B3%BD%E8%A6%8F%E7%A8%8B%EF%BC%88%E7%B8%BD%E5%89%87%EF%BC%89.pdf?v=c3e4a659be34"
+  - title: "官方網站其他頁面"
+    url: "https://igd.gamelab.com.tw/#/rules"
   - title: "轉發公告：獎金獵人刊登頁"
     url: "https://bhuntr.com/tw/competitions/tgsbfa6qftfmlqlw5k"
 ---

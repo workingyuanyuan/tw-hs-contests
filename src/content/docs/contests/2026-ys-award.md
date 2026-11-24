@@ -13,6 +13,8 @@ sources:
     url: "https://award.ysed.org.tw/signup"
   - title: "第24屆育秀盃創意獎 競賽辦法(函文_大專院校)"
     url: "https://cdn.bountyhunter.co/file-presign/3a0937d1-20bd-4607-9e8d-d60179f4b6b8.pdf?dl=%E7%AC%AC24%E5%B1%86%E8%82%B2%E7%A7%80%E7%9B%83%E5%89%B5%E6%84%8F%E7%8D%8E%20%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95(%E5%87%BD%E6%96%87_%E5%A4%A7%E5%B0%88%E9%99%A2%E6%A0%A1).pdf"
+  - title: "官方網站其他頁面"
+    url: "https://award.ysed.org.tw/competition"
 ---
 
 ## 重點
