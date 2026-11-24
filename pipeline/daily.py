@@ -3,7 +3,8 @@
 Run: uv run -q --isolated --with pymupdf --with playwright --with jsonschema python -I pipeline/daily.py <step> [options]
   prepare [--limit N] [--second N] [--triage N] [--search N] [--no-discover] [--no-recheck] [--force]
   finish
-RUN.md says how an agent runs the whole update with these two steps.
+  reread <id> [<id> ...]
+RUN.md says how an agent runs the whole update with these steps.
 
 prepare
 1. Once a day: read the sources' list pages (pipeline/discover.py), then re-check every watched
@@ -25,10 +26,19 @@ prepare
 finish
 1. Apply every task that has an out.json: triage results become candidates, readings become
    records, links that a search found and the script kept join their candidates. A task without out.json changes nothing and comes back in a later round.
-2. A record that fails the checks is moved to data/stale/ so that it is not published (for
+2. Records of one contest (the same edition, title and an organizer, under two ids) become one:
+   the id seen first stays, with the best-verified reading, and the candidates of the others follow
+   it (pipeline/extract.py merge_duplicates).
+   A record that fails the checks is moved to data/stale/ so that it is not published (for
    example when a document it quotes was removed: its server answered 404 or 410).
 3. Write the pages and data files (pipeline/build_pages.py).
 4. Add the round to data/runs/<date>.json and say whether another round has work.
+
+reread
+Queue records to be read again under their ids, from all their documents: for wording a reader
+wrote (the summary, a deliverable, the prizes) that the prose review flagged. The next prepare
+gives each a first reading before any other; the new reading replaces the record, and its second
+reading starts over. A record already queued is left as it is.
 
 Nothing here commits or publishes; scripts/publish-daily.sh does that.
 """
@@ -276,6 +286,12 @@ def finish(_args):
                 second["note"] = line[:200]
         print(f"[{folder.name}] {line}", flush=True)
         results.append({"task": folder.name, "result": line})
+    try:
+        merged = extract.merge_duplicates(queue)
+    except Exception as e:  # noqa: BLE001  a record that cannot be compared must not stop the round
+        merged = [f"error: {type(e).__name__}: {str(e)[:200]}"]
+    for line in merged:
+        print(f"[merge] {line}", flush=True)
     stale = set_aside_failing(queue)
     cq.save(queue)
     triage.save_discovered(discovered)
@@ -288,7 +304,7 @@ def finish(_args):
     for c in queue:
         status[c["status"]] = status.get(c["status"], 0) + 1
     run = load_run()
-    run.setdefault("rounds", []).append({"tasks": results, "set_aside": stale})
+    run.setdefault("rounds", []).append({"tasks": results, "merged": merged, "set_aside": stale})
     run["queue"] = status
     run["announcements_waiting"] = sum(1 for e in discovered.values() if e["outcome"] == "new")
     run["records"] = len(list(CONTESTS.glob("*.json")))
@@ -299,6 +315,32 @@ def finish(_args):
     print(json.dumps({k: run[k] for k in ("queue", "announcements_waiting", "records")}, ensure_ascii=False))
     print(f"work left for another round: {waiting} items" if waiting else "no work left")
     sys.exit(build.returncode)
+
+
+def reread(args):
+    queue = cq.load()
+    for rid in args.ids:
+        path = CONTESTS / f"{rid}.json"
+        if not path.exists():
+            print(f"{rid}: no such record in data/contests/")
+            continue
+        rec = json.loads(path.read_text(encoding="utf-8"))
+        # the last candidate of the record, the one its second reading uses (extract.second_todo)
+        cand = next((c for c in reversed(queue) if c.get("record") == rid), None)
+        if any(c.get("record") == rid and c["status"] in ("new", "failed", "search") for c in queue):
+            print(f"{rid}: already queued")
+            continue
+        docs = (cq.record_urls(rec) | set(up.sources(rec))) - {f["url"] for f in rec["found_via"]}
+        urls = [{"url": u, "role": "rules", "name": ""} for u in sorted(docs)]
+        urls += [{"url": f["url"], "role": "announcement", "name": f["name"]} for f in rec["found_via"] if f["url"]]
+        if not cand:
+            cand = {"key": cq.next_key(queue), "title": rec["title"], "deadline": None, "urls": urls,
+                    "seen_in": "reread", "first_seen": rec["first_seen"], "last_seen": TODAY, "attempts": 0}
+            queue.append(cand)
+        cand.pop("need", None)
+        cand.update(status="new", record=rid, attempts=0, urls=urls, note="重新讀取：用語未通過審讀")
+        print(f"{rid}: queued ({cand['key']})")
+    cq.save(queue)
 
 
 def main():
@@ -313,8 +355,10 @@ def main():
     p.add_argument("--no-recheck", action="store_true", help="do not re-check the watched records")
     p.add_argument("--force", action="store_true", help="drop tasks prepared earlier and not finished")
     steps.add_parser("finish", help="apply the tasks that were done, then write the pages")
+    r = steps.add_parser("reread", help="queue records to be read again under their ids")
+    r.add_argument("ids", nargs="+", help="record ids (data/contests/<id>.json)")
     args = ap.parse_args()
-    prepare(args) if args.step == "prepare" else finish(args)
+    {"prepare": prepare, "finish": finish, "reread": reread}[args.step](args)
 
 
 if __name__ == "__main__":

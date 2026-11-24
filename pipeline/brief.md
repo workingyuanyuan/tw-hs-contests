@@ -40,12 +40,12 @@ Do not browse the web. Do not change any file except `out.json`, `model.txt` and
     - Use `unknown` instead when the rules you have are incomplete: only a poster, a summary page, or rules that refer to a document you could not read for these matters.
   - `unread`: nothing was read on this; the value must be `unknown` or `null` and `evidence` is `[]`.
 - Dates: ISO `YYYY-MM-DD`. Convert ROC years (115 年 = 2026, 116 年 = 2027). The quote of a date must contain its month and day as written, so quote the line that holds the date. `time` is `HH:MM` (24-hour) or `null`.
-- `dates` holds every dated step: registration and submission deadlines, shortlist announcement, final event, result announcement. When a document gives a range, the deadline is its last day.
+- `dates` holds every dated step: registration and submission deadlines, shortlist announcement, final event, result announcement. When a document gives a range, the deadline is its last day. A `label` says what happens on the date and, when it holds for some entrants only, for whom (「金門縣參賽隊伍決賽報名截止」); never which document gives it (not 「（某某公告）」).
 - `eligibility.levels`: everyone who may enter (`國小`, `國中`, `高中`, `高職`, `五專`, `大專`, `研究所`, `社會人士`…), not only senior-high students.
 - `eligibility.division`: `hs_only` when only senior-high and vocational students may enter; `separate` when senior-high and vocational students have a division of their own; `mixed` when they are judged in one division with university students or adults (a "學生組" open to every level of school is `mixed`); `unknown`.
 - `eligibility.regions`: `["全國"]` unless the documents limit entry to named counties, cities or schools; an entry open to anyone in or outside Taiwan is also `["全國"]`.
 - `eligibility.nomination`: `school` when entry needs the school's selection or nomination; `none` when the documents describe students registering themselves or their team; `unknown` when they say neither.
-- `summary`: one sentence of at most 70 characters: who does what and hands in what.
+- `summary`: one sentence of at most 70 characters: who does what and hands in what. It opens the contest's page, and `deliverables` is listed under it: name the work in general terms (its kind and subject), and leave the stages, forms and the way it is handed in (online, by post, on site) to `deliverables`, so that no deliverable says only what the summary says.
 - `title`: the official name without the organizer in front. `organizers`: each with role `主辦`, `承辦`, `協辦` or `指導`.
 - `categories`: one to three values from the list in the schema.
 - `id`: the edition's year, a hyphen, then a short ASCII key of lower-case letters, digits and hyphens, for example `2026-thu-smart-sustainability`. The year is the year of the registration deadline.

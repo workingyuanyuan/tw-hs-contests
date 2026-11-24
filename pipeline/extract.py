@@ -332,9 +332,49 @@ def compare(a, b):
     return "dual", "；".join(notes) or None
 
 
+CN_DIGITS = {"〇": 0, "零": 0, "一": 1, "二": 2, "兩": 2, "三": 3, "四": 4, "五": 5, "六": 6, "七": 7, "八": 8, "九": 9}
+
+
+def cn_number(s: str):
+    """An ordinal written in digits or in Chinese numerals (十七, 二十四, 一百零二); None for anything else."""
+    if s.isdigit():
+        return int(s)
+    total, num = 0, 0
+    for ch in s:
+        if ch in CN_DIGITS:
+            num = CN_DIGITS[ch]
+        elif ch in "十百":
+            total += (num or 1) * (10 if ch == "十" else 100)
+            num = 0
+        else:
+            return None
+    return total + num
+
+
+def ordinal(edition: str):
+    """The N of 「第 N 屆」 in an edition, or None."""
+    m = re.search(r"第\s*([0-9０-９]+|[〇零一二兩三四五六七八九十百]+)\s*[屆届]", edition)
+    return cn_number(m.group(1)) if m else None
+
+
 def same_edition(a, b) -> bool:
-    """Organizers reuse a page for the next edition; a shared link alone does not make two readings one record."""
-    return re.sub(r"\s+", "", a["edition"]) == re.sub(r"\s+", "", b["edition"])
+    """Organizers reuse a page for the next edition; a shared link alone does not make two readings one record.
+    Readers write one edition in several ways (「第 4 屆」 and 「第 4 屆（115 年度）」, 「2027 第五屆」 and
+    「第五屆」): where both name an ordinal, the ordinal decides, unless both name years and no year is shared."""
+    ea, eb = (re.sub(r"\s+", "", x.get("edition") or "") for x in (a, b))
+    oa, ob = ordinal(ea), ordinal(eb)
+    if oa is not None and ob is not None:
+        ya, yb = (set(re.findall(r"20\d\d", e)) for e in (ea, eb))
+        return oa == ob and not (ya and yb and not ya & yb)
+    return ea == eb
+
+
+def same_contest_by_title(a, b) -> bool:
+    """The same title (spaces aside) and a shared organizer: two readings of one contest whose
+    announcements shared no link."""
+    title = lambda r: re.sub(r"\s+", "", r.get("title") or "")
+    orgs = lambda r: {re.sub(r"\s+", "", o.get("name") or "") for o in r.get("organizers") or []} - {"", "unknown"}
+    return bool(title(a)) and title(a) == title(b) and bool(orgs(a) & orgs(b))
 
 
 def place(rec, cand, readers, method, note):
@@ -347,19 +387,21 @@ def place(rec, cand, readers, method, note):
         cand["record"] = None  # its page now describes another edition, which is a record of its own
     if cand.get("record"):  # read again for an existing record: keep its id
         rec["id"] = cand["record"]
-    else:  # a record of the same edition that shares a link with the candidate is the same contest
-        for other in sorted(CONTESTS.glob("*.json")):
-            old = json.loads(other.read_text(encoding="utf-8"))
-            if same_edition(old, rec) and {cq.same_url(u) for u in cq.record_urls(old)} & cand_urls:
-                rec["id"] = old["id"]
-                break
+    else:  # a record of the same edition that shares a link with the candidate, or else has its title, is the same contest
+        olds = [json.loads(p.read_text(encoding="utf-8")) for p in sorted(CONTESTS.glob("*.json"))]
+        olds = [o for o in olds if same_edition(o, rec)]
+        match = next((o for o in olds if {cq.same_url(u) for u in cq.record_urls(o)} & cand_urls), None) \
+            or next((o for o in olds if same_contest_by_title(o, rec)), None)
+        if match:
+            rec["id"] = match["id"]
     rid = rec["id"]
     path = CONTESTS / f"{rid}.json"
     first_seen = cand.get("first_seen") or TODAY
     if path.exists():
         old = json.loads(path.read_text(encoding="utf-8"))
         if cand.get("record") or same_edition(old, rec) and (
-                {cq.same_url(u) for u in cq.record_urls(old)} & cand_urls or old["title"] == rec["title"]):
+                {cq.same_url(u) for u in cq.record_urls(old)} & cand_urls
+                or re.sub(r"\s+", "", old["title"]) == re.sub(r"\s+", "", rec["title"])):
             first_seen = min(old["first_seen"], first_seen)
         else:
             n = 2
@@ -386,6 +428,49 @@ def place(rec, cand, readers, method, note):
     # What the readers read is what pnpm upstream and the daily re-check compare with.
     up.save_baselines({rid: up.baseline_from_cache(rec)})
     return rid, level
+
+
+METHOD_RANK = {"dual": 0, "single": 1}
+
+
+def merge_duplicates(queue) -> list:
+    """Make one record of the records that describe one contest (the same edition, the same title and
+    a shared organizer) written under two ids before place() matched them: the readers wrote the
+    edition differently, or the announcements shared no link. The id seen first stays, so an address
+    already published stays. Its content is the best-verified reading, the newest of equals, with its
+    baselines; the other ids are removed and their candidates name the id kept. The queue is saved
+    before any record changes, so a run stopped halfway finds the same group again. Returns lines for
+    the log."""
+    recs = [json.loads(p.read_text(encoding="utf-8")) for p in sorted(CONTESTS.glob("*.json"))]
+    recs.sort(key=lambda r: (r.get("first_seen") or "", bool(re.search(r"-\d+$", r["id"])), r.get("updated") or "", r["id"]))
+    groups = []
+    for r in recs:
+        group = next((g for g in groups if same_edition(g[0], r) and same_contest_by_title(g[0], r)), None)
+        group.append(r) if group else groups.append([r])
+    groups = [g for g in groups if len(g) > 1]
+    if not groups:
+        return []
+    gone = {r["id"]: g[0]["id"] for g in groups for r in g[1:]}
+    for c in queue:
+        if c.get("record") in gone:
+            c["record"] = gone[c["record"]]
+    cq.save(queue)
+    baselines = (up.load_manifest() or {}).get("records") or {}
+    lines, entries = [], {}
+    for g in groups:
+        cid = g[0]["id"]
+        best = min(g, key=lambda r: (METHOD_RANK.get(r["verification"].get("method"), 2),
+                                     -int((r.get("updated") or "0").replace("-", "") or 0), r["id"] != cid))
+        rec = dict(best, id=cid, first_seen=min(r["first_seen"] for r in g))
+        (CONTESTS / f"{cid}.json").write_text(json.dumps(rec, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+        if best["id"] in baselines:
+            entries[cid] = baselines[best["id"]]
+        lines.append(f"{', '.join(r['id'] for r in g[1:])} merged into {cid}"
+                     + (f" (content of {best['id']})" if best["id"] != cid else ""))
+    up.save_baselines(entries, keep=set(baselines) - set(gone) | set(entries))
+    for rid in gone:
+        (CONTESTS / f"{rid}.json").unlink(missing_ok=True)
+    return lines
 
 
 def check_written(rec):

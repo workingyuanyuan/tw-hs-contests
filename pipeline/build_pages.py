@@ -20,6 +20,7 @@ that it moves to the archive.
 There are no hand-written pages.
 """
 import json
+import re
 import os
 import shutil
 import sys
@@ -119,6 +120,10 @@ def levels_text(levels) -> str:
     return "、".join(names)
 
 
+# A region named as who enters ("臺北市國小至高中職學生"), not as a subject ("以臺北市為主題").
+REGION_WHO = r"(?:的|各|轄內|所屬|公私立)*(?:國小|國中|高中|高職|五專|大專|大學|學生|在學|在籍|設籍)"
+
+
 def caveat(rec) -> str:
     """The one qualifier a reader most likely misses, as a sentence that stands alone."""
     e, f = rec["eligibility"], rec["fee"]
@@ -126,7 +131,8 @@ def caveat(rec) -> str:
         main = f"報名已於 {deadline_text(rec)} 截止。"
     elif e["nomination"] == "school":
         main = "須由學校推薦或薦送，學生不能自行報名。"
-    elif e["regions"] and e["regions"] != ["全國"]:
+    elif e["regions"] and e["regions"] != ["全國"] and not all(re.search(re.escape(r) + REGION_WHO, rec["summary"]) for r in e["regions"]):
+        # an answer line that limits who enters to the regions already says it; the next qualifier is the caveat
         main = f"只限{'、'.join(e['regions'])}的學生參加。"
     elif e["division"] == "mixed":
         main = "高中職學生與大專生或社會人士同組評比。"
