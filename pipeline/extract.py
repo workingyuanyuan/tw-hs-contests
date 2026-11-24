@@ -1,34 +1,27 @@
-"""Read the documents of queued contests with two independent readers and write the records.
+"""Reading tasks: the documents of one queued contest, read by an agent in a fresh context.
 
-Run: uv run -q --isolated --with pymupdf --with playwright --with jsonschema python -I pipeline/extract.py [options]
-  --limit N      read at most N candidates (default 10)
-  --jobs N       candidates read at the same time (default 3)
-  --key KEY      read these candidates only (repeatable), whatever their status
-  --readers A,B  reader models (default READERS below); one reader gives method "single"
-  --second N     also give up to N open single-reader records to the other reader
+pipeline/daily.py calls this module; it has no command of its own.
 
-Scripts own all input and output: this script fetches the documents, a reader model only
-reads the files it is given and writes out.json, and pipeline/validate.py decides whether
-the result may be kept. Each reader works in its own folder under work/<key>/<model>/ and
-never sees the other's work.
+Scripts own all input and output. `write_task` fetches the candidate's documents and writes a task
+folder (work/tasks/<key>-<reading>/) with their texts, pipeline/brief.md, the schema, an example
+record and check.py. The agent that runs the task reads only that folder and writes out.json (and
+its model's name in model.txt); it never fetches and never sees another reading of the contest.
+`finish_first` and `finish_second` judge out.json with pipeline/validate.py and settle the result.
 
-Outcome per candidate (data/candidates.json):
-  both readings pass the checks and agree on the key facts  -> record, method "dual"
-  both pass and disagree on a key fact                      -> record, method "disputed" (no page)
+A contest is read twice, each time in a fresh context, at the first and at a later round:
+  first reading passes the checks                    -> record, method "single" (level checked)
+  second reading passes and agrees on the key facts  -> method "dual" (verified)
+  second reading passes and disagrees on a key fact  -> method "disputed" (no page)
   (key facts: deadline and eligibility; when they disagree on attendance or fee, that fact is left out)
-  one passes                                                -> record, method "single"
-  both say skip                                             -> status "skipped"
-  otherwise                                                 -> status "failed", tried again later
+  first reading says skip                            -> status "skipped"
+  first reading asks for documents ({"need": [...]}) -> read again with them, once
+  otherwise                                          -> status "failed", tried again later
 """
-import argparse
 import json
 import re
 import shutil
-import subprocess
 import sys
-import threading
 import urllib.parse
-from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 from urllib.parse import urlparse
 
@@ -36,40 +29,28 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 import candidates as cq  # noqa: E402
 import upstream as up  # noqa: E402
 from fetch import cached, fetch, load_index  # noqa: E402
-from validate import ROOT, Cache, check, entry_deadline  # noqa: E402
+from validate import ROOT, Cache, check, entry_deadline, passed  # noqa: E402
 
-WORK = ROOT / "work"
+TASKS = ROOT / "work/tasks"
 PIPELINE = ROOT / "pipeline"
 CONTESTS = ROOT / "data/contests"
 TODAY = cq.TODAY
-READERS = ["gemini-4-hydrogen-medium", "gpt-6.1-sol"]
-READER_TIMEOUT = 1500  # seconds per reader run
 MAX_DOCS = 12
 DOC_WORDS = re.compile(r"簡章|辦法|須知|規則|規章|要點|實施計畫|計畫書|附件|官網|官方網站|活動網站|競賽網站|比賽網站|活動網頁|詳見|點此")
 DOC_EXT = re.compile(r"\.(pdf|docx?|odt|pptx?)(\?|$)", re.I)
 NOT_DOCS = ("facebook.com", "instagram.com", "line.me", "lin.ee", "youtube.com", "youtu.be", "twitter.com", "x.com",
             "plurk.com", "threads.net", "apple.co", "google.com/maps", "docs.google.com/forms", "forms.gle")
 
-fetch_lock = threading.Lock()
-exhausted: set = set()  # reader models that hit their usage limit in this run
-LIMIT_WORDS = ("usage limit", "rate limit", "quota", "RESOURCE_EXHAUSTED")
-queue_lock = threading.Lock()
-
-
-def log(key, msg):
-    print(f"[{key}] {msg}", flush=True)
-
 
 def get(url):
     """Text and links of a document, fetched once a day."""
-    with fetch_lock:
-        entry = load_index().get(url)
-        if not entry or entry["fetched_at"][:10] != TODAY:
-            try:
-                fetch(url)
-            except Exception as e:  # noqa: BLE001
-                return None, f"{type(e).__name__}: {str(e)[:120]}"
-        return cached(url), None
+    entry = load_index().get(url)
+    if not entry or entry["fetched_at"][:10] != TODAY:
+        try:
+            fetch(url)
+        except Exception as e:  # noqa: BLE001
+            return None, f"{type(e).__name__}: {str(e)[:120]}"
+    return cached(url), None
 
 
 GENERIC = re.compile(r"\d+|第.{1,3}屆|全國|競賽|比賽|大賽|高中職|高級中等學校|學生|學校|國立|大學|科技|活動|辦理|舉辦|轉知|公告")
@@ -145,14 +126,19 @@ def gather(cand, extra=()):
     return docs, problems
 
 
-def prepare(folder: Path, cand, docs, asked: bool):
+def write_task(folder: Path, cand, reading: int, record=None):
+    """Fetch the candidate's documents and write its task folder. Returns None, or why no folder was written."""
+    need = (cand.get("second") or {}).get("need") if reading == 2 else cand.get("need")
+    docs, problems = gather(cand, extra=need or ())
+    if not docs:
+        return "no document could be fetched: " + "; ".join(problems)[:200]
     shutil.rmtree(folder, ignore_errors=True)
     (folder / "docs").mkdir(parents=True)
-    lines = [f"# Task", "", f"Today: {TODAY}", f"Contest named in an announcement (a hint only): {cand['title']}"]
+    lines = ["# Task", "", f"Today: {TODAY}", f"Contest named in an announcement (a hint only): {cand['title']}"]
     if cand.get("deadline"):
         lines.append(f"Deadline given in that announcement (a hint only): {cand['deadline']}")
-    if asked:
-        lines.append("You have already asked for more documents once; write a record or a skip now.")
+    if need:
+        lines.append("A reader has already asked for more documents once; write a record or a skip now.")
     lines += ["", "## Documents", ""]
     for i, d in enumerate(docs, 1):
         name = f"docs/{i:02d}.txt"
@@ -165,87 +151,100 @@ def prepare(folder: Path, cand, docs, asked: bool):
     shutil.copy(PIPELINE / "brief.md", folder / "brief.md")
     shutil.copy(ROOT / "data/schema/contest.schema.json", folder / "schema.json")
     shutil.copy(CONTESTS / "2026-thu-smart-sustainability.json", folder / "example.json")
-    (folder / "check.py").write_text((PIPELINE / "check_out.py").read_text(encoding="utf-8").replace("__PIPELINE__", str(PIPELINE)),
-                                     encoding="utf-8")
+    shutil.copy(PIPELINE / "check_out.py", folder / "check.py")
+    offered = sorted({l["url"] for d in docs for l in d["links"][:150]})
+    task = {"kind": "read", "key": cand["key"], "reading": reading, "record": record, "asked": bool(need),
+            "docs": [d["url"] for d in docs], "offered": offered}
+    (folder / "task.json").write_text(json.dumps(task, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+    return None
 
 
-PROMPT = ("Read brief.md and task.md in the current folder and follow brief.md exactly. "
-          "Write out.json in the current folder and run `python3 check.py` until it prints OK.")
+def reading_shape(data, task):
+    """(kind, problems) of a reading's out.json before the publishing checks: kind is "need", "skip"
+    or "record". Shared with check.py, so that what the reader is told OK is what finish accepts."""
+    if not isinstance(data, dict):
+        return "record", ["out.json must be one JSON object"]
+    if "need" in data:
+        urls = data["need"]
+        if not isinstance(urls, list) or not urls or not all(isinstance(u, str) for u in urls):
+            return "need", ['"need" must be a list of 1 to 6 links']
+        if task.get("asked"):
+            return "need", ["more documents were asked for once already: write a record or a skip"]
+        if len(urls) > 6 or not set(urls) <= set(task.get("offered", [])):
+            return "need", ['"need" takes at most 6 links, copied exactly from a docs/NN.links.txt file']
+        return "need", []
+    if "skip" in data:
+        if not isinstance(data["skip"], str) or not data["skip"].strip():
+            return "skip", ['"skip" must give the reason']
+        return "skip", []
+    rid = data.get("id")
+    if not isinstance(rid, str) or not re.fullmatch(r"\d{4}-[a-z0-9-]+", rid):
+        return "record", ["id is missing or not in the form YYYY-key"]
+    supplied = set(task.get("docs", []))
+    foreign = sorted({ev.get("url") for f in evidence_lists(data) for ev in f if isinstance(ev, dict)} - supplied - {None})
+    if supplied and foreign:
+        return "record", [f"evidence cites a document that is not in docs/: {foreign[0]}"]
+    return "record", []
 
 
-def run_reader(model: str, folder: Path, prompt: str = PROMPT) -> str:
-    """Run one reader in its folder. Returns a short status for the log."""
-    log_path = folder / "reader.log"
-    if model.startswith("gemini"):
-        cmd = ["agy", "--model", model, "--dangerously-skip-permissions", "--print-timeout", "20m", "-p", prompt]
-        stdin = subprocess.DEVNULL
-        inp = None
-    else:
-        cmd = ["codex", "exec", "-m", model, "-c", 'model_reasoning_effort="medium"', "-s", "workspace-write",
-               "-C", str(folder), "--skip-git-repo-check", "-o", str(folder / "last-message.md"), "-"]
-        stdin, inp = None, prompt
+def evidence_lists(rec):
+    """Every evidence list in a record, whatever its shape, for the check above (schema errors come later)."""
+    found = []
+    def walk(x):
+        if isinstance(x, dict):
+            if isinstance(x.get("evidence"), list):
+                found.append(x["evidence"])
+            for v in x.values():
+                walk(v)
+        elif isinstance(x, list):
+            for v in x:
+                walk(v)
+    walk(rec)
+    return found
+
+
+def reader_of(folder: Path) -> str:
+    """The model the agent named in model.txt, else "unknown"."""
     try:
-        with open(log_path, "a", encoding="utf-8") as logf:
-            subprocess.run(cmd, cwd=folder, stdin=stdin, input=inp, stdout=logf, stderr=subprocess.STDOUT,
-                           text=True, timeout=READER_TIMEOUT, check=False)
-    except subprocess.TimeoutExpired:
-        return "timeout"
-    tail = log_path.read_text(encoding="utf-8", errors="replace")[-3000:]
-    if not (folder / "out.json").exists() and any(w in tail for w in LIMIT_WORDS):
-        exhausted.add(model)
-        return "limit"
-    return "ran"
+        name = (folder / "model.txt").read_text(encoding="utf-8").strip().splitlines()[0].strip()
+    except (OSError, IndexError):
+        return "unknown"
+    return re.sub(r"[^\w.:/@+-]", "", name)[:60] or "unknown"
 
 
 def judge(folder: Path):
-    """('record', rec, errors) | ('need', urls) | ('skip', reason) | ('none', message)."""
+    """('record', rec, errors) | ('need', urls) | ('skip', reason) | ('none', message) | ('missing', None)."""
     out = folder / "out.json"
+    if not out.exists():
+        return ("missing", None)
+    task = json.loads((folder / "task.json").read_text(encoding="utf-8"))
     try:
         data = json.loads(out.read_text(encoding="utf-8"))
     except (OSError, json.JSONDecodeError) as e:
         return ("none", f"no valid out.json: {str(e)[:80]}")
-    if isinstance(data, dict) and "need" in data:
-        return ("need", [u for u in data["need"] if isinstance(u, str)][:6])
-    if isinstance(data, dict) and "skip" in data:
-        return ("skip", str(data["skip"]))
+    kind, problems = reading_shape(data, task)
+    if problems and kind != "record":
+        return ("none", problems[0])
+    if kind == "need":
+        return ("need", data["need"])
+    if kind == "skip":
+        return ("skip", data["skip"].strip())
+    if problems:
+        return ("record", data, problems)
     tmp = folder / "final"
     shutil.rmtree(tmp, ignore_errors=True)
     tmp.mkdir()
-    rid = data.get("id") if isinstance(data, dict) else None
-    if not isinstance(rid, str) or not re.match(r"^\d{4}-[a-z0-9-]+$", rid):
-        return ("record", data, ["id is missing or not in the form YYYY-key"])
-    path = tmp / f"{rid}.json"
+    path = tmp / f"{data['id']}.json"
     path.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
-    errors, _, _ = check(path, Cache())
+    errors, _, _ = check(path, Cache(strict=True))
     return ("record", data, errors)
 
 
-def read_once(model, cand, key):
-    """One reader's work on one candidate, including one request for documents and one fix of errors."""
-    folder = WORK / key / model
-    if model in exhausted:
-        return ("none", "usage limit reached")
-    docs, problems = gather(cand)
-    if not docs:
-        return ("none", "no document could be fetched: " + "; ".join(problems)[:200])
-    prepare(folder, cand, docs, asked=False)
-    status = run_reader(model, folder)
-    result = judge(folder)
-    if result[0] == "need":
-        offered = {l["url"] for d in docs for l in d["links"]}
-        wanted = [u for u in result[1] if u in offered]
-        log(key, f"{model} asks for {len(wanted)} more documents")
-        docs, problems = gather(cand, extra=wanted)
-        prepare(folder, cand, docs, asked=True)
-        status = run_reader(model, folder)
-        result = judge(folder)
-    if result[0] == "record" and result[2]:
-        (folder / "errors.md").write_text("\n".join(f"- {e}" for e in result[2]) + "\n", encoding="utf-8")
-        status = run_reader(model, folder, PROMPT + " Your out.json failed the checks listed in errors.md: fix them.")
-        result = judge(folder)
-    if status in ("timeout", "limit") and result[0] == "none":
-        return ("none", "the reader timed out" if status == "timeout" else "usage limit reached")
-    return result
+def describe(result) -> str:
+    kind = result[0]
+    if kind == "record":
+        return f"record ({len(result[2])} errors: {result[2][0][:80]})" if result[2] else "record"
+    return f"{kind} ({str(result[1])[:80]})" if result[1] else kind
 
 
 UNKNOWN = ("unknown", None, [])
@@ -305,15 +304,20 @@ def compare(a, b):
     return "dual", "；".join(notes) or None
 
 
+def same_edition(a, b) -> bool:
+    """Organizers reuse a page for the next edition; a shared link alone does not make two readings one record."""
+    return re.sub(r"\s+", "", a["edition"]) == re.sub(r"\s+", "", b["edition"])
+
+
 def place(rec, cand, readers, method, note):
     """Fill the fields the script owns and write the record. Returns its id."""
     cand_urls = {cq.same_url(u["url"]) for u in cand["urls"]}
     if cand.get("record"):  # read again for an existing record: keep its id
         rec["id"] = cand["record"]
-    else:  # a record that shares a link with the candidate is the same contest
+    else:  # a record of the same edition that shares a link with the candidate is the same contest
         for other in sorted(CONTESTS.glob("*.json")):
             old = json.loads(other.read_text(encoding="utf-8"))
-            if {cq.same_url(u) for u in cq.record_urls(old)} & cand_urls:
+            if same_edition(old, rec) and {cq.same_url(u) for u in cq.record_urls(old)} & cand_urls:
                 rec["id"] = old["id"]
                 break
     rid = rec["id"]
@@ -321,7 +325,8 @@ def place(rec, cand, readers, method, note):
     first_seen = cand.get("first_seen") or TODAY
     if path.exists():
         old = json.loads(path.read_text(encoding="utf-8"))
-        if {cq.same_url(u) for u in cq.record_urls(old)} & cand_urls or old["title"] == rec["title"]:
+        if cand.get("record") or same_edition(old, rec) and (
+                {cq.same_url(u) for u in cq.record_urls(old)} & cand_urls or old["title"] == rec["title"]):
             first_seen = min(old["first_seen"], first_seen)
         else:
             n = 2
@@ -350,139 +355,97 @@ def place(rec, cand, readers, method, note):
 
 
 def check_written(rec):
-    tmp = WORK / "_final"
+    tmp = ROOT / "work/_final"
     tmp.mkdir(parents=True, exist_ok=True)
     path = tmp / f"{rec['id']}.json"
     path.write_text(json.dumps(rec, ensure_ascii=False, indent=2), encoding="utf-8")
-    return check(path, Cache())
+    return check(path, Cache(strict=True))
 
 
-def process(cand, readers):
-    key = cand["key"]
-    log(key, f"start: {cand['title'][:40]}")
-    with ThreadPoolExecutor(max_workers=len(readers)) as pool:
-        results = list(pool.map(lambda m: read_once(m, cand, key), readers))
-    good = [(m, r[1]) for m, r in zip(readers, results) if r[0] == "record" and not r[2]]
-    skips = [r[1] for r in results if r[0] == "skip"]
-    summary = "; ".join(f"{m}: {r[0]}" + (f" ({len(r[2])} errors)" if r[0] == "record" and r[2] else "")
-                        + (f" ({r[1][:60]})" if r[0] in ("skip", "none") else "") for m, r in zip(readers, results))
-    outcome = {"status": "failed", "record": None, "note": summary}
-    if len(good) == 2:
-        method, note = compare(good[0][1], good[1][1])
-        rid, level = place(good[0][1], cand, [m for m, _ in good], method, note)
-        outcome = {"status": "done", "record": rid, "note": f"{method}, {level}"}
-    elif len(good) == 1:
-        others = [m for m in readers if m != good[0][0]]
-        rid, level = place(good[0][1], cand, [good[0][0]], "single", None)
-        outcome = {"status": "done", "record": rid,
-                   "note": f"single ({', '.join(others)} did not pass: {summary})" if others else "single"}
-    elif skips and len(skips) == len(readers):
-        outcome = {"status": "skipped", "record": None, "note": skips[0]}
-    with queue_lock:
-        queue = cq.load()
-        for c in queue:
-            if c["key"] == key:
-                # a failed re-read keeps the id of the record it reads again
-                c.update({k: v for k, v in outcome.items() if v is not None or k != "record"})
-                c["attempts"] = c.get("attempts", 0) + 1
-                if c["status"] == "failed" and c["attempts"] >= cq.MAX_ATTEMPTS:
-                    c["status"] = "given_up"
-        cq.save(queue)
-    log(key, f"{outcome['status']}: {outcome['record'] or ''} {outcome['note'] or ''}"[:300])
-    return outcome
+def finish_first(cand, folder: Path) -> str:
+    """Settle a first reading in the candidate (changed in place). Returns a line for the log."""
+    result = judge(folder)
+    if result[0] == "missing":
+        return "not run"
+    if result[0] == "need":
+        cand["need"] = result[1]
+        return f"asks for {len(cand['need'])} more documents"
+    cand.pop("need", None)
+    cand["attempts"] = cand.get("attempts", 0) + 1
+    if result[0] == "record" and not result[2]:
+        rid, level = place(result[1], cand, [reader_of(folder)], "single", None)
+        cand.update(status="done", record=rid, note=f"single, {level}")
+        cand.pop("second", None)  # a new reading of the record: its second reading starts over
+        return f"done: {rid} ({level})"
+    if result[0] == "skip":
+        cand.update(status="skipped", note=result[1][:200])
+        return "skipped: " + result[1][:80]
+    cand.update(status="failed", note=describe(result))
+    if cand["attempts"] >= cq.MAX_ATTEMPTS:
+        cand["status"] = "given_up"
+    return f"{cand['status']}: {cand['note']}"
 
 
-def second_reading(path: Path, readers) -> str:
-    """Give a record read by one reader to a reader that has not read it, and compare."""
+def finish_second(cand, folder: Path) -> str:
+    """Compare a second reading with the record it reads again. Returns a line for the log."""
+    result = judge(folder)
+    task = json.loads((folder / "task.json").read_text(encoding="utf-8"))
+    second = cand.setdefault("second", {"attempts": 0})
+    if result[0] == "missing":
+        return "not run"
+    if result[0] == "need":
+        second["need"] = result[1]
+        return f"asks for {len(second['need'])} more documents"
+    second.pop("need", None)
+    second["attempts"] += 1
+    path = CONTESTS / f"{task['record']}.json"
+    if not path.exists():
+        second["note"] = "the record is gone"
+        return second["note"]
+    if result[0] != "record" or result[2]:
+        second["note"] = describe(result)
+        return f"no second reading: {second['note']}"
     rec = json.loads(path.read_text(encoding="utf-8"))
     v = rec["verification"]
-    missing = [m for m in readers if m not in (v.get("readers") or []) and m not in exhausted]
-    if not missing:
-        return "no reader left"
-    model = missing[0]
-    queue = cq.load()
-    cand = next((c for c in queue if c.get("record") == rec["id"]), None)
-    if not cand:
-        cand = {"key": f"r-{rec['id']}", "title": rec["title"], "deadline": None, "first_seen": rec["first_seen"],
-                "urls": [{"url": u, "role": "rules", "name": ""} for u in sorted(cq.record_urls(rec))]}
-    result = read_once(model, cand, cand["key"])
-    if result[0] != "record" or result[2]:
-        return f"{model}: {result[0]}" + (f" ({len(result[2])} errors)" if result[0] == "record" else f" ({str(result[1])[:80]})")
     method, note = compare(rec, result[1])
-    v.update(method=method, note=note, readers=[*(v.get("readers") or []), model])
+    v.update(method=method, note=note, readers=[*(v.get("readers") or []), reader_of(folder)])
     path.write_text(json.dumps(rec, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    return f"{model}: {method}"
+    second["note"] = method
+    return f"second reading: {method}"
 
 
-def second_readings(readers, limit, jobs):
-    """Give up to `limit` open single-reader records to the other reader, soonest deadline first:
-    the second reader's quota is the scarce one, and a wrong deadline hurts most when it is near."""
+def first_todo(queue, limit: int) -> list:
+    """Candidates to read, at most `limit`: re-reads of records first, then by deadline."""
+    todo = [c for c in queue if c["status"] == "new" or (c["status"] == "failed" and c.get("attempts", 0) < cq.MAX_ATTEMPTS)]
+    todo.sort(key=lambda c: (c.get("record") is None, c["status"] != "new", c.get("deadline") or "9999",
+                             c.get("first_seen") or ""))
+    return todo[:limit]
+
+
+def second_todo(queue, limit: int) -> list:
+    """(candidate, record id) of open records read once, soonest deadline first, at most `limit`.
+    A record with no candidate (read before the queue existed) gets one."""
+    by_record = {c["record"]: c for c in queue if c.get("record")}
     todo = []
     for path in sorted(CONTESTS.glob("*.json")):
         rec = json.loads(path.read_text(encoding="utf-8"))
-        v = rec["verification"]
         due = entry_deadline(rec)
-        if v["method"] == "single" and len(v.get("readers") or []) < len(readers) and (due is None or due[0] >= TODAY):
-            todo.append(((due or ("9999",))[0], path))
-    todo = [path for _, path in sorted(todo)[:limit]]
-    print(f"second readings: {len(todo)}", flush=True)
-
-    def one(path):
-        try:
-            outcome = second_reading(path, readers)
-        except Exception as e:  # noqa: BLE001
-            outcome = f"{type(e).__name__}: {str(e)[:120]}"
-        log(path.stem, "second reading: " + outcome)
-        return path.stem, outcome
-
-    with ThreadPoolExecutor(max_workers=jobs) as pool:
-        return list(pool.map(one, todo))
-
-
-def safe_process(cand, readers):
-    try:
-        return process(cand, readers)
-    except Exception as e:  # noqa: BLE001  one candidate must not stop the others
-        note = f"{type(e).__name__}: {str(e)[:200]}"
-        with queue_lock:
-            queue = cq.load()
-            for c in queue:
-                if c["key"] == cand["key"]:
-                    c.update(status="failed", note=note, attempts=c.get("attempts", 0) + 1)
-            cq.save(queue)
-        log(cand["key"], "failed: " + note)
-        return {"status": "failed", "record": None, "note": note}
-
-
-def main():
-    ap = argparse.ArgumentParser()
-    ap.add_argument("--limit", type=int, default=10)
-    ap.add_argument("--jobs", type=int, default=3)
-    ap.add_argument("--key", action="append", default=[])
-    ap.add_argument("--readers", default=",".join(READERS))
-    ap.add_argument("--second", type=int, default=0, help="also give up to N single-reader records to the other reader")
-    args = ap.parse_args()
-    readers = [r for r in args.readers.split(",") if r]
-    if args.second and not args.key and args.limit == 0:
-        second_readings(READERS, args.second, args.jobs)
-        return
-    queue = cq.load()
-    if args.key:
-        todo = [c for c in queue if c["key"] in args.key]
-    else:
-        todo = [c for c in queue if c["status"] == "new" or (c["status"] == "failed" and c.get("attempts", 0) < cq.MAX_ATTEMPTS)]
-        todo.sort(key=lambda c: (c["status"] != "new", c.get("deadline") or "9999"))
-        todo = todo[: args.limit]
-    print(f"reading {len(todo)} candidates with {', '.join(readers)}", flush=True)
-    with ThreadPoolExecutor(max_workers=args.jobs) as pool:
-        outcomes = list(pool.map(lambda c: safe_process(c, readers), todo))
-    counts = {}
-    for o in outcomes:
-        counts[o["status"]] = counts.get(o["status"], 0) + 1
-    print("done:", ", ".join(f"{k} {v}" for k, v in sorted(counts.items())))
-    if args.second:
-        second_readings(READERS, args.second, args.jobs)
-
-
-if __name__ == "__main__":
-    main()
+        v = rec["verification"]
+        if v["method"] != "single" or len(v.get("readers") or []) >= 2 or (due and passed(due)):
+            continue  # a second reading that left a key fact unconfirmed keeps the record single
+        cand = by_record.get(rec["id"])
+        if cand and (cand["status"] in ("new", "failed") or (cand.get("second") or {}).get("attempts", 0) >= cq.MAX_ATTEMPTS):
+            continue  # being read again, or its second readings failed
+        todo.append((due or ("9999-12-31", ""), rec))
+    out = []
+    for _, rec in sorted(todo, key=lambda t: (t[0][0], t[0][1] or "24:00"))[:limit]:
+        cand = by_record.get(rec["id"])
+        if not cand:
+            cand = {"key": cq.next_key(queue), "title": rec["title"], "deadline": None,
+                    "urls": [{"url": u, "role": "rules", "name": ""} for u in sorted(cq.record_urls(rec))],
+                    "seen_in": "record", "first_seen": rec["first_seen"], "last_seen": TODAY,
+                    "status": "done", "attempts": 0, "record": rec["id"], "note": None}
+            queue.append(cand)
+            by_record[rec["id"]] = cand
+        out.append((cand, rec["id"]))
+    return out

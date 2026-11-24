@@ -2,7 +2,7 @@
 
 This site is a catalogue of contests that senior-high and vocational-high students in Taiwan can enter. Its readers are teachers and school staff, and the AI agents that work for them. The rules in `../AGENTS.md` apply; this file holds what is specific to this site and wins where it differs.
 
-Live since 2026-11-21 at https://yuanaruru.com/tw-hs-contests/, from the public repository workingyuanyuan/tw-hs-contests (a push to `main` deploys). There is no schedule: the daily report is started by hand on this computer, and its prompt ends with `pnpm publish-daily`. Pages change only on such a run. Agent test results are in `tests/agent-eval/README.md`.
+Live since 2026-11-21 at https://yuanaruru.com/tw-hs-contests/, from the public repository workingyuanyuan/tw-hs-contests (a push to `main` deploys). There is no schedule: an agent runs the daily update from a clone as `RUN.md` says and ends with `pnpm publish-daily`. Pages change only on such a run. Agent test results are in `tests/agent-eval/README.md`.
 
 ## Decisions by the owner
 
@@ -15,9 +15,10 @@ Live since 2026-11-21 at https://yuanaruru.com/tw-hs-contests/, from the public 
 - Source text (2026-11-23): each fact keeps the short quote it was read from (`evidence[].quote`, a sentence or two), committed with its record and published in `/data/contests.json`. The full text of fetched documents is not committed (`cache/`).
 - The catalogue finds contests itself (2026-11-24). It does not depend on the daily report; the daily report reads the catalogue's records. Scripts read the sources' list pages (`pnpm discover`, `data/sources.json`); models only judge (whether an announcement is a contest, what its documents say). A bounded web search may find the organizer's page or rules of a contest already found, never new sources to watch.
 - Sources: the list in `data/sources.json`. It started as the 21 second-hand aggregators the daily report read (2026-11-21), which were chosen for the daily report's purpose; it is to be reviewed against this catalogue's scope (2026-11-24), and the owner approves the new list. Until then, do not add organizer or government sources.
+- The update runs from this repository alone, by any agent in any harness (2026-11-24). No step reads from or writes to a place outside the repository, and no step calls one vendor's command line: the scripts write the model work as task folders, and the agent running the update gives each to a fresh context (`RUN.md`). The repository sets no rule on which models read; two readings of a contest are independent when each runs in a fresh context, and `verification.readers` records the models.
 - Following the sources (owner, 2026-11-22): the daily run reads a contest again when its documents changed; `pnpm upstream` only reports. No scheduled workflow and no issue, because an issue would wait for a person.
 - No person reviews the content, on any day. Scripts are the only gate: a record read once publishes at level `checked`, and a second independent reading, when quota allows, raises it to `verified` or withholds the page when the two disagree. Do not add a step that waits for a person.
-- The catalogue holds facts only. Whether a contest suits AI-assisted student work is a separate, private product (the daily report, `DAILY_REPO`) that reads these records. Nothing here ranks, recommends or filters by suitability.
+- The catalogue holds facts only. Whether a contest suits AI-assisted student work is a separate, private product (the daily report, in a repository of its own) that reads these records. Nothing here ranks, recommends or filters by suitability.
 - A contest is included when it has judging, it gives a rank or a prize, and senior-high or vocational-high students may enter. Contests limited to one county or city, and contests that need the school's nomination, are included. Camps, certification exams and lectures are not.
 - One JSON file per contest edition in `data/contests/`, kept in git. Scripts are the only writers of these files.
 - Static files on GitHub Pages, in a public repository of its own. Name and address: `tw-hs-contests`, `https://yuanaruru.com/tw-hs-contests/`.
@@ -36,7 +37,8 @@ Live since 2026-11-21 at https://yuanaruru.com/tw-hs-contests/, from the public 
 
 Not decided by the owner; change them when the work calls for it.
 
-- The first reader (Gemini) reads every candidate. The second reader (Codex, about 45 long readings per quota window) reads at most `--second` open single-reader records per run, soonest deadline first.
+- A contest is read once in one round and again in a later round, so that a first reading publishes at level `checked` even when the runner stops there. Second readings go to open records, soonest deadline first, at most `--second` per round.
+- A triage task judges titles only, once, and queues an announcement when its title does not tell. One first reading that says skip is final.
 - The skin draws no text with CSS `content`. Component overrides: `MarkdownContent`, `ThemeSelect`, `SiteTitle` (the header links the three sidebar groups, 依截止月份, 依類別 and 封存, each to its first page) and `Footer` (LINE share and copy on contest pages).
 
 ## Records
@@ -56,12 +58,11 @@ Not decided by the owner; change them when the work calls for it.
 ## Commands
 
 ```
-pnpm daily       # the daily run: queue, re-check, read new contests, write the pages (pipeline/daily.py)
-pnpm publish-daily  # the daily run, then verify, commit and push (deploys). The daily report's prompt runs it as its last step
+pnpm daily prepare  # a round's tasks in work/TODO.md; the first round of a day also discovers and re-checks (pipeline/daily.py)
+pnpm daily finish   # apply the tasks that were done, write the pages; says whether work is left
+pnpm publish-daily  # verify, commit and push the data and pages (deploys). RUN.md has the whole update
 pnpm upstream    # compare the documents of the watched contests with what their records were read from; changes nothing
 pnpm discover    # read the sources' list pages; record every announcement in data/discovered.json
-pnpm queue       # add the contests of the newest daily-report snapshot to data/candidates.json (until discovery feeds the queue)
-pnpm extract --limit 5 --key c0005      # read queued contests with the two readers (pnpm passes a `--` on to the script: leave it out)
 pnpm fetch <url> [<url> ...]   # cache the text and links of a document
 pnpm pages       # check the records, then write the pages and data files from them
 pnpm verify      # build the site, then run the acceptance checks. Run this before you call a change done.
@@ -74,21 +75,21 @@ pnpm preview     # serve dist/ at http://127.0.0.1:4399/tw-hs-contests/ ; pass a
 
 `pnpm discover` (`pipeline/discover.py`) reads each source in `data/sources.json` page by page and records every announcement in `data/discovered.json` with its title, its date on the list and an outcome; how far it reads, why it stops and how a source is marked failed are in the script's docstring. Each run writes, per source, the pages read, the announcements seen and new, the oldest date and the stop reason to `data/runs/<date>.json`. A source marked `partial` or `failed` is fixed in its entry in `data/sources.json`, not worked around.
 
-Being changed (2026-11-24): discovery does not feed the queue yet. Until a step that sorts announcements into contests and non-contests exists, the queue `data/candidates.json` still comes from the daily report's snapshot (`pipeline/candidates.py`, path in `DAILY_REPO`); a contest seen again is matched by any shared link. On its first run discovery found about 90 of the 92 open contests in the snapshots of 2026-11-13 to 2026-11-20; the two it missed were on no list page it read.
+`pnpm daily prepare` then sorts the new announcements (`pipeline/triage.py`). An announcement whose address is already a candidate's or a record's is settled by the script. The rest go to triage tasks of up to 150 titles, alike titles in one batch: an agent marks each title a contest or not, names the contest, and points an announcement that repeats another (several schools post one contest) or a contest already known to it. The script queues one candidate per contest in `data/candidates.json`, with the links of all its announcements, and writes the outcome of each announcement in `data/discovered.json`. On its first run discovery found about 90 of the 92 open contests that the daily report had found from 2026-11-13 to 2026-11-20; the two it missed were on no list page it read.
 
-`pipeline/extract.py` reads one candidate:
+A queued candidate is read in a task folder (`pipeline/extract.py`):
 
 1. The script fetches the candidate's links, then the links in them most likely to be the rules, one level deep and best first (`attachment_score`): a link whose text or file name shares the contest's own name, an attached file named 簡章, 辦法 or 附件, a short link text such as 官網. School pages carry site menus with Drive files and long news headlines; those score low and are not followed.
-2. Two readers of different model families (`READERS`: Gemini via `agy`, GPT via `codex exec`) each get their own folder under `work/<key>/<model>/` with the texts, `pipeline/brief.md`, the schema, an example record and `check.py`, which runs the publishing checks. A reader writes `out.json`: a record, `{"need": [...]}` (once) or `{"skip": "..."}`. A reader never fetches and never sees the other's work.
-3. A reading whose checks fail gets one more run with the errors.
-4. Both pass and agree on the key facts (first deadline, who may enter, division, region, nomination): method `dual`, level `verified`. Both pass and disagree: method `disputed`, level `unverified`, no page; the note lists the differences. Attendance and fee are compared too, but a contradiction only removes that fact from the record (value `unknown`, basis `unread`, named in the note); it does not withhold the page. One passes: method `single`, level `checked`. Both skip: the candidate is `skipped` with the reason. Otherwise `failed`, tried once more on a later day.
-5. A reader that reports a usage limit is not called again in the same run. Records read by one reader for that reason get the second reading in a later run (`second_readings`, part of `pipeline/daily.py`; `pnpm extract --limit 0 --second 15` alone).
-6. Readers differ on which later steps count as deadlines, so the deadline compared is the one a new entrant must meet (`entry_deadline`), which the pages show.
-7. The script, not the reader, sets `found_via`, `first_seen`, `updated`, `verification.last_verified`, `method` and `readers`.
+2. The folder `work/tasks/<key>-<reading>/` holds the texts, `pipeline/brief.md`, the schema, an example record and `check.py`, which runs the publishing checks. The agent writes `out.json`: a record, `{"need": [...]}` (once) or `{"skip": "..."}`, and its model's name in `model.txt`. It reads only its folder and never fetches.
+3. First reading passes the checks: the record is written, method `single`, level `checked`. Says skip: the candidate is `skipped` with the reason. Asks for documents: the next round reads it again with them. Otherwise `failed`, tried once more in a later round.
+4. A later round gives an open record read once to a second reading, in a fresh folder that holds nothing of the first. Both agree on the key facts (first deadline, who may enter, division, region, nomination): method `dual`, level `verified`. They disagree: method `disputed`, level `unverified`, no page; the note lists the differences. Attendance and fee are compared too, but a contradiction only removes that fact from the record (value `unknown`, basis `unread`, named in the note); it does not withhold the page.
+5. Readers differ on which later steps count as deadlines, so the deadline compared is the one a new entrant must meet (`entry_deadline`), which the pages show.
+6. The script, not the reader, sets `found_via`, `first_seen`, `updated`, `verification.last_verified`, `method` and `readers`. A reading joins an existing record when it reads that record again, or when the two share a link and name the same edition; organizers reuse a contest's page for the next edition.
+7. `check.py` and `finish` apply the same rules to `out.json`: a reading cites only the documents in its folder, and asks for documents only from the links it was given.
 
-`pipeline/daily.py` also re-checks the watched records with the comparison of `pnpm upstream`. A record that still fails the checks is moved to `data/stale/` so that it is not published. Each run writes `data/runs/<date>.json`.
+`pnpm daily prepare` also re-checks the watched records once a day with the comparison of `pnpm upstream`. `pnpm daily finish` moves a record that fails the checks to `data/stale/` so that it is not published, and adds each round to `data/runs/<date>.json`. A record whose documents are not in `cache/` (a fresh clone, a closed contest not fetched again) keeps the checks it passed when it was written; a reading just written must find every document there.
 
-`work/` holds the readers' folders and is not committed.
+`work/` holds the task folders and is not committed.
 
 ## When the sources change
 
@@ -115,7 +116,6 @@ Run `pnpm upstream` and read `upstream/README.md`.
 
 ## Verified pitfalls
 
-- `codex` (GPT reader) hit its usage limit after about 45 readings on 2026-11-20; the limit resets after some hours. Gemini via `agy` did not hit one in about 110 readings.
 - Links on school sites hold spaces and Chinese characters unescaped; `fetch.py` escapes them before the request.
 - bhuntr.com pages of closed contests return 404; such a candidate fails and is given up after two tries.
 - Inline tags split sentences in the extracted text ("作品須 至少使用 2 類不同 的"). Quotes are compared with all whitespace removed, so copy the sentence as it reads.
@@ -129,10 +129,11 @@ Run `pnpm upstream` and read `upstream/README.md`.
 | `data/contests/<id>.json` | One contest edition each |
 | `pipeline/fetch.py` | Fetch a document and cache its text and links |
 | `data/sources.json`, `pipeline/discover.py`, `data/discovered.json` | The sources, `pnpm discover`, and every announcement it found |
+| `pipeline/triage.py`, `pipeline/triage.md` | Triage tasks: announcements into contests, one candidate per contest |
 | `pipeline/candidates.py`, `data/candidates.json` | The queue of contests to read |
-| `pipeline/extract.py`, `pipeline/brief.md`, `pipeline/check_out.py` | Two readers per contest; their instructions and self-check |
-| `pipeline/daily.py`, `data/runs/`, `data/stale/` | The daily run, its summaries, and records that failed the re-check (no page) |
-| `scripts/publish-daily.sh` | `pnpm publish-daily`: the daily run, `pnpm verify`, commit and push |
+| `pipeline/extract.py`, `pipeline/brief.md`, `pipeline/check_out.py` | Reading tasks; the readers' instructions; the self-check copied into every task folder |
+| `RUN.md`, `pipeline/daily.py`, `data/runs/`, `data/stale/` | How an agent runs the update; `pnpm daily prepare` and `finish`; the run summaries; records that failed the checks (no page) |
+| `scripts/publish-daily.sh` | `pnpm publish-daily`: `pnpm verify`, commit and push |
 | `.github/workflows/deploy.yml`, `scripts/indexnow.mjs` | Build, `pnpm verify`, deploy, then submit changed pages to IndexNow |
 | `pipeline/upstream.py`, `upstream/` | `pnpm upstream`, the comparison the daily re-check uses; its README and manifest |
 | `pipeline/validate.py` | Checks and verification level |

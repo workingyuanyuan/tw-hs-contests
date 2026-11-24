@@ -63,7 +63,15 @@ def normalize(text: str) -> str:
 
 
 class Cache:
-    def __init__(self):
+    """The cached texts of fetched documents (cache/, not committed).
+
+    strict: a document missing from the cache is an error. Used for a reading just written, whose
+    documents were fetched in this run. Otherwise a missing document leaves its quotes as they were
+    checked when the record was written (a fresh clone has no cache; closed contests are not fetched
+    again), and the record keeps its level."""
+
+    def __init__(self, strict: bool = False):
+        self.strict = strict
         path = CACHE / "index.json"
         self.index = json.loads(path.read_text(encoding="utf-8")) if path.exists() else {}
         self.texts = {}
@@ -117,8 +125,11 @@ def check_fact(name, fact, unknown, cache, errors, warnings):
     for ev in evidence:
         text = cache.text(ev["url"])
         if text is None:
-            errors.append(f"{name}: evidence document is not in the cache: {ev['url']}")
-            ok = False
+            if cache.strict:
+                errors.append(f"{name}: evidence document is not in the cache: {ev['url']}")
+                ok = False
+            else:
+                quotes += "quote" in ev
             continue
         if "quote" in ev:
             quotes += 1

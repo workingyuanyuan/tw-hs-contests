@@ -1,6 +1,6 @@
 # Read the documents of one contest and write its record
 
-You are one of two readers who work independently. A script checks your work, so copy text exactly and leave out what you cannot support.
+You are one of two readers who work independently. A script checks your work, so copy text exactly and leave out what you cannot support. Read only the files in this folder: the other reading, and the record if there is one already, must not be seen.
 
 ## What you have in this folder
 
@@ -13,7 +13,9 @@ You are one of two readers who work independently. A script checks your work, so
 
 ## What to write
 
-Write one file, `out.json`, with exactly one of these:
+Write the name of your model (the model ID, as exactly as you know it) in `model.txt`, one line.
+
+Write `out.json` with exactly one of these:
 
 1. A record of this contest edition that follows `schema.json`.
 2. `{"need": ["<url>", ...]}` when the rules are in a document you were not given and its link is in a `docs/NN.links.txt` file. At most 6 links, copied exactly. Ask only once; if you have asked before (`task.md` says so), write a record or a skip.
@@ -21,7 +23,7 @@ Write one file, `out.json`, with exactly one of these:
 
 The catalogue includes a contest when all three hold: entries are judged; it gives a rank, a prize or a certificate of award; senior-high or vocational-high students may enter. Contests limited to one county or city, or needing the school's nomination, are included. Camps, certification or proficiency exams, lectures, exhibitions without judging, and contests only for teachers, university students or adults are not.
 
-Do not browse the web. Do not change any file except `out.json` (and the `check/` folder that `check.py` writes).
+Do not browse the web. Do not change any file except `out.json`, `model.txt` and the `check/` folder that `check.py` writes.
 
 ## Rules for a record
 

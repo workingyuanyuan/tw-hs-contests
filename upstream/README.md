@@ -22,7 +22,7 @@ The watched contests are those open, closed within the last 14 days (an extensio
 
 The manifest holds hashes and lengths only, no text of the organizers' documents: the cache that holds their text is not committed. It is keyed by record id, then URL, and written by three scripts: `pipeline/extract.py` when it writes a record (from the texts the readers read), `pipeline/daily.py` when a re-check confirms a record, and `pnpm upstream --write`. Records that are no longer watched leave it.
 
-Closed contests older than 14 days are not watched: their pages say they are closed, and organizers remove the files of past contests (bhuntr.com answers 404). A next edition announced on the same page is a new record, found through the daily report's candidates, not a change to this one.
+Closed contests older than 14 days are not watched: their pages say they are closed, and organizers remove the files of past contests (bhuntr.com answers 404). A next edition announced on the same page is a new record, found by discovery, not a change to this one.
 
 ## The report
 
@@ -45,7 +45,7 @@ A contest queued for a change is read with every document of its record and, fir
 
 ## After updating
 
-No person updates a page here: the daily run reads the contest again with the two readers, the checks decide, and `pnpm publish-daily` publishes (decisions in `AGENTS.md`). By hand, the same steps are `pnpm extract --key <candidate key>`, then `pnpm pages` and `pnpm verify`. `--write` is for a baseline that is missing; a record with a difference or with a document not read is not recorded by it, so it cannot hide a change. It leaves with 0 whatever differences it reports (2, without writing, when the comparison could not be made); run `pnpm upstream` to see what is left.
+No person updates a page here: the daily run queues the contest to be read again, the readings and the checks decide, and `pnpm publish-daily` publishes (`RUN.md`; decisions in `AGENTS.md`). `--write` is for a baseline that is missing; a record with a difference or with a document not read is not recorded by it, so it cannot hide a change. It leaves with 0 whatever differences it reports (2, without writing, when the comparison could not be made); run `pnpm upstream` to see what is left.
 
 ## Schedule
 

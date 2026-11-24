@@ -20,14 +20,18 @@ The sources are in data/sources.json, one entry each:
                    the title, back to the previous announcement; "after", the nearest date below it, up
                    to the next announcement; "url", only the date in the announcement's address. Dates
                    inside a title are never read (they are dates of the event, not of the
-                   announcement); with no date by the title, the date in the address is used.
+                   announcement), nor dates after today; with no date by the title, the date in the
+                   address is used.
   note             how the source behaves, in a sentence
 
 Each announcement goes into data/discovered.json, keyed by its address, with its title, the date
 next to it on the list (when the list shows one), the sources it was seen on and an outcome:
   new       not looked at yet
   excluded  the title shows it is not a contest (EXCLUDE names the word)
-Later steps change the outcome (queued, skipped, duplicate).
+pipeline/triage.py changes the outcome later:
+  queued       a candidate in data/candidates.json (note: its key)
+  duplicate    the address belongs to a record already (note: the record)
+  not_contest  a triage task judged the title not a contest (note: why)
 
 A source is read page by page until one of these, which the run records as its stop reason:
   seen   a whole page of announcements already in data/discovered.json
@@ -171,6 +175,8 @@ def page_items(src, url):
             else:
                 near = [i for i in (at, at - 1, at + 1) if 0 <= i < len(lines)]
         it["date"] = find_date(*(bare(i) for i in near), it["url"])
+        if it["date"] and it["date"] > TODAY:  # a deadline next to the title, not the day it was posted
+            it["date"] = None
     return items
 
 
