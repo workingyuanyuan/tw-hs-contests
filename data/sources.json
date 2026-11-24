@@ -355,5 +355,75 @@
   "pages": "https://www.ccsh.ptc.edu.tw/data_news.php?page={n}&tpl=&sys_name=&keyword=&highlights=&video=&type=news6",
   "max_pages": 16,
   "note": "News list of the school's own system, 10 a page; links with tpl=10 or tpl=25 are the side banners on every page."
+ },
+ {
+  "id": "mlaivs",
+  "name": "苗栗農工 處室公告",
+  "url": "https://www.mlaivs.mlc.edu.tw/ischool/widget/site_news/main2.php?uid=WID_0_2_02836191b6165405f6c9fbc1c940ee63bcab5dfe&maximize=1&allbtn=0",
+  "read": "ischool",
+  "item": "/ischool/public/news_view/show\\.php\\?nid=\\d+",
+  "pages": "https://www.mlaivs.mlc.edu.tw/ischool/widget/site_news/main2.php?uid=WID_0_2_02836191b6165405f6c9fbc1c940ee63bcab5dfe&maximize=1&allbtn=0&page={n}",
+  "max_pages": 14,
+  "note": "ischool board, 100 a page from its JSON. All offices' notices, about 10 a day."
+ },
+ {
+  "id": "nkhs",
+  "name": "南港高工 重要資訊",
+  "url": "https://www.nkhs.tp.edu.tw/ischool/widget/site_news/main2.php?uid=WID_215_2_6fe415e25f3d91838624747fa8838d0338c8bc29&maximize=1&allbtn=0",
+  "read": "ischool",
+  "item": "/ischool/public/news_view/show\\.php\\?nid=\\d+",
+  "pages": "https://www.nkhs.tp.edu.tw/ischool/widget/site_news/main2.php?uid=WID_215_2_6fe415e25f3d91838624747fa8838d0338c8bc29&maximize=1&allbtn=0&page={n}",
+  "max_pages": 9,
+  "note": "ischool board, 100 a page from its JSON. The school's main notice board."
+ },
+ {
+  "id": "kmsh",
+  "name": "金門高中 最新消息",
+  "url": "https://www.kmsh.km.edu.tw/ischool/widget/site_news/main2.php?uid=WID_0_2_0160c5bbde1b995100dc7a03a35e6ad8681f206a&maximize=1&allbtn=0",
+  "read": "ischool",
+  "item": "/ischool/public/news_view/show\\.php\\?nid=\\d+",
+  "pages": "https://www.kmsh.km.edu.tw/ischool/widget/site_news/main2.php?uid=WID_0_2_0160c5bbde1b995100dc7a03a35e6ad8681f206a&maximize=1&allbtn=0&page={n}",
+  "max_pages": 9,
+  "note": "ischool board, 100 a page from its JSON. All school news, Kinmen County's contests among them."
+ },
+ {
+  "id": "hccvs",
+  "name": "新竹高商 消息公佈欄",
+  "url": "https://www.hccvs.hc.edu.tw/ischool/widget/site_news/main2.php?uid=WID_0_2_53efb04eea75963e230f0fb0aeffe08107b41772&maximize=1&allbtn=0",
+  "read": "ischool",
+  "item": "/ischool/public/news_view/show\\.php\\?nid=\\d+",
+  "pages": "https://www.hccvs.hc.edu.tw/ischool/widget/site_news/main2.php?uid=WID_0_2_53efb04eea75963e230f0fb0aeffe08107b41772&maximize=1&allbtn=0&page={n}",
+  "max_pages": 8,
+  "note": "ischool board, 100 a page from its JSON. Forwarded outside contests are titled 【校外活動資訊】."
+ },
+ {
+  "id": "pshs",
+  "name": "暨大附中 學生研習與競賽活動",
+  "url": "https://www.pshs.ntct.edu.tw/ischool/widget/site_news/main2.php?uid=WID_0_2_3afe20bbc878f26c1c90f5dc3e59b7b273d2d0d3&maximize=1&allbtn=0",
+  "read": "ischool",
+  "item": "/ischool/public/news_view/show\\.php\\?nid=\\d+",
+  "pages": "https://www.pshs.ntct.edu.tw/ischool/widget/site_news/main2.php?uid=WID_0_2_3afe20bbc878f26c1c90f5dc3e59b7b273d2d0d3&maximize=1&allbtn=0&page={n}",
+  "max_pages": 5,
+  "note": "ischool board, 100 a page from its JSON. Students' workshops and contests, the school's own among them."
+ },
+ {
+  "id": "ntsh",
+  "name": "南投高中 最新消息",
+  "url": "https://www.ntsh.ntct.edu.tw/ischool/widget/site_news/main2.php?uid=WID_0_2_844c60b1843e2ed951c171cae43db4103dd268be&maximize=1&allbtn=0",
+  "read": "ischool",
+  "item": "/ischool/public/news_view/show\\.php\\?nid=\\d+",
+  "pages": "https://www.ntsh.ntct.edu.tw/ischool/widget/site_news/main2.php?uid=WID_0_2_844c60b1843e2ed951c171cae43db4103dd268be&maximize=1&allbtn=0&page={n}",
+  "max_pages": 7,
+  "note": "ischool board, 100 a page from its JSON. All school news."
+ },
+ {
+  "id": "mlsh",
+  "name": "苗栗高中 學生校外營隊、活動、比賽",
+  "url": "https://www.mlsh.mlc.edu.tw/ischool/widget/site_news/main2.php?uid=WID_0_2_4cd1f19986fcd84c5aaf3c3c95fdb2f321224aba&maximize=1&allbtn=0",
+  "read": "ischool",
+  "item": "/ischool/public/news_view/show\\.php\\?nid=\\d+",
+  "pages": "https://www.mlsh.mlc.edu.tw/ischool/widget/site_news/main2.php?uid=WID_0_2_4cd1f19986fcd84c5aaf3c3c95fdb2f321224aba&maximize=1&allbtn=0&page={n}",
+  "max_pages": 7,
+  "note": "ischool board, 100 a page from its JSON. Outside camps, events and contests for students."
  }
 ]

@@ -5,7 +5,11 @@ Run: uv run -q --isolated --with pymupdf --with playwright --with jsonschema pyt
 The sources are in data/sources.json, one entry each:
   id, name, url    the list page
   read             "html" (fetch, render when the page has almost no text), "render" (always in a
-                   browser), or "rss" (an RSS feed: title, link and pubDate of each item)
+                   browser), "rss" (an RSS feed: title, link and pubDate of each item), or "ischool" (a
+                   news board of the ischool school-site system: url is the board's page,
+                   .../ischool/widget/site_news/main2.php?uid=<board>, whose list the page draws from
+                   JSON; the script asks news_query_json.php for it, ISCHOOL_ROWS a page, and "pages"
+                   is the url with &page={n})
   item             regular expression an announcement's address matches (searched in the full URL)
   pages            address of page n, with {n} in it (null: one page)
   start            the number of the list page itself (default 1); page n after it is read from
@@ -55,6 +59,7 @@ import sys
 import time
 from datetime import date, timedelta
 from pathlib import Path
+from urllib.parse import parse_qs, urlencode, urlparse
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import fetch  # noqa: E402
@@ -67,12 +72,13 @@ RUNS = ROOT / "data/runs"
 OLD_DAYS = 120
 MIN_TITLE = 6
 PAUSE = 1.0  # seconds at least between two pages of one source
+ISCHOOL_ROWS = 100  # announcements asked for per page of an ischool board
 # A title with one of these is not a contest announcement. Only words that never name a contest:
 # results, admissions, procurement, staff, scholarships. Camps, lectures and exams are left to the
 # reader, because some of them hold a judged contest.
 EXCLUDE = re.compile(
     r"【賀】|賀[!！：:]|^賀|恭賀|榮獲|榮登|獲獎|得獎名單|得獎公告|得獎作品|獲獎名單|成績公告|錄取名單|榜單|放榜"
-    r"|招生|招標|採購|標案|甄選.{0,6}教師|教師甄|代理教師|代課|職缺|徵才|約聘|人事|停課|停班"
+    r"|評分結果|招生|招標|採購|標案|甄選.{0,6}教師|教師甄|代理教師|代課|職缺|徵才|約聘|人事|停課|停班"
     r"|獎學金|助學金|助學|補助申請|交通車|午餐|健康檢查|防疫|校外教學|家長日|親師")
 DATE_PATTERNS = [
     re.compile(r"(?<!\d)(20\d\d)[-/.年](\d{1,2})[-/.月](\d{1,2})"),
@@ -128,10 +134,27 @@ def rss_items(url):
     return items
 
 
+def ischool_items(url):
+    """One page of an ischool news board, from the JSON its page loads: [{title, url, date}]."""
+    query = parse_qs(urlparse(url).query)
+    root = url.split("/widget/site_news/")[0]
+    form = {"field": "time", "order": "DESC", "pageNum": int(query.get("page", ["1"])[0]) - 1,
+            "maxRows": ISCHOOL_ROWS, "keyword": "", "uid": query["uid"][0], "tf": 1, "auth_type": "user"}
+    body, _, status = fetch.http_get(f"{root}/widget/site_news/news_query_json.php", urlencode(form).encode())
+    if status >= 400:
+        raise fetch.FetchError(f"HTTP {status}")
+    rows = json.loads(body.decode("utf-8"))[1:]  # the first entry holds the page counts
+    return [{"title": " ".join(htmllib.unescape(r["title"]).split()),
+             "url": f"{root}/public/news_view/show.php?nid={r['newsId']}",
+             "date": find_date(r.get("time") or "")} for r in rows]
+
+
 def page_items(src, url):
     """Announcements on one list page: [{title, url, date}]."""
     if src["read"] == "rss":
         return rss_items(url)
+    if src["read"] == "ischool":
+        return [it for it in ischool_items(url) if len(it["title"]) >= MIN_TITLE and re.search(src["item"], it["url"])]
     if src["read"] == "render" or src.get("scrolls"):
         text, links = fetch.browser_text(url, scrolls=src.get("scrolls", 0))
     else:

@@ -229,10 +229,11 @@ def source_of(url: str):
     return url, "auto"
 
 
-def http_get(url: str):
+def http_get(url: str, data: bytes | None = None):
+    """GET the url, or POST `data` (form-encoded) to it. Returns (body, content type, status)."""
     # Links on school sites often hold spaces and Chinese characters unescaped.
     url = urllib.parse.quote(url, safe=":/?#[]@!$&'()*+,;=%~")
-    req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept-Language": "zh-TW,zh;q=0.9"})
+    req = urllib.request.Request(url, data=data, headers={"User-Agent": UA, "Accept-Language": "zh-TW,zh;q=0.9"})
     host = urlparse(url).hostname or ""
     if host in CRAWL_DELAY:
         wait = _last_request.get(host, 0) + CRAWL_DELAY[host] - time.monotonic()
