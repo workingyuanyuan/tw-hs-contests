@@ -68,7 +68,10 @@ class Cache:
     strict: a document missing from the cache is an error. Used for a reading just written, whose
     documents were fetched in this run. Otherwise a missing document leaves its quotes as they were
     checked when the record was written (a fresh clone has no cache; closed contests are not fetched
-    again), and the record keeps its level."""
+    again), and the record keeps its level. A document marked gone (its server answered 404 or 410)
+    is an error in either mode."""
+
+    GONE = object()
 
     def __init__(self, strict: bool = False):
         self.strict = strict
@@ -79,6 +82,8 @@ class Cache:
     def text(self, url):
         if url not in self.index:
             return None
+        if self.index[url].get("gone"):
+            return self.GONE
         if url not in self.texts:
             path = CACHE / f"{self.index[url]['sha256']}.txt"
             self.texts[url] = normalize(path.read_text(encoding="utf-8")) if path.exists() else None
@@ -122,8 +127,17 @@ def check_fact(name, fact, unknown, cache, errors, warnings):
         return False
     ok = True
     quotes = 0
+    if basis == "absent":
+        short = [ev["url"] for ev in evidence if cache.index.get(ev["url"], {}).get("pages_unread")]
+        if short:
+            errors.append(f"{name}: basis 'absent' rests on a document with pages not read: {short[0]}; use unknown")
+            ok = False
     for ev in evidence:
         text = cache.text(ev["url"])
+        if text is Cache.GONE:
+            errors.append(f"{name}: the evidence document was removed ({cache.index[ev['url']]['gone']}): {ev['url']}")
+            ok = False
+            continue
         if text is None:
             if cache.strict:
                 errors.append(f"{name}: evidence document is not in the cache: {ev['url']}")

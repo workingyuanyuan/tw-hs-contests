@@ -2,9 +2,11 @@
 
 pipeline/daily.py calls this module; it has no command of its own.
 
-Scripts own all input and output. `write_task` fetches the candidate's documents and writes a task
-folder (work/tasks/<key>-<reading>/) with their texts, pipeline/brief.md, the schema, an example
-record and check.py. The agent that runs the task reads only that folder and writes out.json (and
+Scripts own all input and output. `write_task` fetches the candidate's documents, and the links in
+them most likely to be its rules, two hops deep (an announcement, the organizer's page it links,
+the rules that page attaches), and writes a task folder (work/tasks/<key>-<reading>/) with their
+texts (an image or a scanned PDF as its OCR text, with the original file beside it),
+pipeline/brief.md, the schema, an example record and check.py. The agent that runs the task reads only that folder and writes out.json (and
 its model's name in model.txt); it never fetches and never sees another reading of the contest.
 `finish_first` and `finish_second` judge out.json with pipeline/validate.py and settle the result.
 
@@ -12,23 +14,30 @@ A contest is read twice, each time in a fresh context, at the first and at a lat
   first reading passes the checks                    -> record, method "single" (level checked)
   second reading passes and agrees on the key facts  -> method "dual" (verified)
   second reading passes and disagrees on a key fact  -> method "disputed" (no page)
-  (key facts: deadline and eligibility; when they disagree on attendance or fee, that fact is left out)
+  (key facts: deadline and eligibility; when they disagree on attendance, fee or the AI rules, that
+  fact is left out)
   first reading says skip                            -> status "skipped"
   first reading asks for documents ({"need": [...]}) -> read again with them, once
   otherwise                                          -> status "failed", tried again later
+A candidate whose documents could not be fetched, whose readings failed MAX_ATTEMPTS times, or
+whose record lacks a checked deadline or eligibility is searched for once (pipeline/search.py:
+an agent looks for the organizer's page or rules, a script keeps what names the contest and
+edition) and read again with what was found. A candidate given up is read once more after
+RETRY_DAYS, while it may still be open.
 """
 import json
 import re
 import shutil
 import sys
 import urllib.parse
+from datetime import date, timedelta
 from pathlib import Path
 from urllib.parse import urlparse
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import candidates as cq  # noqa: E402
 import upstream as up  # noqa: E402
-from fetch import cached, fetch, load_index  # noqa: E402
+from fetch import CACHE, cached, fetch, load_index, mark_gone  # noqa: E402
 from validate import ROOT, Cache, check, entry_deadline, passed  # noqa: E402
 
 TASKS = ROOT / "work/tasks"
@@ -36,7 +45,11 @@ PIPELINE = ROOT / "pipeline"
 CONTESTS = ROOT / "data/contests"
 TODAY = cq.TODAY
 MAX_DOCS = 12
-DOC_WORDS = re.compile(r"簡章|辦法|須知|規則|規章|要點|實施計畫|計畫書|附件|官網|官方網站|活動網站|競賽網站|比賽網站|活動網頁|詳見|點此")
+HOPS = 2  # links followed from the candidate's own documents, then from the documents they led to
+LAST_HOP = 3  # documents kept for the last hop: an announcement with many annexes leaves room for the rules its organizer's page links
+RETRY_DAYS = 7
+DOC_WORDS = re.compile(r"簡章|辦法|須知|規則|規章|要點|實施計畫|計畫書|附件|切結書|聲明書|同意書|常見問答|常見問題|"
+                       r"官網|官方網站|活動網站|競賽網站|比賽網站|活動網頁|詳見|點此|(?i:FAQ|Q&A)")
 DOC_EXT = re.compile(r"\.(pdf|docx?|odt|pptx?)(\?|$)", re.I)
 NOT_DOCS = ("facebook.com", "instagram.com", "line.me", "lin.ee", "youtube.com", "youtu.be", "twitter.com", "x.com",
             "plurk.com", "threads.net", "apple.co", "google.com/maps", "docs.google.com/forms", "forms.gle")
@@ -45,11 +58,13 @@ NOT_DOCS = ("facebook.com", "instagram.com", "line.me", "lin.ee", "youtube.com",
 def get(url):
     """Text and links of a document, fetched once a day."""
     entry = load_index().get(url)
-    if not entry or entry["fetched_at"][:10] != TODAY:
+    if not entry or entry.get("gone") or entry.get("fetched_at", "")[:10] != TODAY:
         try:
             fetch(url)
         except Exception as e:  # noqa: BLE001
-            return None, f"{type(e).__name__}: {str(e)[:120]}"
+            err = f"{type(e).__name__}: {str(e)[:120]}"
+            mark_gone(url, err)
+            return None, err
     return cached(url), None
 
 
@@ -94,35 +109,38 @@ def attachment_score(link, title_grams) -> int:
 
 
 def gather(cand, extra=()):
-    """Fetch the candidate's links, then the links in them most likely to be its rules. Returns ([doc], [problem])."""
+    """Fetch the candidate's links, then the links in them most likely to be its rules, HOPS deep,
+    best first at each hop. Returns ([doc], [problem])."""
     order = {"rules": 0, "registration": 1, "announcement": 2}
     urls = [u["url"] for u in sorted(cand["urls"], key=lambda u: order.get(u["role"], 3))]
     urls = [u for u in urls if not any(bad in u for bad in NOT_DOCS)] + list(extra)
     title_grams = title_core(cand["title"])
     docs, problems, seen = [], [], set()
+
+    def add(url):
+        seen.add(url)
+        got, err = get(url)
+        if err:
+            problems.append(f"{url}: {err}")
+            return []
+        text, links = got
+        entry = load_index()[url]
+        docs.append({"url": url, "text": text, "links": links, "kind": entry.get("kind", ""), "file": entry.get("file"),
+                     "pages_unread": entry.get("pages_unread")})
+        return [(attachment_score(l, title_grams), len(docs), i, l["url"]) for i, l in enumerate(links)]
+
     found = []
     for url in dict.fromkeys(urls):  # the candidate's own links first
-        seen.add(url)
-        got, err = get(url)
-        if err:
-            problems.append(f"{url}: {err}")
-            continue
-        text, links = got
-        docs.append({"url": url, "text": text, "links": links, "kind": load_index()[url].get("kind", "")})
-        found += [(attachment_score(l, title_grams), i, l["url"]) for i, l in enumerate(links)]
-    # then attachments, one level deep, best first
-    for score, _, url in sorted(found, key=lambda t: (-t[0], t[1])):
-        if len(docs) >= MAX_DOCS or score < 2:
-            break
-        if url in seen:
-            continue
-        seen.add(url)
-        got, err = get(url)
-        if err:
-            problems.append(f"{url}: {err}")
-            continue
-        text, links = got
-        docs.append({"url": url, "text": text, "links": links, "kind": load_index()[url].get("kind", "")})
+        found += add(url)
+    for hop in range(HOPS):
+        later = []
+        room = MAX_DOCS if hop + 1 == HOPS else MAX_DOCS - LAST_HOP
+        for score, _, _, url in sorted(found, key=lambda t: (-t[0], t[1], t[2])):
+            if len(docs) >= room or score < 2:
+                break
+            if url not in seen:
+                later += add(url)
+        found = later if hop + 1 < HOPS else []
     return docs, problems
 
 
@@ -146,11 +164,18 @@ def write_task(folder: Path, cand, reading: int, record=None):
         (folder / name).write_text(f"URL: {d['url']}\nKIND: {d['kind']}\n---\n{body}\n", encoding="utf-8")
         links = "\n".join(f"- [{l.get('text') or ''}]({l['url']})" for l in d["links"][:150])
         (folder / f"docs/{i:02d}.links.txt").write_text(links + "\n", encoding="utf-8")
-        lines.append(f"- `{name}`: {d['url']} ({d['kind']}, {len(d['text'])} characters, {len(d['links'])} links)")
+        line = f"- `{name}`: {d['url']} ({d['kind']}, {len(d['text'])} characters, {len(d['links'])} links)"
+        if d.get("pages_unread"):
+            line += f"; {d['pages_unread']} scanned pages were not read, so this document is incomplete"
+        if d.get("file") and (CACHE / d["file"]).exists():
+            original = f"docs/{i:02d}{Path(d['file']).suffix}"
+            shutil.copy(CACHE / d["file"], folder / original)
+            line += f"; text read by OCR from `{original}`"
+        lines.append(line)
     (folder / "task.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
     shutil.copy(PIPELINE / "brief.md", folder / "brief.md")
     shutil.copy(ROOT / "data/schema/contest.schema.json", folder / "schema.json")
-    shutil.copy(CONTESTS / "2026-thu-smart-sustainability.json", folder / "example.json")
+    shutil.copy(PIPELINE / "example.json", folder / "example.json")  # a fixed copy: a live record can be set aside
     shutil.copy(PIPELINE / "check_out.py", folder / "check.py")
     offered = sorted({l["url"] for d in docs for l in d["links"][:150]})
     task = {"kind": "read", "key": cand["key"], "reading": reading, "record": record, "asked": bool(need),
@@ -181,7 +206,10 @@ def reading_shape(data, task):
     if not isinstance(rid, str) or not re.fullmatch(r"\d{4}-[a-z0-9-]+", rid):
         return "record", ["id is missing or not in the form YYYY-key"]
     supplied = set(task.get("docs", []))
-    foreign = sorted({ev.get("url") for f in evidence_lists(data) for ev in f if isinstance(ev, dict)} - supplied - {None})
+    cited = [ev.get("url") if isinstance(ev, dict) else ev for f in evidence_lists(data) for ev in f]
+    if not all(isinstance(u, str) for u in cited):
+        return "record", ["every evidence item must be an object whose url is a string"]
+    foreign = sorted(set(cited) - supplied)
     if supplied and foreign:
         return "record", [f"evidence cites a document that is not in docs/: {foreign[0]}"]
     return "record", []
@@ -272,7 +300,7 @@ def key_facts(rec) -> dict:
 
 # Other facts that are compared: a contradiction removes the fact from the record (the page leaves it
 # out) instead of withholding the page; a gap is not reported.
-SIDE_FACTS = {"到場": "attendance", "費用": "fee"}
+SIDE_FACTS = {"到場": "attendance", "費用": "fee", "AI 規定": "ai_policy"}
 
 
 def differences(fa, fb):
@@ -312,6 +340,11 @@ def same_edition(a, b) -> bool:
 def place(rec, cand, readers, method, note):
     """Fill the fields the script owns and write the record. Returns its id."""
     cand_urls = {cq.same_url(u["url"]) for u in cand["urls"]}
+    old_path = CONTESTS / f"{cand.get('record')}.json"
+    if not old_path.exists():  # set aside while it waited to be read again
+        old_path = ROOT / "data/stale" / f"{cand.get('record')}.json"
+    if cand.get("record") and old_path.exists() and not same_edition(json.loads(old_path.read_text(encoding="utf-8")), rec):
+        cand["record"] = None  # its page now describes another edition, which is a record of its own
     if cand.get("record"):  # read again for an existing record: keep its id
         rec["id"] = cand["record"]
     else:  # a record of the same edition that shares a link with the candidate is the same contest
@@ -349,6 +382,7 @@ def place(rec, cand, readers, method, note):
     if errors:
         raise ValueError("record fails after the script's fields were filled: " + errors[0])
     path.write_text(json.dumps(rec, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    (ROOT / "data/stale" / f"{rid}.json").unlink(missing_ok=True)  # set aside earlier, read again now
     # What the readers read is what pnpm upstream and the daily re-check compare with.
     up.save_baselines({rid: up.baseline_from_cache(rec)})
     return rid, level
@@ -372,17 +406,27 @@ def finish_first(cand, folder: Path) -> str:
         return f"asks for {len(cand['need'])} more documents"
     cand.pop("need", None)
     cand["attempts"] = cand.get("attempts", 0) + 1
+    cand["tried"] = TODAY
     if result[0] == "record" and not result[2]:
         rid, level = place(result[1], cand, [reader_of(folder)], "single", None)
         cand.update(status="done", record=rid, note=f"single, {level}")
         cand.pop("second", None)  # a new reading of the record: its second reading starts over
-        return f"done: {rid} ({level})"
+        if level == "unverified" and not cand.get("searched"):
+            cand.update(status="search", after_search="done")  # no checked deadline or eligibility: look for the rules
+        return f"done: {rid} ({level})" + (", to be searched" if cand["status"] == "search" else "")
     if result[0] == "skip":
         cand.update(status="skipped", note=result[1][:200])
         return "skipped: " + result[1][:80]
-    cand.update(status="failed", note=describe(result))
-    if cand["attempts"] >= cq.MAX_ATTEMPTS:
+    return fail_first(cand, describe(result))
+
+
+def fail_first(cand, note: str) -> str:
+    """A first reading that gave nothing usable (attempts already counted)."""
+    cand.update(status="failed", note=note)
+    if cand["attempts"] >= cq.MAX_ATTEMPTS and cand.get("searched"):
         cand["status"] = "given_up"
+    elif cand["attempts"] >= cq.MAX_ATTEMPTS:
+        cand.update(status="search", after_search="given_up")
     return f"{cand['status']}: {cand['note']}"
 
 
@@ -398,6 +442,7 @@ def finish_second(cand, folder: Path) -> str:
         return f"asks for {len(second['need'])} more documents"
     second.pop("need", None)
     second["attempts"] += 1
+    second["tried"] = TODAY
     path = CONTESTS / f"{task['record']}.json"
     if not path.exists():
         second["note"] = "the record is gone"
@@ -434,7 +479,7 @@ def second_todo(queue, limit: int) -> list:
         if v["method"] != "single" or len(v.get("readers") or []) >= 2 or (due and passed(due)):
             continue  # a second reading that left a key fact unconfirmed keeps the record single
         cand = by_record.get(rec["id"])
-        if cand and (cand["status"] in ("new", "failed") or (cand.get("second") or {}).get("attempts", 0) >= cq.MAX_ATTEMPTS):
+        if cand and (cand["status"] in ("new", "failed", "search") or (cand.get("second") or {}).get("attempts", 0) >= cq.MAX_ATTEMPTS):
             continue  # being read again, or its second readings failed
         todo.append((due or ("9999-12-31", ""), rec))
     out = []
@@ -449,3 +494,24 @@ def second_todo(queue, limit: int) -> list:
             by_record[rec["id"]] = cand
         out.append((cand, rec["id"]))
     return out
+
+
+def retry(queue):
+    """Read once more, RETRY_DAYS after the last try, what was given up while it may still be open:
+    the organizer may have posted its rules since, or its site may be back."""
+    before = (date.fromisoformat(TODAY) - timedelta(days=RETRY_DAYS)).isoformat()
+    revived = 0
+    for c in queue:
+        due = c.get("deadline")
+        if c.get("record") and (CONTESTS / f"{c['record']}.json").exists():
+            due = (entry_deadline(json.loads((CONTESTS / f"{c['record']}.json").read_text(encoding="utf-8"))) or (None,))[0]
+        if due and due < TODAY:
+            continue
+        if c["status"] == "given_up" and not c.get("retried") and c.get("tried", "") <= before:
+            c.update(status="new", attempts=0, retried=TODAY)
+            revived += 1
+        second = c.get("second") or {}
+        if second.get("attempts", 0) >= cq.MAX_ATTEMPTS and not second.get("retried") and second.get("tried", "") <= before:
+            second.update(attempts=0, retried=TODAY)
+            revived += 1
+    return revived

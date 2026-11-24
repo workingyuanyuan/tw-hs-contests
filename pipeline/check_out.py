@@ -2,7 +2,7 @@
 
 Run in the folder: python3 check.py
 A reading task is checked with the publishing checks (pipeline/validate.py), a triage task with
-pipeline/triage.py. Prints OK when out.json may be used.
+pipeline/triage.py, a search task with pipeline/search.py. Prints OK when out.json may be used.
 """
 import json
 import os
@@ -29,8 +29,11 @@ try:
 except (OSError, json.JSONDecodeError) as e:
     sys.exit(f"out.json is missing or not valid JSON: {e}")
 
-if task["kind"] == "triage":
-    from triage import problems  # noqa: E402
+if task["kind"] in ("triage", "search"):
+    if task["kind"] == "triage":
+        from triage import problems  # noqa: E402
+    else:
+        from search import problems  # noqa: E402
     errors = problems(rec, task)
     for e in errors:
         print("error:", e)

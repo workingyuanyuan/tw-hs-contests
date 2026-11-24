@@ -33,7 +33,7 @@ One line for each difference, then the notes, then a count. A line reads `kind: 
 | `quote gone` | A quote of the record is no longer in its document | Queues the contest to be read again under the same id. If the readings fail, the record fails the checks and moves to `data/stale/` (no page) |
 | `source changed` | Lines about dates, registration or fees were added to or removed from a document (the first added line is shown) | Queues the contest to be read again |
 | `correction posted` | A document has a new link whose text announces a change (a corrected 簡章, an extension) | Queues the contest to be read again |
-| `document gone` | A document answers 404 or 410 | Queues the contest to be read again from its other links |
+| `document gone` | A document answers 404 or 410 | Marks it `gone` in the cache index, so the record fails the checks and moves to `data/stale/` (no page) when it quotes that document; queues the contest to be read again from its other links, which brings the record back |
 | `not in the manifest` | A document has no baseline: the record was written before the manifest, or its official page was never read | Confirms the record when its quotes are all there, and records the baseline |
 | `not read for a week` | Some documents of the record could not be read, and the record was last read 7 or more days ago | Nothing; it keeps trying each day. Open the documents: a site that refuses scripts needs another way to read it (`BROWSER_HOSTS` in `pipeline/fetch.py`) |
 | `note: not read` | A document could not be read this time (timeout, 403, 5xx), or its text fell below 30% of its length with none of its quotes (a sign-in or challenge page served with status 200) | Leaves the record as it is: no new `last_verified`, nothing queued |

@@ -1,7 +1,7 @@
 """The daily run, in rounds: the script prepares tasks, agents do them, the script finishes them.
 
 Run: uv run -q --isolated --with pymupdf --with playwright --with jsonschema python -I pipeline/daily.py <step> [options]
-  prepare [--limit N] [--second N] [--triage N] [--no-discover] [--no-recheck] [--force]
+  prepare [--limit N] [--second N] [--triage N] [--search N] [--no-discover] [--no-recheck] [--force]
   finish
 RUN.md says how an agent runs the whole update with these two steps.
 
@@ -16,14 +16,17 @@ prepare
    once its readings failed.
 2. Settle by link the announcements that are already a candidate or a record; write at most
    --triage triage tasks for the rest (pipeline/triage.py).
-3. Write first-reading tasks for at most --limit queued candidates, and second-reading tasks for at
-   most --second open records read once, soonest deadline first (pipeline/extract.py).
+3. Give what was given up a week ago another try while it may be open; write first-reading tasks
+   for at most --limit queued candidates, second-reading tasks for at most --second open records
+   read once, soonest deadline first (pipeline/extract.py), and search tasks for at most --search
+   candidates whose rules were not found (pipeline/search.py).
 4. List the tasks, with the prompt for each, in work/TODO.md (and work/todo.json for finish).
 
 finish
 1. Apply every task that has an out.json: triage results become candidates, readings become
-   records. A task without out.json changes nothing and comes back in a later round.
-2. A record that fails the checks is moved to data/stale/ so that it is not published.
+   records, links that a search found and the script kept join their candidates. A task without out.json changes nothing and comes back in a later round.
+2. A record that fails the checks is moved to data/stale/ so that it is not published (for
+   example when a document it quotes was removed: its server answered 404 or 410).
 3. Write the pages and data files (pipeline/build_pages.py).
 4. Add the round to data/runs/<date>.json and say whether another round has work.
 
@@ -40,9 +43,10 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 import candidates as cq  # noqa: E402
 import discover  # noqa: E402
 import extract  # noqa: E402
+import search  # noqa: E402
 import triage  # noqa: E402
 import upstream as up  # noqa: E402
-from fetch import store  # noqa: E402
+from fetch import mark_gone, store  # noqa: E402
 from validate import ROOT, Cache, check  # noqa: E402
 
 TODAY = cq.TODAY
@@ -71,6 +75,8 @@ def recheck():
     for url, got in seen.items():
         if "error" not in got and url not in unread:
             store(url, got["body"], got["text"], got["links"], got["info"])
+        elif "error" in got:  # a removed document fails the checks of the records that quote it
+            mark_gone(url, got["error"])
     queue = cq.load()
     renewed = {}
     for path, rec in records:
@@ -91,7 +97,7 @@ def recheck():
         result["changed"].append(rec["id"])
         change = r["change"] or up.short("checks " + diffs[0][1])
         cand = next((c for c in queue if c.get("record") == rec["id"]), None)
-        if cand and cand.get("change") == change and cand["status"] in ("failed", "given_up", "new"):
+        if cand and cand.get("change") == change and cand["status"] in ("failed", "given_up", "new", "search"):
             continue  # the same change, already queued or given up after failed readings
         # every document of the record, and the links that announce the change, so that the readers see them
         docs = (cq.record_urls(rec) | set(up.sources(rec))) - {f["url"] for f in rec["found_via"]}
@@ -107,15 +113,30 @@ def recheck():
     return result
 
 
-def set_aside_failing():
+def set_aside_failing(queue):
+    """Move the records that fail the checks to data/stale/ and queue each to be read again under its
+    id, from all its links, unless it is queued already."""
     stale = []
     for path in sorted(CONTESTS.glob("*.json")):
         errors, _, _ = check(path, Cache())
-        if errors:
-            target = ROOT / "data/stale" / path.name
-            target.parent.mkdir(parents=True, exist_ok=True)
-            shutil.move(path, target)
-            stale.append({"id": path.stem, "error": errors[0]})
+        if not errors:
+            continue
+        rec = json.loads(path.read_text(encoding="utf-8"))
+        target = ROOT / "data/stale" / path.name
+        target.parent.mkdir(parents=True, exist_ok=True)
+        shutil.move(path, target)
+        stale.append({"id": path.stem, "error": errors[0]})
+        cand = next((c for c in queue if c.get("record") == rec["id"]), None)
+        if cand and cand["status"] in ("new", "failed", "search", "given_up"):
+            continue
+        docs = (cq.record_urls(rec) | set(up.sources(rec))) - {f["url"] for f in rec["found_via"]}
+        urls = [{"url": u, "role": "rules", "name": ""} for u in sorted(docs)]
+        urls += [{"url": f["url"], "role": "announcement", "name": f["name"]} for f in rec["found_via"] if f["url"]]
+        if not cand:
+            cand = {"key": cq.next_key(queue), "title": rec["title"], "deadline": None, "seen_in": "set aside",
+                    "first_seen": rec["first_seen"], "last_seen": TODAY, "record": rec["id"]}
+            queue.append(cand)
+        cand.update(status="new", attempts=0, urls=urls, note="不符檢查而暫不刊登，重新讀取")
     return stale
 
 
@@ -153,6 +174,9 @@ def prepare(args):
     discovered = triage.load_discovered()
     cq.expire(queue)
     cq.link_records(queue)
+    revived = extract.retry(queue)
+    if revived:
+        print(f"{revived} given up a week ago or more: tried again", flush=True)
     settled = triage.match_known(discovered, queue)
     tasks = []
     for name in triage.write_tasks(discovered, queue, args.triage):
@@ -162,7 +186,11 @@ def prepare(args):
         problem = extract.write_task(folder, cand, 1, cand.get("record"))
         if problem:
             cand["attempts"] = cand.get("attempts", 0) + 1
-            cand.update(status="given_up" if cand["attempts"] >= cq.MAX_ATTEMPTS else "failed", note=problem)
+            cand.update(tried=TODAY, note=problem)
+            if cand.get("searched"):
+                cand["status"] = "given_up" if cand["attempts"] >= cq.MAX_ATTEMPTS else "failed"
+            else:  # its own links are unreachable: look for the organizer's page
+                cand.update(status="search", after_search="given_up")
             print(f"[{cand['key']}] {cand['status']}: {problem}", flush=True)
             continue
         tasks.append({"folder": rel(folder), "kind": "read", "reading": 1, "key": cand["key"], "what": cand["title"]})
@@ -172,11 +200,15 @@ def prepare(args):
         if problem:
             second = cand.setdefault("second", {"attempts": 0})
             second["attempts"] += 1
-            second["note"] = problem
+            second.update(note=problem, tried=TODAY)
             print(f"[{cand['key']}] no second reading: {problem}", flush=True)
             continue
         tasks.append({"folder": rel(folder), "kind": "read", "reading": 2, "key": cand["key"], "record": rid,
                       "what": cand["title"]})
+    for cand in [c for c in queue if c["status"] == "search"][:args.search]:
+        folder = extract.TASKS / f"{cand['key']}-s"
+        search.write_task(folder, cand)
+        tasks.append({"folder": rel(folder), "kind": "search", "key": cand["key"], "what": cand["title"]})
     cq.save(queue)
     triage.save_discovered(discovered)
     if settled:
@@ -187,18 +219,19 @@ def prepare(args):
         print("no tasks: nothing to read")
         finish(args)
         return
-    labels = {"triage": "sort announcements", 1: "first reading", 2: "second reading"}
+    labels = {"triage": "sort announcements", 1: "first reading", 2: "second reading", "search": "search"}
     lines = [
         f"# Tasks of {TODAY}", "",
         "Give each task to an agent in a fresh context: a new subagent or session that has seen neither this",
         "conversation, nor another task, nor the catalogue's records. Give it this prompt, with the folder filled in:", "",
         "> " + PROMPT.format(folder="<folder>"), "",
-        "Tasks may run at the same time. Never give two tasks to one context. When every task has ended,",
-        "done or not, run `pnpm daily finish`.", "",
+        "Tasks may run at the same time. Never give two tasks to one context. A search task needs an agent",
+        "with a web search tool; without one, leave it. When every task has ended, done or not, run",
+        "`pnpm daily finish`.", "",
     ]
     for t in tasks:
         label = labels[t.get("reading", t["kind"])]
-        lines.append(f"- `{t['folder']}`: {label}" + (f", {t['what'][:50]}" if t["kind"] == "read" else ""))
+        lines.append(f"- `{t['folder']}`: {label}" + (f", {t['what'][:50]}" if t["kind"] != "triage" else ""))
     TODO_MD.write_text("\n".join(lines) + "\n", encoding="utf-8")
     counts = {}
     for t in tasks:
@@ -217,9 +250,13 @@ def finish(_args):
     results = []
     for t in todo["tasks"]:
         folder = ROOT / t["folder"]
+        cand = by_key.get(t.get("key"))
+        counted = (cand or {}).get("attempts"), ((cand or {}).get("second") or {}).get("attempts")
         try:
             if t["kind"] == "triage":
                 line = triage.finish(folder, discovered, queue)
+            elif t["kind"] == "search":
+                line = search.finish(folder, by_key[t["key"]])
             elif t["reading"] == 1:
                 line = extract.finish_first(by_key[t["key"]], folder)
             else:
@@ -227,15 +264,22 @@ def finish(_args):
         except Exception as e:  # noqa: BLE001  one task must not stop the others
             line = f"error: {type(e).__name__}: {str(e)[:200]}"
             if t["kind"] == "read" and t["reading"] == 1:
-                cand = by_key[t["key"]]
-                cand["attempts"] = cand.get("attempts", 0) + 1
-                cand.update(status="failed", note=line)
+                cand.pop("need", None)
+                if cand.get("attempts") == counted[0]:  # not counted before the error
+                    cand.update(attempts=(cand.get("attempts") or 0) + 1, tried=TODAY)
+                line = extract.fail_first(cand, line)
+            elif t["kind"] == "read":
+                second = cand.setdefault("second", {"attempts": 0})
+                second.pop("need", None)
+                if second["attempts"] == (counted[1] or 0):
+                    second.update(attempts=second["attempts"] + 1, tried=TODAY)
+                second["note"] = line[:200]
         print(f"[{folder.name}] {line}", flush=True)
         results.append({"task": folder.name, "result": line})
+    stale = set_aside_failing(queue)
     cq.save(queue)
     triage.save_discovered(discovered)
 
-    stale = set_aside_failing()
     build = subprocess.run([sys.executable, "-I", str(ROOT / "pipeline/build_pages.py")], capture_output=True, text=True)
     print(build.stdout.strip(), build.stderr.strip(), sep="\n")
     TODO_JSON.unlink()  # only now: publish-daily refuses while it exists, so pages never lag the records
@@ -250,6 +294,7 @@ def finish(_args):
     run["records"] = len(list(CONTESTS.glob("*.json")))
     save_run(run)
     waiting = (run["announcements_waiting"] + len(extract.first_todo(queue, 10 ** 6))
+               + sum(c["status"] == "search" for c in queue)
                + len(extract.second_todo([dict(c) for c in queue], 10 ** 6)))
     print(json.dumps({k: run[k] for k in ("queue", "announcements_waiting", "records")}, ensure_ascii=False))
     print(f"work left for another round: {waiting} items" if waiting else "no work left")
@@ -263,6 +308,7 @@ def main():
     p.add_argument("--limit", type=int, default=30, help="first readings")
     p.add_argument("--second", type=int, default=30, help="second readings")
     p.add_argument("--triage", type=int, default=4, help="triage tasks (each up to 150 announcements)")
+    p.add_argument("--search", type=int, default=10, help="search tasks")
     p.add_argument("--no-discover", action="store_true", help="do not read the sources' list pages")
     p.add_argument("--no-recheck", action="store_true", help="do not re-check the watched records")
     p.add_argument("--force", action="store_true", help="drop tasks prepared earlier and not finished")

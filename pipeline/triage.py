@@ -76,7 +76,7 @@ def open_record(rec) -> bool:
 def known_contests(queue) -> list:
     """Open contests an announcement may repeat: candidates waiting to be read, and records still open."""
     known = [{"ref": c["key"], "title": c["title"]} for c in queue
-             if c["status"] in ("new", "failed") and not c.get("record")]
+             if c["status"] in ("new", "failed", "search") and not c.get("record")]
     known += [{"ref": rec["id"], "title": rec["title"]} for rec in records() if open_record(rec)]
     return known
 
@@ -203,8 +203,8 @@ def finish(folder: Path, discovered, queue) -> str:
         if cand:
             if cq.same_url(url) not in {cq.same_url(u["url"]) for u in cand["urls"]}:
                 cand["urls"].append(link)
-                if cand["status"] in ("failed", "given_up"):  # a link its readings never had
-                    cand["status"] = "new"
+                if cand["status"] in ("failed", "given_up", "search"):  # a link its readings never had
+                    cand.update(status="new", attempts=0)
             cand["last_seen"] = TODAY
             if it.get("deadline") and not cand.get("deadline"):
                 cand["deadline"] = it["deadline"]

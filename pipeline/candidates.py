@@ -7,10 +7,14 @@ and its status. Statuses:
   new       not read yet
   done      read; `record` names the record
   skipped   read; not a contest this catalogue includes (`note` says why)
-  failed    reading failed (`note` says why); tried again up to MAX_ATTEMPTS times, then given_up
+  failed    reading failed (`note` says why); tried again up to MAX_ATTEMPTS times
+  search    to be searched for once (pipeline/search.py): its documents could not be fetched, its
+            readings failed MAX_ATTEMPTS times, or its record lacks a checked deadline or eligibility
+  given_up  failed after the search too; read once more a week later while it may be open
   expired   the deadline known before reading had passed before it was read
 Other fields: `need` (links the reader asked for, given at its next reading), `second` (the second
-reading of its record: attempts, need, note).
+reading of its record: attempts, need, note, tried, retried), `tried` (the day of the last reading),
+`searched` (the day of its search), `retried` (the day it was given another try).
 """
 import json
 import os
@@ -51,15 +55,21 @@ def next_key(queue) -> str:
 def expire(queue):
     """A deadline can pass while a candidate waits."""
     for c in queue:
-        if c["status"] in ("new", "failed") and not c.get("record") and c.get("deadline") and c["deadline"] < TODAY:
+        if c["status"] in ("new", "failed", "search") and not c.get("record") and c.get("deadline") and c["deadline"] < TODAY:
             c["status"] = "expired"
 
 
 def link_records(queue):
-    """Mark candidates whose links already belong to a record. A candidate that reads a record
-    again (`record` set by the daily re-check) is left as it is."""
+    """Mark candidates whose links already belong to an open record. A candidate that reads a record
+    again (`record` set by the daily re-check) is left as it is. A closed record is not matched: its
+    organizer may reuse the page for the next edition, which is read as a record of its own."""
+    from validate import entry_deadline, passed  # noqa: PLC0415  (needs jsonschema, which the pipeline has)
+
     for path in sorted((ROOT / "data/contests").glob("*.json")):
         rec = json.loads(path.read_text(encoding="utf-8"))
+        due = entry_deadline(rec)
+        if due and passed(due):
+            continue
         urls = {same_url(u) for u in record_urls(rec)}
         for c in queue:
             if c["status"] in ("new", "failed") and not c.get("record") \

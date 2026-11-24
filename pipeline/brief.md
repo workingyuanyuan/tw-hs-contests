@@ -7,6 +7,7 @@ You are one of two readers who work independently. A script checks your work, so
 - `task.md`: today's date, the contest name as a school's announcement wrote it (a hint, not a fact), and the list of documents.
 - `docs/NN.txt`: the text of each document. The first lines give its URL and kind; the text follows the line `---`.
 - `docs/NN.links.txt`: the links found in that document.
+- `docs/NN.jpg`, `.png`, `.gif` or `.pdf`, beside a document whose kind ends in `-ocr` (an image or a scanned PDF): the original file. Its `docs/NN.txt` holds text read from it by OCR, which can misread characters and digits. If you can view the file, compare each value you take from the OCR text with it, and leave out a value the OCR text gets wrong. Quotes are still copied from `docs/NN.txt`.
 - `schema.json`: the definition of a record. Read the descriptions of the fields.
 - `example.json`: a correct record of another contest.
 - `check.py`: run `python3 check.py` after writing `out.json`. It runs the same checks as the publishing script and prints every error.

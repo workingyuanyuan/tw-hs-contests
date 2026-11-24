@@ -1,0 +1,191 @@
+{
+  "schema": 1,
+  "id": "2026-thu-smart-sustainability",
+  "title": "2026 智慧永續循環技術論文暨專題競賽",
+  "edition": "2026",
+  "summary": "1 至 5 人就智慧永續專題繳交 5 頁內短文，入選口頭發表組者到東海大學簡報。",
+  "organizers": [
+    {
+      "name": "東海大學工學院",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "工程與製造",
+    "資訊與 AI",
+    "農業與環境"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職",
+      "大專"
+    ],
+    "division": "separate",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": 5,
+    "teacher": "optional",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://enger.thu.edu.tw/info-on-home-page/2026%e6%99%ba%e6%85%a7%e6%b0%b8%e7%ba%8c%e5%be%aa%e7%92%b0%e6%8a%80%e8%a1%93%e7%a0%94%e8%a8%8e%e6%9c%83%e6%9a%a8%e5%b0%88%e9%a1%8c%e7%ab%b6%e8%b3%bd/",
+        "quote": "大專以上或高中職在學學生，分為大專組與高中組，兩組分開評選。"
+      },
+      {
+        "url": "https://enger.thu.edu.tw/info-on-home-page/2026%e6%99%ba%e6%85%a7%e6%b0%b8%e7%ba%8c%e5%be%aa%e7%92%b0%e6%8a%80%e8%a1%93%e7%a0%94%e8%a8%8e%e6%9c%83%e6%9a%a8%e5%b0%88%e9%a1%8c%e7%ab%b6%e8%b3%bd/",
+        "quote": "每一團隊成員1至5人，每一團隊指導老師至多2人。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "submission_deadline",
+      "label": "專題競賽投稿截止",
+      "date": "2026-11-22",
+      "time": null,
+      "original": "2026/11/22",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://enger.thu.edu.tw/info-on-home-page/2026%e6%99%ba%e6%85%a7%e6%b0%b8%e7%ba%8c%e5%be%aa%e7%92%b0%e6%8a%80%e8%a1%93%e7%a0%94%e8%a8%8e%e6%9c%83%e6%9a%a8%e5%b0%88%e9%a1%8c%e7%ab%b6%e8%b3%bd/",
+          "quote": "專題競賽投稿截止日期： 2026/11/22"
+        }
+      ]
+    },
+    {
+      "kind": "shortlist_announcement",
+      "label": "初審結果通知",
+      "date": "2026-11-27",
+      "time": null,
+      "original": "2026/11/27",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://enger.thu.edu.tw/info-on-home-page/2026%e6%99%ba%e6%85%a7%e6%b0%b8%e7%ba%8c%e5%be%aa%e7%92%b0%e6%8a%80%e8%a1%93%e7%a0%94%e8%a8%8e%e6%9c%83%e6%9a%a8%e5%b0%88%e9%a1%8c%e7%ab%b6%e8%b3%bd/",
+          "quote": "論文專題競賽初審結果通知： 2026/11/27"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "當日活動報名截止",
+      "date": "2026-12-04",
+      "time": null,
+      "original": "2026/12/04",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://enger.thu.edu.tw/info-on-home-page/2026%e6%99%ba%e6%85%a7%e6%b0%b8%e7%ba%8c%e5%be%aa%e7%92%b0%e6%8a%80%e8%a1%93%e7%a0%94%e8%a8%8e%e6%9c%83%e6%9a%a8%e5%b0%88%e9%a1%8c%e7%ab%b6%e8%b3%bd/",
+          "quote": "當日活動報名截止：2026/12/04"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "決賽",
+      "date": "2026-12-12",
+      "time": null,
+      "original": "2026/12/12",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://enger.thu.edu.tw/info-on-home-page/2026%e6%99%ba%e6%85%a7%e6%b0%b8%e7%ba%8c%e5%be%aa%e7%92%b0%e6%8a%80%e8%a1%93%e7%a0%94%e8%a8%8e%e6%9c%83%e6%9a%a8%e5%b0%88%e9%a1%8c%e7%ab%b6%e8%b3%bd/",
+          "quote": "論文發表及專題競賽決賽： 2026/12/12"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "投稿",
+      "what": "5 頁內 PDF 短文（研究背景與動機、問題、方法、實驗結果）",
+      "how": "online"
+    },
+    {
+      "stage": "決賽（入選口頭發表組）",
+      "what": "10 分鐘口頭簡報與 2 分鐘答詢，自備 PowerPoint",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "finalists",
+    "where": "東海大學人文大樓 B1 茂榜廳",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://enger.thu.edu.tw/info-on-home-page/2026%e6%99%ba%e6%85%a7%e6%b0%b8%e7%ba%8c%e5%be%aa%e7%92%b0%e6%8a%80%e8%a1%93%e7%a0%94%e8%a8%8e%e6%9c%83%e6%9a%a8%e5%b0%88%e9%a1%8c%e7%ab%b6%e8%b3%bd/",
+        "quote": "入選口頭發表組之團隊於指定日期前完成報名，並於決賽當天出席參加口頭簡報。"
+      },
+      {
+        "url": "https://enger.thu.edu.tw/info-on-home-page/2026%e6%99%ba%e6%85%a7%e6%b0%b8%e7%ba%8c%e5%be%aa%e7%92%b0%e6%8a%80%e8%a1%93%e7%a0%94%e8%a8%8e%e6%9c%83%e6%9a%a8%e5%b0%88%e9%a1%8c%e7%ab%b6%e8%b3%bd/",
+        "quote": "會議地點：東海大學茂榜廳"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://enger.thu.edu.tw/info-on-home-page/2026%e6%99%ba%e6%85%a7%e6%b0%b8%e7%ba%8c%e5%be%aa%e7%92%b0%e6%8a%80%e8%a1%93%e7%a0%94%e8%a8%8e%e6%9c%83%e6%9a%a8%e5%b0%88%e9%a1%8c%e7%ab%b6%e8%b3%bd/"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "口頭發表組（大專組、高中職組分別頒發）：金獎 1 名 10,000 元、銀獎 1 名 8,000 元、銅獎 1 名 5,000 元、優選 2 名各 2,000 元、佳作若干名，皆附獎狀。海報展演組只頒獎狀。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://enger.thu.edu.tw/info-on-home-page/2026%e6%99%ba%e6%85%a7%e6%b0%b8%e7%ba%8c%e5%be%aa%e7%92%b0%e6%8a%80%e8%a1%93%e7%a0%94%e8%a8%8e%e6%9c%83%e6%9a%a8%e5%b0%88%e9%a1%8c%e7%ab%b6%e8%b3%bd/",
+        "quote": "金獎：1名，新台幣10,000元，獎狀乙紙"
+      },
+      {
+        "url": "https://enger.thu.edu.tw/info-on-home-page/2026%e6%99%ba%e6%85%a7%e6%b0%b8%e7%ba%8c%e5%be%aa%e7%92%b0%e6%8a%80%e8%a1%93%e7%a0%94%e8%a8%8e%e6%9c%83%e6%9a%a8%e5%b0%88%e9%a1%8c%e7%ab%b6%e8%b3%bd/",
+        "quote": "海報展演組（大專組、高中組分別評選頒發）：優選2名、佳作3名，僅頒發獎狀乙紙，無獎金頒發。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://enger.thu.edu.tw/info-on-home-page/2026%e6%99%ba%e6%85%a7%e6%b0%b8%e7%ba%8c%e5%be%aa%e7%92%b0%e6%8a%80%e8%a1%93%e7%a0%94%e8%a8%8e%e6%9c%83%e6%9a%a8%e5%b0%88%e9%a1%8c%e7%ab%b6%e8%b3%bd/"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://enger.thu.edu.tw/info-on-home-page/2026%e6%99%ba%e6%85%a7%e6%b0%b8%e7%ba%8c%e5%be%aa%e7%92%b0%e6%8a%80%e8%a1%93%e7%a0%94%e8%a8%8e%e6%9c%83%e6%9a%a8%e5%b0%88%e9%a1%8c%e7%ab%b6%e8%b3%bd/",
+    "rules": [],
+    "registration": "https://forms.gle/qmqabiSE6hfRKnoy6"
+  },
+  "found_via": [
+    {
+      "name": "東海大學工學院競賽頁",
+      "url": "https://enger.thu.edu.tw/info-on-home-page/2026%e6%99%ba%e6%85%a7%e6%b0%b8%e7%ba%8c%e5%be%aa%e7%92%b0%e6%8a%80%e8%a1%93%e7%a0%94%e8%a8%8e%e6%9c%83%e6%9a%a8%e5%b0%88%e9%a1%8c%e7%ab%b6%e8%b3%bd/"
+    },
+    {
+      "name": "東海大學工學院競賽頁",
+      "url": "https://enger.thu.edu.tw/info-on-home-page/2026%e6%99%ba%e6%85%a7%e6%b0%b8%e7%ba%8c%e5%be%aa%e7%92%b0%e6%8a%80%e8%a1%93%e7%a0%94%e8%a8%8e%e6%9c%83%e6%9a%a8%e5%b0%88%e9%a1%8c%e7%ab%b6%e8%b3%bd/"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-21",
+    "method": "dual",
+    "unread": [
+      "檔案下載區的短文格式檔"
+    ],
+    "note": null,
+    "readers": [
+      "gemini-4-hydrogen-medium",
+      "gpt-6.1-sol"
+    ]
+  },
+  "first_seen": "2026-11-16",
+  "updated": "2026-11-21"
+}
