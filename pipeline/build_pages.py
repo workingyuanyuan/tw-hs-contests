@@ -124,6 +124,15 @@ def levels_text(levels) -> str:
 REGION_WHO = r"(?:的|各|轄內|所屬|公私立)*(?:國小|國中|高中|高職|五專|大專|大學|學生|在學|在籍|設籍)"
 
 
+def mixed_with(levels) -> str:
+    """Who a senior-high entrant is judged with. The levels say who may enter the contest, not who is in
+    one division: only a contest that no older entrant may enter says the younger pupils by name."""
+    if any(lv in levels for lv in ("五專", "大專", "社會人士")):
+        return "大專生或社會人士"
+    younger = [lv for lv in ("國小", "國中") if lv in levels]
+    return "、".join(younger) + "學生" if younger else "其他對象"
+
+
 def caveat(rec) -> str:
     """The one qualifier a reader most likely misses, as a sentence that stands alone."""
     e, f = rec["eligibility"], rec["fee"]
@@ -135,7 +144,7 @@ def caveat(rec) -> str:
         # an answer line that limits who enters to the regions already says it; the next qualifier is the caveat
         main = f"只限{'、'.join(e['regions'])}的學生參加。"
     elif e["division"] == "mixed":
-        main = "高中職學生與大專生或社會人士同組評比。"
+        main = f"高中職學生與{mixed_with(e['levels'])}同組評比。"
     elif f["value"] in ("required", "deposit"):
         main = f"報名須繳費：{f['amount']}。" if f["amount"] else "報名須繳費。"
     elif rec.get("conflict"):

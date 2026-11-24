@@ -16,7 +16,8 @@ A contest is read twice, each time in a fresh context, at the first and at a lat
   second reading passes and disagrees on a key fact  -> method "disputed" (no page)
   (key facts: deadline and eligibility; when they disagree on attendance, fee or the AI rules, that
   fact is left out)
-  first reading says skip                            -> status "skipped"
+  first reading says skip                            -> status "skipped"; a record it read again
+                                                        moves to data/stale/ (no page) unless "dual"
   first reading asks for documents ({"need": [...]}) -> read again with them, once
   otherwise                                          -> status "failed", tried again later
 A candidate whose documents could not be fetched, whose readings failed MAX_ATTEMPTS times, or
@@ -369,11 +370,23 @@ def same_edition(a, b) -> bool:
     return ea == eb
 
 
+# a year (2027, 115 年度, 115 學年度) or an ordinal (第七屆) in front of a title, in any order
+TITLE_PREFIX = re.compile(r"^(?:(?:20[23]\d|1\d\d學?年度?|第[0-9一二三四五六七八九十百]+屆)[、，．.]?)+")
+
+
 def same_contest_by_title(a, b) -> bool:
-    """The same title (spaces aside) and a shared organizer: two readings of one contest whose
-    announcements shared no link."""
-    title = lambda r: re.sub(r"\s+", "", r.get("title") or "")
+    """The same title (spaces aside, and a leading year or ordinal aside: 「2027 UKMT-IMC」 and 「UKMT-IMC」,
+    「115 年度綠色化學競賽」 and 「綠色化學競賽」; same_edition compares those) and a shared organizer:
+    two readings of one contest whose announcements shared no link."""
+    raw = lambda r: re.sub(r"\s+", "", r.get("title") or "")
+    title = lambda r: TITLE_PREFIX.sub("", raw(r))
     orgs = lambda r: {re.sub(r"\s+", "", o.get("name") or "") for o in r.get("organizers") or []} - {"", "unknown"}
+    pa, pb = (raw(r)[:len(raw(r)) - len(title(r))] for r in (a, b))
+    if ordinal(pa) is not None and ordinal(pb) is not None and ordinal(pa) != ordinal(pb):
+        return False  # 「第七屆…」 and 「第八屆…」
+    ya, yb = (set(re.findall(r"20[23]\d|1\d\d(?=學?年)", p)) for p in (pa, pb))
+    if ya and yb and not ya & yb:
+        return False  # 「115 年度…」 and 「116 年度…」
     return bool(title(a)) and title(a) == title(b) and bool(orgs(a) & orgs(b))
 
 
@@ -401,7 +414,7 @@ def place(rec, cand, readers, method, note):
         old = json.loads(path.read_text(encoding="utf-8"))
         if cand.get("record") or same_edition(old, rec) and (
                 {cq.same_url(u) for u in cq.record_urls(old)} & cand_urls
-                or re.sub(r"\s+", "", old["title"]) == re.sub(r"\s+", "", rec["title"])):
+                or re.sub(r"\s+", "", old["title"]) == re.sub(r"\s+", "", rec["title"]) or same_contest_by_title(old, rec)):
             first_seen = min(old["first_seen"], first_seen)
         else:
             n = 2
@@ -501,6 +514,15 @@ def finish_first(cand, folder: Path) -> str:
         return f"done: {rid} ({level})" + (", to be searched" if cand["status"] == "search" else "")
     if result[0] == "skip":
         cand.update(status="skipped", note=result[1][:200])
+        old = CONTESTS / f"{cand.get('record')}.json"
+        # a record read again and found not to be a contest loses its page, unless two readings agreed on it
+        if cand.get("record") and old.exists() and json.loads(old.read_text(encoding="utf-8"))["verification"].get("method") != "dual":
+            target = ROOT / "data/stale" / old.name
+            target.parent.mkdir(parents=True, exist_ok=True)
+            shutil.move(old, target)
+            baselines = (up.load_manifest() or {}).get("records") or {}
+            up.save_baselines({}, keep=set(baselines) - {cand["record"]})
+            return f"skipped, {cand['record']} set aside: " + result[1][:80]
         return "skipped: " + result[1][:80]
     return fail_first(cand, describe(result))
 

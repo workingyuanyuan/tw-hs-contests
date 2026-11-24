@@ -141,7 +141,7 @@
             "mixed",
             "unknown"
           ],
-          "description": "hs_only: only senior-high and vocational students. separate: a division of their own. mixed: judged together with older entrants."
+          "description": "hs_only: only senior-high and vocational students. separate: a division of their own. mixed: judged together with other entrants, older or younger."
         },
         "regions": {
           "type": "array",
