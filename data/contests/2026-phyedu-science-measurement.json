@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "id": "2026-phyedu-science-measurement",
-  "title": "2026 第四屆全國科學量測競賽",
+  "title": "2026第四屆全國科學量測競賽",
   "edition": "第四屆",
-  "summary": "3 至 4 名高中職學生組隊參加區域賽及全國決賽，現場使用提供器材進行物理實驗量測、數據與不確定度分析並製作簡報口說報告。",
+  "summary": "高中職生 3 至 4 人組隊，於現場以主辦提供器材限時量測物理量，製作簡報口說報告並接受評審詰問。",
   "organizers": [
     {
       "name": "中華民國物理教育學會",
@@ -81,12 +81,16 @@
     "basis": "quote",
     "evidence": [
       {
-        "url": "https://www.fg.tp.edu.tw/wp-content/uploads/doc/equip/2026 第四屆全國科學量測競賽.pdf",
+        "url": "https://drive.google.com/file/d/1aRiRWrNogqNfKqaszNuVaZdbJ1_dDNPc/view?usp=sharing",
         "quote": "六、參賽對象：全國各公私立高中（職）學生。"
       },
       {
-        "url": "https://www.fg.tp.edu.tw/wp-content/uploads/doc/equip/2026 第四屆全國科學量測競賽.pdf",
-        "quote": "（一）報名隊伍可跨縣市跨校跨年級組隊參與，每隊人數3至4名，並擇1名為隊長。指導老師1名。"
+        "url": "https://drive.google.com/file/d/1aRiRWrNogqNfKqaszNuVaZdbJ1_dDNPc/view?usp=sharing",
+        "quote": "報名隊伍可跨縣市跨校跨年級組隊參與，每隊人數3至4名，並擇1名為隊長。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1aRiRWrNogqNfKqaszNuVaZdbJ1_dDNPc/view?usp=sharing",
+        "quote": "指導老師1名。"
       }
     ]
   },
@@ -96,12 +100,30 @@
       "label": "區域賽報名截止",
       "date": "2026-11-22",
       "time": null,
-      "original": "115年11月2起至115年11月22日(日)",
+      "original": "115年11月22日(日)",
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://www.fg.tp.edu.tw/wp-content/uploads/doc/equip/2026 第四屆全國科學量測競賽.pdf",
-          "quote": "115年11月2起至115年11月22日(日)"
+          "url": "https://drive.google.com/file/d/1aRiRWrNogqNfKqaszNuVaZdbJ1_dDNPc/view?usp=sharing",
+          "quote": "區域賽報名 115年11月2起至115年11月22日(日)"
+        },
+        {
+          "url": "https://www.phyedu.tw/2026%E7%AC%AC%E5%9B%9B%E5%B1%86%E5%85%A8%E5%9C%8B%E7%A7%91%E5%AD%B8%E9%87%8F%E6%B8%AC%E7%AB%B6%E8%B3%BD",
+          "quote": "報名日期:115年11月2起至115年11月22日(日)"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "區域賽報名名單公告",
+      "date": "2026-11-23",
+      "time": null,
+      "original": "115.11.23",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.phyedu.tw/2026%E7%AC%AC%E5%9B%9B%E5%B1%86%E5%85%A8%E5%9C%8B%E7%A7%91%E5%AD%B8%E9%87%8F%E6%B8%AC%E7%AB%B6%E8%B3%BD",
+          "quote": "【公告】區域賽報名名單 公告日115.11.23"
         }
       ]
     },
@@ -110,40 +132,40 @@
       "label": "區域賽行前通知公告",
       "date": "2026-12-03",
       "time": null,
-      "original": "115年12月3日(四)前公告於官網",
+      "original": "115年12月3日(四)前",
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://www.fg.tp.edu.tw/wp-content/uploads/doc/equip/2026 第四屆全國科學量測競賽.pdf",
-          "quote": "115年12月3日(四)前公告於官網"
+          "url": "https://drive.google.com/file/d/1aRiRWrNogqNfKqaszNuVaZdbJ1_dDNPc/view?usp=sharing",
+          "quote": "區域賽行前通知 115年12月3日(四)前公告於官網"
         }
       ]
     },
     {
       "kind": "other",
-      "label": "區域賽",
+      "label": "區域賽（各分區）",
       "date": "2026-12-06",
       "time": "08:30",
       "original": "115年12月6日(日) 08:30~17:00",
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://www.fg.tp.edu.tw/wp-content/uploads/doc/equip/2026 第四屆全國科學量測競賽.pdf",
+          "url": "https://drive.google.com/file/d/1aRiRWrNogqNfKqaszNuVaZdbJ1_dDNPc/view?usp=sharing",
           "quote": "區域賽：115年12月6日(日) 08:30~17:00。於各分區。"
         }
       ]
     },
     {
       "kind": "shortlist_announcement",
-      "label": "決賽入圍名單公布",
+      "label": "公布進入決賽隊伍",
       "date": "2026-12-07",
       "time": null,
       "original": "12月7日",
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://www.fg.tp.edu.tw/wp-content/uploads/doc/equip/2026 第四屆全國科學量測競賽.pdf",
-          "quote": "取各區域賽各組前1/5隊伍(或前兩名)進入決賽(於12月7日公布;以決賽不超過30組為原則但可低於30組)"
+          "url": "https://drive.google.com/file/d/1aRiRWrNogqNfKqaszNuVaZdbJ1_dDNPc/view?usp=sharing",
+          "quote": "取各區域賽各組前1/5隊伍(或前兩名)進入決賽(於12月7日公布;以決賽不超過30組"
         }
       ]
     },
@@ -152,12 +174,12 @@
       "label": "決賽報名截止",
       "date": "2026-12-13",
       "time": null,
-      "original": "115年12月7日(一)起至12月13日(日)止",
+      "original": "12月13日(日)",
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://www.fg.tp.edu.tw/wp-content/uploads/doc/equip/2026 第四屆全國科學量測競賽.pdf",
-          "quote": "（九）決賽報名期間：115年12月7日(一)起至12月13日(日)止。"
+          "url": "https://drive.google.com/file/d/1aRiRWrNogqNfKqaszNuVaZdbJ1_dDNPc/view?usp=sharing",
+          "quote": "決賽報名期間：115年12月7日(一)起至12月13日(日)止。"
         }
       ]
     },
@@ -166,12 +188,12 @@
       "label": "決賽行前通知公告",
       "date": "2026-12-17",
       "time": null,
-      "original": "115年12月17日(四) 前公告於官網",
+      "original": "115年12月17日(四) 前",
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://www.fg.tp.edu.tw/wp-content/uploads/doc/equip/2026 第四屆全國科學量測競賽.pdf",
-          "quote": "115年12月17日(四) 前公告於官網"
+          "url": "https://drive.google.com/file/d/1aRiRWrNogqNfKqaszNuVaZdbJ1_dDNPc/view?usp=sharing",
+          "quote": "決賽行前通知 115年12月17日(四) 前公告於官網"
         }
       ]
     },
@@ -184,7 +206,7 @@
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://www.fg.tp.edu.tw/wp-content/uploads/doc/equip/2026 第四屆全國科學量測競賽.pdf",
+          "url": "https://drive.google.com/file/d/1aRiRWrNogqNfKqaszNuVaZdbJ1_dDNPc/view?usp=sharing",
           "quote": "決賽：115年12月20日(日) 08:30~17:00。"
         }
       ]
@@ -192,52 +214,77 @@
   ],
   "deliverables": [
     {
-      "stage": "區域賽及全國決賽",
-      "what": "限時使用現場提供器材進行物理實驗量測與數據分析，並製作簡報（建議 PPT 或 PDF 檔）進行 3 分鐘口說報告與 4 分鐘評審詰問",
+      "stage": "區域賽",
+      "what": "現場以主辦提供器材進行實驗量測，製作簡報或海報，3 分鐘口說報告及 4 分鐘評審詰問",
+      "how": "onsite"
+    },
+    {
+      "stage": "全國決賽",
+      "what": "現場以主辦提供器材進行實驗量測，製作簡報或海報，3 分鐘口說報告及 4 分鐘評審詰問",
       "how": "onsite"
     }
   ],
   "attendance": {
     "value": "all",
-    "where": "區域賽於北區、竹桃區、中區、高屏區、嘉南區、台東區、花蓮區、宜蘭區等八區分區考場；全國決賽於東海大學（台中市西屯區台灣大道四段1727號）",
+    "where": "區域賽於八個分區考場（如國立臺灣科學教育館、東海大學、國立高雄大學、成功大學等）；全國決賽於東海大學",
     "basis": "quote",
     "evidence": [
       {
-        "url": "https://www.fg.tp.edu.tw/wp-content/uploads/doc/equip/2026 第四屆全國科學量測競賽.pdf",
+        "url": "https://drive.google.com/file/d/1aRiRWrNogqNfKqaszNuVaZdbJ1_dDNPc/view?usp=sharing",
         "quote": "區域賽：115年12月6日(日) 08:30~17:00。於各分區。"
       },
       {
-        "url": "https://www.fg.tp.edu.tw/wp-content/uploads/doc/equip/2026 第四屆全國科學量測競賽.pdf",
+        "url": "https://drive.google.com/file/d/1aRiRWrNogqNfKqaszNuVaZdbJ1_dDNPc/view?usp=sharing",
+        "quote": "決賽：115年12月20日(日) 08:30~17:00。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1aRiRWrNogqNfKqaszNuVaZdbJ1_dDNPc/view?usp=sharing",
         "quote": "東海大學（台中市西屯區台灣大道四段1727號）"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1aRiRWrNogqNfKqaszNuVaZdbJ1_dDNPc/view?usp=sharing",
+        "quote": "主辦單位將於競賽當天現場提供競賽題目。"
       }
     ]
   },
   "fee": {
     "value": "required",
-    "amount": "區域賽 300 元/人；全國決賽 300 元/人（低收入戶學生全程參與退回報名費）",
+    "amount": "區域賽、全國決賽各 300 元/人（低收入戶學生全程參與者退回報名費）",
     "basis": "quote",
     "evidence": [
       {
-        "url": "https://www.fg.tp.edu.tw/wp-content/uploads/doc/equip/2026 第四屆全國科學量測競賽.pdf",
-        "quote": "區域賽：300元/人，提供午餐便當。 全國決賽：300元/人，提供午餐便當。"
+        "url": "https://drive.google.com/file/d/1aRiRWrNogqNfKqaszNuVaZdbJ1_dDNPc/view?usp=sharing",
+        "quote": "區域賽：300元/人，低收入戶學生如全程參與區域賽，將退回所繳報名費"
       },
       {
-        "url": "https://www.fg.tp.edu.tw/wp-content/uploads/doc/equip/2026 第四屆全國科學量測競賽.pdf",
-        "quote": "低收入戶學生如全程參與區域賽或全國決賽，將退回所繳報名費。"
+        "url": "https://drive.google.com/file/d/1aRiRWrNogqNfKqaszNuVaZdbJ1_dDNPc/view?usp=sharing",
+        "quote": "決賽：300元/人，低收入戶學生如全程參與全國決賽，將退回所繳報名費。"
       }
     ]
   },
   "prizes": {
-    "text": "區域賽及決賽各組頒發前三名及佳作一名獎狀，並設「最佳科學量測獎」及「最佳不確定度估計獎」若干隊伍，視實際經費狀況提供獎金或獎品；全程完成競賽隊員核發參賽證書，指導教師頒發感謝狀。",
+    "text": "區域賽與全國決賽各頒各組前三名及佳作一名，另由評審會議決定「最佳科學量測獎」及「最佳不確定度估計獎」若干隊；視經費提供獎金或獎品；全程完成者核發參賽證書，指導教師頒感謝狀。",
     "basis": "quote",
     "evidence": [
       {
-        "url": "https://www.fg.tp.edu.tw/wp-content/uploads/doc/equip/2026 第四屆全國科學量測競賽.pdf",
-        "quote": "依成績頒予區域賽各組前三名及佳作一名（得視情況調整或從缺），並由評審會議決定「最佳科學量測獎」及「最佳不確定度估計獎」若干隊伍（得視情況從缺）。"
+        "url": "https://drive.google.com/file/d/1aRiRWrNogqNfKqaszNuVaZdbJ1_dDNPc/view?usp=sharing",
+        "quote": "依成績頒予決賽各組前三名及佳作一名（得視情況調整或從缺），並由評審會議決定「最佳科學量測獎」及「最佳不確定度估計獎」若干隊伍"
       },
       {
-        "url": "https://www.fg.tp.edu.tw/wp-content/uploads/doc/equip/2026 第四屆全國科學量測競賽.pdf",
+        "url": "https://drive.google.com/file/d/1aRiRWrNogqNfKqaszNuVaZdbJ1_dDNPc/view?usp=sharing",
+        "quote": "依成績頒予區域賽各組前三名及佳作一名（得視情況調整或從缺）"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1aRiRWrNogqNfKqaszNuVaZdbJ1_dDNPc/view?usp=sharing",
         "quote": "視實際辦理經費狀況提供獎金或獎品。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1aRiRWrNogqNfKqaszNuVaZdbJ1_dDNPc/view?usp=sharing",
+        "quote": "全程完成競賽之隊員均核發全國決賽參賽證書。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1aRiRWrNogqNfKqaszNuVaZdbJ1_dDNPc/view?usp=sharing",
+        "quote": "指導區域賽及決賽之教師頒發感謝狀以資表揚"
       }
     ]
   },
@@ -246,8 +293,8 @@
     "basis": "quote",
     "evidence": [
       {
-        "url": "https://www.fg.tp.edu.tw/wp-content/uploads/doc/equip/2026 第四屆全國科學量測競賽.pdf",
-        "quote": "3.競賽進行期間可使用 AI 工具。"
+        "url": "https://drive.google.com/file/d/1aRiRWrNogqNfKqaszNuVaZdbJ1_dDNPc/view?usp=sharing",
+        "quote": "競賽進行期間可使用 AI 工具。"
       }
     ]
   },
@@ -255,30 +302,31 @@
     "official": "https://www.phyedu.tw/2026%E7%AC%AC%E5%9B%9B%E5%B1%86%E5%85%A8%E5%9C%8B%E7%A7%91%E5%AD%B8%E9%87%8F%E6%B8%AC%E7%AB%B6%E8%B3%BD",
     "rules": [
       {
-        "title": "2026 第四屆全國科學量測競賽辦法",
-        "url": "https://www.fg.tp.edu.tw/wp-content/uploads/doc/equip/2026 第四屆全國科學量測競賽.pdf"
+        "title": "競賽辦法",
+        "url": "https://drive.google.com/file/d/1aRiRWrNogqNfKqaszNuVaZdbJ1_dDNPc/view?usp=sharing"
       }
     ],
     "registration": "https://reurl.cc/berzgy"
   },
   "found_via": [
     {
+      "name": "reurl.cc",
+      "url": "https://reurl.cc/berzgy"
+    },
+    {
       "name": "www.fg.tp.edu.tw",
       "url": "https://www.fg.tp.edu.tw/news/2026-%e7%ac%ac%e5%9b%9b%e5%b1%86%e5%85%a8%e5%9c%8b%e7%a7%91%e5%ad%b8%e9%87%8f%e6%b8%ac%e7%ab%b6%e8%b3%bd/"
     }
   ],
   "verification": {
-    "last_verified": "2026-11-21",
-    "method": "dual",
-    "unread": [
-      "2026 第四屆全國科學量測競賽.jpg（無文字海報圖檔）"
-    ],
+    "last_verified": "2026-11-24",
+    "method": "single",
+    "unread": [],
     "note": null,
     "readers": [
-      "gemini-4-hydrogen-medium",
-      "gpt-6.1-sol"
+      "claude-opus-5-5"
     ]
   },
   "first_seen": "2026-11-20",
-  "updated": "2026-11-20"
+  "updated": "2026-11-24"
 }

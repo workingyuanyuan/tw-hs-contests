@@ -1,0 +1,227 @@
+{
+  "schema": 1,
+  "id": "2026-aicup-go-rank-prediction",
+  "title": "圍棋棋力與風格預測競賽—競賽二：從圍棋棋譜預測玩家棋力等級",
+  "edition": "AI CUP 2026",
+  "summary": "隊伍以圍棋棋譜資料建模，上傳預測玩家棋力等級的答案，優勝隊伍另交報告與程式碼。",
+  "organizers": [
+    {
+      "name": "教育部資訊及科技教育司",
+      "role": "指導"
+    },
+    {
+      "name": "教育部人工智慧競賽與標註資料蒐集計畫辦公室",
+      "role": "主辦"
+    },
+    {
+      "name": "國立東華大學 智慧科技中心",
+      "role": "協辦"
+    }
+  ],
+  "categories": [
+    "資訊與 AI"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職",
+      "五專",
+      "大專",
+      "社會人士"
+    ],
+    "division": "mixed",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": null,
+    "team_max": null,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.aidea-web.tw/topic/8c36af8c-2c70-497f-a862-6fb81a53a403",
+        "quote": "參賽組別分為學生組、社會人士組。學生組需要全隊皆為學生身分；隊伍內只要有一名非學生身分者，則全隊列為社會人士組。"
+      },
+      {
+        "url": "https://www.aidea-web.tw/topic/8c36af8c-2c70-497f-a862-6fb81a53a403",
+        "quote": "隊伍內所有成員於報名當日起至競賽測試集答案上傳截止時間止，皆須符合中華民國各級校院在學學生身分，該參賽隊伍方具學生組領獎資格，並於敘獎時檢附相關證明。"
+      },
+      {
+        "url": "https://www.aidea-web.tw/topic/8c36af8c-2c70-497f-a862-6fb81a53a403",
+        "quote": "報名隊伍每位成員須於「AI CUP報名系統」登入報名，並依照報名頁面所示項目，逐項填寫每位隊員之資料，並完成組隊流程，以進行競賽登錄。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "報名截止",
+      "date": "2026-11-03",
+      "time": "23:59",
+      "original": "2026/09/08(二) 11:00 – 2026/11/03(二) 23:59:59",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.aidea-web.tw/topic/8c36af8c-2c70-497f-a862-6fb81a53a403",
+          "quote": "2026/09/08(二) 11:00 – 2026/11/03(二) 23:59:59"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "測試集答案上傳截止",
+      "date": "2026-11-24",
+      "time": "23:59",
+      "original": "2026/11/24晚上23:59:59",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.aidea-web.tw/topic/8c36af8c-2c70-497f-a862-6fb81a53a403",
+          "quote": "Testing Dataset答案上傳期限至2026/11/24晚上23:59:59，逾期不接受上傳。"
+        }
+      ]
+    },
+    {
+      "kind": "shortlist_announcement",
+      "label": "公佈 Private Leaderboard 成績",
+      "date": "2026-11-25",
+      "time": "16:00",
+      "original": "2026/11/25(三) 16:00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.aidea-web.tw/topic/8c36af8c-2c70-497f-a862-6fb81a53a403",
+          "quote": "2026/11/25(三) 16:00"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "優勝隊伍上傳報告截止",
+      "date": "2026-12-06",
+      "time": "23:59",
+      "original": "2026/11/26(四) 11:00 – 2026/12/06(日) 23:59:59",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.aidea-web.tw/topic/8c36af8c-2c70-497f-a862-6fb81a53a403",
+          "quote": "2026/11/26(四) 11:00 – 2026/12/06(日) 23:59:59"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "公佈比賽最終名次",
+      "date": "2027-01-04",
+      "time": "11:00",
+      "original": "2027/01/04(一) 11:00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.aidea-web.tw/topic/8c36af8c-2c70-497f-a862-6fb81a53a403",
+          "quote": "2027/01/04(一) 11:00"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "競賽期間",
+      "what": "測試集預測答案檔（每日上限 5 次）",
+      "how": "online"
+    },
+    {
+      "stage": "優勝隊伍上傳報告",
+      "what": "預測模型說明文件、可重現模型的程式碼，以及自行製作或使用之外部資料集（如有）",
+      "how": "online"
+    },
+    {
+      "stage": "頒獎",
+      "what": "得獎隊伍至少一名代表出席頒獎活動並簡報分享",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "finalists",
+    "where": null,
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.aidea-web.tw/topic/8c36af8c-2c70-497f-a862-6fb81a53a403",
+        "quote": "得獎隊伍需至少推派一員代表，依主辦單位通知參與後續頒獎活動、並進行簡報分享。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.aidea-web.tw/topic/8c36af8c-2c70-497f-a862-6fb81a53a403"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "學生組排名獎前 16 名共 12.5 萬元：第一名 4 萬元、第二名 2.5 萬元、第三名 1.5 萬元、優等獎 3 名各 5 千元、佳作獎 10 名各 3 千元，另頒教育部獎狀；排名前 30 名且前 25% 之隊伍（含社會人士）繳交報告經審定後獲頒電子獎狀。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.aidea-web.tw/topic/8c36af8c-2c70-497f-a862-6fb81a53a403",
+        "quote": "在「從圍棋棋譜預測玩家棋力等級」項目中，符合敘獎資格之前16名優勝隊伍將分別獲得競賽獎金，本項目[學生組排名獎]獎金共 12.5 萬："
+      },
+      {
+        "url": "https://www.aidea-web.tw/topic/8c36af8c-2c70-497f-a862-6fb81a53a403",
+        "quote": "第一名 4 萬元 第二名 2.5 萬元 第三名 1.5 萬元 優等獎3名 各 5千元 佳作獎10名 各 3千元"
+      },
+      {
+        "url": "https://www.aidea-web.tw/topic/8c36af8c-2c70-497f-a862-6fb81a53a403",
+        "quote": "學生組前16名隊伍除獎金獎項外，並將獲頒\"教育部獎狀\"。"
+      },
+      {
+        "url": "https://www.aidea-web.tw/topic/8c36af8c-2c70-497f-a862-6fb81a53a403",
+        "quote": "前30名且Private Leaderboard排名前25%之隊伍(含社會人士)，依規定繳交報告後經主辦單位之評審委員審定，將獲頒教育部人工智慧競賽計畫辦公室電子獎狀。"
+      },
+      {
+        "url": "https://www.aidea-web.tw/topic/8c36af8c-2c70-497f-a862-6fb81a53a403",
+        "quote": "敘獎對象須為報名時具中華民國各大專校院之在學生，敘獎時需檢附相關證明。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.aidea-web.tw/topic/8c36af8c-2c70-497f-a862-6fb81a53a403"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://www.aidea-web.tw/topic/8c36af8c-2c70-497f-a862-6fb81a53a403",
+    "rules": [],
+    "registration": "https://go.aicup.tw/"
+  },
+  "found_via": [
+    {
+      "name": "AIdea 人工智慧共創平台 競賽議題",
+      "url": "https://www.aidea-web.tw/topic/8c36af8c-2c70-497f-a862-6fb81a53a403"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-24",
+    "method": "single",
+    "unread": [],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-24",
+  "conflict": "競賽頁「獎項」寫敘獎對象須為報名時具中華民國各大專校院之在學生；同頁「領獎資格與方式」則寫隊伍成員皆須符合中華民國各級校院在學學生身分，方具學生組領獎資格。",
+  "level": "checked",
+  "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-aicup-go-rank-prediction/",
+  "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-aicup-go-rank-prediction.md"
+}

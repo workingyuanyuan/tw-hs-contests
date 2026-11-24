@@ -3,7 +3,7 @@ title: "2027台灣燈會在苗栗－全國花燈競賽"
 description: "全國各級學校師生及民眾依組別創作花燈，線上報名並上傳圖檔及核章確認單後，親自送件至苗栗展覽區參賽。"
 appliesTo: "2027 這一屆"
 caveat: "日期與時間都是臺灣時間。"
-lastVerified: 2026-11-21
+lastVerified: 2026-11-24
 kind: "contest"
 deadline: "2026-12-04"
 sources:

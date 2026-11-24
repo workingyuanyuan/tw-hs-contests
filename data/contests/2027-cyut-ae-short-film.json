@@ -1,0 +1,175 @@
+{
+  "schema": 1,
+  "id": "2027-cyut-ae-short-film",
+  "title": "全國校園創意短片比賽",
+  "edition": "第10屆",
+  "summary": "高中職與大專學生 2 至 8 人一組，拍攝介紹就讀科群、系所或學校特色的英文短片。",
+  "organizers": [
+    {
+      "name": "朝陽科技大學應用英語系",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "外語",
+    "影音"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職",
+      "五專",
+      "大專"
+    ],
+    "division": "separate",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 2,
+    "team_max": 8,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://aecyut.cyut.edu.tw/var/file/39/1039/img/343266758.pdf",
+        "quote": "參賽資格：全國大專院校 (含五專四、五年級、大學部、碩士班)以及高中、高職在校學生。"
+      },
+      {
+        "url": "https://aecyut.cyut.edu.tw/var/file/39/1039/img/343266758.pdf",
+        "quote": "每組以2~8 人為限，參賽同學僅能選擇一組報名，不得跨組、跨系及跨校。"
+      },
+      {
+        "url": "https://aecyut.cyut.edu.tw/var/file/39/1039/img/343266758.pdf",
+        "quote": "大專院校和高中職組各別錄取團體獎五名，唯主辦單位可視實際參賽隊伍，增刪優勝隊伍數。"
+      },
+      {
+        "url": "https://aecyut.cyut.edu.tw/var/file/39/1039/img/343266758.pdf",
+        "quote": "請線上填寫報名表（需附參賽作品網址連結），網址https://forms.gle/9V7oENByauhQHiAe7。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "報名及作品連結繳交截止",
+      "date": "2027-01-15",
+      "time": "12:00",
+      "original": "民國116 年1 月15 日(星期五)中午12:00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://aecyut.cyut.edu.tw/var/file/39/1039/img/343266758.pdf",
+          "quote": "請於民國116 年1 月15 日(星期五)中午12:00 前，完成以下報名手續。"
+        },
+        {
+          "url": "https://aecyut.cyut.edu.tw/p/406-1039-66700,r106.php?Lang=zh-tw",
+          "quote": "即日起至民國116年01月15日(星期五)中午12:00為止，請線上填寫報名表（需附參賽作品網址連結）"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名",
+      "what": "線上報名表，附參賽影片的雲端硬碟連結",
+      "how": "online"
+    },
+    {
+      "stage": "作品",
+      "what": "3 至 4 分鐘短片，配英文旁白與英文字幕",
+      "how": "online"
+    }
+  ],
+  "attendance": {
+    "value": "none",
+    "where": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://aecyut.cyut.edu.tw/var/file/39/1039/img/343266758.pdf"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://aecyut.cyut.edu.tw/var/file/39/1039/img/343266758.pdf"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "大專院校組與高中職組各錄取團體獎五名：第一名禮券 3,000 元、第二名禮券 2,000 元、第三名禮券 1,000 元，皆附獎狀；佳作頒發獎狀。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://aecyut.cyut.edu.tw/var/file/39/1039/img/343266758.pdf",
+        "quote": "大專院校和高中職組各別錄取團體獎五名，唯主辦單位可視實際參賽隊伍，增刪優勝隊伍數。"
+      },
+      {
+        "url": "https://aecyut.cyut.edu.tw/var/file/39/1039/img/343266758.pdf",
+        "quote": "第一名：頒發禮券3,000 元整及獎狀乙紙"
+      },
+      {
+        "url": "https://aecyut.cyut.edu.tw/var/file/39/1039/img/343266758.pdf",
+        "quote": "第二名：頒發禮券2,000 元整及獎狀乙紙"
+      },
+      {
+        "url": "https://aecyut.cyut.edu.tw/var/file/39/1039/img/343266758.pdf",
+        "quote": "第三名：頒發禮券1,000 元整及獎狀乙紙"
+      },
+      {
+        "url": "https://aecyut.cyut.edu.tw/var/file/39/1039/img/343266758.pdf",
+        "quote": "佳作：頒發獎狀乙紙"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "banned",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://aecyut.cyut.edu.tw/var/file/39/1039/img/343266758.pdf",
+        "quote": "影片的拍攝、內容和對白需原創，不得使用AI 生成作品。"
+      },
+      {
+        "url": "https://aecyut.cyut.edu.tw/var/file/39/1039/img/343266758.pdf",
+        "quote": "請勿使用文字轉語音或AI 語音生成的功能來錄製影片。"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://aecyut.cyut.edu.tw/p/406-1039-66700,r106.php?Lang=zh-tw",
+    "rules": [
+      {
+        "title": "比賽辦法（PDF）",
+        "url": "https://aecyut.cyut.edu.tw/var/file/39/1039/img/343266758.pdf"
+      }
+    ],
+    "registration": "https://forms.gle/9V7oENByauhQHiAe7"
+  },
+  "found_via": [
+    {
+      "name": "aecyut.cyut.edu.tw",
+      "url": "http://aecyut.cyut.edu.tw/"
+    },
+    {
+      "name": "新竹高商 消息公佈欄",
+      "url": "https://www.hccvs.hc.edu.tw/ischool/public/news_view/show.php?nid=26444"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-24",
+    "method": "single",
+    "unread": [],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-24"
+}

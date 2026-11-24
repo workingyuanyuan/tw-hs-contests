@@ -195,12 +195,13 @@
     }
   ],
   "verification": {
-    "last_verified": "2026-11-21",
-    "method": "single",
+    "last_verified": "2026-11-24",
+    "method": "disputed",
     "unread": [],
-    "note": null,
+    "note": "兩次讀取的關鍵事實不一致：參賽對象：['高中'] 對 ['高中', '高職']",
     "readers": [
-      "gemini-4-hydrogen-medium"
+      "gemini-4-hydrogen-medium",
+      "claude-opus-5-5"
     ]
   },
   "first_seen": "2026-11-20",

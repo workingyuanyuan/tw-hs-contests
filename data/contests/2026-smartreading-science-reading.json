@@ -1,0 +1,399 @@
+{
+  "schema": 1,
+  "id": "2026-smartreading-science-reading",
+  "title": "2026-2027第八屆科普閱讀力大賽",
+  "edition": "第八屆",
+  "summary": "國小三年級至高中十年級學生完成前測、科普書籍與文章的讀後評量及後測，依成績排名。",
+  "organizers": [
+    {
+      "name": "國立臺灣師範大學教育心理與輔導學系",
+      "role": "主辦"
+    },
+    {
+      "name": "國立臺灣師範大學華語文與科技研究中心",
+      "role": "主辦"
+    },
+    {
+      "name": "國立臺灣師範大學心理與教育測驗研究發展中心",
+      "role": "協辦"
+    },
+    {
+      "name": "中央研究院",
+      "role": "協辦"
+    },
+    {
+      "name": "國立自然科學博物館",
+      "role": "協辦"
+    },
+    {
+      "name": "國立臺灣大學科學教育發展中心",
+      "role": "協辦"
+    },
+    {
+      "name": "泛科創新股份有限公司",
+      "role": "協辦"
+    },
+    {
+      "name": "國際數感教育股份有限公司",
+      "role": "協辦"
+    },
+    {
+      "name": "科學人",
+      "role": "協辦"
+    },
+    {
+      "name": "凌網知識股份有限公司",
+      "role": "協辦"
+    }
+  ],
+  "categories": [
+    "語文與寫作",
+    "自然科學"
+  ],
+  "eligibility": {
+    "levels": [
+      "國小",
+      "國中",
+      "高中",
+      "高職"
+    ],
+    "division": "separate",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": 1,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://bhuntr.com/tw/competitions/pcp138q5o1e03qyp0k",
+        "quote": "參賽者必須具有下列任一種身分：全國國民中小學、高中職在學學生"
+      },
+      {
+        "url": "https://bhuntr.com/tw/competitions/pcp138q5o1e03qyp0k",
+        "quote": "國中組：七年級組、八年級組高中組：十年級組"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/news/%e3%80%90%e8%bd%89%e7%9f%a5%e3%80%912026-2027%e7%ac%ac%e5%85%ab%e5%b1%86%e7%a7%91%e6%99%ae%e9%96%b1%e8%ae%80%e5%8a%9b%e5%a4%a7%e8%b3%bd/",
+        "quote": "(二)參賽對象：國小三年級至國中八年級、高中十年級學生。"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/news/%e3%80%90%e8%bd%89%e7%9f%a5%e3%80%912026-2027%e7%ac%ac%e5%85%ab%e5%b1%86%e7%a7%91%e6%99%ae%e9%96%b1%e8%ae%80%e5%8a%9b%e5%a4%a7%e8%b3%bd/",
+        "quote": "２、個人報名及一般團報：請至競賽官網「個人報名」或「一般團報」專區辦理"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "報名及繳費截止",
+      "date": "2026-11-27",
+      "time": "12:00",
+      "original": "2026年11月27日(五)中午12:00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://bhuntr.com/tw/competitions/pcp138q5o1e03qyp0k",
+          "quote": "報名及繳費2026年9月14日(一)中午12:00 至 2026年11月27日(五)中午12:00"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "前測（實體考場）",
+      "date": "2026-12-12",
+      "time": null,
+      "original": "2026年12月12日(六)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://bhuntr.com/tw/competitions/pcp138q5o1e03qyp0k",
+          "quote": "前測時間（擇一應考）2026年12月12日(六)實體考場；2026年12月19日(六)線上施測"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "前測（線上施測）",
+      "date": "2026-12-19",
+      "time": null,
+      "original": "2026年12月19日(六)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://bhuntr.com/tw/competitions/pcp138q5o1e03qyp0k",
+          "quote": "前測時間（擇一應考）2026年12月12日(六)實體考場；2026年12月19日(六)線上施測"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "前測成績公告",
+      "date": "2027-01-04",
+      "time": "12:00",
+      "original": "2027年1月4日(一)中午12:00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://bhuntr.com/tw/competitions/pcp138q5o1e03qyp0k",
+          "quote": "前測成績公告2027年1月4日(一)中午12:00"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "閱讀任務截止",
+      "date": "2027-04-02",
+      "time": "12:00",
+      "original": "2027年4月2日(五)中午12:00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://bhuntr.com/tw/competitions/pcp138q5o1e03qyp0k",
+          "quote": "閱讀任務2027年1月11日(一)中午12:00 至 2027年4月2日(五)中午12:00"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "後測",
+      "date": null,
+      "time": null,
+      "original": "預計為2027年4月至5月",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://bhuntr.com/tw/competitions/pcp138q5o1e03qyp0k",
+          "quote": "後測時間預計為2027年4月至5月（另行公告於官網）"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "成績公告",
+      "date": null,
+      "time": null,
+      "original": "2027年7-8月",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://bhuntr.com/tw/competitions/pcp138q5o1e03qyp0k",
+          "quote": "成績公告2027年7-8月（另行公告於官網）"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "前測",
+      "what": "DACC中文閱讀能力適性診斷評量、閱讀行為調查測驗、閱讀自我調控量表（實體考場或線上施測擇一）",
+      "how": "unknown"
+    },
+    {
+      "stage": "閱讀任務",
+      "what": "七年級組、八年級組、十年級組：6本書籍讀後評量、15篇100字以上短文評論",
+      "how": "online"
+    },
+    {
+      "stage": "後測",
+      "what": "DACC中文閱讀能力適性診斷評量、科普知識大會考（選擇題）、閱讀動機量表、閱讀行為調查測驗",
+      "how": "unknown"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "實體考場或線上居家施測",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://bhuntr.com/tw/competitions/pcp138q5o1e03qyp0k",
+        "quote": "競賽全程分為三個活動階段：前測、閱讀任務、後測，參賽學生須全程參加"
+      },
+      {
+        "url": "https://bhuntr.com/tw/competitions/pcp138q5o1e03qyp0k",
+        "quote": "施測方式：分為實體考場施測、線上居家施測二種"
+      }
+    ]
+  },
+  "fee": {
+    "value": "required",
+    "amount": "個人報名每人1,699元；一般團報（5–9人）每人1,500元、（10人及以上）每人1,300元；學校團報（15人含以上，限原校施測）每人550元。2026/10/31前另有優惠價。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://bhuntr.com/tw/competitions/pcp138q5o1e03qyp0k",
+        "quote": "報名流程：線上報名 → 繳費 → 報名成功。"
+      },
+      {
+        "url": "https://bhuntr.com/tw/competitions/pcp138q5o1e03qyp0k",
+        "quote": "個人報名1,699元/每人850元/每人一般團報（5–9人）1,500元/每人750元/每人一般團報（10人及以上）1,300元/每人650元/每人學校團報（15人含以上，限原校施測）550元/每人550元/每人"
+      },
+      {
+        "url": "https://bhuntr.com/tw/competitions/pcp138q5o1e03qyp0k",
+        "quote": "優惠期間（2026/9/14 12:00–2026/10/31）優惠價"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "全國賽各年級組：金牌獎（第1名）國中7–8年級、高中10年級5,000元，銀牌獎（第2名）4,000元，銅牌獎（第3名）3,000元，優讀者（第4、5名）500元，皆附獎狀；區域賽各區域各年級組前五名頒獎狀。完賽者獲參賽證明。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://bhuntr.com/tw/competitions/pcp138q5o1e03qyp0k",
+        "quote": "全國金牌獎第1名國小3–4年級：3000元；國小5–6年級：4000元；國中7–8年級、高中10年級：5000元獎狀乙張"
+      },
+      {
+        "url": "https://bhuntr.com/tw/competitions/pcp138q5o1e03qyp0k",
+        "quote": "全國銀牌獎第2名國小3–4年級：2000元；國小5–6年級：3000元；國中7–8年級、高中10年級：4000元獎狀乙張"
+      },
+      {
+        "url": "https://bhuntr.com/tw/competitions/pcp138q5o1e03qyp0k",
+        "quote": "全國銅牌獎第3名國小3–4年級：1500元；國小5–6年級：2000元；國中7–8年級、高中10年級：3000元獎狀乙張全國優讀者第4、5名500元獎狀乙張"
+      },
+      {
+        "url": "https://bhuntr.com/tw/competitions/pcp138q5o1e03qyp0k",
+        "quote": "五大競賽區域，各區域各年級組前五名，頒發獎狀乙張。"
+      },
+      {
+        "url": "https://bhuntr.com/tw/competitions/pcp138q5o1e03qyp0k",
+        "quote": "方能獲得參賽證明、參加敘獎"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "restricted",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://bhuntr.com/tw/competitions/pcp138q5o1e03qyp0k",
+        "quote": "抄襲規範：直接複製原文內容達作答內容30%及以上、使用AI代寫、作答間隔小於5分鐘密集作答，該筆任務不予計分，不列入完賽資格與排名。"
+      },
+      {
+        "url": "https://bhuntr.com/tw/competitions/pcp138q5o1e03qyp0k",
+        "quote": "加分任務：完成SR智慧小書人（AI完整對話2次）及說書頻道影片錄製上傳並審核通過，總積分額外加計10%"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://contest.smartreading.net/contest2026/tw/info_schedule.html",
+    "rules": [
+      {
+        "title": "競賽活動辦法（PDF）",
+        "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26365/%E3%80%8C2026-2027%E7%AC%AC%E5%85%AB%E5%B1%86%E7%A7%91%E6%99%AE%E9%96%B1%E8%AE%80%E5%8A%9B%E5%A4%A7%E8%B3%BD%E3%80%8D%E4%B9%8B%E7%AB%B6%E8%B3%BD%E6%B4%BB%E5%8B%95%E8%BE%A6%E6%B3%95.pdf"
+      }
+    ],
+    "registration": "https://contest.smartreading.net/contest2026/tw/parti_contest.html"
+  },
+  "found_via": [
+    {
+      "name": "潮州高中 學生課外活動",
+      "url": "https://www.ccsh.ptc.edu.tw/data.php?id=19276&tpl=5"
+    },
+    {
+      "name": "大里高中 校外活動與競賽",
+      "url": "https://dlsh.tc.edu.tw/p/406-1068-646750,r2145.php?Lang=zh-tw"
+    },
+    {
+      "name": "苗栗農工 處室公告",
+      "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=27036"
+    },
+    {
+      "name": "彰化高中 競賽公告",
+      "url": "https://www.chsh.chc.edu.tw/p/406-1009-196735,r70.php?Lang=zh-tw"
+    },
+    {
+      "name": "成功高中 活動競賽",
+      "url": "https://www.cksh.tp.edu.tw/news/%e3%80%90%e8%bd%89%e7%9f%a5%e3%80%912026-2027%e7%ac%ac%e5%85%ab%e5%b1%86%e7%a7%91%e6%99%ae%e9%96%b1%e8%ae%80%e5%8a%9b%e5%a4%a7%e8%b3%bd/"
+    },
+    {
+      "name": "新竹高商 消息公佈欄",
+      "url": "https://www.hccvs.hc.edu.tw/ischool/public/news_view/show.php?nid=26660"
+    },
+    {
+      "name": "高雄高工 競賽公告",
+      "url": "https://www.ksvs.kh.edu.tw/v4/cpsub/article.php?id=12674"
+    },
+    {
+      "name": "羅東高工 最新消息",
+      "url": "https://www.ltivs.ilc.edu.tw/p/406-1000-5304,r12.php?Lang=zh-tw"
+    },
+    {
+      "name": "苗栗高中 學生校外營隊、活動、比賽",
+      "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=28623"
+    },
+    {
+      "name": "壽山高中 校外競賽",
+      "url": "https://www.sssh.tyc.edu.tw/news/%e8%bd%89%e7%9f%a5%e5%8f%b0%e7%81%a3%e5%b8%ab%e7%af%84%e5%a4%a7%e5%ad%b8%e8%8f%af%e8%aa%9e%e6%96%87%e8%88%87%e7%a7%91%e6%8a%80%e7%a0%94%e7%a9%b6%e4%b8%ad%e5%bf%83%e8%be%a6%e7%90%86%e3%80%8c2026-2027/"
+    },
+    {
+      "name": "成功高中 活動競賽",
+      "url": "https://www.cksh.tp.edu.tw/news/%e3%80%90%e8%bd%89%e7%9f%a5%e3%80%91%e8%87%ba%e5%b8%ab%e5%a4%a7%e8%8f%af%e8%aa%9e%e6%96%87%e8%88%87%e7%a7%91%e6%8a%80%e7%a0%94%e7%a9%b6%e4%b8%ad%e5%bf%83%e8%be%a6%e7%90%86%e3%80%8c2026-2027%e7%ac%ac/"
+    },
+    {
+      "name": "新竹高商 消息公佈欄",
+      "url": "https://www.hccvs.hc.edu.tw/ischool/public/news_view/show.php?nid=26365"
+    },
+    {
+      "name": "金門高中 最新消息",
+      "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=22190"
+    },
+    {
+      "name": "苗栗農工 處室公告",
+      "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26445"
+    },
+    {
+      "name": "暨大附中 學生研習與競賽活動",
+      "url": "https://www.pshs.ntct.edu.tw/ischool/public/news_view/show.php?nid=33659"
+    },
+    {
+      "name": "彰化高中 競賽公告",
+      "url": "https://www.chsh.chc.edu.tw/p/406-1009-195642,r70.php?Lang=zh-tw"
+    },
+    {
+      "name": "新竹女中 活動研習",
+      "url": "https://www.hgsh.hc.edu.tw/news/2026-2027%e7%ac%ac%e5%85%ab%e5%b1%86%e7%a7%91%e6%99%ae%e9%96%b1%e8%ae%80%e5%8a%9b%e5%a4%a7%e8%b3%bd/"
+    },
+    {
+      "name": "苗栗高中 學生校外營隊、活動、比賽",
+      "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=28009"
+    },
+    {
+      "name": "南投高中 最新消息",
+      "url": "https://www.ntsh.ntct.edu.tw/ischool/public/news_view/show.php?nid=22799"
+    },
+    {
+      "name": "獎金獵人 競賽平台",
+      "url": "https://bhuntr.com/tw/competitions/pcp138q5o1e03qyp0k"
+    },
+    {
+      "name": "中山女高 最新消息",
+      "url": "https://www.csghs.tp.edu.tw/news/%e8%bd%89%e7%9f%a5%e5%9c%8b%e7%ab%8b%e8%87%ba%e7%81%a3%e5%b8%ab%e7%af%84%e5%a4%a7%e5%ad%b8-%ef%bc%8c%e3%80%8c2026-2027%e7%ac%ac%e5%85%ab-%e5%b1%86%e7%a7%91%e6%99%ae%e9%96%b1%e8%ae%80%e5%8a%9b%e5%a4%a7/"
+    },
+    {
+      "name": "海山高中 學生競賽活動",
+      "url": "https://www.hshs.ntpc.edu.tw/p/406-1000-12238,r156.php"
+    },
+    {
+      "name": "海山高中 學生競賽活動",
+      "url": "https://www.hshs.ntpc.edu.tw/p/406-1000-12708,r156.php"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-24",
+    "method": "dual",
+    "unread": [
+      "競賽活動辦法 PDF",
+      "官網「閱讀任務」頁面"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5",
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-24",
+  "conflict": "臺師大來函（各校轉知公告）寫後測考試為116年4月；獎金獵人競賽頁寫後測時間預計為2027年4月至5月。"
+}

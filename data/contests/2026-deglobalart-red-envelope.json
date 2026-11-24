@@ -193,14 +193,15 @@
     }
   ],
   "verification": {
-    "last_verified": "2026-11-21",
-    "method": "single",
+    "last_verified": "2026-11-24",
+    "method": "dual",
     "unread": [
       "報名表（PDF）（掃描或圖片檔，無可擷取文字）"
     ],
     "note": null,
     "readers": [
-      "gemini-4-hydrogen-medium"
+      "gemini-4-hydrogen-medium",
+      "claude-opus-5-5"
     ]
   },
   "first_seen": "2026-11-20",

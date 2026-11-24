@@ -1,0 +1,275 @@
+{
+  "schema": 1,
+  "id": "2026-moe-green-chemistry",
+  "title": "115 年度高級中等學校綠色化學創意競賽",
+  "edition": "115 年度（第七屆）",
+  "summary": "高中職學生 1 至 3 人一隊繳綠色化學實驗創意說明書，入圍複選者交成果報告與影片並到台中現場發表。",
+  "organizers": [
+    {
+      "name": "教育部",
+      "role": "主辦"
+    },
+    {
+      "name": "環境部",
+      "role": "主辦"
+    },
+    {
+      "name": "鼎澤科技有限公司",
+      "role": "承辦"
+    }
+  ],
+  "categories": [
+    "自然科學",
+    "農業與環境"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職"
+    ],
+    "division": "hs_only",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": 3,
+    "teacher": "optional",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/05/高級中等學校綠色化學創意競賽計畫02.pdf",
+        "quote": "凡對「綠色化學創意競賽」有興趣之高級中等學校學生皆可參與。"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/05/高級中等學校綠色化學創意競賽計畫02.pdf",
+        "quote": "每隊參賽學生以1 至3 人為限，每隊指導老師至多2 人，可以跨校但不能跨組合作。"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/05/高級中等學校綠色化學創意競賽計畫02.pdf",
+        "quote": "一、普通型高級中等學校組（含單科型高級中等學校）"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/05/高級中等學校綠色化學創意競賽計畫02.pdf",
+        "quote": "二、技術型高級中等學校組"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/05/高級中等學校綠色化學創意競賽計畫02.pdf",
+        "quote": "一律採網路報名方式：請於115 年9 月30 日22 點前依格式填寫報名表及創意說明書"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "報名與初選資料（報名表、創意說明書）上傳截止",
+      "date": "2026-09-30",
+      "time": "22:00",
+      "original": "115 年9 月30 日22 點前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/05/高級中等學校綠色化學創意競賽計畫02.pdf",
+          "quote": "請於115 年9 月30 日22 點前依格式填寫報名表及創意說明書"
+        }
+      ]
+    },
+    {
+      "kind": "shortlist_announcement",
+      "label": "公布入圍複選名單",
+      "date": null,
+      "time": null,
+      "original": "115 年10 月底前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/05/高級中等學校綠色化學創意競賽計畫02.pdf",
+          "quote": "入圍「複選」作品名單預計於115 年10 月底前公布於『教育部綠色化學教育網"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "繳交成果報告書",
+      "date": "2027-01-31",
+      "time": null,
+      "original": "116 年1 月31 日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/05/高級中等學校綠色化學創意競賽計畫02.pdf",
+          "quote": "繳交成果報告書 116 年1 月31 日"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "複選成果發表",
+      "date": null,
+      "time": null,
+      "original": "116 年2 月下旬前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/05/高級中等學校綠色化學創意競賽計畫02.pdf",
+          "quote": "原則上規劃於116 年2 月下旬前辦理，辦理地點財團法人台中世界貿易中心3 樓禮堂"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "公布複選結果",
+      "date": null,
+      "time": null,
+      "original": "116 年2 月下旬",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/05/高級中等學校綠色化學創意競賽計畫02.pdf",
+          "quote": "公布複選結果 116 年2 月下旬"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "頒獎典禮",
+      "date": null,
+      "time": null,
+      "original": "116 年3 月中旬",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/05/高級中等學校綠色化學創意競賽計畫02.pdf",
+          "quote": "辦理頒獎典禮 116 年3 月中旬"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "初選",
+      "what": "報名表與創意說明書（A4，1 萬字、30 頁內）",
+      "how": "online"
+    },
+    {
+      "stage": "複選",
+      "what": "成果報告書、著作權授權同意書與 3 至 5 分鐘成果影片（上傳 YouTube 後提供連結）",
+      "how": "online"
+    },
+    {
+      "stage": "複選成果發表",
+      "what": "依抽籤順序向五位評選委員各發表 7 分鐘、答詢 5 分鐘，並布置成果展示區",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "finalists",
+    "where": "財團法人台中世界貿易中心 3 樓禮堂",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/05/高級中等學校綠色化學創意競賽計畫02.pdf",
+        "quote": "原則上規劃於116 年2 月下旬前辦理，辦理地點財團法人台中世界貿易中心3 樓禮堂，成果發表時間原則為一日行程。"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/05/高級中等學校綠色化學創意競賽計畫02.pdf",
+        "quote": "各組須分別向五位評選委員進行成果發表；每組共需進行5 次發表，每次發表時間為7 分鐘，委員提問及答詢時間為5 分鐘。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/05/高級中等學校綠色化學創意競賽計畫01.pdf"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/05/高級中等學校綠色化學創意競賽計畫02.pdf"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/05/高級中等學校綠色化學創意競賽計畫03.pdf"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "普通型、技術型高級中等學校組分別選出金牌 1 名（獎金 2 萬元）、銀牌 2 名（1 萬 5 千元）、銅牌 3 名（1 萬元）與佳作若干名，皆頒獎狀；金銀銅牌每位指導老師另得 3,000 元。入圍複選每隊得實驗材料補助 3,000 元及入圍證明書；另有創意獎，總獎金 2 萬元。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/05/高級中等學校綠色化學創意競賽計畫02.pdf",
+        "quote": "原則上各組將選出競賽優勝隊伍金牌1 名、銀牌2 名、銅牌3 名與佳作若干名，由教育部頒發"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/05/高級中等學校綠色化學創意競賽計畫02.pdf",
+        "quote": "金牌獎：獲獎隊伍頒發獎狀、獎金新臺幣2 萬元，每位指導老師頒發感謝狀乙幀與獎金新臺幣3,000 元。"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/05/高級中等學校綠色化學創意競賽計畫02.pdf",
+        "quote": "銀牌獎：獲獎隊伍頒發獎狀、獎金新臺幣1 萬5 千元"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/05/高級中等學校綠色化學創意競賽計畫02.pdf",
+        "quote": "銅牌獎：獲獎隊伍頒發獎狀、獎金新臺幣1 萬元"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/05/高級中等學校綠色化學創意競賽計畫02.pdf",
+        "quote": "入圍獎：進入複選的隊伍，每隊可以獲得實驗材料補助費用新臺幣3,000 元及入圍證明書1 份。"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/05/高級中等學校綠色化學創意競賽計畫02.pdf",
+        "quote": "本獎項總獎金為新臺幣2 萬元，如有兩組以上隊伍經委員評定認可時，本獎項獎金由獲獎隊伍均分"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "restricted",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/05/高級中等學校綠色化學創意競賽計畫02.pdf",
+        "quote": "將其做為創作過程的輔助工具之一，但不可用於直接生成最終的設計成果。"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/05/高級中等學校綠色化學創意競賽計畫02.pdf",
+        "quote": "過程中如有使用人工智慧（AI 科技）協助產出文字、圖片等，需於使用處標註使用之AI 軟體及使用範圍"
+      }
+    ]
+  },
+  "links": {
+    "official": "http://chem.moe.edu.tw/green",
+    "rules": [
+      {
+        "title": "教育部函",
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/05/高級中等學校綠色化學創意競賽計畫01.pdf"
+      },
+      {
+        "title": "115 年度競賽計畫（含附件表單）",
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/05/高級中等學校綠色化學創意競賽計畫02.pdf"
+      },
+      {
+        "title": "競賽說明會簡報",
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/05/高級中等學校綠色化學創意競賽計畫03.pdf"
+      }
+    ],
+    "registration": "http://chem.moe.edu.tw/green/"
+  },
+  "found_via": [
+    {
+      "name": "臺南女中 學生競賽",
+      "url": "https://www.tngs.tn.edu.tw/2026/05/20/%e3%80%90%e5%b8%ab%e7%94%9f%e7%ab%b6%e8%b3%bd%e3%80%91%e9%ab%98%e7%b4%9a%e4%b8%ad%e7%ad%89%e5%ad%b8%e6%a0%a1%e7%b6%a0%e8%89%b2%e5%8c%96%e5%ad%b8%e5%89%b5%e6%84%8f%e7%ab%b6%e8%b3%bd%e8%a8%88%e7%95%ab/"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-24",
+    "method": "single",
+    "unread": [],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-24"
+}

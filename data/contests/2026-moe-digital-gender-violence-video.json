@@ -1,0 +1,234 @@
+{
+  "schema": 1,
+  "id": "2026-moe-digital-gender-violence-video",
+  "title": "數位/網路性別暴力防治短影音暨海報繪畫比賽",
+  "edition": "115 年",
+  "summary": "各級學生以數位/網路性別暴力防治為題創作，高中職與大專生郵寄 60 秒內直式短影音。",
+  "organizers": [
+    {
+      "name": "教育部",
+      "role": "主辦"
+    },
+    {
+      "name": "國立成功大學",
+      "role": "承辦"
+    }
+  ],
+  "categories": [
+    "影音",
+    "社會人文",
+    "美術"
+  ],
+  "eligibility": {
+    "levels": [
+      "國小",
+      "國中",
+      "高中",
+      "高職",
+      "大專"
+    ],
+    "division": "separate",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": null,
+    "team_max": null,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.sssh.tyc.edu.tw/view-doc/19/1150817數位網路性別暴力防治短影音比賽 簡章.pdf",
+        "quote": "一、各級公私立學校之在學學生（具有學籍者），每人參賽件數以1 件為限。"
+      },
+      {
+        "url": "https://www.sssh.tyc.edu.tw/view-doc/19/1150817數位網路性別暴力防治短影音比賽 簡章.pdf",
+        "quote": "一、 短影音：大專校院組及高中職組"
+      },
+      {
+        "url": "https://www.sssh.tyc.edu.tw/view-doc/19/1150817數位網路性別暴力防治短影音比賽 簡章.pdf",
+        "quote": "(一) 寄送比賽報名表（如附表1）、切結書、個人資料使用授權同意書、著作權授權同意書、實體作品。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "other",
+      "label": "開始收件",
+      "date": "2026-05-22",
+      "time": null,
+      "original": "115 年5 月22 日（星期五）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.sssh.tyc.edu.tw/view-doc/19/1150817數位網路性別暴力防治短影音比賽 簡章.pdf",
+          "quote": "三、 開始收件時間為115 年5 月22 日（星期五），收件至115 年9 月7 日（星期一），以郵戳為憑。"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "作品徵件截止（延長，以郵戳為憑）",
+      "date": "2026-09-07",
+      "time": null,
+      "original": "115 年9 月7 日（星期一）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.sssh.tyc.edu.tw/view-doc/19/1150817數位網路性別暴力防治短影音比賽 簡章.pdf",
+          "quote": "三、 開始收件時間為115 年5 月22 日（星期五），收件至115 年9 月7 日（星期一），以郵戳為憑。"
+        },
+        {
+          "url": "https://www.sssh.tyc.edu.tw/news/%e6%95%b8%e4%bd%8d-%e7%b6%b2%e8%b7%af%e6%80%a7%e5%88%a5%e6%9a%b4%e5%8a%9b%e9%98%b2%e6%b2%bb-%e7%9f%ad%e5%bd%b1%e9%9f%b3%e6%af%94%e8%b3%bd/",
+          "quote": "三、本案活動延長徵件時間至115年9月7日(星期一)"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "短影音人氣獎投票截止",
+      "date": "2026-09-22",
+      "time": null,
+      "original": "115 年9 月中旬至115 年9 月22 日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.sssh.tyc.edu.tw/view-doc/19/1150817數位網路性別暴力防治短影音比賽 簡章.pdf",
+          "quote": "115 年9 月中旬至115\n年9 月22 日"
+        }
+      ]
+    },
+    {
+      "kind": "shortlist_announcement",
+      "label": "入圍公布",
+      "date": null,
+      "time": null,
+      "original": "115 年10 月上旬",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.sssh.tyc.edu.tw/view-doc/19/1150817數位網路性別暴力防治短影音比賽 簡章.pdf",
+          "quote": "入圍公布 \n115 年10 月上旬"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "頒獎典禮及得獎公布",
+      "date": "2026-10-22",
+      "time": null,
+      "original": "115 年10 月22 日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.sssh.tyc.edu.tw/view-doc/19/1150817數位網路性別暴力防治短影音比賽 簡章.pdf",
+          "quote": "於115 年10 月22 日舉辦頒獎典禮公開\n表揚（地點另行通知得獎者）"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "收件（大專校院組、高中職組）",
+      "what": "60 秒內直式短影音（9:16、1080x1920）存於 USB，附報名表、切結書、個人資料使用授權同意書、著作權授權同意書，掛號郵寄",
+      "how": "mail"
+    },
+    {
+      "stage": "收件（國中組、國小組）",
+      "what": "四開手繪或電腦繪圖海報（含標語），附報名表與各項同意書，掛號郵寄",
+      "how": "mail"
+    }
+  ],
+  "attendance": {
+    "value": "none",
+    "where": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.sssh.tyc.edu.tw/view-doc/19/1150817數位網路性別暴力防治短影音比賽 簡章.pdf"
+      },
+      {
+        "url": "https://www.sssh.tyc.edu.tw/news/%e6%95%b8%e4%bd%8d-%e7%b6%b2%e8%b7%af%e6%80%a7%e5%88%a5%e6%9a%b4%e5%8a%9b%e9%98%b2%e6%b2%bb-%e7%9f%ad%e5%bd%b1%e9%9f%b3%e6%af%94%e8%b3%bd/"
+      },
+      {
+        "url": "https://www.sssh.tyc.edu.tw/news/%e6%95%99%e8%82%b2%e9%83%a8%e8%be%a6%e7%90%86115%e5%b9%b4%e3%80%8c%e6%95%b8%e4%bd%8d-%e7%b6%b2%e8%b7%af%e6%80%a7%e5%88%a5%e6%9a%b4%e5%8a%9b%e9%98%b2%e6%b2%bb%e7%9f%ad%e5%bd%b1%e9%9f%b3%e6%9a%a8/"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.sssh.tyc.edu.tw/view-doc/19/1150817數位網路性別暴力防治短影音比賽 簡章.pdf"
+      },
+      {
+        "url": "https://www.sssh.tyc.edu.tw/news/%e6%95%b8%e4%bd%8d-%e7%b6%b2%e8%b7%af%e6%80%a7%e5%88%a5%e6%9a%b4%e5%8a%9b%e9%98%b2%e6%b2%bb-%e7%9f%ad%e5%bd%b1%e9%9f%b3%e6%af%94%e8%b3%bd/"
+      },
+      {
+        "url": "https://www.sssh.tyc.edu.tw/news/%e6%95%99%e8%82%b2%e9%83%a8%e8%be%a6%e7%90%86115%e5%b9%b4%e3%80%8c%e6%95%b8%e4%bd%8d-%e7%b6%b2%e8%b7%af%e6%80%a7%e5%88%a5%e6%9a%b4%e5%8a%9b%e9%98%b2%e6%b2%bb%e7%9f%ad%e5%bd%b1%e9%9f%b3%e6%9a%a8/"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "短影音大專校院組、高中職組各頒金獎 2 名 2 萬元、銀獎 2 名 1 萬 5,000 元、銅獎 2 名 1 萬元、人氣獎 3 名各 5,000 元；海報繪畫國中組、國小組各頒金獎 1 名 1 萬 5,000 元、銀獎 1 名 1 萬元、銅獎 1 名 5,000 元、佳作 3 名各 2,500 元；皆附獎狀。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.sssh.tyc.edu.tw/news/%e6%95%b8%e4%bd%8d-%e7%b6%b2%e8%b7%af%e6%80%a7%e5%88%a5%e6%9a%b4%e5%8a%9b%e9%98%b2%e6%b2%bb-%e7%9f%ad%e5%bd%b1%e9%9f%b3%e6%af%94%e8%b3%bd/",
+        "quote": "【高中職組】金獎2萬 /銀獎1萬5/ 銅獎1萬 / 人氣獎5000元"
+      },
+      {
+        "url": "https://www.sssh.tyc.edu.tw/view-doc/19/1150817數位網路性別暴力防治短影音比賽 簡章.pdf",
+        "quote": "金獎2 名 \n金獎2 名 \n金獎1 名 \n金獎1 名"
+      },
+      {
+        "url": "https://www.sssh.tyc.edu.tw/view-doc/19/1150817數位網路性別暴力防治短影音比賽 簡章.pdf",
+        "quote": "人氣獎3 名 \n人氣獎3 名 \n佳作3 名 \n佳作3 名"
+      },
+      {
+        "url": "https://www.sssh.tyc.edu.tw/view-doc/19/1150817數位網路性別暴力防治短影音比賽 簡章.pdf",
+        "quote": "各5,000 元 \n各5,000 元 \n各2,500 元 \n各2,500 元"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "allowed",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.sssh.tyc.edu.tw/view-doc/19/1150817數位網路性別暴力防治短影音比賽 簡章.pdf",
+        "quote": "請參賽者使用非\n原創素材時，須註明使用之素材來源，包括圖像（含 AI 生成工具與平台）"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://deosop.webnode.tw/",
+    "rules": [
+      {
+        "title": "活動簡章（115 年 8 月 17 日修正）",
+        "url": "https://www.sssh.tyc.edu.tw/view-doc/19/1150817數位網路性別暴力防治短影音比賽 簡章.pdf"
+      }
+    ],
+    "registration": null
+  },
+  "found_via": [
+    {
+      "name": "壽山高中 校外競賽",
+      "url": "https://www.sssh.tyc.edu.tw/news/%e6%95%b8%e4%bd%8d-%e7%b6%b2%e8%b7%af%e6%80%a7%e5%88%a5%e6%9a%b4%e5%8a%9b%e9%98%b2%e6%b2%bb-%e7%9f%ad%e5%bd%b1%e9%9f%b3%e6%af%94%e8%b3%bd/"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-24",
+    "method": "single",
+    "unread": [],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-24",
+  "conflict": "壽山高中 115 年 5 月 30 日轉知的公告寫收件至 115 年 8 月 19 日；115 年 8 月 17 日的公告與修正簡章寫延長收件至 115 年 9 月 7 日。"
+}

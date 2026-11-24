@@ -93,14 +93,15 @@
     }
   ],
   "verification": {
-    "last_verified": "2026-11-21",
-    "method": "single",
+    "last_verified": "2026-11-24",
+    "method": "dual",
     "unread": [
       "活動網站（https://schs.nkust.edu.tw/）之比賽相關辦法及報名資訊"
     ],
     "note": null,
     "readers": [
-      "gemini-4-hydrogen-medium"
+      "gemini-4-hydrogen-medium",
+      "claude-opus-5-5"
     ]
   },
   "first_seen": "2026-11-20",

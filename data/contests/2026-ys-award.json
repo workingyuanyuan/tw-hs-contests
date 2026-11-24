@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "id": "2026-ys-award",
-  "title": "育秀盃創意獎",
+  "title": "第24屆育秀盃創意獎",
   "edition": "第 24 屆",
-  "summary": "大專及高中職學生組隊就數位應用、工業設計或品牌形象類提交企劃書、海報或影像等作品參賽。",
+  "summary": "大專與高中職學生組隊，以「玩轉AI 智創未來」為題繳交數位應用、工業設計或品牌形象作品。",
   "organizers": [
     {
       "name": "財團法人育秀教育基金會",
@@ -79,7 +79,7 @@
       "全國"
     ],
     "nomination": "none",
-    "team_min": 1,
+    "team_min": null,
     "team_max": null,
     "teacher": "optional",
     "basis": "quote",
@@ -93,6 +93,10 @@
         "quote": "「AI 代理人・未來學堂」應用開發命題僅限全員為「高中高職(含五專一~三年級)」投件，其餘命題只要符合上述身份皆可組隊報名。"
       },
       {
+        "url": "https://award.ysed.org.tw/faq",
+        "quote": "本屆競賽全類別皆收「高中職(含五專一~三年級)學生參賽，歡迎投件。"
+      },
+      {
         "url": "https://cdn.bountyhunter.co/file-presign/3a0937d1-20bd-4607-9e8d-d60179f4b6b8.pdf?dl=%E7%AC%AC24%E5%B1%86%E8%82%B2%E7%A7%80%E7%9B%83%E5%89%B5%E6%84%8F%E7%8D%8E%20%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95(%E5%87%BD%E6%96%87_%E5%A4%A7%E5%B0%88%E9%99%A2%E6%A0%A1).pdf",
         "quote": "每組成員上限6 名，鼓勵跨校系所組隊參加。"
       },
@@ -102,36 +106,44 @@
       },
       {
         "url": "https://cdn.bountyhunter.co/file-presign/3a0937d1-20bd-4607-9e8d-d60179f4b6b8.pdf?dl=%E7%AC%AC24%E5%B1%86%E8%82%B2%E7%A7%80%E7%9B%83%E5%89%B5%E6%84%8F%E7%8D%8E%20%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95(%E5%87%BD%E6%96%87_%E5%A4%A7%E5%B0%88%E9%99%A2%E6%A0%A1).pdf",
-        "quote": "(獎金需由一位指導老師代表領取、無指導老師則不提供)"
+        "quote": "採線上報名，請先至「登入/註冊」填寫報名資料，一件作品取得一組系統競賽編號(系統發信)"
+      },
+      {
+        "url": "https://award.ysed.org.tw/faq",
+        "quote": "沒有強制規定要有指導老師/指導單位，才能參賽。"
       }
     ]
   },
   "dates": [
     {
       "kind": "other",
-      "label": "報名與初賽開始",
+      "label": "報名開始",
       "date": "2026-10-01",
       "time": null,
-      "original": "2026 . 10 . 1 (四)",
+      "original": "2026 年10 月1 日(四)起",
       "basis": "quote",
       "evidence": [
         {
           "url": "https://cdn.bountyhunter.co/file-presign/3a0937d1-20bd-4607-9e8d-d60179f4b6b8.pdf?dl=%E7%AC%AC24%E5%B1%86%E8%82%B2%E7%A7%80%E7%9B%83%E5%89%B5%E6%84%8F%E7%8D%8E%20%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95(%E5%87%BD%E6%96%87_%E5%A4%A7%E5%B0%88%E9%99%A2%E6%A0%A1).pdf",
-          "quote": "報名/初賽開始\n2026 . 10 . 1 (四)"
+          "quote": "2026 年10 月1 日(四)起，請至育秀盃創意獎官網，「登入/會員中心」進行線上報名，並完成資料填寫。"
         }
       ]
     },
     {
-      "kind": "registration_deadline",
+      "kind": "submission_deadline",
       "label": "數位應用類、工業設計類報名及初賽截止",
       "date": "2026-12-31",
       "time": "23:59",
-      "original": "2026 . 12 . 31 (四) 23:59",
+      "original": "115 年10 月1 日至12 月31 日止",
       "basis": "quote",
       "evidence": [
         {
           "url": "https://cdn.bountyhunter.co/file-presign/3a0937d1-20bd-4607-9e8d-d60179f4b6b8.pdf?dl=%E7%AC%AC24%E5%B1%86%E8%82%B2%E7%A7%80%E7%9B%83%E5%89%B5%E6%84%8F%E7%8D%8E%20%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95(%E5%87%BD%E6%96%87_%E5%A4%A7%E5%B0%88%E9%99%A2%E6%A0%A1).pdf",
-          "quote": "初賽截止\n2026 . 12 . 31 (四)\n上傳官網作品繳件區，23:59 截止"
+          "quote": "數位應用類、工業設計類報名及初賽為115 年10 月1 日至12 月31 日止"
+        },
+        {
+          "url": "https://cdn.bountyhunter.co/file-presign/3a0937d1-20bd-4607-9e8d-d60179f4b6b8.pdf?dl=%E7%AC%AC24%E5%B1%86%E8%82%B2%E7%A7%80%E7%9B%83%E5%89%B5%E6%84%8F%E7%8D%8E%20%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95(%E5%87%BD%E6%96%87_%E5%A4%A7%E5%B0%88%E9%99%A2%E6%A0%A1).pdf",
+          "quote": "初賽截止 2026 . 12 . 31 (四) 上傳官網作品繳件區，23:59 截止"
         }
       ]
     },
@@ -145,7 +157,7 @@
       "evidence": [
         {
           "url": "https://cdn.bountyhunter.co/file-presign/3a0937d1-20bd-4607-9e8d-d60179f4b6b8.pdf?dl=%E7%AC%AC24%E5%B1%86%E8%82%B2%E7%A7%80%E7%9B%83%E5%89%B5%E6%84%8F%E7%8D%8E%20%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95(%E5%87%BD%E6%96%87_%E5%A4%A7%E5%B0%88%E9%99%A2%E6%A0%A1).pdf",
-          "quote": "複賽入圍公布\n2027 . 1 月中旬"
+          "quote": "複賽入圍公布 2027 . 1 月中旬"
         }
       ]
     },
@@ -154,26 +166,30 @@
       "label": "數位應用類、工業設計類複賽截止",
       "date": "2027-02-16",
       "time": "23:59",
-      "original": "2027 . 2 . 16 (二) 23:59",
+      "original": "2027 . 2 . 16 (二)",
       "basis": "quote",
       "evidence": [
         {
           "url": "https://cdn.bountyhunter.co/file-presign/3a0937d1-20bd-4607-9e8d-d60179f4b6b8.pdf?dl=%E7%AC%AC24%E5%B1%86%E8%82%B2%E7%A7%80%E7%9B%83%E5%89%B5%E6%84%8F%E7%8D%8E%20%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95(%E5%87%BD%E6%96%87_%E5%A4%A7%E5%B0%88%E9%99%A2%E6%A0%A1).pdf",
-          "quote": "複賽截止\n2027 . 2 . 16 (二)\n上傳官網作品繳件區，23:59 截止"
+          "quote": "複賽截止 2027 . 2 . 16 (二) 上傳官網作品繳件區，23:59 截止"
         }
       ]
     },
     {
-      "kind": "registration_deadline",
+      "kind": "submission_deadline",
       "label": "品牌形象類報名及初賽截止",
       "date": "2027-02-16",
       "time": "23:59",
-      "original": "2027 . 2 . 16 (二) 23:59",
+      "original": "116 年2 月16 日止",
       "basis": "quote",
       "evidence": [
         {
           "url": "https://cdn.bountyhunter.co/file-presign/3a0937d1-20bd-4607-9e8d-d60179f4b6b8.pdf?dl=%E7%AC%AC24%E5%B1%86%E8%82%B2%E7%A7%80%E7%9B%83%E5%89%B5%E6%84%8F%E7%8D%8E%20%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95(%E5%87%BD%E6%96%87_%E5%A4%A7%E5%B0%88%E9%99%A2%E6%A0%A1).pdf",
-          "quote": "初賽截止\n2027 . 2 . 16 (二)\n上傳官網作品繳件區，23:59 截止"
+          "quote": "品牌形象類報名及初賽為115 年10 月1 日至116 年2 月16 日止"
+        },
+        {
+          "url": "https://award.ysed.org.tw/faq",
+          "quote": "品牌形象類沒有複賽，初賽收件至2027年2月16日止。"
         }
       ]
     },
@@ -187,21 +203,35 @@
       "evidence": [
         {
           "url": "https://cdn.bountyhunter.co/file-presign/3a0937d1-20bd-4607-9e8d-d60179f4b6b8.pdf?dl=%E7%AC%AC24%E5%B1%86%E8%82%B2%E7%A7%80%E7%9B%83%E5%89%B5%E6%84%8F%E7%8D%8E%20%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95(%E5%87%BD%E6%96%87_%E5%A4%A7%E5%B0%88%E9%99%A2%E6%A0%A1).pdf",
-          "quote": "決賽入圍公布\n2027 . 3 月中旬"
+          "quote": "決賽入圍公布 2027 . 3 月中旬 官網最新消息公告"
         }
       ]
     },
     {
       "kind": "final_event",
-      "label": "決賽評選及頒獎典禮",
+      "label": "決賽評選及頒獎",
       "date": null,
       "time": null,
-      "original": "116 年 4 月",
+      "original": "2027 . 4 月辦理",
       "basis": "quote",
       "evidence": [
         {
           "url": "https://cdn.bountyhunter.co/file-presign/3a0937d1-20bd-4607-9e8d-d60179f4b6b8.pdf?dl=%E7%AC%AC24%E5%B1%86%E8%82%B2%E7%A7%80%E7%9B%83%E5%89%B5%E6%84%8F%E7%8D%8E%20%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95(%E5%87%BD%E6%96%87_%E5%A4%A7%E5%B0%88%E9%99%A2%E6%A0%A1).pdf",
-          "quote": "決賽暨頒獎典禮116 年4 月假聯華神通集團聯華實業南港企業總部辦理。"
+          "quote": "決賽評選及頒獎 2027 . 4 月辦理 詳細時間及地點將於官網另行公告"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "領獎資料繳交截止",
+      "date": "2027-05-10",
+      "time": null,
+      "original": "最終2027/5/10 止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://cdn.bountyhunter.co/file-presign/3a0937d1-20bd-4607-9e8d-d60179f4b6b8.pdf?dl=%E7%AC%AC24%E5%B1%86%E8%82%B2%E7%A7%80%E7%9B%83%E5%89%B5%E6%84%8F%E7%8D%8E%20%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95(%E5%87%BD%E6%96%87_%E5%A4%A7%E5%B0%88%E9%99%A2%E6%A0%A1).pdf",
+          "quote": "領獎資料請於決賽後一周內提供(最終2027/5/10 止)，逾期將不再進行領獎作業"
         }
       ]
     }
@@ -209,27 +239,32 @@
   "deliverables": [
     {
       "stage": "數位應用類初賽",
-      "what": "作品名稱及說明（500 字內）、企劃書（10 頁內）、直式 A3 海報 1 張、作品圖片 2 張",
+      "what": "作品名稱及說明、企劃書（圖文 10 頁內）、直式 A3 海報 1 張、作品圖片 2 張",
       "how": "online"
     },
     {
       "stage": "工業設計類初賽",
-      "what": "作品名稱及說明（500 字內）、企劃書（10 頁內）、直式 A3 設計提案裱板 1 張、產品圖片 2 張",
+      "what": "作品名稱及說明、企劃書（圖文 10 頁內）、直式 A3 設計提案裱板 1 張、產品圖片 2 張",
       "how": "online"
     },
     {
-      "stage": "數位應用類與工業設計類複賽",
-      "what": "1 分鐘內作品影片（上傳 YouTube 並繳交連結）",
+      "stage": "數位應用類、工業設計類複賽",
+      "what": "1 分鐘內作品影片（上傳 YouTube 後繳交連結）",
       "how": "online"
     },
     {
-      "stage": "品牌形象類初賽",
-      "what": "依主題繳交 5 分鐘內原創影像（YouTube 連結）或企劃書、設計圖 3 張、casefilm、劇照與海報等",
+      "stage": "品牌形象類初賽（影像作品）",
+      "what": "5 分鐘內原創影像（最長 330 秒）與 AI 生成視覺素材畫面簡錄、企劃書、劇照 2 張及電影海報 1 張",
+      "how": "online"
+    },
+    {
+      "stage": "品牌形象類初賽（IP／文創設計／策展／提案作品）",
+      "what": "作品說明、企劃書、設計圖 3 張、動態內容連結",
       "how": "online"
     },
     {
       "stage": "決賽",
-      "what": "數位應用類實機展示與 5 分鐘簡報；工業設計類 1:1 精密模型、A4 裱板與簡報；品牌形象類原始檔、海報或現場展示",
+      "what": "數位應用類實機展示及 5 分鐘簡報；工業設計類 1:1 精密模型、A4 裱板及 5 分鐘簡報；品牌形象類影片原始檔、A3 電影海報或現場展示與設計原始文件",
       "how": "onsite"
     }
   ],
@@ -243,35 +278,65 @@
         "quote": "決賽暨頒獎典禮116 年4 月假聯華神通集團聯華實業南港企業總部辦理。"
       },
       {
-        "url": "https://cdn.bountyhunter.co/file-presign/3a0937d1-20bd-4607-9e8d-d60179f4b6b8.pdf?dl=%E7%AC%AC24%E5%B1%86%E8%82%B2%E7%A7%80%E7%9B%83%E5%89%B5%E6%84%8F%E7%8D%8E%20%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95(%E5%87%BD%E6%96%87_%E5%A4%A7%E5%B0%88%E9%99%A2%E6%A0%A1).pdf",
-        "quote": "成品需可實機展示及實地操作測試、5 分鐘簡報檔"
+        "url": "https://award.ysed.org.tw/faq",
+        "quote": "不需全隊出席，但需要一位代表領獎，未參與展示與頒獎者視同放棄獲獎資格。"
       }
     ]
   },
   "fee": {
     "value": "none",
     "amount": null,
-    "basis": "absent",
+    "basis": "quote",
     "evidence": [
       {
-        "url": "https://cdn.bountyhunter.co/file-presign/3a0937d1-20bd-4607-9e8d-d60179f4b6b8.pdf?dl=%E7%AC%AC24%E5%B1%86%E8%82%B2%E7%A7%80%E7%9B%83%E5%89%B5%E6%84%8F%E7%8D%8E%20%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95(%E5%87%BD%E6%96%87_%E5%A4%A7%E5%B0%88%E9%99%A2%E6%A0%A1).pdf"
-      },
-      {
-        "url": "https://award.ysed.org.tw/competition"
+        "url": "https://award.ysed.org.tw/faq",
+        "quote": "A：免繳交報名費用。"
       }
     ]
   },
   "prizes": {
-    "text": "數位應用類、工業設計類及品牌形象類金獎 20 萬元、銀獎 10 萬元、銅獎 8 萬元、優選 5 萬元、佳作 1 至 3 萬元；數位應用類高中職組金獎 10 萬元、銀獎 8 萬元、銅獎 6 萬元、佳作 2 萬元；另有特別獎 1 至 2 萬元、模型補助 2 萬元、指導老師獎 1 萬元、獎盃、獎狀及企業實習機會。",
+    "text": "總獎勵逾 300 萬元。數位應用類、工業設計類：金獎各 1 名 20 萬元、銀獎 10 萬元、銅獎 8 萬元（皆附獎盃）、優選各 2 名 5 萬元、佳作數名（數位應用類 3 萬元、工業設計類 1 萬元），另有神達企業特別獎 2 萬元、女力科技獎 1 萬元，工業設計類模型補助上限 15 隊各 2 萬元。數位應用類高中職組：金獎 10 萬元、銀獎 8 萬元、銅獎 6 萬元、佳作數名 2 萬元。品牌形象類：年度品牌行銷金獎 1 名 20 萬元、銀獎最多 3 名 10 萬元、銅獎 1 名 8 萬元、優選 2 名 5 萬元、佳作數名 3 萬元，另有最佳劇情片獎、教育影響力獎、特色商品獎／創新數位廣告獎、高中潛力新星獎各 2 萬元。得獎隊員各獲獎狀，各類前 3 名的指導老師獎每隊 1 萬元，金銀銅團隊可參與企業實習。",
     "basis": "quote",
     "evidence": [
       {
         "url": "https://cdn.bountyhunter.co/file-presign/3a0937d1-20bd-4607-9e8d-d60179f4b6b8.pdf?dl=%E7%AC%AC24%E5%B1%86%E8%82%B2%E7%A7%80%E7%9B%83%E5%89%B5%E6%84%8F%E7%8D%8E%20%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95(%E5%87%BD%E6%96%87_%E5%A4%A7%E5%B0%88%E9%99%A2%E6%A0%A1).pdf",
-        "quote": "競賽獎勵達300 餘萬元，金獎、銀獎、銅獎、優選5~20 萬元；佳作3 萬元；模型補助2萬元；指導老師獎1 萬元等獎項，另有獎盃、獎狀、企業實習機會及參賽證明書。"
+        "quote": "競賽獎勵達300 餘萬元，金獎、銀獎、銅獎、優選5~20 萬元；佳作3 萬元；模型補助2 萬元；指導老師獎1 萬元等獎項，另有獎盃、獎狀、企業實習機會及參賽證明書。"
       },
       {
         "url": "https://cdn.bountyhunter.co/file-presign/3a0937d1-20bd-4607-9e8d-d60179f4b6b8.pdf?dl=%E7%AC%AC24%E5%B1%86%E8%82%B2%E7%A7%80%E7%9B%83%E5%89%B5%E6%84%8F%E7%8D%8E%20%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95(%E5%87%BD%E6%96%87_%E5%A4%A7%E5%B0%88%E9%99%A2%E6%A0%A1).pdf",
-        "quote": "數位應用類(高中職組)\n金 獎\n各1 名，獎學金10 萬元整，獎盃乙座，每位隊員獎狀一只。"
+        "quote": "金 獎 各1 名，獎學金20 萬元整，獎盃乙座，每位隊員獎狀一只。"
+      },
+      {
+        "url": "https://cdn.bountyhunter.co/file-presign/3a0937d1-20bd-4607-9e8d-d60179f4b6b8.pdf?dl=%E7%AC%AC24%E5%B1%86%E8%82%B2%E7%A7%80%E7%9B%83%E5%89%B5%E6%84%8F%E7%8D%8E%20%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95(%E5%87%BD%E6%96%87_%E5%A4%A7%E5%B0%88%E9%99%A2%E6%A0%A1).pdf",
+        "quote": "佳 作 數名，獎學金3 萬元，每位隊員獎狀一只。 數名，獎學金1 萬元，每位隊員獎狀一只。"
+      },
+      {
+        "url": "https://cdn.bountyhunter.co/file-presign/3a0937d1-20bd-4607-9e8d-d60179f4b6b8.pdf?dl=%E7%AC%AC24%E5%B1%86%E8%82%B2%E7%A7%80%E7%9B%83%E5%89%B5%E6%84%8F%E7%8D%8E%20%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95(%E5%87%BD%E6%96%87_%E5%A4%A7%E5%B0%88%E9%99%A2%E6%A0%A1).pdf",
+        "quote": "模型補助 無 上限15 名，每隊可獲得2 萬元整。"
+      },
+      {
+        "url": "https://cdn.bountyhunter.co/file-presign/3a0937d1-20bd-4607-9e8d-d60179f4b6b8.pdf?dl=%E7%AC%AC24%E5%B1%86%E8%82%B2%E7%A7%80%E7%9B%83%E5%89%B5%E6%84%8F%E7%8D%8E%20%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95(%E5%87%BD%E6%96%87_%E5%A4%A7%E5%B0%88%E9%99%A2%E6%A0%A1).pdf",
+        "quote": "金 獎 各1 名，獎學金10 萬元整，獎盃乙座，每位隊員獎狀一只。"
+      },
+      {
+        "url": "https://cdn.bountyhunter.co/file-presign/3a0937d1-20bd-4607-9e8d-d60179f4b6b8.pdf?dl=%E7%AC%AC24%E5%B1%86%E8%82%B2%E7%A7%80%E7%9B%83%E5%89%B5%E6%84%8F%E7%8D%8E%20%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95(%E5%87%BD%E6%96%87_%E5%A4%A7%E5%B0%88%E9%99%A2%E6%A0%A1).pdf",
+        "quote": "年度品牌行銷金獎 1 名，獎學金20 萬元整，獎盃乙座，每位隊員獎狀一只。取得正式共製優先權。"
+      },
+      {
+        "url": "https://cdn.bountyhunter.co/file-presign/3a0937d1-20bd-4607-9e8d-d60179f4b6b8.pdf?dl=%E7%AC%AC24%E5%B1%86%E8%82%B2%E7%A7%80%E7%9B%83%E5%89%B5%E6%84%8F%E7%8D%8E%20%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95(%E5%87%BD%E6%96%87_%E5%A4%A7%E5%B0%88%E9%99%A2%E6%A0%A1).pdf",
+        "quote": "最多3 名，獎學金10 萬元整，獎盃乙座，每位隊員獎狀一只。取得正式共製優先權。"
+      },
+      {
+        "url": "https://cdn.bountyhunter.co/file-presign/3a0937d1-20bd-4607-9e8d-d60179f4b6b8.pdf?dl=%E7%AC%AC24%E5%B1%86%E8%82%B2%E7%A7%80%E7%9B%83%E5%89%B5%E6%84%8F%E7%8D%8E%20%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95(%E5%87%BD%E6%96%87_%E5%A4%A7%E5%B0%88%E9%99%A2%E6%A0%A1).pdf",
+        "quote": "高中潛力新星獎 1 名，獎學金2 萬元，每位隊員獎狀一只。"
+      },
+      {
+        "url": "https://cdn.bountyhunter.co/file-presign/3a0937d1-20bd-4607-9e8d-d60179f4b6b8.pdf?dl=%E7%AC%AC24%E5%B1%86%E8%82%B2%E7%A7%80%E7%9B%83%E5%89%B5%E6%84%8F%E7%8D%8E%20%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95(%E5%87%BD%E6%96%87_%E5%A4%A7%E5%B0%88%E9%99%A2%E6%A0%A1).pdf",
+        "quote": "各類前3 名，金銀銅團隊每隊獎金1 萬元整。"
+      },
+      {
+        "url": "https://cdn.bountyhunter.co/file-presign/3a0937d1-20bd-4607-9e8d-d60179f4b6b8.pdf?dl=%E7%AC%AC24%E5%B1%86%E8%82%B2%E7%A7%80%E7%9B%83%E5%89%B5%E6%84%8F%E7%8D%8E%20%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95(%E5%87%BD%E6%96%87_%E5%A4%A7%E5%B0%88%E9%99%A2%E6%A0%A1).pdf",
+        "quote": "金、銀、銅獲獎團隊可參與聯華神通集團企業提供之實習機會，最長2 個月。(需通過面試)"
       }
     ]
   },
@@ -286,10 +351,10 @@
     ]
   },
   "links": {
-    "official": "https://award.ysed.org.tw/",
+    "official": "https://award.ysed.org.tw/competition",
     "rules": [
       {
-        "title": "第24屆育秀盃創意獎 競賽辦法(函文_大專院校)",
+        "title": "第24屆育秀盃創意獎競賽辦法（函文，PDF）",
         "url": "https://cdn.bountyhunter.co/file-presign/3a0937d1-20bd-4607-9e8d-d60179f4b6b8.pdf?dl=%E7%AC%AC24%E5%B1%86%E8%82%B2%E7%A7%80%E7%9B%83%E5%89%B5%E6%84%8F%E7%8D%8E%20%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95(%E5%87%BD%E6%96%87_%E5%A4%A7%E5%B0%88%E9%99%A2%E6%A0%A1).pdf"
       }
     ],
@@ -297,21 +362,27 @@
   },
   "found_via": [
     {
+      "name": "award.ysed.org.tw",
+      "url": "https://award.ysed.org.tw/competition"
+    },
+    {
       "name": "育秀盃官方網站",
       "url": "https://award.ysed.org.tw/"
     }
   ],
   "verification": {
-    "last_verified": "2026-11-21",
-    "method": "single",
+    "last_verified": "2026-11-24",
+    "method": "dual",
     "unread": [
-      "官網下載專區檔案（企劃書格式、肖象授權同意書、原創聲明暨授權同意書、企業Logo）"
+      "官網各類別競賽辦法分頁",
+      "檔案下載區的肖象授權同意書與原創聲明暨授權同意書"
     ],
     "note": null,
     "readers": [
-      "gemini-4-hydrogen-medium"
+      "claude-opus-5-5",
+      "claude-opus-5-5"
     ]
   },
   "first_seen": "2026-11-20",
-  "updated": "2026-11-20"
+  "updated": "2026-11-24"
 }

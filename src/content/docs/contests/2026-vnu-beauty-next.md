@@ -3,7 +3,7 @@ title: "BEAUTY NEXT 2026 美麗新世代－全國創新美業 × 寵物美容大
 description: "高中職與大專學生參加美業創新或寵物美容競賽，靜態組當日現場擺放作品，動態組現場實作評分。"
 appliesTo: "2026 這一屆"
 caveat: "高中職學生與大專生或社會人士同組評比。"
-lastVerified: 2026-11-21
+lastVerified: 2026-11-24
 kind: "contest"
 deadline: "2026-11-25"
 sources:

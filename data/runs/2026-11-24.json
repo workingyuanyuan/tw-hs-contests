@@ -210,6 +210,1238 @@
    "stop": "end",
    "status": "ok",
    "first_page": 33
+  },
+  "scvs": {
+   "name": "三重商工 學生事務公告",
+   "pages": 9,
+   "seen": 108,
+   "new": 103,
+   "oldest": "2024-03-18",
+   "stop": "old",
+   "status": "ok",
+   "first_page": 12
+  },
+  "ykvs": {
+   "name": "鶯歌工商 最新消息",
+   "pages": 7,
+   "seen": 136,
+   "new": 107,
+   "oldest": "2024-09-30",
+   "stop": "old",
+   "status": "ok",
+   "first_page": 20
+  },
+  "ltivs": {
+   "name": "羅東高工 最新消息",
+   "pages": 1,
+   "seen": 20,
+   "new": 0,
+   "oldest": "2026-06-30",
+   "stop": "seen",
+   "status": "ok",
+   "first_page": 20
+  },
+  "sssh": {
+   "name": "壽山高中 校外競賽",
+   "pages": 3,
+   "seen": 63,
+   "new": 53,
+   "oldest": "2026-04-28",
+   "stop": "old",
+   "status": "ok",
+   "first_page": 23
+  },
+  "k12ea": {
+   "name": "教育部國民及學前教育署 公文公告平台",
+   "pages": 10,
+   "seen": 100,
+   "new": 89,
+   "oldest": "2026-03-16",
+   "stop": "old",
+   "status": "ok",
+   "first_page": 10
+  },
+  "aidea": {
+   "name": "AIdea 人工智慧共創平台 競賽議題",
+   "pages": 1,
+   "seen": 10,
+   "new": 10,
+   "oldest": null,
+   "stop": "end",
+   "status": "ok",
+   "first_page": 10
+  },
+  "wlsh": {
+   "name": "武陵高中 校外競賽",
+   "pages": 4,
+   "seen": 80,
+   "new": 79,
+   "oldest": "2026-05-27",
+   "stop": "old",
+   "status": "ok",
+   "first_page": 20
+  },
+  "cksh": {
+   "name": "成功高中 活動競賽",
+   "pages": 21,
+   "seen": 315,
+   "new": 308,
+   "oldest": "2026-07-02",
+   "stop": "old",
+   "status": "ok",
+   "first_page": 15
+  },
+  "ttsh": {
+   "name": "大同高中 學生競賽活動",
+   "pages": 11,
+   "seen": 225,
+   "new": 217,
+   "oldest": "2026-06-09",
+   "stop": "old",
+   "status": "ok",
+   "first_page": 25
+  },
+  "hshs": {
+   "name": "海山高中 學生競賽活動",
+   "pages": 3,
+   "seen": 29,
+   "new": 22,
+   "oldest": "2026-04-14",
+   "stop": "old",
+   "status": "ok",
+   "first_page": 12
+  },
+  "cygsh": {
+   "name": "嘉義女中 競賽與投稿",
+   "pages": 1,
+   "seen": 76,
+   "new": 76,
+   "oldest": "2025-08-01",
+   "stop": "end",
+   "status": "ok",
+   "first_page": 76
+  },
+  "tcfsh": {
+   "name": "臺中一中 校外活動",
+   "pages": 1,
+   "seen": 20,
+   "new": 0,
+   "oldest": "2026-11-16",
+   "stop": "seen",
+   "status": "ok",
+   "first_page": 20
+  },
+  "hgsh": {
+   "name": "新竹女中 活動研習",
+   "pages": 11,
+   "seen": 214,
+   "new": 208,
+   "oldest": "2026-06-01",
+   "stop": "old",
+   "status": "ok",
+   "first_page": 20
+  },
+  "ccshpt": {
+   "name": "潮州高中 學生課外活動",
+   "pages": 14,
+   "seen": 140,
+   "new": 139,
+   "oldest": "2026-07-06",
+   "stop": "old",
+   "status": "ok",
+   "first_page": 10
+  },
+  "mlaivs": {
+   "name": "苗栗農工 處室公告",
+   "pages": 13,
+   "seen": 1300,
+   "new": 1154,
+   "oldest": "2022-10-05",
+   "stop": "old",
+   "status": "ok",
+   "first_page": 100
+  },
+  "nkhs": {
+   "name": "南港高工 重要資訊",
+   "pages": 8,
+   "seen": 800,
+   "new": 699,
+   "oldest": "2026-07-08",
+   "stop": "old",
+   "status": "ok",
+   "first_page": 100
+  },
+  "kmsh": {
+   "name": "金門高中 最新消息",
+   "pages": 8,
+   "seen": 800,
+   "new": 656,
+   "oldest": "2026-06-24",
+   "stop": "old",
+   "status": "ok",
+   "first_page": 100
+  },
+  "hccvs": {
+   "name": "新竹高商 消息公佈欄",
+   "pages": 7,
+   "seen": 700,
+   "new": 632,
+   "oldest": "2026-06-18",
+   "stop": "old",
+   "status": "ok",
+   "first_page": 100
+  },
+  "pshs": {
+   "name": "暨大附中 學生研習與競賽活動",
+   "pages": 4,
+   "seen": 400,
+   "new": 364,
+   "oldest": "2026-05-29",
+   "stop": "old",
+   "status": "ok",
+   "first_page": 100
+  },
+  "ntsh": {
+   "name": "南投高中 最新消息",
+   "pages": 6,
+   "seen": 600,
+   "new": 467,
+   "oldest": "2026-06-11",
+   "stop": "old",
+   "status": "ok",
+   "first_page": 100
+  },
+  "mlsh": {
+   "name": "苗栗高中 學生校外營隊、活動、比賽",
+   "pages": 6,
+   "seen": 600,
+   "new": 582,
+   "oldest": "2026-06-03",
+   "stop": "old",
+   "status": "ok",
+   "first_page": 100
   }
- }
+ },
+ "recheck": {
+  "confirmed": [
+   "2026-100spotlights-video",
+   "2026-aicup-solar-defect",
+   "2026-changde-veggie-painting",
+   "2026-chiayi-3min-video",
+   "2026-chsmr-disability-week-arts",
+   "2026-cufa-next-idol",
+   "2026-cute-ai-japanese-marketing",
+   "2026-deglobalart-red-envelope",
+   "2026-epilepsy-essay",
+   "2026-fgu-3goodai",
+   "2026-fy-h-inno",
+   "2026-gzg-template-design",
+   "2026-hk-valorant-autumn",
+   "2026-hsinchu-photography-award",
+   "2026-ia-camera",
+   "2026-ideax-star-challenge",
+   "2026-igd-ninth-creation",
+   "2026-indigenous-science-fair",
+   "2026-kouhu-photography",
+   "2026-ksu-smart-maker",
+   "2026-lhu-2050-short-video",
+   "2026-lhu-terroir-cup",
+   "2026-miaoli-lantern",
+   "2026-nantou-pearl-itinerary",
+   "2026-nkust-h2gp-taiwan",
+   "2026-nkust-ship-model",
+   "2026-nkut-elderly-lohas-lifestory",
+   "2026-ocu-agri-marketing",
+   "2026-provoice-podcast",
+   "2026-qiuzhen-cup",
+   "2026-see-think-wonder",
+   "2026-stu-it-innovation",
+   "2026-sym-design",
+   "2026-taipei-literature-award",
+   "2026-taiwan-tour-bus-video",
+   "2026-tasa-asian-try-zero-g",
+   "2026-tccs-little-influencer",
+   "2026-thu-smart-sustainability",
+   "2026-tku-chung-ling-chemistry",
+   "2026-uch-new-retail",
+   "2026-ud-award",
+   "2026-vnu-beauty-next",
+   "2026-wlcef-literature-award",
+   "2027-agongdianxi-literature",
+   "2027-cacet-creation-ai",
+   "2027-coolenglish-presentation",
+   "2027-cyberangel-meme-pics",
+   "2027-cyut-smart-care-essay",
+   "2027-hfu-a4-illustration",
+   "2027-hfu-design",
+   "2027-mcu-crime-fiction",
+   "2027-metamanga-ai-manga",
+   "2027-mingdao-global-chinese-literary-award",
+   "2027-moe-mata-award",
+   "2027-moenv-efdesign",
+   "2027-ncue-homerun-science",
+   "2027-ndhu-qilai-literature",
+   "2027-nownews-crossroad-resilience",
+   "2027-popular-science-ai-poster",
+   "2027-shs-reading-reflection",
+   "2027-topkey-youth-forum",
+   "2027-ydu-tourism-leisure-cup"
+  ],
+  "changed": [
+   "2026-chtiia-creative-entrepreneurship",
+   "2026-justshow-napkin-folding",
+   "2026-nkut-innovative-marketing",
+   "2026-nutn-ai-project",
+   "2026-phyedu-science-measurement",
+   "2026-yda-youth-volunteer",
+   "2026-ys-award",
+   "2026-yuntech-mini4wd",
+   "2027-bahamut-acg-award",
+   "2027-ganjingworld-kindness-tw",
+   "2027-mcu-literary-prose",
+   "2027-ocu-mdm-marketing",
+   "2027-stust-kamishibai",
+   "2027-yt-3mintalk4science"
+  ],
+  "unreachable": [
+   "2026-dajiamazu-original-music",
+   "2026-ibmi-medtech-creative",
+   "2026-indigenous-oral-history-comic",
+   "2026-ntnu-biped-robot",
+   "2026-skm-photo-analog",
+   "2026-taipei-five-senses-video",
+   "2026-tpcu-ba-stock-king",
+   "2027-blia-three-acts-song",
+   "2027-ctsp-photography",
+   "2027-cyut-english-picture-book",
+   "2027-danjiang-bridge-photo-painting",
+   "2027-just-hs-project",
+   "2027-kw-design-award",
+   "2027-shoutian-visual"
+  ]
+ },
+ "rounds": [
+  {
+   "tasks": [
+    {
+     "task": "triage-01",
+     "result": "9 new candidates, 14 joined a candidate, 6 of a record, 121 not contests"
+    },
+    {
+     "task": "triage-02",
+     "result": "13 new candidates, 23 joined a candidate, 12 of a record, 100 not contests"
+    },
+    {
+     "task": "triage-03",
+     "result": "6 new candidates, 14 joined a candidate, 9 of a record, 103 not contests"
+    },
+    {
+     "task": "triage-04",
+     "result": "14 new candidates, 43 joined a candidate, 8 of a record, 82 not contests"
+    },
+    {
+     "task": "triage-05",
+     "result": "8 new candidates, 8 joined a candidate, 30 of a record, 66 not contests"
+    },
+    {
+     "task": "triage-06",
+     "result": "11 new candidates, 2 joined a candidate, 34 of a record, 102 not contests"
+    },
+    {
+     "task": "triage-07",
+     "result": "5 new candidates, 2 joined a candidate, 2 of a record, 140 not contests"
+    },
+    {
+     "task": "triage-08",
+     "result": "8 new candidates, 11 joined a candidate, 70 of a record, 56 not contests"
+    },
+    {
+     "task": "triage-09",
+     "result": "5 new candidates, 13 joined a candidate, 3 of a record, 126 not contests"
+    },
+    {
+     "task": "triage-10",
+     "result": "11 new candidates, 15 joined a candidate, 6 of a record, 118 not contests"
+    },
+    {
+     "task": "triage-11",
+     "result": "4 new candidates, 17 joined a candidate, 24 of a record, 99 not contests"
+    },
+    {
+     "task": "triage-12",
+     "result": "3 new candidates, 0 joined a candidate, 22 of a record, 108 not contests"
+    },
+    {
+     "task": "triage-13",
+     "result": "13 new candidates, 36 joined a candidate, 0 of a record, 101 not contests"
+    },
+    {
+     "task": "triage-14",
+     "result": "6 new candidates, 8 joined a candidate, 39 of a record, 95 not contests"
+    },
+    {
+     "task": "triage-15",
+     "result": "10 new candidates, 33 joined a candidate, 28 of a record, 78 not contests"
+    },
+    {
+     "task": "triage-16",
+     "result": "5 new candidates, 13 joined a candidate, 2 of a record, 124 not contests"
+    },
+    {
+     "task": "triage-17",
+     "result": "1 new candidates, 1 joined a candidate, 2 of a record, 146 not contests"
+    },
+    {
+     "task": "triage-18",
+     "result": "8 new candidates, 10 joined a candidate, 40 of a record, 92 not contests"
+    },
+    {
+     "task": "triage-19",
+     "result": "3 new candidates, 13 joined a candidate, 28 of a record, 104 not contests"
+    },
+    {
+     "task": "triage-20",
+     "result": "3 new candidates, 6 joined a candidate, 29 of a record, 109 not contests"
+    },
+    {
+     "task": "triage-21",
+     "result": "7 new candidates, 11 joined a candidate, 2 of a record, 130 not contests"
+    },
+    {
+     "task": "triage-22",
+     "result": "6 new candidates, 8 joined a candidate, 1 of a record, 128 not contests"
+    },
+    {
+     "task": "triage-23",
+     "result": "4 new candidates, 26 joined a candidate, 0 of a record, 120 not contests"
+    },
+    {
+     "task": "triage-24",
+     "result": "4 new candidates, 2 joined a candidate, 17 of a record, 126 not contests"
+    },
+    {
+     "task": "triage-25",
+     "result": "9 new candidates, 21 joined a candidate, 3 of a record, 116 not contests"
+    },
+    {
+     "task": "triage-26",
+     "result": "16 new candidates, 26 joined a candidate, 0 of a record, 106 not contests"
+    },
+    {
+     "task": "triage-27",
+     "result": "5 new candidates, 15 joined a candidate, 6 of a record, 123 not contests"
+    },
+    {
+     "task": "triage-28",
+     "result": "11 new candidates, 40 joined a candidate, 0 of a record, 97 not contests"
+    },
+    {
+     "task": "triage-29",
+     "result": "9 new candidates, 11 joined a candidate, 41 of a record, 89 not contests"
+    },
+    {
+     "task": "triage-30",
+     "result": "12 new candidates, 29 joined a candidate, 8 of a record, 101 not contests"
+    },
+    {
+     "task": "triage-31",
+     "result": "17 new candidates, 19 joined a candidate, 1 of a record, 113 not contests"
+    },
+    {
+     "task": "triage-32",
+     "result": "10 new candidates, 12 joined a candidate, 1 of a record, 125 not contests"
+    },
+    {
+     "task": "triage-33",
+     "result": "16 new candidates, 39 joined a candidate, 0 of a record, 95 not contests"
+    },
+    {
+     "task": "triage-34",
+     "result": "7 new candidates, 33 joined a candidate, 0 of a record, 106 not contests"
+    },
+    {
+     "task": "triage-35",
+     "result": "9 new candidates, 24 joined a candidate, 0 of a record, 114 not contests"
+    },
+    {
+     "task": "triage-36",
+     "result": "26 new candidates, 39 joined a candidate, 3 of a record, 81 not contests"
+    },
+    {
+     "task": "triage-37",
+     "result": "16 new candidates, 25 joined a candidate, 0 of a record, 108 not contests"
+    },
+    {
+     "task": "triage-38",
+     "result": "9 new candidates, 22 joined a candidate, 20 of a record, 95 not contests"
+    },
+    {
+     "task": "triage-39",
+     "result": "19 new candidates, 23 joined a candidate, 0 of a record, 101 not contests"
+    },
+    {
+     "task": "triage-40",
+     "result": "12 new candidates, 14 joined a candidate, 2 of a record, 121 not contests"
+    },
+    {
+     "task": "triage-41",
+     "result": "16 new candidates, 25 joined a candidate, 8 of a record, 99 not contests"
+    },
+    {
+     "task": "triage-42",
+     "result": "13 new candidates, 25 joined a candidate, 0 of a record, 109 not contests"
+    },
+    {
+     "task": "triage-43",
+     "result": "13 new candidates, 25 joined a candidate, 0 of a record, 110 not contests"
+    },
+    {
+     "task": "triage-44",
+     "result": "12 new candidates, 16 joined a candidate, 2 of a record, 120 not contests"
+    },
+    {
+     "task": "triage-45",
+     "result": "12 new candidates, 6 joined a candidate, 3 of a record, 126 not contests"
+    },
+    {
+     "task": "triage-46",
+     "result": "12 new candidates, 35 joined a candidate, 0 of a record, 103 not contests"
+    },
+    {
+     "task": "triage-47",
+     "result": "5 new candidates, 9 joined a candidate, 0 of a record, 136 not contests"
+    },
+    {
+     "task": "triage-48",
+     "result": "11 new candidates, 10 joined a candidate, 1 of a record, 128 not contests"
+    },
+    {
+     "task": "triage-49",
+     "result": "10 new candidates, 19 joined a candidate, 1 of a record, 120 not contests"
+    },
+    {
+     "task": "triage-50",
+     "result": "7 new candidates, 14 joined a candidate, 0 of a record, 128 not contests"
+    },
+    {
+     "task": "triage-51",
+     "result": "14 new candidates, 10 joined a candidate, 0 of a record, 126 not contests"
+    },
+    {
+     "task": "triage-52",
+     "result": "18 new candidates, 10 joined a candidate, 1 of a record, 121 not contests"
+    },
+    {
+     "task": "triage-53",
+     "result": "52 new candidates, 8 joined a candidate, 3 of a record, 87 not contests"
+    },
+    {
+     "task": "triage-54",
+     "result": "82 new candidates, 3 joined a candidate, 6 of a record, 59 not contests"
+    },
+    {
+     "task": "triage-55",
+     "result": "8 new candidates, 0 joined a candidate, 0 of a record, 11 not contests"
+    },
+    {
+     "task": "c0075-1",
+     "result": "done: 2026-yuntech-mini4wd (checked)"
+    },
+    {
+     "task": "c0080-1",
+     "result": "done: 2026-justshow-napkin-folding (checked)"
+    },
+    {
+     "task": "c0091-1",
+     "result": "done: 2026-phyedu-science-measurement (checked)"
+    },
+    {
+     "task": "c0013-1",
+     "result": "done: 2026-nutn-ai-project (checked)"
+    },
+    {
+     "task": "c0014-1",
+     "result": "done: 2026-nkut-innovative-marketing (checked)"
+    },
+    {
+     "task": "c0039-1",
+     "result": "done: 2026-yda-youth-volunteer-2 (checked)"
+    },
+    {
+     "task": "c0042-1",
+     "result": "done: 2026-chtiia-creative-entrepreneurship (checked)"
+    },
+    {
+     "task": "c0053-1",
+     "result": "done: 2027-mcu-literary-prose (checked)"
+    },
+    {
+     "task": "c0055-1",
+     "result": "done: 2027-yt-3mintalk4science (checked)"
+    },
+    {
+     "task": "c0018-1",
+     "result": "done: 2026-ys-award (checked)"
+    },
+    {
+     "task": "c0008-1",
+     "result": "done: 2027-ocu-mdm-marketing-2 (checked)"
+    },
+    {
+     "task": "c0078-1",
+     "result": "done: 2027-stust-japanese-kamishibai (checked)"
+    },
+    {
+     "task": "c0066-1",
+     "result": "done: 2027-ganjingworld-kindness-tw (checked)"
+    },
+    {
+     "task": "c0070-1",
+     "result": "done: 2027-bahamut-acg-award (checked)"
+    },
+    {
+     "task": "c0002-1",
+     "result": "done: 2026-ntpc-tree-planting-film (checked)"
+    },
+    {
+     "task": "c0077-1",
+     "result": "done: 2026-hsinyi-children-literature-award (checked)"
+    },
+    {
+     "task": "c0081-2",
+     "result": "asks for 1 more documents"
+    },
+    {
+     "task": "c0034-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0094-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0035-2",
+     "result": "asks for 5 more documents"
+    },
+    {
+     "task": "c0036-2",
+     "result": "asks for 3 more documents"
+    },
+    {
+     "task": "c0037-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0040-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0041-2",
+     "result": "second reading: disputed"
+    },
+    {
+     "task": "c0038-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0043-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0005-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0047-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0046-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0044-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0045-2",
+     "result": "asks for 4 more documents"
+    },
+    {
+     "task": "c0084-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0006-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0048-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0017-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0050-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0052-2",
+     "result": "asks for 1 more documents"
+    },
+    {
+     "task": "c0095-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0051-2",
+     "result": "asks for 2 more documents"
+    },
+    {
+     "task": "c0054-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0056-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0072-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0096-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0057-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0058-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0060-2",
+     "result": "second reading: dual"
+    }
+   ],
+   "set_aside": []
+  },
+  {
+   "tasks": [
+    {
+     "task": "c0219-1",
+     "result": "done: 2026-smartreading-science-reading (checked)"
+    },
+    {
+     "task": "c0236-1",
+     "result": "asks for 3 more documents"
+    },
+    {
+     "task": "c0280-1",
+     "result": "done: 2026-ctust-paochung-spicy-cuisine (checked)"
+    },
+    {
+     "task": "c0664-1",
+     "result": "done: 2026-aicup-go-rank-prediction (checked)"
+    },
+    {
+     "task": "c0665-1",
+     "result": "done: 2026-aicup-go-player-identification (checked)"
+    },
+    {
+     "task": "c0099-1",
+     "result": "done: 2026-national-skills-north (checked)"
+    },
+    {
+     "task": "c0239-1",
+     "result": "asks for 6 more documents"
+    },
+    {
+     "task": "c0326-1",
+     "result": "done: 2027-cyut-ae-short-film (checked)"
+    },
+    {
+     "task": "c0146-1",
+     "result": "done: 2027-csu-wooden-bridge (checked)"
+    },
+    {
+     "task": "c0662-1",
+     "result": "skipped: AIdea 平台「練習場」的長期練習議題，無時間限制，文件未載任何名次、獎金或獎狀，不屬於有評選與獎項的競賽。"
+    },
+    {
+     "task": "c0663-1",
+     "result": "skipped: 這是 AIdea 平台「練習場」的長期練習議題（此議題為長期議題，無時間限制），文件只有排行榜，未載任何名次獎項、獎金或獎狀，不是本目錄收錄的競賽。"
+    },
+    {
+     "task": "c0666-1",
+     "result": "skipped: 此為 AIdea 平台「練習場」的長期練習議題（「此議題為長期議題，無時間限制。」），僅有排行榜，文件未載任何獎項、名次獎勵或獎狀，也未說明高中職學生可參加，非"
+    },
+    {
+     "task": "c0667-1",
+     "result": "skipped: 「動態足壓影像辨識」是 AIdea 平台「練習場」的長期議題，頁面寫明「此議題為長期議題，無時間限制」，未載任何獎項、獎金或獎狀，也未載參賽資格，不是有評選與獎"
+    },
+    {
+     "task": "c0668-1",
+     "result": "skipped: 此為 AIdea 平台「練習場」的長期練習議題，「此議題為長期議題，無時間限制」，文件只有系統依 RMSE 計分的排行榜，未設名次獎項、獎金或獎狀，不屬於本目錄"
+    },
+    {
+     "task": "c0097-1",
+     "result": "done: 2027-real-beat-dance (checked)"
+    },
+    {
+     "task": "c0098-1",
+     "result": "done: 2026-pesroc-science-measurement (checked)"
+    },
+    {
+     "task": "c0100-1",
+     "result": "done: 2026-national-skills-south-57 (unverified), to be searched"
+    },
+    {
+     "task": "c0101-1",
+     "result": "done: 2027-just-hs-project (checked)"
+    },
+    {
+     "task": "c0102-1",
+     "result": "done: 2026-nptu-hs-project (checked)"
+    },
+    {
+     "task": "c0103-1",
+     "result": "done: 2026-national-student-creative-drama (checked)"
+    },
+    {
+     "task": "c0104-1",
+     "result": "done: 2026-national-student-dance (checked)"
+    },
+    {
+     "task": "c0105-1",
+     "result": "asks for 1 more documents"
+    },
+    {
+     "task": "c0106-1",
+     "result": "done: 2026-sju-icec (checked)"
+    },
+    {
+     "task": "c0107-1",
+     "result": "asks for 3 more documents"
+    },
+    {
+     "task": "c0108-1",
+     "result": "done: 2026-ocu-stock-plus-trading (checked)"
+    },
+    {
+     "task": "c0109-1",
+     "result": "done: 2026-uch-hs-investment (checked)"
+    },
+    {
+     "task": "c0110-1",
+     "result": "skipped: 「武營大圖鑑」是衛武營國家藝術文化中心與 PaGamO 線上遊戲平台合作的藝術學習任務，各校轉知的公文只說明遊戲任務期程與學習網路徑，未描述作品評審，也未提及名"
+    },
+    {
+     "task": "c0111-1",
+     "result": "skipped: 這些文件是科教館對第67屆中華民國中小學科學展覽會新制的宣導（作品提報表、人類研究倫理審查、大專校院指導證明書、作品說明板規格），沒有競賽的參加資格、報名或繳件"
+    },
+    {
+     "task": "c0112-1",
+     "result": "skipped: 這是國立臺灣藝術教育館的展演補助徵選：已在全國學生藝術比賽等獲優等以上的學生藝團申請補助，到各地、離島或國外展演交流，獲選者領取補助款，不評名次、不頒獎項或獎狀"
+    },
+    {
+     "task": "c0113-1",
+     "result": "done: 2026-moe-digital-gender-violence-video (checked)"
+    },
+    {
+     "task": "c0013-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0014-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0081-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0077-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0035-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0036-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0039-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0752-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0042-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0002-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0018-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0045-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0078-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0753-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0052-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0051-2",
+     "result": "second reading: single"
+    },
+    {
+     "task": "c0053-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0055-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0082-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0061-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0062-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0008-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0754-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0063-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0064-2",
+     "result": "asks for 6 more documents"
+    },
+    {
+     "task": "c0065-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0067-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0066-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0069-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0070-2",
+     "result": "second reading: dual"
+    }
+   ],
+   "set_aside": []
+  },
+  {
+   "tasks": [
+    {
+     "task": "c0236-1",
+     "result": "done: 2026-hwu-high-school-band (unverified), to be searched"
+    },
+    {
+     "task": "c0239-1",
+     "result": "done: 2027-cycu-cash-flow (checked)"
+    },
+    {
+     "task": "c0105-1",
+     "result": "skipped: 所給文件僅為苗栗縣政府轉知「115學年度全國學生音樂比賽」新增上低音號指定曲草案預告及意見徵詢的公文，未載參賽資格、報名方式、評審與獎項等比賽簡章內容，無法依文"
+    },
+    {
+     "task": "c0107-1",
+     "result": "done: 2026-national-skills-competition-57 (checked)"
+    },
+    {
+     "task": "c0114-1",
+     "result": "skipped: 兩則名為「臺北市政府教育局」的轉知公告分別是「115學年度臺北市高中生 AI 與智慧機器人超未來實戰營」與「臺北市無人機教育中心116年度寒假營隊」，皆為營隊，"
+    },
+    {
+     "task": "c0115-1",
+     "result": "skipped: 公告「【轉知】-臺北市政府教育局」為臺北市無人機教育中心「116年度無人機寒假營隊」，屬付費報名之營隊課程，無評審、名次或獎項；同名另一則公告為「臺北市高中生 "
+    },
+    {
+     "task": "c0116-1",
+     "result": "skipped: 臺北市酷課OnO線上財務智商課程測驗活動，完成答題即可參加抽獎，獲獎者以抽獎產生而非評審作品，不屬競賽。"
+    },
+    {
+     "task": "c0117-1",
+     "result": "asks for 1 more documents"
+    },
+    {
+     "task": "c0118-1",
+     "result": "asks for 2 more documents"
+    },
+    {
+     "task": "c0119-1",
+     "result": "asks for 3 more documents"
+    },
+    {
+     "task": "c0120-1",
+     "result": "skipped: 「2027教育創新100」報名對象為公私立幼兒園至大學之學校單位、教師個人、實驗學習團體、公部門、企業、NPO及其他教育工作者，徵選教育專案，高中職學生不能以學"
+    },
+    {
+     "task": "c0121-1",
+     "result": "skipped: 中壢高商115學年度人權教育系列活動為影集賞析、紀錄片放映暨座談及讀劇演出，供師生報名參加，沒有作品評審，也不頒發名次、獎項或獎狀，不是競賽。"
+    },
+    {
+     "task": "c0122-1",
+     "result": "done: 2026-taipei-cinunan-language-hunter (checked)"
+    },
+    {
+     "task": "c0123-1",
+     "result": "done: 2026-fy-health-beauty-tech (checked)"
+    },
+    {
+     "task": "c0124-1",
+     "result": "skipped: 國立臺灣藝術教育館「116年好優Show學生藝團活動」是供學校申請的展演補助徵選（每案補助上限10萬元、離島12萬元、國外競賽交流30萬元，經「藝拍即合」網站【"
+    },
+    {
+     "task": "c0125-1",
+     "result": "asks for 3 more documents"
+    },
+    {
+     "task": "c0126-1",
+     "result": "not run"
+    },
+    {
+     "task": "c0127-1",
+     "result": "done: 2026-presidential-education-award (checked)"
+    },
+    {
+     "task": "c0128-1",
+     "result": "done: 2026-taipei-drone (checked)"
+    },
+    {
+     "task": "c0129-1",
+     "result": "done: 2026-icdl-infosec (checked)"
+    },
+    {
+     "task": "c0130-1",
+     "result": "done: 2026-ntpc-lions-english-speech (unverified), to be searched"
+    },
+    {
+     "task": "c0131-1",
+     "result": "asks for 6 more documents"
+    },
+    {
+     "task": "c0132-1",
+     "result": "asks for 2 more documents"
+    },
+    {
+     "task": "c0133-1",
+     "result": "done: 2026-tainan-native-new-immigrant-songs (checked)"
+    },
+    {
+     "task": "c0134-1",
+     "result": "done: 2026-taipei-native-language-folk-song (checked)"
+    },
+    {
+     "task": "c0135-1",
+     "result": "done: 2026-tycg-native-language-songs (checked)"
+    },
+    {
+     "task": "c0136-1",
+     "result": "asks for 3 more documents"
+    },
+    {
+     "task": "c0137-1",
+     "result": "done: 2026-national-student-art (checked)"
+    },
+    {
+     "task": "c0138-1",
+     "result": "not run"
+    },
+    {
+     "task": "c0139-1",
+     "result": "done: 2026-moe-green-chemistry (checked)"
+    },
+    {
+     "task": "c0219-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0106-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0280-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0099-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0101-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0326-2",
+     "result": "second reading: single"
+    },
+    {
+     "task": "c0097-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0146-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0064-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0071-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0103-2",
+     "result": "second reading: single"
+    },
+    {
+     "task": "c0104-2",
+     "result": "second reading: single"
+    },
+    {
+     "task": "c0079-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0049-2",
+     "result": "asks for 3 more documents"
+    },
+    {
+     "task": "c0100-s",
+     "result": "3 kept, 0 dropped"
+    }
+   ],
+   "set_aside": []
+  },
+  {
+   "tasks": [],
+   "merged": [
+    "2027-ocu-mdm-marketing-2 merged into 2027-ocu-mdm-marketing (content of 2027-ocu-mdm-marketing-2)",
+    "2026-yda-youth-volunteer-2 merged into 2026-yda-youth-volunteer (content of 2026-yda-youth-volunteer-2)",
+    "2027-stust-japanese-kamishibai merged into 2027-stust-kamishibai (content of 2027-stust-japanese-kamishibai)",
+    "2026-pesroc-science-measurement merged into 2026-phyedu-science-measurement"
+   ],
+   "set_aside": []
+  },
+  {
+   "tasks": [
+    {
+     "task": "c0014-1",
+     "result": "done: 2026-nkut-innovative-marketing (checked)"
+    },
+    {
+     "task": "c0326-1",
+     "result": "asks for 1 more documents"
+    },
+    {
+     "task": "c0100-1",
+     "result": "done: 2026-national-skills-south-57 (checked)"
+    },
+    {
+     "task": "c0104-1",
+     "result": "asks for 2 more documents"
+    },
+    {
+     "task": "c0106-1",
+     "result": "asks for 2 more documents"
+    }
+   ],
+   "merged": [],
+   "set_aside": []
+  },
+  {
+   "tasks": [
+    {
+     "task": "c0326-1",
+     "result": "done: 2027-cyut-ae-short-film (checked)"
+    },
+    {
+     "task": "c0104-1",
+     "result": "done: 2026-national-student-dance (checked)"
+    },
+    {
+     "task": "c0106-1",
+     "result": "done: 2026-sju-icec (checked)"
+    }
+   ],
+   "merged": [],
+   "set_aside": []
+  },
+  {
+   "tasks": [
+    {
+     "task": "c0104-1",
+     "result": "asks for 2 more documents"
+    }
+   ],
+   "merged": [],
+   "set_aside": []
+  },
+  {
+   "tasks": [
+    {
+     "task": "c0104-1",
+     "result": "done: 2026-national-student-dance (checked)"
+    }
+   ],
+   "merged": [],
+   "set_aside": []
+  }
+ ],
+ "queue": {
+  "done": 127,
+  "skipped": 17,
+  "new": 607,
+  "search": 2,
+  "expired": 1
+ },
+ "announcements_waiting": 0,
+ "records": 124
 }

@@ -3,7 +3,7 @@ title: "H-Inno 2026 全國健康關懷、智慧創新專題競賽"
 description: "大專及高中職學生組隊繳交健康關懷與智慧創新專題書面資料，入圍決賽者至輔英科大進行海報展示與口頭報告。"
 appliesTo: "2026 這一屆"
 caveat: "日期與時間都是臺灣時間。"
-lastVerified: 2026-11-21
+lastVerified: 2026-11-24
 kind: "contest"
 deadline: "2026-11-26"
 sources:

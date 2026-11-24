@@ -234,19 +234,20 @@
     }
   ],
   "verification": {
-    "last_verified": "2026-11-21",
-    "method": "single",
+    "last_verified": "2026-11-24",
+    "method": "dual",
     "unread": [
       "2026-2027 環境關懷友善設計競賽 參賽簡章 (PDF)"
     ],
     "note": null,
     "readers": [
-      "gemini-4-hydrogen-medium"
+      "gemini-4-hydrogen-medium",
+      "claude-opus-5-5"
     ]
   },
   "first_seen": "2026-11-20",
   "updated": "2026-11-20",
-  "level": "checked",
+  "level": "verified",
   "url": "https://yuanaruru.com/tw-hs-contests/contests/2027-moenv-efdesign/",
   "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2027-moenv-efdesign.md"
 }

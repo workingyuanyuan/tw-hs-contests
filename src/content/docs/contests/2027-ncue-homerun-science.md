@@ -3,7 +3,7 @@ title: "2027 仰望盃全國科學HomeRun 實作大賽"
 description: "國中及高中職 1 至 4 人組隊利用開發板製作科學作品，經初賽構想書與複賽影片評選後赴彰化師大決賽簡報。"
 appliesTo: "2027 這一屆"
 caveat: "日期與時間都是臺灣時間。"
-lastVerified: 2026-11-21
+lastVerified: 2026-11-24
 kind: "contest"
 deadline: "2027-01-04"
 sources:

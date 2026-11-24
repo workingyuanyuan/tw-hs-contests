@@ -3,7 +3,7 @@
   "id": "2027-yt-3mintalk4science",
   "title": "2027 遠哲盃三分鐘英語科學創新挑戰賽",
   "edition": "2027",
-  "summary": "國中、高中職及五專 1 至 3 年級 1 至 3 人就科學探究繳交英文摘要、3 頁簡報與短片，入選者到臺大英語短講與海報展。",
+  "summary": "國中與高中職學生個人或 2 至 3 人組隊，繳交英文摘要、簡報與影片，決賽以 3 分鐘英語短講發表科學研究。",
   "organizers": [
     {
       "name": "財團法人遠哲科學教育基金會",
@@ -27,8 +27,8 @@
     }
   ],
   "categories": [
-    "自然科學",
-    "外語"
+    "外語",
+    "自然科學"
   ],
   "eligibility": {
     "levels": [
@@ -61,67 +61,15 @@
       },
       {
         "url": "https://www.ytlee.org.tw/activity/2681",
-        "quote": "每組可選填指導教師2名。"
+        "quote": "每組可選填指導教師2名。指導教師資格限擁有學校教師資格或實習教師。每位指導教師至多可以指導5隊。"
+      },
+      {
+        "url": "https://www.ytlee.org.tw/activity/2681/statement",
+        "quote": "本人為本團隊報名代表人，確認已取得全體參賽成員之同意，並經授權代表團隊辦理本次競賽報名及相關事項。"
       }
     ]
   },
   "dates": [
-    {
-      "kind": "other",
-      "label": "東區競賽說明會與增能工作坊",
-      "date": "2026-09-03",
-      "time": "17:00",
-      "original": "2026年9月3日(四)13:00-17:00",
-      "basis": "quote",
-      "evidence": [
-        {
-          "url": "https://www.ytlee.org.tw/activity/2681",
-          "quote": "東區 花蓮高中 2026年9月3日(四)13:00-17:00"
-        }
-      ]
-    },
-    {
-      "kind": "other",
-      "label": "中區競賽說明會與增能工作坊",
-      "date": "2026-09-18",
-      "time": "17:00",
-      "original": "2026年9月18日(四)13:00-17:00",
-      "basis": "quote",
-      "evidence": [
-        {
-          "url": "https://www.ytlee.org.tw/activity/2681",
-          "quote": "中區 忠明高中 2026年9月18日(四)13:00-17:00"
-        }
-      ]
-    },
-    {
-      "kind": "other",
-      "label": "北區競賽說明會與增能工作坊",
-      "date": "2026-09-22",
-      "time": "17:00",
-      "original": "2026年9月22日(二)13:00-17:00",
-      "basis": "quote",
-      "evidence": [
-        {
-          "url": "https://www.ytlee.org.tw/activity/2681",
-          "quote": "北區 中山女中 2026年9月22日(二)13:00-17:00"
-        }
-      ]
-    },
-    {
-      "kind": "other",
-      "label": "南區競賽說明會與增能工作坊",
-      "date": "2026-09-24",
-      "time": "12:30",
-      "original": "2026年9月24日(四)8:30-12:30",
-      "basis": "quote",
-      "evidence": [
-        {
-          "url": "https://www.ytlee.org.tw/activity/2681",
-          "quote": "南區 高雄中學 2026年9月24日(四)8:30-12:30"
-        }
-      ]
-    },
     {
       "kind": "registration_deadline",
       "label": "報名暨初賽徵件截止",
@@ -138,7 +86,7 @@
     },
     {
       "kind": "shortlist_announcement",
-      "label": "初賽結果通知（決賽隊伍公告）",
+      "label": "初賽結果通知暨決賽隊伍公告",
       "date": "2027-02-25",
       "time": null,
       "original": "2027年2月25日",
@@ -146,35 +94,35 @@
       "evidence": [
         {
           "url": "https://www.ytlee.org.tw/activity/2681",
-          "quote": "初賽結果通知 : 2027年2月25日"
+          "quote": "決賽隊伍公告日：2027年2月25日。"
         }
       ]
     },
     {
       "kind": "submission_deadline",
-      "label": "決賽第一階段資料繳交截止",
+      "label": "決賽第一階段資料繳交",
       "date": "2027-03-05",
       "time": null,
-      "original": "3/5前",
+      "original": "2027 年3 月5 日前",
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://www.ytlee.org.tw/activity/2681",
-          "quote": "3/5前繳交決賽第一階段資料"
+          "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/42/pta_227701_1999153_70725.pdf",
+          "quote": "決賽第一階段資料繳交：2027 年3 月5 日前"
         }
       ]
     },
     {
       "kind": "other",
-      "label": "決賽競賽輔導",
-      "date": "2027-04-10",
+      "label": "非表列偏遠學校或低收入戶學生申請決賽補助來信截止",
+      "date": "2027-03-30",
       "time": null,
-      "original": "2027年3月 決賽競賽輔導3/10-4/10期間擇日",
+      "original": "2027/3/30 前",
       "basis": "quote",
       "evidence": [
         {
           "url": "https://www.ytlee.org.tw/activity/2681",
-          "quote": "2027年3月 決賽競賽輔導3/10-4/10期間擇日 (詳細辦法會額外發送連結)"
+          "quote": "若學校雖非列表上偏遠學校但確實需要協助，或參賽者低收入或中低收入戶學生，請指導老師於 2027/3/30 前來信說明申請"
         }
       ]
     },
@@ -188,7 +136,11 @@
       "evidence": [
         {
           "url": "https://www.ytlee.org.tw/activity/2681",
-          "quote": "3. 決賽、海報展暨頒獎典禮：2027年4月24日(六) 台北總決賽"
+          "quote": "決賽、海報展暨頒獎典禮：2027年4月24日(六) 台北總決賽"
+        },
+        {
+          "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/42/pta_227701_1999153_70725.pdf",
+          "quote": "決賽、海報展暨頒獎典禮：2027 年4 月24 日（六），臺灣大學天文數學館國際會議廳"
         }
       ]
     }
@@ -196,17 +148,17 @@
   "deliverables": [
     {
       "stage": "初賽",
-      "what": "1 頁英文研究摘要（A4）、3 頁 PPT 簡報（中英文皆可）、英文介紹研究主題影片 1 支（30 秒至 1 分鐘，上傳 Google 雲端硬碟）及參賽聲明與著作授權同意書",
+      "what": "1 頁 A4 英文研究摘要、3 頁 PPT 簡報、30 秒至 1 分鐘英文介紹研究主題影片，連同參賽聲明與著作授權同意書上傳",
       "how": "online"
     },
     {
-      "stage": "決賽第一階段",
-      "what": "決賽第一階段資料及海報一份",
+      "stage": "決賽",
+      "what": "海報一份",
       "how": "unknown"
     },
     {
       "stage": "決賽",
-      "what": "3 分鐘英語短講與 2 分鐘英文問答（團體組每位隊員皆須發表）及海報展",
+      "what": "3 分鐘英語短講與 2 分鐘英文問答，團體組每位隊員皆須發表",
       "how": "onsite"
     }
   ],
@@ -221,7 +173,7 @@
       },
       {
         "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/42/pta_227701_1999153_70725.pdf",
-        "quote": "2027 年4 月24 日（六）／臺灣大學天文數學館國際會議廳"
+        "quote": "決賽、海報展暨頒獎典禮：2027 年4 月24 日（六），臺灣大學天文數學館國際會議廳"
       }
     ]
   },
@@ -232,12 +184,12 @@
     "evidence": [
       {
         "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/42/pta_227700_2364948_70725.pdf",
-        "quote": "八、本活動由教育部指導，免費報名，敬請校內廣為宣傳，共同推廣科學普及教育。"
+        "quote": "免費報名，敬請校內廣為宣傳"
       }
     ]
   },
   "prizes": {
-    "text": "高中職／國中組各頒金獎（團體 24,000 元、個人 15,000 元，指導老師 5,000 元）、銀獎（團體 18,000 元、個人 12,000 元，指導老師 3,000 元）、銅獎（團體 12,000 元、個人 8,000 元，指導老師 2,000 元）各 1 隊並附獎牌、證書；另設創意獎、永續獎、最佳海報獎與獎金，決賽未得獎隊伍每人佳作獎狀，初賽前 25% 每人入選獎狀。",
+    "text": "高中職組、國中組各頒金、銀、銅獎各 1 隊：金獎團體 24,000 元、個人 15,000 元，銀獎團體 18,000 元、個人 12,000 元，銅獎團體 12,000 元、個人 8,000 元，皆附獎牌、證書，指導老師另有獎金；另設創意獎、永續獎、最佳海報獎；決賽未得獎隊伍每人佳作獎狀，初賽名次前 25% 每人入選獎狀。",
     "basis": "quote",
     "evidence": [
       {
@@ -250,7 +202,31 @@
       },
       {
         "url": "https://www.ytlee.org.tw/activity/2681",
-        "quote": "所有參加決賽未得獎隊伍，每人佳作獎狀乙份。 所有參加初賽名次前25%，每人入選獎狀乙份。"
+        "quote": "銀獎│獎金18,000元（團體）、12,000元（個人）；獎牌、證書。隊伍指導老師│獎金3,000元。"
+      },
+      {
+        "url": "https://www.ytlee.org.tw/activity/2681",
+        "quote": "銅獎│獎金12,000元（團體）、8,000元（個人）；獎牌、證書。隊伍指導老師│獎金2,000元。"
+      },
+      {
+        "url": "https://www.ytlee.org.tw/activity/2681",
+        "quote": "創意獎│獎金9000元（團體）、6000元（個人）隊伍指導老師│獎金2,000元。"
+      },
+      {
+        "url": "https://www.ytlee.org.tw/activity/2681",
+        "quote": "永續獎│獎金6000元（團體）、2000元（個人）隊伍指導老師│獎金1,000元。"
+      },
+      {
+        "url": "https://www.ytlee.org.tw/activity/2681",
+        "quote": "最佳海報獎 (高中職/國中組，團體／個人組各1隊)，獎金3,000元。"
+      },
+      {
+        "url": "https://www.ytlee.org.tw/activity/2681",
+        "quote": "所有參加決賽未得獎隊伍，每人佳作獎狀乙份。"
+      },
+      {
+        "url": "https://www.ytlee.org.tw/activity/2681",
+        "quote": "所有參加初賽名次前25%，每人入選獎狀乙份。"
       }
     ]
   },
@@ -265,6 +241,10 @@
       {
         "url": "https://www.ytlee.org.tw/activity/2681",
         "quote": "若參賽作品在準備過程或內容撰寫中曾使用 AI 工具，應於作品報告或說明文件中適度揭露其使用方式與範圍，以維持公開透明。"
+      },
+      {
+        "url": "https://www.ytlee.org.tw/activity/2681/statement",
+        "quote": "如AI虛構研究數據、代替參賽者完成整份研究、代替參賽者回答競賽問題，或冒充參賽者已完成實際研究等，均屬禁止行為。"
       }
     ]
   },
@@ -272,21 +252,17 @@
     "official": "https://www.ytlee.org.tw/activity/2681",
     "rules": [
       {
-        "title": "遠哲科學教育基金會活動頁面",
-        "url": "https://www.ytlee.org.tw/activity/2681"
-      },
-      {
-        "title": "報名簡章 PDF",
+        "title": "2027 遠哲盃三分鐘英語科學創新挑戰賽報名簡章",
         "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/42/pta_227701_1999153_70725.pdf"
-      },
-      {
-        "title": "遠哲科學教育基金會公文 PDF",
-        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/42/pta_227700_2364948_70725.pdf"
       }
     ],
     "registration": "https://www.ytlee.org.tw/activity/2681/statement"
   },
   "found_via": [
+    {
+      "name": "www.chsh.chc.edu.tw",
+      "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/42/pta_227700_2364948_70725.pdf"
+    },
     {
       "name": "遠哲基金會活動專頁",
       "url": "https://www.ytlee.org.tw/activity/2681"
@@ -301,22 +277,22 @@
     }
   ],
   "verification": {
-    "last_verified": "2026-11-21",
-    "method": "single",
+    "last_verified": "2026-11-24",
+    "method": "dual",
     "unread": [
       "參賽聲明與著作授權同意書(含附件).docx",
-      "2026年度決賽手冊.pdf",
       "競賽海報.jpg"
     ],
     "note": null,
     "readers": [
-      "gemini-4-hydrogen-medium"
+      "claude-opus-5-5",
+      "claude-opus-5-5"
     ]
   },
   "first_seen": "2026-11-20",
-  "updated": "2026-11-20",
-  "conflict": "官網活動頁面（ytlee.org.tw/activity/2681）與報名簡章 PDF 在初賽結果通知日（2 月 25 日與 2 月 20 日）、報名截止時間（簡章日程段寫 23:00，官網與簡章總覽寫上午 11:00）及東區說明會日期（9 月 3 日與 9 月 10 日）有所不同；簡章備註「以官網公告為準」。",
-  "level": "checked",
+  "updated": "2026-11-24",
+  "conflict": "報名暨初賽徵件截止時間，活動頁面與報名簡章的活動總覽寫 2027 年 1 月 31 日上午 11:00，報名簡章的活動日程寫 23:00；初賽結果通知與決賽隊伍公告日，活動頁面寫 2027 年 2 月 25 日，報名簡章寫 2 月 20 日。",
+  "level": "verified",
   "url": "https://yuanaruru.com/tw-hs-contests/contests/2027-yt-3mintalk4science/",
   "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2027-yt-3mintalk4science.md"
 }

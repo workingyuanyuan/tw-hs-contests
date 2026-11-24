@@ -3,7 +3,7 @@ title: "115學年度全國高級中等學校閱讀心得寫作比賽"
 description: "高中職在學學生閱讀課外書籍後單人撰寫心得，經學校控管後於中學生網站線上投稿。"
 appliesTo: "115 學年度第二學期 這一屆"
 caveat: "須由學校推薦或薦送，學生不能自行報名。"
-lastVerified: 2026-11-21
+lastVerified: 2026-11-24
 kind: "contest"
 deadline: "2027-03-10"
 sources:

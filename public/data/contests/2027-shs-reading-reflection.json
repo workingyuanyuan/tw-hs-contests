@@ -157,8 +157,8 @@
     }
   ],
   "verification": {
-    "last_verified": "2026-11-21",
-    "method": "single",
+    "last_verified": "2026-11-24",
+    "method": "dual",
     "unread": [
       "115學年度全國高級中等學校閱讀心得寫作比賽實施計畫.pdf",
       "附件 1（圖書選擇與參賽作品之注意事項）",
@@ -169,12 +169,13 @@
     ],
     "note": null,
     "readers": [
-      "gemini-4-hydrogen-medium"
+      "gemini-4-hydrogen-medium",
+      "claude-opus-5-5"
     ]
   },
   "first_seen": "2026-11-20",
   "updated": "2026-11-20",
-  "level": "checked",
+  "level": "verified",
   "url": "https://yuanaruru.com/tw-hs-contests/contests/2027-shs-reading-reflection/",
   "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2027-shs-reading-reflection.md"
 }

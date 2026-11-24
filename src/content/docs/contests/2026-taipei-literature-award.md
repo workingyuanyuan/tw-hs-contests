@@ -3,7 +3,7 @@ title: "第29屆臺北文學獎"
 description: "不限資格以中文創作小說、散文、新詩、古典詩、劇本或文學年金計畫，將報名表與作品一式五份掛號郵寄參賽。"
 appliesTo: "第 29 屆 這一屆"
 caveat: "高中職學生與大專生或社會人士同組評比。"
-lastVerified: 2026-11-21
+lastVerified: 2026-11-24
 kind: "contest"
 deadline: "2026-12-31"
 sources:

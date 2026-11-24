@@ -3,7 +3,7 @@
   "id": "2027-just-hs-project",
   "title": "2027 全國高中職專題競賽",
   "edition": "2027",
-  "summary": "全國高中職 3 至 6 人組隊線上繳交專題研究報告書 PDF 參加初賽，入選總決賽者須上傳簡報並至景文科技大學現場口頭發表。",
+  "summary": "高中職同校 3 至 6 人組隊繳交專題全文 PDF，入圍隊伍到景文科技大學上台簡報。",
   "organizers": [
     {
       "name": "景文科技大學",
@@ -40,8 +40,7 @@
   ],
   "categories": [
     "商管與行銷",
-    "資訊與 AI",
-    "設計"
+    "其他"
   ],
   "eligibility": {
     "levels": [
@@ -59,31 +58,53 @@
     "basis": "quote",
     "evidence": [
       {
-        "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs235/景文科技大學 2027全國高中職專題競賽活動計畫書.pdf",
+        "url": "https://drive.google.com/file/d/1w6a1E_1hnejNl14B_pX5UHt0S5gmx4nI/view?usp=sharing",
         "quote": "全國公私立高中職學生"
       },
       {
-        "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs235/景文科技大學 2027全國高中職專題競賽活動計畫書.pdf",
-        "quote": "可跨年級和科系自由組隊，但不可跨校，組員限報名學校之在學學生。每隊成員3~6 名，並從中指派1 名學生為隊長，報名截止後名單不可變更。"
+        "url": "https://drive.google.com/file/d/1w6a1E_1hnejNl14B_pX5UHt0S5gmx4nI/view?usp=sharing",
+        "quote": "(二) 可跨年級和科系自由組隊，但不可跨校，組員限報名學校之在學學生。每隊成員3~6 名，並從中指派1 名學生為隊長，報名截止後名單不可變更。"
       },
       {
-        "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs235/景文科技大學 2027全國高中職專題競賽活動計畫書.pdf",
-        "quote": "每1 參賽隊伍至少需有1 名指導老師(限該校專任老師)，指導老師至多2 名。"
+        "url": "https://drive.google.com/file/d/1w6a1E_1hnejNl14B_pX5UHt0S5gmx4nI/view?usp=sharing",
+        "quote": "(三) 每1 參賽隊伍至少需有1 名指導老師(限該校專任老師)，指導老師至多2 名。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1w6a1E_1hnejNl14B_pX5UHt0S5gmx4nI/view?usp=sharing",
+        "quote": "(二) 報名及電子檔繳交：請於116 年1 月05 日(二)前，至報名網址：https://cbm.just.edu.tw，完成報名程序及上傳專題全文電子檔。"
       }
     ]
   },
   "dates": [
     {
-      "kind": "registration_deadline",
-      "label": "初賽報名及收件截止",
-      "date": "2027-01-05",
+      "kind": "other",
+      "label": "初賽開始收件",
+      "date": "2026-12-02",
       "time": null,
-      "original": "自115 年12 月02 日(三)起 至 116 年1 月05 日(二)止",
+      "original": "自115 年12 月02 日(三)起",
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs235/景文科技大學 2027全國高中職專題競賽活動計畫書.pdf",
+          "url": "https://drive.google.com/file/d/1w6a1E_1hnejNl14B_pX5UHt0S5gmx4nI/view?usp=sharing",
           "quote": "一、初賽收件日期：自115 年12 月02 日(三)起 至 116 年1 月05 日(二)止。"
+        }
+      ]
+    },
+    {
+      "kind": "registration_deadline",
+      "label": "報名及初賽專題全文上傳截止",
+      "date": "2027-01-05",
+      "time": null,
+      "original": "116 年1 月05 日(二)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://drive.google.com/file/d/1w6a1E_1hnejNl14B_pX5UHt0S5gmx4nI/view?usp=sharing",
+          "quote": "一、初賽收件日期：自115 年12 月02 日(三)起 至 116 年1 月05 日(二)止。"
+        },
+        {
+          "url": "https://drive.google.com/file/d/1w6a1E_1hnejNl14B_pX5UHt0S5gmx4nI/view?usp=sharing",
+          "quote": "(二) 報名及電子檔繳交：請於116 年1 月05 日(二)前，至報名網址：https://cbm.just.edu.tw，完成報名程序及上傳專題全文電子檔。"
         }
       ]
     },
@@ -96,21 +117,21 @@
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs235/景文科技大學 2027全國高中職專題競賽活動計畫書.pdf",
+          "url": "https://drive.google.com/file/d/1w6a1E_1hnejNl14B_pX5UHt0S5gmx4nI/view?usp=sharing",
           "quote": "二、公告進入總決賽名單：116 年2 月22 日(一)"
         }
       ]
     },
     {
       "kind": "submission_deadline",
-      "label": "總決賽簡報收件截止",
+      "label": "總決賽簡報電子檔上傳截止",
       "date": "2027-03-12",
       "time": null,
       "original": "116 年3 月12 日(五)",
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs235/景文科技大學 2027全國高中職專題競賽活動計畫書.pdf",
+          "url": "https://drive.google.com/file/d/1w6a1E_1hnejNl14B_pX5UHt0S5gmx4nI/view?usp=sharing",
           "quote": "三、總決賽收件截止日期：116 年3 月12 日(五)"
         }
       ]
@@ -124,7 +145,7 @@
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs235/景文科技大學 2027全國高中職專題競賽活動計畫書.pdf",
+          "url": "https://drive.google.com/file/d/1w6a1E_1hnejNl14B_pX5UHt0S5gmx4nI/view?usp=sharing",
           "quote": "四、總決賽日期：116 年3 月19 日(五)"
         }
       ]
@@ -133,17 +154,17 @@
   "deliverables": [
     {
       "stage": "初賽",
-      "what": "專題研究報告書全文電子檔（PDF 檔，依規定格式撰寫，以 10 頁為原則）",
+      "what": "依附件格式製作的專題全文 PDF 電子檔（以 10 頁為原則，不含封面）",
       "how": "online"
     },
     {
-      "stage": "總決賽（資料繳交）",
-      "what": "簡報電子檔（PowerPoint 或 odp 檔，20 頁為限）",
+      "stage": "總決賽（入圍隊伍）",
+      "what": "20 頁內簡報電子檔（PowerPoint 或 odp）",
       "how": "online"
     },
     {
-      "stage": "總決賽（現場發表）",
-      "what": "8 分鐘上台口頭發表",
+      "stage": "總決賽（入圍隊伍）",
+      "what": "現場上台發表 8 分鐘",
       "how": "onsite"
     }
   ],
@@ -153,11 +174,11 @@
     "basis": "quote",
     "evidence": [
       {
-        "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs235/景文科技大學 2027全國高中職專題競賽活動計畫書.pdf",
-        "quote": "進入總決賽之隊伍： 參賽團隊需將成果製作成簡報檔案，簡報檔內容首頁須註明： 報名類別＋專題題目＋指導老師姓名＋隊員姓名。 簡報以20 頁為限，總決賽當天將上台進行發表。"
+        "url": "https://drive.google.com/file/d/1w6a1E_1hnejNl14B_pX5UHt0S5gmx4nI/view?usp=sharing",
+        "quote": "簡報以20 頁為限，總決賽當天將上台進行發表。"
       },
       {
-        "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs235/景文科技大學 2027全國高中職專題競賽活動計畫書.pdf",
+        "url": "https://drive.google.com/file/d/1w6a1E_1hnejNl14B_pX5UHt0S5gmx4nI/view?usp=sharing",
         "quote": "柒、 活動地點 景文科技大學"
       }
     ]
@@ -168,24 +189,39 @@
     "basis": "absent",
     "evidence": [
       {
-        "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs235/景文科技大學 2027全國高中職專題競賽活動計畫書.pdf"
+        "url": "https://www.tlsh.ylc.edu.tw/2026/11/20/69369/"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1w6a1E_1hnejNl14B_pX5UHt0S5gmx4nI/view?usp=sharing"
       }
     ]
   },
   "prizes": {
-    "text": "各類組獎項：第一名 1 名 3,000 元（等值禮券）及獎狀乙紙；第二名 1 名 2,500 元（等值禮券）及獎狀乙紙；第三名 1 名 2,000 元（等值禮券）及獎狀乙紙；優勝 5 名獎品一份及獎狀乙紙；佳作若干名獎狀乙紙。若該類組報名隊伍低於 7 隊，只取第 1～3 名及若干名優勝。",
+    "text": "各類組第一名 3,000 元、第二名 2,500 元、第三名 2,000 元（皆為等值禮券），優勝 5 名各獎品一份，佳作若干名，皆附獎狀乙紙；報名隊伍低於 7 隊的類組只取第 1 至 3 名及若干名優勝。入圍總決賽的學生及指導老師由主辦單位發文所屬學校函請酌予敘獎。",
     "basis": "quote",
     "evidence": [
       {
-        "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs235/景文科技大學 2027全國高中職專題競賽活動計畫書.pdf",
-        "quote": "第一名 1 名(各類組) 3,000 元 (等值禮券) 乙紙 第二名 1 名(各類組) 2,500 元 (等值禮券) 乙紙 第三名 1 名(各類組) 2,000 元 (等值禮券) 乙紙"
+        "url": "https://drive.google.com/file/d/1w6a1E_1hnejNl14B_pX5UHt0S5gmx4nI/view?usp=sharing",
+        "quote": "第一名 1 名(各類組) 3,000 元 (等值禮券) 乙紙"
       },
       {
-        "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs235/景文科技大學 2027全國高中職專題競賽活動計畫書.pdf",
+        "url": "https://drive.google.com/file/d/1w6a1E_1hnejNl14B_pX5UHt0S5gmx4nI/view?usp=sharing",
+        "quote": "第二名 1 名(各類組) 2,500 元 (等值禮券) 乙紙"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1w6a1E_1hnejNl14B_pX5UHt0S5gmx4nI/view?usp=sharing",
+        "quote": "第三名 1 名(各類組) 2,000 元 (等值禮券) 乙紙"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1w6a1E_1hnejNl14B_pX5UHt0S5gmx4nI/view?usp=sharing",
         "quote": "優勝 5 名(各類組) 獎品一份 乙紙 佳作 若干名 - 乙紙"
       },
       {
-        "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs235/景文科技大學 2027全國高中職專題競賽活動計畫書.pdf",
+        "url": "https://drive.google.com/file/d/1w6a1E_1hnejNl14B_pX5UHt0S5gmx4nI/view?usp=sharing",
+        "quote": "*入圍總決賽之參賽學生及指導老師，主辦單位將發文至所屬學校函請各校酌予敘獎。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1w6a1E_1hnejNl14B_pX5UHt0S5gmx4nI/view?usp=sharing",
         "quote": "*若該類組報名隊伍低於7 隊，此類組將只取第1~3 名，若干名優勝。"
       }
     ]
@@ -195,7 +231,10 @@
     "basis": "absent",
     "evidence": [
       {
-        "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs235/景文科技大學 2027全國高中職專題競賽活動計畫書.pdf"
+        "url": "https://www.tlsh.ylc.edu.tw/2026/11/20/69369/"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1w6a1E_1hnejNl14B_pX5UHt0S5gmx4nI/view?usp=sharing"
       }
     ]
   },
@@ -203,34 +242,33 @@
     "official": "https://cbm.just.edu.tw/cbm2027/Menu/Poster.aspx",
     "rules": [
       {
-        "title": "景文科技大學 2027 全國高中職專題競賽活動計畫書",
-        "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs235/景文科技大學 2027全國高中職專題競賽活動計畫書.pdf"
+        "title": "活動計畫書",
+        "url": "https://drive.google.com/file/d/1w6a1E_1hnejNl14B_pX5UHt0S5gmx4nI/view?usp=sharing"
       }
     ],
-    "registration": "https://cbm.just.edu.tw"
+    "registration": "https://cbm.just.edu.tw/"
   },
   "found_via": [
     {
-      "name": "中山女高轉發公告（含簡章 PDF）",
-      "url": "https://www.csghs.tp.edu.tw/news/%e8%bd%89%e7%9f%a5%ef%bc%9a%e6%99%af%e6%96%87%e7%a7%91%e6%8a%80%e5%a4%a7%e5%ad%b82027%e5%85%a8%e5%9c%8b%e9%ab%98%e4%b8%ad%e8%81%b7%e5%b0%88%e9%a1%8c%e7%ab%b6%e8%b3%bd/"
-    },
-    {
-      "name": "中山女高最新消息",
-      "url": "https://www.csghs.tp.edu.tw/category/news/news1/"
+      "name": "斗六高中 營隊研習競賽",
+      "url": "https://www.tlsh.ylc.edu.tw/2026/11/20/69369/"
     }
   ],
   "verification": {
-    "last_verified": "2026-11-21",
-    "method": "single",
-    "unread": [],
+    "last_verified": "2026-11-24",
+    "method": "dual",
+    "unread": [
+      "海報"
+    ],
     "note": null,
     "readers": [
-      "gemini-4-hydrogen-medium"
+      "claude-opus-5-5",
+      "claude-opus-5-5"
     ]
   },
   "first_seen": "2026-11-20",
-  "updated": "2026-11-21",
-  "level": "checked",
+  "updated": "2026-11-24",
+  "level": "verified",
   "url": "https://yuanaruru.com/tw-hs-contests/contests/2027-just-hs-project/",
   "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2027-just-hs-project.md"
 }

@@ -3,7 +3,7 @@ title: "第二十四屆「人間有情-關懷癲癇」徵文比賽"
 description: "具中華民國國籍之社會人士及全國大專至國小學生以關懷癲癇為題，撰寫 5000 字內散文或 50 行內新詩，採紙本或電郵投稿。"
 appliesTo: "第 24 屆 這一屆"
 caveat: "日期與時間都是臺灣時間。"
-lastVerified: 2026-11-21
+lastVerified: 2026-11-24
 kind: "contest"
 deadline: "2026-12-21"
 sources:

@@ -3,7 +3,7 @@
   "id": "2026-yuntech-mini4wd",
   "title": "2026 瘋狂工程師｜爆走四驅！我要成為改造王-四驅車競速賽",
   "edition": "2026",
-  "summary": "高中職與雲科大在校生 2 人組隊，現場以主辦方材料組裝四驅車並進行競速賽。",
+  "summary": "兩人一隊於雲林科技大學現場以主辦方提供的材料組裝四驅車並參加競速比賽。",
   "organizers": [
     {
       "name": "國立雲林科技大學工程學院",
@@ -23,8 +23,7 @@
     }
   ],
   "categories": [
-    "工程與製造",
-    "技藝與技能"
+    "工程與製造"
   ],
   "eligibility": {
     "levels": [
@@ -39,7 +38,7 @@
     "nomination": "none",
     "team_min": 2,
     "team_max": 2,
-    "teacher": "none",
+    "teacher": "unknown",
     "basis": "quote",
     "evidence": [
       {
@@ -59,21 +58,25 @@
   "dates": [
     {
       "kind": "registration_deadline",
-      "label": "報名截止",
+      "label": "網路報名截止",
       "date": "2026-11-20",
       "time": "23:59",
-      "original": "115年11月20日(星期五)晚上11時59分",
+      "original": "即日起至115年11月20日(星期五)晚上11時59分截止",
       "basis": "quote",
       "evidence": [
         {
           "url": "https://www.taivs.tp.edu.tw/content?a=T0RESVRYcFJlVTE2UVhsTmFrRTl4c21hTkJ6YTY1RWUwc0dWaW50ZWx5",
-          "quote": "(四)報名方式：即日起至115年11月20日(星期五)晚上11時59分截止，一律採網路報名，報名網址：https://reurl.cc/k9A9qK。"
+          "quote": "(四)報名方式：即日起至115年11月20日(星期五)晚上11時59分截止，一律採網路報名"
+        },
+        {
+          "url": "https://www.taivs.tp.edu.tw/static/webroot/G156445116858646/application/NN179429577076879.pdf",
+          "quote": "四、 報名方式：即日起至11/20(五)晚上23 時59 分截止，一律採網路報名。"
         }
       ]
     },
     {
       "kind": "final_event",
-      "label": "競賽日",
+      "label": "競賽當天（09:00–09:30 報到，16:00–16:30 頒獎典禮）",
       "date": "2026-12-05",
       "time": "09:00",
       "original": "115 年12 月5 日(星期六) 上午9 時至下午4 時30 分",
@@ -88,8 +91,13 @@
   ],
   "deliverables": [
     {
-      "stage": "現場競賽",
-      "what": "使用主辦方提供之材料現場組裝四驅車並進行競速比賽",
+      "stage": "報名",
+      "what": "網路報名表單",
+      "how": "online"
+    },
+    {
+      "stage": "競賽當天",
+      "what": "以主辦方提供的材料與工具組裝四驅車，經驗車合格後上三軌賽道競速",
       "how": "onsite"
     }
   ],
@@ -120,12 +128,16 @@
     ]
   },
   "prizes": {
-    "text": "【正賽】冠軍 5,000 元禮券、亞軍 3,000 元禮券；【挑戰計時賽】最速優勝獎 2 名，各頒發 1,000 元禮券。全程參與者給予參賽證明。",
+    "text": "正賽：冠軍 5,000 元禮券、亞軍 3,000 元禮券；挑戰計時賽（限正賽未晉級隊伍）：最速優勝獎 2 名，各 1,000 元禮券。全程參與者給予參賽證明。",
     "basis": "quote",
     "evidence": [
       {
         "url": "https://www.taivs.tp.edu.tw/static/webroot/G156445116858646/application/NN179429577076879.pdf",
-        "quote": "七、 獎勵方式：【正賽】冠軍5,000 元禮券、亞軍3,000 元禮券；【挑戰計時賽】最速優勝獎2 名， 各頒發1,000 元禮券。"
+        "quote": "七、 獎勵方式：【正賽】冠軍5,000 元禮券、亞軍3,000 元禮券；【挑戰計時賽】最速優勝獎2 名，"
+      },
+      {
+        "url": "https://www.taivs.tp.edu.tw/static/webroot/G156445116858646/application/NN179429577076879.pdf",
+        "quote": "參賽資格僅限正賽未晉級之隊伍"
       },
       {
         "url": "https://www.taivs.tp.edu.tw/static/webroot/G156445116858646/application/NN179429577076879.pdf",
@@ -138,10 +150,10 @@
     "basis": "absent",
     "evidence": [
       {
-        "url": "https://www.taivs.tp.edu.tw/content?a=T0RESVRYcFJlVTE2UVhsTmFrRTl4c21hTkJ6YTY1RWUwc0dWaW50ZWx5"
+        "url": "https://www.taivs.tp.edu.tw/static/webroot/G156445116858646/application/NN179429577076879.pdf"
       },
       {
-        "url": "https://www.taivs.tp.edu.tw/static/webroot/G156445116858646/application/NN179429577076879.pdf"
+        "url": "https://www.taivs.tp.edu.tw/content?a=T0RESVRYcFJlVTE2UVhsTmFrRTl4c21hTkJ6YTY1RWUwc0dWaW50ZWx5"
       }
     ]
   },
@@ -149,7 +161,7 @@
     "official": null,
     "rules": [
       {
-        "title": "競賽注意事項",
+        "title": "競賽海報與注意事項（PDF）",
         "url": "https://www.taivs.tp.edu.tw/static/webroot/G156445116858646/application/NN179429577076879.pdf"
       }
     ],
@@ -157,23 +169,27 @@
   },
   "found_via": [
     {
+      "name": "reurl.cc",
+      "url": "https://reurl.cc/k9A9qK"
+    },
+    {
       "name": "www.taivs.tp.edu.tw",
       "url": "https://www.taivs.tp.edu.tw/content?a=T0RESVRYcFJlVTE2UVhsTmFrRTl4c21hTkJ6YTY1RWUwc0dWaW50ZWx5"
     }
   ],
   "verification": {
-    "last_verified": "2026-11-20",
-    "method": "dual",
+    "last_verified": "2026-11-24",
+    "method": "single",
     "unread": [],
     "note": null,
     "readers": [
-      "gemini-4-hydrogen-medium",
-      "gpt-6.1-sol"
+      "claude-opus-5-5"
     ]
   },
   "first_seen": "2026-11-20",
-  "updated": "2026-11-20",
-  "level": "verified",
+  "updated": "2026-11-24",
+  "conflict": "臺北市立大安高工轉載的公告寫活動地點為學生活動中心二樓，獎勵另列第一名5,000元、第二名3,000元、第三名2,000元禮券，並稱全程參與者給予研習證明；主辦單位的注意事項 PDF 寫活動地點為學生活動中心地下室，獎勵只有正賽冠亞軍與挑戰計時賽最速優勝獎，全程參與者給予參賽證明。",
+  "level": "checked",
   "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-yuntech-mini4wd/",
   "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-yuntech-mini4wd.md"
 }

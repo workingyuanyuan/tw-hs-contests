@@ -1,0 +1,333 @@
+{
+  "schema": 1,
+  "id": "2026-ctust-paochung-spicy-cuisine",
+  "title": "2026寶之川－麻辣創意健康料理大賽",
+  "edition": "2026 第 11 屆",
+  "summary": "廚師、學生或美食愛好者以寶川甜辣醬與豆酥球設計西式熱菜或即食包，書審入圍者到中臺科大現場評審。",
+  "organizers": [
+    {
+      "name": "中臺科技大學食品科技系",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "餐旅",
+    "技藝與技能"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職",
+      "大專",
+      "社會人士"
+    ],
+    "division": "mixed",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": null,
+    "team_max": null,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.tlsh.ylc.edu.tw/2026/10/08/67918/",
+        "quote": "四、參賽對象：任何有受訓之廚師(含學生)、烹飪專業人士或美食製作愛者，均可參加。"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/「2026寶之川－麻辣創意健康料理大賽」活動.pdf",
+        "quote": "正本：各公私立大專校院、各公私立高級中學、各公私立高級職業學校"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/「2026寶之川－麻辣創意健康料理大賽」活動1.pdf",
+        "quote": "一律採用線上報名，網址："
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "other",
+      "label": "線上賽前說明會",
+      "date": "2026-11-21",
+      "time": "09:00",
+      "original": "115 年11 月21 日(星期六)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/「2026寶之川－麻辣創意健康料理大賽」活動1.pdf",
+          "quote": "115 年11 月21 日(星期 六)"
+        },
+        {
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/「2026寶之川－麻辣創意健康料理大賽」活動1.pdf",
+          "quote": "09：00~10：00"
+        }
+      ]
+    },
+    {
+      "kind": "registration_deadline",
+      "label": "初賽報名截止",
+      "date": "2026-12-04",
+      "time": "21:00",
+      "original": "2026/12/4 21:00止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/「2026寶之川－麻辣創意健康料理大賽」活動1.pdf",
+          "quote": "2026/12/4 21:00止"
+        },
+        {
+          "url": "https://www.tlsh.ylc.edu.tw/2026/10/08/67918/",
+          "quote": "二、報名日期：即日起初審報名至115年12月4日。"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "初賽收件截止",
+      "date": "2026-12-04",
+      "time": "21:00",
+      "original": "115年12月4日收件截止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tlsh.ylc.edu.tw/2026/10/08/67918/",
+          "quote": "六、比賽時間：115年12月4日收件截止，決賽日期115年12月26日（星期六）08：30-13：30。"
+        },
+        {
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/「2026寶之川－麻辣創意健康料理大賽」活動1.pdf",
+          "quote": "21:00 報名收件 截止"
+        }
+      ]
+    },
+    {
+      "kind": "shortlist_announcement",
+      "label": "粉絲團公告入圍組別食譜資料",
+      "date": "2026-12-05",
+      "time": null,
+      "original": "12/5",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/「2026寶之川－麻辣創意健康料理大賽」活動1.pdf",
+          "quote": "小編將於12/5 在粉絲團公告入 圍組別食譜資料，請各位選手廣邀親友 按讚加分享作品。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "複賽（推廣大使按讚比賽）截止",
+      "date": "2026-12-25",
+      "time": "17:00",
+      "original": "115 年12 月4 日~115 年12 月25 日17:00 止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/「2026寶之川－麻辣創意健康料理大賽」活動1.pdf",
+          "quote": "115 年12 月4 日~115 年 12 月25 日 17:00 止"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "推廣大使票選結果公告",
+      "date": "2026-12-25",
+      "time": "18:00",
+      "original": "12/25 18:00 後",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/「2026寶之川－麻辣創意健康料理大賽」活動1.pdf",
+          "quote": "推廣大使票選結果於12/25 18:00 後於粉絲團公告"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "決賽（現場評審）",
+      "date": "2026-12-26",
+      "time": "08:30",
+      "original": "115年12月26日（星期六）08：30-13：30",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tlsh.ylc.edu.tw/2026/10/08/67918/",
+          "quote": "六、比賽時間：115年12月4日收件截止，決賽日期115年12月26日（星期六）08：30-13：30。"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "公告專業評審評分結果與評語",
+      "date": "2026-12-26",
+      "time": "15:00",
+      "original": "115 年12 月26 日(星期六) 15:00 以前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/「2026寶之川－麻辣創意健康料理大賽」活動1.pdf",
+          "quote": "115 年12 月26 日(星期 六)"
+        },
+        {
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/「2026寶之川－麻辣創意健康料理大賽」活動1.pdf",
+          "quote": "15:00 以前公告專業評審評分結果 與評語。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "初賽（書面資格與配方審查）",
+      "what": "線上報名資料與融入寶川豆酥、寶川甜辣醬的菜單配方",
+      "how": "online"
+    },
+    {
+      "stage": "決賽（西式現烹熱菜類）",
+      "what": "60 分鐘內現場製作 1 人份菜餚共 2 盤（評審試吃 1 盤、展台展示 1 盤）並完成善後清潔",
+      "how": "onsite"
+    },
+    {
+      "stage": "決賽（寶川創意商品設計類）",
+      "what": "商品完整包裝與陳列模型 1 組，並於 15~20 分鐘內現場復熱呈送評審 1 式品評",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "finalists",
+    "where": "中台科技大學中餐教室",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/「2026寶之川－麻辣創意健康料理大賽」活動1.pdf",
+        "quote": "入圍標準：菜單設計須融入指定材料（寶川豆酥、寶川甜辣醬），且 符合健康少負擔與專業烹飪規範，審查通過者方取得晉級資格。"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/「2026寶之川－麻辣創意健康料理大賽」活動1.pdf",
+        "quote": "【決賽】：現場實體評審"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/「2026寶之川－麻辣創意健康料理大賽」活動1.pdf",
+        "quote": "地點：中台科技大學中餐教室"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/「2026寶之川－麻辣創意健康料理大賽」活動1.pdf"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/「2026寶之川－麻辣創意健康料理大賽」活動.pdf"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "現烹料理：金牌（90-100 分）、銀牌（80-89 分）、銅牌（70-79 分），各頒獎牌獎狀；寶川健康美食推廣大使（社群按讚人氣前 6 名）：第 1 名獎金 5,000 元、第 2-3 名各 2,000 元、第 4-6 名各 1,000 元，皆附獎牌獎狀；優勝頒獎牌獎狀。參加決賽者每人贈紀念牛仔圍裙 1 件。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/「2026寶之川－麻辣創意健康料理大賽」活動1.pdf",
+        "quote": "「金牌」：90-100 分，獎牌獎狀各1 面。"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/「2026寶之川－麻辣創意健康料理大賽」活動1.pdf",
+        "quote": "「銀牌」：80-89 分，獎牌獎狀各1 面。"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/「2026寶之川－麻辣創意健康料理大賽」活動1.pdf",
+        "quote": "「銅牌」：70-79 分，獎牌獎狀各1 面。"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/「2026寶之川－麻辣創意健康料理大賽」活動1.pdf",
+        "quote": "第1 名：獎金5,000 NT$，獎牌獎狀各1 面。"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/「2026寶之川－麻辣創意健康料理大賽」活動1.pdf",
+        "quote": "第2-3 名：獎金2,000 NT$，獎牌獎狀各1 面。"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/「2026寶之川－麻辣創意健康料理大賽」活動1.pdf",
+        "quote": "第4-6 名：獎金1,000 NT$，獎牌獎狀各1 面。"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/「2026寶之川－麻辣創意健康料理大賽」活動1.pdf",
+        "quote": "「優勝」：獎牌獎狀各1 面。"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/「2026寶之川－麻辣創意健康料理大賽」活動1.pdf",
+        "quote": "人氣前6 名另行頒發推廣大使專屬獎金、獎牌與獎狀。"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/「2026寶之川－麻辣創意健康料理大賽」活動1.pdf",
+        "quote": "本屆為第11 屆寶川盃凡參加決賽每位選手即贈送紀念牛仔圍裙1 件。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/「2026寶之川－麻辣創意健康料理大賽」活動1.pdf"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/「2026寶之川－麻辣創意健康料理大賽」活動.pdf"
+      }
+    ]
+  },
+  "links": {
+    "official": null,
+    "rules": [
+      {
+        "title": "2026寶川盃競賽簡章（PDF）",
+        "url": "https://www.sssh.tyc.edu.tw/view-doc/35/1151201835_1_2026寶川盃簡章0922.pdf"
+      },
+      {
+        "title": "中臺科技大學函（PDF）",
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/「2026寶之川－麻辣創意健康料理大賽」活動.pdf"
+      }
+    ],
+    "registration": "https://reurl.cc/EYD9YR"
+  },
+  "found_via": [
+    {
+      "name": "新竹高商 消息公佈欄",
+      "url": "https://www.hccvs.hc.edu.tw/ischool/public/news_view/show.php?nid=26499"
+    },
+    {
+      "name": "大同高中 學生競賽活動",
+      "url": "https://www.ttsh.tp.edu.tw/news/%e4%b8%ad%e8%87%ba%e7%a7%91%e6%8a%80%e5%a4%a7%e5%ad%b8%e9%a3%9f%e5%93%81%e7%a7%91%e6%8a%80%e7%b3%bb%e6%93%ac%e8%be%a6%e7%90%86%e3%80%8c2026%e5%af%b6%e4%b9%8b%e5%b7%9d%ef%bc%8d%e9%ba%bb%e8%be%a3/"
+    },
+    {
+      "name": "斗六高中 營隊研習競賽",
+      "url": "https://www.tlsh.ylc.edu.tw/2026/10/08/67918/"
+    },
+    {
+      "name": "高師大附中 校外競賽與活動",
+      "url": "https://www.nknush.kh.edu.tw/announcement/20863/%e5%85%ac%e5%91%8a%e8%a8%93%e8%82%b2%e7%b5%84%e4%b8%ad%e8%87%ba%e7%a7%91%e6%8a%80%e5%a4%a7%e5%ad%b8%e3%80%8c2026%e5%af%b6%e4%b9%8b%e5%b7%9d%ef%bc%8d%e9%ba%bb%e8%be%a3%e5%89%b5%e6%84%8f%e5%81%a5/"
+    },
+    {
+      "name": "壽山高中 校外競賽",
+      "url": "https://www.sssh.tyc.edu.tw/news/%e4%b8%ad%e8%87%ba%e7%a7%91%e6%8a%80%e5%a4%a7%e5%ad%b8%e9%a3%9f%e5%93%81%e7%a7%91%e6%8a%80%e7%b3%bb%e6%93%ac%e8%be%a6%e7%90%86%e3%80%8c2026%e5%af%b6%e4%b9%8b%e5%b7%9d%ef%bc%8d%e9%ba%bb%e8%be%a3/"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-24",
+    "method": "dual",
+    "unread": [
+      "得獎作品授權書",
+      "中臺科技大學食品科技系網頁「2026寶川盃11th－麻辣創意健康料理大賽」"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5",
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-24",
+  "conflict": "中臺科技大學函（115年10月7日）的報名網址為 https://reurl.cc/EYD9YR，競賽簡章活動期程表的線上報名網址為 https://reurl.cc/MW9O4k。競賽簡章海報的決賽日期寫「2025年12月26日」，簡章活動期程表與函皆寫115年12月26日。"
+}

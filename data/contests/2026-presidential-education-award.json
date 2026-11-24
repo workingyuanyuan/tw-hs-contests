@@ -1,0 +1,313 @@
+{
+  "schema": 1,
+  "id": "2026-presidential-education-award",
+  "title": "2027 總統教育獎",
+  "edition": "2027",
+  "summary": "學校或社會團體推薦逆境中奮發向上的學生，寄送推薦資料與佐證，經初審與複審訪視遴選。",
+  "organizers": [
+    {
+      "name": "教育部",
+      "role": "主辦"
+    },
+    {
+      "name": "國立東石高級中學",
+      "role": "承辦"
+    },
+    {
+      "name": "國立新竹高級中學",
+      "role": "承辦"
+    },
+    {
+      "name": "各直轄市政府教育局",
+      "role": "協辦"
+    },
+    {
+      "name": "各縣（市）政府",
+      "role": "協辦"
+    },
+    {
+      "name": "總統府",
+      "role": "指導"
+    },
+    {
+      "name": "行政院",
+      "role": "指導"
+    }
+  ],
+  "categories": [
+    "其他"
+  ],
+  "eligibility": {
+    "levels": [
+      "國小",
+      "國中",
+      "高中",
+      "高職",
+      "五專",
+      "大專"
+    ],
+    "division": "separate",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "school",
+    "team_min": null,
+    "team_max": null,
+    "teacher": "required",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.ttsh.tp.edu.tw/view-doc/11/2027總統教育獎遴選分組實施計畫.pdf",
+        "quote": "推薦對象：就讀國內公立、已立案私立學校與教育部備案之大陸地區臺商學校及教育部立案之海外臺灣學校（含各教育階段非學校型態實驗教育學生），並具備中華民國國籍之115學年度在學學生。"
+      },
+      {
+        "url": "https://www.ttsh.tp.edu.tw/view-doc/11/2027總統教育獎遴選分組實施計畫.pdf",
+        "quote": "(二)高中組：公立與已立案之私立高級中等學校（包括普通型高級中等學校、技術型高級中等學校、綜合型高級中等學校、單科型高級中等學校）、五專前三年學生"
+      },
+      {
+        "url": "https://www.ttsh.tp.edu.tw/view-doc/11/2027總統教育獎遴選分組實施計畫.pdf",
+        "quote": "(一)大專組：公立與已立案之私立大專校院（包括二專、五專四年級及五年級、大學部、碩士班及博士班）學生。"
+      },
+      {
+        "url": "https://www.ttsh.tp.edu.tw/view-doc/11/2027總統教育獎遴選分組實施計畫.pdf",
+        "quote": "參加者應由推薦單位推薦"
+      },
+      {
+        "url": "https://www.ttsh.tp.edu.tw/view-doc/11/2027總統教育獎遴選分組實施計畫.pdf",
+        "quote": "請指導老師協助依說明規定填寫完成"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "初審推薦截止（郵戳為憑）",
+      "date": "2026-12-24",
+      "time": null,
+      "original": "115 年12 月24 日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.ttsh.tp.edu.tw/view-doc/11/2027總統教育獎遴選分組實施計畫.pdf",
+          "quote": "推薦時間：自115 年11 月20 日起至115 年12 月24 日止。（郵戳為憑）"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "國中組、國小組縣市推薦複審截止",
+      "date": "2027-02-18",
+      "time": null,
+      "original": "116 年2 月18 日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.ttsh.tp.edu.tw/view-doc/11/2027總統教育獎遴選分組實施計畫.pdf",
+          "quote": "推薦時間：自116 年2 月12 日起至116 年2 月18 日止。（以郵戳為憑）"
+        }
+      ]
+    },
+    {
+      "kind": "shortlist_announcement",
+      "label": "公布進入複審名單",
+      "date": "2027-03-04",
+      "time": null,
+      "original": "116.3.4（四）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.ttsh.tp.edu.tw/view-doc/11/2027總統教育獎遴選分組實施計畫.pdf",
+          "quote": "公布進入複審名單 召開複審評選會第1 次會議 116.3.4（四）"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "複審學生上傳彩色照片截止",
+      "date": "2027-04-15",
+      "time": null,
+      "original": "116 年4 月15 日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.ttsh.tp.edu.tw/view-doc/11/2027總統教育獎遴選分組實施計畫.pdf",
+          "quote": "應於116 年3 月4 日至116 年4 月15 日前按初審報名帳號及密碼進入報名系統提供個人彩色照片"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "複審實地訪視",
+      "date": "2027-04-15",
+      "time": null,
+      "original": "116.3.18（四）至116.4.15（四）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.ttsh.tp.edu.tw/view-doc/11/2027總統教育獎遴選分組實施計畫.pdf",
+          "quote": "複審實地訪視 116.3.18（四）至116.4.15（四）"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "公布獲獎名單",
+      "date": "2027-05-20",
+      "time": null,
+      "original": "116.5.20（四）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.ttsh.tp.edu.tw/view-doc/11/2027總統教育獎遴選分組實施計畫.pdf",
+          "quote": "公布獲獎名單 116.5.20（四）"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "頒獎典禮暨晚宴",
+      "date": "2027-07-02",
+      "time": null,
+      "original": "116.7.2（五）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.ttsh.tp.edu.tw/view-doc/11/2027總統教育獎遴選分組實施計畫.pdf",
+          "quote": "頒獎典禮暨晚宴 116.7.2（五）"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "初審",
+      "what": "網路報名後列印的受推薦人基本資料表、推薦資料表（具體事實、自傳、師長推薦）、受推薦同意書、推薦檢核表、身分證明影本及 60 頁內書面佐證資料，各 2 份",
+      "how": "mail"
+    },
+    {
+      "stage": "複審",
+      "what": "於報名系統上傳個人彩色照片 5 張",
+      "how": "online"
+    },
+    {
+      "stage": "複審",
+      "what": "評選會實地訪視，學生本人出席",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "finalists",
+    "where": "受推薦人就讀學校（高中組、國中組、國小組）",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.ttsh.tp.edu.tw/view-doc/11/2027總統教育獎遴選分組實施計畫.pdf",
+        "quote": "複審評選會就複審受推薦人，進行實地訪視，訪視重點為進行報名資料查證及其他優良事蹟佐證，除學生本人應出席外，學生成長歷程中之重要關係人員亦可列席。"
+      },
+      {
+        "url": "https://www.ttsh.tp.edu.tw/view-doc/11/2027總統教育獎遴選分組實施計畫.pdf",
+        "quote": "高中組、國中組及國小組之實地訪視以受推薦人就讀學校為原則"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.ttsh.tp.edu.tw/view-doc/11/2027總統教育獎遴選分組實施計畫.pdf"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "每位獲獎學生由總統頒發獎助學金、獎狀及獎座：大專組 25 萬元、高中組 20 萬元、國中組與國小組各 15 萬元；獎勵名額大專組 6 至 10 名、高中組 10 至 14 名、國中組與國小組各 16 至 18 名。參加複審而未獲獎者，得擇優頒發奮發向上獎獎狀及 2 萬元。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.ttsh.tp.edu.tw/view-doc/11/2027總統教育獎遴選分組實施計畫.pdf",
+        "quote": "每位獲獎學生由總統頒發獎助學金、獎狀一紙及獎座一座"
+      },
+      {
+        "url": "https://www.ttsh.tp.edu.tw/view-doc/11/2027總統教育獎遴選分組實施計畫.pdf",
+        "quote": "(一) 大專組每名學生頒發獎助學金新臺幣（以下同）二十五萬元。"
+      },
+      {
+        "url": "https://www.ttsh.tp.edu.tw/view-doc/11/2027總統教育獎遴選分組實施計畫.pdf",
+        "quote": "(二) 高中組每名學生頒發獎助學金二十萬元。"
+      },
+      {
+        "url": "https://www.ttsh.tp.edu.tw/view-doc/11/2027總統教育獎遴選分組實施計畫.pdf",
+        "quote": "(三) 國中組每名學生頒發獎助學金十五萬元。"
+      },
+      {
+        "url": "https://www.ttsh.tp.edu.tw/view-doc/11/2027總統教育獎遴選分組實施計畫.pdf",
+        "quote": "(四) 國小組每名學生頒發獎助學金十五萬元。"
+      },
+      {
+        "url": "https://www.ttsh.tp.edu.tw/view-doc/11/2027總統教育獎遴選分組實施計畫.pdf",
+        "quote": "每年獎勵名額以大專組六名至十名、高中組十名至十四名，國中組十六名至十八名，國小組十六名至十八名"
+      },
+      {
+        "url": "https://www.ttsh.tp.edu.tw/view-doc/11/2027總統教育獎遴選分組實施計畫.pdf",
+        "quote": "受推薦參加總統教育獎複審而未獲獎者，得由教育部擇優頒發奮發向上獎之獎狀一紙及每名學生二萬元。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.ttsh.tp.edu.tw/view-doc/11/2027總統教育獎遴選分組實施計畫.pdf"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://pea.k12ea.gov.tw/",
+    "rules": [
+      {
+        "title": "2027 總統教育獎遴選分組實施計畫（PDF）",
+        "url": "https://www.fg.tp.edu.tw/wp-content/uploads/doc/studactivities/2027總統教育獎遴選分組實施計畫.pdf"
+      }
+    ],
+    "registration": "https://pea.k12ea.gov.tw/"
+  },
+  "found_via": [
+    {
+      "name": "大同高中 學生競賽活動",
+      "url": "https://www.ttsh.tp.edu.tw/news/2027%e7%b8%bd%e7%b5%b1%e6%95%99%e8%82%b2%e7%8d%8e%ef%bc%8c%e6%a0%a1%e5%85%a7%e5%a0%b1%e5%90%8d%e8%87%b312-18%e4%ba%94/"
+    },
+    {
+      "name": "北一女中 最新消息",
+      "url": "https://www.fg.tp.edu.tw/news/%e3%80%8c2027%e7%b8%bd%e7%b5%b1%e6%95%99%e8%82%b2%e7%8d%8e%e3%80%8d%e9%81%b4%e9%81%b8/"
+    },
+    {
+      "name": "苗栗農工 處室公告",
+      "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=27129"
+    },
+    {
+      "name": "南港高工 重要資訊",
+      "url": "https://www.nkhs.tp.edu.tw/ischool/public/news_view/show.php?nid=35322"
+    },
+    {
+      "name": "金門高中 最新消息",
+      "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=22731"
+    },
+    {
+      "name": "中山女高 最新消息",
+      "url": "https://www.csghs.tp.edu.tw/news/2027-%e7%b8%bd%e7%b5%b1%e6%95%99%e8%82%b2%e7%8d%8e%e9%81%b4%e9%81%b8%e5%88%86%e7%b5%84%e5%af%a6%e6%96%bd%e8%a8%88%e7%95%ab/"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-24",
+    "method": "single",
+    "unread": [],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-24"
+}

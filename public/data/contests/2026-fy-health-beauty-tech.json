@@ -1,0 +1,212 @@
+{
+  "schema": 1,
+  "id": "2026-fy-health-beauty-tech",
+  "title": "2026 全國健康美容科技研討會暨專題競賽",
+  "edition": "2026",
+  "summary": "大專與高中學生投稿健康美容相關專題摘要，通過審查者到輔英科技大學發表A0海報。",
+  "organizers": [
+    {
+      "name": "輔英科技大學健康美容系",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "醫護與照顧",
+    "技藝與技能",
+    "設計"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職",
+      "大專"
+    ],
+    "division": "separate",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": null,
+    "team_max": null,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/全國健康美容科技研討會簡章012062.pdf",
+        "quote": "專題競賽分為大專組、高中組各取第一名1名"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/全國健康美容科技研討會簡章012062.pdf",
+        "quote": "除此之外，專題競賽可落實專業群科之專題製作課程"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/全國健康美容科技研討會簡章012062.pdf",
+        "quote": "六、 報名方式：採網路報名https://reurl.cc/YmQ1N4"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "submission_deadline",
+      "label": "論文摘要截稿",
+      "date": "2026-10-30",
+      "time": null,
+      "original": "115年10月30日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/全國健康美容科技研討會簡章012062.pdf",
+          "quote": "115年10月30日論文摘要截稿日期"
+        }
+      ]
+    },
+    {
+      "kind": "shortlist_announcement",
+      "label": "論文摘要審查結果以電子郵件通知",
+      "date": "2026-11-13",
+      "time": null,
+      "original": "115年11月13日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/全國健康美容科技研討會簡章012062.pdf",
+          "quote": "115年11月13日論文摘要審查結果以電子郵件通知"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "研討會海報發表",
+      "date": "2026-12-02",
+      "time": "08:30",
+      "original": "115年12月02日(三) 08:30-15:30",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/全國健康美容科技研討會簡章012062.pdf",
+          "quote": "一、 活動日期：115年12月02日(三)"
+        },
+        {
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/全國健康美容科技研討會簡章012062.pdf",
+          "quote": "二、 活動時間：08:30-15:30"
+        },
+        {
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/全國健康美容科技研討會簡章012062.pdf",
+          "quote": "115年12月02日進行研討會海報發表"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "頒發專題競賽名次",
+      "date": "2026-12-02",
+      "time": "14:30",
+      "original": "115年12月02日(三) 14:30-15:30",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/全國健康美容科技研討會簡章012062.pdf",
+          "quote": "一、 活動日期：115年12月02日(三)"
+        },
+        {
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/全國健康美容科技研討會簡章012062.pdf",
+          "quote": "14:30-15:30 \n頒發專題競賽名次"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名",
+      "what": "論文/專題摘要（500 字內，中英文題目、關鍵詞與摘要）與海報檔案",
+      "how": "online"
+    },
+    {
+      "stage": "研討會當天",
+      "what": "A0 海報發表，發表人於海報前就位說明",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "finalists",
+    "where": "輔英科技大學/環生講堂C101",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/全國健康美容科技研討會簡章012062.pdf",
+        "quote": "115年12月02日進行研討會海報發表"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/全國健康美容科技研討會簡章012062.pdf",
+        "quote": "論文發表人於海報前就位"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/全國健康美容科技研討會簡章012062.pdf",
+        "quote": "三、 活動地點：輔英科技大學/環生講堂C101"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/全國健康美容科技研討會簡章012062.pdf",
+        "quote": "「論文摘要」初審合格者"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/全國健康美容科技研討會簡章012062.pdf"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "大專組、高中組各取第一名 1 名、第二名 2 名、第三名 3 名，佳作若干名。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/全國健康美容科技研討會簡章012062.pdf",
+        "quote": "專題競賽分為大專組、高中組各取第一名1名、第二名2名、第三名3名，佳作獎若干名。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/全國健康美容科技研討會簡章012062.pdf"
+      }
+    ]
+  },
+  "links": {
+    "official": null,
+    "rules": [
+      {
+        "title": "2026 全國健康美容科技研討會暨專題競賽簡章",
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/全國健康美容科技研討會簡章012062.pdf"
+      }
+    ],
+    "registration": "https://reurl.cc/YmQ1N4"
+  },
+  "found_via": [
+    {
+      "name": "高師大附中 校外競賽與活動",
+      "url": "https://www.nknush.kh.edu.tw/announcement/20581/%e7%ab%b6%e8%b3%bd2026%e5%85%a8%e5%9c%8b%e5%81%a5%e5%ba%b7%e7%be%8e%e5%ae%b9%e7%a7%91%e6%8a%80%e7%a0%94%e8%a8%8e%e6%9c%83%e5%a3%87%e6%9a%a8%e5%b0%88%e9%a1%8c%e7%ab%b6%e8%b3%bd%e6%95%99%e5%8b%99-2/"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-24",
+    "method": "single",
+    "unread": [],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-24",
+  "level": "checked",
+  "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-fy-health-beauty-tech/",
+  "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-fy-health-beauty-tech.md"
+}

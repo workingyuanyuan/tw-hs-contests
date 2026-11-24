@@ -1,0 +1,311 @@
+{
+  "schema": 1,
+  "id": "2026-uch-hs-investment",
+  "title": "2026全國高中職投資競賽",
+  "edition": "2026",
+  "summary": "高中職生以虛擬帳戶模擬交易台股比總報酬率，另可繳個股分析簡報或投資短影音參賽。",
+  "organizers": [
+    {
+      "name": "台新證券股份有限公司",
+      "role": "主辦"
+    },
+    {
+      "name": "健行科技大學財務金融系",
+      "role": "主辦"
+    },
+    {
+      "name": "寶碩財務科技股份有限公司",
+      "role": "協辦"
+    }
+  ],
+  "categories": [
+    "商管與行銷"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職"
+    ],
+    "division": "hs_only",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": 3,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/08/2026-健行科大全國高中職投資競賽規則說明.pdf",
+        "quote": "廣邀全國各高中職學生參加。"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/08/2026-健行科大全國高中職投資競賽規則說明.pdf",
+        "quote": "本競賽採個人報名方式，每位參賽者完成報名後，將取得一組股市模擬交易系統之帳號與密碼"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/08/2026-健行科大全國高中職投資競賽規則說明.pdf",
+        "quote": "團體賽：採三人組隊方式參賽，有意參加團體賽者，請於正式競賽開始前一週透過官方 LINE 完成組隊登記。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "報名（試玩）期間截止",
+      "date": "2026-10-08",
+      "time": null,
+      "original": "2026 年8 月24 日~2026 年10 月8 日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/08/2026-健行科大全國高中職投資競賽規則說明.pdf",
+          "quote": "報名(試玩)期間：2026 年8 月24 日~2026 年10 月8 日。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "股市模擬交易正式競賽開始",
+      "date": "2026-10-12",
+      "time": null,
+      "original": "2026 年10 月12 日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/08/2026-健行科大全國高中職投資競賽規則說明.pdf",
+          "quote": "正式競賽期間：2026 年10 月12 日~2026 年11 月13 日。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "股市模擬交易正式競賽結束",
+      "date": "2026-11-13",
+      "time": null,
+      "original": "2026 年11 月13 日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/08/2026-健行科大全國高中職投資競賽規則說明.pdf",
+          "quote": "正式競賽期間：2026 年10 月12 日~2026 年11 月13 日。"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "個股研究分析初賽簡報繳件",
+      "date": "2026-11-23",
+      "time": null,
+      "original": "2026 年11 月23 日前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/08/2026-健行科大全國高中職投資競賽規則說明.pdf",
+          "quote": "初賽繳件：2026 年11 月23 日前提供簡報檔案。"
+        }
+      ]
+    },
+    {
+      "kind": "shortlist_announcement",
+      "label": "個股研究分析複賽名單公告",
+      "date": "2026-11-27",
+      "time": "12:00",
+      "original": "2026 年11 月27 日中午12 點",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/08/2026-健行科大全國高中職投資競賽規則說明.pdf",
+          "quote": "複賽公告：2026 年11 月27 日中午12 點。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "個股研究分析複賽暨頒獎典禮",
+      "date": "2026-12-06",
+      "time": "13:30",
+      "original": "2026 年12 月6 日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/08/2026-健行科大全國高中職投資競賽規則說明.pdf",
+          "quote": "複賽日期：2026 年12 月6 日至集思台大會議中心進行3 分鐘口頭報告。"
+        },
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/08/2026-健行科大全國高中職投資競賽規則說明.pdf",
+          "quote": "13:30-14:00 報到(集思台大會議中心)"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "頒獎",
+      "date": "2026-12-06",
+      "time": null,
+      "original": "2026 年12 月6 日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/08/2026-健行科大全國高中職投資競賽規則說明.pdf",
+          "quote": "頒獎日期：2026 年12 月6 日。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "股市模擬交易（個人賽、團體賽）",
+      "what": "於寶碩「虛擬交易所」網頁以五百萬元原始資金交易台股上市櫃股票、ETF",
+      "how": "online"
+    },
+    {
+      "stage": "個股研究分析獎初賽",
+      "what": "自選一檔台股做基本面分析的投影片簡報檔，傳給 LINE 官方帳號",
+      "how": "online"
+    },
+    {
+      "stage": "個股研究分析獎複賽",
+      "what": "3 分鐘口頭報告",
+      "how": "onsite"
+    },
+    {
+      "stage": "數位社群影響力-個人賽",
+      "what": "分享投資競賽經驗的短影音，上傳個人 Instagram 並標記 #台新證券 #全國高中職競賽",
+      "how": "online"
+    },
+    {
+      "stage": "數位工具應用-個人賽",
+      "what": "運用好富投 App 選股操作的成果影片",
+      "how": "unknown"
+    }
+  ],
+  "attendance": {
+    "value": "finalists",
+    "where": "集思台大會議中心",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/08/2026-健行科大全國高中職投資競賽規則說明.pdf",
+        "quote": "通過初賽的參賽者們將進入複賽"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/08/2026-健行科大全國高中職投資競賽規則說明.pdf",
+        "quote": "複賽日期：2026 年12 月6 日至集思台大會議中心進行3 分鐘口頭報告。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.tngs.tn.edu.tw/2026/08/11/%e3%80%8c2026%e5%85%a8%e5%9c%8b%e9%ab%98%e4%b8%ad%e8%81%b7%e6%8a%95%e8%b3%87%e7%ab%b6%e8%b3%bd%e3%80%8d%e5%85%ac%e5%91%8a/"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/08/2026-健行科大全國高中職投資競賽規則說明.pdf"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "股市模擬交易個人賽前五名 10,000 至 1,000 元、團體賽前三名 15,000 至 10,000 元，皆附獎狀；個股研究分析獎第一名 5,000 元、第二名 4,000 元、第三名 3,000 元、優選五名各 2,000 元、佳作十名各 1,000 元並頒獎狀，進入複賽者補助交通費；數位社群影響力前 50 名各得 300 元全家禮券；數位工具應用前三名 5,000、4,000、3,000 元。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/08/2026-健行科大全國高中職投資競賽規則說明.pdf",
+        "quote": "取最佳績效前五名，頒予獎金與獎狀："
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/08/2026-健行科大全國高中職投資競賽規則說明.pdf",
+        "quote": "第一名10,000 元"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/08/2026-健行科大全國高中職投資競賽規則說明.pdf",
+        "quote": "第五名1,000 元"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/08/2026-健行科大全國高中職投資競賽規則說明.pdf",
+        "quote": "取最佳績效前三名，頒予獎金與獎狀："
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/08/2026-健行科大全國高中職投資競賽規則說明.pdf",
+        "quote": "第一名15,000 元"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/08/2026-健行科大全國高中職投資競賽規則說明.pdf",
+        "quote": "第三名10,000 元"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/08/2026-健行科大全國高中職投資競賽規則說明.pdf",
+        "quote": "由台新證券團隊進行評選，頒予獎金與獎狀："
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/08/2026-健行科大全國高中職投資競賽規則說明.pdf",
+        "quote": "優選獎五名，每名2,000 元"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/08/2026-健行科大全國高中職投資競賽規則說明.pdf",
+        "quote": "佳作獎十名，每名1,000 元"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/08/2026-健行科大全國高中職投資競賽規則說明.pdf",
+        "quote": "進入複賽之參賽者補助其交通費，最高補助自強號票價來回。"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/08/2026-健行科大全國高中職投資競賽規則說明.pdf",
+        "quote": "前50 名: $300 全家禮券"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/08/2026-健行科大全國高中職投資競賽規則說明.pdf",
+        "quote": "第 1 名: $5,000，第 2 名: $4,000，第 3 名: $3,000"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.tngs.tn.edu.tw/2026/08/11/%e3%80%8c2026%e5%85%a8%e5%9c%8b%e9%ab%98%e4%b8%ad%e8%81%b7%e6%8a%95%e8%b3%87%e7%ab%b6%e8%b3%bd%e3%80%8d%e5%85%ac%e5%91%8a/"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/08/2026-健行科大全國高中職投資競賽規則說明.pdf"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://www.tssco.com.tw/zip/2026youth/",
+    "rules": [
+      {
+        "title": "2026 健行科大全國高中職投資競賽規則說明",
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/08/2026-健行科大全國高中職投資競賽規則說明.pdf"
+      }
+    ],
+    "registration": "https://forms.gle/JY9ndVVLdgVYfayj8"
+  },
+  "found_via": [
+    {
+      "name": "臺南女中 學生競賽",
+      "url": "https://www.tngs.tn.edu.tw/2026/08/11/%e3%80%8c2026%e5%85%a8%e5%9c%8b%e9%ab%98%e4%b8%ad%e8%81%b7%e6%8a%95%e8%b3%87%e7%ab%b6%e8%b3%bd%e3%80%8d%e5%85%ac%e5%91%8a/"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-24",
+    "method": "single",
+    "unread": [
+      "競賽海報"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-24",
+  "conflict": "規則說明第五點「個股研究分析獎」寫複賽於當天 11/28 進行 3 分鐘口頭報告，第六點競賽日程與第八點流程則寫複賽為 2026 年 12 月 6 日。規則說明第四點的活動報名網站與第七點的報名表單是兩個不同的 Google 表單網址。",
+  "level": "checked",
+  "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-uch-hs-investment/",
+  "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-uch-hs-investment.md"
+}

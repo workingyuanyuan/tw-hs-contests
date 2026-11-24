@@ -3,7 +3,7 @@ title: "2026 全國新零售競賽"
 description: "1 至 6 名高中職生組隊並由老師指導，完成電商平台佈置、一頁企畫書 PDF 與社群行銷，線上繳件參賽。"
 appliesTo: "2026 這一屆"
 caveat: "日期與時間都是臺灣時間。"
-lastVerified: 2026-11-21
+lastVerified: 2026-11-24
 kind: "contest"
 deadline: "2026-12-25"
 sources:

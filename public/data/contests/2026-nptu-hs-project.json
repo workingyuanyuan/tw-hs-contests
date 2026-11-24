@@ -1,0 +1,246 @@
+{
+  "schema": 1,
+  "id": "2026-nptu-hs-project",
+  "title": "2026 全國高中職專題競賽",
+  "edition": "2026",
+  "summary": "高中職學生組隊依資訊、商業、電子機械領域上傳專題海報，再到屏東大學現場發表。",
+  "organizers": [
+    {
+      "name": "國立屏東大學資訊學院",
+      "role": "主辦"
+    },
+    {
+      "name": "教育部",
+      "role": "指導"
+    }
+  ],
+  "categories": [
+    "資訊與 AI",
+    "商管與行銷",
+    "工程與製造"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職",
+      "五專"
+    ],
+    "division": "hs_only",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": null,
+    "team_max": null,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=eFUxcHhPRE4wT2NyQ2t1QS9EUktpWWlaZUZPb1h1cjAzOUF0VFRyLzZhYXI2OVpXcm92Q21QdU95NktycTF6QVUzekM4Vkg4Q295Q0tuaTM1T2tkUy9Pekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=NnlHV0NqdWRpRnAyR2Z6SEFhZG5pakxwd1ZWdDFtM3JqZkFuQ1RkeGwxWT0=",
+        "quote": "三、對象：全國高中（職）學生"
+      },
+      {
+        "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=eFUxcHhPRE4wT2NyQ2t1QS9EUktpWWlaZUZPb1h1cjAzOUF0VFRyLzZhYUlvRjdOT2tHVzUwOTl5OGdNdEFyYVkra01HcnE3MW4ybWNrSTJWUTFkTGZPekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=R1dEYTF2SDhXckZXMVVoV0pEMUJEQkIrL2h2dkhjd205MktOMGxtcTNvVXBWQi9pRTJGd09tVHljUUJ4OVdRWg==",
+        "quote": "故就讀五專一至三年級的學生可報名參賽。"
+      },
+      {
+        "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=eFUxcHhPRE4wT2NyQ2t1QS9EUktpWWlaZUZPb1h1cjAzOUF0VFRyLzZhYUlvRjdOT2tHVzUwOTl5OGdNdEFyYVkra01HcnE3MW4ybWNrSTJWUTFkTGZPekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=R1dEYTF2SDhXckZXMVVoV0pEMUJEQkIrL2h2dkhjd205MktOMGxtcTNvVXBWQi9pRTJGd09tVHljUUJ4OVdRWg==",
+        "quote": "每組以3~5 人為佳(僅建議，人數少於3 人或多於5 人也可報名)。"
+      },
+      {
+        "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=eFUxcHhPRE4wT2NyQ2t1QS9EUktpWWlaZUZPb1h1cjAzOUF0VFRyLzZhYXI2OVpXcm92Q21QdU95NktycTF6QVUzekM4Vkg4Q295Q0tuaTM1T2tkUy9Pekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=NnlHV0NqdWRpRnAyR2Z6SEFhZG5pakxwd1ZWdDFtM3JqZkFuQ1RkeGwxWT0=",
+        "quote": "至活動網站點選1 我要報名，將資料填列完成後送出。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "填寫報名表截止",
+      "date": "2026-10-25",
+      "time": null,
+      "original": "115年9月1日(星期二)至10月25日(星期日)止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://dlsh.tc.edu.tw/p/406-1068-639881,r2145.php?Lang=zh-tw",
+          "quote": "１、 填寫報名表：115年9月1日(星期二)至10月25日(星期日)止。"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "上傳競賽海報截止",
+      "date": "2026-11-08",
+      "time": null,
+      "original": "115年11月8日(星期日)截止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://dlsh.tc.edu.tw/p/406-1068-639881,r2145.php?Lang=zh-tw",
+          "quote": "２、 上傳競賽海報：115年11月8日(星期日)截止"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "寄發出席調查",
+      "date": "2026-11-16",
+      "time": null,
+      "original": "11 月16 日 (星期一)前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=eFUxcHhPRE4wT2NyQ2t1QS9EUktpWWlaZUZPb1h1cjAzOUF0VFRyLzZhYXI2OVpXcm92Q21QdU95NktycTF6QVUzekM4Vkg4Q295Q0tuaTM1T2tkUy9Pekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=NnlHV0NqdWRpRnAyR2Z6SEFhZG5pakxwd1ZWdDFtM3JqZkFuQ1RkeGwxWT0=",
+          "quote": "三、出席確認：預計11 月16 日 (星期一)前寄發出席調查，請於一星期內回覆活動當天出席人數。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "決賽",
+      "date": "2026-12-06",
+      "time": "09:00",
+      "original": "115年12月6日(星期日)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://dlsh.tc.edu.tw/p/406-1068-639881,r2145.php?Lang=zh-tw",
+          "quote": "(二) 活動日期：115年12月6日(星期日)。"
+        },
+        {
+          "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=eFUxcHhPRE4wT2NyQ2t1QS9EUktpWWlaZUZPb1h1cjAzOUF0VFRyLzZhYXI2OVpXcm92Q21QdU95NktycTF6QVUzekM4Vkg4Q295Q0tuaTM1T2tkUy9Pekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=NnlHV0NqdWRpRnAyR2Z6SEFhZG5pakxwd1ZWdDFtM3JqZkFuQ1RkeGwxWT0=",
+          "quote": "四、決賽：12 月6 日 (星期日)依時程至活動地點進行決賽。"
+        },
+        {
+          "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=eFUxcHhPRE4wT2NyQ2t1QS9EUktpWWlaZUZPb1h1cjAzOUF0VFRyLzZhYXI2OVpXcm92Q21QdU95NktycTF6QVUzekM4Vkg4Q295Q0tuaTM1T2tkUy9Pekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=NnlHV0NqdWRpRnAyR2Z6SEFhZG5pakxwd1ZWdDFtM3JqZkFuQ1RkeGwxWT0=",
+          "quote": "9:00 ~ 9:30 30’ 報到"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名",
+      "what": "線上報名表（以 Google 帳號登入）",
+      "how": "online"
+    },
+    {
+      "stage": "海報上傳",
+      "what": "依公版格式製作的專題海報，PDF 或 PNG",
+      "how": "online"
+    },
+    {
+      "stage": "決賽",
+      "what": "自行印製的 A0 海報、5 分鐘中文或英文簡報與成果作品",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "國立屏東大學屏商校區風雨球場",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=eFUxcHhPRE4wT2NyQ2t1QS9EUktpWWlaZUZPb1h1cjAzOUF0VFRyLzZhYUlvRjdOT2tHVzUwOTl5OGdNdEFyYVkra01HcnE3MW4ybWNrSTJWUTFkTGZPekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=R1dEYTF2SDhXckZXMVVoV0pEMUJEQkIrL2h2dkhjd205MktOMGxtcTNvVXBWQi9pRTJGd09tVHljUUJ4OVdRWg==",
+        "quote": "本競賽無初審機制，線上報名並完成競賽資料(海報)上傳後，請準時於活動當日至會場進行競賽即可。"
+      },
+      {
+        "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=eFUxcHhPRE4wT2NyQ2t1QS9EUktpWWlaZUZPb1h1cjAzOUF0VFRyLzZhYXI2OVpXcm92Q21QdU95NktycTF6QVUzekM4Vkg4Q295Q0tuaTM1T2tkUy9Pekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=NnlHV0NqdWRpRnAyR2Z6SEFhZG5pakxwd1ZWdDFtM3JqZkFuQ1RkeGwxWT0=",
+        "quote": "二、地點：國立屏東大學屏商校區風雨球場"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://dlsh.tc.edu.tw/p/406-1068-639881,r2145.php?Lang=zh-tw"
+      },
+      {
+        "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=eFUxcHhPRE4wT2NyQ2t1QS9EUktpWWlaZUZPb1h1cjAzOUF0VFRyLzZhYXI2OVpXcm92Q21QdU95NktycTF6QVUzekM4Vkg4Q295Q0tuaTM1T2tkUy9Pekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=NnlHV0NqdWRpRnAyR2Z6SEFhZG5pakxwd1ZWdDFtM3JqZkFuQ1RkeGwxWT0="
+      },
+      {
+        "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=eFUxcHhPRE4wT2NyQ2t1QS9EUktpWWlaZUZPb1h1cjAzOUF0VFRyLzZhYUlvRjdOT2tHVzUwOTl5OGdNdEFyYVkra01HcnE3MW4ybWNrSTJWUTFkTGZPekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=R1dEYTF2SDhXckZXMVVoV0pEMUJEQkIrL2h2dkhjd205MktOMGxtcTNvVXBWQi9pRTJGd09tVHljUUJ4OVdRWg=="
+      }
+    ]
+  },
+  "prizes": {
+    "text": "各領域第一名獎盃、獎金 5,000 元及獎狀；第二名獎盃、獎金 3,000 元及獎狀；第三名獎盃、獎金 2,000 元及獎狀；優勝若干組，獎金 1,000 元及獎狀。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=eFUxcHhPRE4wT2NyQ2t1QS9EUktpWWlaZUZPb1h1cjAzOUF0VFRyLzZhYXI2OVpXcm92Q21QdU95NktycTF6QVUzekM4Vkg4Q295Q0tuaTM1T2tkUy9Pekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=NnlHV0NqdWRpRnAyR2Z6SEFhZG5pakxwd1ZWdDFtM3JqZkFuQ1RkeGwxWT0=",
+        "quote": "1. 第一名：獎盃、獎金5,000 元及獎狀"
+      },
+      {
+        "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=eFUxcHhPRE4wT2NyQ2t1QS9EUktpWWlaZUZPb1h1cjAzOUF0VFRyLzZhYXI2OVpXcm92Q21QdU95NktycTF6QVUzekM4Vkg4Q295Q0tuaTM1T2tkUy9Pekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=NnlHV0NqdWRpRnAyR2Z6SEFhZG5pakxwd1ZWdDFtM3JqZkFuQ1RkeGwxWT0=",
+        "quote": "2. 第二名：獎盃、獎金3,000 元及獎狀"
+      },
+      {
+        "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=eFUxcHhPRE4wT2NyQ2t1QS9EUktpWWlaZUZPb1h1cjAzOUF0VFRyLzZhYXI2OVpXcm92Q21QdU95NktycTF6QVUzekM4Vkg4Q295Q0tuaTM1T2tkUy9Pekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=NnlHV0NqdWRpRnAyR2Z6SEFhZG5pakxwd1ZWdDFtM3JqZkFuQ1RkeGwxWT0=",
+        "quote": "3. 第三名：獎盃、獎金2,000 元及獎狀"
+      },
+      {
+        "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=eFUxcHhPRE4wT2NyQ2t1QS9EUktpWWlaZUZPb1h1cjAzOUF0VFRyLzZhYXI2OVpXcm92Q21QdU95NktycTF6QVUzekM4Vkg4Q295Q0tuaTM1T2tkUy9Pekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=NnlHV0NqdWRpRnAyR2Z6SEFhZG5pakxwd1ZWdDFtM3JqZkFuQ1RkeGwxWT0=",
+        "quote": "4. 優勝：獎金1,000 元及獎狀，若干組"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=eFUxcHhPRE4wT2NyQ2t1QS9EUktpWWlaZUZPb1h1cjAzOUF0VFRyLzZhYXI2OVpXcm92Q21QdU95NktycTF6QVUzekM4Vkg4Q295Q0tuaTM1T2tkUy9Pekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=NnlHV0NqdWRpRnAyR2Z6SEFhZG5pakxwd1ZWdDFtM3JqZkFuQ1RkeGwxWT0="
+      },
+      {
+        "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=eFUxcHhPRE4wT2NyQ2t1QS9EUktpWWlaZUZPb1h1cjAzOUF0VFRyLzZhYUlvRjdOT2tHVzUwOTl5OGdNdEFyYVkra01HcnE3MW4ybWNrSTJWUTFkTGZPekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=R1dEYTF2SDhXckZXMVVoV0pEMUJEQkIrL2h2dkhjd205MktOMGxtcTNvVXBWQi9pRTJGd09tVHljUUJ4OVdRWg=="
+      }
+    ]
+  },
+  "links": {
+    "official": "https://ccsnptu.wixsite.com/contest",
+    "rules": [
+      {
+        "title": "活動簡章",
+        "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=eFUxcHhPRE4wT2NyQ2t1QS9EUktpWWlaZUZPb1h1cjAzOUF0VFRyLzZhYXI2OVpXcm92Q21QdU95NktycTF6QVUzekM4Vkg4Q295Q0tuaTM1T2tkUy9Pekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=NnlHV0NqdWRpRnAyR2Z6SEFhZG5pakxwd1ZWdDFtM3JqZkFuQ1RkeGwxWT0="
+      },
+      {
+        "title": "常見問題",
+        "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=eFUxcHhPRE4wT2NyQ2t1QS9EUktpWWlaZUZPb1h1cjAzOUF0VFRyLzZhYUlvRjdOT2tHVzUwOTl5OGdNdEFyYVkra01HcnE3MW4ybWNrSTJWUTFkTGZPekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=R1dEYTF2SDhXckZXMVVoV0pEMUJEQkIrL2h2dkhjd205MktOMGxtcTNvVXBWQi9pRTJGd09tVHljUUJ4OVdRWg=="
+      }
+    ],
+    "registration": null
+  },
+  "found_via": [
+    {
+      "name": "大里高中 校外活動與競賽",
+      "url": "https://dlsh.tc.edu.tw/p/406-1068-639881,r2145.php?Lang=zh-tw"
+    },
+    {
+      "name": "大里高中 校外活動與競賽",
+      "url": "https://dlsh.tc.edu.tw/p/406-1068-619145,r2145.php?Lang=zh-tw"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-24",
+    "method": "single",
+    "unread": [
+      "公文.pdf",
+      "活動海報 dm.png",
+      "活動網站的公版海報格式"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-24",
+  "level": "checked",
+  "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-nptu-hs-project/",
+  "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-nptu-hs-project.md"
+}

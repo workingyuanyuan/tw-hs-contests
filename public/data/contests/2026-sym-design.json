@@ -228,19 +228,20 @@
     }
   ],
   "verification": {
-    "last_verified": "2026-11-21",
-    "method": "single",
+    "last_verified": "2026-11-24",
+    "method": "dual",
     "unread": [
       "2027 SYM 三陽創新設計大賽｜著作授權同意書.pdf"
     ],
     "note": null,
     "readers": [
-      "gemini-4-hydrogen-medium"
+      "gemini-4-hydrogen-medium",
+      "claude-opus-5-5"
     ]
   },
   "first_seen": "2026-11-20",
   "updated": "2026-11-20",
-  "level": "checked",
+  "level": "verified",
   "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-sym-design/",
   "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-sym-design.md"
 }

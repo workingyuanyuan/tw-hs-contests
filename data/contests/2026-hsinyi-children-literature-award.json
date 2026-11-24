@@ -1,0 +1,198 @@
+{
+  "schema": 1,
+  "id": "2026-hsinyi-children-literature-award",
+  "title": "第39屆信誼幼兒文學獎",
+  "edition": "第 39 屆",
+  "summary": "個人或團體以華文創作幼兒圖畫書或五千字以上兒童文學作品，線上報名並郵寄作品。",
+  "organizers": [
+    {
+      "name": "信誼幼兒文學獎籌備委員會",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "語文與寫作",
+    "美術"
+  ],
+  "eligibility": {
+    "levels": [
+      "國小",
+      "國中",
+      "高中",
+      "高職",
+      "五專",
+      "大專",
+      "社會人士"
+    ],
+    "division": "mixed",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": null,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://childrenliteratureaward.hsin-yi.org.tw/Download/39屆信誼幼兒文學獎徵獎辦法.pdf",
+        "quote": "不限個人或團體參賽，惟共同創作者須於賽前協調版權歸屬。"
+      },
+      {
+        "url": "https://childrenliteratureaward.hsin-yi.org.tw/Download/39屆信誼幼兒文學獎徵獎辦法.pdf",
+        "quote": "2.請至信誼幼兒文學獎官網填寫報名資料。"
+      },
+      {
+        "url": "https://childrenliteratureaward.hsin-yi.org.tw/Download/39屆信誼幼兒文學獎徵獎辦法.pdf",
+        "quote": "3.同一稿件不得報名兩個組別，請擇一參賽。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "submission_deadline",
+      "label": "收件截止",
+      "date": "2026-12-15",
+      "time": null,
+      "original": "2026年12月1日至12月15日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://childrenliteratureaward.hsin-yi.org.tw/Download/39屆信誼幼兒文學獎徵獎辦法.pdf",
+          "quote": "1.收件日期：2026年12月1日至12月15日。"
+        },
+        {
+          "url": "https://bhuntr.com/tw/competitions/fjgoynhxiyj6a2fp3d",
+          "quote": "1. 收件日期：2026年12月1日至12月15日。"
+        }
+      ]
+    },
+    {
+      "kind": "shortlist_announcement",
+      "label": "入圍名單公布",
+      "date": null,
+      "time": null,
+      "original": "2027年3月中旬",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://bhuntr.com/tw/competitions/fjgoynhxiyj6a2fp3d",
+          "quote": "入圍名單將於2027年3月中旬公布於信誼幼兒文學獎官網，並e-mail通知入圍者。"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "頒獎典禮揭曉得獎結果",
+      "date": null,
+      "time": null,
+      "original": "2027年4月",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://bhuntr.com/tw/competitions/fjgoynhxiyj6a2fp3d",
+          "quote": "得獎結果將於2027年4月頒獎典禮揭曉，頒獎日期及得獎名單將刊登於信誼幼兒文學獎官網。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名",
+      "what": "於信誼幼兒文學獎官網線上填寫報名資料",
+      "how": "online"
+    },
+    {
+      "stage": "幼兒圖畫書組",
+      "what": "彩印樣書 1 本及原畫；電腦繪圖作品為彩印樣書 1 本及原始圖檔檔案，以掛號郵寄或親送",
+      "how": "mail"
+    },
+    {
+      "stage": "兒童文學組",
+      "what": "上傳作品檔案（Word 或 PDF），並郵寄 A4 列印稿一份",
+      "how": "mail"
+    }
+  ],
+  "attendance": {
+    "value": "none",
+    "where": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://childrenliteratureaward.hsin-yi.org.tw/Download/39屆信誼幼兒文學獎徵獎辦法.pdf"
+      },
+      {
+        "url": "https://bhuntr.com/tw/competitions/fjgoynhxiyj6a2fp3d"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://childrenliteratureaward.hsin-yi.org.tw/Download/39屆信誼幼兒文學獎徵獎辦法.pdf"
+      },
+      {
+        "url": "https://bhuntr.com/tw/competitions/fjgoynhxiyj6a2fp3d"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "幼兒圖畫書組、兒童文學組各設首獎 1 名（獎金二十萬元、獎牌乙座）與佳作 1 名（獎金五萬元、獎牌乙座）；作品未達水準得從缺。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://childrenliteratureaward.hsin-yi.org.tw/Download/39屆信誼幼兒文學獎徵獎辦法.pdf",
+        "quote": "● 首獎一名，獎金二十萬元，獎牌乙座"
+      },
+      {
+        "url": "https://childrenliteratureaward.hsin-yi.org.tw/Download/39屆信誼幼兒文學獎徵獎辦法.pdf",
+        "quote": "● 佳作一名，獎金五萬元，獎牌乙座"
+      },
+      {
+        "url": "https://bhuntr.com/tw/competitions/fjgoynhxiyj6a2fp3d",
+        "quote": "決選選出各組首獎一名及佳作一名。如作品未達水準，評審委員得決議獎項從缺。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "banned",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://childrenliteratureaward.hsin-yi.org.tw/Download/39屆信誼幼兒文學獎徵獎辦法.pdf",
+        "quote": "參賽作品須為原創，禁止抄襲或應用任何AI方式生成文字及圖畫。"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://childrenliteratureaward.hsin-yi.org.tw/",
+    "rules": [
+      {
+        "title": "第39屆信誼幼兒文學獎徵獎辦法（PDF）",
+        "url": "https://childrenliteratureaward.hsin-yi.org.tw/Download/39屆信誼幼兒文學獎徵獎辦法.pdf"
+      }
+    ],
+    "registration": null
+  },
+  "found_via": [
+    {
+      "name": "bhuntr.com",
+      "url": "https://bhuntr.com/tw/competitions/fjgoynhxiyj6a2fp3d"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-24",
+    "method": "dual",
+    "unread": [],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5",
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-20",
+  "updated": "2026-11-24"
+}

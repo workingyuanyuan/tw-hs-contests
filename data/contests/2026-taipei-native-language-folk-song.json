@@ -1,0 +1,363 @@
+{
+  "schema": 1,
+  "id": "2026-taipei-native-language-folk-song",
+  "title": "臺北市115學年度師生本土語及新住民語歌謠比賽",
+  "edition": "115 學年度",
+  "summary": "臺北市學校以校為單位組 10 至 65 人合唱隊，以本土語或新住民語現場演唱兩首歌曲。",
+  "organizers": [
+    {
+      "name": "教育部",
+      "role": "指導"
+    },
+    {
+      "name": "國立臺灣藝術教育館",
+      "role": "指導"
+    },
+    {
+      "name": "臺北市政府教育局",
+      "role": "主辦"
+    },
+    {
+      "name": "臺北市萬華區萬大國民小學",
+      "role": "承辦"
+    },
+    {
+      "name": "臺北市信義區光復國民小學",
+      "role": "協辦"
+    },
+    {
+      "name": "臺北市萬華區老松國民小學",
+      "role": "協辦"
+    }
+  ],
+  "categories": [
+    "音樂"
+  ],
+  "eligibility": {
+    "levels": [
+      "國小",
+      "國中",
+      "高中",
+      "高職",
+      "五專"
+    ],
+    "division": "separate",
+    "regions": [
+      "臺北市"
+    ],
+    "nomination": "school",
+    "team_min": 10,
+    "team_max": 65,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.ttsh.tp.edu.tw/view-doc/12/本土語及新住民語歌謠比賽實施計畫.pdf",
+        "quote": "高中職組（就讀於臺北市公私立高級中學高中部及高級職業學校、五專一、二、三年級及七年一貫制大學之一、二、三年級之學生組成之團隊，不得跨校組隊。"
+      },
+      {
+        "url": "https://www.ttsh.tp.edu.tw/view-doc/12/本土語及新住民語歌謠比賽實施計畫.pdf",
+        "quote": "舞臺上全員人數以10至65人為限（包含指揮、伴奏及翻譜人員，不含候補人員）"
+      },
+      {
+        "url": "https://www.ttsh.tp.edu.tw/view-doc/12/本土語及新住民語歌謠比賽實施計畫.pdf",
+        "quote": "以學校為單位統一報名，於臺北市五項藝術比賽專屬網站登錄報名資料。"
+      },
+      {
+        "url": "https://www.ttsh.tp.edu.tw/view-doc/12/本土語及新住民語歌謠比賽實施計畫.pdf",
+        "quote": "每類之各組別每校只得各報名1隊。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "網路登錄報名及上傳核章報名表截止",
+      "date": "2026-09-11",
+      "time": "23:59",
+      "original": "115年9月11日（星期五）23:59:59止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.ttsh.tp.edu.tw/view-doc/12/本土語及新住民語歌謠比賽實施計畫.pdf",
+          "quote": "網路登錄報名及列印報名表日期：自115年8月31日（星期一）9:00至9月11日（星期五）23:59:59止"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "公告賽程表及秩序冊",
+      "date": "2026-10-12",
+      "time": null,
+      "original": "115年10月12日（星期一）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.ttsh.tp.edu.tw/view-doc/12/本土語及新住民語歌謠比賽實施計畫.pdf",
+          "quote": "並於115年10月12日（星期一）上網公告賽程表及參賽人員秩序冊。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "秩序冊勘誤申請截止",
+      "date": "2026-10-16",
+      "time": null,
+      "original": "115年10月12日（星期一）至10月16日（星期五）止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.ttsh.tp.edu.tw/view-doc/12/本土語及新住民語歌謠比賽實施計畫.pdf",
+          "quote": "勘誤申請：115年10月12日（星期一）至10月16日（星期五）止"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "領隊會議",
+      "date": "2026-11-11",
+      "time": null,
+      "original": "115年11月11日（星期三）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.ttsh.tp.edu.tw/view-doc/12/本土語及新住民語歌謠比賽實施計畫.pdf",
+          "quote": "領隊會議 115年11月11日（星期三） 於臺北市萬華區萬大國小召開。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "比賽（第一日）",
+      "date": "2026-12-04",
+      "time": null,
+      "original": "115年12月4日（星期五）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.ttsh.tp.edu.tw/view-doc/12/本土語及新住民語歌謠比賽實施計畫.pdf",
+          "quote": "比賽日期：115年12月4日（星期五）、12月7日（星期一）和12月8日（星期二）"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "比賽（第二日）",
+      "date": "2026-12-07",
+      "time": null,
+      "original": "12月7日（星期一）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.ttsh.tp.edu.tw/view-doc/12/本土語及新住民語歌謠比賽實施計畫.pdf",
+          "quote": "比賽日期：115年12月4日（星期五）、12月7日（星期一）和12月8日（星期二）"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "比賽（第三日）",
+      "date": "2026-12-08",
+      "time": null,
+      "original": "12月8日（星期二）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.ttsh.tp.edu.tw/view-doc/12/本土語及新住民語歌謠比賽實施計畫.pdf",
+          "quote": "比賽日期：115年12月4日（星期五）、12月7日（星期一）和12月8日（星期二）"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "成績公告（比賽當日現場公告）",
+      "date": "2026-12-04",
+      "time": null,
+      "original": "115年12月4日（星期五）起",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.ttsh.tp.edu.tw/view-doc/12/本土語及新住民語歌謠比賽實施計畫.pdf",
+          "quote": "成績公告 115年12月4日（星期五）起 比賽當日成績於各比賽場地現場公告，並於次日（工作日）中午前上網公告比賽結果。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "公告全國決賽代表名單及遞補順序",
+      "date": "2026-12-10",
+      "time": null,
+      "original": "115年12月10日（星期四）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.ttsh.tp.edu.tw/view-doc/12/本土語及新住民語歌謠比賽實施計畫.pdf",
+          "quote": "公告決賽代表名單及各類各組分區無參賽者遞補順序 115年12月10日（星期四）"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "具代表權及遞補資格學校填報參賽意願截止",
+      "date": "2026-12-11",
+      "time": "17:00",
+      "original": "115年12月11日（星期五）下午5時前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.ttsh.tp.edu.tw/view-doc/12/本土語及新住民語歌謠比賽實施計畫.pdf",
+          "quote": "具遞補資格學校：須於115年12月11日（星期五）17:00前至臺北市五項藝術比賽網站填報參賽意願"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "具代表權學校完成全國賽報名截止",
+      "date": "2026-12-14",
+      "time": null,
+      "original": "115年12月14日（星期一）前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.ttsh.tp.edu.tw/view-doc/12/本土語及新住民語歌謠比賽實施計畫.pdf",
+          "quote": "填報同意者逕依規定於115年12月14日（星期一）前依報名全國決賽之規定完成全國賽報名。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "全國決賽報名表郵寄截止（郵戳為憑）",
+      "date": "2026-12-21",
+      "time": null,
+      "original": "115年12月21日（星期一）前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.ttsh.tp.edu.tw/view-doc/12/本土語及新住民語歌謠比賽實施計畫.pdf",
+          "quote": "全國決賽上網登記報名及報名表繳交 115年12月21日（星期一）前"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "獎狀領取",
+      "date": "2026-12-24",
+      "time": null,
+      "original": "115年12月22日（星期二）至115年12月24日（星期四）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.ttsh.tp.edu.tw/view-doc/12/本土語及新住民語歌謠比賽實施計畫.pdf",
+          "quote": "115年12月22日（星期二） 至 115年12月24日（星期四） 每日9:00至15:00"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名",
+      "what": "網路登錄報名資料，列印報名表及報名清冊經學校核章後掃描上傳",
+      "how": "online"
+    },
+    {
+      "stage": "報到",
+      "what": "參賽者名冊一式兩份（附照片），比賽前 30 分鐘報到檢錄",
+      "how": "onsite"
+    },
+    {
+      "stage": "比賽",
+      "what": "合唱演出指定曲與自選曲或自選曲二首，總長不超過 10 分鐘",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "臺北市萬華區老松國民小學",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.ttsh.tp.edu.tw/view-doc/12/本土語及新住民語歌謠比賽實施計畫.pdf",
+        "quote": "比賽地點：臺北市萬華區老松國民小學（地址：108312臺北市萬華區桂林路64號）。"
+      },
+      {
+        "url": "https://www.ttsh.tp.edu.tw/view-doc/12/本土語及新住民語歌謠比賽實施計畫.pdf",
+        "quote": "比賽時全員須同時上臺"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.ttsh.tp.edu.tw/view-doc/12/本土語及新住民語歌謠比賽實施計畫.pdf"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "依平均分數評等第：特優 90 分以上、優等 85 至未滿 90 分、甲等 80 至未滿 85 分，優勝團體由主辦單位頒發獎狀；各區各組各類第一名代表臺北市參加全國決賽。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.ttsh.tp.edu.tw/view-doc/12/本土語及新住民語歌謠比賽實施計畫.pdf",
+        "quote": "特優：其平均分數在90分（含）以上者。"
+      },
+      {
+        "url": "https://www.ttsh.tp.edu.tw/view-doc/12/本土語及新住民語歌謠比賽實施計畫.pdf",
+        "quote": "優等：85分（含）以上未滿90分者。"
+      },
+      {
+        "url": "https://www.ttsh.tp.edu.tw/view-doc/12/本土語及新住民語歌謠比賽實施計畫.pdf",
+        "quote": "甲等：80分（含）以上未滿85分者。"
+      },
+      {
+        "url": "https://www.ttsh.tp.edu.tw/view-doc/12/本土語及新住民語歌謠比賽實施計畫.pdf",
+        "quote": "優勝團體（以學校為單位）由主辦單位頒發獎狀"
+      },
+      {
+        "url": "https://www.ttsh.tp.edu.tw/view-doc/12/本土語及新住民語歌謠比賽實施計畫.pdf",
+        "quote": "以各區各組各類之第一名代表本市參加全國決賽，且第一、二名，不得有同名次。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.ttsh.tp.edu.tw/view-doc/12/本土語及新住民語歌謠比賽實施計畫.pdf"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://www.tpcityart.tp.edu.tw/",
+    "rules": [
+      {
+        "title": "臺北市115學年度師生本土語及新住民語歌謠比賽實施計畫（PDF）",
+        "url": "https://www.ttsh.tp.edu.tw/view-doc/12/本土語及新住民語歌謠比賽實施計畫.pdf"
+      }
+    ],
+    "registration": "https://www.tpcityart.tp.edu.tw/"
+  },
+  "found_via": [
+    {
+      "name": "大同高中 學生競賽活動",
+      "url": "https://www.ttsh.tp.edu.tw/news/%e8%87%ba%e5%8c%97%e5%b8%82115%e5%ad%b8%e5%b9%b4%e5%ba%a6%e5%b8%ab%e7%94%9f%e6%9c%ac%e5%9c%9f%e8%aa%9e%e5%8f%8a%e6%96%b0%e4%bd%8f%e6%b0%91%e8%aa%9e%e6%ad%8c%e8%ac%a0%e6%af%94%e8%b3%bd%e5%af%a6/"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-24",
+    "method": "single",
+    "unread": [
+      "115學年度全國師生本土語及新住民語歌謠比賽實施要點"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-24",
+  "conflict": "實施計畫第拾壹點寫主辦單位於115年12月10日（星期二）公告決賽代表名單，同一計畫的重要日程表則寫115年12月10日（星期四）。"
+}

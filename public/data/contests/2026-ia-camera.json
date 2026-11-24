@@ -170,8 +170,8 @@
     }
   ],
   "verification": {
-    "last_verified": "2026-11-21",
-    "method": "single",
+    "last_verified": "2026-11-24",
+    "method": "dual",
     "unread": [
       "活動官網「活動辦法」分頁（Article.aspx?a=221）",
       "活動官網「活動獎項」分頁（Article.aspx?a=222）",
@@ -181,12 +181,13 @@
     ],
     "note": null,
     "readers": [
-      "gemini-4-hydrogen-medium"
+      "gemini-4-hydrogen-medium",
+      "claude-opus-5-5"
     ]
   },
   "first_seen": "2026-11-20",
   "updated": "2026-11-20",
-  "level": "checked",
+  "level": "verified",
   "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-ia-camera/",
   "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-ia-camera.md"
 }

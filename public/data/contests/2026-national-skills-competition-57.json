@@ -1,0 +1,275 @@
+{
+  "schema": 1,
+  "id": "2026-national-skills-competition-57",
+  "title": "116年度全國技能競賽",
+  "edition": "第57屆",
+  "summary": "符合年齡的我國國民報名各職類，先在北中南分區賽實地操作技能，各職類前 5 名晉級全國賽。",
+  "organizers": [
+    {
+      "name": "勞動部",
+      "role": "指導"
+    },
+    {
+      "name": "勞動部勞動力發展署",
+      "role": "指導"
+    },
+    {
+      "name": "勞動部勞動力發展署技能檢定中心",
+      "role": "主辦"
+    },
+    {
+      "name": "勞動部勞動力發展署桃竹苗分署",
+      "role": "承辦"
+    },
+    {
+      "name": "勞動部勞動力發展署中彰投分署",
+      "role": "承辦"
+    },
+    {
+      "name": "勞動部勞動力發展署雲嘉南分署",
+      "role": "承辦"
+    }
+  ],
+  "categories": [
+    "技藝與技能",
+    "工程與製造",
+    "餐旅"
+  ],
+  "eligibility": {
+    "levels": [
+      "國中",
+      "高中",
+      "高職",
+      "五專",
+      "大專",
+      "社會人士"
+    ],
+    "division": "mixed",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "unknown",
+    "team_min": null,
+    "team_max": null,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28149/%E5%A0%B1%E5%90%8D%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "選手應具有中華民國國籍，青年組限民國95 年1月1 日以後出生者"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28149/%E5%A0%B1%E5%90%8D%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "青少年組限民國100 年1 月1 日至民國103 年12 月31 日間出生者。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28149/%E5%A0%B1%E5%90%8D%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "教育部推薦上年度全國高級中等學校學生技藝競賽相關職類之前3 名參加青年組競賽"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28149/%E5%A0%B1%E5%90%8D%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "推薦當年度直轄市、縣（市）政府國民中學學生技藝競賽相關職類之前3 名參加青少年組競賽。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "分區技能競賽網路報名截止（11 月 24 日起）",
+      "date": "2026-12-07",
+      "time": null,
+      "original": "115年11月24日至12月7日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28817/%E6%8A%80%E6%AA%A2%E4%B8%AD%E5%BF%83%E3%80%8C%E7%AC%AC57%E5%B1%86%E5%85%A8%E5%9C%8B%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E5%88%86%E5%8D%80%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E3%80%8D%E5%85%AC%E6%96%87.pdf",
+          "quote": "並訂於115年11月24日至12月7日開放網路報名"
+        },
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28817/%E6%8A%80%E6%AA%A2%E4%B8%AD%E5%BF%83%E3%80%8C%E7%AC%AC57%E5%B1%86%E5%85%A8%E5%9C%8B%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E5%88%86%E5%8D%80%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E3%80%8D%E6%B5%B7%E5%A0%B1.pdf",
+          "quote": "12.07"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "分區技能競賽青少年組（3 月 22 日至 23 日）",
+      "date": "2027-03-22",
+      "time": null,
+      "original": "3.22-23",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28817/%E6%8A%80%E6%AA%A2%E4%B8%AD%E5%BF%83%E3%80%8C%E7%AC%AC57%E5%B1%86%E5%85%A8%E5%9C%8B%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E5%88%86%E5%8D%80%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E3%80%8D%E6%B5%B7%E5%A0%B1.pdf",
+          "quote": "3.22-23"
+        },
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28817/%E6%8A%80%E6%AA%A2%E4%B8%AD%E5%BF%83%E3%80%8C%E7%AC%AC57%E5%B1%86%E5%85%A8%E5%9C%8B%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E5%88%86%E5%8D%80%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E3%80%8D%E5%85%AC%E6%96%87.pdf",
+          "quote": "分區技能競賽訂於116年3月22日至3月27日於北、中、南三區共同舉辦"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "分區技能競賽青少年組成績公告",
+      "date": "2027-03-24",
+      "time": null,
+      "original": "3.24",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28817/%E6%8A%80%E6%AA%A2%E4%B8%AD%E5%BF%83%E3%80%8C%E7%AC%AC57%E5%B1%86%E5%85%A8%E5%9C%8B%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E5%88%86%E5%8D%80%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E3%80%8D%E6%B5%B7%E5%A0%B1.pdf",
+          "quote": "青少年组3.24"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "分區技能競賽青年組（3 月 25 日至 26 日）",
+      "date": "2027-03-25",
+      "time": null,
+      "original": "3.25-26",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28817/%E6%8A%80%E6%AA%A2%E4%B8%AD%E5%BF%83%E3%80%8C%E7%AC%AC57%E5%B1%86%E5%85%A8%E5%9C%8B%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E5%88%86%E5%8D%80%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E3%80%8D%E6%B5%B7%E5%A0%B1.pdf",
+          "quote": "3.25-26青年组"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "分區技能競賽青年組成績公告",
+      "date": "2027-03-27",
+      "time": null,
+      "original": "3.27",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28817/%E6%8A%80%E6%AA%A2%E4%B8%AD%E5%BF%83%E3%80%8C%E7%AC%AC57%E5%B1%86%E5%85%A8%E5%9C%8B%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E5%88%86%E5%8D%80%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E3%80%8D%E6%B5%B7%E5%A0%B1.pdf",
+          "quote": "青年組3.27"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "全國技能競賽（預定 7 月 21 日至 25 日）",
+      "date": "2027-07-21",
+      "time": null,
+      "original": "預定為116 年7 月21 日至7 月25 日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28149/%E5%A0%B1%E5%90%8D%E7%B0%A1%E7%AB%A0.pdf",
+          "quote": "實際競賽時間（預定為116 年7 月21 日至7 月25 日）"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名",
+      "what": "分區技能競賽網路報名",
+      "how": "online"
+    },
+    {
+      "stage": "分區技能競賽",
+      "what": "依試題實地技能操作，進行加工、裝配、檢修、製作成品或提供服務",
+      "how": "onsite"
+    },
+    {
+      "stage": "全國技能競賽",
+      "what": "依試題實地技能操作",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "北、中、南三區分區賽場",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28149/%E5%A0%B1%E5%90%8D%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "競賽方式以實地技能操作進行。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28817/%E6%8A%80%E6%AA%A2%E4%B8%AD%E5%BF%83%E3%80%8C%E7%AC%AC57%E5%B1%86%E5%85%A8%E5%9C%8B%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E5%88%86%E5%8D%80%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E3%80%8D%E5%85%AC%E6%96%87.pdf",
+        "quote": "分區技能競賽訂於116年3月22日至3月27日於北、中、南三區共同舉辦"
+      }
+    ]
+  },
+  "fee": {
+    "value": "unknown",
+    "amount": null,
+    "basis": "unread",
+    "evidence": []
+  },
+  "prizes": {
+    "text": "分區技能競賽各職類前 5 名晉級全國技能競賽；全國技能競賽前 3 名得報名國手選拔賽，選拔參加亞洲及國際技能競賽的國手。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28149/%E5%A0%B1%E5%90%8D%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "當年度分區技能競賽各區承辦單位推薦每一職類之前5 名晉級全國技能競賽"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28149/%E5%A0%B1%E5%90%8D%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "歷屆獲得全國技能競賽前3 名之選手，年齡須符合國際（或亞洲）技能組織規定"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28149/%E5%A0%B1%E5%90%8D%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "包括116年（2027）亞洲技能競賽及117 年（2028）國際技能競賽之國手選拔"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "unknown",
+    "basis": "unread",
+    "evidence": []
+  },
+  "links": {
+    "official": "https://www.wdasec.gov.tw",
+    "rules": [
+      {
+        "title": "116年度全國技能競賽實施計畫",
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28149/%E5%A0%B1%E5%90%8D%E7%B0%A1%E7%AB%A0.pdf"
+      },
+      {
+        "title": "第57屆全國技能競賽分區技能競賽海報",
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28817/%E6%8A%80%E6%AA%A2%E4%B8%AD%E5%BF%83%E3%80%8C%E7%AC%AC57%E5%B1%86%E5%85%A8%E5%9C%8B%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E5%88%86%E5%8D%80%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E3%80%8D%E6%B5%B7%E5%A0%B1.pdf"
+      },
+      {
+        "title": "教育部國民及學前教育署函（分區技能競賽報名）",
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28817/%E6%8A%80%E6%AA%A2%E4%B8%AD%E5%BF%83%E3%80%8C%E7%AC%AC57%E5%B1%86%E5%85%A8%E5%9C%8B%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E5%88%86%E5%8D%80%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E3%80%8D%E5%85%AC%E6%96%87.pdf"
+      }
+    ],
+    "registration": null
+  },
+  "found_via": [
+    {
+      "name": "苗栗高中 學生校外營隊、活動、比賽",
+      "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=28149"
+    },
+    {
+      "name": "苗栗高中 學生校外營隊、活動、比賽",
+      "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=28817"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-24",
+    "method": "single",
+    "unread": [
+      "第57屆全國技能競賽分區技能競賽簡章",
+      "116年度全國技能競賽簡章"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-24",
+  "level": "checked",
+  "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-national-skills-competition-57/",
+  "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-national-skills-competition-57.md"
+}

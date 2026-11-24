@@ -121,14 +121,9 @@
     ]
   },
   "ai_policy": {
-    "value": "banned",
-    "basis": "quote",
-    "evidence": [
-      {
-        "url": "https://aecyut.cyut.edu.tw/var/file/39/1039/img/455/779609907.pdf",
-        "quote": "影片中的教學者需以參賽人員為主，不得以A I 生成替代，另，請勿使用文字轉語音或AI 語音生成的功能來錄製影片。"
-      }
-    ]
+    "value": "unknown",
+    "basis": "unread",
+    "evidence": []
   },
   "links": {
     "official": "https://aecyut.cyut.edu.tw/p/406-1039-66699,r106.php?Lang=zh-tw",
@@ -160,11 +155,12 @@
   ],
   "verification": {
     "last_verified": "2026-11-21",
-    "method": "single",
+    "method": "dual",
     "unread": [],
-    "note": null,
+    "note": "兩次讀取不一致，未列出：AI 規定：banned 對 restricted",
     "readers": [
-      "gemini-4-hydrogen-medium"
+      "gemini-4-hydrogen-medium",
+      "claude-opus-5-5"
     ]
   },
   "first_seen": "2026-11-20",

@@ -3,7 +3,7 @@
   "id": "2026-chtiia-creative-entrepreneurship",
   "title": "2026全國大專院校暨高中職創意創新創業管理個案專題競賽",
   "edition": "2026",
-  "summary": "大專院校暨高中職師生 2 至 6 人組隊，繳交 10 頁以上創意創新創業管理個案專題報告參與書面評選。",
+  "summary": "大專院校與高中職師生組隊，撰寫創意創新創業管理個案專題報告，以Word與PDF繳交書面審查。",
   "organizers": [
     {
       "name": "中華人文科技創新國際學會",
@@ -32,25 +32,25 @@
     "evidence": [
       {
         "url": "https://sites.google.com/site/ciipcertificate/2026全國大專院校暨高中職創意創新創業管理個案專題競賽",
-        "quote": "參加對象需是國內大專院校暨高中職教師與在學學生（含研究生）。"
+        "quote": "1. 以學生團隊報名參加，學生團隊每組2~6人(含指導老師)，每組搭配有指導老師1~2人。"
       },
       {
         "url": "https://sites.google.com/site/ciipcertificate/2026全國大專院校暨高中職創意創新創業管理個案專題競賽",
-        "quote": "以學生團隊報名參加，學生團隊每組2~6人(含指導老師)，每組搭配有指導老師1~2人。"
+        "quote": "2. 參加對象需是國內大專院校暨高中職教師與在學學生（含研究生）。"
       },
       {
         "url": "https://sites.google.com/site/ciipcertificate/2026全國大專院校暨高中職創意創新創業管理個案專題競賽",
-        "quote": "競賽結束後，以隊為單位，競賽取學生團隊前三名及佳作數名，予以每隊完整參與決賽同學、指導老師："
+        "quote": "以隊為單位，競賽取學生團隊前三名及佳作數名"
       }
     ]
   },
   "dates": [
     {
       "kind": "registration_deadline",
-      "label": "報名及繳件截止",
+      "label": "報名與繳交資料截止",
       "date": "2026-12-25",
       "time": null,
-      "original": "2026 年 12 月 25 日(星期五)",
+      "original": "自公告日起至 2026 年 12 月 25 日(星期五)截止",
       "basis": "quote",
       "evidence": [
         {
@@ -61,7 +61,7 @@
     },
     {
       "kind": "result_announcement",
-      "label": "公布審查結果及得獎名單",
+      "label": "公布審查結果與得獎名單",
       "date": "2026-12-29",
       "time": null,
       "original": "2026 年 12 月 29 日(星期二)",
@@ -76,27 +76,34 @@
   ],
   "deliverables": [
     {
-      "stage": "報名與初審",
-      "what": "線上報名表、全員親筆簽名掃描之著作授權同意書，以及 10 頁以上創意創新與創業提案 Word 與 PDF 電子檔",
+      "stage": "報名",
+      "what": "BeClass 線上報名表",
+      "how": "online"
+    },
+    {
+      "stage": "報名",
+      "what": "全員親筆簽名的授權同意書掃描檔，與創意創新創業提案（Word 與 PDF 各一份，至少 10 頁）以 email 繳交",
       "how": "online"
     }
   ],
   "attendance": {
-    "value": "none",
+    "value": "unknown",
     "where": null,
-    "basis": "absent",
+    "basis": "quote",
     "evidence": [
       {
-        "url": "https://sites.google.com/site/ciipcertificate/2026全國大專院校暨高中職創意創新創業管理個案專題競賽"
+        "url": "https://sites.google.com/site/ciipcertificate/2026全國大專院校暨高中職創意創新創業管理個案專題競賽",
+        "quote": "資料符合規定才可參加競賽、經入圍組別得以繼續進入決賽。"
       },
       {
-        "url": "https://www.beclass.com/rid=305283a6ab1fb5086b9b"
+        "url": "https://sites.google.com/site/ciipcertificate/2026全國大專院校暨高中職創意創新創業管理個案專題競賽",
+        "quote": "1. 競賽評審方式以書面審查方式進行。"
       }
     ]
   },
   "fee": {
     "value": "required",
-    "amount": "每隊 1,000 元",
+    "amount": "1千元",
     "basis": "quote",
     "evidence": [
       {
@@ -106,7 +113,7 @@
     ]
   },
   "prizes": {
-    "text": "以隊為單位，第一名團體獎狀及獎金 3,000 元、第二名團體獎狀及獎金 2,000 元、第三名團體獎狀及獎金 1,000 元、佳作數名團體獎狀（並列前三名僅頒發獎狀）。",
+    "text": "學生團隊第一名獎金 3 千元、第二名 2 千元、第三名 1 千元，皆附團體獎狀；佳作數名頒團體獎狀。增加的並列前三名只有獎狀。",
     "basis": "quote",
     "evidence": [
       {
@@ -124,6 +131,10 @@
       {
         "url": "https://sites.google.com/site/ciipcertificate/2026全國大專院校暨高中職創意創新創業管理個案專題競賽",
         "quote": "4.佳作數名以上予隊員團體獎狀一只。"
+      },
+      {
+        "url": "https://sites.google.com/site/ciipcertificate/2026全國大專院校暨高中職創意創新創業管理個案專題競賽",
+        "quote": "PS：主辦單位得視情況增加並列前三名，但獲得並列得獎者僅有獎狀，並無獎金。"
       }
     ]
   },
@@ -146,13 +157,17 @@
     "official": "https://sites.google.com/site/ciipcertificate/2026全國大專院校暨高中職創意創新創業管理個案專題競賽",
     "rules": [
       {
-        "title": "附件一、二（BeClass 簡章附件）",
+        "title": "附件12（參賽注意事項、授權同意書與報告格式，docx）",
         "url": "https://www.beclass.com/share/202609/1001890050391fmf_0.docx"
       }
     ],
     "registration": "https://www.beclass.com/rid=305283a6ab1fb5086b9b"
   },
   "found_via": [
+    {
+      "name": "sites.google.com",
+      "url": "https://sites.google.com/site/ciipcertificate/2026全國大專院校暨高中職創意創新創業管理個案專題競賽"
+    },
     {
       "name": "BeClass 線上報名暨競賽簡章頁面",
       "url": "https://www.beclass.com/rid=305283a6ab1fb5086b9b"
@@ -167,15 +182,16 @@
     }
   ],
   "verification": {
-    "last_verified": "2026-11-21",
-    "method": "single",
+    "last_verified": "2026-11-24",
+    "method": "dual",
     "unread": [],
     "note": null,
     "readers": [
-      "gemini-4-hydrogen-medium"
+      "claude-opus-5-5",
+      "claude-opus-5-5"
     ]
   },
   "first_seen": "2026-11-20",
-  "updated": "2026-11-21",
-  "conflict": "BeClass 頁面所附之 docx 附件檔內文年份仍標示為 2025 及中華民國 114 年，與學會 2026 競賽官網不同。"
+  "updated": "2026-11-24",
+  "conflict": "BeClass 報名頁所附的附件12（docx）中，授權同意書與內容參考大綱寫「2025全國大專院校暨高中職創意創新創業管理個案專題競賽」、授權日期為民國 114 年；學會網站的 2026 競賽頁附件一、附件二寫 2026 與民國 115 年。"
 }

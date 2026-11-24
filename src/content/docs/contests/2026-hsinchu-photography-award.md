@@ -3,7 +3,7 @@ title: "2026第二屆新竹攝影獎"
 description: "海內外攝影愛好者依不限題材拍攝並沖放8×12吋相片，每人最多10張連同題名表郵寄參賽，入選以上須補交電子檔。"
 appliesTo: "第二屆 這一屆"
 caveat: "高中職學生與大專生或社會人士同組評比。"
-lastVerified: 2026-11-21
+lastVerified: 2026-11-24
 kind: "contest"
 deadline: "2026-11-25"
 sources:

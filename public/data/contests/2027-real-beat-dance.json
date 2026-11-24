@@ -1,0 +1,253 @@
+{
+  "schema": 1,
+  "id": "2027-real-beat-dance",
+  "title": "無毒世代・舞所不在｜REAL BEAT舞蹈競賽",
+  "edition": "2027 第三屆「反毒1加1・讓愛1家1」親子共好反毒公益市集",
+  "summary": "國小至大專學生 2 至 9 人組隊，上傳反毒主題街舞影片初審，前 20 隊到高雄漢神巨蛋現場決賽。",
+  "organizers": [
+    {
+      "name": "社團法人台灣無毒世界協會",
+      "role": "主辦"
+    },
+    {
+      "name": "樹德科技大學 表演藝術系",
+      "role": "協辦"
+    }
+  ],
+  "categories": [
+    "表演藝術"
+  ],
+  "eligibility": {
+    "levels": [
+      "國小",
+      "國中",
+      "高中",
+      "高職",
+      "大專"
+    ],
+    "division": "mixed",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 2,
+    "team_max": 9,
+    "teacher": "optional",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/11/無毒世代·舞所不在-｜REAL-BEAT-舞蹈競賽-活動簡章-1.pdf",
+        "quote": "參賽資格：現就讀國內公私立國民小學、國民中學、高中職、大專院校之在學學生（含應屆畢業生），不分學制、不分年級，統一為單一組別競賽。"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/11/無毒世代·舞所不在-｜REAL-BEAT-舞蹈競賽-活動簡章-1.pdf",
+        "quote": "每隊人數 2 至 9 人；可跨校、跨年級組隊，每人限報名一隊，不得重複報名。"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/11/無毒世代·舞所不在-｜REAL-BEAT-舞蹈競賽-活動簡章-1.pdf",
+        "quote": "隊名限 15 字以內；指導老師或教練為選填。"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/11/無毒世代·舞所不在-｜REAL-BEAT-舞蹈競賽-活動簡章-1.pdf",
+        "quote": "報名方式：請點選Google 表單連結：https://forms.gle/yZAR7an1XTEw3CsZA 或掃描下方QR code 填寫資料完成報名。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "報名及初審影片上傳截止",
+      "date": "2027-01-17",
+      "time": null,
+      "original": "116 年01 月17 日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/11/無毒世代·舞所不在-｜REAL-BEAT-舞蹈競賽-活動簡章-1.pdf",
+          "quote": "活動公告日起至【116 年01 月17 日】止（逾期恕不受理）"
+        }
+      ]
+    },
+    {
+      "kind": "shortlist_announcement",
+      "label": "決賽名單公告（晉級 20 隊）",
+      "date": "2027-02-01",
+      "time": null,
+      "original": "116 年02 月01 日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/11/無毒世代·舞所不在-｜REAL-BEAT-舞蹈競賽-活動簡章-1.pdf",
+          "quote": "【116 年02 月01 日】於主辦單位官方粉絲專頁公告晉級 20 隊"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "現場決賽",
+      "date": "2027-02-27",
+      "time": "16:00",
+      "original": "116 年02 月27 日（星期六） 16:00–18:00 舞蹈競賽",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/11/無毒世代·舞所不在-｜REAL-BEAT-舞蹈競賽-活動簡章-1.pdf",
+          "quote": "【116 年02 月27 日（星期六）】14:00 市集活動開幕典禮 16:00–18:00 舞蹈競賽 、18:30 頒獎（參賽隊伍需於開幕前完成報到與彩排）"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "頒獎",
+      "date": "2027-02-27",
+      "time": "18:30",
+      "original": "2027年2月27日（六）……於18:30舉行頒獎典禮",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://bhuntr.com/tw/competitions/i8fhq5xk70y8ujbwur",
+          "quote": "現場決賽於2027年2月27日（六）16:00至18:00，在高雄漢神巨蛋購物廣場圓形舞台舉行，由專業評審進行現場評分，於18:30舉行頒獎典禮。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名",
+      "what": "Google 表單報名資料與每隊保證金 100 元匯款",
+      "how": "online"
+    },
+    {
+      "stage": "線上初審",
+      "what": "融入反毒精神的街舞或流行舞蹈影片（橫式、1080p 以上、固定機位一鏡到底、不得剪接），寄至報名成功通知信所載信箱",
+      "how": "online"
+    },
+    {
+      "stage": "決賽前",
+      "what": "比賽曲目 MP3 音檔，寄至大會信箱",
+      "how": "online"
+    },
+    {
+      "stage": "現場決賽",
+      "what": "每隊 3 至 4 分鐘舞蹈演出",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "finalists",
+    "where": "漢神巨蛋購物廣場圓形舞台（高雄市左營區）",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/11/無毒世代·舞所不在-｜REAL-BEAT-舞蹈競賽-活動簡章-1.pdf",
+        "quote": "由協辦單位邀請之評審依第捌條評分標準進行評選，依總分高低排序，取前20 隊晉級決賽"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/11/無毒世代·舞所不在-｜REAL-BEAT-舞蹈競賽-活動簡章-1.pdf",
+        "quote": "決賽地點 漢神巨蛋購物廣場圓形舞台"
+      }
+    ]
+  },
+  "fee": {
+    "value": "deposit",
+    "amount": "每隊新臺幣 100 元保證金，決賽當日可領取面額 100 元之市集園遊券",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/11/無毒世代·舞所不在-｜REAL-BEAT-舞蹈競賽-活動簡章-1.pdf",
+        "quote": "保證金：每隊新臺幣 100 元整。"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/11/無毒世代·舞所不在-｜REAL-BEAT-舞蹈競賽-活動簡章-1.pdf",
+        "quote": "保證金之折抵：完成報名及繳費之隊伍，可憑報名編號於決賽當日至服務台領取面額 100 元之市集園遊券，限當日於活動市集攤位使用，不找零、不兌現、不補發、逾期失效。未晉級決賽之隊伍亦可領取。"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/11/無毒世代·舞所不在-｜REAL-BEAT-舞蹈競賽-活動簡章-1.pdf",
+        "quote": "保證金於報名截止後不因任何原因退費（已折抵為園遊券）。"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "冠軍 1 隊新臺幣 10,000 元、亞軍 1 隊 8,000 元、季軍 1 隊 6,000 元、佳作 3 隊各 2,000 元，總獎金 30,000 元，獲獎隊伍頒團體獎狀；決賽實際到場不足 12 隊時，獎項名額及獎金由主辦單位公告調整。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/11/無毒世代·舞所不在-｜REAL-BEAT-舞蹈競賽-活動簡章-1.pdf",
+        "quote": "共計 6 隊獲獎，總獎金新臺幣 30,000 元，由主辦單位支付。"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/11/無毒世代·舞所不在-｜REAL-BEAT-舞蹈競賽-活動簡章-1.pdf",
+        "quote": "決賽實際到場隊數不足 12 隊時，獎項名額及獎金由主辦單位公告調整。"
+      },
+      {
+        "url": "https://bhuntr.com/tw/competitions/i8fhq5xk70y8ujbwur",
+        "quote": "本競賽共設冠軍、亞軍、季軍各1隊及佳作3隊，總獎金新臺幣30,000元，冠軍獎金10,000元，獲獎隊伍另頒團體獎狀。"
+      },
+      {
+        "url": "https://bhuntr.com/tw/competitions/i8fhq5xk70y8ujbwur",
+        "quote": "冠軍1隊新臺幣 10,000元亞軍1隊新臺幣8,000元季軍1隊新臺幣 6,000佳作3隊新臺幣 2,000元"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "restricted",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://cdn.bountyhunter.co/file-presign/f88fb3da-bdd7-4d49-8d65-59e74e693d03.pdf?dl=2027%E8%88%9E%E8%B9%88%E7%AB%B6%E8%B3%BD_%E5%A0%B1%E5%90%8D%E9%A0%88%E7%9F%A5%E8%88%87%E6%8E%88%E6%AC%8A%E8%B3%87%E6%96%99.pdf",
+        "quote": "初審影片為本隊實際舞蹈演出，足以辨識隊員及完整觀察舞蹈表現，不以替身、AI 生成舞者或其他不實方式代替本人演出，亦不以變速、剪接等手段誤導評審。"
+      }
+    ]
+  },
+  "links": {
+    "official": null,
+    "rules": [
+      {
+        "title": "活動簡章（PDF，高師大附中公告附件）",
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/11/無毒世代·舞所不在-｜REAL-BEAT-舞蹈競賽-活動簡章-1.pdf"
+      },
+      {
+        "title": "活動完整簡章（Google Drive）",
+        "url": "https://drive.google.com/file/d/1uEnSVIw4-xkpjRV1Vkwst1Gzdpm07Rx0/view"
+      },
+      {
+        "title": "報名須知與授權資料（PDF）",
+        "url": "https://cdn.bountyhunter.co/file-presign/f88fb3da-bdd7-4d49-8d65-59e74e693d03.pdf?dl=2027%E8%88%9E%E8%B9%88%E7%AB%B6%E8%B3%BD_%E5%A0%B1%E5%90%8D%E9%A0%88%E7%9F%A5%E8%88%87%E6%8E%88%E6%AC%8A%E8%B3%87%E6%96%99.pdf"
+      }
+    ],
+    "registration": "https://forms.gle/yZAR7an1XTEw3CsZA"
+  },
+  "found_via": [
+    {
+      "name": "潮州高中 學生課外活動",
+      "url": "https://www.ccsh.ptc.edu.tw/data.php?id=19335&tpl=7"
+    },
+    {
+      "name": "高師大附中 校外競賽與活動",
+      "url": "https://www.nknush.kh.edu.tw/announcement/23340/%e7%ab%b6%e8%b3%bd%e3%80%8c%e7%84%a1%e6%af%92%e4%b8%96%e4%bb%a3%e3%83%bb%e8%88%9e%e6%89%80%e4%b8%8d%e5%9c%a8%ef%bd%9creal-beat%e8%88%9e%e8%b9%88%e7%ab%b6%e8%b3%bd%e3%80%8d%e6%b4%bb%e5%8b%95%e7%94%9f/"
+    },
+    {
+      "name": "獎金獵人 競賽平台",
+      "url": "https://bhuntr.com/tw/competitions/i8fhq5xk70y8ujbwur"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-24",
+    "method": "dual",
+    "unread": [
+      "家長（法定代理人）同意書",
+      "活動海報（高雄市高中_1119007A00_ATTCH2.jpg）"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5",
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-24",
+  "conflict": "高師大附中公告所附活動簡章寫初審影片長度 60~90 秒，獎金獵人所附簡章與活動頁寫 3 至 4 分鐘。獎金獵人活動頁的活動時程寫現場決賽 2027年2月1日、報名連結為另一個 Google 表單，兩份簡章與該頁活動簡介則寫決賽 2027年2月27日。",
+  "level": "verified",
+  "url": "https://yuanaruru.com/tw-hs-contests/contests/2027-real-beat-dance/",
+  "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2027-real-beat-dance.md"
+}

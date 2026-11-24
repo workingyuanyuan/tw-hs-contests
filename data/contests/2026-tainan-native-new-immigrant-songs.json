@@ -1,0 +1,290 @@
+{
+  "schema": 1,
+  "id": "2026-tainan-native-new-immigrant-songs",
+  "title": "臺南市115學年度師生本土語及新住民語歌謠比賽",
+  "edition": "115 學年度",
+  "summary": "臺南市各級學校師生組隊，以本土語或新住民語合唱指定曲與自選曲參賽。",
+  "organizers": [
+    {
+      "name": "臺南市政府教育局",
+      "role": "主辦"
+    },
+    {
+      "name": "新營區新進國小",
+      "role": "承辦"
+    },
+    {
+      "name": "後壁區樹人國小",
+      "role": "承辦"
+    },
+    {
+      "name": "歸仁區歸南國小",
+      "role": "承辦"
+    },
+    {
+      "name": "白河區內角國小",
+      "role": "承辦"
+    },
+    {
+      "name": "臺南市立新營文化中心",
+      "role": "協辦"
+    },
+    {
+      "name": "臺南市政府",
+      "role": "指導"
+    }
+  ],
+  "categories": [
+    "音樂",
+    "語文與寫作"
+  ],
+  "eligibility": {
+    "levels": [
+      "國小",
+      "國中",
+      "高中",
+      "高職",
+      "五專",
+      "社會人士"
+    ],
+    "division": "separate",
+    "regions": [
+      "臺南市"
+    ],
+    "nomination": "school",
+    "team_min": 10,
+    "team_max": 65,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/台南市新住民語歌謠比賽實施計畫.pdf",
+        "quote": "就讀於本市公私立高級中學高中部及高級職業學校、五專一、二、三年級及七年一貫制大學一、二、三年級之學生組成之團隊。"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/台南市新住民語歌謠比賽實施計畫.pdf",
+        "quote": "1.任教於本市之公私立學校教師（可含實習教師、代課教師及大專院校教師）及退休教師組成之團隊，初賽及決賽均以初賽當時之身分為認定基準。"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/台南市新住民語歌謠比賽實施計畫.pdf",
+        "quote": "舞臺上全員正式參賽人數以10至65人為限（包含指揮、伴奏及翻譜人員，不含候補人員），並得增報3人為候補人員"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/台南市新住民語歌謠比賽實施計畫.pdf",
+        "quote": "採學校統一寄送報名表，與臺南市115學年度學生音樂比賽其它團體賽項目同寫在學生音樂比賽團體組報名統計總表一併報名寄送。"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/台南市新住民語歌謠比賽實施計畫.pdf",
+        "quote": "三、每類之各組別每校只得各報名1隊。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "網路報名截止",
+      "date": "2026-09-22",
+      "time": "17:00",
+      "original": "115年9月22日(星期二)17時",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/台南市新住民語歌謠比賽實施計畫.pdf",
+          "quote": "一、 報名日期：自115年9月9日(星期三)8時起至9月22日(星期二)17時止。"
+        }
+      ]
+    },
+    {
+      "kind": "registration_deadline",
+      "label": "書面報名表掛號寄送截止（郵戳為憑）",
+      "date": "2026-09-24",
+      "time": null,
+      "original": "115年09月24日(星期四)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/台南市新住民語歌謠比賽實施計畫.pdf",
+          "quote": "書面報名表請於09月24日(星期四)前以掛號郵寄白河區內角國小"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "公告賽程",
+      "date": "2026-09-29",
+      "time": null,
+      "original": "115.9.29",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/台南市新住民語歌謠比賽實施計畫.pdf",
+          "quote": "115.9.29 (星期三)"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "來函申請調整出場序截止",
+      "date": "2026-10-08",
+      "time": null,
+      "original": "115年10月8日(星期四)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/台南市新住民語歌謠比賽實施計畫.pdf",
+          "quote": "之參賽隊伍（者），請務於115年10月8日(星期四)前函文至局說明原由，"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "領隊會議及抽出場序（新化國小）",
+      "date": "2026-10-13",
+      "time": "09:00",
+      "original": "115年10月13日(星期二)上午9時",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/台南市新住民語歌謠比賽實施計畫.pdf",
+          "quote": "115年10月13日(星期二)上午9時假新化區新化國小(新化區中山路173號)"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "比賽（新營文化中心）",
+      "date": "2026-11-20",
+      "time": null,
+      "original": "115年11月20日(星期五)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/台南市新住民語歌謠比賽實施計畫.pdf",
+          "quote": "捌、比賽時間及地點：115年11月20日(星期五)假新營文化中心舉行。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "全國賽代表網路報名截止",
+      "date": "2026-12-11",
+      "time": "17:00",
+      "original": "115年12月11日17時",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/台南市新住民語歌謠比賽實施計畫.pdf",
+          "quote": "凡取得全國賽代表權者，請於115年11月20日9時起至115年12月11日17時止，逕上國立臺灣藝術教育館專屬網站線上報名"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名",
+      "what": "網路報名後列印書面報名表，加蓋學校印信，由學校統一掛號寄送內角國小",
+      "how": "mail"
+    },
+    {
+      "stage": "比賽",
+      "what": "合唱演出指定曲與自選曲（依語系類別規定曲數），總長不超過 10 分鐘；當日繳交參賽者名冊一式 2 份",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "新營文化中心",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/台南市新住民語歌謠比賽實施計畫.pdf",
+        "quote": "捌、比賽時間及地點：115年11月20日(星期五)假新營文化中心舉行。"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/台南市新住民語歌謠比賽實施計畫.pdf",
+        "quote": "參賽團隊應於司儀唱名時立即進入舞臺開始表演"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/台南市新住民語歌謠比賽實施計畫.pdf"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/2026/09/02/%e7%ab%b6%e8%b3%bd%e3%80%8c%e5%8f%b0%e5%8d%97%e5%b8%82115%e5%ad%b8%e5%b9%b4%e5%ba%a6%e5%b8%ab%e7%94%9f%e6%9c%ac%e5%9c%9f%e8%aa%9e%e5%8f%8a%e6%96%b0%e4%bd%8f%e6%b0%91%e8%aa%9e%e6%ad%8c%e8%ac%a0/"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "依平均分數評列特優（89 分以上）、優等（85 分以上未滿 89 分）、甲等（80 分以上未滿 85 分），甲等以上團隊及學生頒發獎狀；各類組最高分 2 隊代表臺南市參加全國賽。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/台南市新住民語歌謠比賽實施計畫.pdf",
+        "quote": "（一）特優：平均分數89分(含)以上者。"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/台南市新住民語歌謠比賽實施計畫.pdf",
+        "quote": "（二）優等：平均分數85分(含)以上未滿89分者。"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/台南市新住民語歌謠比賽實施計畫.pdf",
+        "quote": "（三）甲等：平均分數在80分(含)以上未滿85分者。"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/台南市新住民語歌謠比賽實施計畫.pdf",
+        "quote": "參賽獲評甲等(含)以上之團隊及學生均頒發獎狀乙幀。"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/台南市新住民語歌謠比賽實施計畫.pdf",
+        "quote": "各類組競賽榮獲最高分數之2隊，代表本市參加115學年度全國師生本土語及新住民語歌謠比賽，但總平均分數未達80分者，一律從缺，不予參加全國賽。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/台南市新住民語歌謠比賽實施計畫.pdf"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/2026/09/02/%e7%ab%b6%e8%b3%bd%e3%80%8c%e5%8f%b0%e5%8d%97%e5%b8%82115%e5%ad%b8%e5%b9%b4%e5%ba%a6%e5%b8%ab%e7%94%9f%e6%9c%ac%e5%9c%9f%e8%aa%9e%e5%8f%8a%e6%96%b0%e4%bd%8f%e6%b0%91%e8%aa%9e%e6%ad%8c%e8%ac%a0/"
+      }
+    ]
+  },
+  "links": {
+    "official": null,
+    "rules": [
+      {
+        "title": "臺南市115學年度師生本土語及新住民語歌謠比賽實施計畫（PDF）",
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/台南市新住民語歌謠比賽實施計畫.pdf"
+      }
+    ],
+    "registration": "http://music.tn.edu.tw"
+  },
+  "found_via": [
+    {
+      "name": "臺南女中 學生競賽",
+      "url": "https://www.tngs.tn.edu.tw/2026/09/02/%e7%ab%b6%e8%b3%bd%e3%80%8c%e5%8f%b0%e5%8d%97%e5%b8%82115%e5%ad%b8%e5%b9%b4%e5%ba%a6%e5%b8%ab%e7%94%9f%e6%9c%ac%e5%9c%9f%e8%aa%9e%e5%8f%8a%e6%96%b0%e4%bd%8f%e6%b0%91%e8%aa%9e%e6%ad%8c%e8%ac%a0/"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-24",
+    "method": "single",
+    "unread": [
+      "115學年度全國師生本土語及新住民語歌謠比賽實施要點",
+      "全國師生本土語及新住民語歌謠比賽公布之指定曲目"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-24"
+}

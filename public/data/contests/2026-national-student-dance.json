@@ -1,0 +1,150 @@
+{
+  "schema": 1,
+  "id": "2026-national-student-dance",
+  "title": "115學年度全國學生舞蹈比賽",
+  "edition": "115 學年度",
+  "summary": "學生團隊參加各縣市初賽與全國決賽，在決賽現場演出舞蹈作品。",
+  "organizers": [
+    {
+      "name": "教育部 師資培育及藝術教育司",
+      "role": "指導"
+    },
+    {
+      "name": "國立臺灣師範大學體育室",
+      "role": "主辦"
+    },
+    {
+      "name": "各縣市政府教育局處",
+      "role": "承辦"
+    }
+  ],
+  "categories": [
+    "表演藝術"
+  ],
+  "eligibility": {
+    "levels": [],
+    "division": "unknown",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "school",
+    "team_min": null,
+    "team_max": null,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=22773",
+        "quote": "線上列印紙本報名表（含參賽者名冊）1式2份，加蓋學校戳章，於115年12月3日前持1份向本府報名"
+      },
+      {
+        "url": "http://studentdance.perdc.ntnu.edu.tw/",
+        "quote": "承辦單位：各縣市政府教育局處"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "金門縣參賽隊伍決賽報名截止",
+      "date": "2026-12-03",
+      "time": null,
+      "original": "115年12月3日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=22773",
+          "quote": "旨案報名開放時間自即日起至115年12月3日止"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "決賽道具修改截止",
+      "date": "2026-12-20",
+      "time": null,
+      "original": "115年12月20日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=22773",
+          "quote": "各參賽團隊可自行上網修改，截止日期為115年12月20日，逾期恕不受理任何道具變更。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "決賽報名",
+      "what": "在報名系統登錄報名資料，列印紙本報名表（含參賽者名冊）1式2份並加蓋學校戳章",
+      "how": "online"
+    },
+    {
+      "stage": "決賽",
+      "what": "現場報到、檢錄並演出舞蹈",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "finalists",
+    "where": null,
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=22773",
+        "quote": "另1份請攜帶至決賽現場進行報到及檢錄。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "unknown",
+    "amount": null,
+    "basis": "unread",
+    "evidence": []
+  },
+  "prizes": {
+    "text": null,
+    "basis": "unread",
+    "evidence": []
+  },
+  "ai_policy": {
+    "value": "unknown",
+    "basis": "unread",
+    "evidence": []
+  },
+  "links": {
+    "official": "http://studentdance.perdc.ntnu.edu.tw/",
+    "rules": [],
+    "registration": "http://studentdance.perdc.ntnu.edu.tw"
+  },
+  "found_via": [
+    {
+      "name": "studentdance.perdc.ntnu.edu.tw",
+      "url": "http://studentdance.perdc.ntnu.edu.tw/"
+    },
+    {
+      "name": "studentdance.perdc.ntnu.edu.tw",
+      "url": "http://studentdance.perdc.ntnu.edu.tw"
+    },
+    {
+      "name": "金門高中 最新消息",
+      "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=22773"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-24",
+    "method": "single",
+    "unread": [
+      "115學年度全國學生舞蹈比賽實施要點"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-24",
+  "level": "checked",
+  "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-national-student-dance/",
+  "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-national-student-dance.md"
+}

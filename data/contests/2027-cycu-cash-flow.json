@@ -1,0 +1,226 @@
+{
+  "schema": 1,
+  "id": "2027-cycu-cash-flow",
+  "title": "2027第四屆現金流大賽–富籌者聯盟：月末崛起！–",
+  "edition": "第四屆",
+  "summary": "全國高中職生到中原大學參加三天財務情境遊戲，運用有限資金做投資決策，爭取名次。",
+  "organizers": [
+    {
+      "name": "中原大學財務金融學系",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "商管與行銷"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職"
+    ],
+    "division": "hs_only",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": null,
+    "team_max": null,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.fg.tp.edu.tw/wp-content/uploads/doc/experiment/2027中原大學第四屆財務金融學系現金流大賽–富籌者聯盟：月末崛起！–簡章.pdf",
+        "quote": "五、參加對象：全國高中職生"
+      },
+      {
+        "url": "https://www.fg.tp.edu.tw/wp-content/uploads/doc/experiment/2027中原大學第四屆財務金融學系現金流大賽–富籌者聯盟：月末崛起！–簡章.pdf",
+        "quote": "人數限制：60人，桃園市高中生保障名額30位（依報名順序錄取，額滿為止）"
+      },
+      {
+        "url": "https://www.fg.tp.edu.tw/wp-content/uploads/doc/experiment/2027中原大學第四屆財務金融學系現金流大賽–富籌者聯盟：月末崛起！–簡章.pdf",
+        "quote": "八、報名方式：採網路報名，即日起至2027年1月15日17:00止"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "網路報名截止",
+      "date": "2027-01-15",
+      "time": "17:00",
+      "original": "即日起至2027年1月15日17:00止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.fg.tp.edu.tw/wp-content/uploads/doc/experiment/2027中原大學第四屆財務金融學系現金流大賽–富籌者聯盟：月末崛起！–簡章.pdf",
+          "quote": "八、報名方式：採網路報名，即日起至2027年1月15日17:00止"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "退費申請截止",
+      "date": "2027-01-15",
+      "time": "17:00",
+      "original": "2027年1月15日17:00前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.fg.tp.edu.tw/wp-content/uploads/doc/experiment/2027中原大學第四屆財務金融學系現金流大賽–富籌者聯盟：月末崛起！–簡章.pdf",
+          "quote": "2.退費受理截止時間為2027年1月15日17:00前，逾期不退費。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "現場活動（1 月 27 日至 29 日）",
+      "date": "2027-01-27",
+      "time": null,
+      "original": "2027年1月27日(三)至1月29日(五)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.fg.tp.edu.tw/wp-content/uploads/doc/experiment/2027中原大學第四屆財務金融學系現金流大賽–富籌者聯盟：月末崛起！–簡章.pdf",
+          "quote": "三、活動日期：2027年1月27日(三)至1月29日(五)"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "現場活動",
+      "what": "三天財務情境遊戲與現金流大賽，以團隊合作做投資決策",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "中原大學商學院商學大樓103教室",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.fg.tp.edu.tw/wp-content/uploads/doc/experiment/2027中原大學第四屆財務金融學系現金流大賽–富籌者聯盟：月末崛起！–簡章.pdf",
+        "quote": "四、活動地點：中原大學商學院商學大樓103教室"
+      },
+      {
+        "url": "https://www.fg.tp.edu.tw/wp-content/uploads/doc/experiment/2027中原大學第四屆財務金融學系現金流大賽–富籌者聯盟：月末崛起！–簡章.pdf",
+        "quote": "三、活動日期：2027年1月27日(三)至1月29日(五)"
+      }
+    ]
+  },
+  "fee": {
+    "value": "required",
+    "amount": "每人新臺幣 4,200 元；三人以上團體報名每人 3,800 元",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.fg.tp.edu.tw/wp-content/uploads/doc/experiment/2027中原大學第四屆財務金融學系現金流大賽–富籌者聯盟：月末崛起！–簡章.pdf",
+        "quote": "七、報名費用：每位學員新臺幣4,200元"
+      },
+      {
+        "url": "https://www.fg.tp.edu.tw/wp-content/uploads/doc/experiment/2027中原大學第四屆財務金融學系現金流大賽–富籌者聯盟：月末崛起！–簡章.pdf",
+        "quote": "（團體報名：三人以上，每位學員新臺幣3,800元）"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "第一名、第二名、第三名各 1 名，第四名到第十名優等，第十名後每人佳作獎狀。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.fg.tp.edu.tw/wp-content/uploads/doc/experiment/2027中原大學第四屆財務金融學系現金流大賽–富籌者聯盟：月末崛起！–簡章.pdf",
+        "quote": "六、獎勵：第⼀名(1名)、第二名(1名)、第三名(1名)、第四名到第十名優等"
+      },
+      {
+        "url": "https://www.fg.tp.edu.tw/wp-content/uploads/doc/experiment/2027中原大學第四屆財務金融學系現金流大賽–富籌者聯盟：月末崛起！–簡章.pdf",
+        "quote": "後每⼈佳作獎狀⼄幀"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.fg.tp.edu.tw/wp-content/uploads/doc/experiment/2027中原大學第四屆財務金融學系現金流大賽–富籌者聯盟：月末崛起！–簡章.pdf"
+      }
+    ]
+  },
+  "links": {
+    "official": null,
+    "rules": [
+      {
+        "title": "活動簡章",
+        "url": "https://www.fg.tp.edu.tw/wp-content/uploads/doc/experiment/2027中原大學第四屆財務金融學系現金流大賽–富籌者聯盟：月末崛起！–簡章.pdf"
+      }
+    ],
+    "registration": "https://itouch.cycu.edu.tw/go/?w=10791@forms"
+  },
+  "found_via": [
+    {
+      "name": "暨大附中 學生研習與競賽活動",
+      "url": "https://www.pshs.ntct.edu.tw/ischool/public/news_view/show.php?nid=33990"
+    },
+    {
+      "name": "斗六高中 營隊研習競賽",
+      "url": "https://www.tlsh.ylc.edu.tw/2026/11/02/68620/"
+    },
+    {
+      "name": "大里高中 校外活動與競賽",
+      "url": "https://dlsh.tc.edu.tw/p/406-1068-644751,r2145.php?Lang=zh-tw"
+    },
+    {
+      "name": "西松高中 校外競賽公告",
+      "url": "https://www.hssh.tp.edu.tw/p/405-1000-52691,c540.php?Lang=zh-tw"
+    },
+    {
+      "name": "嘉義女中 競賽與投稿",
+      "url": "https://www.cygsh.cy.edu.tw/p/406-1013-187036,r679.php"
+    },
+    {
+      "name": "成功高中 活動競賽",
+      "url": "https://www.cksh.tp.edu.tw/news/%e3%80%90%e8%bd%89%e7%9f%a5%e3%80%91-%e4%b8%ad%e5%8e%9f%e5%a4%a7%e5%ad%b8%e8%b2%a1%e5%8b%99%e9%87%91%e8%9e%8d%e5%ad%b8%e7%b3%bb%e8%88%89%e8%be%a6%e3%80%8c2027%e4%b8%ad%e5%8e%9f%e5%a4%a7%e5%ad%b8/"
+    },
+    {
+      "name": "北一女中 最新消息",
+      "url": "https://www.fg.tp.edu.tw/news/2027%e4%b8%ad%e5%8e%9f%e5%a4%a7%e5%ad%b8%e7%ac%ac%e5%9b%9b%e5%b1%86%e8%b2%a1%e5%8b%99%e9%87%91%e8%9e%8d%e5%ad%b8%e7%b3%bb%e7%8f%be%e9%87%91%e6%b5%81%e5%a4%a7%e8%b3%bd-%e5%af%8c%e7%b1%8c/"
+    },
+    {
+      "name": "新竹高商 消息公佈欄",
+      "url": "https://www.hccvs.hc.edu.tw/ischool/public/news_view/show.php?nid=26592"
+    },
+    {
+      "name": "苗栗農工 處室公告",
+      "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26907"
+    },
+    {
+      "name": "高師大附中 校外競賽與活動",
+      "url": "https://www.nknush.kh.edu.tw/announcement/21877/%e5%85%ac%e5%91%8a%e8%a8%93%e8%82%b2%e7%b5%84%e3%80%8c2027%e4%b8%ad%e5%8e%9f%e5%a4%a7%e5%ad%b8%e7%ac%ac%e5%9b%9b%e5%b1%86%e8%b2%a1%e5%8b%99%e9%87%91%e8%9e%8d%e5%ad%b8%e7%b3%bb%e7%8f%be%e9%87%91/"
+    },
+    {
+      "name": "三重商工 學生事務公告",
+      "url": "https://www.scvs.ntpc.edu.tw/p/406-1000-15900,r28.php"
+    },
+    {
+      "name": "苗栗高中 學生校外營隊、活動、比賽",
+      "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=28470"
+    },
+    {
+      "name": "獎金獵人 競賽平台",
+      "url": "https://bhuntr.com/tw/competitions/p5o0e8o67s7qxy55n4"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-24",
+    "method": "single",
+    "unread": [
+      "活動海報"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-24"
+}

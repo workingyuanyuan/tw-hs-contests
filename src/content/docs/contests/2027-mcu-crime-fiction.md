@@ -3,7 +3,7 @@ title: "高中生犯罪文學短篇小說比賽"
 description: "全國高中職與五專一至三年級學生獨立創作繁中、英或日文犯罪文學短篇小說，以電子郵件投稿作品及報名切結文件。"
 appliesTo: "2027 這一屆"
 caveat: "日期與時間都是臺灣時間。"
-lastVerified: 2026-11-21
+lastVerified: 2026-11-24
 kind: "contest"
 deadline: "2027-02-20"
 sources:

@@ -1,0 +1,232 @@
+{
+  "schema": 1,
+  "id": "2026-sju-icec",
+  "title": "2026全國高中職創新創意與創業競賽",
+  "edition": "2026",
+  "summary": "高中職學生組隊提出樂齡生活創新方案或創意動漫角色設計，入圍者到聖約翰科技大學發表。",
+  "organizers": [
+    {
+      "name": "聖約翰科技大學樂活設計學院",
+      "role": "指導"
+    },
+    {
+      "name": "樂齡福祉與健康促進系",
+      "role": "主辦"
+    },
+    {
+      "name": "休閒運動與觀光管理系",
+      "role": "主辦"
+    },
+    {
+      "name": "多媒體設計系",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "創業與企劃",
+    "設計",
+    "醫護與照顧"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職"
+    ],
+    "division": "hs_only",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": null,
+    "team_max": 5,
+    "teacher": "required",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "http://cld.sju.edu.tw/ICEC2026",
+        "quote": "本競賽旨在提供全國高中職學生展示其創新與創意的舞台"
+      },
+      {
+        "url": "http://cld.sju.edu.tw/ICEC2026",
+        "quote": "報名階段：以團隊（最多5人）形式參賽，並推派1名同學擔任隊長兼任聯絡人，每隊需有1至2位指導老師協助輔導"
+      },
+      {
+        "url": "http://cld.sju.edu.tw/ICEC2026",
+        "quote": "需填寫參賽團隊名稱、參賽學校名稱、參賽學生、隊長、指導老師資料等，並請提交企畫書("
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "競賽線上報名截止（延後）",
+      "date": "2026-12-03",
+      "time": null,
+      "original": "2026/12/03(星期四)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "http://cld.sju.edu.tw/ICEC2026",
+          "quote": "競賽線上報名截止延至2026/12/03(星期四)。"
+        },
+        {
+          "url": "http://cld.sju.edu.tw/ICEC2026",
+          "quote": "競賽線上報名截止：2026/12/03(星期四)"
+        }
+      ]
+    },
+    {
+      "kind": "shortlist_announcement",
+      "label": "初選書面審查結果通知",
+      "date": "2026-12-07",
+      "time": null,
+      "original": "2026/12/07(星期一)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "http://cld.sju.edu.tw/ICEC2026",
+          "quote": "初選書面審查結果通知：2026/12/07(星期一)"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "決選發表",
+      "date": "2026-12-17",
+      "time": "10:00",
+      "original": "2026年12月17日(星期四) 上午10:00至15:30",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "http://cld.sju.edu.tw/ICEC2026",
+          "quote": "決選發表日程：2026/12/17(星期四)"
+        },
+        {
+          "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=27208",
+          "quote": "(一)、競賽日期:2026年12月17日(星期四) 上午10:00至15:30於本校舉行。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名",
+      "what": "企畫書（依各分項競賽的格式檔）",
+      "how": "online"
+    },
+    {
+      "stage": "決選（入圍團隊）",
+      "what": "公開現場發表",
+      "how": "onsite"
+    },
+    {
+      "stage": "聖約翰盃匹克球邀請賽（受邀學校）",
+      "what": "男子雙打與女子雙打，預賽分組循環、決賽單敗淘汰",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "finalists",
+    "where": "聖約翰科技大學 國際會議廳",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "http://cld.sju.edu.tw/ICEC2026",
+        "quote": "決選階段：入圍團隊進行公開現場發表，由評審團選出優勝者。"
+      },
+      {
+        "url": "http://cld.sju.edu.tw/ICEC2026",
+        "quote": "競賽地點：聖約翰科技大學 國際會議廳"
+      }
+    ]
+  },
+  "fee": {
+    "value": "unknown",
+    "amount": null,
+    "basis": "unread",
+    "evidence": []
+  },
+  "prizes": {
+    "text": "各分項競賽：金獎 1 隊 3,000 元等值獎勵、銀獎 1 隊 2,000 元等值獎勵、銅獎 1 隊 1,000 元等值獎勵、優選獎若干名各 500 元等值獎勵，皆附獎狀。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "http://cld.sju.edu.tw/ICEC2026",
+        "quote": "金獎(1隊)：NT$ 3,000 元等值獎勵及獎狀"
+      },
+      {
+        "url": "http://cld.sju.edu.tw/ICEC2026",
+        "quote": "銀獎(1隊)：NT$ 2,000 元等值獎勵及獎狀"
+      },
+      {
+        "url": "http://cld.sju.edu.tw/ICEC2026",
+        "quote": "銅獎(1隊)：NT$ 1,000 元等值獎勵及獎狀"
+      },
+      {
+        "url": "http://cld.sju.edu.tw/ICEC2026",
+        "quote": "優選獎(若干名)：NT$ 500 元等值獎勵及獎狀"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "unknown",
+    "basis": "unread",
+    "evidence": []
+  },
+  "links": {
+    "official": "http://cld.sju.edu.tw/ICEC2026",
+    "rules": [
+      {
+        "title": "活動簡章",
+        "url": "http://cld.sju.edu.tw/assets/2026全國高中職創新創意與創業競賽(活動簡章).pdf"
+      },
+      {
+        "title": "企畫書（樂齡生活創新方案設計）",
+        "url": "http://cld.sju.edu.tw/assets/(樂齡生活創新方案設計)_2026全國高中職創新創意與創業競賽.docx"
+      },
+      {
+        "title": "企畫書（聖約翰盃匹克球邀請賽）",
+        "url": "http://cld.sju.edu.tw/assets/(聖約翰盃匹克球邀請賽)_2026全國高中職創新創意與創業競賽.docx"
+      },
+      {
+        "title": "企畫書（創意動漫角色設計）",
+        "url": "http://cld.sju.edu.tw/assets/(創意動漫角色設計)_2026全國高中職創新創意與創業競賽.docx"
+      }
+    ],
+    "registration": "https://forms.gle/ZKXQUQxxhBuMcqrCA"
+  },
+  "found_via": [
+    {
+      "name": "cld.sju.edu.tw",
+      "url": "http://cld.sju.edu.tw/ICEC2026"
+    },
+    {
+      "name": "羅東高工 最新消息",
+      "url": "https://www.ltivs.ilc.edu.tw/p/406-1000-5455,r12.php?Lang=zh-tw"
+    },
+    {
+      "name": "三重商工 學生事務公告",
+      "url": "https://www.scvs.ntpc.edu.tw/p/406-1000-16076,r28.php"
+    },
+    {
+      "name": "苗栗農工 處室公告",
+      "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=27208"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-24",
+    "method": "single",
+    "unread": [
+      "活動簡章",
+      "樂齡生活創新方案設計企畫書",
+      "聖約翰盃匹克球邀請賽企畫書",
+      "創意動漫角色設計企畫書"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-24"
+}

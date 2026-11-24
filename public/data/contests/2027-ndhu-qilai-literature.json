@@ -177,21 +177,22 @@
     }
   ],
   "verification": {
-    "last_verified": "2026-11-21",
-    "method": "single",
+    "last_verified": "2026-11-24",
+    "method": "dual",
     "unread": [
       "專用報名表、第27屆東華奇萊文學獎切結書",
       "宣傳海報"
     ],
     "note": null,
     "readers": [
-      "gemini-4-hydrogen-medium"
+      "gemini-4-hydrogen-medium",
+      "claude-opus-5-5"
     ]
   },
   "first_seen": "2026-11-20",
   "updated": "2026-11-20",
   "conflict": "官網首頁公告（https://award.ndhu.edu.tw/）寫第 27 屆「東華奇萊全國高中文學獎」徵選散文獎、「林君鴻全國兒童文學獎」徵選童詩獎，但徵文簡章 PDF 與轉知公告皆寫高中組徵選短篇小說獎、林君鴻兒童文學徵選童話獎；本筆紀錄依徵文簡章為準。",
-  "level": "checked",
+  "level": "verified",
   "url": "https://yuanaruru.com/tw-hs-contests/contests/2027-ndhu-qilai-literature/",
   "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2027-ndhu-qilai-literature.md"
 }

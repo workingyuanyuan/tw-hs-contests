@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "id": "2027-ganjingworld-kindness-tw",
-  "title": "第四屆《#善念點亮台灣》影片暨繪畫創作大賽",
+  "title": "第四屆《善念點亮台灣》影片暨繪畫創作大賽",
   "edition": "第四屆",
-  "summary": "個人或團體創作善念主題影片或繪畫，發布於乾淨世界頻道並加註活動標籤參賽。",
+  "summary": "個人或團體以善行為題創作影片或繪畫，發布於乾淨世界頻道並加活動標籤，按讚數達100可進入評選。",
   "organizers": [
     {
       "name": "乾淨世界 Gan Jing World",
@@ -28,7 +28,7 @@
       "全國"
     ],
     "nomination": "none",
-    "team_min": 1,
+    "team_min": null,
     "team_max": null,
     "teacher": "optional",
     "basis": "quote",
@@ -43,7 +43,15 @@
       },
       {
         "url": "https://www.ganjingworld.com/s/3R4W9AypXb",
+        "quote": "對善念創作有興趣的個人或團隊"
+      },
+      {
+        "url": "https://www.ganjingworld.com/s/3R4W9AypXb",
         "quote": "B. 繪畫創作組 (分四個年齡段6-8歲、9-11歲、12-14歲、15-18歲）"
+      },
+      {
+        "url": "https://www.ganjingworld.com/s/3R4W9AypXb",
+        "quote": "參賽者須於乾淨世界註冊個人、學校、團體或企業頻道。"
       },
       {
         "url": "https://www.ganjingworld.com/s/3R4W9AypXb",
@@ -52,6 +60,20 @@
     ]
   },
   "dates": [
+    {
+      "kind": "other",
+      "label": "投稿開放",
+      "date": "2026-07-25",
+      "time": null,
+      "original": "2026.07.25",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.ganjingworld.com/video/%E7%AC%AC%E5%9B%9B%E5%B1%86-%E5%96%84%E5%BF%B5%E9%BB%9E%E4%BA%AE%E5%8F%B0%E7%81%A3-%E5%96%84%E5%BF%B5%E6%8E%A5%E5%8A%9B-%E8%AE%93%E4%B8%96%E7%95%8C%E6%94%B9%E8%AE%8A/1iu1arje06q8eReUOVPpgug971im1c",
+          "quote": "・投稿開放：2026.07.25"
+        }
+      ]
+    },
     {
       "kind": "submission_deadline",
       "label": "投稿截止",
@@ -63,15 +85,19 @@
         {
           "url": "https://www.ganjingworld.com/s/3R4W9AypXb",
           "quote": "即日起至2027年3月31日止。"
+        },
+        {
+          "url": "https://www.ganjingworld.com/s/3R4W9AypXb",
+          "quote": "所有參賽作品須於截止時間前完成作品發布及報名程序。"
         }
       ]
     },
     {
       "kind": "result_announcement",
-      "label": "得獎公布",
+      "label": "公布得獎名單",
       "date": "2027-04-30",
       "time": null,
-      "original": "預定於2027年4月30日",
+      "original": "2027年4月30日",
       "basis": "quote",
       "evidence": [
         {
@@ -84,13 +110,18 @@
   "deliverables": [
     {
       "stage": "投稿（影片創作組）",
-      "what": "30 秒以上原創影片（橫式或直式，非中文須附中文字幕），發布於乾淨世界頻道並加註活動標籤及填寫報名資料",
+      "what": "至少 30 秒的原創影片，發布於乾淨世界頻道，標題或說明加 #善念點亮台灣 及 #影片創作組；非中文作品加中文字幕",
       "how": "online"
     },
     {
       "stage": "投稿（繪畫創作組）",
-      "what": "平面繪畫作品圖片或短影片（數位手繪須錄製主要繪製過程）及 50 至 150 字創作理念，發布於乾淨世界頻道並加註活動標籤及填寫報名資料",
+      "what": "作品圖片或短影片，發布於乾淨世界頻道並加 #善念點亮台灣 及 #繪畫創作組，附作品名稱、年齡或年級與 50 至 150 字創作理念",
       "how": "online"
+    },
+    {
+      "stage": "入圍（繪畫創作組）",
+      "what": "保留實體原作，主辦單位得要求提供高解析電子檔或實體原作",
+      "how": "unknown"
     }
   ],
   "attendance": {
@@ -114,7 +145,7 @@
     ]
   },
   "prizes": {
-    "text": "影片創作組：金賞獎 1 名 US$2,000 及獎狀、銀賞獎 1 名 US$1,000 及獎狀、銅賞獎 10 名各 US$500 及獎狀、優秀獎若干名獲獎品及獎狀。繪畫創作組（分四個年齡段）：頭獎共 4 名各 US$500 及獎狀、優秀獎若干名獲頒乾淨樂學 US$88 及獎狀。另設友善校園非主要獎金表揚。",
+    "text": "影片創作組：金賞 1 名 US$2,000、銀賞 1 名 US$1,000、銅賞 10 名各 US$500，皆附獎狀；優秀獎若干名，獲獎品及獎狀。繪畫創作組分 6-8、9-11、12-14、15-18 歲四個年齡段：頭獎共 4 名，各 US$500 及獎狀；優秀獎若干名，獲乾淨樂學 US$88 及獎狀。另得視投稿情況增設友善校園優選、最佳指導教師等表揚。",
     "basis": "quote",
     "evidence": [
       {
@@ -131,11 +162,19 @@
       },
       {
         "url": "https://www.ganjingworld.com/s/3R4W9AypXb",
+        "quote": "優秀獎：若干名，獲獎品及獎狀"
+      },
+      {
+        "url": "https://www.ganjingworld.com/s/3R4W9AypXb",
         "quote": "頭獎：共4名，獎金US$500及獎狀 (分四個年齡段6-8歲、9-11歲、12-14歲、15-18歲）"
       },
       {
         "url": "https://www.ganjingworld.com/s/3R4W9AypXb",
         "quote": "優秀獎：四個年齡段若干名，獲頒乾淨樂學US$88及獎狀。"
+      },
+      {
+        "url": "https://www.ganjingworld.com/s/3R4W9AypXb",
+        "quote": "為鼓勵學校師生共同參與，主辦單位得視投稿情況增設以下非主要獎金表揚："
       }
     ]
   },
@@ -158,30 +197,30 @@
     ]
   },
   "links": {
-    "official": "https://www.ganjingworld.com/@Kindness.TW",
-    "rules": [
-      {
-        "title": "第四屆《#善念點亮台灣》影片暨繪畫創作大賽活動章程",
-        "url": "https://www.ganjingworld.com/s/3R4W9AypXb"
-      }
-    ],
+    "official": "https://www.ganjingworld.com/s/3R4W9AypXb",
+    "rules": [],
     "registration": null
   },
   "found_via": [
+    {
+      "name": "www.ganjingworld.com",
+      "url": "https://www.ganjingworld.com/@Kindness.TW"
+    },
     {
       "name": "獎金獵人刊登頁",
       "url": "https://bhuntr.com/tw/competitions/tquo9h6lxaavwyhojw"
     }
   ],
   "verification": {
-    "last_verified": "2026-11-21",
-    "method": "single",
+    "last_verified": "2026-11-24",
+    "method": "dual",
     "unread": [],
     "note": null,
     "readers": [
-      "gemini-4-hydrogen-medium"
+      "claude-opus-5-5",
+      "claude-opus-5-5"
     ]
   },
   "first_seen": "2026-11-20",
-  "updated": "2026-11-21"
+  "updated": "2026-11-24"
 }

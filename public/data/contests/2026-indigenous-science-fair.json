@@ -311,8 +311,8 @@
     }
   ],
   "verification": {
-    "last_verified": "2026-11-21",
-    "method": "single",
+    "last_verified": "2026-11-24",
+    "method": "dual",
     "unread": [
       "報名網站下載之表件（研究構想摘要、身分確認書、肖像授權同意書、研究計畫書、研究成果報告書、研究週誌、著作權授權同意書、諮詢費用領據、個資同意書）",
       "實體及線上徵件說明會計畫書",
@@ -320,13 +320,14 @@
     ],
     "note": null,
     "readers": [
-      "gemini-4-hydrogen-medium"
+      "gemini-4-hydrogen-medium",
+      "claude-opus-5-5"
     ]
   },
   "first_seen": "2026-11-20",
   "updated": "2026-11-21",
   "conflict": "官方網站首頁與簡章網頁標題仍標示「114 學年度」，且網頁版簡章另列線上研習期限為 116 年 2 月 3 日前，與 115 學年度 PDF 簡章（於各場次高峰營辦理前觀看）略異。",
-  "level": "checked",
+  "level": "verified",
   "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-indigenous-science-fair/",
   "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-indigenous-science-fair.md"
 }

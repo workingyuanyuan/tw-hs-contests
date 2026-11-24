@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "id": "2026-nkut-innovative-marketing",
-  "title": "【行銷新思維】全國創新行銷暨小論文競賽",
+  "title": "全國創新行銷暨小論文競賽",
   "edition": "2026",
-  "summary": "2 至 6 人組隊就創新行銷主題郵寄或網路繳交專題、小論文或企劃作品，入圍者出席現場簡報。",
+  "summary": "高中職與大學部學生 2 至 6 人組隊，就創新行銷主題投稿小論文、專題、實作成果或企劃書。",
   "organizers": [
     {
       "name": "南開科技大學行銷與流通管理系",
@@ -11,8 +11,7 @@
     }
   ],
   "categories": [
-    "商管與行銷",
-    "創業與企劃"
+    "商管與行銷"
   ],
   "eligibility": {
     "levels": [
@@ -31,16 +30,16 @@
     "basis": "quote",
     "evidence": [
       {
-        "url": "https://bm.nutn.edu.tw/download/news_20261103165910.pdf",
+        "url": "https://nkmlm.nkut.edu.tw/front/news/news.php?ID=bmt1dF9tbG0mbmV3cw==&Sn=431",
         "quote": "每隊由 2 至 6 人 自由組隊參賽，共分為以下兩組："
       },
       {
-        "url": "https://bm.nutn.edu.tw/download/news_20261103165910.pdf",
-        "quote": "高中職組： 全台高中職學生。可直接以學校已完成之「小論文」、「自主學習小專題」或「實作成果」投稿，不限書面、影片或多媒體等任何作品形式。"
+        "url": "https://nkmlm.nkut.edu.tw/front/news/news.php?ID=bmt1dF9tbG0mbmV3cw==&Sn=431",
+        "quote": "•高中職組： 全台高中職學生。"
       },
       {
-        "url": "https://bm.nutn.edu.tw/download/news_20261103165910.pdf",
-        "quote": "大學組：全國大專院校大學部學生。以「實務專題」或「企劃書」作品投稿。"
+        "url": "https://nkmlm.nkut.edu.tw/front/news/news.php?ID=bmt1dF9tbG0mbmV3cw==&Sn=431",
+        "quote": "•大學組：全國大專院校大學部學生。以「實務專題」或「企劃書」作品投稿。"
       }
     ]
   },
@@ -54,34 +53,39 @@
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://bm.nutn.edu.tw/download/news_20261103165910.pdf",
-          "quote": "初賽收件截止：12 月 4 日 (採郵寄或網路上傳 皆可)"
+          "url": "https://nkmlm.nkut.edu.tw/front/news/news.php?ID=bmt1dF9tbG0mbmV3cw==&Sn=431",
+          "quote": "•初賽收件截止：12 月 4 日 (採郵寄或網路上傳 皆可)"
         }
       ]
     },
     {
       "kind": "final_event",
-      "label": "決賽現場發表暨頒獎典禮",
+      "label": "決賽現場發表",
       "date": "2026-12-18",
       "time": null,
       "original": "12 月 18 日 (五)",
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://bm.nutn.edu.tw/download/news_20261103165910.pdf",
-          "quote": "決賽現場發表：12 月 18 日 (五) (入圍隊伍進行現場簡報審查)"
+          "url": "https://nkmlm.nkut.edu.tw/front/news/news.php?ID=bmt1dF9tbG0mbmV3cw==&Sn=431",
+          "quote": "•決賽現場發表：12 月 18 日 (五) (入圍隊伍進行現場簡報審查)"
         }
       ]
     }
   ],
   "deliverables": [
     {
-      "stage": "初賽",
-      "what": "高中職組繳交小論文、自主學習小專題或實作成果（不限書面、影片或多媒體形式）；大學組繳交實務專題或企劃書",
+      "stage": "初賽（高中職組）",
+      "what": "已完成的小論文、自主學習小專題或實作成果，書面、影片或多媒體皆可；郵寄或網路上傳皆可",
       "how": "online"
     },
     {
-      "stage": "決賽",
+      "stage": "初賽（大學組）",
+      "what": "實務專題或企劃書；郵寄或網路上傳皆可",
+      "how": "online"
+    },
+    {
+      "stage": "決賽（入圍隊伍）",
       "what": "現場簡報審查",
       "how": "onsite"
     }
@@ -92,75 +96,71 @@
     "basis": "quote",
     "evidence": [
       {
-        "url": "https://bm.nutn.edu.tw/download/news_20261103165910.pdf",
-        "quote": "決賽現場發表：12 月 18 日 (五) (入圍隊伍進行現場簡報審查)"
+        "url": "https://nkmlm.nkut.edu.tw/front/news/news.php?ID=bmt1dF9tbG0mbmV3cw==&Sn=431",
+        "quote": "•決賽現場發表：12 月 18 日 (五) (入圍隊伍進行現場簡報審查)"
       }
     ]
   },
   "fee": {
-    "value": "none",
+    "value": "unknown",
     "amount": null,
-    "basis": "absent",
-    "evidence": [
-      {
-        "url": "https://bm.nutn.edu.tw/download/news_20261103165910.pdf"
-      }
-    ]
+    "basis": "unread",
+    "evidence": []
   },
   "prizes": {
-    "text": "總獎金至少 26,000 元，高中職組與大學組各設：第一名（冠軍）1 隊 5,000 元、第二名（亞軍）1 隊 3,000 元、第三名（季軍）1 隊 2,000 元、優勝 3 隊各 1,000 元、佳作若干名，皆頒發榮譽獎狀。",
+    "text": "高中職組與大學組各設：第一名 1 隊新臺幣 5,000 元、第二名 1 隊 3,000 元、第三名 1 隊 2,000 元、優勝 3 隊各 1,000 元，皆附榮譽獎狀；佳作若干名頒發榮譽獎狀。總獎金至少 26,000 元，名額視贊助企業與參加隊數酌予增減。",
     "basis": "quote",
     "evidence": [
       {
-        "url": "https://bm.nutn.edu.tw/download/news_20261103165910.pdf",
+        "url": "https://nkmlm.nkut.edu.tw/front/news/news.php?ID=bmt1dF9tbG0mbmV3cw==&Sn=431",
         "quote": "本競賽總獎金至少 26,000 元，高中職組與大學組各設有 6 個獲獎名額，視贊助企業與參加隊數酌予增減‧"
       },
       {
-        "url": "https://bm.nutn.edu.tw/download/news_20261103165910.pdf",
-        "quote": "第一名 (冠軍) 每組 1 隊 新臺幣 5,000 元 + 榮譽獎狀"
+        "url": "https://nkmlm.nkut.edu.tw/download.php?dir=news&filename=d2e4a74141723255b054786086e726f3.pdf&title=活動辦法",
+        "quote": "第一名 (冠軍) 每組 1 隊 \n新臺幣 5,000 元 + 榮譽獎狀"
       },
       {
-        "url": "https://bm.nutn.edu.tw/download/news_20261103165910.pdf",
-        "quote": "第二名 (亞軍) 每組 1 隊 新臺幣 3,000 元 + 榮譽獎狀"
+        "url": "https://nkmlm.nkut.edu.tw/download.php?dir=news&filename=d2e4a74141723255b054786086e726f3.pdf&title=活動辦法",
+        "quote": "第二名 (亞軍) 每組 1 隊 \n新臺幣 3,000 元 + 榮譽獎狀"
       },
       {
-        "url": "https://bm.nutn.edu.tw/download/news_20261103165910.pdf",
-        "quote": "第三名 (季軍) 每組 1 隊 新臺幣 2,000 元 + 榮譽獎狀"
+        "url": "https://nkmlm.nkut.edu.tw/download.php?dir=news&filename=d2e4a74141723255b054786086e726f3.pdf&title=活動辦法",
+        "quote": "第三名 (季軍) 每組 1 隊 \n新臺幣 2,000 元 + 榮譽獎狀"
       },
       {
-        "url": "https://bm.nutn.edu.tw/download/news_20261103165910.pdf",
-        "quote": "優勝 每組 3 隊 新臺幣 1,000 元 + 榮譽獎狀"
+        "url": "https://nkmlm.nkut.edu.tw/download.php?dir=news&filename=d2e4a74141723255b054786086e726f3.pdf&title=活動辦法",
+        "quote": "優勝 \n每組 3 隊 \n新臺幣 1,000 元 + 榮譽獎狀"
       },
       {
-        "url": "https://bm.nutn.edu.tw/download/news_20261103165910.pdf",
-        "quote": "佳作 每組 若干名 頒發榮譽獎狀"
+        "url": "https://nkmlm.nkut.edu.tw/download.php?dir=news&filename=d2e4a74141723255b054786086e726f3.pdf&title=活動辦法",
+        "quote": "佳作 \n每組 若干名 頒發榮譽獎狀"
       }
     ]
   },
   "ai_policy": {
-    "value": "not_mentioned",
-    "basis": "absent",
-    "evidence": [
-      {
-        "url": "https://bm.nutn.edu.tw/download/news_20261103165910.pdf"
-      }
-    ]
+    "value": "unknown",
+    "basis": "unread",
+    "evidence": []
   },
   "links": {
     "official": "https://nkmlm.nkut.edu.tw/front/news/news.php?ID=bmt1dF9tbG0mbmV3cw==&Sn=431",
     "rules": [
       {
         "title": "活動辦法",
-        "url": "https://bm.nutn.edu.tw/download/news_20261103165910.pdf"
-      },
-      {
-        "title": "活動海報",
-        "url": "https://bm.nutn.edu.tw/download/news_20261103165927.pdf"
+        "url": "https://nkmlm.nkut.edu.tw/download.php?dir=news&filename=d2e4a74141723255b054786086e726f3.pdf&title=活動辦法"
       }
     ],
-    "registration": "https://pse.is/9tafbx"
+    "registration": "https://ppt.cc/fk3rhx"
   },
   "found_via": [
+    {
+      "name": "nkmlm.nkut.edu.tw",
+      "url": "https://nkmlm.nkut.edu.tw/download.php?dir=news&filename=d2e4a74141723255b054786086e726f3.pdf&title=活動辦法"
+    },
+    {
+      "name": "bm.nutn.edu.tw",
+      "url": "https://bm.nutn.edu.tw/download/news_20261103165910.pdf"
+    },
     {
       "name": "南開科大行管系官網公告（含活動辦法 PDF）",
       "url": "https://nkmlm.nkut.edu.tw/front/news/news.php?ID=bmt1dF9tbG0mbmV3cw==&Sn=431"
@@ -171,20 +171,20 @@
     }
   ],
   "verification": {
-    "last_verified": "2026-11-21",
-    "method": "dual",
+    "last_verified": "2026-11-24",
+    "method": "single",
     "unread": [
-      "競賽報名 Google 表單（需登入）"
+      "報名網址的 Google 表單（需登入）",
+      "活動海報（jpg）"
     ],
     "note": null,
     "readers": [
-      "gemini-4-hydrogen-medium",
-      "gpt-6.1-sol"
+      "claude-opus-5-5"
     ]
   },
   "first_seen": "2026-11-20",
-  "updated": "2026-11-20",
-  "level": "verified",
+  "updated": "2026-11-24",
+  "level": "checked",
   "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-nkut-innovative-marketing/",
   "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-nkut-innovative-marketing.md"
 }

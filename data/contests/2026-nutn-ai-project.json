@@ -3,7 +3,7 @@
   "id": "2026-nutn-ai-project",
   "title": "2026 全國 AI 專題創意競賽",
   "edition": "2026",
-  "summary": "2 至 6 名在學學生或職訓學員組隊，繳交作品說明書、切結書與 2 至 3 分鐘影片連結，入選決賽者須到場展示與評選。",
+  "summary": "高中職或大專學生 2 至 6 人組隊報名 AI 等專題，繳交作品說明書與影片連結，入圍者到場決賽展示。",
   "organizers": [
     {
       "name": "國立臺南大學",
@@ -34,11 +34,15 @@
     "evidence": [
       {
         "url": "https://phpweb4.nutn.edu.tw/ilt/wordpress/?page_id=4308",
-        "quote": "每隊學生為 2 至 6 人，採團體報名，可跨校組隊，惟不能大專與高中(職)混合組隊參賽；另需有1至2名學校指導老師。每人限報名一隊，請勿重複報名。"
+        "quote": "每隊學生為 2 至 6 人，採團體報名，可跨校組隊，惟不能大專與高中(職)混合組隊參賽；另需有1至2名學校指導老師。"
       },
       {
         "url": "https://phpweb4.nutn.edu.tw/ilt/wordpress/?page_id=4308",
         "quote": "凡大專校院（含大專生、碩博士生）、高中高職（含五專一至三年級）具學籍之在學學生均可參加。"
+      },
+      {
+        "url": "https://phpweb4.nutn.edu.tw/ilt/wordpress/?page_id=4308",
+        "quote": "*全國高中高職(含五專一~三年級)具正式學籍之在學學生。"
       },
       {
         "url": "https://phpweb4.nutn.edu.tw/ilt/wordpress/?page_id=4308",
@@ -47,25 +51,39 @@
       {
         "url": "https://phpweb4.nutn.edu.tw/ilt/wordpress/?page_id=4308",
         "quote": "*參加勞動部(115年度)AI相關培訓課程之學員。"
-      },
-      {
-        "url": "https://phpweb4.nutn.edu.tw/ilt/wordpress/?page_id=4308",
-        "quote": "報名須透過 Google 表單完成並請閱讀"
       }
     ]
   },
   "dates": [
     {
-      "kind": "registration_deadline",
-      "label": "受理報名截止",
-      "date": "2026-12-01",
-      "time": "23:59",
-      "original": "115/09/01 ~ 115/12/01 23：59：59 截止",
+      "kind": "other",
+      "label": "開放報名",
+      "date": "2026-09-01",
+      "time": null,
+      "original": "115/09/01",
       "basis": "quote",
       "evidence": [
         {
           "url": "https://phpweb4.nutn.edu.tw/ilt/wordpress/?page_id=4308",
           "quote": "115/09/01 ~ 115/12/01 23：59：59 截止"
+        }
+      ]
+    },
+    {
+      "kind": "registration_deadline",
+      "label": "報名截止（含切結書、作品說明書、影片連結文件）",
+      "date": "2026-12-01",
+      "time": "23:59",
+      "original": "115/12/01 23：59：59 截止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://phpweb4.nutn.edu.tw/ilt/wordpress/?page_id=4308",
+          "quote": "115/09/01 ~ 115/12/01 23：59：59 截止"
+        },
+        {
+          "url": "https://phpweb4.nutn.edu.tw/ilt/wordpress/?page_id=4308",
+          "quote": "~報名截止：115 年 12 月 01 日 23：59~"
         }
       ]
     },
@@ -80,6 +98,10 @@
         {
           "url": "https://phpweb4.nutn.edu.tw/ilt/wordpress/?page_id=4308",
           "quote": "115/12/11（星期五）"
+        },
+        {
+          "url": "https://phpweb4.nutn.edu.tw/ilt/wordpress/?page_id=4308",
+          "quote": "作品初審、作品說明書初審與線上展示(通過者，將邀請參加決賽)"
         }
       ]
     },
@@ -93,7 +115,7 @@
       "evidence": [
         {
           "url": "https://phpweb4.nutn.edu.tw/ilt/wordpress/?page_id=4308",
-          "quote": "115/12/19（星期六）"
+          "quote": "決賽 115/12/19（星期六） 現場展示 與評選"
         }
       ]
     },
@@ -107,20 +129,25 @@
       "evidence": [
         {
           "url": "https://phpweb4.nutn.edu.tw/ilt/wordpress/?page_id=4308",
-          "quote": "115/12/19（星期六）\n公布得獎名單與頒發獎金"
+          "quote": "頒獎典禮 115/12/19（星期六） 公布得獎名單與頒發獎金"
         }
       ]
     }
   ],
   "deliverables": [
     {
-      "stage": "報名與初賽",
-      "what": "Google 表單基本資料、學生證正反面（或在訓證明書）、參賽切結書、作品說明書、2 至 3 分鐘影片連結文件",
+      "stage": "報名",
+      "what": "Google 表單報名資料、參賽切結書、學生證正反面（AI 職能培力組另附在訓證明書或結訓證書）、作品說明書、影片連結文件（影片 2 至 3 分鐘）",
+      "how": "online"
+    },
+    {
+      "stage": "初賽",
+      "what": "作品初審、作品說明書初審與線上展示",
       "how": "online"
     },
     {
       "stage": "決賽",
-      "what": "現場展示與報告",
+      "what": "現場展示與評選，至少 1 名參賽學員到場報告",
       "how": "onsite"
     }
   ],
@@ -146,16 +173,23 @@
     "evidence": [
       {
         "url": "https://phpweb4.nutn.edu.tw/ilt/wordpress/?page_id=4308"
+      },
+      {
+        "url": "https://phpweb4.nutn.edu.tw/ilt/wordpress/wp-content/uploads/2026/08/ooo組組別-ooo組組名-ooo組長-切結書1150817.docx"
       }
     ]
   },
   "prizes": {
-    "text": "總獎金達 450,000 元，另設 AI 微電影最佳人氣獎。",
+    "text": "全部類別總獎金達 450,000 元，設高中職組獎項；AI 微電影另設最佳人氣獎 1 名，頒給指定期間按讚數最高之作品。",
     "basis": "quote",
     "evidence": [
       {
         "url": "https://phpweb4.nutn.edu.tw/ilt/wordpress/?page_id=4308",
         "quote": "總獎金達450,000元"
+      },
+      {
+        "url": "https://phpweb4.nutn.edu.tw/ilt/wordpress/?page_id=4308",
+        "quote": "大會專題類 一般專題類 企業命題類 高中職組"
       },
       {
         "url": "https://phpweb4.nutn.edu.tw/ilt/wordpress/?page_id=4308",
@@ -174,6 +208,10 @@
       {
         "url": "https://phpweb4.nutn.edu.tw/ilt/wordpress/?page_id=4308",
         "quote": "如使用第三人素材、公開資料或生成式 AI 工具，須在作品說明書中揭露使用方式與來源。"
+      },
+      {
+        "url": "https://phpweb4.nutn.edu.tw/ilt/wordpress/?page_id=4308",
+        "quote": "AI 微電影另須符合 AI 參與製作比例達整體流程 50％以上的規定。"
       }
     ]
   },
@@ -181,7 +219,11 @@
     "official": "https://phpweb4.nutn.edu.tw/ilt/wordpress/?page_id=4308",
     "rules": [
       {
-        "title": "參賽資格列表（適大專校院報名115.10.17修正）",
+        "title": "參賽切結書",
+        "url": "https://phpweb4.nutn.edu.tw/ilt/wordpress/wp-content/uploads/2026/08/ooo組組別-ooo組組名-ooo組長-切結書1150817.docx"
+      },
+      {
+        "title": "參賽資格列表（大專校院科系附表）",
         "url": "https://phpweb4.nutn.edu.tw/ilt/wordpress/wp-content/uploads/2026/10/附表V1：正面表列.pdf"
       }
     ],
@@ -189,29 +231,31 @@
   },
   "found_via": [
     {
+      "name": "docs.google.com",
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSe4S__rnMaEcB2nBBSPE604yTeCG_-TJHzAb33X1J2oUo6cAg/viewform"
+    },
+    {
       "name": "競賽官網",
       "url": "https://phpweb4.nutn.edu.tw/ilt/wordpress/?page_id=4308"
     }
   ],
   "verification": {
-    "last_verified": "2026-11-21",
+    "last_verified": "2026-11-24",
     "method": "dual",
     "unread": [
-      "切結書.docx",
-      "學生證正反面.docx",
-      "在訓證明書AI職能培力組.docx",
-      "作品說明書.docx",
-      "影片連結.docx",
-      "附表V1：正面表列.pdf",
-      "各組評審標準與競賽獎金（網頁動態內容）"
+      "競賽獎勵各組獎金表（網頁以 JavaScript 動態生成）",
+      "各類別評審標準",
+      "企業命題各題說明頁",
+      "作品說明書範本",
+      "影片連結文件"
     ],
     "note": null,
     "readers": [
-      "gemini-4-hydrogen-medium",
-      "gpt-6.1-sol"
+      "claude-opus-5-5",
+      "claude-opus-5-5"
     ]
   },
+  "conflict": "競賽頁「競賽資格」寫高中職組不分競賽類別、所有參賽作品統一評選；同頁常見問題第 4 題寫 AI 微電影不另依高中職、大專院校或科系背景細分參賽組別。",
   "first_seen": "2026-11-20",
-  "updated": "2026-11-20",
-  "conflict": "官網最新公告與競賽時程寫報名截止時間為 23:59（或 23:59:59），立即報名參賽區另寫 24:00。"
+  "updated": "2026-11-24"
 }

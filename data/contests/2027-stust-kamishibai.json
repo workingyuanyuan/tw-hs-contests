@@ -2,8 +2,8 @@
   "schema": 1,
   "id": "2027-stust-kamishibai",
   "title": "2027 第十七屆全國高中職日語「看圖說故事」（紙芝居）比賽",
-  "edition": "2027 第十七屆",
-  "summary": "高中職及五專一至三年級學生至多 6 人組隊，自選指定日本故事題材並繪製圖畫，郵寄報名表件與圖畫光碟並到場以日語演說。",
+  "edition": "第十七屆",
+  "summary": "高中職學生組隊經學校推薦，以自繪圖畫用日語現場演出約 5 分鐘的紙芝居故事。",
   "organizers": [
     {
       "name": "南臺學校財團法人南臺科技大學人文社會學院應用日語系",
@@ -12,8 +12,7 @@
   ],
   "categories": [
     "外語",
-    "表演藝術",
-    "美術"
+    "表演藝術"
   ],
   "eligibility": {
     "levels": [
@@ -28,7 +27,7 @@
     "nomination": "school",
     "team_min": null,
     "team_max": 6,
-    "teacher": "required",
+    "teacher": "unknown",
     "basis": "quote",
     "evidence": [
       {
@@ -41,11 +40,7 @@
       },
       {
         "url": "https://www.taivs.tp.edu.tw/static/webroot/G156956170803920/application/NN179394478792406.pdf",
-        "quote": "1. 每一團隊成員至多6 人（包含負責製作插圖者），登上舞台者限5 名以內(一人可分飾多角，含操縱畫板者）。"
-      },
-      {
-        "url": "https://www.taivs.tp.edu.tw/static/webroot/G156956170803920/application/NN179394480803654.pdf",
-        "quote": "（指導老師及全體參賽者請簽名）"
+        "quote": "每一團隊成員至多6 人（包含負責製作插圖者），登上舞台者限5 名以內(一人可分飾多角，含操縱畫板"
       }
     ]
   },
@@ -66,21 +61,21 @@
     },
     {
       "kind": "registration_deadline",
-      "label": "第二階段紙本及光碟郵寄報名截止（以郵戳為憑）",
+      "label": "第二階段報名資料郵寄截止（郵戳為憑）",
       "date": "2027-03-04",
       "time": null,
-      "original": "2027 年3 月4 日(四) 前",
+      "original": "2027 年3 月4 日(四) 前(郵戳為憑)",
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://www.taivs.tp.edu.tw/static/webroot/G156956170803920/application/NN179394478792406.pdf",
-          "quote": "2027 年3 月4 日(四) 前逕寄本校（地址：71005 臺南市永康區南台街1 號 南臺科技大學應用日語系），始完成報名程序，逾期恕不受理（以郵戳為憑）。"
+          "url": "https://www.taivs.tp.edu.tw/static/webroot/G156956170803920/application/NN179394479876081.pdf",
+          "quote": "1.報名截止日期：2027 年3 月4 日(四) 前(郵戳為憑)"
         }
       ]
     },
     {
       "kind": "final_event",
-      "label": "比賽日期",
+      "label": "比賽",
       "date": "2027-03-19",
       "time": null,
       "original": "116年3月19日（星期五）",
@@ -88,7 +83,7 @@
       "evidence": [
         {
           "url": "https://www.taivs.tp.edu.tw/content?a=T0RESVRsUnJlVTlVVFROT2FrVTl3RUZWUHAzYTY1RWUwc0dWaW50ZWx5",
-          "quote": "二、本比賽謹訂於116年3月19日（星期五）舉行"
+          "quote": "二、本比賽謹訂於116年3月19日（星期五）舉行，3月4日（星 期四）前郵寄報名相關附件紙本（以郵戳為憑）。"
         }
       ]
     }
@@ -96,17 +91,17 @@
   "deliverables": [
     {
       "stage": "第一階段報名",
-      "what": "於南臺科技大學應用日語系網頁「第一階段報名」輸入報名資料",
+      "what": "於南臺科技大學應用日語系網頁填寫報名資料",
       "how": "online"
     },
     {
       "stage": "第二階段報名",
-      "what": "紙本報名表（加蓋學校關防及附學生證正反面影本）、授權同意書、指定故事題材名稱，以及燒錄繪製圖片（半成品亦可）之光碟片",
+      "what": "報名表（加蓋學校關防）、授權同意書、指定故事題材表正本，及存有繪製圖片的光碟",
       "how": "mail"
     },
     {
-      "stage": "現場比賽",
-      "what": "5 分鐘日語看圖說故事表演（自選指定日本故事題材並繪製圖畫，以 40×28 公分紙張放入大會木製框架抽拉演出，可自備背景音樂與現場音效）",
+      "stage": "比賽",
+      "what": "從指定《福娘童話集》題材自選一則，以自繪圖畫用日語演出約 5 分鐘的紙芝居",
       "how": "onsite"
     }
   ],
@@ -118,6 +113,10 @@
       {
         "url": "https://www.taivs.tp.edu.tw/static/webroot/G156956170803920/application/NN179394478792406.pdf",
         "quote": "比賽地點：南臺科技大學圖書資訊大樓（E 棟）13 樓國際會議廳"
+      },
+      {
+        "url": "https://www.taivs.tp.edu.tw/static/webroot/G156956170803920/application/NN179394478792406.pdf",
+        "quote": "4.看圖說故事以5 分鐘為原則，4～6 分鐘不扣分，不足4 分鐘或超過6 分鐘將扣總分10 分。"
       }
     ]
   },
@@ -131,19 +130,28 @@
       },
       {
         "url": "https://www.taivs.tp.edu.tw/static/webroot/G156956170803920/application/NN179394479876081.pdf"
-      },
-      {
-        "url": "https://www.taivs.tp.edu.tw/static/webroot/G156956170803920/application/NN179394480803654.pdf"
       }
     ]
   },
   "prizes": {
-    "text": "第一名：獎狀及獎金 8,000 元；第二名：獎狀及獎金 5,000 元；第三名：獎狀及獎金 3,000 元；佳作獎（若干組）：獎狀及獎金 1,000 元。",
+    "text": "第一名獎狀及獎金 8,000 元、第二名 5,000 元、第三名 3,000 元，佳作若干組各獎狀及獎金 1,000 元。",
     "basis": "quote",
     "evidence": [
       {
         "url": "https://www.taivs.tp.edu.tw/static/webroot/G156956170803920/application/NN179394478792406.pdf",
-        "quote": "1.第一名：頒發獎狀及獎金8,000 元 2.第二名：頒發獎狀及獎金5,000 元 3.第三名：頒發獎狀及獎金3,000 元 4.佳作獎(若干組)：頒發獎狀及獎金1,000 元"
+        "quote": "1.第一名：頒發獎狀及獎金8,000 元"
+      },
+      {
+        "url": "https://www.taivs.tp.edu.tw/static/webroot/G156956170803920/application/NN179394478792406.pdf",
+        "quote": "2.第二名：頒發獎狀及獎金5,000 元"
+      },
+      {
+        "url": "https://www.taivs.tp.edu.tw/static/webroot/G156956170803920/application/NN179394478792406.pdf",
+        "quote": "3.第三名：頒發獎狀及獎金3,000 元"
+      },
+      {
+        "url": "https://www.taivs.tp.edu.tw/static/webroot/G156956170803920/application/NN179394478792406.pdf",
+        "quote": "4.佳作獎(若干組)：頒發獎狀及獎金1,000 元"
       }
     ]
   },
@@ -153,15 +161,6 @@
     "evidence": [
       {
         "url": "https://www.taivs.tp.edu.tw/static/webroot/G156956170803920/application/NN179394478792406.pdf"
-      },
-      {
-        "url": "https://www.taivs.tp.edu.tw/static/webroot/G156956170803920/application/NN179394481399785.pdf"
-      },
-      {
-        "url": "https://www.taivs.tp.edu.tw/static/webroot/G156956170803920/application/NN179394479876081.pdf"
-      },
-      {
-        "url": "https://www.taivs.tp.edu.tw/static/webroot/G156956170803920/application/NN179394480803654.pdf"
       }
     ]
   },
@@ -169,19 +168,19 @@
     "official": "https://japan.stust.edu.tw/",
     "rules": [
       {
-        "title": "活動辦法.pdf",
+        "title": "活動辦法",
         "url": "https://www.taivs.tp.edu.tw/static/webroot/G156956170803920/application/NN179394478792406.pdf"
       },
       {
-        "title": "報名表.pdf",
+        "title": "附件一 報名表",
         "url": "https://www.taivs.tp.edu.tw/static/webroot/G156956170803920/application/NN179394479876081.pdf"
       },
       {
-        "title": "同意書.pdf",
+        "title": "附件二 授權同意書",
         "url": "https://www.taivs.tp.edu.tw/static/webroot/G156956170803920/application/NN179394480803654.pdf"
       },
       {
-        "title": "指定題材.pdf",
+        "title": "附件三 指定故事題材",
         "url": "https://www.taivs.tp.edu.tw/static/webroot/G156956170803920/application/NN179394481399785.pdf"
       }
     ],
@@ -189,20 +188,25 @@
   },
   "found_via": [
     {
+      "name": "japan.stust.edu.tw",
+      "url": "https://japan.stust.edu.tw/"
+    },
+    {
       "name": "www.taivs.tp.edu.tw",
       "url": "https://www.taivs.tp.edu.tw/content?a=T0RESVRsUnJlVTlVVFROT2FrVTl3RUZWUHAzYTY1RWUwc0dWaW50ZWx5"
     }
   ],
   "verification": {
-    "last_verified": "2026-11-21",
-    "method": "single",
+    "last_verified": "2026-11-24",
+    "method": "dual",
     "unread": [],
     "note": null,
     "readers": [
-      "gemini-4-hydrogen-medium"
+      "claude-opus-5-5",
+      "claude-opus-5-5"
     ]
   },
   "first_seen": "2026-11-20",
-  "updated": "2026-11-21",
-  "conflict": "活動辦法寫比賽日期為「2026 年3 月19 日（五）」，與其第二階段報名截止日「2027 年3 月4 日(四)」及學校公告「116年3月19日（星期五）」不符，本筆資料採 2027-03-19。"
+  "updated": "2026-11-24",
+  "conflict": "活動辦法第四條寫比賽日期為「2026 年3 月19 日（五）」，同一辦法的第一階段報名截止卻是 2026 年 12 月 31 日；臺北市立大安高工的轉知公告寫「116年3月19日（星期五）」，而 2027 年 3 月 19 日為星期五。"
 }

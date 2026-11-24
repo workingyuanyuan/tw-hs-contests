@@ -3,7 +3,7 @@ title: "2026 全國高中職學校小論文競賽：智慧照顧與高齡創新�
 description: "2 至 6 名高中職生在指導老師帶領下，針對智慧照顧與高齡創新生活主題線上繳交 4 至 10 頁小論文。"
 appliesTo: "2026 這一屆"
 caveat: "日期與時間都是臺灣時間。"
-lastVerified: 2026-11-21
+lastVerified: 2026-11-24
 kind: "contest"
 deadline: "2027-01-11"
 sources:

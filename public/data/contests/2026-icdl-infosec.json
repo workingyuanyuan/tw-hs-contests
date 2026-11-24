@@ -1,0 +1,215 @@
+{
+  "schema": 1,
+  "id": "2026-icdl-infosec",
+  "title": "2026 ICDL 資訊安全能力競賽",
+  "edition": "2026",
+  "summary": "大專及高中職學生個人報名，到成功大學參加 ICDL IT Security 資訊安全測驗競賽。",
+  "organizers": [
+    {
+      "name": "國立成功大學資安科技研究中心",
+      "role": "主辦"
+    },
+    {
+      "name": "國立成功大學計算機與網路中心",
+      "role": "主辦"
+    },
+    {
+      "name": "財團法人中華民國電腦技能基金會",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "資訊與 AI"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職",
+      "大專"
+    ],
+    "division": "separate",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": 1,
+    "teacher": "optional",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/29/2026 ICDL 資訊安全能力競賽.pdf",
+        "quote": "三、競賽資格：大專及全國各高中職在校學生。"
+      },
+      {
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/29/2026 ICDL 資訊安全能力競賽.pdf",
+        "quote": "競賽組別：高中職組、大專組"
+      },
+      {
+        "url": "https://bhuntr.com/tw/competitions/5wfn95ar4t5sbj6fvg",
+        "quote": "八、報名方式：個人線上報名"
+      },
+      {
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/29/2026 ICDL 資訊安全能力競賽.pdf",
+        "quote": "各獲獎選手指導老師皆贈感謝狀乙紙，敬表謝忱"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "報名截止",
+      "date": "2026-11-30",
+      "time": null,
+      "original": "報名截止日於115 年11 月30 日前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.hgsh.hc.edu.tw/view-doc/29/2026 ICDL 資訊安全能力競賽.pdf",
+          "quote": "二、競賽日期：115 年12 月19 日 (周六) (報名截止日於115 年11 月30 日前)"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "競賽日期",
+      "date": "2026-12-19",
+      "time": null,
+      "original": "115 年12 月19 日 (周六)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.hgsh.hc.edu.tw/view-doc/29/2026 ICDL 資訊安全能力競賽.pdf",
+          "quote": "二、競賽日期：115 年12 月19 日 (周六) (報名截止日於115 年11 月30 日前)"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "競賽",
+      "what": "ICDL IT Security 資訊安全測驗，作答時間 45 分鐘",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "國立成功大學自強校區（成功校區資訊大樓 計網中心）",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/29/2026 ICDL 資訊安全能力競賽.pdf",
+        "quote": "四：報到地點：國立成功大學自強校區(電機系館 1F)"
+      },
+      {
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/29/2026 ICDL 資訊安全能力競賽.pdf",
+        "quote": "五、競賽場地：701 台南市東區大學路1 號(成功校區資訊大樓 計網中心)"
+      }
+    ]
+  },
+  "fee": {
+    "value": "required",
+    "amount": "優惠價 1500 元（ICDL 原廠認證費為 2480 元）",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/29/2026 ICDL 資訊安全能力競賽.pdf",
+        "quote": "七、報名費用：優惠價1500 元 (ICDL 原廠認證費為2480 元)"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "高中職組、大專組依競賽結果頒發冠軍、亞軍、季軍、優勝 7 名、佳作若干名獎狀；成績須達 ICDL 國際認證通過標準（及格 75% 以上）才列入排名；獲獎選手的指導老師贈感謝狀。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/29/2026 ICDL 資訊安全能力競賽.pdf",
+        "quote": "本次競賽依據競賽結果頒發冠軍、亞軍、季軍與優勝7 名、佳作若干名獎狀"
+      },
+      {
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/29/2026 ICDL 資訊安全能力競賽.pdf",
+        "quote": "競賽成績需符合ICDL 國際認證證書通過標準，才列入排名計算。"
+      },
+      {
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/29/2026 ICDL 資訊安全能力競賽.pdf",
+        "quote": "IT Secruity 作答時間45 分鐘，及格標準為75%以上。"
+      },
+      {
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/29/2026 ICDL 資訊安全能力競賽.pdf",
+        "quote": "各獲獎選手指導老師皆贈感謝狀乙紙，敬表謝忱"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/29/2026 ICDL 資訊安全能力競賽.pdf"
+      },
+      {
+        "url": "https://bhuntr.com/tw/competitions/5wfn95ar4t5sbj6fvg"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://www.ctrc.ncku.edu.tw/news/2026q4/26_icdl",
+    "rules": [
+      {
+        "title": "2026 ICDL 資訊安全能力競賽 競賽簡章",
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/29/2026 ICDL 資訊安全能力競賽.pdf"
+      }
+    ],
+    "registration": "https://protest.csf.org.tw/tevents/Event/?id=20261002154313370001&admin=true"
+  },
+  "found_via": [
+    {
+      "name": "新竹女中 活動研習",
+      "url": "https://www.hgsh.hc.edu.tw/news/2026-icdl-%e8%b3%87%e8%a8%8a%e5%ae%89%e5%85%a8%e8%83%bd-%e5%8a%9b%e7%ab%b6%e8%b3%bd/"
+    },
+    {
+      "name": "錦和高中 學生競賽",
+      "url": "https://www.jhsh.ntpc.edu.tw/p/406-1000-21414,r51.php?Lang=zh-tw"
+    },
+    {
+      "name": "高雄高工 競賽公告",
+      "url": "https://www.ksvs.kh.edu.tw/v4/cpsub/article.php?id=12765"
+    },
+    {
+      "name": "苗栗農工 處室公告",
+      "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=27205"
+    },
+    {
+      "name": "高師大附中 校外競賽與活動",
+      "url": "https://www.nknush.kh.edu.tw/announcement/23278/%e3%80%8c2026-icdl-%e8%b3%87%e8%a8%8a%e5%ae%89%e5%85%a8%e8%83%bd%e5%8a%9b%e7%ab%b6%e8%b3%bd%e3%80%8d/"
+    },
+    {
+      "name": "臺南女中 學生競賽",
+      "url": "https://www.tngs.tn.edu.tw/2026/11/20/%e8%b2%a1%e5%9c%98%e6%b3%95%e4%ba%ba%e4%b8%ad%e8%8f%af%e6%b0%91%e5%9c%8b%e9%9b%bb%e8%85%a6%e6%8a%80%e8%83%bd%e5%9f%ba%e9%87%91%e6%9c%83%e8%88%89%e8%be%a6%e3%80%8c2026-icdl-%e8%b3%87%e8%a8%8a%e5%ae%89/"
+    },
+    {
+      "name": "大同高中 學生競賽活動",
+      "url": "https://www.ttsh.tp.edu.tw/news/%e5%9c%8b%e7%ab%8b%e6%88%90%e5%8a%9f%e5%a4%a7%e5%ad%b8%e3%80%8c2026-icdl-%e8%b3%87%e8%a8%8a%e5%ae%89%e5%85%a8%e8%83%bd%e5%8a%9b%e7%ab%b6%e8%b3%bd%e3%80%8d/"
+    },
+    {
+      "name": "獎金獵人 競賽平台",
+      "url": "https://bhuntr.com/tw/competitions/5wfn95ar4t5sbj6fvg"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-24",
+    "method": "single",
+    "unread": [
+      "國立成功大學資安科技研究中心宣傳網頁"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-24",
+  "level": "checked",
+  "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-icdl-infosec/",
+  "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-icdl-infosec.md"
+}

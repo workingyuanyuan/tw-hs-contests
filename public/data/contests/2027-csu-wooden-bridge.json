@@ -1,0 +1,118 @@
+{
+  "schema": 1,
+  "id": "2027-csu-wooden-bridge",
+  "title": "116年度全國高中職學生「木橋載重創新設計競賽」",
+  "edition": "116年度",
+  "summary": "全國高中職學生於1月18日前線上報名，參加3月27日舉行的木橋載重創新設計競賽。",
+  "organizers": [
+    {
+      "name": "正修科技大學",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "工程與製造"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職"
+    ],
+    "division": "hs_only",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "unknown",
+    "team_min": null,
+    "team_max": null,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/public/news_view/show.php?nid=26751",
+        "quote": "正修科技大學116年度全國高中職學生「木橋載重創新設計競賽」"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "完成報名流程",
+      "date": "2027-01-18",
+      "time": null,
+      "original": "116年1月18日(星期一)前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.hccvs.hc.edu.tw/ischool/public/news_view/show.php?nid=26751",
+          "quote": "116年1月18日(星期一)前完成報名流程。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "競賽日期",
+      "date": "2027-03-27",
+      "time": null,
+      "original": "116年3月27日(星期六)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.hccvs.hc.edu.tw/ischool/public/news_view/show.php?nid=26751",
+          "quote": "競賽日期:116年3月27日(星期六)。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [],
+  "attendance": {
+    "value": "unknown",
+    "where": null,
+    "basis": "unread",
+    "evidence": []
+  },
+  "fee": {
+    "value": "unknown",
+    "amount": null,
+    "basis": "unread",
+    "evidence": []
+  },
+  "prizes": {
+    "text": null,
+    "basis": "unread",
+    "evidence": []
+  },
+  "ai_policy": {
+    "value": "unknown",
+    "basis": "unread",
+    "evidence": []
+  },
+  "links": {
+    "official": null,
+    "rules": [],
+    "registration": "http://civil.csu.edu.tw"
+  },
+  "found_via": [
+    {
+      "name": "新竹高商 消息公佈欄",
+      "url": "https://www.hccvs.hc.edu.tw/ischool/public/news_view/show.php?nid=26751"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-24",
+    "method": "dual",
+    "unread": [
+      "正修科技大學土木與空間資訊系網站「木橋競賽線上報名」專區"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5",
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-24",
+  "level": "verified",
+  "url": "https://yuanaruru.com/tw-hs-contests/contests/2027-csu-wooden-bridge/",
+  "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2027-csu-wooden-bridge.md"
+}

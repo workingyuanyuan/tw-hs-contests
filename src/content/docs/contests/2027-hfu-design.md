@@ -3,7 +3,7 @@ title: "2027〈大觸特觸全國高中職設計競賽〉"
 description: "全國高中職在校生設計 30 公分內立體角色，初審填線上表單並郵寄照片與表件，入圍者至台北現場發表。"
 appliesTo: "2027 這一屆"
 caveat: "日期與時間都是臺灣時間。"
-lastVerified: 2026-11-21
+lastVerified: 2026-11-24
 kind: "contest"
 deadline: "2027-02-26"
 sources:

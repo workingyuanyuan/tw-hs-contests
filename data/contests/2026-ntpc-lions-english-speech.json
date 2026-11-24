@@ -1,0 +1,151 @@
+{
+  "schema": 1,
+  "id": "2026-ntpc-lions-english-speech",
+  "title": "新北市高中反毒反霸凌反飆車反詐騙宣導英文口語表達比賽",
+  "edition": "115 年",
+  "summary": "新北市高中學生以英文口語表達反毒、反霸凌、反飆車、反詐騙宣導，到場參加分區初賽。",
+  "organizers": [
+    {
+      "name": "國際獅子會 300B2 區",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "外語"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中"
+    ],
+    "division": "hs_only",
+    "regions": [
+      "新北市"
+    ],
+    "nomination": "unknown",
+    "team_min": null,
+    "team_max": null,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.jhsh.ntpc.edu.tw/p/406-1000-21406,r51.php?Lang=zh-tw",
+        "quote": "「新北市高中反毒反霸凌反飆車反詐騙宣導英文口語表達比賽」分區初賽"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "other",
+      "label": "線上說明會",
+      "date": "2026-11-30",
+      "time": "19:00",
+      "original": "115年11月30日（星期一）晚間7時",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.jhsh.ntpc.edu.tw/p/406-1000-21406,r51.php?Lang=zh-tw",
+          "quote": "訂於115年11月30日（星期一）晚間7時召開線上說明會"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "第1場分區初賽（新北市立新北高級中學）",
+      "date": "2026-12-09",
+      "time": "09:00",
+      "original": "115年12月9日（星期三）上午9時至12時",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.jhsh.ntpc.edu.tw/p/406-1000-21406,r51.php?Lang=zh-tw",
+          "quote": "時間：115年12月9日（星期三）上午9時至12時。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "第2場分區初賽（新北市立樹林高級中學）",
+      "date": "2026-12-10",
+      "time": "13:00",
+      "original": "115年12月10日（星期四）下午1時至4時",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.jhsh.ntpc.edu.tw/p/406-1000-21406,r51.php?Lang=zh-tw",
+          "quote": "時間：115年12月10日（星期四）下午1時至4時。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "分區初賽",
+      "what": "反毒、反霸凌、反飆車、反詐騙宣導英文口語表達",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "分區初賽：新北市立新北高級中學、新北市立樹林高級中學",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.jhsh.ntpc.edu.tw/p/406-1000-21406,r51.php?Lang=zh-tw",
+        "quote": "旨揭比賽分區初賽訂於下列時間與地點舉行，請貴校惠予參賽人員公假參賽"
+      },
+      {
+        "url": "https://www.jhsh.ntpc.edu.tw/p/406-1000-21406,r51.php?Lang=zh-tw",
+        "quote": "地點：新北市立新北高級中學。"
+      },
+      {
+        "url": "https://www.jhsh.ntpc.edu.tw/p/406-1000-21406,r51.php?Lang=zh-tw",
+        "quote": "地點：新北市立樹林高級中學。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "unknown",
+    "amount": null,
+    "basis": "unread",
+    "evidence": []
+  },
+  "prizes": {
+    "text": null,
+    "basis": "unread",
+    "evidence": []
+  },
+  "ai_policy": {
+    "value": "unknown",
+    "basis": "unread",
+    "evidence": []
+  },
+  "links": {
+    "official": null,
+    "rules": [
+      {
+        "title": "分區初賽公告（新北市立錦和高級中學）",
+        "url": "https://www.jhsh.ntpc.edu.tw/p/406-1000-21406,r51.php?Lang=zh-tw"
+      }
+    ],
+    "registration": null
+  },
+  "found_via": [
+    {
+      "name": "錦和高中 學生競賽",
+      "url": "https://www.jhsh.ntpc.edu.tw/p/406-1000-21406,r51.php?Lang=zh-tw"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-24",
+    "method": "single",
+    "unread": [
+      "國際獅子會 300B2 區「新北市高中反毒反霸凌反飆車反詐騙宣導英文口語表達比賽辦法」"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-24"
+}

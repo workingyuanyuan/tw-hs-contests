@@ -144,15 +144,16 @@
     }
   ],
   "verification": {
-    "last_verified": "2026-11-21",
+    "last_verified": "2026-11-24",
     "method": "single",
     "unread": [
       "116 年 Cool English 自主學習簡報比賽懶人包＆詳細辦法（國中小）",
       "116 年 Cool English 自主學習簡報比賽懶人包＆詳細辦法（普技高）"
     ],
-    "note": null,
+    "note": "第二次讀取沒有確認：推薦",
     "readers": [
-      "gemini-4-hydrogen-medium"
+      "gemini-4-hydrogen-medium",
+      "claude-opus-5-5"
     ]
   },
   "first_seen": "2026-11-20",

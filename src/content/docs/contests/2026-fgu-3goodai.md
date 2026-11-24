@@ -3,7 +3,7 @@ title: "2026 三好AI創新應用競賽"
 description: "1 至 5 人組隊運用 AI 製作三好四給數位作品，線上繳交作品連結、說明書、3 分鐘介紹影片及切結書。"
 appliesTo: "2026 這一屆"
 caveat: "日期與時間都是臺灣時間。"
-lastVerified: 2026-11-21
+lastVerified: 2026-11-24
 kind: "contest"
 deadline: "2026-11-30"
 sources:

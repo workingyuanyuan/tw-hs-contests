@@ -1,0 +1,296 @@
+{
+  "schema": 1,
+  "id": "2026-national-student-art",
+  "title": "115 學年度全國學生美術比賽",
+  "edition": "115 學年度",
+  "summary": "國小至大專學生個人送西畫、書法、平面設計、漫畫、水墨畫或版畫作品，經縣市初賽選送決賽。",
+  "organizers": [
+    {
+      "name": "教育部",
+      "role": "指導"
+    },
+    {
+      "name": "國立臺灣藝術教育館",
+      "role": "主辦"
+    },
+    {
+      "name": "各縣市政府教育局(處)",
+      "role": "協辦"
+    }
+  ],
+  "categories": [
+    "美術",
+    "設計"
+  ],
+  "eligibility": {
+    "levels": [
+      "國小",
+      "國中",
+      "高中",
+      "高職",
+      "五專",
+      "大專"
+    ],
+    "division": "separate",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "school",
+    "team_min": 1,
+    "team_max": 1,
+    "teacher": "optional",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.ykvs.ntpc.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mell5TDNCMFlWOHlNekF3TjE4NE5qTXlOall3WHpZek5UVXpMbkJrWmc9PQ==&fname=WW54RPOKIC4441MPHCLKRKZWQOTWWT14QO3435HGTX25LK40FCNKA054WW54KLOKZTPOWW01A404GDXTRKPKTSIG34B0NOYSVXVXDCTSWSB0VSOKUSKKYWFCNO10PL15HCA0UWIGVWSWDC2550B044NKGGGDUTOO34B4HCOKIGSW45US444421XX44LKYSGDTWB4LO35WSROFHRLVXNP04B514YWJGUSWSKKDGA0WWQOPP1000ZSIGMOIGDGJDLO",
+        "quote": "初賽分國小組、國中組、高中（職）組，決賽另增加大專組。"
+      },
+      {
+        "url": "https://www.ykvs.ntpc.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mell5TDNCMFlWOHlNekF3TjE4NE5qTXlOall3WHpZek5UVXpMbkJrWmc9PQ==&fname=WW54RPOKIC4441MPHCLKRKZWQOTWWT14QO3435HGTX25LK40FCNKA054WW54KLOKZTPOWW01A404GDXTRKPKTSIG34B0NOYSVXVXDCTSWSB0VSOKUSKKYWFCNO10PL15HCA0UWIGVWSWDC2550B044NKGGGDUTOO34B4HCOKIGSW45US444421XX44LKYSGDTWB4LO35WSROFHRLVXNP04B514YWJGUSWSKKDGA0WWQOPP1000ZSIGMOIGDGJDLO",
+        "quote": "（三）高中（職）組：包括公、私立高中職日夜間部與進修學校學生、完全中學高中部學生及五專前三年學生、非學校型態實驗教育學生。"
+      },
+      {
+        "url": "https://www.ykvs.ntpc.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mell5TDNCMFlWOHlNekF3TjE4NE5qTXlOall3WHpZek5UVXpMbkJrWmc9PQ==&fname=WW54RPOKIC4441MPHCLKRKZWQOTWWT14QO3435HGTX25LK40FCNKA054WW54KLOKZTPOWW01A404GDXTRKPKTSIG34B0NOYSVXVXDCTSWSB0VSOKUSKKYWFCNO10PL15HCA0UWIGVWSWDC2550B044NKGGGDUTOO34B4HCOKIGSW45US444421XX44LKYSGDTWB4LO35WSROFHRLVXNP04B514YWJGUSWSKKDGA0WWQOPP1000ZSIGMOIGDGJDLO",
+        "quote": "1.中華民國各縣市公私立國小、國中、高中（職）（含五專一至三年級）等在學之限齡學生、高級中等以下教育階段非學校型態實驗教育之學生均得參加，大專組另逕依決賽規定辦理。"
+      },
+      {
+        "url": "https://www.ykvs.ntpc.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mell5TDNCMFlWOHlNekF3TjE4NE5qTXlOall3WHpZek5UVXpMbkJrWmc9PQ==&fname=WW54RPOKIC4441MPHCLKRKZWQOTWWT14QO3435HGTX25LK40FCNKA054WW54KLOKZTPOWW01A404GDXTRKPKTSIG34B0NOYSVXVXDCTSWSB0VSOKUSKKYWFCNO10PL15HCA0UWIGVWSWDC2550B044NKGGGDUTOO34B4HCOKIGSW45US444421XX44LKYSGDTWB4LO35WSROFHRLVXNP04B514YWJGUSWSKKDGA0WWQOPP1000ZSIGMOIGDGJDLO",
+        "quote": "2.國中組及高中（職）組每校應選送西畫類、水墨畫類、書法類、版畫類、平面設計類、漫畫類各組各1 至5 件；"
+      },
+      {
+        "url": "https://www.ykvs.ntpc.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mell5TDNCMFlWOHlNekF3TjE4NE5qTXlOall3WHpZek5UVXpMbkJrWmc9PQ==&fname=WW54RPOKIC4441MPHCLKRKZWQOTWWT14QO3435HGTX25LK40FCNKA054WW54KLOKZTPOWW01A404GDXTRKPKTSIG34B0NOYSVXVXDCTSWSB0VSOKUSKKYWFCNO10PL15HCA0UWIGVWSWDC2550B044NKGGGDUTOO34B4HCOKIGSW45US444421XX44LKYSGDTWB4LO35WSROFHRLVXNP04B514YWJGUSWSKKDGA0WWQOPP1000ZSIGMOIGDGJDLO",
+        "quote": "1.經初賽主辦單位評審後錄取之作品，由縣市政府教育局（處）送件，個人或學校自行參加概不受理。"
+      },
+      {
+        "url": "https://www.ykvs.ntpc.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mell5TDNCMFlWOHlNekF3TjE4NE5qTXlOall3WHpZek5UVXpMbkJrWmc9PQ==&fname=WW54RPOKIC4441MPHCLKRKZWQOTWWT14QO3435HGTX25LK40FCNKA054WW54KLOKZTPOWW01A404GDXTRKPKTSIG34B0NOYSVXVXDCTSWSB0VSOKUSKKYWFCNO10PL15HCA0UWIGVWSWDC2550B044NKGGGDUTOO34B4HCOKIGSW45US444421XX44LKYSGDTWB4LO35WSROFHRLVXNP04B514YWJGUSWSKKDGA0WWQOPP1000ZSIGMOIGDGJDLO",
+        "quote": "5.同一類組每人限送作品一件，且每件作品之創作者為一人，每人至多參加二類。"
+      },
+      {
+        "url": "https://www.ykvs.ntpc.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mell5TDNCMFlWOHlNekF3TjE4NE5qTXlOall3WHpZek5UVXpMbkJrWmc9PQ==&fname=WW54RPOKIC4441MPHCLKRKZWQOTWWT14QO3435HGTX25LK40FCNKA054WW54KLOKZTPOWW01A404GDXTRKPKTSIG34B0NOYSVXVXDCTSWSB0VSOKUSKKYWFCNO10PL15HCA0UWIGVWSWDC2550B044NKGGGDUTOO34B4HCOKIGSW45US444421XX44LKYSGDTWB4LO35WSROFHRLVXNP04B514YWJGUSWSKKDGA0WWQOPP1000ZSIGMOIGDGJDLO",
+        "quote": "若無校內指導老師，則填「無」。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "other",
+      "label": "各縣市初賽完成",
+      "date": "2026-10-18",
+      "time": null,
+      "original": "民國115 年10 月18 日以前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.ykvs.ntpc.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mell5TDNCMFlWOHlNekF3TjE4NE5qTXlOall3WHpZek5UVXpMbkJrWmc9PQ==&fname=WW54RPOKIC4441MPHCLKRKZWQOTWWT14QO3435HGTX25LK40FCNKA054WW54KLOKZTPOWW01A404GDXTRKPKTSIG34B0NOYSVXVXDCTSWSB0VSOKUSKKYWFCNO10PL15HCA0UWIGVWSWDC2550B044NKGGGDUTOO34B4HCOKIGSW45US444421XX44LKYSGDTWB4LO35WSROFHRLVXNP04B514YWJGUSWSKKDGA0WWQOPP1000ZSIGMOIGDGJDLO",
+          "quote": "（三）初賽日期：於民國115 年10 月18 日以前舉行完成。"
+        }
+      ]
+    },
+    {
+      "kind": "registration_deadline",
+      "label": "縣市政府上傳決賽報名資料截止",
+      "date": "2026-10-22",
+      "time": "17:00",
+      "original": "115 年10 月18 日至10 月22 日下午5 時前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.ykvs.ntpc.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mell5TDNCMFlWOHlNekF3TjE4NE5qTXlOall3WHpZek5UVXpMbkJrWmc9PQ==&fname=WW54RPOKIC4441MPHCLKRKZWQOTWWT14QO3435HGTX25LK40FCNKA054WW54KLOKZTPOWW01A404GDXTRKPKTSIG34B0NOYSVXVXDCTSWSB0VSOKUSKKYWFCNO10PL15HCA0UWIGVWSWDC2550B044NKGGGDUTOO34B4HCOKIGSW45US444421XX44LKYSGDTWB4LO35WSROFHRLVXNP04B514YWJGUSWSKKDGA0WWQOPP1000ZSIGMOIGDGJDLO",
+          "quote": "於115 年10 月18 日至10 月22 日下午5 時前，依格式鍵入相關資料上傳"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "決賽收件截止",
+      "date": "2026-10-23",
+      "time": null,
+      "original": "115 年10 月19 日至10 月23 日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.ykvs.ntpc.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mell5TDNCMFlWOHlNekF3TjE4NE5qTXlOall3WHpZek5UVXpMbkJrWmc9PQ==&fname=WW54RPOKIC4441MPHCLKRKZWQOTWWT14QO3435HGTX25LK40FCNKA054WW54KLOKZTPOWW01A404GDXTRKPKTSIG34B0NOYSVXVXDCTSWSB0VSOKUSKKYWFCNO10PL15HCA0UWIGVWSWDC2550B044NKGGGDUTOO34B4HCOKIGSW45US444421XX44LKYSGDTWB4LO35WSROFHRLVXNP04B514YWJGUSWSKKDGA0WWQOPP1000ZSIGMOIGDGJDLO",
+          "quote": "（二）收件日期："
+        },
+        {
+          "url": "https://www.ykvs.ntpc.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mell5TDNCMFlWOHlNekF3TjE4NE5qTXlOall3WHpZek5UVXpMbkJrWmc9PQ==&fname=WW54RPOKIC4441MPHCLKRKZWQOTWWT14QO3435HGTX25LK40FCNKA054WW54KLOKZTPOWW01A404GDXTRKPKTSIG34B0NOYSVXVXDCTSWSB0VSOKUSKKYWFCNO10PL15HCA0UWIGVWSWDC2550B044NKGGGDUTOO34B4HCOKIGSW45US444421XX44LKYSGDTWB4LO35WSROFHRLVXNP04B514YWJGUSWSKKDGA0WWQOPP1000ZSIGMOIGDGJDLO",
+          "quote": "115 年10 月19 日至10 月23 日"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "決賽評審",
+      "date": "2026-11-22",
+      "time": null,
+      "original": "115 年10 月30 日至11 月22 日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.ykvs.ntpc.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mell5TDNCMFlWOHlNekF3TjE4NE5qTXlOall3WHpZek5UVXpMbkJrWmc9PQ==&fname=WW54RPOKIC4441MPHCLKRKZWQOTWWT14QO3435HGTX25LK40FCNKA054WW54KLOKZTPOWW01A404GDXTRKPKTSIG34B0NOYSVXVXDCTSWSB0VSOKUSKKYWFCNO10PL15HCA0UWIGVWSWDC2550B044NKGGGDUTOO34B4HCOKIGSW45US444421XX44LKYSGDTWB4LO35WSROFHRLVXNP04B514YWJGUSWSKKDGA0WWQOPP1000ZSIGMOIGDGJDLO",
+          "quote": "（四）決賽評審日期："
+        },
+        {
+          "url": "https://www.ykvs.ntpc.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mell5TDNCMFlWOHlNekF3TjE4NE5qTXlOall3WHpZek5UVXpMbkJrWmc9PQ==&fname=WW54RPOKIC4441MPHCLKRKZWQOTWWT14QO3435HGTX25LK40FCNKA054WW54KLOKZTPOWW01A404GDXTRKPKTSIG34B0NOYSVXVXDCTSWSB0VSOKUSKKYWFCNO10PL15HCA0UWIGVWSWDC2550B044NKGGGDUTOO34B4HCOKIGSW45US444421XX44LKYSGDTWB4LO35WSROFHRLVXNP04B514YWJGUSWSKKDGA0WWQOPP1000ZSIGMOIGDGJDLO",
+          "quote": "115 年10 月30 日至11 月22 日"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "書法類大專組決賽現場書寫",
+      "date": "2026-11-08",
+      "time": "14:30",
+      "original": "115 年11 月8 日（星期日）下午2 時30 分",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.ykvs.ntpc.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mell5TDNCMFlWOHlNekF3TjE4NE5qTXlOall3WHpZek5UVXpMbkJrWmc9PQ==&fname=WW54RPOKIC4441MPHCLKRKZWQOTWWT14QO3435HGTX25LK40FCNKA054WW54KLOKZTPOWW01A404GDXTRKPKTSIG34B0NOYSVXVXDCTSWSB0VSOKUSKKYWFCNO10PL15HCA0UWIGVWSWDC2550B044NKGGGDUTOO34B4HCOKIGSW45US444421XX44LKYSGDTWB4LO35WSROFHRLVXNP04B514YWJGUSWSKKDGA0WWQOPP1000ZSIGMOIGDGJDLO",
+          "quote": "115 年11 月8 日（星期日）下午2 時30 分於國立臺灣藝術教育館舉行之現場書寫"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "成績發布",
+      "date": "2026-12-01",
+      "time": null,
+      "original": "12 月1 日前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.ykvs.ntpc.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mell5TDNCMFlWOHlNekF3TjE4NE5qTXlOall3WHpZek5UVXpMbkJrWmc9PQ==&fname=WW54RPOKIC4441MPHCLKRKZWQOTWWT14QO3435HGTX25LK40FCNKA054WW54KLOKZTPOWW01A404GDXTRKPKTSIG34B0NOYSVXVXDCTSWSB0VSOKUSKKYWFCNO10PL15HCA0UWIGVWSWDC2550B044NKGGGDUTOO34B4HCOKIGSW45US444421XX44LKYSGDTWB4LO35WSROFHRLVXNP04B514YWJGUSWSKKDGA0WWQOPP1000ZSIGMOIGDGJDLO",
+          "quote": "各類決賽評審作業（預訂115 年11 月8 日舉辦現場書寫；115 年10 月18 日前於本比賽專網公告是否試辦現場創作；如須試辦現場創作，將一併公告試辦類組、簡章、時間、地點)、12 月1 日前成績發布"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "頒獎典禮（暫訂）",
+      "date": "2027-01-09",
+      "time": null,
+      "original": "116 年1 月9 日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.ykvs.ntpc.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mell5TDNCMFlWOHlNekF3TjE4NE5qTXlOall3WHpZek5UVXpMbkJrWmc9PQ==&fname=WW54RPOKIC4441MPHCLKRKZWQOTWWT14QO3435HGTX25LK40FCNKA054WW54KLOKZTPOWW01A404GDXTRKPKTSIG34B0NOYSVXVXDCTSWSB0VSOKUSKKYWFCNO10PL15HCA0UWIGVWSWDC2550B044NKGGGDUTOO34B4HCOKIGSW45US444421XX44LKYSGDTWB4LO35WSROFHRLVXNP04B514YWJGUSWSKKDGA0WWQOPP1000ZSIGMOIGDGJDLO",
+          "quote": "1.特優：暫訂116 年1 月9 日於國立臺灣藝術教育館南海劇場或指定地點舉行「115 學年度全國學生美術比賽頒獎典禮」"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "初賽",
+      "what": "西畫、書法、平面設計、漫畫、水墨畫或版畫作品一件（依各類規格），由學校選送縣市初賽",
+      "how": "unknown"
+    },
+    {
+      "stage": "決賽",
+      "what": "初賽錄取作品由縣市教育局（處）送件；高中（職）組除書法類外另附 100-200 字作品介紹",
+      "how": "onsite"
+    },
+    {
+      "stage": "決賽（書法類）",
+      "what": "取得決賽代表權者依初賽承辦單位通知參加當地現場書寫",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "finalists",
+    "where": "初賽承辦單位通知之現場書寫地點（書法類）",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.ykvs.ntpc.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mell5TDNCMFlWOHlNekF3TjE4NE5qTXlOall3WHpZek5UVXpMbkJrWmc9PQ==&fname=WW54RPOKIC4441MPHCLKRKZWQOTWWT14QO3435HGTX25LK40FCNKA054WW54KLOKZTPOWW01A404GDXTRKPKTSIG34B0NOYSVXVXDCTSWSB0VSOKUSKKYWFCNO10PL15HCA0UWIGVWSWDC2550B044NKGGGDUTOO34B4HCOKIGSW45US444421XX44LKYSGDTWB4LO35WSROFHRLVXNP04B514YWJGUSWSKKDGA0WWQOPP1000ZSIGMOIGDGJDLO",
+        "quote": "但取得決賽代表權同學，須依初賽承辦單位通知參加現場書寫，由各縣市將現場書寫作品送達主辦單位進行決賽。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.ykvs.ntpc.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mell5TDNCMFlWOHlNekF3TjE4NE5qTXlOall3WHpZek5UVXpMbkJrWmc9PQ==&fname=WW54RPOKIC4441MPHCLKRKZWQOTWWT14QO3435HGTX25LK40FCNKA054WW54KLOKZTPOWW01A404GDXTRKPKTSIG34B0NOYSVXVXDCTSWSB0VSOKUSKKYWFCNO10PL15HCA0UWIGVWSWDC2550B044NKGGGDUTOO34B4HCOKIGSW45US444421XX44LKYSGDTWB4LO35WSROFHRLVXNP04B514YWJGUSWSKKDGA0WWQOPP1000ZSIGMOIGDGJDLO"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "決賽分特優、優等、甲等、佳作四等，佳作以上學生及指導老師各獲獎狀乙張；特優受邀出席頒獎典禮領獎。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.ykvs.ntpc.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mell5TDNCMFlWOHlNekF3TjE4NE5qTXlOall3WHpZek5UVXpMbkJrWmc9PQ==&fname=WW54RPOKIC4441MPHCLKRKZWQOTWWT14QO3435HGTX25LK40FCNKA054WW54KLOKZTPOWW01A404GDXTRKPKTSIG34B0NOYSVXVXDCTSWSB0VSOKUSKKYWFCNO10PL15HCA0UWIGVWSWDC2550B044NKGGGDUTOO34B4HCOKIGSW45US444421XX44LKYSGDTWB4LO35WSROFHRLVXNP04B514YWJGUSWSKKDGA0WWQOPP1000ZSIGMOIGDGJDLO",
+        "quote": "（七）決賽等第分「特優」、「優等」、「甲等」及「佳作」等四種，錄取數量按送件比例及水準高低擇取。"
+      },
+      {
+        "url": "https://www.ykvs.ntpc.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mell5TDNCMFlWOHlNekF3TjE4NE5qTXlOall3WHpZek5UVXpMbkJrWmc9PQ==&fname=WW54RPOKIC4441MPHCLKRKZWQOTWWT14QO3435HGTX25LK40FCNKA054WW54KLOKZTPOWW01A404GDXTRKPKTSIG34B0NOYSVXVXDCTSWSB0VSOKUSKKYWFCNO10PL15HCA0UWIGVWSWDC2550B044NKGGGDUTOO34B4HCOKIGSW45US444421XX44LKYSGDTWB4LO35WSROFHRLVXNP04B514YWJGUSWSKKDGA0WWQOPP1000ZSIGMOIGDGJDLO",
+        "quote": "一、決賽佳作以上之學生及指導老師，由本會分別致贈獎狀乙張："
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "banned",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.ykvs.ntpc.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mell5TDNCMFlWOHlNekF3TjE4NE5qTXlOall3WHpZek5UVXpMbkJrWmc9PQ==&fname=WW54RPOKIC4441MPHCLKRKZWQOTWWT14QO3435HGTX25LK40FCNKA054WW54KLOKZTPOWW01A404GDXTRKPKTSIG34B0NOYSVXVXDCTSWSB0VSOKUSKKYWFCNO10PL15HCA0UWIGVWSWDC2550B044NKGGGDUTOO34B4HCOKIGSW45US444421XX44LKYSGDTWB4LO35WSROFHRLVXNP04B514YWJGUSWSKKDGA0WWQOPP1000ZSIGMOIGDGJDLO",
+        "quote": "參賽作品應為學生之個人創作，非著作權保護之標的(如生成式人工智慧產生之成果)不得參賽。"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://web.arte.gov.tw/nsac/index_news.aspx",
+    "rules": [
+      {
+        "title": "115學年度全國學生美術比賽實施要點（PDF）",
+        "url": "https://www.ykvs.ntpc.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mell5TDNCMFlWOHlNekF3TjE4NE5qTXlOall3WHpZek5UVXpMbkJrWmc9PQ==&fname=WW54RPOKIC4441MPHCLKRKZWQOTWWT14QO3435HGTX25LK40FCNKA054WW54KLOKZTPOWW01A404GDXTRKPKTSIG34B0NOYSVXVXDCTSWSB0VSOKUSKKYWFCNO10PL15HCA0UWIGVWSWDC2550B044NKGGGDUTOO34B4HCOKIGSW45US444421XX44LKYSGDTWB4LO35WSROFHRLVXNP04B514YWJGUSWSKKDGA0WWQOPP1000ZSIGMOIGDGJDLO"
+      },
+      {
+        "title": "115學年度全國學生美術比賽實施要點（PDF，海山高中轉載）",
+        "url": "https://www.hshs.ntpc.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9MelF3TDNCMFlWODJNalF3WHpReE56TTFOakJmTlRZeE16QXVjR1Jt&fname=DGGGROTSYWQO41XX50LKSWHGRK30OOLK14B040YSUT05CCTSNKB4YS54WWECTTOKVWPOXT154404A0WSST14MOICOPNOMKGCNPJD3440YSUSVS5050GG20OKSS40CD1144JC50SXVWPKJG25WXFCUSICXTJDQPTSYSQOZSTWFGHG50FCUSQOUT05IGB0B4ZWTW14GDKKWSRO40MK21MP30QPYSNKJCDGPK54KL50USXWLP102004IGWWST30A1LODGUWTW1000GDQP4434TS0154SS54PKSW&cg=714"
+      }
+    ],
+    "registration": "https://web.arte.gov.tw/nsac/index_news.aspx"
+  },
+  "found_via": [
+    {
+      "name": "西松高中 校外競賽公告",
+      "url": "https://www.hssh.tp.edu.tw/p/405-1000-51410,c540.php?Lang=zh-tw"
+    },
+    {
+      "name": "苗栗高中 學生校外營隊、活動、比賽",
+      "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=27144"
+    },
+    {
+      "name": "苗栗高中 學生校外營隊、活動、比賽",
+      "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=27147"
+    },
+    {
+      "name": "鶯歌工商 最新消息",
+      "url": "https://www.ykvs.ntpc.edu.tw/p/406-1000-24603,r23.php"
+    },
+    {
+      "name": "海山高中 學生競賽活動",
+      "url": "https://www.hshs.ntpc.edu.tw/p/406-1000-11680,r156.php"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-24",
+    "method": "single",
+    "unread": [
+      "試辦現場創作之類組、簡章、時間、地點公告（115 年 10 月 18 日前於比賽專網公告）"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-24",
+  "level": "checked",
+  "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-national-student-art/",
+  "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-national-student-art.md"
+}

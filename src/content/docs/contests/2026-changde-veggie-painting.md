@@ -3,7 +3,7 @@ title: "蔬食繪畫嘉年華"
 description: "幼兒園至大專社會人士於臺中市大肚區現場寫生或著色，使用大會提供畫紙完成作品。"
 appliesTo: "第四屆 這一屆"
 caveat: "報名已於 2026-11-22 截止。"
-lastVerified: 2026-11-21
+lastVerified: 2026-11-24
 kind: "contest"
 deadline: "2026-11-22"
 sources:

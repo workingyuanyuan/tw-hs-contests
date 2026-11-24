@@ -3,7 +3,7 @@ title: "2026 第三屆地酒盃全國永續綠餐創意飲調與餐服競賽"
 description: "高中職及大專生報名後到臺北市客家文化主題公園現場比飲調、口布或餐服，飲調組須先寄交配方表。"
 appliesTo: "第 3 屆 這一屆"
 caveat: "報名已於 2026-11-20 12:00 截止。"
-lastVerified: 2026-11-20
+lastVerified: 2026-11-24
 kind: "contest"
 deadline: "2026-11-20"
 sources:
