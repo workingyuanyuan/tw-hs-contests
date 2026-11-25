@@ -3,7 +3,7 @@ title: "「小網紅大夢想」第五屆環境永續數位生活短片選拔活
 description: "幼兒園至大專學生個人或至多 5 人組隊，以 SDGs 與四大元素拍攝 1 至 3 分鐘短片上傳 YouTube 並線上報名。"
 appliesTo: "第五屆 這一屆"
 caveat: "日期與時間都是臺灣時間。"
-lastVerified: 2026-11-24
+lastVerified: 2026-11-25
 kind: "contest"
 deadline: "2026-11-25"
 sources:

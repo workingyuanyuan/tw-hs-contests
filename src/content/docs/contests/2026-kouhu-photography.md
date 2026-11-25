@@ -3,7 +3,7 @@ title: "2026發現口湖之美攝影比賽"
 description: "不限國籍攝影愛好者拍攝雲林口湖人文景觀或鄉公所活動，線上繳交 1 張數位照片及百字內創作理念。"
 appliesTo: "2026 這一屆"
 caveat: "高中職學生與大專生或社會人士同組評比。"
-lastVerified: 2026-11-24
+lastVerified: 2026-11-25
 kind: "contest"
 deadline: "2026-12-19"
 sources:

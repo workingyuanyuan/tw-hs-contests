@@ -3,7 +3,7 @@ title: "淡江大橋通車系列攝影暨繪畫比賽"
 description: "不限年齡與國籍皆可免費參加，攝影組線上傳照、繪畫組郵寄或親送四開紙本原稿，皆須附報名表。"
 appliesTo: "2026 這一屆"
 caveat: "高中職學生與大專生或社會人士同組評比。"
-lastVerified: 2026-11-21
+lastVerified: 2026-11-25
 kind: "contest"
 deadline: "2027-03-31"
 sources:

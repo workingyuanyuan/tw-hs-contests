@@ -1,0 +1,381 @@
+{
+  "schema": 1,
+  "id": "2026-shs-english-speech-central",
+  "title": "115 學年度全國高級中等學校學生英語演講比賽（中區）",
+  "edition": "115 學年度",
+  "summary": "中區各高級中等學校經校內初賽選出的學生，到國立彰化高級中學參加英語演講區域決賽。",
+  "organizers": [
+    {
+      "name": "教育部國民及學前教育署",
+      "role": "主辦"
+    },
+    {
+      "name": "國立高雄科技大學",
+      "role": "承辦"
+    },
+    {
+      "name": "國立彰化高級中學",
+      "role": "承辦"
+    }
+  ],
+  "categories": [
+    "外語"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職"
+    ],
+    "division": "hs_only",
+    "regions": [
+      "臺中市",
+      "南投縣",
+      "彰化縣",
+      "雲林縣",
+      "嘉義市",
+      "嘉義縣"
+    ],
+    "nomination": "school",
+    "team_min": 1,
+    "team_max": 1,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://shs.k12ea.gov.tw/assets?UUID=1898C433-26EF-4E27-8177-F5FEBFE87105",
+        "quote": "全國各高級中等學校在學學生、參與高級中等教育階段非學校型態實驗教育學生、大陸臺商學校及海外臺灣學校學生。"
+      },
+      {
+        "url": "https://shs.k12ea.gov.tw/assets?UUID=1898C433-26EF-4E27-8177-F5FEBFE87105",
+        "quote": "參加學校：臺中市、南投縣、彰化縣、雲林縣、嘉義市、嘉義縣等境內各高級中等學校。"
+      },
+      {
+        "url": "https://shs.k12ea.gov.tw/assets?UUID=1898C433-26EF-4E27-8177-F5FEBFE87105",
+        "quote": "各校初賽績優學生得代表學校報名參加區域決賽。"
+      },
+      {
+        "url": "https://shs.k12ea.gov.tw/assets?UUID=1898C433-26EF-4E27-8177-F5FEBFE87105",
+        "quote": "學校班級數全校合計25 班以下者推薦1 名，26 班以上者推薦2 名。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1lr-5KSvMGwomHJGohdHgpIHpM-ngWIVN/view?usp=drive_link",
+        "quote": "每位參賽學生於指定題演講與看圖即席演講題上台時間皆為 2 分鐘"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "同時取得學校學籍之實驗教育學生洽詢原設籍學校、個人實驗教育無學籍者向總承辦學校報名截止",
+      "date": "2026-09-04",
+      "time": null,
+      "original": "115 年 9 月 4 日（星期五）前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://shs.k12ea.gov.tw/assets?UUID=1898C433-26EF-4E27-8177-F5FEBFE87105",
+          "quote": "同時取得學校學籍者，請於115 年 9 月 4 日（星期五）前洽詢原設籍學校，應占該學校推薦之名額。"
+        },
+        {
+          "url": "https://shs.k12ea.gov.tw/assets?UUID=1898C433-26EF-4E27-8177-F5FEBFE87105",
+          "quote": "於115 年 9 月 4 日（星期五）前向國立高雄科技大學（總承辦學校）報名"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "區域決賽線上報名開始",
+      "date": "2026-09-11",
+      "time": "08:00",
+      "original": "115 年9 月11 日（星期五）上午8 時起",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://shs.k12ea.gov.tw/assets?UUID=1898C433-26EF-4E27-8177-F5FEBFE87105",
+          "quote": "報名開始日：115 年9 月11 日（星期五）上午8 時起"
+        }
+      ]
+    },
+    {
+      "kind": "registration_deadline",
+      "label": "團體及機構實驗教育學生由縣市政府向總承辦學校報名截止",
+      "date": "2026-09-24",
+      "time": null,
+      "original": "115 年 9 月 24 日（星期四）前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://shs.k12ea.gov.tw/assets?UUID=1898C433-26EF-4E27-8177-F5FEBFE87105",
+          "quote": "於 115 年 9 月 24 日（星期四）前總承辦學校報名，每個團體以推薦1 名為限。"
+        },
+        {
+          "url": "https://shs.k12ea.gov.tw/assets?UUID=1898C433-26EF-4E27-8177-F5FEBFE87105",
+          "quote": "於 115 年 9 月 24 日（星期四）前向總承辦學校報名，每個機構以推薦1 名為限。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "各校校內初賽辦理完畢",
+      "date": "2026-10-02",
+      "time": null,
+      "original": "115 年 10 月 2 日（星期五）前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://shs.k12ea.gov.tw/assets?UUID=1898C433-26EF-4E27-8177-F5FEBFE87105",
+          "quote": "由各校自行辦理於 115 年 10 月 2 日（星期五）前舉辦完畢，全校學生皆可參加。"
+        }
+      ]
+    },
+    {
+      "kind": "registration_deadline",
+      "label": "學校完成區域決賽學生線上報名截止",
+      "date": "2026-10-02",
+      "time": "17:00",
+      "original": "115 年 10 月 2 日（星期五）下午 5 時止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://shs.k12ea.gov.tw/assets?UUID=1898C433-26EF-4E27-8177-F5FEBFE87105",
+          "quote": "至報名截止日：115 年 10 月 2 日（星期五）下午 5 時止，完成參加決賽學生之網路線上報名程序"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "逾期未報名學校發函國教署申請補報名截止",
+      "date": "2026-10-08",
+      "time": null,
+      "original": "115 年 10 月 8 日（星期四）前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://shs.k12ea.gov.tw/assets?UUID=1898C433-26EF-4E27-8177-F5FEBFE87105",
+          "quote": "若學校逾期未報名，須於 115 年 10 月 8 日（星期四）前發函至國教署並敘明原因，經國教署核准後始得補報名。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "公告指定演講題目",
+      "date": "2026-10-16",
+      "time": null,
+      "original": "115 年10 月16 日（星期五）前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://shs.k12ea.gov.tw/assets?UUID=1898C433-26EF-4E27-8177-F5FEBFE87105",
+          "quote": "指定題演講：由國教署聘請命題委員命題，於 115 年10 月16 日（星期五）前公告於國教署全國高級中等學校學生英文作文及英語演講比賽宣導網站"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "公告參賽編號及名單、參賽證開放下載",
+      "date": "2026-10-16",
+      "time": null,
+      "original": "115.10.16（星期五）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://shs.k12ea.gov.tw/assets?UUID=1898C433-26EF-4E27-8177-F5FEBFE87105",
+          "quote": "公告參賽編號及名單 115.10.16（星期五）"
+        },
+        {
+          "url": "https://shs.k12ea.gov.tw/assets?UUID=1898C433-26EF-4E27-8177-F5FEBFE87105",
+          "quote": "參賽證開放下載 115.10.16（星期五）"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "公布各比賽會場表及參賽時間",
+      "date": "2026-10-30",
+      "time": null,
+      "original": "115.10.30（星期五）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://shs.k12ea.gov.tw/assets?UUID=1898C433-26EF-4E27-8177-F5FEBFE87105",
+          "quote": "公布各比賽會場表及參賽時間 115.10.30（星期五）"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "中區決賽（上午 11 時 50 分至 12 時 30 分報到）",
+      "date": "2026-11-17",
+      "time": "13:00",
+      "original": "115 年 11 月 17 日（星期二）下午1 時至5 時30 分",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://shs.k12ea.gov.tw/assets?UUID=1898C433-26EF-4E27-8177-F5FEBFE87105",
+          "quote": "中區：115 年 11 月 17 日（星期二）下午1 時至5 時30 分。"
+        },
+        {
+          "url": "https://www.chsh.chc.edu.tw/p/406-1009-196839,r70.php?Lang=zh-tw",
+          "quote": "一、日期及時間：115年 11月17日（星期二）上午11時50分至12時30分報到；下午13時開始進行賽程"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "決賽獲獎名單公告",
+      "date": "2026-11-20",
+      "time": null,
+      "original": "115 年 11 月 20 日（星期五）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://shs.k12ea.gov.tw/assets?UUID=1898C433-26EF-4E27-8177-F5FEBFE87105",
+          "quote": "決賽獲獎名單公告日期如下：115 年 11 月 20 日（星期五）。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "校內初賽",
+      "what": "各校自行命題的英語演講",
+      "how": "onsite"
+    },
+    {
+      "stage": "區域決賽",
+      "what": "指定題演講 2 分鐘，講國教署公告的題目，不得使用輔助圖片或道具，不得攜帶講稿",
+      "how": "onsite"
+    },
+    {
+      "stage": "區域決賽",
+      "what": "看圖即席演講 2 分鐘，題目當場公布，準備 5 分鐘",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "國立彰化高級中學雨賢館",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://shs.k12ea.gov.tw/assets?UUID=1898C433-26EF-4E27-8177-F5FEBFE87105",
+        "quote": "各校參加決賽學生，依各區比賽時程自行準時到達比賽地點進行報到。"
+      },
+      {
+        "url": "https://www.chsh.chc.edu.tw/p/406-1009-196839,r70.php?Lang=zh-tw",
+        "quote": "三、試場位置：本校雨賢館"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://shs.k12ea.gov.tw/assets?UUID=1898C433-26EF-4E27-8177-F5FEBFE87105"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1lr-5KSvMGwomHJGohdHgpIHpM-ngWIVN/view?usp=drive_link"
+      },
+      {
+        "url": "https://www.chsh.chc.edu.tw/p/406-1009-196839,r70.php?Lang=zh-tw"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "每區優勝 10 名、佳作 20 名，由國教署發給獎狀；優勝每人禮券新臺幣 2,500 元，佳作每人禮券新臺幣 1,000 元。完成全程比賽的學生獲參賽證明 1 紙。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://shs.k12ea.gov.tw/assets?UUID=1898C433-26EF-4E27-8177-F5FEBFE87105",
+        "quote": "評選得獎學生每區30 名，包括優勝10 名及佳作20 名"
+      },
+      {
+        "url": "https://shs.k12ea.gov.tw/assets?UUID=1898C433-26EF-4E27-8177-F5FEBFE87105",
+        "quote": "由國教署分別發給獎品及優勝、佳作、參賽證明等獎狀或證明（含指導教師）"
+      },
+      {
+        "url": "https://shs.k12ea.gov.tw/assets?UUID=1898C433-26EF-4E27-8177-F5FEBFE87105",
+        "quote": "優勝之學生：每人頒發禮券新臺幣 2,500 元。"
+      },
+      {
+        "url": "https://shs.k12ea.gov.tw/assets?UUID=1898C433-26EF-4E27-8177-F5FEBFE87105",
+        "quote": "佳作之學生：每人頒發禮券新臺幣 1,000 元。"
+      },
+      {
+        "url": "https://shs.k12ea.gov.tw/assets?UUID=1898C433-26EF-4E27-8177-F5FEBFE87105",
+        "quote": "完成全程比賽之學生由國教署頒發參賽證明 1 紙。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://shs.k12ea.gov.tw/assets?UUID=1898C433-26EF-4E27-8177-F5FEBFE87105"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1lr-5KSvMGwomHJGohdHgpIHpM-ngWIVN/view?usp=drive_link"
+      },
+      {
+        "url": "https://www.chsh.chc.edu.tw/p/406-1009-196839,r70.php?Lang=zh-tw"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://shs.k12ea.gov.tw/site/english",
+    "rules": [
+      {
+        "title": "115 學年度實施計畫",
+        "url": "https://shs.k12ea.gov.tw/assets?UUID=1898C433-26EF-4E27-8177-F5FEBFE87105"
+      },
+      {
+        "title": "試場規則及參賽時程表",
+        "url": "https://drive.google.com/file/d/1lr-5KSvMGwomHJGohdHgpIHpM-ngWIVN/view?usp=drive_link"
+      },
+      {
+        "title": "中區決賽資訊",
+        "url": "https://www.chsh.chc.edu.tw/p/406-1009-196839,r70.php?Lang=zh-tw"
+      },
+      {
+        "title": "中區賽前說明",
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/26/pta_228111_8139244_04901.pdf"
+      },
+      {
+        "title": "中區參賽流程圖",
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/26/pta_228112_4715291_04901.pdf"
+      },
+      {
+        "title": "中區日程表",
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/26/pta_228113_4310301_04901.pdf"
+      }
+    ],
+    "registration": null
+  },
+  "found_via": [
+    {
+      "name": "drive.google.com",
+      "url": "https://drive.google.com/file/d/1lr-5KSvMGwomHJGohdHgpIHpM-ngWIVN/view?usp=drive_link"
+    },
+    {
+      "name": "彰化高中 競賽公告",
+      "url": "https://www.chsh.chc.edu.tw/p/406-1009-196839,r70.php?Lang=zh-tw"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-25",
+    "method": "single",
+    "unread": [
+      "115年全國英語講比賽 注意事項(中區).png"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-25",
+  "conflict": "國教署實施計畫寫中區決賽為 115 年 11 月 17 日下午 1 時至 5 時 30 分；國立彰化高級中學的中區日程表把比賽排到 17:35、講評到 18:00，參賽流程圖寫下午 13 時至 18 時。"
+}

@@ -3,7 +3,7 @@ title: "2027 風起雲遊全國高中職插畫A4 秀"
 description: "全國高中職及五專生以「如果動物會說話」為題創作 A4 插畫，填寫線上報名表並郵寄實體作品與附件。"
 appliesTo: "2027 這一屆"
 caveat: "日期與時間都是臺灣時間。"
-lastVerified: 2026-11-24
+lastVerified: 2026-11-25
 kind: "contest"
 deadline: "2027-02-26"
 sources:

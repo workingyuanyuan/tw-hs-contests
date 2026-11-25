@@ -3,7 +3,7 @@ title: "115學年度全國學生舞蹈比賽"
 description: "學生團隊參加各縣市初賽與全國決賽，在決賽現場演出舞蹈作品。"
 appliesTo: "115 學年度 這一屆"
 caveat: "須由學校推薦或薦送，學生不能自行報名。"
-lastVerified: 2026-11-24
+lastVerified: 2026-11-25
 kind: "contest"
 sources:
   - title: "官方頁面"

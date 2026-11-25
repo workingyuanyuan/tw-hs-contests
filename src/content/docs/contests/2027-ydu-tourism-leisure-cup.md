@@ -3,7 +3,7 @@ title: "2027 育達觀休盃創意遊程設計暨專題製作競賽"
 description: "高中職及大專學生 3 至 6 人組隊，就創意遊程設計或專題製作繳交 10 至 20 頁企劃或報告書，每組 6 隊晉級現場簡報。"
 appliesTo: "2027 這一屆"
 caveat: "日期與時間都是臺灣時間。"
-lastVerified: 2026-11-24
+lastVerified: 2026-11-25
 kind: "contest"
 deadline: "2027-01-13"
 sources:

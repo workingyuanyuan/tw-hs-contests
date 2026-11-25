@@ -1,0 +1,280 @@
+{
+  "schema": 1,
+  "id": "2026-ctu-creative-itinerary",
+  "title": "2026 全國智慧生活五創競賽 大專、高中職創意遊程規劃競賽",
+  "edition": "2026",
+  "summary": "大專與高中職學生組隊，以二林鎮農業旅遊為題規劃二天一夜遊程並提出企劃書。",
+  "organizers": [
+    {
+      "name": "中華民國旅行業品質保障協會",
+      "role": "主辦"
+    },
+    {
+      "name": "建國科技大學",
+      "role": "主辦"
+    },
+    {
+      "name": "建國科技大學觀光系",
+      "role": "承辦"
+    }
+  ],
+  "categories": [
+    "餐旅",
+    "創業與企劃"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職",
+      "大專"
+    ],
+    "division": "separate",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 2,
+    "team_max": 4,
+    "teacher": "required",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33613/09142026%E5%85%A8%E5%9C%8B%E6%99%BA%E6%85%A7%E7%94%9F%E6%B4%BB%E4%BA%94%E5%89%B5%E7%AB%B6%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "一、全國大專院校、高中職學生為限。"
+      },
+      {
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33613/09142026%E5%85%A8%E5%9C%8B%E6%99%BA%E6%85%A7%E7%94%9F%E6%B4%BB%E4%BA%94%E5%89%B5%E7%AB%B6%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "二、本次競賽分A組大專校院、B組高中職。"
+      },
+      {
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33613/09142026%E5%85%A8%E5%9C%8B%E6%99%BA%E6%85%A7%E7%94%9F%E6%B4%BB%E4%BA%94%E5%89%B5%E7%AB%B6%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "三、各隊學生人數以2~4名為限，每隊至少1名至多2名指導教師。"
+      },
+      {
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33613/09142026%E5%85%A8%E5%9C%8B%E6%99%BA%E6%85%A7%E7%94%9F%E6%B4%BB%E4%BA%94%E5%89%B5%E7%AB%B6%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "二、本競賽報名方式採線上報名及電子文件上傳方式，相關報名訊息請參閱下方報名表備註欄。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "報名截止",
+      "date": "2026-10-09",
+      "time": "17:00",
+      "original": "115 年10 月09 日（星期五）下午17：00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33613/09142026%E5%85%A8%E5%9C%8B%E6%99%BA%E6%85%A7%E7%94%9F%E6%B4%BB%E4%BA%94%E5%89%B5%E7%AB%B6%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf",
+          "quote": "一、報名日期：自即日起至115 年10 月09 日（星期五）下午17：00 截止。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "完成初審（書面審查）",
+      "date": "2026-10-28",
+      "time": null,
+      "original": "115 年10 月12 日（一）至10 月28 日（三）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33613/09142026%E5%85%A8%E5%9C%8B%E6%99%BA%E6%85%A7%E7%94%9F%E6%B4%BB%E4%BA%94%E5%89%B5%E7%AB%B6%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf",
+          "quote": "二、初審日期：115 年10 月12 日（一）至10 月28 日（三）完成初審，並於建國科技大學觀光系網站公告決賽名單。"
+        }
+      ]
+    },
+    {
+      "kind": "shortlist_announcement",
+      "label": "公告初賽結果及入圍名單",
+      "date": "2026-10-30",
+      "time": null,
+      "original": "115 年10 月30 日（星期二）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33613/09142026%E5%85%A8%E5%9C%8B%E6%99%BA%E6%85%A7%E7%94%9F%E6%B4%BB%E4%BA%94%E5%89%B5%E7%AB%B6%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf",
+          "quote": "三、公告初賽結果及入圍名單：115 年10 月30 日（星期二）"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "決賽隊伍繳交決賽作品",
+      "date": "2026-11-06",
+      "time": null,
+      "original": "115 年11 月06 日（五）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33613/09142026%E5%85%A8%E5%9C%8B%E6%99%BA%E6%85%A7%E7%94%9F%E6%B4%BB%E4%BA%94%E5%89%B5%E7%AB%B6%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf",
+          "quote": "四、繳交決賽作品：115 年11 月06 日（五）"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "公佈決賽議程",
+      "date": "2026-11-09",
+      "time": null,
+      "original": "115 年11 月09 日（一）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33613/09142026%E5%85%A8%E5%9C%8B%E6%99%BA%E6%85%A7%E7%94%9F%E6%B4%BB%E4%BA%94%E5%89%B5%E7%AB%B6%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf",
+          "quote": "五、公佈決賽議程：115 年11 月09 日（一）"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "決賽",
+      "date": "2026-11-14",
+      "time": null,
+      "original": "115 年11 月14 日（六）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33613/09142026%E5%85%A8%E5%9C%8B%E6%99%BA%E6%85%A7%E7%94%9F%E6%B4%BB%E4%BA%94%E5%89%B5%E7%AB%B6%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf",
+          "quote": "六、決賽日期及地點：115 年11 月14 日（六）"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "決賽閉幕式宣佈得獎名單",
+      "date": "2026-11-14",
+      "time": null,
+      "original": "115 年11 月14 日（六）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33613/09142026%E5%85%A8%E5%9C%8B%E6%99%BA%E6%85%A7%E7%94%9F%E6%B4%BB%E4%BA%94%E5%89%B5%E7%AB%B6%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf",
+          "quote": "六、決賽日期及地點：115 年11 月14 日（六）"
+        },
+        {
+          "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33613/09142026%E5%85%A8%E5%9C%8B%E6%99%BA%E6%85%A7%E7%94%9F%E6%B4%BB%E4%BA%94%E5%89%B5%E7%AB%B6%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf",
+          "quote": "註：決賽當天閉幕式宣佈得獎名單。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名（初賽書面審查）",
+      "what": "遊程企劃書 PDF 電子檔（封面、目錄、遊程企劃，合計 20 頁內，A4 直式；含遊程主題名稱、規劃理念、行程、特色說明、費用估算表），不得出現校名等可辨識資訊",
+      "how": "online"
+    },
+    {
+      "stage": "決賽作品繳交（入圍隊伍）",
+      "what": "決賽作品",
+      "how": "unknown"
+    },
+    {
+      "stage": "決賽（入圍隊伍）",
+      "what": "張貼一張 A0 海報，由小組成員講解並接受評審提問",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "finalists",
+    "where": "建國科技大學（彰化市介壽北路1 號）",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33613/09142026%E5%85%A8%E5%9C%8B%E6%99%BA%E6%85%A7%E7%94%9F%E6%B4%BB%E4%BA%94%E5%89%B5%E7%AB%B6%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "八、決賽：請決賽隊伍攜帶一張A0 海報，於決賽中張貼於海報架上並由小組成員推派講解，並接受評審委員的提問。"
+      },
+      {
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33613/09142026%E5%85%A8%E5%9C%8B%E6%99%BA%E6%85%A7%E7%94%9F%E6%B4%BB%E4%BA%94%E5%89%B5%E7%AB%B6%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "建國科技大學（50094 彰化市介壽北路1 號）"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33613/09142026%E5%85%A8%E5%9C%8B%E6%99%BA%E6%85%A7%E7%94%9F%E6%B4%BB%E4%BA%94%E5%89%B5%E7%AB%B6%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "一、報名費：免報名費。"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "A 組、B 組分別頒發：第一名獎金 6,000 元、第二名 4,000 元、第三名 2,000 元，優選 5 名獎金每人 1,000 元，皆附獎狀；佳作若干名頒獎狀；各隊指導老師每人指導證明乙張。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33613/09142026%E5%85%A8%E5%9C%8B%E6%99%BA%E6%85%A7%E7%94%9F%E6%B4%BB%E4%BA%94%E5%89%B5%E7%AB%B6%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "捌、獎勵辦法（A 組、B 組）"
+      },
+      {
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33613/09142026%E5%85%A8%E5%9C%8B%E6%99%BA%E6%85%A7%E7%94%9F%E6%B4%BB%E4%BA%94%E5%89%B5%E7%AB%B6%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "第一名：獎金 6,000 元及頒給獎狀乙張。"
+      },
+      {
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33613/09142026%E5%85%A8%E5%9C%8B%E6%99%BA%E6%85%A7%E7%94%9F%E6%B4%BB%E4%BA%94%E5%89%B5%E7%AB%B6%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "第二名：獎金 4000 元及頒給獎狀乙張。"
+      },
+      {
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33613/09142026%E5%85%A8%E5%9C%8B%E6%99%BA%E6%85%A7%E7%94%9F%E6%B4%BB%E4%BA%94%E5%89%B5%E7%AB%B6%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "第三名：獎金2,000 元及頒給獎狀乙張。"
+      },
+      {
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33613/09142026%E5%85%A8%E5%9C%8B%E6%99%BA%E6%85%A7%E7%94%9F%E6%B4%BB%E4%BA%94%E5%89%B5%E7%AB%B6%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "優選5 名：獎金每人1,000 元及頒給獎狀乙張。"
+      },
+      {
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33613/09142026%E5%85%A8%E5%9C%8B%E6%99%BA%E6%85%A7%E7%94%9F%E6%B4%BB%E4%BA%94%E5%89%B5%E7%AB%B6%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "佳作若干名：頒給獎狀乙張。"
+      },
+      {
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33613/09142026%E5%85%A8%E5%9C%8B%E6%99%BA%E6%85%A7%E7%94%9F%E6%B4%BB%E4%BA%94%E5%89%B5%E7%AB%B6%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "各隊指導老師每人指導證明乙張。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33613/09142026%E5%85%A8%E5%9C%8B%E6%99%BA%E6%85%A7%E7%94%9F%E6%B4%BB%E4%BA%94%E5%89%B5%E7%AB%B6%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf"
+      }
+    ]
+  },
+  "links": {
+    "official": null,
+    "rules": [
+      {
+        "title": "創意遊程規劃競賽簡章",
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33613/09142026%E5%85%A8%E5%9C%8B%E6%99%BA%E6%85%A7%E7%94%9F%E6%B4%BB%E4%BA%94%E5%89%B5%E7%AB%B6%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf"
+      }
+    ],
+    "registration": "https://forms.gle/sXE1z93QMxMLU7aZ8"
+  },
+  "found_via": [
+    {
+      "name": "暨大附中 學生研習與競賽活動",
+      "url": "https://www.pshs.ntct.edu.tw/ischool/public/news_view/show.php?nid=33613"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-25",
+    "method": "single",
+    "unread": [],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-25",
+  "conflict": "簡章「參加對象」寫各隊學生 2~4 名、指導教師至少 1 名至多 2 名；同一簡章報名表備註寫指導老師二名、學生四名為一組。",
+  "level": "checked",
+  "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-ctu-creative-itinerary/",
+  "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-ctu-creative-itinerary.md"
+}

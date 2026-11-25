@@ -3,7 +3,7 @@ title: "全球華文學生文學獎"
 description: "海內外高中職及國中在學學生依組別以華文撰寫散文、新詩或短篇小說並線上投稿。"
 appliesTo: "第 45 屆 這一屆"
 caveat: "日期與時間都是臺灣時間。"
-lastVerified: 2026-11-24
+lastVerified: 2026-11-25
 kind: "contest"
 deadline: "2027-03-01"
 sources:

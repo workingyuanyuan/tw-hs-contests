@@ -3,7 +3,7 @@ title: "2027第四屆現金流大賽–富籌者聯盟：月末崛起！–"
 description: "全國高中職生到中原大學參加三天財務情境遊戲，運用有限資金做投資決策，爭取名次。"
 appliesTo: "第四屆 這一屆"
 caveat: "報名須繳費：每人新臺幣 4,200 元；三人以上團體報名每人 3,800 元。"
-lastVerified: 2026-11-24
+lastVerified: 2026-11-25
 kind: "contest"
 deadline: "2027-01-15"
 sources:

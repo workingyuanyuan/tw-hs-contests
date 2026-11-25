@@ -2,8 +2,8 @@
   "schema": 1,
   "id": "2026-lhu-terroir-cup",
   "title": "2026 第三屆地酒盃全國永續綠餐創意飲調與餐服競賽",
-  "edition": "第 3 屆",
-  "summary": "高中職及大專生報名後到臺北市客家文化主題公園現場比飲調、口布或餐服，飲調組須先寄交配方表。",
+  "edition": "第三屆",
+  "summary": "高中職與大專學生以香料與客家為主題，現場比創意調飲、口布摺疊或餐飲服務技能。",
   "organizers": [
     {
       "name": "中華民國永續飲食推廣協會",
@@ -38,26 +38,26 @@
       "全國"
     ],
     "nomination": "none",
-    "team_min": 1,
-    "team_max": 1,
-    "teacher": "optional",
+    "team_min": null,
+    "team_max": null,
+    "teacher": "unknown",
     "basis": "quote",
     "evidence": [
       {
-        "url": "https://drive.google.com/file/d/1p0aTj3-t24bumOKeFoO3AeoaZuYGH9ia/view?usp=sharing",
+        "url": "https://www.ltivs.ilc.edu.tw/app/index.php?Action=downloadfile&file=eUQvUXRaZENSVVJ6NCtyZi9jeitJdm9pRGRJOXBSTHVQUnJ3VitQdlJmdUx3R2lWSldKZTJPYzJSemhsYnJmeElGektHcVdsSHdlTTRFMjRYcHUydFNsVUgrSVRZWEE2WlBKeEFISDFaQms9&fname=RVRWdlBVc2I1eGxsZ3F5NzBVTUVCS0JwWDRlUFVvQXNDemtWc1ZvNkNQWXBWQi9pRTJGd09tVHljUUJ4OVdRWg==",
         "quote": "四、參賽資格：大專院校學生、高中職學生，含國際學生。"
       },
       {
-        "url": "https://drive.google.com/file/d/1p0aTj3-t24bumOKeFoO3AeoaZuYGH9ia/view?usp=sharing",
+        "url": "https://www.ltivs.ilc.edu.tw/app/index.php?Action=downloadfile&file=eUQvUXRaZENSVVJ6NCtyZi9jeitJdm9pRGRJOXBSTHVQUnJ3VitQdlJmdUx3R2lWSldKZTJPYzJSemhsYnJmeElGektHcVdsSHdlTTRFMjRYcHUydFNsVUgrSVRZWEE2WlBKeEFISDFaQms9&fname=RVRWdlBVc2I1eGxsZ3F5NzBVTUVCS0JwWDRlUFVvQXNDemtWc1ZvNkNQWXBWQi9pRTJGd09tVHljUUJ4OVdRWg==",
         "quote": "(一) 高中職組：高中職及五專一至三年級在學學生。"
       },
       {
-        "url": "https://drive.google.com/file/d/1p0aTj3-t24bumOKeFoO3AeoaZuYGH9ia/view?usp=sharing",
-        "quote": "(二) 大專組：大專院校大學部或五專四年級以上，年滿18歲以上之在學學生"
+        "url": "https://www.ltivs.ilc.edu.tw/app/index.php?Action=downloadfile&file=eUQvUXRaZENSVVJ6NCtyZi9jeitJdm9pRGRJOXBSTHVQUnJ3VitQdlJmdUx3R2lWSldKZTJPYzJSemhsYnJmeElGektHcVdsSHdlTTRFMjRYcHUydFNsVUgrSVRZWEE2WlBKeEFISDFaQms9&fname=RVRWdlBVc2I1eGxsZ3F5NzBVTUVCS0JwWDRlUFVvQXNDemtWc1ZvNkNQWXBWQi9pRTJGd09tVHljUUJ4OVdRWg==",
+        "quote": "(三) 高中職餐服競賽組"
       },
       {
-        "url": "https://drive.google.com/file/d/1p0aTj3-t24bumOKeFoO3AeoaZuYGH9ia/view?usp=sharing",
-        "quote": "即日起至2026年11月20日(五)中午12:00截止，請於下方連結Google 表單進行線上報名，以收件單位日期時間為憑。"
+        "url": "https://www.ltivs.ilc.edu.tw/app/index.php?Action=downloadfile&file=eUQvUXRaZENSVVJ6NCtyZi9jeitJdm9pRGRJOXBSTHVQUnJ3VitQdlJmdUx3R2lWSldKZTJPYzJSemhsYnJmeElGektHcVdsSHdlTTRFMjRYcHUydFNsVUgrSVRZWEE2WlBKeEFISDFaQms9&fname=RVRWdlBVc2I1eGxsZ3F5NzBVTUVCS0JwWDRlUFVvQXNDemtWc1ZvNkNQWXBWQi9pRTJGd09tVHljUUJ4OVdRWg==",
+        "quote": "二、即日起至2026年11月20日(五)中午12:00截止，請於下方連結Google 表單進行"
       }
     ]
   },
@@ -67,53 +67,53 @@
       "label": "線上報名截止",
       "date": "2026-11-20",
       "time": "12:00",
-      "original": "2026年11月20日(五)中午12:00",
+      "original": "即日起至2026年11月20日(五)中午12:00截止",
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://drive.google.com/file/d/1p0aTj3-t24bumOKeFoO3AeoaZuYGH9ia/view?usp=sharing",
+          "url": "https://www.ltivs.ilc.edu.tw/app/index.php?Action=downloadfile&file=eUQvUXRaZENSVVJ6NCtyZi9jeitJdm9pRGRJOXBSTHVQUnJ3VitQdlJmdUx3R2lWSldKZTJPYzJSemhsYnJmeElGektHcVdsSHdlTTRFMjRYcHUydFNsVUgrSVRZWEE2WlBKeEFISDFaQms9&fname=RVRWdlBVc2I1eGxsZ3F5NzBVTUVCS0JwWDRlUFVvQXNDemtWc1ZvNkNQWXBWQi9pRTJGd09tVHljUUJ4OVdRWg==",
           "quote": "二、報名期間：即日起至2026年11月20日(五)中午12:00截止，主辦擁有更改之權利。"
         }
       ]
     },
     {
       "kind": "submission_deadline",
-      "label": "調飲／調酒組配方表繳交截止",
+      "label": "高中職創意調飲組、大專院校創意調酒組配方表繳交截止",
       "date": "2026-11-27",
       "time": "12:00",
-      "original": "11月27日(五)中午12點",
+      "original": "11月27日，週五，中午12點前",
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://drive.google.com/file/d/1p0aTj3-t24bumOKeFoO3AeoaZuYGH9ia/view?usp=sharing",
-          "quote": "配方表請於11月27日(五)中午12點前，傳至主辦單位"
+          "url": "https://www.ltivs.ilc.edu.tw/app/index.php?Action=downloadfile&file=eUQvUXRaZENSVVJ6NCtyZi9jeitJdm9pRGRJOXBSTHVQUnJ3VitQdlJmdUx3R2lWSldKZTJPYzJSemhsYnJmeElGektHcVdsSHdlTTRFMjRYcHUydFNsVUgrSVRZWEE2WlBKeEFISDFaQms9&fname=RVRWdlBVc2I1eGxsZ3F5NzBVTUVCS0JwWDRlUFVvQXNDemtWc1ZvNkNQWXBWQi9pRTJGd09tVHljUUJ4OVdRWg==",
+          "quote": "註：參賽配方表，請於11月27日，週五，中午12點前傳至主辦單位E-mail:"
         }
       ]
     },
     {
       "kind": "other",
-      "label": "賽程公告",
+      "label": "公告賽程",
       "date": "2026-12-01",
       "time": null,
       "original": "2026年12月1日(二)",
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://drive.google.com/file/d/1p0aTj3-t24bumOKeFoO3AeoaZuYGH9ia/view?usp=sharing",
+          "url": "https://www.ltivs.ilc.edu.tw/app/index.php?Action=downloadfile&file=eUQvUXRaZENSVVJ6NCtyZi9jeitJdm9pRGRJOXBSTHVQUnJ3VitQdlJmdUx3R2lWSldKZTJPYzJSemhsYnJmeElGektHcVdsSHdlTTRFMjRYcHUydFNsVUgrSVRZWEE2WlBKeEFISDFaQms9&fname=RVRWdlBVc2I1eGxsZ3F5NzBVTUVCS0JwWDRlUFVvQXNDemtWc1ZvNkNQWXBWQi9pRTJGd09tVHljUUJ4OVdRWg==",
           "quote": "六、2026年12月1日(二) 於龍華科技大學觀光休閒系官網公告賽程"
         }
       ]
     },
     {
       "kind": "final_event",
-      "label": "競賽日期",
+      "label": "競賽",
       "date": "2026-12-06",
       "time": "08:00",
       "original": "2026年12月6日(日)，上午08:00-18:30",
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://drive.google.com/file/d/1p0aTj3-t24bumOKeFoO3AeoaZuYGH9ia/view?usp=sharing",
+          "url": "https://www.ltivs.ilc.edu.tw/app/index.php?Action=downloadfile&file=eUQvUXRaZENSVVJ6NCtyZi9jeitJdm9pRGRJOXBSTHVQUnJ3VitQdlJmdUx3R2lWSldKZTJPYzJSemhsYnJmeElGektHcVdsSHdlTTRFMjRYcHUydFNsVUgrSVRZWEE2WlBKeEFISDFaQms9&fname=RVRWdlBVc2I1eGxsZ3F5NzBVTUVCS0JwWDRlUFVvQXNDemtWc1ZvNkNQWXBWQi9pRTJGd09tVHljUUJ4OVdRWg==",
           "quote": "一、競賽日期：2026年12月6日(日)，上午08:00-18:30"
         }
       ]
@@ -122,17 +122,27 @@
   "deliverables": [
     {
       "stage": "報名",
-      "what": "線上報名表、學生證正反面及身分證或健保卡正面（國際學生附居留證）電子檔",
+      "what": "線上報名表，附蓋有 115-1 學期註冊章之學生證正反面與身分證或健保卡正面影像",
       "how": "online"
     },
     {
-      "stage": "賽前（創意調飲／調酒組）",
-      "what": "參賽配方表（標示成份、廠牌及單杯 ml 容量）",
+      "stage": "賽前（創意調飲組、創意調酒組）",
+      "what": "參賽配方表，寄至主辦單位電子郵件",
       "how": "online"
     },
     {
-      "stage": "現場競賽",
-      "what": "依組別現場進行飲品調製與展台布置、9 款口布造型設計或餐桌服務流程演練",
+      "stage": "競賽當日（創意調飲組、創意調酒組）",
+      "what": "布置 30 公分見方展台，10 分鐘內現場調製兩份以香料為主題的飲品",
+      "how": "onsite"
+    },
+    {
+      "stage": "競賽當日（口布創意組）",
+      "what": "20 分鐘內現場摺疊 9 款口布造型並完成主題餐桌布置",
+      "how": "onsite"
+    },
+    {
+      "stage": "競賽當日（餐服競賽組）",
+      "what": "5 分鐘內完成迎賓、倒水、換餐具與上菜的服務流程",
       "how": "onsite"
     }
   ],
@@ -142,8 +152,12 @@
     "basis": "quote",
     "evidence": [
       {
-        "url": "https://drive.google.com/file/d/1p0aTj3-t24bumOKeFoO3AeoaZuYGH9ia/view?usp=sharing",
+        "url": "https://www.ltivs.ilc.edu.tw/app/index.php?Action=downloadfile&file=eUQvUXRaZENSVVJ6NCtyZi9jeitJdm9pRGRJOXBSTHVQUnJ3VitQdlJmdUx3R2lWSldKZTJPYzJSemhsYnJmeElGektHcVdsSHdlTTRFMjRYcHUydFNsVUgrSVRZWEE2WlBKeEFISDFaQms9&fname=RVRWdlBVc2I1eGxsZ3F5NzBVTUVCS0JwWDRlUFVvQXNDemtWc1ZvNkNQWXBWQi9pRTJGd09tVHljUUJ4OVdRWg==",
         "quote": "三、競賽地點：臺北市客家文化主題公園 (臺北市中正區汀州路三段2號) 。"
+      },
+      {
+        "url": "https://www.ltivs.ilc.edu.tw/app/index.php?Action=downloadfile&file=eUQvUXRaZENSVVJ6NCtyZi9jeitJdm9pRGRJOXBSTHVQUnJ3VitQdlJmdUx3R2lWSldKZTJPYzJSemhsYnJmeElGektHcVdsSHdlTTRFMjRYcHUydFNsVUgrSVRZWEE2WlBKeEFISDFaQms9&fname=RVRWdlBVc2I1eGxsZ3F5NzBVTUVCS0JwWDRlUFVvQXNDemtWc1ZvNkNQWXBWQi9pRTJGd09tVHljUUJ4OVdRWg==",
+        "quote": "08:30-09:00 選手報到"
       }
     ]
   },
@@ -153,34 +167,54 @@
     "basis": "quote",
     "evidence": [
       {
-        "url": "https://drive.google.com/file/d/1p0aTj3-t24bumOKeFoO3AeoaZuYGH9ia/view?usp=sharing",
+        "url": "https://www.ltivs.ilc.edu.tw/app/index.php?Action=downloadfile&file=eUQvUXRaZENSVVJ6NCtyZi9jeitJdm9pRGRJOXBSTHVQUnJ3VitQdlJmdUx3R2lWSldKZTJPYzJSemhsYnJmeElGektHcVdsSHdlTTRFMjRYcHUydFNsVUgrSVRZWEE2WlBKeEFISDFaQms9&fname=RVRWdlBVc2I1eGxsZ3F5NzBVTUVCS0JwWDRlUFVvQXNDemtWc1ZvNkNQWXBWQi9pRTJGd09tVHljUUJ4OVdRWg==",
         "quote": "一、本競賽鼓勵參賽者發揮「永續綠餐 X 客香保種」之精神，競賽免報名費。"
       }
     ]
   },
   "prizes": {
-    "text": "依分數頒發金牌（90–100 分）、銀牌（80–89 分）、銅牌（70–79 分）、優勝（60–69 分）。高中職各組及大專餐服組金牌 2,000 元、銀牌 1,000 元；大專調酒組金牌 3,000 元、銀牌 2,000 元；金銀銅牌均附獎牌與電子獎狀。",
+    "text": "各組依分數頒金牌（90～100 分）、銀牌（80～89 分）、銅牌（70～79 分）、優勝（60～69 分）。高中職三組與大專院校餐服競賽組金牌獎金 2,000 元、銀牌 1,000 元；大專院校創意調酒組金牌 3,000 元、銀牌 2,000 元；金、銀、銅牌皆附獎牌與電子獎狀。",
     "basis": "quote",
     "evidence": [
       {
-        "url": "https://drive.google.com/file/d/1p0aTj3-t24bumOKeFoO3AeoaZuYGH9ia/view?usp=sharing",
+        "url": "https://www.ltivs.ilc.edu.tw/app/index.php?Action=downloadfile&file=eUQvUXRaZENSVVJ6NCtyZi9jeitJdm9pRGRJOXBSTHVQUnJ3VitQdlJmdUx3R2lWSldKZTJPYzJSemhsYnJmeElGektHcVdsSHdlTTRFMjRYcHUydFNsVUgrSVRZWEE2WlBKeEFISDFaQms9&fname=RVRWdlBVc2I1eGxsZ3F5NzBVTUVCS0JwWDRlUFVvQXNDemtWc1ZvNkNQWXBWQi9pRTJGd09tVHljUUJ4OVdRWg==",
+        "quote": "金牌 ..........................................................90〜100 分"
+      },
+      {
+        "url": "https://www.ltivs.ilc.edu.tw/app/index.php?Action=downloadfile&file=eUQvUXRaZENSVVJ6NCtyZi9jeitJdm9pRGRJOXBSTHVQUnJ3VitQdlJmdUx3R2lWSldKZTJPYzJSemhsYnJmeElGektHcVdsSHdlTTRFMjRYcHUydFNsVUgrSVRZWEE2WlBKeEFISDFaQms9&fname=RVRWdlBVc2I1eGxsZ3F5NzBVTUVCS0JwWDRlUFVvQXNDemtWc1ZvNkNQWXBWQi9pRTJGd09tVHljUUJ4OVdRWg==",
+        "quote": "銀牌 ..........................................................80〜89 分"
+      },
+      {
+        "url": "https://www.ltivs.ilc.edu.tw/app/index.php?Action=downloadfile&file=eUQvUXRaZENSVVJ6NCtyZi9jeitJdm9pRGRJOXBSTHVQUnJ3VitQdlJmdUx3R2lWSldKZTJPYzJSemhsYnJmeElGektHcVdsSHdlTTRFMjRYcHUydFNsVUgrSVRZWEE2WlBKeEFISDFaQms9&fname=RVRWdlBVc2I1eGxsZ3F5NzBVTUVCS0JwWDRlUFVvQXNDemtWc1ZvNkNQWXBWQi9pRTJGd09tVHljUUJ4OVdRWg==",
+        "quote": "銅牌 ..........................................................70〜79 分"
+      },
+      {
+        "url": "https://www.ltivs.ilc.edu.tw/app/index.php?Action=downloadfile&file=eUQvUXRaZENSVVJ6NCtyZi9jeitJdm9pRGRJOXBSTHVQUnJ3VitQdlJmdUx3R2lWSldKZTJPYzJSemhsYnJmeElGektHcVdsSHdlTTRFMjRYcHUydFNsVUgrSVRZWEE2WlBKeEFISDFaQms9&fname=RVRWdlBVc2I1eGxsZ3F5NzBVTUVCS0JwWDRlUFVvQXNDemtWc1ZvNkNQWXBWQi9pRTJGd09tVHljUUJ4OVdRWg==",
+        "quote": "優勝 ..........................................................60〜69 分"
+      },
+      {
+        "url": "https://www.ltivs.ilc.edu.tw/app/index.php?Action=downloadfile&file=eUQvUXRaZENSVVJ6NCtyZi9jeitJdm9pRGRJOXBSTHVQUnJ3VitQdlJmdUx3R2lWSldKZTJPYzJSemhsYnJmeElGektHcVdsSHdlTTRFMjRYcHUydFNsVUgrSVRZWEE2WlBKeEFISDFaQms9&fname=RVRWdlBVc2I1eGxsZ3F5NzBVTUVCS0JwWDRlUFVvQXNDemtWc1ZvNkNQWXBWQi9pRTJGd09tVHljUUJ4OVdRWg==",
         "quote": "二、獎勵內容 (為響應永續環保，本賽事「獎狀」皆以電子檔寄送發放)"
       },
       {
-        "url": "https://drive.google.com/file/d/1p0aTj3-t24bumOKeFoO3AeoaZuYGH9ia/view?usp=sharing",
+        "url": "https://www.ltivs.ilc.edu.tw/app/index.php?Action=downloadfile&file=eUQvUXRaZENSVVJ6NCtyZi9jeitJdm9pRGRJOXBSTHVQUnJ3VitQdlJmdUx3R2lWSldKZTJPYzJSemhsYnJmeElGektHcVdsSHdlTTRFMjRYcHUydFNsVUgrSVRZWEE2WlBKeEFISDFaQms9&fname=RVRWdlBVc2I1eGxsZ3F5NzBVTUVCS0JwWDRlUFVvQXNDemtWc1ZvNkNQWXBWQi9pRTJGd09tVHljUUJ4OVdRWg==",
         "quote": "金牌：獎金NT$ 2,000元、獎牌乙個、獎狀乙張"
       },
       {
-        "url": "https://drive.google.com/file/d/1p0aTj3-t24bumOKeFoO3AeoaZuYGH9ia/view?usp=sharing",
-        "quote": "銀牌：獎金NT$ 1,000元、獎牌乙個、獎狀乙張"
+        "url": "https://www.ltivs.ilc.edu.tw/app/index.php?Action=downloadfile&file=eUQvUXRaZENSVVJ6NCtyZi9jeitJdm9pRGRJOXBSTHVQUnJ3VitQdlJmdUx3R2lWSldKZTJPYzJSemhsYnJmeElGektHcVdsSHdlTTRFMjRYcHUydFNsVUgrSVRZWEE2WlBKeEFISDFaQms9&fname=RVRWdlBVc2I1eGxsZ3F5NzBVTUVCS0JwWDRlUFVvQXNDemtWc1ZvNkNQWXBWQi9pRTJGd09tVHljUUJ4OVdRWg==",
+        "quote": "銀牌：獎金NT$1,000元、獎牌乙個、獎狀乙張"
       },
       {
-        "url": "https://drive.google.com/file/d/1p0aTj3-t24bumOKeFoO3AeoaZuYGH9ia/view?usp=sharing",
-        "quote": "銅牌：獎牌乙個、獎狀乙張"
-      },
-      {
-        "url": "https://drive.google.com/file/d/1p0aTj3-t24bumOKeFoO3AeoaZuYGH9ia/view?usp=sharing",
+        "url": "https://www.ltivs.ilc.edu.tw/app/index.php?Action=downloadfile&file=eUQvUXRaZENSVVJ6NCtyZi9jeitJdm9pRGRJOXBSTHVQUnJ3VitQdlJmdUx3R2lWSldKZTJPYzJSemhsYnJmeElGektHcVdsSHdlTTRFMjRYcHUydFNsVUgrSVRZWEE2WlBKeEFISDFaQms9&fname=RVRWdlBVc2I1eGxsZ3F5NzBVTUVCS0JwWDRlUFVvQXNDemtWc1ZvNkNQWXBWQi9pRTJGd09tVHljUUJ4OVdRWg==",
         "quote": "金牌：獎金NT$ 3,000元、獎牌乙個、獎狀乙張"
+      },
+      {
+        "url": "https://www.ltivs.ilc.edu.tw/app/index.php?Action=downloadfile&file=eUQvUXRaZENSVVJ6NCtyZi9jeitJdm9pRGRJOXBSTHVQUnJ3VitQdlJmdUx3R2lWSldKZTJPYzJSemhsYnJmeElGektHcVdsSHdlTTRFMjRYcHUydFNsVUgrSVRZWEE2WlBKeEFISDFaQms9&fname=RVRWdlBVc2I1eGxsZ3F5NzBVTUVCS0JwWDRlUFVvQXNDemtWc1ZvNkNQWXBWQi9pRTJGd09tVHljUUJ4OVdRWg==",
+        "quote": "銀牌：獎金NT$ 2,000元、獎牌乙個、獎狀乙張"
+      },
+      {
+        "url": "https://www.ltivs.ilc.edu.tw/app/index.php?Action=downloadfile&file=eUQvUXRaZENSVVJ6NCtyZi9jeitJdm9pRGRJOXBSTHVQUnJ3VitQdlJmdUx3R2lWSldKZTJPYzJSemhsYnJmeElGektHcVdsSHdlTTRFMjRYcHUydFNsVUgrSVRZWEE2WlBKeEFISDFaQms9&fname=RVRWdlBVc2I1eGxsZ3F5NzBVTUVCS0JwWDRlUFVvQXNDemtWc1ZvNkNQWXBWQi9pRTJGd09tVHljUUJ4OVdRWg==",
+        "quote": "銅牌：獎牌乙個、獎狀乙張"
       }
     ]
   },
@@ -189,41 +223,49 @@
     "basis": "absent",
     "evidence": [
       {
-        "url": "https://drive.google.com/file/d/1p0aTj3-t24bumOKeFoO3AeoaZuYGH9ia/view?usp=sharing"
+        "url": "https://www.ltivs.ilc.edu.tw/app/index.php?Action=downloadfile&file=eUQvUXRaZENSVVJ6NCtyZi9jeitJdm9pRGRJOXBSTHVQUnJ3VitQdlJmdUx3R2lWSldKZTJPYzJSemhsYnJmeElGektHcVdsSHdlTTRFMjRYcHUydFNsVUgrSVRZWEE2WlBKeEFISDFaQms9&fname=RVRWdlBVc2I1eGxsZ3F5NzBVTUVCS0JwWDRlUFVvQXNDemtWc1ZvNkNQWXBWQi9pRTJGd09tVHljUUJ4OVdRWg=="
       }
     ]
   },
   "links": {
-    "official": "https://sl.lhu.edu.tw/p/412-1004-2430.php?Lang=zh-tw",
+    "official": null,
     "rules": [
       {
-        "title": "競賽簡章（PDF）",
-        "url": "https://drive.google.com/file/d/1p0aTj3-t24bumOKeFoO3AeoaZuYGH9ia/view?usp=sharing"
+        "title": "競賽簡章",
+        "url": "https://www.ltivs.ilc.edu.tw/app/index.php?Action=downloadfile&file=eUQvUXRaZENSVVJ6NCtyZi9jeitJdm9pRGRJOXBSTHVQUnJ3VitQdlJmdUx3R2lWSldKZTJPYzJSemhsYnJmeElGektHcVdsSHdlTTRFMjRYcHUydFNsVUgrSVRZWEE2WlBKeEFISDFaQms9&fname=RVRWdlBVc2I1eGxsZ3F5NzBVTUVCS0JwWDRlUFVvQXNDemtWc1ZvNkNQWXBWQi9pRTJGd09tVHljUUJ4OVdRWg=="
+      },
+      {
+        "title": "宣傳海報",
+        "url": "https://www.ltivs.ilc.edu.tw/app/index.php?Action=downloadfile&file=eUQvUXRaZENSVVJ6NCtyZi9jeitJa2w5aTFnQU45NUtWRmFCTDFzTmhmOFg4cjZsa0hCZkxyczF0SUtBMzNNT0lGektHcVdsSHdlTTRFMjRYcHUydFNsVUgrSVRZWEE2WlBKeEFISDFaQms9&fname=MElzUC9qZjl2Tlp1WWRXVlhTNnlxS0JwWDRlUFVvQXNDemtWc1ZvNkNQWXBWQi9pRTJGd09tVHljUUJ4OVdRWg=="
       }
     ],
     "registration": "https://forms.gle/pxbFN7oU7YHFSakr7"
   },
   "found_via": [
     {
-      "name": "www.ksvs.kh.edu.tw",
-      "url": "https://www.ksvs.kh.edu.tw/v4/cpsub/article.php?id=12696"
+      "name": "羅東高工 最新消息",
+      "url": "https://www.ltivs.ilc.edu.tw/p/406-1000-5299,r12.php?Lang=zh-tw"
+    },
+    {
+      "name": "苗栗農工 處室公告",
+      "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26994"
     }
   ],
   "verification": {
-    "last_verified": "2026-11-24",
-    "method": "dual",
+    "last_verified": "2026-11-25",
+    "method": "single",
     "unread": [
-      "宣傳海報（無可擷取文字之 PDF）"
+      "函.pdf"
     ],
     "note": null,
     "readers": [
-      "gemini-4-hydrogen-medium",
-      "gpt-6.1-sol"
+      "claude-opus-5-5"
     ]
   },
   "first_seen": "2026-11-20",
-  "updated": "2026-11-20",
-  "level": "verified",
+  "updated": "2026-11-25",
+  "conflict": "競賽簡章寫競賽時間為上午08:00-18:30，宣傳海報寫時間為09:00-17:00。",
+  "level": "checked",
   "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-lhu-terroir-cup/",
   "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-lhu-terroir-cup.md"
 }

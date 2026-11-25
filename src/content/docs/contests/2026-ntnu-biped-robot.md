@@ -3,7 +3,7 @@ title: "2026 全國二足機器人競賽"
 description: "教師指導至多 4 名學生組隊，攜帶自備機器人至臺師大參加足球、擂台或氣球擊破等現場競賽。"
 appliesTo: "2026 這一屆"
 caveat: "報名已於 2026-11-20 17:00 截止。"
-lastVerified: 2026-11-20
+lastVerified: 2026-11-25
 kind: "contest"
 deadline: "2026-11-20"
 sources:

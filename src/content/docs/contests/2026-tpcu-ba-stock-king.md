@@ -3,7 +3,7 @@ title: "2026北城企管全國股王股后爭霸賽"
 description: "大專及高中職學生個人參加模擬股票投資競賽，依總報酬率高低排名。"
 appliesTo: "2026 這一屆"
 caveat: "報名已於 2026-11-20 截止。競賽規則把報名截止與頒獎典禮寫作 2023/11/20 與 2023/12/09，公文寫作 2026/11/20 與 2026/12/09；競賽規則的報名網址為 mba.tpcu.edu.tw，公文的活動網站為 ba.tpcu.edu.tw。"
-lastVerified: 2026-11-24
+lastVerified: 2026-11-25
 kind: "contest"
 deadline: "2026-11-20"
 sources:

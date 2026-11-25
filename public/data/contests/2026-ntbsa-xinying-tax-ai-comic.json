@@ -1,0 +1,79 @@
+{
+  "schema": 1,
+  "id": "2026-ntbsa-xinying-tax-ai-comic",
+  "title": "「AI稅雲端 漫畫Show起來」之租稅AI四格漫畫徵件活動",
+  "edition": "2026",
+  "summary": "以租稅為主題創作 AI 四格漫畫參加徵件。",
+  "organizers": [
+    {
+      "name": "財政部南區國稅局新營分局",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "美術",
+    "社會人文"
+  ],
+  "eligibility": {
+    "levels": [],
+    "division": "unknown",
+    "regions": [],
+    "nomination": "unknown",
+    "team_min": null,
+    "team_max": null,
+    "teacher": "unknown",
+    "basis": "unread",
+    "evidence": []
+  },
+  "dates": [],
+  "deliverables": [],
+  "attendance": {
+    "value": "unknown",
+    "where": null,
+    "basis": "unread",
+    "evidence": []
+  },
+  "fee": {
+    "value": "unknown",
+    "amount": null,
+    "basis": "unread",
+    "evidence": []
+  },
+  "prizes": {
+    "text": null,
+    "basis": "unread",
+    "evidence": []
+  },
+  "ai_policy": {
+    "value": "unknown",
+    "basis": "unread",
+    "evidence": []
+  },
+  "links": {
+    "official": "https://xy-comic.ntbsa.gov.tw",
+    "rules": [],
+    "registration": null
+  },
+  "found_via": [
+    {
+      "name": "潮州高中 學生課外活動",
+      "url": "https://www.ccsh.ptc.edu.tw/data.php?id=19119&tpl=28"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-25",
+    "method": "single",
+    "unread": [
+      "財政部南區國稅局網站公告之活動辦法"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-25",
+  "level": "unverified",
+  "url": null,
+  "markdown": null
+}

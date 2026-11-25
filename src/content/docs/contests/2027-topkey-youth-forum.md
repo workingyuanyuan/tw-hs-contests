@@ -3,7 +3,7 @@ title: "拓凱新世紀青少年高峰論壇"
 description: "3 至 6 名高中職或五專前三年學生組隊，就家鄉公共議題撰寫小論文格式計畫書並提出行動方案，入圍 12 隊赴明道中學進行論壇發表。"
 appliesTo: "115 學年度 這一屆"
 caveat: "日期與時間都是臺灣時間。"
-lastVerified: 2026-11-24
+lastVerified: 2026-11-25
 kind: "contest"
 deadline: "2027-01-24"
 sources:

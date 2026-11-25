@@ -3,7 +3,7 @@ title: "2027 全國創意與智慧科技競賽暨 AI 協作挑戰賽"
 description: "全國國中至碩士班 1 至 4 人組隊參賽，繳交作品說明 PDF、海報與影片，入圍者至政大公企中心實體展示。"
 appliesTo: "2027 這一屆"
 caveat: "報名須繳費：新臺幣 800 元。"
-lastVerified: 2026-11-24
+lastVerified: 2026-11-25
 kind: "contest"
 deadline: "2027-03-11"
 sources:

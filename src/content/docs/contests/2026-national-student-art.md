@@ -3,7 +3,7 @@ title: "115 學年度全國學生美術比賽"
 description: "國小至大專學生個人送西畫、書法、平面設計、漫畫、水墨畫或版畫作品，經縣市初賽選送決賽。"
 appliesTo: "115 學年度 這一屆"
 caveat: "須由學校推薦或薦送，學生不能自行報名。"
-lastVerified: 2026-11-24
+lastVerified: 2026-11-25
 kind: "contest"
 sources:
   - title: "官方頁面"

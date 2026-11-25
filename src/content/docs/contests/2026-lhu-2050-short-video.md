@@ -3,7 +3,7 @@ title: "全國大專校院暨高中職「2050 永續生活願景」短影音行�
 description: "大專校院及高中職生 1 至 6 人組隊，運用生成式 AI 製作 30 至 60 秒永續生活短影音，線上繳交影片、15 頁簡報與 AI 紀錄。"
 appliesTo: "2026 這一屆"
 caveat: "日期與時間都是臺灣時間。"
-lastVerified: 2026-11-24
+lastVerified: 2026-11-25
 kind: "contest"
 deadline: "2026-11-27"
 sources:

@@ -1,0 +1,276 @@
+{
+  "schema": 1,
+  "id": "2026-genai-algorithm-cert",
+  "title": "115年度生成式AI演算法認證暨競賽",
+  "edition": "115 年度",
+  "summary": "全國高中職學生就生成式 AI 演算法原理接受電腦化測驗，合格者再參加實機操作競賽。",
+  "organizers": [
+    {
+      "name": "中華民國資訊聯盟",
+      "role": "主辦"
+    },
+    {
+      "name": "財團法人中華民國電腦技能基金會",
+      "role": "承辦"
+    },
+    {
+      "name": "教育部",
+      "role": "指導"
+    },
+    {
+      "name": "數發部數產署",
+      "role": "指導"
+    },
+    {
+      "name": "誠士資訊",
+      "role": "協辦"
+    }
+  ],
+  "categories": [
+    "資訊與 AI"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職"
+    ],
+    "division": "hs_only",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": null,
+    "team_max": null,
+    "teacher": "required",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://reurl.cc/omV4d3",
+        "quote": "參加對象：全國高中職在學學生。"
+      },
+      {
+        "url": "https://reurl.cc/omV4d3",
+        "quote": "報名資格：學生向其指導老師索取報名代碼後即可參加。"
+      },
+      {
+        "url": "https://reurl.cc/omV4d3",
+        "quote": "報名方式：請於本網站完成會員註冊，登入後依活動頁面指示輸入報名代碼完成線上報名。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "L1 認證報名截止",
+      "date": "2026-11-10",
+      "time": null,
+      "original": "115年10月1日至11月10日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.csghs.tp.edu.tw/news/%e4%b8%ad%e8%8f%af%e6%b0%91%e5%9c%8b%e8%b3%87%e8%a8%8a%e8%81%af%e7%9b%9f%e5%8d%94%e9%80%b2%e6%9c%83%e8%be%a6%e7%90%86%e3%80%8c115%e5%b9%b4%e5%ba%a6%e7%94%9f%e6%88%90%e5%bc%8fai%e6%bc%94%e7%ae%97/",
+          "quote": "L1認證報名期間為115年10月1日至11月10日，並於11月20日前於各校辦理認證；"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "各校辦理 L1 認證截止",
+      "date": "2026-11-20",
+      "time": null,
+      "original": "11月20日(五)前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.ltivs.ilc.edu.tw/app/index.php?Action=downloadfile&file=azlzQTZQWHFOVVRoMU9vOUdZQkZrbUFxQk9FMjVwN1BRbHJPWjc4dHNySDlraUZRUm15SXdiUXFnd2J1eHpML0pVeHVZWTd0L1VQcE4xOTVVSWYyUWlsVUgrSVRZWEE2WlBKeEFISDFaQms9&fname=T0NvT3VTVkNpOTNVbG83dWp3RXk1U2xVSCtJVFlYQTZaUEp4QUhIMVpCaz0=",
+          "quote": "並於11月20日(五)前於各校舉辦L1認證。"
+        },
+        {
+          "url": "https://www.csghs.tp.edu.tw/news/%e4%b8%ad%e8%8f%af%e6%b0%91%e5%9c%8b%e8%b3%87%e8%a8%8a%e8%81%af%e7%9b%9f%e5%8d%94%e9%80%b2%e6%9c%83%e8%be%a6%e7%90%86%e3%80%8c115%e5%b9%b4%e5%ba%a6%e7%94%9f%e6%88%90%e5%bc%8fai%e6%bc%94%e7%ae%97/",
+          "quote": "L1認證報名期間為115年10月1日至11月10日，並於11月20日前於各校辦理認證；"
+        }
+      ]
+    },
+    {
+      "kind": "registration_deadline",
+      "label": "L1 合格者報名 L2 認證暨競賽截止",
+      "date": "2026-11-30",
+      "time": null,
+      "original": "11月30日前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.csghs.tp.edu.tw/news/%e4%b8%ad%e8%8f%af%e6%b0%91%e5%9c%8b%e8%b3%87%e8%a8%8a%e8%81%af%e7%9b%9f%e5%8d%94%e9%80%b2%e6%9c%83%e8%be%a6%e7%90%86%e3%80%8c115%e5%b9%b4%e5%ba%a6%e7%94%9f%e6%88%90%e5%bc%8fai%e6%bc%94%e7%ae%97/",
+          "quote": "L1合格者須於11月30日前報名L2認證暨競賽，實機競賽訂於12月20日（星期日）於臺北市舉行。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "L2 實機競賽",
+      "date": "2026-12-20",
+      "time": "13:30",
+      "original": "115/12/20 (日) 13:30~15:30",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://reurl.cc/omV4d3",
+          "quote": "三．L2 競賽時程 115/12/20 (日)"
+        },
+        {
+          "url": "https://reurl.cc/omV4d3",
+          "quote": "13:30~15:30 L2競賽（120分鐘）"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "頒獎典禮",
+      "date": "2026-12-20",
+      "time": "16:30",
+      "original": "115/12/20 (日) 16:30~17:00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://reurl.cc/omV4d3",
+          "quote": "三．L2 競賽時程 115/12/20 (日)"
+        },
+        {
+          "url": "https://reurl.cc/omV4d3",
+          "quote": "16:30~17:00 頒獎典禮"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "L1 認證",
+      "what": "電腦化學科測驗（單選題），70 分合格",
+      "how": "onsite"
+    },
+    {
+      "stage": "L2 認證暨競賽（L1 合格者）",
+      "what": "電腦術科競賽（操作題）120 分鐘，70 分合格",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "L1 於各校就校考試；L2 於國立台北科技大學 隆玉科技大樓",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://reurl.cc/omV4d3",
+        "quote": "以學校為單位，就校考試"
+      },
+      {
+        "url": "https://reurl.cc/omV4d3",
+        "quote": "國立台北科技大學 隆玉科技大樓"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://reurl.cc/omV4d3",
+        "quote": "報名費用：115年計畫補助免收報名費。"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "L1 與 L2 通過者（70 分合格）核發電子合格證書，考後一個月核發；L2 競賽當日舉行頒獎典禮。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://reurl.cc/omV4d3",
+        "quote": "通過者核發電子合格證書"
+      },
+      {
+        "url": "https://reurl.cc/omV4d3",
+        "quote": "考後一個月"
+      },
+      {
+        "url": "https://reurl.cc/omV4d3",
+        "quote": "16:30~17:00 頒獎典禮"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://reurl.cc/omV4d3"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://isaroc.org/%e7%94%9f%e6%88%90%e5%bc%8f-ai-%e6%bc%94%e7%ae%97%e6%b3%95%e7%ab%b6%e8%b3%bd/",
+    "rules": [
+      {
+        "title": "中華民國資訊聯盟協進會函（115年11月4日）",
+        "url": "https://www.ltivs.ilc.edu.tw/app/index.php?Action=downloadfile&file=azlzQTZQWHFOVVRoMU9vOUdZQkZrbUFxQk9FMjVwN1BRbHJPWjc4dHNySDlraUZRUm15SXdiUXFnd2J1eHpML0pVeHVZWTd0L1VQcE4xOTVVSWYyUWlsVUgrSVRZWEE2WlBKeEFISDFaQms9&fname=T0NvT3VTVkNpOTNVbG83dWp3RXk1U2xVSCtJVFlYQTZaUEp4QUhIMVpCaz0="
+      }
+    ],
+    "registration": "https://reurl.cc/omV4d3"
+  },
+  "found_via": [
+    {
+      "name": "新竹高商 消息公佈欄",
+      "url": "https://www.hccvs.hc.edu.tw/ischool/public/news_view/show.php?nid=26676"
+    },
+    {
+      "name": "錦和高中 學生競賽",
+      "url": "https://www.jhsh.ntpc.edu.tw/p/406-1000-21328,r51.php?Lang=zh-tw"
+    },
+    {
+      "name": "南港高工 重要資訊",
+      "url": "https://www.nkhs.tp.edu.tw/ischool/public/news_view/show.php?nid=35199"
+    },
+    {
+      "name": "大安高工 競賽資訊",
+      "url": "https://www.taivs.tp.edu.tw/content?a=T0RESVRtcFJlRTFVV1RKTlJFRTl5c21hTkJ6YTY1RWUwc0dWaW50ZWx5"
+    },
+    {
+      "name": "北一女中 最新消息",
+      "url": "https://www.fg.tp.edu.tw/news/115%e5%b9%b4%e5%ba%a6%e7%94%9f%e6%88%90%e5%bc%8fai%e6%bc%94%e7%ae%97%e6%b3%95%e8%aa%8d%e8%ad%89%e6%9a%a8%e7%ab%b6%e8%b3%bd%e6%b4%bb%e5%8b%95%e8%be%a6%e6%b3%95/"
+    },
+    {
+      "name": "三重商工 學生事務公告",
+      "url": "https://www.scvs.ntpc.edu.tw/p/406-1000-16000,r28.php"
+    },
+    {
+      "name": "中山女高 最新消息",
+      "url": "https://www.csghs.tp.edu.tw/news/%e4%b8%ad%e8%8f%af%e6%b0%91%e5%9c%8b%e8%b3%87%e8%a8%8a%e8%81%af%e7%9b%9f%e5%8d%94%e9%80%b2%e6%9c%83%e8%be%a6%e7%90%86%e3%80%8c115%e5%b9%b4%e5%ba%a6%e7%94%9f%e6%88%90%e5%bc%8fai%e6%bc%94%e7%ae%97/"
+    },
+    {
+      "name": "羅東高工 最新消息",
+      "url": "https://www.ltivs.ilc.edu.tw/p/406-1000-5319,r12.php?Lang=zh-tw"
+    },
+    {
+      "name": "臺南女中 學生競賽",
+      "url": "https://www.tngs.tn.edu.tw/2026/11/05/%e4%b8%ad%e8%8f%af%e6%b0%91%e5%9c%8b%e8%b3%87%e8%a8%8a%e8%81%af%e7%9b%9f%e5%8d%94%e9%80%b2%e6%9c%83%e8%be%a6%e7%90%86115%e5%b9%b4%e5%ba%a6%e7%94%9f%e6%88%90%e5%bc%8fai%e6%bc%94%e7%ae%97%e6%b3%95/"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-25",
+    "method": "dual",
+    "unread": [
+      "L2 電腦術科競賽例題下載"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5",
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-25",
+  "conflict": "中華民國資訊聯盟協進會 115年11月4日函寫 L1 合格者須於11月30日前報名L2認證暨競賽；活動網站的認證說明表則寫 L2 競賽符合資格者無需另外報名。",
+  "level": "verified",
+  "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-genai-algorithm-cert/",
+  "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-genai-algorithm-cert.md"
+}

@@ -1,0 +1,258 @@
+{
+  "schema": 1,
+  "id": "2027-ntpc-self-learning-goai",
+  "title": "新北市115學年度技術型高中自主學習Go AI成果競賽",
+  "edition": "115 學年度",
+  "summary": "新北市技術型高中專業群科學生撰寫技能專書閱讀心得，或以 AI 工具輔助自主學習並提交成果報告。",
+  "organizers": [
+    {
+      "name": "新北市政府教育局",
+      "role": "主辦"
+    },
+    {
+      "name": "新北市立泰山高級中學",
+      "role": "承辦"
+    }
+  ],
+  "categories": [
+    "資訊與 AI",
+    "語文與寫作",
+    "技藝與技能"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職"
+    ],
+    "division": "hs_only",
+    "regions": [
+      "新北市"
+    ],
+    "nomination": "school",
+    "team_min": 1,
+    "team_max": 3,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.ykvs.ntpc.edu.tw/var/file/0/1000/img/143/665697297.pdf",
+        "quote": "一、本市公私立技術型高中(含普通型高中設有專業群科)及綜合型高中學校之115學年度專 業群科（專門學程）在學學生。"
+      },
+      {
+        "url": "https://www.ykvs.ntpc.edu.tw/var/file/0/1000/img/143/665697297.pdf",
+        "quote": "二、各競賽組別每校可送件數以日間部高三專業群科班級數為上限。每校每名學生每組限 薦送1件。"
+      },
+      {
+        "url": "https://www.ykvs.ntpc.edu.tw/var/file/0/1000/img/143/665697297.pdf",
+        "quote": "(四)「技能Book 組」每件成果參賽學生以1名為限，閱讀心得書籍須限定於「技能相 關之專業書籍」。"
+      },
+      {
+        "url": "https://www.ykvs.ntpc.edu.tw/var/file/0/1000/img/143/665697297.pdf",
+        "quote": "(五)「行動Go AI 組」每件成果參賽學生以1名為原則，至多3名；指導老師限1名。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "other",
+      "label": "鶯歌工商學生校內收件截止",
+      "date": "2027-01-04",
+      "time": null,
+      "original": "116年1月4日(星期一)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.ykvs.ntpc.edu.tw/p/406-1000-25648,r23.php",
+          "quote": "校內收件時間：自即日起至116年1月4日(星期一)止。"
+        }
+      ]
+    },
+    {
+      "kind": "registration_deadline",
+      "label": "初賽報名截止",
+      "date": "2027-01-12",
+      "time": null,
+      "original": "自116年1月4日(星期一)至116年1月12日(星期二)止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.ykvs.ntpc.edu.tw/var/file/0/1000/img/143/665697297.pdf",
+          "quote": "一、報名時間：自116年1月4日(星期一)至116年1月12日(星期二)止。"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "核章紙本郵寄與電子檔 Email 截止（以郵戳為憑）",
+      "date": "2027-01-12",
+      "time": null,
+      "original": "116年1月12日(星期 二)前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.ykvs.ntpc.edu.tw/var/file/0/1000/img/143/665697297.pdf",
+          "quote": "(二)請將兩組學生自主學習成果報告(格式如附件)分別核章後，於116年1月12日(星期 二)前郵寄核章後紙本"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "「行動Go AI 組」決賽",
+      "date": "2027-03-11",
+      "time": "08:00",
+      "original": "116年3月11日(星期四)上午8時至下午3時",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.ykvs.ntpc.edu.tw/var/file/0/1000/img/143/665697297.pdf",
+          "quote": "一、競賽日期：116年3月11日(星期四)上午8時至下午3時(詳細時間內容另行於承辦學校校 網公告)。"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "「技能Book 組」得獎公告（預計，於此日前）",
+      "date": "2027-04-09",
+      "time": null,
+      "original": "預計於116年4月9日(星期五)前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.ykvs.ntpc.edu.tw/var/file/0/1000/img/143/665697297.pdf",
+          "quote": "公告得獎時間預計於116年4月9日(星期五)前，公告於承辦學校網站。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名（兩組）",
+      "what": "以 WORD 撰打的報名表與成果報告，核章後寄送紙本",
+      "how": "mail"
+    },
+    {
+      "stage": "報名（兩組）",
+      "what": "成果報告 WORD 電子檔、核章後掃瞄之 PDF 檔與學校報名 Excel 清冊，以 Email 寄送",
+      "how": "online"
+    },
+    {
+      "stage": "「技能Book 組」",
+      "what": "技能相關專業書籍的成果報告：圖書作者與內容簡介、內容摘錄、我的觀點（至少八百字）、討論議題",
+      "how": "mail"
+    },
+    {
+      "stage": "「行動Go AI 組」初賽",
+      "what": "2 頁內書面成果報告：學習主題、目標、內容、成果（含相片）、學生省思，不得有網站連結",
+      "how": "mail"
+    },
+    {
+      "stage": "「行動Go AI 組」決賽",
+      "what": "每人（組）3 分鐘口頭報告，說明使用的 AI 工具及其在自主學習的歷程與成效",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "finalists",
+    "where": "新北市泰山高中",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.ykvs.ntpc.edu.tw/var/file/0/1000/img/143/665697297.pdf",
+        "quote": "二、競賽地點：新北市泰山高中。"
+      },
+      {
+        "url": "https://www.ykvs.ntpc.edu.tw/var/file/0/1000/img/143/665697297.pdf",
+        "quote": "四、參賽學生應穿著便服全程參與本競賽活動(不包括頒獎)。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.ykvs.ntpc.edu.tw/var/file/0/1000/img/143/665697297.pdf"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "「技能Book 組」：特優 5 件各 500 元學生禮券、優等 10 件各 300 元、甲等 15 件各 100 元、佳作數件，學生與指導老師皆獲獎狀。「行動Go AI 組」（AI 領航員獎）：特優 2 件各 5,000 元學生禮券、優等 3 件各 3,000 元、甲等 5 件各 1,000 元、佳作數件各 500 元，學生與指導老師獲獎狀。得獎數以不超過決賽參賽數的百分之四十為限。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.ykvs.ntpc.edu.tw/var/file/0/1000/img/143/665697297.pdf",
+        "quote": "特優(5件) 500元/每件 每名1紙 每名1紙 優等(10件) 300元/每件"
+      },
+      {
+        "url": "https://www.ykvs.ntpc.edu.tw/var/file/0/1000/img/143/665697297.pdf",
+        "quote": "甲等(15件) 100元/每件 每名1紙 每名1紙 佳作數件"
+      },
+      {
+        "url": "https://www.ykvs.ntpc.edu.tw/var/file/0/1000/img/143/665697297.pdf",
+        "quote": "(二) 「行動Go AI 組」：AI 領航員獎"
+      },
+      {
+        "url": "https://www.ykvs.ntpc.edu.tw/var/file/0/1000/img/143/665697297.pdf",
+        "quote": "特優2件 5,000元/每件 每名1紙 1紙 優等3件 3,000元/每件 每名1紙 1紙 甲等5件 1,000元/每件 每名1紙 1紙 佳作數件 500元/每件"
+      },
+      {
+        "url": "https://www.ykvs.ntpc.edu.tw/var/file/0/1000/img/143/665697297.pdf",
+        "quote": "二、每組得獎成果報告數量，以不超過決賽參賽數的百分之四十(無條件進入)為限"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "restricted",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.ykvs.ntpc.edu.tw/var/file/0/1000/img/143/665697297.pdf",
+        "quote": "二、「行動Go AI 組」：旨在引導學生善用AI 工具(例如Chatgpt、Gemini、NotebookLM、 Felo、Speech-to-Text、Napkin)輔助自主學習"
+      },
+      {
+        "url": "https://www.ykvs.ntpc.edu.tw/var/file/0/1000/img/143/665697297.pdf",
+        "quote": "「行動Go AI 組」之「學生省思」、「技能Book 組」之「我的觀點」內容亦不得以任 何AI 工具生成，如經查證有上述情事者，取消參賽資格"
+      }
+    ]
+  },
+  "links": {
+    "official": null,
+    "rules": [
+      {
+        "title": "新北市115學年度技術型高中自主學習Go AI 成果競賽實施計畫",
+        "url": "https://www.ykvs.ntpc.edu.tw/var/file/0/1000/img/143/665697297.pdf"
+      }
+    ],
+    "registration": null
+  },
+  "found_via": [
+    {
+      "name": "鶯歌工商 最新消息",
+      "url": "https://www.ykvs.ntpc.edu.tw/p/406-1000-25648,r23.php"
+    },
+    {
+      "name": "鶯歌工商 最新消息",
+      "url": "https://www.ykvs.ntpc.edu.tw/p/406-1000-25648,r23.php?Lang=zh-tw"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-25",
+    "method": "dual",
+    "unread": [
+      "行動Go_AI組報名表成果報告書.odt",
+      "技能Book組競賽報名表及成果報告書.odt",
+      "報名excel 檔（承辦學校校網「新北市自主學習Go AI 成果競賽專區」）"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5",
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-25",
+  "level": "verified",
+  "url": "https://yuanaruru.com/tw-hs-contests/contests/2027-ntpc-self-learning-goai/",
+  "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2027-ntpc-self-learning-goai.md"
+}

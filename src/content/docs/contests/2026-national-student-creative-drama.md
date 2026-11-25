@@ -3,7 +3,7 @@ title: "115學年度全國學生創意戲劇比賽"
 description: "國小至高中職學校團隊以偶戲或舞臺劇參加縣市初賽，代表隊到決賽現場演出15至20分鐘。"
 appliesTo: "115 學年度 這一屆"
 caveat: "須由學校推薦或薦送，學生不能自行報名。"
-lastVerified: 2026-11-24
+lastVerified: 2026-11-25
 kind: "contest"
 sources:
   - title: "官方頁面"

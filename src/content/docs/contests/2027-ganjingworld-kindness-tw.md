@@ -3,7 +3,7 @@ title: "第四屆《善念點亮台灣》影片暨繪畫創作大賽"
 description: "個人或團體以善行為題創作影片或繪畫，發布於乾淨世界頻道並加活動標籤，按讚數達100可進入評選。"
 appliesTo: "第四屆 這一屆"
 caveat: "高中職學生與大專生或社會人士同組評比。"
-lastVerified: 2026-11-24
+lastVerified: 2026-11-25
 kind: "contest"
 deadline: "2027-03-31"
 sources:

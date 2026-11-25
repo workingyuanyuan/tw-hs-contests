@@ -3,7 +3,7 @@ title: "2027 總統教育獎"
 description: "學校或社會團體推薦逆境中奮發向上的學生，寄送推薦資料與佐證，經初審與複審訪視遴選。"
 appliesTo: "2027 這一屆"
 caveat: "須由學校推薦或薦送，學生不能自行報名。"
-lastVerified: 2026-11-24
+lastVerified: 2026-11-25
 kind: "contest"
 deadline: "2026-12-24"
 sources:

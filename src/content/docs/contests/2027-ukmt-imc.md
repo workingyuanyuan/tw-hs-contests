@@ -3,7 +3,7 @@ title: "UKMT-IMC 英國中級數學挑戰"
 description: "全國 10 年級及以下學生參加英國中級數學挑戰，作答英文數學選擇題試卷。"
 appliesTo: "2027 這一屆"
 caveat: "報名須繳費：學校自辦考場每位考生 1100 元。"
-lastVerified: 2026-11-24
+lastVerified: 2026-11-25
 kind: "contest"
 deadline: "2027-01-11"
 sources:

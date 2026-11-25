@@ -1,0 +1,1263 @@
+{
+ "date": "2026-11-25",
+ "discover": {
+  "taivs": {
+   "name": "大安高工 競賽資訊",
+   "pages": 1,
+   "seen": 25,
+   "new": 1,
+   "oldest": "2026-11-09",
+   "stop": "end",
+   "status": "ok",
+   "first_page": 25
+  },
+  "ksvs": {
+   "name": "高雄高工 競賽公告",
+   "pages": 1,
+   "seen": 60,
+   "new": 1,
+   "oldest": "2026-10-16",
+   "stop": "end",
+   "status": "ok",
+   "first_page": 60
+  },
+  "fhsh": {
+   "name": "鳳新高中 營隊競賽",
+   "pages": 2,
+   "seen": 29,
+   "new": 2,
+   "oldest": "2026-10-05",
+   "stop": "seen",
+   "status": "ok",
+   "first_page": 16
+  },
+  "nknush": {
+   "name": "高師大附中 校外競賽與活動",
+   "pages": 2,
+   "seen": 47,
+   "new": 5,
+   "oldest": "2026-11-04",
+   "stop": "seen",
+   "status": "ok",
+   "first_page": 24
+  },
+  "tngs": {
+   "name": "臺南女中 學生競賽",
+   "pages": 1,
+   "seen": 10,
+   "new": 0,
+   "oldest": "2026-11-12",
+   "stop": "seen",
+   "status": "ok",
+   "first_page": 10
+  },
+  "tlsh": {
+   "name": "斗六高中 營隊研習競賽",
+   "pages": 3,
+   "seen": 160,
+   "new": 14,
+   "oldest": "2026-09-02",
+   "stop": "seen",
+   "status": "ok",
+   "first_page": 100
+  },
+  "chsh": {
+   "name": "彰化高中 競賽公告",
+   "pages": 2,
+   "seen": 100,
+   "new": 50,
+   "oldest": "2025-09-17",
+   "stop": "old",
+   "status": "ok",
+   "first_page": 50
+  },
+  "hssh": {
+   "name": "西松高中 校外競賽公告",
+   "pages": 5,
+   "seen": 50,
+   "new": 41,
+   "oldest": "2025-11-11",
+   "stop": "old",
+   "status": "ok",
+   "first_page": 10
+  },
+  "dlsh": {
+   "name": "大里高中 校外活動與競賽",
+   "pages": 13,
+   "seen": 259,
+   "new": 224,
+   "oldest": "2026-06-29",
+   "stop": "old",
+   "status": "ok",
+   "first_page": 20
+  },
+  "scime": {
+   "name": "全國技藝競賽資訊平臺 商業類",
+   "pages": 1,
+   "seen": 30,
+   "new": 0,
+   "oldest": "2025-12-08",
+   "stop": "seen",
+   "status": "ok",
+   "first_page": 30
+  },
+  "ntunhs": {
+   "name": "臺北護理健康大學 學生專題競賽",
+   "pages": 1,
+   "seen": 1,
+   "new": 0,
+   "oldest": null,
+   "stop": "seen",
+   "status": "ok",
+   "first_page": 1
+  },
+  "ewant": {
+   "name": "ewant 育網自主學習競賽",
+   "pages": 1,
+   "seen": 7,
+   "new": 0,
+   "oldest": "2021-03-01",
+   "stop": "seen",
+   "status": "ok",
+   "first_page": 7
+  },
+  "bhuntr": {
+   "name": "獎金獵人 競賽平台",
+   "pages": 1,
+   "seen": 218,
+   "new": 12,
+   "oldest": null,
+   "stop": "end",
+   "status": "ok",
+   "first_page": 218
+  },
+  "shs": {
+   "name": "中學生網站",
+   "pages": 1,
+   "seen": 10,
+   "new": 0,
+   "oldest": "2026-06-15",
+   "stop": "seen",
+   "status": "ok",
+   "first_page": 10
+  },
+  "mxeduc": {
+   "name": "旺宏教育基金會",
+   "pages": 1,
+   "seen": 9,
+   "new": 0,
+   "oldest": "2025-11-02",
+   "stop": "seen",
+   "status": "ok",
+   "first_page": 9
+  },
+  "fg": {
+   "name": "北一女中 最新消息",
+   "pages": 2,
+   "seen": 53,
+   "new": 12,
+   "oldest": "2026-10-22",
+   "stop": "seen",
+   "status": "ok",
+   "first_page": 33
+  },
+  "csghs": {
+   "name": "中山女高 最新消息",
+   "pages": 2,
+   "seen": 52,
+   "new": 2,
+   "oldest": "2026-08-03",
+   "stop": "seen",
+   "status": "ok",
+   "first_page": 37
+  },
+  "aicup": {
+   "name": "AI CUP",
+   "pages": 1,
+   "seen": 20,
+   "new": 0,
+   "oldest": "2025-07-15",
+   "stop": "seen",
+   "status": "ok",
+   "first_page": 20
+  },
+  "mediatek": {
+   "name": "聯發科技 智在家鄉",
+   "pages": 1,
+   "seen": 5,
+   "new": 0,
+   "oldest": "2025-08-13",
+   "stop": "seen",
+   "status": "ok",
+   "first_page": 5
+  },
+  "twsf": {
+   "name": "臺灣國際科學展覽會 TISF",
+   "pages": 1,
+   "seen": 8,
+   "new": 0,
+   "oldest": "2025-08-28",
+   "stop": "seen",
+   "status": "ok",
+   "first_page": 8
+  },
+  "jhsh": {
+   "name": "錦和高中 學生競賽",
+   "pages": 1,
+   "seen": 34,
+   "new": 1,
+   "oldest": "2026-08-04",
+   "stop": "end",
+   "status": "ok",
+   "first_page": 34
+  },
+  "scvs": {
+   "name": "三重商工 學生事務公告",
+   "pages": 2,
+   "seen": 24,
+   "new": 1,
+   "oldest": "2026-01-05",
+   "stop": "seen",
+   "status": "ok",
+   "first_page": 12
+  },
+  "ykvs": {
+   "name": "鶯歌工商 最新消息",
+   "pages": 2,
+   "seen": 39,
+   "new": 17,
+   "oldest": "2026-08-03",
+   "stop": "seen",
+   "status": "ok",
+   "first_page": 20
+  },
+  "ltivs": {
+   "name": "羅東高工 最新消息",
+   "pages": 2,
+   "seen": 40,
+   "new": 0,
+   "oldest": "2026-06-30",
+   "stop": "seen",
+   "status": "ok",
+   "first_page": 20
+  },
+  "sssh": {
+   "name": "壽山高中 校外競賽",
+   "pages": 2,
+   "seen": 43,
+   "new": 2,
+   "oldest": "2026-08-07",
+   "stop": "seen",
+   "status": "ok",
+   "first_page": 23
+  },
+  "k12ea": {
+   "name": "教育部國民及學前教育署 公文公告平台",
+   "pages": 1,
+   "seen": 10,
+   "new": 0,
+   "oldest": "2026-11-17",
+   "stop": "seen",
+   "status": "ok",
+   "first_page": 10
+  },
+  "aidea": {
+   "name": "AIdea 人工智慧共創平台 競賽議題",
+   "pages": 1,
+   "seen": 10,
+   "new": 0,
+   "oldest": "2026-09-08",
+   "stop": "seen",
+   "status": "ok",
+   "first_page": 10
+  },
+  "wlsh": {
+   "name": "武陵高中 校外競賽",
+   "pages": 1,
+   "seen": 20,
+   "new": 0,
+   "oldest": "2026-09-08",
+   "stop": "seen",
+   "status": "ok",
+   "first_page": 20
+  },
+  "cksh": {
+   "name": "成功高中 活動競賽",
+   "pages": 1,
+   "seen": 15,
+   "new": 0,
+   "oldest": "2026-11-18",
+   "stop": "seen",
+   "status": "ok",
+   "first_page": 15
+  },
+  "ttsh": {
+   "name": "大同高中 學生競賽活動",
+   "pages": 2,
+   "seen": 45,
+   "new": 2,
+   "oldest": "2026-11-05",
+   "stop": "seen",
+   "status": "ok",
+   "first_page": 25
+  },
+  "hshs": {
+   "name": "海山高中 學生競賽活動",
+   "pages": 2,
+   "seen": 24,
+   "new": 2,
+   "oldest": null,
+   "stop": "seen",
+   "status": "ok",
+   "first_page": 12
+  },
+  "cygsh": {
+   "name": "嘉義女中 競賽與投稿",
+   "pages": 1,
+   "seen": 76,
+   "new": 0,
+   "oldest": "2025-08-01",
+   "stop": "seen",
+   "status": "ok",
+   "first_page": 76
+  },
+  "tcfsh": {
+   "name": "臺中一中 校外活動",
+   "pages": 2,
+   "seen": 40,
+   "new": 2,
+   "oldest": "2026-11-02",
+   "stop": "seen",
+   "status": "ok",
+   "first_page": 20
+  },
+  "hgsh": {
+   "name": "新竹女中 活動研習",
+   "pages": 2,
+   "seen": 40,
+   "new": 2,
+   "oldest": "2026-11-04",
+   "stop": "seen",
+   "status": "ok",
+   "first_page": 20
+  },
+  "ccshpt": {
+   "name": "潮州高中 學生課外活動",
+   "pages": 1,
+   "seen": 10,
+   "new": 0,
+   "oldest": "2026-11-11",
+   "stop": "seen",
+   "status": "ok",
+   "first_page": 10
+  },
+  "mlaivs": {
+   "name": "苗栗農工 處室公告",
+   "pages": 2,
+   "seen": 200,
+   "new": 1,
+   "oldest": "2022-10-05",
+   "stop": "seen",
+   "status": "ok",
+   "first_page": 100
+  },
+  "nkhs": {
+   "name": "南港高工 重要資訊",
+   "pages": 2,
+   "seen": 200,
+   "new": 5,
+   "oldest": "2026-08-05",
+   "stop": "seen",
+   "status": "ok",
+   "first_page": 100
+  },
+  "kmsh": {
+   "name": "金門高中 最新消息",
+   "pages": 2,
+   "seen": 200,
+   "new": 1,
+   "oldest": "2026-06-24",
+   "stop": "seen",
+   "status": "ok",
+   "first_page": 100
+  },
+  "hccvs": {
+   "name": "新竹高商 消息公佈欄",
+   "pages": 2,
+   "seen": 200,
+   "new": 1,
+   "oldest": "2026-09-21",
+   "stop": "seen",
+   "status": "ok",
+   "first_page": 100
+  },
+  "pshs": {
+   "name": "暨大附中 學生研習與競賽活動",
+   "pages": 2,
+   "seen": 200,
+   "new": 3,
+   "oldest": "2026-09-01",
+   "stop": "seen",
+   "status": "ok",
+   "first_page": 100
+  },
+  "ntsh": {
+   "name": "南投高中 最新消息",
+   "pages": 2,
+   "seen": 200,
+   "new": 3,
+   "oldest": "2026-10-07",
+   "stop": "seen",
+   "status": "ok",
+   "first_page": 100
+  },
+  "mlsh": {
+   "name": "苗栗高中 學生校外營隊、活動、比賽",
+   "pages": 2,
+   "seen": 200,
+   "new": 1,
+   "oldest": "2026-10-05",
+   "stop": "seen",
+   "status": "ok",
+   "first_page": 100
+  }
+ },
+ "recheck": {
+  "confirmed": [
+   "2026-100spotlights-video",
+   "2026-aicup-solar-defect",
+   "2026-changde-veggie-painting",
+   "2026-chiayi-3min-video",
+   "2026-chsmr-disability-week-arts",
+   "2026-ctust-paochung-spicy-cuisine",
+   "2026-cufa-next-idol",
+   "2026-cute-ai-japanese-marketing",
+   "2026-deglobalart-red-envelope",
+   "2026-disability-ambassador",
+   "2026-economics-olympiad-school-round",
+   "2026-epilepsy-essay",
+   "2026-fgu-3goodai",
+   "2026-fy-h-inno",
+   "2026-gzg-template-design",
+   "2026-hk-valorant-autumn",
+   "2026-hsinchu-photography-award",
+   "2026-hsinyi-children-literature-award",
+   "2026-hwu-high-school-band",
+   "2026-ia-camera",
+   "2026-icdl-infosec",
+   "2026-ideax-star-challenge",
+   "2026-igd-ninth-creation",
+   "2026-indigenous-oral-history-comic",
+   "2026-indigenous-science-fair",
+   "2026-justshow-napkin-folding",
+   "2026-kh-hs-english-writing-speech",
+   "2026-kouhu-photography",
+   "2026-ksu-smart-maker",
+   "2026-lhu-2050-short-video",
+   "2026-lhu-terroir-cup",
+   "2026-miaoli-lantern",
+   "2026-nantou-pearl-itinerary",
+   "2026-national-skills-competition-57",
+   "2026-national-skills-north",
+   "2026-national-student-art",
+   "2026-national-student-creative-drama",
+   "2026-national-student-dance",
+   "2026-national-student-music",
+   "2026-native-new-immigrant-language-song",
+   "2026-new-immigrants-dream-plan",
+   "2026-nkust-h2gp-taiwan",
+   "2026-nkust-ship-model",
+   "2026-nkut-elderly-lohas-lifestory",
+   "2026-nthu-giwas-showdown",
+   "2026-ntnu-biped-robot",
+   "2026-ntpc-lions-english-speech",
+   "2026-ntpc-tree-planting-film",
+   "2026-nutn-ai-project",
+   "2026-ocu-agri-marketing",
+   "2026-ocu-stock-plus-trading",
+   "2026-phyedu-science-measurement",
+   "2026-pingtung-drone",
+   "2026-presidential-education-award",
+   "2026-provoice-podcast",
+   "2026-qiuzhen-cup",
+   "2026-secondary-hackathon",
+   "2026-see-think-wonder",
+   "2026-sju-icec",
+   "2026-skm-photo-analog",
+   "2026-smartreading-science-reading",
+   "2026-stu-it-innovation",
+   "2026-sym-design",
+   "2026-taipei-cinunan-language-hunter",
+   "2026-taipei-five-senses-video",
+   "2026-taipei-literature-award",
+   "2026-taiwan-tour-bus-video",
+   "2026-tasa-asian-try-zero-g",
+   "2026-tccs-little-influencer",
+   "2026-thu-smart-sustainability",
+   "2026-tku-chung-ling-chemistry",
+   "2026-tpcu-ba-stock-king",
+   "2026-tpcu-en-ja-newscaster-reading",
+   "2026-uch-new-retail",
+   "2026-ud-award",
+   "2026-ukmt-imc",
+   "2026-vnu-beauty-next",
+   "2026-wlcef-literature-award",
+   "2026-ys-award",
+   "2026-yuntech-mini4wd",
+   "2027-agongdianxi-literature",
+   "2027-bahamut-acg-award",
+   "2027-blia-three-acts-song",
+   "2027-cacet-creation-ai",
+   "2027-coolenglish-presentation",
+   "2027-csu-wooden-bridge",
+   "2027-ctsp-photography",
+   "2027-cyberangel-meme-pics",
+   "2027-cycu-cash-flow",
+   "2027-cyut-smart-care-essay",
+   "2027-danjiang-bridge-photo-painting",
+   "2027-ganjingworld-kindness-tw",
+   "2027-geopark-landscape-reading",
+   "2027-hakka-choir",
+   "2027-hfu-a4-illustration",
+   "2027-hfu-design",
+   "2027-just-hs-project",
+   "2027-kw-design-award",
+   "2027-mcu-crime-fiction",
+   "2027-mcu-literary-prose",
+   "2027-metamanga-ai-manga",
+   "2027-mingdao-global-chinese-literary-award",
+   "2027-moe-mata-award",
+   "2027-moenv-efdesign",
+   "2027-ncue-homerun-science",
+   "2027-ndhu-qilai-literature",
+   "2027-nownews-crossroad-resilience",
+   "2027-popular-science-ai-poster",
+   "2027-real-beat-dance",
+   "2027-shoutian-visual",
+   "2027-shs-reading-reflection",
+   "2027-stust-kamishibai",
+   "2027-topkey-youth-forum",
+   "2027-ukmt-imc",
+   "2027-ydu-tourism-leisure-cup",
+   "2027-yt-3mintalk4science"
+  ],
+  "changed": [
+   "2026-chtiia-creative-entrepreneurship",
+   "2026-dajiamazu-original-music",
+   "2026-national-skills-south-57",
+   "2026-nkut-innovative-marketing"
+  ],
+  "unreachable": [
+   "2026-ibmi-medtech-creative",
+   "2026-yda-youth-volunteer",
+   "2027-cyut-ae-short-film",
+   "2027-cyut-english-picture-book",
+   "2027-ocu-mdm-marketing"
+  ]
+ },
+ "rounds": [
+  {
+   "tasks": [
+    {
+     "task": "triage-01",
+     "result": "7 new candidates, 9 joined a candidate, 18 of a record, 116 not contests"
+    },
+    {
+     "task": "triage-02",
+     "result": "17 new candidates, 42 joined a candidate, 8 of a record, 83 not contests"
+    },
+    {
+     "task": "triage-03",
+     "result": "8 new candidates, 37 joined a candidate, 5 of a record, 56 not contests"
+    },
+    {
+     "task": "c0014-1",
+     "result": "done: 2026-nkut-innovative-marketing (checked)"
+    },
+    {
+     "task": "c0093-1",
+     "result": "done: 2026-dajiamazu-original-music (checked)"
+    },
+    {
+     "task": "c0042-1",
+     "result": "done: 2026-chtiia-creative-entrepreneurship (checked)"
+    },
+    {
+     "task": "c0100-1",
+     "result": "done: 2026-national-skills-south-57 (checked)"
+    },
+    {
+     "task": "c0167-1",
+     "result": "done: 2026-ukmt-imc (checked)"
+    },
+    {
+     "task": "c0187-1",
+     "result": "done: 2026-nthu-giwas-showdown (checked)"
+    },
+    {
+     "task": "c0188-1",
+     "result": "done: 2027-lhu-traffic-safety-ai-hackathon (unverified), to be searched"
+    },
+    {
+     "task": "c0193-1",
+     "result": "done: 2026-nodass-ocean-big-data (unverified), to be searched"
+    },
+    {
+     "task": "c0194-1",
+     "result": "done: 2026-taiwan-economics-olympiad (checked)"
+    },
+    {
+     "task": "c0198-1",
+     "result": "done: 2026-national-skills-central (checked)"
+    },
+    {
+     "task": "c0200-1",
+     "result": "done: 2026-genai-algorithm-cert (checked)"
+    },
+    {
+     "task": "c0201-1",
+     "result": "skipped: 電競大賽為戰隊選手對戰、總決賽線上直播的電子競技賽事，屬錦標賽性質而非評審作品；所附公文與轉知頁也未載評審方式、名次、獎項或獎狀。"
+    },
+    {
+     "task": "c0204-1",
+     "result": "done: 2026-tnfsh-pop-music (checked)"
+    },
+    {
+     "task": "c0210-1",
+     "result": "skipped: 東海大學「第四屆東海牛奶節」為校園市集、表演與馬術體驗等活動，文件未描述作品評審、名次、獎項或獎狀，不屬競賽。"
+    },
+    {
+     "task": "c0211-1",
+     "result": "asks for 1 more documents"
+    },
+    {
+     "task": "c0212-1",
+     "result": "asks for 1 more documents"
+    },
+    {
+     "task": "c0213-1",
+     "result": "asks for 3 more documents"
+    },
+    {
+     "task": "c0214-1",
+     "result": "asks for 1 more documents"
+    },
+    {
+     "task": "c0215-1",
+     "result": "skipped: 文件描述的是模擬聯合國會議活動（學生扮演各國外交使節討論議題），未提及評審、名次、獎項或獎狀，屬活動而非競賽。"
+    },
+    {
+     "task": "c0216-1",
+     "result": "asks for 6 more documents"
+    },
+    {
+     "task": "c0217-1",
+     "result": "done: 2026-taiwan-economics-olympiad-2 (checked)"
+    },
+    {
+     "task": "c0218-1",
+     "result": "done: 2026-takming-cross-cultural-store (checked)"
+    },
+    {
+     "task": "c0220-1",
+     "result": "asks for 2 more documents"
+    },
+    {
+     "task": "c0221-1",
+     "result": "done: 2026-taiwan-economics-olympiad-3 (checked)"
+    },
+    {
+     "task": "c0222-1",
+     "result": "done: 2026-eo-school-round (unverified), to be searched"
+    },
+    {
+     "task": "c0223-1",
+     "result": "asks for 6 more documents"
+    },
+    {
+     "task": "c0224-1",
+     "result": "skipped: 這是國立臺灣科學教育館辦理的論壇（公告稱「本工作坊活動」），於115年12月25日至26日舉行，限200人線上報名參加交流與分享，文件未記載作品評審、名次、獎項"
+    },
+    {
+     "task": "c0225-1",
+     "result": "done: 2026-shs-english-speech-central (unverified), to be searched"
+    },
+    {
+     "task": "c0226-1",
+     "result": "done: 2026-shs-english-writing (unverified), to be searched"
+    },
+    {
+     "task": "c0227-1",
+     "result": "done: 2026-hl-smart-robot-challenge (checked)"
+    },
+    {
+     "task": "c0197-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0199-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0096-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0189-s",
+     "result": "2 kept, 0 dropped"
+    },
+    {
+     "task": "c0195-s",
+     "result": "2 kept, 3 dropped (https://www.ecolympiad.tw/en/eo: does not name the contest)"
+    },
+    {
+     "task": "c0203-s",
+     "result": "3 kept, 1 dropped (https://speech.tyhs.kh.edu.tw/attach/8484662222.pdf: does not name the contest)"
+    }
+   ],
+   "merged": [],
+   "set_aside": []
+  },
+  {
+   "tasks": [
+    {
+     "task": "c0189-1",
+     "result": "not run"
+    },
+    {
+     "task": "c0195-1",
+     "result": "not run"
+    },
+    {
+     "task": "c0203-1",
+     "result": "not run"
+    },
+    {
+     "task": "c0211-1",
+     "result": "not run"
+    },
+    {
+     "task": "c0212-1",
+     "result": "not run"
+    },
+    {
+     "task": "c0213-1",
+     "result": "not run"
+    },
+    {
+     "task": "c0214-1",
+     "result": "not run"
+    },
+    {
+     "task": "c0216-1",
+     "result": "not run"
+    },
+    {
+     "task": "c0220-1",
+     "result": "not run"
+    },
+    {
+     "task": "c0223-1",
+     "result": "not run"
+    },
+    {
+     "task": "c0228-1",
+     "result": "not run"
+    },
+    {
+     "task": "c0229-1",
+     "result": "not run"
+    },
+    {
+     "task": "c0230-1",
+     "result": "not run"
+    },
+    {
+     "task": "c0231-1",
+     "result": "not run"
+    },
+    {
+     "task": "c0232-1",
+     "result": "not run"
+    },
+    {
+     "task": "c0233-1",
+     "result": "not run"
+    },
+    {
+     "task": "c0234-1",
+     "result": "not run"
+    },
+    {
+     "task": "c0235-1",
+     "result": "not run"
+    },
+    {
+     "task": "c0237-1",
+     "result": "not run"
+    },
+    {
+     "task": "c0238-1",
+     "result": "not run"
+    },
+    {
+     "task": "c0240-1",
+     "result": "not run"
+    },
+    {
+     "task": "c0241-1",
+     "result": "not run"
+    },
+    {
+     "task": "c0242-1",
+     "result": "not run"
+    },
+    {
+     "task": "c0243-1",
+     "result": "not run"
+    },
+    {
+     "task": "c0244-1",
+     "result": "not run"
+    },
+    {
+     "task": "c0245-1",
+     "result": "not run"
+    },
+    {
+     "task": "c0246-1",
+     "result": "not run"
+    },
+    {
+     "task": "c0247-1",
+     "result": "not run"
+    },
+    {
+     "task": "c0248-1",
+     "result": "not run"
+    },
+    {
+     "task": "c0249-1",
+     "result": "not run"
+    },
+    {
+     "task": "c0200-2",
+     "result": "not run"
+    },
+    {
+     "task": "c0014-2",
+     "result": "not run"
+    },
+    {
+     "task": "c0198-2",
+     "result": "not run"
+    },
+    {
+     "task": "c0100-2",
+     "result": "not run"
+    },
+    {
+     "task": "c0217-2",
+     "result": "not run"
+    },
+    {
+     "task": "c0221-2",
+     "result": "not run"
+    },
+    {
+     "task": "c0194-2",
+     "result": "not run"
+    },
+    {
+     "task": "c0093-2",
+     "result": "not run"
+    },
+    {
+     "task": "c0227-2",
+     "result": "not run"
+    },
+    {
+     "task": "c0042-2",
+     "result": "not run"
+    },
+    {
+     "task": "c0188-s",
+     "result": "not run"
+    },
+    {
+     "task": "c0193-s",
+     "result": "not run"
+    },
+    {
+     "task": "c0222-s",
+     "result": "not run"
+    },
+    {
+     "task": "c0225-s",
+     "result": "not run"
+    },
+    {
+     "task": "c0226-s",
+     "result": "not run"
+    }
+   ],
+   "merged": [
+    "2026-taiwan-economics-olympiad-2, 2026-taiwan-economics-olympiad-3 merged into 2026-taiwan-economics-olympiad"
+   ],
+   "set_aside": []
+  },
+  {
+   "tasks": [
+    {
+     "task": "c0189-1",
+     "result": "done: 2026-secondary-hackathon (checked)"
+    },
+    {
+     "task": "c0195-1",
+     "result": "done: 2026-economics-olympiad-school-round (checked)"
+    },
+    {
+     "task": "c0203-1",
+     "result": "done: 2026-kh-hs-english-writing-speech (checked)"
+    },
+    {
+     "task": "c0211-1",
+     "result": "done: 2026-nfu-student-project (checked)"
+    },
+    {
+     "task": "c0212-1",
+     "result": "skipped: 本校高一、高二學生的校內數學科競試，僅限單一學校學生參加，不屬收錄範圍。"
+    },
+    {
+     "task": "c0213-1",
+     "result": "skipped: 文件描述的是惠文高中辦理的模擬聯合國會議活動（115年12月5日至6日），各文件只有活動目的、時間、地點、參加對象與報名表單，沒有評選、名次、獎項或獎狀的規定，"
+    },
+    {
+     "task": "c0214-1",
+     "result": "skipped: 模擬聯合國會議活動：實施計畫只寫報名、會前訓練、會議議程與晚宴，沒有評審或名次、獎項、獎狀的規定，不是有評選並頒獎的競賽。"
+    },
+    {
+     "task": "c0216-1",
+     "result": "skipped: 南山模擬聯合國會議是三天的模擬聯合國會議活動，各校公告與會議官網只寫參會條件、費用、日程與委員會，沒有評選、名次、獎項或獎狀的規定，不符收錄條件。"
+    },
+    {
+     "task": "c0220-1",
+     "result": "done: 2026-smartreading-science-reading-2 (checked)"
+    },
+    {
+     "task": "c0223-1",
+     "result": "done: 2026-tfc-youth-factcheck (checked)"
+    },
+    {
+     "task": "c0228-1",
+     "result": "skipped: 這是《特戰英豪》電競對戰賽事，以線上預賽與線下決賽的對戰勝負定名次，並非評審作品，屬錦標賽性質的比賽，不在收錄範圍。"
+    },
+    {
+     "task": "c0229-1",
+     "result": "skipped: 唯一的文件是學校轉知公告，只列出競賽計畫名稱並請讀者至臺北市網頁查詢，沒有說明參賽資格、作品、日期或獎項，也沒有附上任何連結，沒有文件描述這項競賽。"
+    },
+    {
+     "task": "c0230-1",
+     "result": "skipped: 唯一文件是學校的一行轉知公告，只寫「修正「教育部辦理115年無人機足球競賽實施計畫」,詳情請逕至該部網頁查詢」，沒有附實施計畫或任何連結，無法得知參賽資格、評審"
+    },
+    {
+     "task": "c0231-1",
+     "result": "done: 2026-lhu-terroir-cup (checked)"
+    },
+    {
+     "task": "c0232-1",
+     "result": "skipped: 教育部海洋教育推手獎表揚推動海洋教育有卓越貢獻的團體、個人、地方政府及課程教學團隊，由政府機關（構）及學校推薦，不是高中職學生參賽的競賽。"
+    },
+    {
+     "task": "c0233-1",
+     "result": "done: 2026-national-skills-central (checked)"
+    },
+    {
+     "task": "c0234-1",
+     "result": "skipped: 兒福聯盟「少年+」據點第四季心理健康主題活動（心靈成長體驗課程及放鬆小聚），為活動課程，無作品評審，亦不頒發名次、獎項或獎狀，非競賽。"
+    },
+    {
+     "task": "c0235-1",
+     "result": "skipped: 這是兒童福利聯盟基金會為蒐集兒少表意權意見而辦理的實體討論活動，文件未提及評選作品，也未提及名次、獎金或獎狀，不是競賽。"
+    },
+    {
+     "task": "c0237-1",
+     "result": "skipped: 此為教師研習線上講座（參加對象為高中職藝術相關教師及國中小教師），非學生競賽，無評審與獎項。"
+    },
+    {
+     "task": "c0238-1",
+     "result": "done: 2026-tkb-special-selection-review (checked)"
+    },
+    {
+     "task": "c0240-1",
+     "result": "skipped: 本競賽參賽對象僅限全國公私立高中職教師，學生不得參加，不在收錄範圍。"
+    },
+    {
+     "task": "c0241-1",
+     "result": "done: 2026-ctu-creative-itinerary (checked)"
+    },
+    {
+     "task": "c0242-1",
+     "result": "done: 2026-cnu-kinder-elder-colearning (checked)"
+    },
+    {
+     "task": "c0243-1",
+     "result": "skipped: 唯一文件為錦和高中轉知公告，只列報名期限、報名網址、競賽日期與地點，沒有主辦單位、參賽資格、評審方式與獎項，也沒有連到簡章，無法確認高中職生可參加且有名次或獎狀"
+    },
+    {
+     "task": "c0244-1",
+     "result": "done: 2026-mohw-mental-health-pk (checked)"
+    },
+    {
+     "task": "c0245-1",
+     "result": "skipped: 此為臺北市財務智商線上課程測驗活動，學生完成10題測驗後以抽獎方式發放商品卡，作品不經評審、不評名次，不屬於競賽。"
+    },
+    {
+     "task": "c0246-1",
+     "result": "done: 2027-ntpc-self-learning-goai (checked)"
+    },
+    {
+     "task": "c0247-1",
+     "result": "asks for 2 more documents"
+    },
+    {
+     "task": "c0248-1",
+     "result": "asks for 1 more documents"
+    },
+    {
+     "task": "c0249-1",
+     "result": "done: 2026-tnu-genai-cad-cam (checked)"
+    },
+    {
+     "task": "c0200-2",
+     "result": "asks for 2 more documents"
+    },
+    {
+     "task": "c0014-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0198-2",
+     "result": "asks for 2 more documents"
+    },
+    {
+     "task": "c0100-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0221-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0093-2",
+     "result": "second reading: single"
+    },
+    {
+     "task": "c0227-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0042-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0188-s",
+     "result": "2 kept, 0 dropped"
+    },
+    {
+     "task": "c0193-s",
+     "result": "3 kept, 1 dropped (https://sites.google.com/view/nodassbigdata/競賽辦法: not the 4th edition)"
+    },
+    {
+     "task": "c0222-s",
+     "result": "2 kept, 1 dropped (https://www.ecolympiad.tw/en/eo: does not name the contest)"
+    },
+    {
+     "task": "c0225-s",
+     "result": "4 kept, 0 dropped"
+    },
+    {
+     "task": "c0226-s",
+     "result": "5 kept, 0 dropped"
+    }
+   ],
+   "merged": [
+    "2026-secondary-hackathon merged into 2026-hsh-hackathon (content of 2026-secondary-hackathon)"
+   ],
+   "set_aside": []
+  },
+  {
+   "tasks": [
+    {
+     "task": "c0188-1",
+     "result": "done: 2027-lhu-traffic-safety-ai-hackathon (unverified)"
+    },
+    {
+     "task": "c0193-1",
+     "result": "done: 2026-nodass-ocean-big-data (checked)"
+    },
+    {
+     "task": "c0222-1",
+     "result": "done: 2026-eo-school-round (unverified)"
+    },
+    {
+     "task": "c0225-1",
+     "result": "done: 2026-shs-english-speech-central (checked)"
+    },
+    {
+     "task": "c0226-1",
+     "result": "done: 2026-shs-english-writing (checked)"
+    },
+    {
+     "task": "c0247-1",
+     "result": "done: 2026-taiwan-healthcare-hs-contest (unverified), to be searched"
+    },
+    {
+     "task": "c0248-1",
+     "result": "done: 2026-hwu-high-school-band (checked)"
+    },
+    {
+     "task": "c0250-1",
+     "result": "asks for 1 more documents"
+    },
+    {
+     "task": "c0251-1",
+     "result": "skipped: 「2027教育創新100」報名對象為幼兒園至大學之學校單位、教師個人、非學校型態實驗學習團體、公部門、企業、NPO及其他教育工作者，徵集教學課程與行動方案，高中"
+    },
+    {
+     "task": "c0252-1",
+     "result": "done: 2026-taipei-drone (unverified), to be searched"
+    },
+    {
+     "task": "c0253-1",
+     "result": "asks for 1 more documents"
+    },
+    {
+     "task": "c0254-1",
+     "result": "done: 2026-tajen-practical-project (checked)"
+    },
+    {
+     "task": "c0255-1",
+     "result": "done: 2026-nkust-business-intelligence (checked)"
+    },
+    {
+     "task": "c0256-1",
+     "result": "asks for 5 more documents"
+    },
+    {
+     "task": "c0257-1",
+     "result": "done: 2026-quanmin-e-info-games-autumn (checked)"
+    },
+    {
+     "task": "c0258-1",
+     "result": "done: 2026-moe-ai-learning-handbook (unverified), to be searched"
+    },
+    {
+     "task": "c0259-1",
+     "result": "done: 2026-qiuzhen-cup (checked)"
+    },
+    {
+     "task": "c0260-1",
+     "result": "asks for 1 more documents"
+    },
+    {
+     "task": "c0261-1",
+     "result": "skipped: 這是《傳說對決》及《聯盟戰棋》的電競對戰賽事，名次由比賽勝負決定而非評審作品，屬錦標賽性質；公告也未載明名次、獎項或獎狀。"
+    },
+    {
+     "task": "c0262-1",
+     "result": "skipped: 《全明星街球派對》手機遊戲電子競技對戰賽，以隊伍現場對戰勝負決定名次，並無評審作品，性質同錦標賽，不屬本目錄收錄的競賽。"
+    },
+    {
+     "task": "c0263-1",
+     "result": "asks for 1 more documents"
+    },
+    {
+     "task": "c0264-1",
+     "result": "done: 2026-csu-intergenerational-teaching-aids (checked)"
+    },
+    {
+     "task": "c0265-1",
+     "result": "done: 2026-economics-olympiad-school-round (unverified), to be searched"
+    },
+    {
+     "task": "c0266-1",
+     "result": "skipped: 此為財團法人台北市彩霞教育基金會辦理的樂齡才藝公益甄選，對象為55歲以上樂齡團體及含60歲以上長者的青銀組合，高中職學生無法自行參賽；入選僅獲邀登台演出，未設名"
+    },
+    {
+     "task": "c0267-1",
+     "result": "done: 2026-cute-hs-paper-symposium (checked)"
+    },
+    {
+     "task": "c0268-1",
+     "result": "asks for 4 more documents"
+    },
+    {
+     "task": "c0269-1",
+     "result": "done: 2026-hsinchu-mazu-sketch (checked)"
+    },
+    {
+     "task": "c0270-1",
+     "result": "done: 2027-metamanga-comic (checked)"
+    },
+    {
+     "task": "c0271-1",
+     "result": "done: 2026-ntbsa-xinying-tax-ai-comic (unverified), to be searched"
+    },
+    {
+     "task": "c0272-1",
+     "result": "skipped: 唯一的文件是學校的轉知公告，只寫明競賽名稱並指向另一個網站（https://sites.google.com/view/gailearn/），未載參賽資格、評選"
+    },
+    {
+     "task": "c0220-2",
+     "result": "asks for 2 more documents"
+    },
+    {
+     "task": "c0200-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0195-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0233-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0246-2",
+     "result": "second reading: dual"
+    }
+   ],
+   "merged": [],
+   "set_aside": []
+  },
+  {
+   "tasks": [],
+   "merged": [
+    "2026-smartreading-science-reading-2 merged into 2026-smartreading-science-reading",
+    "2026-eo-school-round merged into 2026-economics-olympiad-school-round"
+   ],
+   "set_aside": []
+  },
+  {
+   "tasks": [
+    {
+     "task": "c0225-1",
+     "result": "done: 2026-shs-english-speech-central (checked)"
+    }
+   ],
+   "merged": [],
+   "set_aside": []
+  }
+ ],
+ "queue": {
+  "done": 210,
+  "skipped": 63,
+  "search": 5,
+  "new": 507,
+  "expired": 1
+ },
+ "announcements_waiting": 0,
+ "records": 179
+}

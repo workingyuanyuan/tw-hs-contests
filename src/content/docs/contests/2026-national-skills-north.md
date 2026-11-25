@@ -3,7 +3,7 @@ title: "第57屆全國技能競賽北區分區技能競賽"
 description: "北區8縣市單位推薦的青年組與青少年組選手，依所報職類實地操作技能，爭取名次與晉級全國賽。"
 appliesTo: "第 57 屆 這一屆"
 caveat: "須由學校推薦或薦送，學生不能自行報名。"
-lastVerified: 2026-11-24
+lastVerified: 2026-11-25
 kind: "contest"
 deadline: "2026-12-07"
 sources:

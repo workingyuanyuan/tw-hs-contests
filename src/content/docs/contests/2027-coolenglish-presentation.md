@@ -3,7 +3,7 @@ title: "116 年 Cool English 自主學習簡報比賽"
 description: "國中小、高中職、五專一至三年級與自學生個人參賽，分享英文學習方法，繳交簡報 PDF、3 至 6 分鐘 MP4 影片及附件 1 至 3。"
 appliesTo: "116 年 這一屆"
 caveat: "日期與時間都是臺灣時間。"
-lastVerified: 2026-11-24
+lastVerified: 2026-11-25
 kind: "contest"
 deadline: "2027-01-15"
 sources:

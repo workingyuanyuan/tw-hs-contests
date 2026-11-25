@@ -1,0 +1,193 @@
+{
+  "schema": 1,
+  "id": "2026-hsinchu-mazu-sketch",
+  "title": "2026 竹塹媽祖文化祭「畫出風城色彩」寫生競賽",
+  "edition": "2026",
+  "summary": "各級學生與民眾到新竹六座媽祖宮廟寫生，以媽祖信仰與城市風貌為題繳交一幅畫作。",
+  "organizers": [
+    {
+      "name": "新竹市政府民政處",
+      "role": "主辦"
+    },
+    {
+      "name": "初仲行銷有限公司",
+      "role": "承辦"
+    },
+    {
+      "name": "新竹市湖畔畫會",
+      "role": "協辦"
+    }
+  ],
+  "categories": [
+    "美術"
+  ],
+  "eligibility": {
+    "levels": [
+      "國小",
+      "國中",
+      "高中",
+      "高職",
+      "五專",
+      "社會人士"
+    ],
+    "division": "separate",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": 1,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/28/2026竹塹媽祖文化祭「畫出風城色彩」寫生競賽簡章.pdf",
+        "quote": "四、參賽資格：依據各組別分組，凡喜愛繪畫創作者皆可報名參加（部分組別以提前徵件為主）。"
+      },
+      {
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/28/2026竹塹媽祖文化祭「畫出風城色彩」寫生競賽簡章.pdf",
+        "quote": "（四） 高中職組：限高中、高職及五專前三年在學學生可報名參加 (該組採提前徵件為主)。"
+      },
+      {
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/28/2026竹塹媽祖文化祭「畫出風城色彩」寫生競賽簡章.pdf",
+        "quote": "（五） 社會組：年滿18 歲以上之一般民眾皆可報名參加 (該組採提前徵件為主)。"
+      },
+      {
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/28/2026竹塹媽祖文化祭「畫出風城色彩」寫生競賽簡章.pdf",
+        "quote": "作品需為個人獨自完成，不可由他人協助或多人共同創作。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "報名截止",
+      "date": "2026-10-16",
+      "time": "17:00",
+      "original": "即日起至10 月16 日(星期五) 17:00 止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.hgsh.hc.edu.tw/view-doc/28/2026竹塹媽祖文化祭「畫出風城色彩」寫生競賽簡章.pdf",
+          "quote": "即日起至10 月16 日(星期五) 17:00 止 (社會組、高中職組提前徵件亦同，以郵戳為憑)。"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "高中職組、社會組提前徵件作品寄送截止（以郵戳為憑）",
+      "date": "2026-10-16",
+      "time": "17:00",
+      "original": "10 月16 日(星期五) 17:00 止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.hgsh.hc.edu.tw/view-doc/28/2026竹塹媽祖文化祭「畫出風城色彩」寫生競賽簡章.pdf",
+          "quote": "即日起至10 月16 日(星期五) 17:00 止 (社會組、高中職組提前徵件亦同，以郵戳為憑)。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "現場寫生比賽",
+      "date": "2026-10-17",
+      "time": "09:00",
+      "original": "中華民國115 年10 月17 日（星期六）09:00~17:00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.hgsh.hc.edu.tw/view-doc/28/2026竹塹媽祖文化祭「畫出風城色彩」寫生競賽簡章.pdf",
+          "quote": "三、比賽日期：中華民國115 年10 月17 日（星期六）09:00~17:00。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "高中職組、社會組提前徵件",
+      "what": "4 開水彩紙作品（直式、橫式不限，不得裱框、裱板、護貝），連同附件報名表",
+      "how": "mail"
+    },
+    {
+      "stage": "現場寫生",
+      "what": "主辦單位提供之 8 開水彩紙作品，背面填寫作品資訊，當天 17:00 前至報到處繳交",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "none",
+    "where": null,
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/28/2026竹塹媽祖文化祭「畫出風城色彩」寫生競賽簡章.pdf",
+        "quote": "社會組、高中職組原則採提前徵件方式進行，惟參賽者如欲參與現場寫生，仍可透過活動報名平台報名參與比賽"
+      },
+      {
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/28/2026竹塹媽祖文化祭「畫出風城色彩」寫生競賽簡章.pdf",
+        "quote": "（二） 提前徵件：僅限社會組、高中職組報名，請填寫附件報名表後，親送或以郵寄連同作品一同寄出，收件判定日期以郵戳為憑"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/28/2026竹塹媽祖文化祭「畫出風城色彩」寫生競賽簡章.pdf"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "高中職組：第一名 1 名獎金 10,000、第二名 1 名 8,000、第三名 1 名 6,000、優選 5 名各 2,000；獲獎作品皆頒發獎狀（含框）。其他組別另有獎金。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/28/2026竹塹媽祖文化祭「畫出風城色彩」寫生競賽簡章.pdf",
+        "quote": "高中職組 第一名 10,000 1 第二名 8,000 1 第三名 6,000 1 優選 2,000 5"
+      },
+      {
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/28/2026竹塹媽祖文化祭「畫出風城色彩」寫生競賽簡章.pdf",
+        "quote": "（二） 凡獲獎之作品皆頒發獎狀(含框)一幀。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "banned",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/28/2026竹塹媽祖文化祭「畫出風城色彩」寫生競賽簡章.pdf",
+        "quote": "亦不得使用人工智慧（AI）生成圖像作為作品主體，或以描圖、疊圖、轉繪等方式完成作品。"
+      }
+    ]
+  },
+  "links": {
+    "official": null,
+    "rules": [
+      {
+        "title": "寫生競賽簡章（PDF）",
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/28/2026竹塹媽祖文化祭「畫出風城色彩」寫生競賽簡章.pdf"
+      }
+    ],
+    "registration": null
+  },
+  "found_via": [
+    {
+      "name": "新竹女中 活動研習",
+      "url": "https://www.hgsh.hc.edu.tw/news/2026%e7%ab%b9%e5%a1%b9%e5%aa%bd%e7%a5%96%e6%96%87%e5%8c%96%e7%a5%ad%e3%80%8c%e7%95%ab%e5%87%ba%e9%a2%a8%e5%9f%8e%e8%89%b2%e5%bd%a9%e3%80%8d%e5%af%ab%e7%94%9f%e7%ab%b6%e8%b3%bd%e7%b0%a1%e7%ab%a0/"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-25",
+    "method": "single",
+    "unread": [],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-25"
+}

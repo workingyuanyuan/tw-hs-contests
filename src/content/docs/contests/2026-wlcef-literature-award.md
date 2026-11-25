@@ -3,7 +3,7 @@ title: "第五屆全國高中生文學獎"
 description: "全國高中職及五專前三年學生於官網上傳 Word 檔與創作聲明，參加散文（2500 字內）或新詩（40 行內）徵文。"
 appliesTo: "第 5 屆（115 學年度） 這一屆"
 caveat: "日期與時間都是臺灣時間。"
-lastVerified: 2026-11-24
+lastVerified: 2026-11-25
 kind: "contest"
 deadline: "2026-12-31"
 sources:

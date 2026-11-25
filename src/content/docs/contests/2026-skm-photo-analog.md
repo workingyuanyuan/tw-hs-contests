@@ -3,7 +3,7 @@ title: "2027 SKM PHOTO 新光三越類比攝影創作徵選"
 description: "攝影創作者以類比媒材或技法創作，寄送報名文件、作品 JPG 檔與紙本同意書參選，入圍者於博覽會現場佈展決選。"
 appliesTo: "2027 這一屆"
 caveat: "報名已於 2026-11-20 截止。"
-lastVerified: 2026-11-20
+lastVerified: 2026-11-25
 kind: "contest"
 deadline: "2026-11-20"
 sources:

@@ -1,0 +1,239 @@
+{
+  "schema": 1,
+  "id": "2026-tnu-genai-cad-cam",
+  "title": "生成式AI結合電腦輔助設計製造競賽",
+  "edition": "2026",
+  "summary": "大專及高中職學生以生成式AI發想智慧生活產品，經CAD設計後3D列印或以數控工具機製成實體作品。",
+  "organizers": [
+    {
+      "name": "東南科技大學",
+      "role": "主辦"
+    },
+    {
+      "name": "東南科技大學機械系",
+      "role": "承辦"
+    },
+    {
+      "name": "東南科技大學工程與電資學院",
+      "role": "協辦"
+    },
+    {
+      "name": "教育部",
+      "role": "指導"
+    }
+  ],
+  "categories": [
+    "工程與製造",
+    "資訊與 AI",
+    "設計"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職",
+      "大專"
+    ],
+    "division": "mixed",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "unknown",
+    "team_min": null,
+    "team_max": null,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/「生成式AI結合電腦輔助設計製造競賽」活動1.pdf",
+        "quote": "大專院校及高級中等學校之在學學生或應屆畢業生"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "競賽報名截止",
+      "date": "2026-10-30",
+      "time": null,
+      "original": "即日起至115年10月30日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.nkhs.tp.edu.tw/ischool/public/news_view/show.php?nid=35061",
+          "quote": "三、報名時間：即日起至115年10月30日。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "競賽期程最後一日（11 月 23 日起，前端三維設計製作、後端數控工具機製造）",
+      "date": "2026-11-26",
+      "time": null,
+      "original": "115年11月23日至115年11月26日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.nkhs.tp.edu.tw/ischool/public/news_view/show.php?nid=35061",
+          "quote": "四、競賽時程：115年11月23日至115年11月26日。"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "設計組作品郵寄截止",
+      "date": "2026-11-30",
+      "time": null,
+      "original": "115 年11 月30 日前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/「生成式AI結合電腦輔助設計製造競賽」活動1.pdf",
+          "quote": "敬請於115 年11 月30 日前郵寄至"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "作品評審最後一日（11 月 30 日起）",
+      "date": "2026-12-03",
+      "time": null,
+      "original": "115 年 11 月30 日 (星期一) 至 115 年 12 月3 日 （星期四）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/「生成式AI結合電腦輔助設計製造競賽」活動1.pdf",
+          "quote": "115 年 11 月30 日 (星期一) 至 115 年 12 月3 日 （星期四） 作品 評審"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "作品發表暨頒獎",
+      "date": "2026-12-17",
+      "time": null,
+      "original": "115 年 12 月17 日 （星期四）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/「生成式AI結合電腦輔助設計製造競賽」活動1.pdf",
+          "quote": "115 年 12 月17 日 （星期四） 作品 發表暨 頒獎日 期"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "製造組（競賽期間）",
+      "what": "到校以數控工具機將前端設計製造成實體作品",
+      "how": "onsite"
+    },
+    {
+      "stage": "設計組（11 月 30 日前，或競賽期間到校完成）",
+      "what": "3D 列印成品設計理念與構想表（含 AI 應用紀錄）、作品 3D 圖檔及列印檔、列印成品件、A4 商品情境圖 PDF 檔",
+      "how": "mail"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "東南科技大學機械工程系電腦輔助設計實驗室、數控工具機實習室",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.nkhs.tp.edu.tw/ischool/public/news_view/show.php?nid=35061",
+        "quote": "五、活動地點：東南科技大學機械工程系電腦輔助設計實驗室、數控工具機實習室。"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/「生成式AI結合電腦輔助設計製造競賽」活動1.pdf",
+        "quote": "後端製造:將前端設計藉由數控工具機製造"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/「生成式AI結合電腦輔助設計製造競賽」活動.pdf"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/「生成式AI結合電腦輔助設計製造競賽」活動1.pdf"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "第一名獎金 3,000 元、第二名 2,000 元、第三名 1,000 元、佳作 500 元。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/「生成式AI結合電腦輔助設計製造競賽」活動1.pdf",
+        "quote": "第一名獎金3000 元。"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/「生成式AI結合電腦輔助設計製造競賽」活動1.pdf",
+        "quote": "第二名獎金2000 元。"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/「生成式AI結合電腦輔助設計製造競賽」活動1.pdf",
+        "quote": "第三名獎金1000 元。"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/「生成式AI結合電腦輔助設計製造競賽」活動1.pdf",
+        "quote": "佳作獎金500 元。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "required",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/「生成式AI結合電腦輔助設計製造競賽」活動1.pdf",
+        "quote": "參賽各組務必運用非付費生成式AI(文字敘述或圖檔)完成前端設 計(不建議直接由此產生可3D 列印之圖檔)並輔以電腦輔助繪 圖軟體完成設計圖。"
+      }
+    ]
+  },
+  "links": {
+    "official": null,
+    "rules": [
+      {
+        "title": "東南科技大學來函",
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/「生成式AI結合電腦輔助設計製造競賽」活動.pdf"
+      },
+      {
+        "title": "競賽活動簡章",
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/「生成式AI結合電腦輔助設計製造競賽」活動1.pdf"
+      }
+    ],
+    "registration": "https://forms.gle/bHzmNkErfwCvEyX88"
+  },
+  "found_via": [
+    {
+      "name": "南港高工 重要資訊",
+      "url": "https://www.nkhs.tp.edu.tw/ischool/public/news_view/show.php?nid=35061"
+    },
+    {
+      "name": "高師大附中 校外競賽與活動",
+      "url": "https://www.nknush.kh.edu.tw/announcement/21588/%e5%85%ac%e5%91%8a%e8%a8%93%e8%82%b2%e7%b5%84%e6%9d%b1%e5%8d%97%e7%a7%91%e6%8a%80%e5%a4%a7%e5%ad%b8%e3%80%8c%e7%94%9f%e6%88%90%e5%bc%8fai%e7%b5%90%e5%90%88%e9%9b%bb%e8%85%a6%e8%bc%94%e5%8a%a9%e8%a8%ad/"
+    },
+    {
+      "name": "苗栗農工 處室公告",
+      "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26862"
+    },
+    {
+      "name": "苗栗高中 學生校外營隊、活動、比賽",
+      "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=28437"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-25",
+    "method": "single",
+    "unread": [],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-25"
+}

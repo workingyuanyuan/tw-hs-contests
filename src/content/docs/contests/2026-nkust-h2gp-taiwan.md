@@ -3,7 +3,7 @@ title: "H2GP Taiwan 2027大獎賽－全球最大跨學科氫能教育活動"
 description: "高中職學生至多 5 人組隊，繳交參賽具結書與參賽動機說明，入選 20 隊於決賽以氫燃料電池遙控車競賽。"
 appliesTo: "2027 這一屆"
 caveat: "日期與時間都是臺灣時間。"
-lastVerified: 2026-11-24
+lastVerified: 2026-11-25
 kind: "contest"
 deadline: "2026-12-14"
 sources:

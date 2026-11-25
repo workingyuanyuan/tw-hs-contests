@@ -1,0 +1,343 @@
+{
+  "schema": 1,
+  "id": "2026-mohw-mental-health-pk",
+  "title": "115年度心理健康知識PK賽",
+  "edition": "115 年度",
+  "summary": "國中、高中職學生與一般民眾個人上線作答，比拚心快活平台的心理健康知識。",
+  "organizers": [
+    {
+      "name": "衛生福利部",
+      "role": "主辦"
+    },
+    {
+      "name": "國立成功大學",
+      "role": "承辦"
+    },
+    {
+      "name": "學悅科技股份有限公司",
+      "role": "協辦"
+    }
+  ],
+  "categories": [
+    "醫護與照顧"
+  ],
+  "eligibility": {
+    "levels": [
+      "國中",
+      "高中",
+      "高職",
+      "社會人士"
+    ],
+    "division": "separate",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": 1,
+    "teacher": "required",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33936/115%E5%B9%B4%E5%BA%A6%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7%E7%9F%A5%E8%AD%98PK%E8%B3%BD%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.1.pdf",
+        "quote": "六、 參賽對象：全國各地區之國、高中職學生及不限國籍、戶籍及年齡之民眾。"
+      },
+      {
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33936/115%E5%B9%B4%E5%BA%A6%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7%E7%9F%A5%E8%AD%98PK%E8%B3%BD%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.1.pdf",
+        "quote": "七、 競賽組別：分為國中組、高中組及一般組競賽（國中及高中職組參賽學生需有1名指導老師）。"
+      },
+      {
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33936/115%E5%B9%B4%E5%BA%A6%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7%E7%9F%A5%E8%AD%98PK%E8%B3%BD%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.1.pdf",
+        "quote": "高中職組及一般組之參賽人數無上限，無需上傳「校內推薦證明」。"
+      },
+      {
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33936/115%E5%B9%B4%E5%BA%A6%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7%E7%9F%A5%E8%AD%98PK%E8%B3%BD%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.1.pdf",
+        "quote": "(一) 一律採網路報名，報名網址：https://forms.gle/Yobansk6J4k8TmvA9"
+      },
+      {
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33936/115%E5%B9%B4%E5%BA%A6%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7%E7%9F%A5%E8%AD%98PK%E8%B3%BD%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.1.pdf",
+        "quote": "競賽進行時需由參賽者獨自作答"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "網路報名截止",
+      "date": "2026-11-02",
+      "time": "23:59",
+      "original": "115年11月2日23:59",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33936/115%E5%B9%B4%E5%BA%A6%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7%E7%9F%A5%E8%AD%98PK%E8%B3%BD%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.1.pdf",
+          "quote": "(一) 報名期間：即日起至115年11月2日23:59止。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "Zuvio 競賽帳號寄出期限",
+      "date": "2026-11-05",
+      "time": "17:00",
+      "original": "115年11月5日17:00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33936/115%E5%B9%B4%E5%BA%A6%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7%E7%9F%A5%E8%AD%98PK%E8%B3%BD%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.1.pdf",
+          "quote": "Zuvio競賽帳號將於115年11月5日17:00前陸續寄出"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "南區海選（南區學校參賽者）",
+      "date": "2026-11-09",
+      "time": "12:10",
+      "original": "11月9日（星期一）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33936/115%E5%B9%B4%E5%BA%A6%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7%E7%9F%A5%E8%AD%98PK%E8%B3%BD%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.1.pdf",
+          "quote": "1. 南區海選：11月9日（星期一）"
+        },
+        {
+          "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33936/115%E5%B9%B4%E5%BA%A6%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7%E7%9F%A5%E8%AD%98PK%E8%B3%BD%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.1.pdf",
+          "quote": "競賽日中午12:10-13:10辦理。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "北區海選（北區學校參賽者）",
+      "date": "2026-11-10",
+      "time": "12:10",
+      "original": "11月10日（星期二）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33936/115%E5%B9%B4%E5%BA%A6%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7%E7%9F%A5%E8%AD%98PK%E8%B3%BD%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.1.pdf",
+          "quote": "2. 北區海選：11月10日（星期二）"
+        },
+        {
+          "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33936/115%E5%B9%B4%E5%BA%A6%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7%E7%9F%A5%E8%AD%98PK%E8%B3%BD%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.1.pdf",
+          "quote": "競賽日中午12:10-13:10辦理。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "南區預賽（南區海選前20%）",
+      "date": "2026-11-16",
+      "time": "12:10",
+      "original": "11月16日（星期一）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33936/115%E5%B9%B4%E5%BA%A6%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7%E7%9F%A5%E8%AD%98PK%E8%B3%BD%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.1.pdf",
+          "quote": "3. 南區預賽：11月16日（星期一）"
+        },
+        {
+          "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33936/115%E5%B9%B4%E5%BA%A6%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7%E7%9F%A5%E8%AD%98PK%E8%B3%BD%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.1.pdf",
+          "quote": "競賽日中午12:10-13:10辦理。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "北區預賽（北區海選前20%）",
+      "date": "2026-11-17",
+      "time": "12:10",
+      "original": "11月17日（星期二）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33936/115%E5%B9%B4%E5%BA%A6%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7%E7%9F%A5%E8%AD%98PK%E8%B3%BD%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.1.pdf",
+          "quote": "4. 北區預賽：11月17日（星期二）"
+        },
+        {
+          "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33936/115%E5%B9%B4%E5%BA%A6%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7%E7%9F%A5%E8%AD%98PK%E8%B3%BD%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.1.pdf",
+          "quote": "競賽日中午12:10-13:10辦理。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "總決賽（南北區預賽各前8名）",
+      "date": "2026-11-18",
+      "time": "12:10",
+      "original": "11月18日（星期三）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33936/115%E5%B9%B4%E5%BA%A6%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7%E7%9F%A5%E8%AD%98PK%E8%B3%BD%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.1.pdf",
+          "quote": "5. 總 決 賽：11月18日（星期三）"
+        },
+        {
+          "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33936/115%E5%B9%B4%E5%BA%A6%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7%E7%9F%A5%E8%AD%98PK%E8%B3%BD%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.1.pdf",
+          "quote": "由南區及北區預賽排名各前8名之參賽者（共16名），於115年11月18日中午進行決賽。"
+        },
+        {
+          "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33936/115%E5%B9%B4%E5%BA%A6%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7%E7%9F%A5%E8%AD%98PK%E8%B3%BD%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.1.pdf",
+          "quote": "競賽日中午12:10-13:10辦理。"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "總決賽結果宣布",
+      "date": "2026-11-18",
+      "time": "13:30",
+      "original": "115年11月18日下午13時30分",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33936/115%E5%B9%B4%E5%BA%A6%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7%E7%9F%A5%E8%AD%98PK%E8%B3%BD%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.1.pdf",
+          "quote": "(三) 總決賽結果宣布：115年11月18日下午13時30分。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "海選、預賽、決賽",
+      "what": "每階段兩回合，每回合 20 題單選題、限時 8 分鐘，依答對題數與答題速度排名",
+      "how": "online"
+    },
+    {
+      "stage": "報到",
+      "what": "競賽當日 12:10 至 12:20 填寫報到表單，全程開啟視訊鏡頭接受身份驗證",
+      "how": "online"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "線上（Zuvio 系統與 Google meet 線上會議室）",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33936/115%E5%B9%B4%E5%BA%A6%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7%E7%9F%A5%E8%AD%98PK%E8%B3%BD%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.1.pdf",
+        "quote": "運用Zuvio雲端即時互動軟體系統"
+      },
+      {
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33936/115%E5%B9%B4%E5%BA%A6%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7%E7%9F%A5%E8%AD%98PK%E8%B3%BD%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.1.pdf",
+        "quote": "採取「異地同時參賽」之競賽方式"
+      },
+      {
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33936/115%E5%B9%B4%E5%BA%A6%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7%E7%9F%A5%E8%AD%98PK%E8%B3%BD%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.1.pdf",
+        "quote": "參賽者須於競賽當日12:10至12:20，填寫承辦單位事先提供之報到表單完成報到"
+      },
+      {
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33936/115%E5%B9%B4%E5%BA%A6%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7%E7%9F%A5%E8%AD%98PK%E8%B3%BD%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.1.pdf",
+        "quote": "比賽當天之Google meet線上會議室將於當天填寫報到表單後公布。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33936/115%E5%B9%B4%E5%BA%A6%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7%E7%9F%A5%E8%AD%98PK%E8%B3%BD%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.1.pdf"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "國中組、高中組及一般組各取前三名，參賽者與其指導老師各獲獎金與衛生福利部獎狀一紙：第一名新臺幣 5,000 元、第二名 3,000 元、第三名 2,000 元（獎金須扣繳 10% 所得稅）。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33936/115%E5%B9%B4%E5%BA%A6%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7%E7%9F%A5%E8%AD%98PK%E8%B3%BD%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.1.pdf",
+        "quote": "(一)獲獎名額：國中組、高中組及一般組各取前三名之參賽者與其指導老師。"
+      },
+      {
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33936/115%E5%B9%B4%E5%BA%A6%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7%E7%9F%A5%E8%AD%98PK%E8%B3%BD%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.1.pdf",
+        "quote": "(二)獎勵內容：獲獎者與其指導老師各獲得獎金與衛生福利部獎狀一紙，"
+      },
+      {
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33936/115%E5%B9%B4%E5%BA%A6%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7%E7%9F%A5%E8%AD%98PK%E8%B3%BD%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.1.pdf",
+        "quote": "第一名 新臺幣5,000元 新臺幣5,000元"
+      },
+      {
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33936/115%E5%B9%B4%E5%BA%A6%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7%E7%9F%A5%E8%AD%98PK%E8%B3%BD%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.1.pdf",
+        "quote": "第二名 新臺幣3,000元 新臺幣3,000元"
+      },
+      {
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33936/115%E5%B9%B4%E5%BA%A6%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7%E7%9F%A5%E8%AD%98PK%E8%B3%BD%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.1.pdf",
+        "quote": "第三名 新臺幣2,000元 新臺幣2,000元"
+      },
+      {
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33936/115%E5%B9%B4%E5%BA%A6%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7%E7%9F%A5%E8%AD%98PK%E8%B3%BD%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.1.pdf",
+        "quote": "繳納獲獎金額10%之所得稅。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33936/115%E5%B9%B4%E5%BA%A6%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7%E7%9F%A5%E8%AD%98PK%E8%B3%BD%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.1.pdf"
+      }
+    ]
+  },
+  "links": {
+    "official": null,
+    "rules": [
+      {
+        "title": "115年度心理健康知識PK賽競賽辦法",
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33936/115%E5%B9%B4%E5%BA%A6%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7%E7%9F%A5%E8%AD%98PK%E8%B3%BD%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.1.pdf"
+      },
+      {
+        "title": "教育部國民及學前教育署轉知函",
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33936/115%E5%B9%B4%E5%BA%A6%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7%E7%9F%A5%E8%AD%98PK%E8%B3%BD%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.pdf"
+      }
+    ],
+    "registration": "https://forms.gle/Yobansk6J4k8TmvA9"
+  },
+  "found_via": [
+    {
+      "name": "錦和高中 學生競賽",
+      "url": "https://www.jhsh.ntpc.edu.tw/p/406-1000-21216,r51.php?Lang=zh-tw"
+    },
+    {
+      "name": "苗栗高中 學生校外營隊、活動、比賽",
+      "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=28523"
+    },
+    {
+      "name": "暨大附中 學生研習與競賽活動",
+      "url": "https://www.pshs.ntct.edu.tw/ischool/public/news_view/show.php?nid=33936"
+    },
+    {
+      "name": "成功高中 活動競賽",
+      "url": "https://www.cksh.tp.edu.tw/news/%e3%80%90%e8%bd%89%e7%9f%a5%e3%80%91%e8%a1%9b%e7%94%9f%e7%a6%8f%e5%88%a9%e9%83%a8%e3%80%8c%e5%bf%83%e5%bf%ab%e6%b4%bb%e3%80%8d%e5%bf%83%e7%90%86%e5%81%a5%e5%ba%b7%e5%ad%b8%e7%bf%92%e5%b9%b3%e5%8f%b011/"
+    },
+    {
+      "name": "金門高中 最新消息",
+      "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=22499"
+    },
+    {
+      "name": "嘉義女中 競賽與投稿",
+      "url": "https://www.cygsh.cy.edu.tw/p/406-1013-186846,r679.php"
+    },
+    {
+      "name": "海山高中 學生競賽活動",
+      "url": "https://www.hshs.ntpc.edu.tw/p/406-1000-12546,r156.php"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-25",
+    "method": "single",
+    "unread": [
+      "校內推薦證明（國中組格式）"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-25",
+  "conflict": "競賽辦法第八點寫高中職組及一般組無需上傳「校內推薦證明」，第十點卻要求參賽者全程開啟視訊鏡頭並備妥學生證與校內推薦證明。"
+}

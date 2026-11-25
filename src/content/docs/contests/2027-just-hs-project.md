@@ -3,7 +3,7 @@ title: "2027 全國高中職專題競賽"
 description: "高中職同校 3 至 6 人組隊繳交專題全文 PDF，入圍隊伍到景文科技大學上台簡報。"
 appliesTo: "2027 這一屆"
 caveat: "日期與時間都是臺灣時間。"
-lastVerified: 2026-11-24
+lastVerified: 2026-11-25
 kind: "contest"
 deadline: "2027-01-05"
 sources:

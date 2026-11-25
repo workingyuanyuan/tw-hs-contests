@@ -3,7 +3,7 @@ title: "2027 國際太空站(ISS)零重力實驗提案比賽（Asian Try Zero-G 
 description: "研究所含以下在籍學生 1 至 5 人組隊，以英文撰寫 Kibo 艙零重力實驗提案並於初選口頭簡報。"
 appliesTo: "2027 這一屆"
 caveat: "高中職學生與大專生或社會人士同組評比。"
-lastVerified: 2026-11-24
+lastVerified: 2026-11-25
 kind: "contest"
 deadline: "2026-11-30"
 sources:

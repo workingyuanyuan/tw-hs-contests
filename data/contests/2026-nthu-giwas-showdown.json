@@ -3,7 +3,7 @@
   "id": "2026-nthu-giwas-showdown",
   "title": "「吉娃斯愛科學決戰」體驗賽",
   "edition": "2026",
-  "summary": "各級學校師生在線上作答科學概念與原住民族文化知識的單選題，依分數與答題時間排名。",
+  "summary": "各級學校師生個人上線作答《吉娃斯愛科學》動畫相關的科學與原住民族文化題目。",
   "organizers": [
     {
       "name": "國立清華大學學習科學與科技研究所",
@@ -46,31 +46,31 @@
     "basis": "quote",
     "evidence": [
       {
-        "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs8112/「吉娃斯愛科學決戰」.pdf",
-        "quote": "參賽資格：我國境內各級學校師生均可參加，未滿18 歲者需經家長或教師同\n意參加本活動。"
+        "url": "http://www.wlsh.tyc.edu.tw/p/406-1000-43647,r83.php?Lang=zh-tw",
+        "quote": "參加對象：我國境內各級學校師生均可參加，未滿18歲者須經家長或教師同意參加；本活動免收報名費。"
       },
       {
         "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs8112/「吉娃斯愛科學決戰」.pdf",
-        "quote": "報名方式：參賽者須至《吉娃斯愛科學》評量專區\n（https://quiz.yabit.org.tw/）完成會員註冊，並使用個人會\n員帳號及密碼登入，始得參與測驗練習與線上活動競賽。"
+        "quote": "報名方式：參賽者須至《吉娃斯愛科學》評量專區（https://quiz.yabit.org.tw/）完成會員註冊，並使用個人會員帳號及密碼登入，始得參與測驗練習與線上活動競賽。"
+      },
+      {
+        "url": "http://www.wlsh.tyc.edu.tw/p/406-1000-43647,r83.php?Lang=zh-tw",
+        "quote": "清華大學辦理科普活動競賽「吉娃斯愛科學決戰」體驗賽，請同學自行報名參加"
       }
     ]
   },
   "dates": [
     {
-      "kind": "other",
-      "label": "線上競賽",
+      "kind": "submission_deadline",
+      "label": "線上競賽作答截止",
       "date": "2026-11-14",
-      "time": "10:00",
-      "original": "2026 年11 月14 日（星期六） 上午10：00 至12：00",
+      "time": "12:00",
+      "original": "2026年11月14日（六）10:00–12:00",
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs8112/「吉娃斯愛科學決戰」.pdf",
-          "quote": "活動日期：2026 年11 月14 日（星期六）"
-        },
-        {
-          "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs8112/「吉娃斯愛科學決戰」.pdf",
-          "quote": "活動時間：上午10：00 至12：00"
+          "url": "https://yabit.org.tw/news/content/157",
+          "quote": "線上競賽：2026年11月14日（六）10:00–12:00"
         }
       ]
     },
@@ -79,18 +79,18 @@
       "label": "實體公開決賽（線上競賽前三名）",
       "date": "2026-11-21",
       "time": "11:00",
-      "original": "115年11月21日（六）上午11時至11時30分",
+      "original": "2026年11月21日（六）11:00–11:30",
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://www.csghs.tp.edu.tw/news/%e8%bd%89%e7%9f%a5%e8%87%ba%e5%8c%97%e5%b8%82%e6%94%bf%e5%ba%9c%e6%95%99%e8%82%b2%e5%b1%80%ef%bc%8c%e5%9c%8b%e7%ab%8b%e6%b8%85%e8%8f%af%e5%a4%a7%e5%ad%b8%e8%be%a6%e7%90%86%e7%a7%91%e6%99%ae%e6%b4%bb/",
-          "quote": "（三）實體公開決賽：線上競賽前3名取得決賽資格，於115年11月21日（六）上午11時至11時30分，假新竹振道有線電視攝影棚辦理。"
+          "url": "https://yabit.org.tw/news/content/157",
+          "quote": "實體決賽：2026年11月21日（六）11:00–11:30，"
         }
       ]
     },
     {
       "kind": "other",
-      "label": "線上競賽前 20 名獎狀與周邊產品郵寄期限",
+      "label": "線上競賽前 20 名獎狀及周邊產品郵寄",
       "date": "2026-12-10",
       "time": null,
       "original": "12 月10 日前",
@@ -98,7 +98,7 @@
       "evidence": [
         {
           "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs8112/「吉娃斯愛科學決戰」.pdf",
-          "quote": "由主辦單位聯繫並於12 月10 日前\n前郵寄獎狀及《吉娃斯愛科學》動畫周邊產品（吉娃斯布偶吊飾與文具）。"
+          "quote": "由主辦單位聯繫並於12 月10 日前前郵寄獎狀及《吉娃斯愛科學》動畫周邊產品（吉娃斯布偶吊飾與文具）。"
         }
       ]
     }
@@ -106,12 +106,12 @@
   "deliverables": [
     {
       "stage": "線上競賽",
-      "what": "40 分鐘內作答 25 題單選題（每題 4 分，滿分 100 分），每人限一次",
+      "what": "25 題單選題，限時 40 分鐘作答，每人限參加 1 次",
       "how": "online"
     },
     {
       "stage": "實體公開決賽（線上競賽前三名）",
-      "what": "搶答",
+      "what": "以搶答方式比賽，現場錄影並公開播出",
       "how": "onsite"
     }
   ],
@@ -121,8 +121,12 @@
     "basis": "quote",
     "evidence": [
       {
+        "url": "http://www.wlsh.tyc.edu.tw/p/406-1000-43647,r83.php?Lang=zh-tw",
+        "quote": "實體公開決賽：線上競賽前3名取得決賽資格，於115年11月21日（星期六）上午11時至11時30分，假新竹振道有線電視攝影棚辦理。"
+      },
+      {
         "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs8112/「吉娃斯愛科學決戰」.pdf",
-        "quote": "11 月21 日（星期六）上午11：00 至11：30 於新竹振道有線電視攝影棚（新\n竹市中華路三段126 號地下1 樓）（新竹火車站附近），以搶答方式，進行實\n體公開決賽「吉娃斯愛科學決戰」體驗賽"
+        "quote": "於新竹振道有線電視攝影棚（新竹市中華路三段126 號地下1 樓）（新竹火車站附近），以搶答方式"
       }
     ]
   },
@@ -133,21 +137,25 @@
     "evidence": [
       {
         "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs8112/「吉娃斯愛科學決戰」.pdf",
-        "quote": "（二）報名費用：免報名費。"
+        "quote": "報名費用：免報名費。"
       }
     ]
   },
   "prizes": {
-    "text": "線上競賽前 20 名頒發獎狀及《吉娃斯愛科學》動畫周邊產品（吉娃斯布偶吊飾與文具），前三名另取得實體公開決賽資格；實體公開決賽第一至第三名各頒發獎狀乙紙。",
+    "text": "線上競賽前 20 名獲獎狀及《吉娃斯愛科學》動畫周邊產品（吉娃斯布偶吊飾與文具），前三名另取得實體公開決賽資格；實體決賽第一至三名各頒獎狀乙紙。決賽參賽者與一名陪同者補助往返居住縣市與新竹市之一次交通費。",
     "basis": "quote",
     "evidence": [
       {
-        "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs8112/「吉娃斯愛科學決戰」.pdf",
-        "quote": "行榜」區所顯示活動競賽之前20 名者，由主辦單位聯繫並於12 月10 日前\n前郵寄獎狀及《吉娃斯愛科學》動畫周邊產品（吉娃斯布偶吊飾與文具）。"
+        "url": "http://www.wlsh.tyc.edu.tw/p/406-1000-43647,r83.php?Lang=zh-tw",
+        "quote": "線上競賽前20名由主辦單位頒發獎狀及《吉娃斯愛科學》動畫周邊產品；前3名另取得實體公開決賽參賽資格。"
       },
       {
         "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs8112/「吉娃斯愛科學決戰」.pdf",
-        "quote": "（二）實體公開決賽「吉娃斯愛科學決戰」體驗賽第一名獎狀，第二名獎狀，第三名\n獎狀。各頒發獎狀乙紙。"
+        "quote": "實體公開決賽「吉娃斯愛科學決戰」體驗賽第一名獎狀，第二名獎狀，第三名獎狀。各頒發獎狀乙紙。"
+      },
+      {
+        "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs8112/「吉娃斯愛科學決戰」.pdf",
+        "quote": "由主辦單位補助參賽者與一名陪同者往返居住縣市與新竹市之一次交通費用，補助方式另行通知。"
       }
     ]
   },
@@ -159,12 +167,12 @@
         "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs8112/「吉娃斯愛科學決戰」.pdf"
       },
       {
-        "url": "https://www.csghs.tp.edu.tw/news/%e8%bd%89%e7%9f%a5%e8%87%ba%e5%8c%97%e5%b8%82%e6%94%bf%e5%ba%9c%e6%95%99%e8%82%b2%e5%b1%80%ef%bc%8c%e5%9c%8b%e7%ab%8b%e6%b8%85%e8%8f%af%e5%a4%a7%e5%ad%b8%e8%be%a6%e7%90%86%e7%a7%91%e6%99%ae%e6%b4%bb/"
+        "url": "https://yabit.org.tw/news/content/157"
       }
     ]
   },
   "links": {
-    "official": "https://quiz.yabit.org.tw/",
+    "official": "https://yabit.org.tw/news/content/157",
     "rules": [
       {
         "title": "「吉娃斯愛科學決戰」體驗賽實施計畫",
@@ -192,14 +200,16 @@
     }
   ],
   "verification": {
-    "last_verified": "2026-11-24",
+    "last_verified": "2026-11-25",
     "method": "single",
-    "unread": [],
+    "unread": [
+      "「吉娃斯愛科學決戰」體驗賽活動海報"
+    ],
     "note": null,
     "readers": [
       "claude-opus-5-5"
     ]
   },
   "first_seen": "2026-11-24",
-  "updated": "2026-11-24"
+  "updated": "2026-11-25"
 }

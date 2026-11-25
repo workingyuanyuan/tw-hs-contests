@@ -3,7 +3,7 @@ title: "台灣觀光100亮點-亮點熱映中 限時招募短影音玩家"
 description: "喜愛旅遊者報名任務媒合，入選後前往指定亮點拍攝60至90秒短影音，於社群發布並在去趣建行程回傳連結。"
 appliesTo: "2026 這一屆"
 caveat: "高中職學生與大專生或社會人士同組評比。"
-lastVerified: 2026-11-24
+lastVerified: 2026-11-25
 kind: "contest"
 deadline: "2026-11-30"
 sources:

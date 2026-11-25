@@ -3,7 +3,7 @@ title: "2026 JUSTSHOW盃專業口布摺疊技能競賽"
 description: "高中職與五專餐飲、觀光科學生到景文科技大學，於 10 分鐘內現場摺疊九件七款口布。"
 appliesTo: "2026 這一屆"
 caveat: "報名已於 2026-11-22 截止。"
-lastVerified: 2026-11-24
+lastVerified: 2026-11-25
 kind: "contest"
 deadline: "2026-11-22"
 sources:

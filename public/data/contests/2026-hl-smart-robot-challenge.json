@@ -1,0 +1,319 @@
+{
+  "schema": 1,
+  "id": "2026-hl-smart-robot-challenge",
+  "title": "中華民國第14屆智慧型機器人創意闖關比賽",
+  "edition": "第 14 屆",
+  "summary": "學生組隊在現場設計、組裝機器人，參加創意闖關、智慧機器人相撲或 3 對 3 遙控足球比賽。",
+  "organizers": [
+    {
+      "name": "苗栗縣政府",
+      "role": "指導"
+    },
+    {
+      "name": "苗栗縣後龍鎮後龍國民小學",
+      "role": "承辦"
+    },
+    {
+      "name": "育達科技大學",
+      "role": "協辦"
+    }
+  ],
+  "categories": [
+    "資訊與 AI",
+    "工程與製造"
+  ],
+  "eligibility": {
+    "levels": [
+      "國小",
+      "國中",
+      "高中",
+      "高職"
+    ],
+    "division": "separate",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "school",
+    "team_min": 2,
+    "team_max": 3,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28630/%E3%80%8C%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E7%AC%AC14%E5%B1%86%E6%99%BA%E6%85%A7%E5%9E%8B%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%89%B5%E6%84%8F%E9%97%96%E9%97%9C%E6%AF%94%E8%B3%BD%E8%A8%88%E7%95%AB%E3%80%8D%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "1. 國小組：竹苗區境內公私立國民小學在校生"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28630/%E3%80%8C%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E7%AC%AC14%E5%B1%86%E6%99%BA%E6%85%A7%E5%9E%8B%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%89%B5%E6%84%8F%E9%97%96%E9%97%9C%E6%AF%94%E8%B3%BD%E8%A8%88%E7%95%AB%E3%80%8D%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "2. 國中組：竹苗區境內公私立國民中學在校生"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28630/%E3%80%8C%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E7%AC%AC14%E5%B1%86%E6%99%BA%E6%85%A7%E5%9E%8B%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%89%B5%E6%84%8F%E9%97%96%E9%97%9C%E6%AF%94%E8%B3%BD%E8%A8%88%E7%95%AB%E3%80%8D%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "3. 高中職組：全國公私立高中職在校生。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28630/%E3%80%8C%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E7%AC%AC14%E5%B1%86%E6%99%BA%E6%85%A7%E5%9E%8B%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%89%B5%E6%84%8F%E9%97%96%E9%97%9C%E6%AF%94%E8%B3%BD%E8%A8%88%E7%95%AB%E3%80%8D%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "智慧型機器人創意闖關比賽報名隊伍，由符合報名資格的學校推薦學生組隊參加，每隊人數為2 位學生，全部報名隊數上限為36 隊共72 人"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28630/%E3%80%8C%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E7%AC%AC14%E5%B1%86%E6%99%BA%E6%85%A7%E5%9E%8B%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%89%B5%E6%84%8F%E9%97%96%E9%97%9C%E6%AF%94%E8%B3%BD%E8%A8%88%E7%95%AB%E3%80%8D%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "趣味相撲機器人大賽每隊人數為3 位學生，全部報名隊數上限為48 隊共144 人參加"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28630/%E3%80%8C%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E7%AC%AC14%E5%B1%86%E6%99%BA%E6%85%A7%E5%9E%8B%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%89%B5%E6%84%8F%E9%97%96%E9%97%9C%E6%AF%94%E8%B3%BD%E8%A8%88%E7%95%AB%E3%80%8D%E7%AB%B6%E8%B3%BD%E8%A6%8F%E5%89%87.pdf",
+        "quote": "2.國中、高中職組：全國公私立國民中學及高中職在校生。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28630/%E3%80%8C%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E7%AC%AC14%E5%B1%86%E6%99%BA%E6%85%A7%E5%9E%8B%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%89%B5%E6%84%8F%E9%97%96%E9%97%9C%E6%AF%94%E8%B3%BD%E8%A8%88%E7%95%AB%E3%80%8D%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "以上創意闖關及趣味相撲兩組競賽分高中職組、國中組與國小組競賽"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28630/%E3%80%8C%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E7%AC%AC14%E5%B1%86%E6%99%BA%E6%85%A7%E5%9E%8B%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%89%B5%E6%84%8F%E9%97%96%E9%97%9C%E6%AF%94%E8%B3%BD%E8%A8%88%E7%95%AB%E3%80%8D%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "3 對3 遙控足球競賽分高中國中組、國小組競賽。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28630/%E3%80%8C%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E7%AC%AC14%E5%B1%86%E6%99%BA%E6%85%A7%E5%9E%8B%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%89%B5%E6%84%8F%E9%97%96%E9%97%9C%E6%AF%94%E8%B3%BD%E8%A8%88%E7%95%AB%E3%80%8D%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "1. 報名時間：請各校於 115 年12 月22 日（二）前，完成線上報名，逾期不予受理。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "線上報名截止",
+      "date": "2026-12-22",
+      "time": "17:00",
+      "original": "115年12月22日（星期二）下午5時止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=27047",
+          "quote": "(一)報名時間：115年11月10日（星期二）上午9時起至115年12月22日（星期二）下午5時止。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "創意闖關題目與規則公告於比賽網站（預定）",
+      "date": "2026-12-24",
+      "time": null,
+      "original": "115年12月24日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28630/%E3%80%8C%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E7%AC%AC14%E5%B1%86%E6%99%BA%E6%85%A7%E5%9E%8B%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%89%B5%E6%84%8F%E9%97%96%E9%97%9C%E6%AF%94%E8%B3%BD%E8%A8%88%E7%95%AB%E3%80%8D%E7%AB%B6%E8%B3%BD%E8%A6%8F%E5%89%87.pdf",
+          "quote": "創意闖關的題目與規則預定於115年12月24日於公告於「中華民國第 14 屆智慧型機器人創意闖關比賽網站」。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "公佈名單及名單勘誤",
+      "date": "2026-12-29",
+      "time": null,
+      "original": "115 年12 月29 日 (二)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28630/%E3%80%8C%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E7%AC%AC14%E5%B1%86%E6%99%BA%E6%85%A7%E5%9E%8B%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%89%B5%E6%84%8F%E9%97%96%E9%97%9C%E6%AF%94%E8%B3%BD%E8%A8%88%E7%95%AB%E3%80%8D%E7%B0%A1%E7%AB%A0.pdf",
+          "quote": "115 年12 月29 日 (二) 公佈名單及名單勘誤"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "創意闖關比賽試題說明會、智慧機器人相撲比賽抽籤",
+      "date": "2027-01-06",
+      "time": "13:30",
+      "original": "116 年1 月6 日 (三) 13:30~15:30",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28630/%E3%80%8C%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E7%AC%AC14%E5%B1%86%E6%99%BA%E6%85%A7%E5%9E%8B%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%89%B5%E6%84%8F%E9%97%96%E9%97%9C%E6%AF%94%E8%B3%BD%E8%A8%88%E7%95%AB%E3%80%8D%E7%B0%A1%E7%AB%A0.pdf",
+          "quote": "116 年1 月6 日 (三) 13:30~15:30 ● 創意闖關比賽-試題說明會 ● 智慧機器人相撲比賽-抽籤"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "名單勘誤及異動截止",
+      "date": "2027-01-06",
+      "time": "15:30",
+      "original": "116 年1 月6 日 (三)15:30 前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28630/%E3%80%8C%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E7%AC%AC14%E5%B1%86%E6%99%BA%E6%85%A7%E5%9E%8B%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%89%B5%E6%84%8F%E9%97%96%E9%97%9C%E6%AF%94%E8%B3%BD%E8%A8%88%E7%95%AB%E3%80%8D%E7%B0%A1%E7%AB%A0.pdf",
+          "quote": "若有錯誤或更換，請於116 年1 月6 日 (三)15:30 前"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "創意闖關比賽、3 對 3 遙控足球比賽",
+      "date": "2027-01-23",
+      "time": null,
+      "original": "116 年1 月23 日 (六)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28630/%E3%80%8C%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E7%AC%AC14%E5%B1%86%E6%99%BA%E6%85%A7%E5%9E%8B%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%89%B5%E6%84%8F%E9%97%96%E9%97%9C%E6%AF%94%E8%B3%BD%E8%A8%88%E7%95%AB%E3%80%8D%E7%B0%A1%E7%AB%A0.pdf",
+          "quote": "116 年1 月23 日 (六) 創意闖關比賽 (育達科技大學主辦) 遙控足球比賽(育達科技大學主辦)"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "智慧機器人相撲比賽",
+      "date": "2027-01-24",
+      "time": null,
+      "original": "116 年1 月24 日 (日)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28630/%E3%80%8C%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E7%AC%AC14%E5%B1%86%E6%99%BA%E6%85%A7%E5%9E%8B%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%89%B5%E6%84%8F%E9%97%96%E9%97%9C%E6%AF%94%E8%B3%BD%E8%A8%88%E7%95%AB%E3%80%8D%E7%B0%A1%E7%AB%A0.pdf",
+          "quote": "116 年1 月24 日 (日) 智慧機器人相撲比賽 (苗栗縣後龍國小協辦)"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "創意闖關比賽",
+      "what": "以 LEGO EV3 或 NXT 當場自行設計、組裝一台機器人，挑戰當天宣布的闖關任務",
+      "how": "onsite"
+    },
+    {
+      "stage": "智慧機器人相撲比賽",
+      "what": "自零件狀態組裝並以程式控制、自主運作的相撲機器人，依賽程對戰",
+      "how": "onsite"
+    },
+    {
+      "stage": "3 對 3 遙控足球比賽",
+      "what": "每隊 3 台無線遙控輪式機器人，報到前組裝完成，採雙敗淘汰賽",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "苗栗縣後龍國小活動中心",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28630/%E3%80%8C%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E7%AC%AC14%E5%B1%86%E6%99%BA%E6%85%A7%E5%9E%8B%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%89%B5%E6%84%8F%E9%97%96%E9%97%9C%E6%AF%94%E8%B3%BD%E8%A8%88%E7%95%AB%E3%80%8D%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "苗栗縣後龍國小-活動中心 (苗栗縣後龍鎮大庄里成功路 254 號)，請自行前往本校。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28630/%E3%80%8C%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E7%AC%AC14%E5%B1%86%E6%99%BA%E6%85%A7%E5%9E%8B%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%89%B5%E6%84%8F%E9%97%96%E9%97%9C%E6%AF%94%E8%B3%BD%E8%A8%88%E7%95%AB%E3%80%8D%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "比賽規則與評分於競賽當天早上宣佈，參賽學生需當場組裝並設計 1 台能完成所指定任務的機器人。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28630/%E3%80%8C%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E7%AC%AC14%E5%B1%86%E6%99%BA%E6%85%A7%E5%9E%8B%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%89%B5%E6%84%8F%E9%97%96%E9%97%9C%E6%AF%94%E8%B3%BD%E8%A8%88%E7%95%AB%E3%80%8D%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "3. 費用：參賽學生不需繳交任何費用，午餐請自行處理或由本校代訂便當 (報到時收代訂餐費100 元)。"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "創意闖關比賽各組、智慧機器人相撲比賽與遙控足球比賽（後兩項不分齡）各取前 3 名及佳作：第 1 名每隊獎金 1,800 元、第 2 名 1,500 元、第 3 名 1,200 元，皆附苗栗縣政府獎狀；佳作取總隊伍數 1/2 隊，頒苗栗縣政府獎狀。全程參賽者另獲參賽證明。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28630/%E3%80%8C%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E7%AC%AC14%E5%B1%86%E6%99%BA%E6%85%A7%E5%9E%8B%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%89%B5%E6%84%8F%E9%97%96%E9%97%9C%E6%AF%94%E8%B3%BD%E8%A8%88%E7%95%AB%E3%80%8D%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "1.參賽證明：凡全程參賽者，由承辦學校頒給參賽證明。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28630/%E3%80%8C%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E7%AC%AC14%E5%B1%86%E6%99%BA%E6%85%A7%E5%9E%8B%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%89%B5%E6%84%8F%E9%97%96%E9%97%9C%E6%AF%94%E8%B3%BD%E8%A8%88%E7%95%AB%E3%80%8D%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "2.參賽獎狀 – (1). 創意闖關比賽：各組參賽者依比賽成績高低錄取前 3 名及佳作。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28630/%E3%80%8C%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E7%AC%AC14%E5%B1%86%E6%99%BA%E6%85%A7%E5%9E%8B%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%89%B5%E6%84%8F%E9%97%96%E9%97%9C%E6%AF%94%E8%B3%BD%E8%A8%88%E7%95%AB%E3%80%8D%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "• 第 1 名：苗栗縣政府獎狀一紙；每隊獎金 1,800 元。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28630/%E3%80%8C%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E7%AC%AC14%E5%B1%86%E6%99%BA%E6%85%A7%E5%9E%8B%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%89%B5%E6%84%8F%E9%97%96%E9%97%9C%E6%AF%94%E8%B3%BD%E8%A8%88%E7%95%AB%E3%80%8D%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "• 第 2 名：苗栗縣政府獎狀一紙；每隊獎金 1,500 元。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28630/%E3%80%8C%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E7%AC%AC14%E5%B1%86%E6%99%BA%E6%85%A7%E5%9E%8B%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%89%B5%E6%84%8F%E9%97%96%E9%97%9C%E6%AF%94%E8%B3%BD%E8%A8%88%E7%95%AB%E3%80%8D%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "• 第 3 名：苗栗縣政府獎狀一紙；每隊獎金 1,200 元。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28630/%E3%80%8C%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E7%AC%AC14%E5%B1%86%E6%99%BA%E6%85%A7%E5%9E%8B%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%89%B5%E6%84%8F%E9%97%96%E9%97%9C%E6%AF%94%E8%B3%BD%E8%A8%88%E7%95%AB%E3%80%8D%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "• 佳作：（取總隊伍數 1/2 隊）；苗栗縣政府獎狀一紙。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28630/%E3%80%8C%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E7%AC%AC14%E5%B1%86%E6%99%BA%E6%85%A7%E5%9E%8B%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%89%B5%E6%84%8F%E9%97%96%E9%97%9C%E6%AF%94%E8%B3%BD%E8%A8%88%E7%95%AB%E3%80%8D%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "3.參賽獎狀 – (2). 智慧機器人相撲比賽 (不分齡)：依比賽成績高低錄取前 3 名及佳作。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28630/%E3%80%8C%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E7%AC%AC14%E5%B1%86%E6%99%BA%E6%85%A7%E5%9E%8B%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%89%B5%E6%84%8F%E9%97%96%E9%97%9C%E6%AF%94%E8%B3%BD%E8%A8%88%E7%95%AB%E3%80%8D%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "4.參賽獎狀 – (3). 遙控足球比賽(不分齡)：依比賽成績高低錄取前 3 名及佳作。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28630/%E3%80%8C%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E7%AC%AC14%E5%B1%86%E6%99%BA%E6%85%A7%E5%9E%8B%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%89%B5%E6%84%8F%E9%97%96%E9%97%9C%E6%AF%94%E8%B3%BD%E8%A8%88%E7%95%AB%E3%80%8D%E7%AB%B6%E8%B3%BD%E8%A6%8F%E5%89%87.pdf"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28630/%E3%80%8C%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E7%AC%AC14%E5%B1%86%E6%99%BA%E6%85%A7%E5%9E%8B%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%89%B5%E6%84%8F%E9%97%96%E9%97%9C%E6%AF%94%E8%B3%BD%E8%A8%88%E7%95%AB%E3%80%8D%E7%B0%A1%E7%AB%A0.pdf"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://sites.google.com/hl.mlc.edu.tw/robort?usp=sharing",
+    "rules": [
+      {
+        "title": "比賽簡章",
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28630/%E3%80%8C%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E7%AC%AC14%E5%B1%86%E6%99%BA%E6%85%A7%E5%9E%8B%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%89%B5%E6%84%8F%E9%97%96%E9%97%9C%E6%AF%94%E8%B3%BD%E8%A8%88%E7%95%AB%E3%80%8D%E7%B0%A1%E7%AB%A0.pdf"
+      },
+      {
+        "title": "競賽規則",
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28630/%E3%80%8C%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E7%AC%AC14%E5%B1%86%E6%99%BA%E6%85%A7%E5%9E%8B%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%89%B5%E6%84%8F%E9%97%96%E9%97%9C%E6%AF%94%E8%B3%BD%E8%A8%88%E7%95%AB%E3%80%8D%E7%AB%B6%E8%B3%BD%E8%A6%8F%E5%89%87.pdf"
+      },
+      {
+        "title": "苗栗縣政府函",
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28630/%E3%80%8C%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E7%AC%AC14%E5%B1%86%E6%99%BA%E6%85%A7%E5%9E%8B%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%89%B5%E6%84%8F%E9%97%96%E9%97%9C%E6%AF%94%E8%B3%BD%E8%A8%88%E7%95%AB%E3%80%8D.pdf"
+      }
+    ],
+    "registration": "https://hl.mlc.edu.tw/Home/Index.php"
+  },
+  "found_via": [
+    {
+      "name": "苗栗農工 處室公告",
+      "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=27047"
+    },
+    {
+      "name": "苗栗高中 學生校外營隊、活動、比賽",
+      "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=28630"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-25",
+    "method": "dual",
+    "unread": [
+      "中華民國第 14 屆智慧型機器人創意闖關比賽網站公告的創意闖關題目與規則"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5",
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-25",
+  "conflict": "簡章第四點列育達科技大學為協辦單位，同份簡章的重要日程則註明創意闖關比賽與遙控足球比賽由育達科技大學主辦。簡章第八點寫趣味相撲分高中職組、國中組與國小組，3 對 3 遙控足球分高中國中組與國小組，競賽獎勵則寫這兩項不分齡。",
+  "level": "verified",
+  "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-hl-smart-robot-challenge/",
+  "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-hl-smart-robot-challenge.md"
+}

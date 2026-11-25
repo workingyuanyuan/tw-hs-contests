@@ -351,18 +351,9 @@
     ]
   },
   "ai_policy": {
-    "value": "allowed",
-    "basis": "quote",
-    "evidence": [
-      {
-        "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs2221/北區分區技能競賽簡章.pdf",
-        "quote": "使用AI 工具輔助系統分析、程式設計時，能夠評估、驗證、管理其正確性，並進行必要的修正。"
-      },
-      {
-        "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs2221/北區分區技能競賽簡章.pdf",
-        "quote": "AI 在3D 建模的輔助應用。"
-      }
-    ]
+    "value": "unknown",
+    "basis": "unread",
+    "evidence": []
   },
   "links": {
     "official": null,
@@ -381,19 +372,20 @@
     }
   ],
   "verification": {
-    "last_verified": "2026-11-24",
-    "method": "single",
+    "last_verified": "2026-11-25",
+    "method": "dual",
     "unread": [
       "各職類競賽試題（技能檢定中心技能競賽專區）"
     ],
-    "note": null,
+    "note": "兩次讀取不一致，未列出：AI 規定：allowed 對 not_mentioned",
     "readers": [
+      "claude-opus-5-5",
       "claude-opus-5-5"
     ]
   },
   "first_seen": "2026-11-24",
   "updated": "2026-11-24",
-  "level": "checked",
+  "level": "verified",
   "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-national-skills-north/",
   "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-national-skills-north.md"
 }

@@ -3,7 +3,7 @@ title: "116年度全國技能競賽"
 description: "符合年齡的我國國民報名各職類，先在北中南分區賽實地操作技能，各職類前 5 名晉級全國賽。"
 appliesTo: "第57屆 這一屆"
 caveat: "高中職學生與大專生或社會人士同組評比。"
-lastVerified: 2026-11-24
+lastVerified: 2026-11-25
 kind: "contest"
 deadline: "2026-12-07"
 sources:

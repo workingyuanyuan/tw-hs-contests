@@ -1,0 +1,299 @@
+{
+  "schema": 1,
+  "id": "2026-taiwan-economics-olympiad",
+  "title": "2027 年第八屆台灣經濟學奧林匹亞競賽",
+  "edition": "2027 年第八屆",
+  "summary": "未滿 20 歲、未曾就讀大專的學生以英文應考經濟學與財務金融，晉級者以英語發表商業案例分析。",
+  "organizers": [
+    {
+      "name": "台灣經濟學奧林匹亞競賽組織",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "商管與行銷",
+    "社會人文"
+  ],
+  "eligibility": {
+    "levels": [
+      "國中",
+      "高中",
+      "高職"
+    ],
+    "division": "mixed",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": 1,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/11/2027年第八屆台灣經濟學奧林匹亞競賽活動簡章.pdf",
+        "quote": "(二) 於2027 年6 月30 日未滿20 歲。"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/11/2027年第八屆台灣經濟學奧林匹亞競賽活動簡章.pdf",
+        "quote": "(三) 不得為大專院校學生，且未曾就讀於任何大專院校。"
+      },
+      {
+        "url": "http://www.ecolympiad.tw",
+        "quote": "台灣經奧歡迎對經濟學、財務金融與商業分析有興趣的中學生挑戰跨領域素養及創意問題解謎！"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/11/2027年第八屆台灣經濟學奧林匹亞競賽活動簡章.pdf",
+        "quote": "一律由網路報名"
+      },
+      {
+        "url": "http://www.wlsh.tyc.edu.tw/p/406-1000-43594,r83.php?Lang=zh-tw",
+        "quote": "台灣模擬教育協會舉辦2027 年第八屆台灣經濟學奧林匹亞競賽，請同學自行報名參加"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/11/2027年第八屆台灣經濟學奧林匹亞競賽活動簡章.pdf",
+        "quote": "個人賽；使用英文製作簡報。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "線上報名截止",
+      "date": "2026-12-07",
+      "time": null,
+      "original": "2026 年10 月27 日（星期二）起至12 月7 日（星期一）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/11/2027年第八屆台灣經濟學奧林匹亞競賽活動簡章.pdf",
+          "quote": "報名：2026 年10 月27 日（星期二）起至12 月7 日（星期一）線上報名截止"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "初賽（台北、台中、台南試場）",
+      "date": "2026-12-19",
+      "time": "09:00",
+      "original": "2026 年12 月19 日（星期六）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/11/2027年第八屆台灣經濟學奧林匹亞競賽活動簡章.pdf",
+          "quote": "初賽：2026 年12 月19 日（星期六）"
+        },
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/11/2027年第八屆台灣經濟學奧林匹亞競賽活動簡章.pdf",
+          "quote": "09:00-09:50"
+        }
+      ]
+    },
+    {
+      "kind": "shortlist_announcement",
+      "label": "晉級名單公告",
+      "date": "2027-01-15",
+      "time": null,
+      "original": "2027 年1 月15 日（星期五）前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/11/2027年第八屆台灣經濟學奧林匹亞競賽活動簡章.pdf",
+          "quote": "晉級名單公告：2027 年1 月15 日（星期五）前公告於官方網站"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "選訓營開始（晉級學員，至 1 月 31 日）",
+      "date": "2027-01-25",
+      "time": null,
+      "original": "2027 年1 月25 日（星期一）至1 月31 日（星期日）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/11/2027年第八屆台灣經濟學奧林匹亞競賽活動簡章.pdf",
+          "quote": "選訓營：2027 年1 月25 日（星期一）至1 月31 日（星期日）"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "決賽暨頒獎典禮（選訓階段前 12 名）",
+      "date": "2027-03-13",
+      "time": "09:00",
+      "original": "2027 年3 月13 日（星期六）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/11/2027年第八屆台灣經濟學奧林匹亞競賽活動簡章.pdf",
+          "quote": "決賽暨頒獎典禮：2027 年3 月13 日（星期六）"
+        },
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/11/2027年第八屆台灣經濟學奧林匹亞競賽活動簡章.pdf",
+          "quote": "09:00-09:20"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "初賽",
+      "what": "經濟學與財務金融素養 30 道選擇題，及經濟學與財務金融應用 6 道申論題選答 4 題（英文作答）",
+      "how": "onsite"
+    },
+    {
+      "stage": "選訓營（初賽前 20 名及 EO 校際回合晉級者）",
+      "what": "3 次模擬測驗、3 次團體商業案例分析",
+      "how": "onsite"
+    },
+    {
+      "stage": "決賽（前 12 名）",
+      "what": "120 分鐘以英文製作商業案例分析簡報，再以英語發表 8 分鐘並問答 5 分鐘，自備個人電腦",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "初賽：國立臺灣大學共同教學館、臺中市私立明道高級中學、臺南市學無界實驗教育機構；決賽：集思台大會議中心",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/11/2027年第八屆台灣經濟學奧林匹亞競賽活動簡章.pdf",
+        "quote": "台北試場：國立臺灣大學共同教學館"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/11/2027年第八屆台灣經濟學奧林匹亞競賽活動簡章.pdf",
+        "quote": "台中試場：臺中市私立明道高級中學"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/11/2027年第八屆台灣經濟學奧林匹亞競賽活動簡章.pdf",
+        "quote": "台南試場：臺南市學無界實驗教育機構"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/11/2027年第八屆台灣經濟學奧林匹亞競賽活動簡章.pdf",
+        "quote": "3. 地點：集思台大會議中心"
+      }
+    ]
+  },
+  "fee": {
+    "value": "required",
+    "amount": "新台幣 1,500 元（報名 EO 校際回合者可折扣 200 元）",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/11/2027年第八屆台灣經濟學奧林匹亞競賽活動簡章.pdf",
+        "quote": "報名費為新台幣1,500 元。"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/11/2027年第八屆台灣經濟學奧林匹亞競賽活動簡章.pdf",
+        "quote": "如報名經濟學奧林匹亞（EO）校際回合可享折扣200 元"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "依最終階段總成績選拔正、備取國手進入我國代表隊，參加國際經濟學奧林匹亞等國際賽；決賽當日舉行頒獎典禮。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/11/2027年第八屆台灣經濟學奧林匹亞競賽活動簡章.pdf",
+        "quote": "5. 計分方式：依最終階段總成績 🅕 選拔正、備取國手進入我國代表隊。"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/11/2027年第八屆台灣經濟學奧林匹亞競賽活動簡章.pdf",
+        "quote": "頒獎典禮及國手代表座談會"
+      },
+      {
+        "url": "http://www.wlsh.tyc.edu.tw/p/406-1000-43594,r83.php?Lang=zh-tw",
+        "quote": "本競賽活動目標係為「選拔參與國際經濟學奧林匹亞、經濟奧林匹亞全球回合比賽之選手」成員。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/11/2027年第八屆台灣經濟學奧林匹亞競賽活動簡章.pdf"
+      }
+    ]
+  },
+  "links": {
+    "official": "http://www.ecolympiad.tw/zh-tw/2027",
+    "rules": [
+      {
+        "title": "2027 年台灣經濟學奧林匹亞競賽簡章",
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/11/2027年第八屆台灣經濟學奧林匹亞競賽活動簡章.pdf"
+      }
+    ],
+    "registration": "http://bit.ly/teo-online-registration-2027"
+  },
+  "found_via": [
+    {
+      "name": "斗六高中 營隊研習競賽",
+      "url": "https://www.tlsh.ylc.edu.tw/2026/11/11/69015/"
+    },
+    {
+      "name": "中山女高 最新消息",
+      "url": "https://www.csghs.tp.edu.tw/news/%e8%bd%89%e7%9f%a5%e5%8f%b0%e7%81%a3%e6%a8%a1%e6%93%ac%e6%95%99%e8%82%b2%e5%8d%94%e6%9c%83%e8%be%a6%e7%90%86-2027-%e5%b9%b4%e7%ac%ac%e5%85%ab%e5%b1%86%e5%8f%b0%e7%81%a3%e7%b6%93%e6%bf%9f%e5%ad%b8/"
+    },
+    {
+      "name": "錦和高中 學生競賽",
+      "url": "https://www.jhsh.ntpc.edu.tw/p/406-1000-21329,r51.php?Lang=zh-tw"
+    },
+    {
+      "name": "三重商工 學生事務公告",
+      "url": "https://www.scvs.ntpc.edu.tw/p/406-1000-16004,r28.php"
+    },
+    {
+      "name": "大里高中 校外活動與競賽",
+      "url": "https://dlsh.tc.edu.tw/p/406-1068-647764,r2145.php?Lang=zh-tw"
+    },
+    {
+      "name": "新竹女中 活動研習",
+      "url": "https://www.hgsh.hc.edu.tw/news/2027-%e5%b9%b4%e7%ac%ac%e5%85%ab%e5%b1%86%e5%8f%b0%e7%81%a3%e7%b6%93%e6%bf%9f%e5%ad%b8%e5%a5%a7%e6%9e%97%e5%8c%b9%e4%ba%9e%e7%ab%b6%e8%b3%bd%e6%b4%bb%e5%8b%95/"
+    },
+    {
+      "name": "高師大附中 校外競賽與活動",
+      "url": "https://www.nknush.kh.edu.tw/announcement/22497/%e7%ab%b6%e8%b3%bd2027-%e5%b9%b4%e7%ac%ac%e5%85%ab%e5%b1%86%e5%8f%b0%e7%81%a3%e7%b6%93%e6%bf%9f%e5%ad%b8%e5%a5%a7%e6%9e%97%e5%8c%b9%e4%ba%9e%e7%ab%b6%e8%b3%bd%e6%b4%bb%e5%8b%95%e6%95%99%e5%8b%99/"
+    },
+    {
+      "name": "高雄高工 競賽公告",
+      "url": "https://www.ksvs.kh.edu.tw/v4/cpsub/article.php?id=12681"
+    },
+    {
+      "name": "苗栗高中 學生校外營隊、活動、比賽",
+      "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=28632"
+    },
+    {
+      "name": "臺南女中 學生競賽",
+      "url": "https://www.tngs.tn.edu.tw/2026/11/05/2027%e5%b9%b4%e7%ac%ac%e5%85%ab%e5%b1%86%e5%8f%b0%e7%81%a3%e7%b6%93%e6%bf%9f%e5%ad%b8%e5%a5%a7%e6%9e%97%e5%8c%b9%e4%ba%9e%e7%ab%b6%e8%b3%bd%e6%b4%bb%e5%8b%95/"
+    },
+    {
+      "name": "武陵高中 校外競賽",
+      "url": "http://www.wlsh.tyc.edu.tw/p/406-1000-43594,r83.php?Lang=zh-tw"
+    },
+    {
+      "name": "大里高中 校外活動與競賽",
+      "url": "https://dlsh.tc.edu.tw/p/406-1068-647764,r2145.php"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-25",
+    "method": "dual",
+    "unread": [
+      "國際經濟學奧林匹亞競賽台灣代表隊遴選暨台灣經濟學奧林匹亞競賽辦法",
+      "台灣經濟學奧林匹亞命題綱要",
+      "台灣經濟學奧林匹亞試題範例",
+      "2026–2027 年度經濟學奧林匹亞（EO）校際回合競賽簡章",
+      "賽制圖（PDF）"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5",
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-25"
+}

@@ -1,10 +1,14 @@
 {
   "schema": 1,
   "id": "2026-kh-hs-english-writing-speech",
-  "title": "115學年度高雄市高中英文作文暨演講比賽",
+  "title": "115學年度高雄市高級中等學校學生英文作文、演講比賽",
   "edition": "115 學年度",
-  "summary": "高雄市高級中等學校學生參加英文作文或英語演講比賽。",
+  "summary": "高雄市高級中等學校學生代表各校參加英文作文或英語演講比賽。",
   "organizers": [
+    {
+      "name": "高雄市政府教育局",
+      "role": "主辦"
+    },
     {
       "name": "高雄市立左營高級中學",
       "role": "承辦"
@@ -22,47 +26,116 @@
     "regions": [
       "高雄市"
     ],
-    "nomination": "unknown",
+    "nomination": "school",
     "team_min": null,
     "team_max": null,
     "teacher": "unknown",
     "basis": "quote",
     "evidence": [
       {
-        "url": "https://drive.google.com/file/d/1YP0kXBNRe2by2ngbHp8keYbzaz4aqgFD/view?usp=drive_link",
-        "quote": "115 學年度高雄市高級中等學校學生英語演講比賽注意事項"
+        "url": "https://speech.tyhs.kh.edu.tw/action/73",
+        "quote": "115學年度高雄市高級中等學校學生英文作文、演講比賽實施要點，"
       },
       {
         "url": "https://www.ksvs.kh.edu.tw/v4/cpsub/article.php?id=12713",
-        "quote": "二、該校訂於115年11月20日（星期五）辦理旨揭競賽，請各校惠予參賽學生及帶隊、指導教師公（差）假登記。"
+        "quote": "請各校承辦人員於賽前至競賽線上報名專區下載、列印參賽證，並轉知參賽學生及指導教師詳閱競賽流程、注意事項及會場配置（詳附件）。"
+      },
+      {
+        "url": "https://speech.tyhs.kh.edu.tw/action/75",
+        "quote": "演講選手和指導老師將依據各校報名表所填內容供應餐盒。"
       }
     ]
   },
   "dates": [
     {
-      "kind": "final_event",
-      "label": "英文作文及演講比賽",
+      "kind": "registration_deadline",
+      "label": "參賽者報名截止",
+      "date": "2026-10-23",
+      "time": "17:00",
+      "original": "2026/9/29 17:00 至 2026/10/23 17:00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://speech.tyhs.kh.edu.tw/",
+          "quote": "2026/9/29 17:00 至 2026/10/23 17:00"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "線上抽籤",
+      "date": "2026-10-27",
+      "time": "13:00",
+      "original": "2026/10/27 9:00 至 2026/10/27 13:00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://speech.tyhs.kh.edu.tw/",
+          "quote": "2026/10/27 9:00 至 2026/10/27 13:00"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "英語演講指定題上傳截止",
+      "date": "2026-10-29",
+      "time": "20:00",
+      "original": "2026/10/19 8:00 至 2026/10/29 20:00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://speech.tyhs.kh.edu.tw/",
+          "quote": "2026/10/19 8:00 至 2026/10/29 20:00"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "參賽資料（參賽證等）下載截止",
       "date": "2026-11-20",
-      "time": null,
+      "time": "21:00",
+      "original": "2026/10/30 14:00 至 2026/11/20 21:00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://speech.tyhs.kh.edu.tw/",
+          "quote": "2026/10/30 14:00 至 2026/11/20 21:00"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "英文作文、英語演講比賽（左營高中，上午 7:50 起報到）",
+      "date": "2026-11-20",
+      "time": "07:50",
       "original": "115年11月20日（星期五）",
       "basis": "quote",
       "evidence": [
         {
           "url": "https://www.ksvs.kh.edu.tw/v4/cpsub/article.php?id=12713",
-          "quote": "二、該校訂於115年11月20日（星期五）辦理旨揭競賽，請各校惠予參賽學生及帶隊、指導教師公（差）假登記。"
+          "quote": "該校訂於115年11月20日（星期五）辦理旨揭競賽，請各校惠予參賽學生及帶隊、指導教師公（差）假登記。"
+        },
+        {
+          "url": "https://www.ksvs.kh.edu.tw/v4/cpsub/article.php?id=12713",
+          "quote": "比賽當日上午7時50分至8時10分於該校圖書館1樓大廳報到，參賽學生應攜帶參賽證及附照片之身分證明文件，親自辦理報到，並依現場引導參加開幕式及競賽。"
         }
       ]
     }
   ],
   "deliverables": [
     {
-      "stage": "英語演講",
-      "what": "指定題演講 3 分鐘與看圖題演講 2 分鐘，各有 5 分鐘準備；上台不得攜帶字典或參考資料",
+      "stage": "賽前（英語演講）",
+      "what": "於報名專區上傳指定題",
+      "how": "online"
+    },
+    {
+      "stage": "比賽當日（英語演講）",
+      "what": "指定題演講 3 分鐘、看圖說故事題演講 2 分鐘，各有 5 分鐘準備",
       "how": "onsite"
     },
     {
-      "stage": "英文作文",
-      "what": "於左營高中圖書館地下 1 樓閱覽室撰寫英文作文",
+      "stage": "比賽當日（英文作文）",
+      "what": "於圖書館地下 1 樓閱覽室現場寫作英文作文",
       "how": "onsite"
     }
   ],
@@ -73,11 +146,15 @@
     "evidence": [
       {
         "url": "https://www.ksvs.kh.edu.tw/v4/cpsub/article.php?id=12713",
-        "quote": "三、比賽當日上午7時50分至8時10分於該校圖書館1樓大廳報到，參賽學生應攜帶參賽證及附照片之身分證明文件，親自辦理報到，並依現場引導參加開幕式及競賽。"
+        "quote": "比賽地點為高雄市立左營高級中學，車輛請由海功路側門入校，行人由海功路正門進入，並依現場指引前往報到處。"
       },
       {
-        "url": "https://www.ksvs.kh.edu.tw/v4/cpsub/article.php?id=12713",
-        "quote": "六、比賽地點為高雄市立左營高級中學"
+        "url": "https://speech.tyhs.kh.edu.tw/action/75",
+        "quote": "演講、作文選手一律參加開幕式後，再分別進行各項比賽。"
+      },
+      {
+        "url": "https://speech.tyhs.kh.edu.tw/attach/9147104317.pdf",
+        "quote": "作文比賽(圖書館地下1F閱覽室)"
       }
     ]
   },
@@ -98,22 +175,22 @@
     "evidence": []
   },
   "links": {
-    "official": "https://speech.tyhs.kh.edu.tw/action/75",
+    "official": "https://speech.tyhs.kh.edu.tw/",
     "rules": [
       {
-        "title": "演講及作文比賽流程圖",
-        "url": "https://drive.google.com/file/d/1CGMDQBQmiRwvSbLLL6j07m7aJxZsrfNn/view?usp=drive_link"
+        "title": "實施要點",
+        "url": "https://speech.tyhs.kh.edu.tw/attach/8484662222.pdf"
       },
       {
         "title": "英語演講比賽注意事項",
         "url": "https://drive.google.com/file/d/1YP0kXBNRe2by2ngbHp8keYbzaz4aqgFD/view?usp=drive_link"
       },
       {
-        "title": "會場指引",
-        "url": "https://drive.google.com/file/d/1u065Bl8rhyJ1je0_4aA-WJVezWOAD9U8/view?usp=drive_link"
+        "title": "比賽流程圖",
+        "url": "https://speech.tyhs.kh.edu.tw/attach/9147104317.pdf"
       }
     ],
-    "registration": null
+    "registration": "https://speech.tyhs.kh.edu.tw/"
   },
   "found_via": [
     {
@@ -122,11 +199,11 @@
     }
   ],
   "verification": {
-    "last_verified": "2026-11-24",
+    "last_verified": "2026-11-25",
     "method": "single",
     "unread": [
-      "競賽實施計畫",
-      "競賽網站「賽前叮嚀」"
+      "115學年度高雄市高級中等學校學生英文作文、演講比賽實施要點.pdf",
+      "115英文比賽日程表.pdf"
     ],
     "note": null,
     "readers": [
@@ -134,8 +211,8 @@
     ]
   },
   "first_seen": "2026-11-24",
-  "updated": "2026-11-24",
-  "level": "unverified",
-  "url": null,
-  "markdown": null
+  "updated": "2026-11-25",
+  "level": "checked",
+  "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-kh-hs-english-writing-speech/",
+  "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-kh-hs-english-writing-speech.md"
 }

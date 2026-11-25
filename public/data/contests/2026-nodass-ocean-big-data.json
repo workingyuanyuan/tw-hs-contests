@@ -1,0 +1,323 @@
+{
+  "schema": 1,
+  "id": "2026-nodass-ocean-big-data",
+  "title": "2026第四屆諾大師海洋大數據競賽",
+  "edition": "第四屆",
+  "summary": "高中與大專學生 2 至 5 人組隊，應用 NODASS 海洋資料庫研擬海洋議題研究，繳交研究報告並簡報。",
+  "organizers": [
+    {
+      "name": "國家海洋研究院",
+      "role": "主辦"
+    },
+    {
+      "name": "海洋委員會",
+      "role": "指導"
+    },
+    {
+      "name": "國立臺灣大學新碳勘科技研究中心",
+      "role": "協辦"
+    },
+    {
+      "name": "國立中山大學海洋科學學院",
+      "role": "協辦"
+    },
+    {
+      "name": "國立臺灣海洋大學臺灣海洋教育中心",
+      "role": "協辦"
+    },
+    {
+      "name": "普通型高級中等學校地球科學學科中心（高雄市立高雄女子高級中學）",
+      "role": "協辦"
+    },
+    {
+      "name": "普通型高級中等學校地理學科中心（臺中市立臺中女子高級中等學校）",
+      "role": "協辦"
+    }
+  ],
+  "categories": [
+    "自然科學",
+    "資訊與 AI"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職",
+      "五專",
+      "大專"
+    ],
+    "division": "separate",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 2,
+    "team_max": 5,
+    "teacher": "required",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/16d10ooyjFm9hhlqCULRtwqSwKWPYX_nQ/view",
+        "quote": "本競賽組別共分2組，分別為大專組(含碩博士、在職專班及師培生)和高中組(含技術型高中、綜合高中等)。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/16d10ooyjFm9hhlqCULRtwqSwKWPYX_nQ/view",
+        "quote": "全國各公私立大學、獨立學院、碩博士班、專科學校、四技及二技、在職專班之在學學生及師培中心師培生(資格認定以2026年5月30日之學籍為主)。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/16d10ooyjFm9hhlqCULRtwqSwKWPYX_nQ/view",
+        "quote": "全國各公私立高級中等學校（普通高中、綜合高中、技術型高中）在校生(資格認定以2026年5月30日之學籍為主)。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/16d10ooyjFm9hhlqCULRtwqSwKWPYX_nQ/view",
+        "quote": "每隊人數2至5人，並派1名隊長為代表人報名。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/16d10ooyjFm9hhlqCULRtwqSwKWPYX_nQ/view",
+        "quote": "每隊需有至少1位且至多2位指導老師（為現任高中教師），每位指導教師至多可以指導2隊。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "初賽報名資料收件截止",
+      "date": "2026-06-07",
+      "time": "23:59",
+      "original": "115年4月15日起至6月7日23:59止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://drive.google.com/file/d/16d10ooyjFm9hhlqCULRtwqSwKWPYX_nQ/view",
+          "quote": "初賽報名資料收件時間: 115年4月15日起至6月7日23:59止。"
+        }
+      ]
+    },
+    {
+      "kind": "shortlist_announcement",
+      "label": "初賽評選結果（培訓名單）公告",
+      "date": "2026-06-18",
+      "time": null,
+      "original": "115年6月18日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://drive.google.com/file/d/16d10ooyjFm9hhlqCULRtwqSwKWPYX_nQ/view",
+          "quote": "報名結果公告：培訓名單於115年6月18日公告於本院官方網站及粉絲頁、競賽活動網頁，並以e-mail通知各錄取團隊。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "大數據競賽工作坊（至 7 月 24 日）",
+      "date": "2026-07-22",
+      "time": null,
+      "original": "115年7月22日至7月24日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://drive.google.com/file/d/16d10ooyjFm9hhlqCULRtwqSwKWPYX_nQ/view",
+          "quote": "115年7月22日至7月24日"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "複賽資料收件截止",
+      "date": "2026-10-01",
+      "time": "23:59",
+      "original": "115年10月1日23:59",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://drive.google.com/file/d/16d10ooyjFm9hhlqCULRtwqSwKWPYX_nQ/view",
+          "quote": "複賽資料收件截止日：115年10月1日23:59。"
+        }
+      ]
+    },
+    {
+      "kind": "shortlist_announcement",
+      "label": "複賽結果（決賽名單）公告",
+      "date": "2026-10-16",
+      "time": null,
+      "original": "115年10月16日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://drive.google.com/file/d/16d10ooyjFm9hhlqCULRtwqSwKWPYX_nQ/view",
+          "quote": "公告時間：115年10月16日"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "決賽簡報檔案收件截止",
+      "date": "2026-11-22",
+      "time": "23:59",
+      "original": "115年11月22日23:59",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://drive.google.com/file/d/16d10ooyjFm9hhlqCULRtwqSwKWPYX_nQ/view",
+          "quote": "決賽簡報檔案收件時間：決賽日前數天（115年11月22日23:59）。逾期未繳或逾期調整簡報則決賽總成績扣10分。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "決賽暨頒獎典禮（暫定）",
+      "date": "2026-11-26",
+      "time": null,
+      "original": "115年11月26日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://drive.google.com/file/d/16d10ooyjFm9hhlqCULRtwqSwKWPYX_nQ/view",
+          "quote": "115年11月26日決賽暨頒獎典禮"
+        },
+        {
+          "url": "https://drive.google.com/file/d/16d10ooyjFm9hhlqCULRtwqSwKWPYX_nQ/view",
+          "quote": "評選時間：115年11月26日(暫定)"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "決賽結果公告（暫定）",
+      "date": "2026-11-26",
+      "time": null,
+      "original": "115年11月26日(暫定)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://drive.google.com/file/d/16d10ooyjFm9hhlqCULRtwqSwKWPYX_nQ/view",
+          "quote": "公告時間：115年11月26日(暫定)"
+        },
+        {
+          "url": "https://drive.google.com/file/d/16d10ooyjFm9hhlqCULRtwqSwKWPYX_nQ/view",
+          "quote": "決賽結果於當日評選後公布，並進行頒獎典禮。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "初賽",
+      "what": "網路報名表（含 500 字內計畫提案與參賽動機）、NODASS 圖文創作 JPG 圖檔、資料運用來源細節表、授權同意書",
+      "how": "online"
+    },
+    {
+      "stage": "複賽",
+      "what": "20 頁內複賽報告書，與資料運用來源細節表、授權同意書合併為一份 PDF",
+      "how": "online"
+    },
+    {
+      "stage": "決賽",
+      "what": "20 頁內決賽簡報 PPT 及獎金領取同意書、帳戶資料表，各轉 PDF 上傳",
+      "how": "online"
+    },
+    {
+      "stage": "決賽",
+      "what": "當天簡報與評審統問統答",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "finalists",
+    "where": null,
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/16d10ooyjFm9hhlqCULRtwqSwKWPYX_nQ/view",
+        "quote": "決賽簡報順序當天上午開始比賽前30分鐘抽籤決定，請各組推派至少一位代表於抽籤前報到，未到場抽籤者由主辦單位代抽籤。"
+      },
+      {
+        "url": "https://sites.google.com/view/nodassbigdata/qa",
+        "quote": "採統問統答，會計時並響鈴提醒"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/16d10ooyjFm9hhlqCULRtwqSwKWPYX_nQ/view"
+      },
+      {
+        "url": "https://sites.google.com/view/nodassbigdata/競賽辦法"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "大專組及高中組各頒：特優 2 名，獎金新臺幣 30,000 元及獎狀；優選 2 名，獎金 20,000 元及獎狀；佳作 4 名，獎金 10,000 元及獎狀；指導教師給予指導證明。未達標準得從缺。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/16d10ooyjFm9hhlqCULRtwqSwKWPYX_nQ/view",
+        "quote": "若經評選未達評審標準時得以從缺，主辦單位將隨參賽狀況調整獎項。大專組及高中組特優各2組、優選各2組、佳作各4組，總計16組。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/16d10ooyjFm9hhlqCULRtwqSwKWPYX_nQ/view",
+        "quote": "2名，獎金新臺幣30,000元及獎狀，指導教師給予指導證明"
+      },
+      {
+        "url": "https://drive.google.com/file/d/16d10ooyjFm9hhlqCULRtwqSwKWPYX_nQ/view",
+        "quote": "2名，獎金新臺幣20,000元及獎狀，指導教師給予指導證明"
+      },
+      {
+        "url": "https://drive.google.com/file/d/16d10ooyjFm9hhlqCULRtwqSwKWPYX_nQ/view",
+        "quote": "4名，獎金新臺幣10,000元及獎狀，指導教師給予指導證明"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "allowed",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/16d10ooyjFm9hhlqCULRtwqSwKWPYX_nQ/view",
+        "quote": "B.電繪：以AI或PS等電腦繪圖軟體，如使用AI生成須註明生成軟體與時間；圖面設置W38 x H26公分。"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://sites.google.com/view/nodassbigdata/index",
+    "rules": [
+      {
+        "title": "競賽辦法（PDF）",
+        "url": "https://drive.google.com/file/d/1HHv4Wa9Hvnguc0vylNf8DpEiwTbVTbTJ/view"
+      },
+      {
+        "title": "競賽辦法（Word）",
+        "url": "https://drive.google.com/file/d/16d10ooyjFm9hhlqCULRtwqSwKWPYX_nQ/view"
+      },
+      {
+        "title": "競賽辦法及附件下載資料夾",
+        "url": "https://drive.google.com/drive/folders/1RMNVEBP5mNnmnxvaAEDBCWQk4OfYY2MC?usp=sharing"
+      }
+    ],
+    "registration": "https://forms.gle/NzXLjgxkLVvuM9cFA"
+  },
+  "found_via": [
+    {
+      "name": "潮州高中 學生課外活動",
+      "url": "https://www.ccsh.ptc.edu.tw/data.php?id=19280&tpl=27"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-25",
+    "method": "single",
+    "unread": [],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-25",
+  "conflict": "競賽網頁的競賽辦法頁列出報名表單 https://forms.gle/NzXLjgxkLVvuM9cFA，競賽辦法文件【附件1】列出 https://forms.gle/JHtpmaZ1UJSCwrPo6。",
+  "level": "checked",
+  "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-nodass-ocean-big-data/",
+  "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-nodass-ocean-big-data.md"
+}

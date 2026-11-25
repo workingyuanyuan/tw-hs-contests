@@ -1,0 +1,247 @@
+{
+  "schema": 1,
+  "id": "2026-tkb-special-selection-review",
+  "title": "2026 大學特殊選才書審競賽",
+  "edition": "2026",
+  "summary": "準備參加 116 學年度一般大學特殊選才的高中學生、自學生或重考生，繳交一個校系的書審資料。",
+  "organizers": [
+    {
+      "name": "TKB 台灣知識庫-甄戰學習顧問",
+      "role": "主辦"
+    },
+    {
+      "name": "中華未來學校教育學會",
+      "role": "協辦"
+    }
+  ],
+  "categories": [
+    "其他",
+    "語文與寫作"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職"
+    ],
+    "division": "hs_only",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": 1,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.ntsh.ntct.edu.tw/ischool/news/attached/22082/2026%E5%A4%A7%E5%AD%B8%E7%89%B9%E6%AE%8A%E9%81%B8%E6%89%8D%E6%9B%B8%E5%AF%A9%E7%AB%B6%E8%B3%BD.pdf",
+        "quote": "一、本競賽僅限「參加116 學年度『一般大學』特殊選才之高中學校學生、自學生或重考生」報名，每人限繳交一份審查資料，該份資料限一校一系(組)。"
+      },
+      {
+        "url": "https://www.ntsh.ntct.edu.tw/ischool/news/attached/22082/2026%E5%A4%A7%E5%AD%B8%E7%89%B9%E6%AE%8A%E9%81%B8%E6%89%8D%E6%9B%B8%E5%AF%A9%E7%AB%B6%E8%B3%BD.pdf",
+        "quote": "為利高中學校(含普通型、技術型、綜合型或單科型學校)學生"
+      },
+      {
+        "url": "https://dlsh.tc.edu.tw/p/406-1068-611043,r2145.php?Lang=zh-tw",
+        "quote": "參賽學生須於指定期間內完成線上報名，並依規定上傳審查資料PDF檔及雲端共用連結。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "線上報名截止",
+      "date": "2026-07-31",
+      "time": "10:00",
+      "original": "115 年7 月31 日(星期三)上午10 點",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.ntsh.ntct.edu.tw/ischool/news/attached/22082/2026%E5%A4%A7%E5%AD%B8%E7%89%B9%E6%AE%8A%E9%81%B8%E6%89%8D%E6%9B%B8%E5%AF%A9%E7%AB%B6%E8%B3%BD.pdf",
+          "quote": "一、報名期間:自115 年7 月1 日(星期一)上午10 點至115 年7 月31 日(星期三)上午10 點止，採線上報名。"
+        },
+        {
+          "url": "https://dlsh.tc.edu.tw/p/406-1068-611043,r2145.php?Lang=zh-tw",
+          "quote": "報名期間為115年7月1日上午10時起至115年7月31日上午10時止"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "審查資料交件截止",
+      "date": "2026-08-07",
+      "time": null,
+      "original": "2026/08/07",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.ntsh.ntct.edu.tw/ischool/news/attached/22082/2026%E5%A4%A7%E5%AD%B8%E7%89%B9%E6%AE%8A%E9%81%B8%E6%89%8D%E6%9B%B8%E5%AF%A9%E7%AB%B6%E8%B3%BD.pdf",
+          "quote": "3. 交件時間：2026/08/01 ~ 2026/08/07"
+        },
+        {
+          "url": "https://dlsh.tc.edu.tw/p/406-1068-611043,r2145.php?Lang=zh-tw",
+          "quote": "交件期間為115年8月1日至115年8月7日"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "評審期間結束",
+      "date": "2026-08-16",
+      "time": null,
+      "original": "115 年8 月16 日(星期日)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.ntsh.ntct.edu.tw/ischool/news/attached/22082/2026%E5%A4%A7%E5%AD%B8%E7%89%B9%E6%AE%8A%E9%81%B8%E6%89%8D%E6%9B%B8%E5%AF%A9%E7%AB%B6%E8%B3%BD.pdf",
+          "quote": "一、評審期間:自115 年8 月8 日(星期六)至115 年8 月16 日(星期日)止，進行資料審查評分及撰寫回饋意見。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "以 E-mail 寄送所有參賽者評分結果與書審回饋意見",
+      "date": "2026-08-17",
+      "time": "12:00",
+      "original": "115 年8 月17 日(星期一)中午12:00 前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.ntsh.ntct.edu.tw/ischool/news/attached/22082/2026%E5%A4%A7%E5%AD%B8%E7%89%B9%E6%AE%8A%E9%81%B8%E6%89%8D%E6%9B%B8%E5%AF%A9%E7%AB%B6%E8%B3%BD.pdf",
+          "quote": "三、所有參賽者的書審資料評分結果和個人專屬書審回饋意見，統一於115 年8 月17 日(星期一)中午12:00 前以E-mail 寄送"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "甄戰學習顧問 YouTube 頻道直播公告前三名",
+      "date": "2026-08-17",
+      "time": "19:00",
+      "original": "115 年8 月17 日(星期一)晚上19:00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.ntsh.ntct.edu.tw/ischool/news/attached/22082/2026%E5%A4%A7%E5%AD%B8%E7%89%B9%E6%AE%8A%E9%81%B8%E6%89%8D%E6%9B%B8%E5%AF%A9%E7%AB%B6%E8%B3%BD.pdf",
+          "quote": "一、公告時間:115 年8 月17 日(星期一)晚上19:00，於甄戰學習顧問YouTube頻道(直播)公告前三名。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名",
+      "what": "填寫「甄戰特殊選才書審競賽」線上報名表單",
+      "how": "online"
+    },
+    {
+      "stage": "交件",
+      "what": "審查資料 PDF 檔（10MB 以內，含自傳、讀書計畫（含報考動機）、其他有利審查資料）及其雲端共用連結，依 8/1 寄發的交件連結上傳",
+      "how": "online"
+    }
+  ],
+  "attendance": {
+    "value": "none",
+    "where": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.ntsh.ntct.edu.tw/ischool/news/attached/22082/2026%E5%A4%A7%E5%AD%B8%E7%89%B9%E6%AE%8A%E9%81%B8%E6%89%8D%E6%9B%B8%E5%AF%A9%E7%AB%B6%E8%B3%BD.pdf"
+      },
+      {
+        "url": "https://dlsh.tc.edu.tw/p/406-1068-611043,r2145.php?Lang=zh-tw"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.ntsh.ntct.edu.tw/ischool/news/attached/22082/2026%E5%A4%A7%E5%AD%B8%E7%89%B9%E6%AE%8A%E9%81%B8%E6%89%8D%E6%9B%B8%E5%AF%A9%E7%AB%B6%E8%B3%BD.pdf",
+        "quote": "四、報名費用:免費。"
+      },
+      {
+        "url": "https://dlsh.tc.edu.tw/p/406-1068-611043,r2145.php?Lang=zh-tw",
+        "quote": "本競賽採免費線上報名，限額100名。"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "前三名獲甄戰特殊選才書面審查及口試個別指導服務：第一名 3 次（價值 $10,500）、第二名 2 次（價值 $7,000）、第三名 1 次（價值 $3,500），於各地甄戰門市上課，使用期限至 116 年 1 月 31 日，限本人使用；得獎者另獲電子獎狀。報名成功者皆享免費特殊選才個別諮詢乙次。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.ntsh.ntct.edu.tw/ischool/news/attached/22082/2026%E5%A4%A7%E5%AD%B8%E7%89%B9%E6%AE%8A%E9%81%B8%E6%89%8D%E6%9B%B8%E5%AF%A9%E7%AB%B6%E8%B3%BD.pdf",
+        "quote": "一、第一名:榮獲甄戰特殊選才書面審查及口試個別指導服務3 次(價值$10,500)。"
+      },
+      {
+        "url": "https://www.ntsh.ntct.edu.tw/ischool/news/attached/22082/2026%E5%A4%A7%E5%AD%B8%E7%89%B9%E6%AE%8A%E9%81%B8%E6%89%8D%E6%9B%B8%E5%AF%A9%E7%AB%B6%E8%B3%BD.pdf",
+        "quote": "二、第二名:榮獲甄戰特殊選才書面審查及口試個別指導服務2 次(價值$7,000)。"
+      },
+      {
+        "url": "https://www.ntsh.ntct.edu.tw/ischool/news/attached/22082/2026%E5%A4%A7%E5%AD%B8%E7%89%B9%E6%AE%8A%E9%81%B8%E6%89%8D%E6%9B%B8%E5%AF%A9%E7%AB%B6%E8%B3%BD.pdf",
+        "quote": "三、第三名:榮獲甄戰特殊選才書面審查及口試個別指導服務1 次(價值$3,500)"
+      },
+      {
+        "url": "https://www.ntsh.ntct.edu.tw/ischool/news/attached/22082/2026%E5%A4%A7%E5%AD%B8%E7%89%B9%E6%AE%8A%E9%81%B8%E6%89%8D%E6%9B%B8%E5%AF%A9%E7%AB%B6%E8%B3%BD.pdf",
+        "quote": "另外得獎者獎勵使用期限至116 年1 月31 日止，限本人使用。"
+      },
+      {
+        "url": "https://www.ntsh.ntct.edu.tw/ischool/news/attached/22082/2026%E5%A4%A7%E5%AD%B8%E7%89%B9%E6%AE%8A%E9%81%B8%E6%89%8D%E6%9B%B8%E5%AF%A9%E7%AB%B6%E8%B3%BD.pdf",
+        "quote": "並於直播結束後以E-mail 通知得獎者以及寄送電子獎狀。"
+      },
+      {
+        "url": "https://www.ntsh.ntct.edu.tw/ischool/news/attached/22082/2026%E5%A4%A7%E5%AD%B8%E7%89%B9%E6%AE%8A%E9%81%B8%E6%89%8D%E6%9B%B8%E5%AF%A9%E7%AB%B6%E8%B3%BD.pdf",
+        "quote": "四、參加獎:報名成功即享甄戰免費特殊選才個別諮詢乙次"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.ntsh.ntct.edu.tw/ischool/news/attached/22082/2026%E5%A4%A7%E5%AD%B8%E7%89%B9%E6%AE%8A%E9%81%B8%E6%89%8D%E6%9B%B8%E5%AF%A9%E7%AB%B6%E8%B3%BD.pdf"
+      },
+      {
+        "url": "https://dlsh.tc.edu.tw/p/406-1068-611043,r2145.php?Lang=zh-tw"
+      }
+    ]
+  },
+  "links": {
+    "official": null,
+    "rules": [
+      {
+        "title": "2026 大學特殊選才書審競賽報名簡章（PDF）",
+        "url": "https://www.ntsh.ntct.edu.tw/ischool/news/attached/22082/2026%E5%A4%A7%E5%AD%B8%E7%89%B9%E6%AE%8A%E9%81%B8%E6%89%8D%E6%9B%B8%E5%AF%A9%E7%AB%B6%E8%B3%BD.pdf"
+      }
+    ],
+    "registration": "https://www.reallygood.com.tw/EDM/edm763/index.jsp"
+  },
+  "found_via": [
+    {
+      "name": "大里高中 校外活動與競賽",
+      "url": "https://dlsh.tc.edu.tw/p/406-1068-611043,r2145.php?Lang=zh-tw"
+    },
+    {
+      "name": "南投高中 最新消息",
+      "url": "https://www.ntsh.ntct.edu.tw/ischool/public/news_view/show.php?nid=22082"
+    },
+    {
+      "name": "大里高中 校外活動與競賽",
+      "url": "https://dlsh.tc.edu.tw/p/406-1068-611043,r2145.php"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-25",
+    "method": "single",
+    "unread": [],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-25"
+}

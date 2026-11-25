@@ -3,7 +3,7 @@ title: "116 年度全國高中職學生「木橋載重創新設計競賽」"
 description: "高中職學生 3 至 4 人一組，以木條設計模擬橋梁結構的模型，比造型創意與載重強度。"
 appliesTo: "116 年度 這一屆"
 caveat: "日期與時間都是臺灣時間。"
-lastVerified: 2026-11-24
+lastVerified: 2026-11-25
 kind: "contest"
 deadline: "2027-01-18"
 sources:

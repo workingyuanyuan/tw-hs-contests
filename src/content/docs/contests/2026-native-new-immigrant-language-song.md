@@ -3,7 +3,7 @@ title: "115 學年度全國師生本土語及新住民語歌謠比賽"
 description: "各級學校師生組成合唱團，以本土語或新住民語演唱歌謠，由評審評定等第。"
 appliesTo: "115 學年度 這一屆"
 caveat: "須由學校推薦或薦送，學生不能自行報名。"
-lastVerified: 2026-11-24
+lastVerified: 2026-11-25
 kind: "contest"
 sources:
   - title: "官方頁面"

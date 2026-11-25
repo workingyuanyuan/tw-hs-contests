@@ -1,9 +1,9 @@
 ---
 title: "截止日未定的比賽"
 description: "截止日未定的比賽 5 則，主辦單位尚未公布截止日。"
-appliesTo: "資料更新至 2026-11-24"
+appliesTo: "資料更新至 2026-11-25"
 caveat: "截止日指新參賽者報名的最後一天，以臺灣時間計。"
-lastVerified: 2026-11-24
+lastVerified: 2026-11-25
 kind: "index"
 sidebar:
   label: "截止日未定"

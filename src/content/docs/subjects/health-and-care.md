@@ -1,9 +1,9 @@
 ---
 title: "類別：醫護與照顧"
 description: "醫護與照顧類的比賽 6 則，最早在 2026-11-26 截止。"
-appliesTo: "資料更新至 2026-11-24"
+appliesTo: "資料更新至 2026-11-25"
 caveat: "截止日指新參賽者報名的最後一天，以臺灣時間計。"
-lastVerified: 2026-11-24
+lastVerified: 2026-11-25
 kind: "index"
 sidebar:
   label: "醫護與照顧"

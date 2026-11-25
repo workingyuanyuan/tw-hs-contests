@@ -413,14 +413,14 @@
   "deadline": "2026-12-04",
   "urls": [
    {
-    "url": "https://nkmlm.nkut.edu.tw/download.php?dir=news&filename=d2e4a74141723255b054786086e726f3.pdf&title=活動辦法",
+    "url": "https://ppt.cc/fk3rhx",
     "role": "rules",
     "name": ""
    },
    {
-    "url": "https://ppt.cc/fk3rhx",
-    "role": "rules",
-    "name": ""
+    "url": "https://nkmlm.nkut.edu.tw/download.php?dir=news&filename=d2e4a74141723255b054786086e726f3.pdf&title=活動辦法",
+    "role": "announcement",
+    "name": "nkmlm.nkut.edu.tw"
    },
    {
     "url": "https://bm.nutn.edu.tw/download/news_20261103165910.pdf",
@@ -445,11 +445,11 @@
   "attempts": 1,
   "record": "2026-nkut-innovative-marketing",
   "note": "single, checked",
-  "change": "6efa7fd7d9414748",
-  "tried": "2026-11-24",
+  "change": "3bc3d035ed8bd31c",
+  "tried": "2026-11-25",
   "second": {
    "attempts": 1,
-   "tried": "2026-11-24",
+   "tried": "2026-11-25",
    "note": "dual"
   }
  },
@@ -1176,14 +1176,14 @@
   "deadline": "2026-12-25",
   "urls": [
    {
-    "url": "https://sites.google.com/site/ciipcertificate/2026全國大專院校暨高中職創意創新創業管理個案專題競賽",
+    "url": "https://www.beclass.com/share/202609/1001890050391fmf_0.docx",
     "role": "rules",
     "name": ""
    },
    {
-    "url": "https://www.beclass.com/share/202609/1001890050391fmf_0.docx",
-    "role": "rules",
-    "name": ""
+    "url": "https://sites.google.com/site/ciipcertificate/2026全國大專院校暨高中職創意創新創業管理個案專題競賽",
+    "role": "announcement",
+    "name": "sites.google.com"
    },
    {
     "url": "https://www.beclass.com/rid=305283a6ab1fb5086b9b",
@@ -1208,11 +1208,11 @@
   "attempts": 1,
   "record": "2026-chtiia-creative-entrepreneurship",
   "note": "single, checked",
-  "change": "281906334ca1ea8b",
-  "tried": "2026-11-24",
+  "change": "dc30b39b61d218a0",
+  "tried": "2026-11-25",
   "second": {
    "attempts": 1,
-   "tried": "2026-11-24",
+   "tried": "2026-11-25",
    "note": "dual"
   }
  },
@@ -2660,9 +2660,19 @@
   "deadline": "2026-12-09",
   "urls": [
    {
+    "url": "https://cdn.bountyhunter.co/file-presign/f4250001-b8ec-4b38-8014-2094b88ff83f.pdf?dl=2027%E5%A4%A7%E7%94%B2%E5%AA%BD%E5%8E%9F%E5%89%B5%E9%9F%B3%E6%A8%82%E7%B0%A1%E7%AB%A0.pdf",
+    "role": "rules",
+    "name": ""
+   },
+   {
+    "url": "https://forms.gle/ntKv9Q6RMCaKxWnH6",
+    "role": "rules",
+    "name": ""
+   },
+   {
     "url": "https://bhuntr.com/tw/competitions/z8nqgesacta77ujwva",
     "role": "announcement",
-    "name": ""
+    "name": "bhuntr.com"
    }
   ],
   "seen_in": "❌ 已排除 ·【需實體製作】（26 則）",
@@ -2671,7 +2681,14 @@
   "status": "done",
   "attempts": 1,
   "record": "2026-dajiamazu-original-music",
-  "note": "single (gpt-6.1-sol did not pass: gemini-4-hydrogen-medium: record; gpt-6.1-sol: record (1 errors))"
+  "note": "single, checked",
+  "change": "f1a7820937405b63",
+  "tried": "2026-11-25",
+  "second": {
+   "attempts": 1,
+   "tried": "2026-11-25",
+   "note": "single"
+  }
  },
  {
   "key": "c0094",
@@ -2774,7 +2791,12 @@
   "attempts": 1,
   "record": "2027-blia-three-acts-song",
   "note": "single, checked",
-  "tried": "2026-11-24"
+  "tried": "2026-11-24",
+  "second": {
+   "attempts": 1,
+   "tried": "2026-11-25",
+   "note": "dual"
+  }
  },
  {
   "key": "c0097",
@@ -2897,16 +2919,6 @@
   "deadline": null,
   "urls": [
    {
-    "url": "https://www.fhsh.khc.edu.tw/aa/news-aa/20261103/47169",
-    "role": "announcement",
-    "name": "鳳新高中 營隊競賽"
-   },
-   {
-    "url": "https://yct168.wda.gov.tw/News_Content.aspx?n=3457B06B7217EC61&sms=9F8CD839BDD2F62F&s=9A67E9544D330F61",
-    "role": "rules",
-    "name": ""
-   },
-   {
     "url": "https://ws.wda.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMzExL3JlbGZpbGUvOTMzOC8xOTY1MjkvMjZkMzA1NGUtOGJhMC00ZmE2LWE3ZjMtN2E1ZDQ0Y2Q5NWQ3LnBkZg%3d%3d&n=MDEu6ZmE5Lu2NC3nrKw1N%2bWxhuWFqOWci%2baKgOiDveertuizveWNl%2bWNgOWIhuWNgOaKgOiDveertuizveewoeeroC5wZGY%3d",
     "role": "rules",
     "name": ""
@@ -2915,6 +2927,16 @@
     "url": "https://yct168.wda.gov.tw/News_Content.aspx?n=3457B06B7217EC61&sms=9F8CD839BDD2F62F&s=8CBD3FC433C7D851",
     "role": "rules",
     "name": ""
+   },
+   {
+    "url": "https://yct168.wda.gov.tw/News_Content.aspx?n=3457B06B7217EC61&sms=9F8CD839BDD2F62F&s=9A67E9544D330F61",
+    "role": "rules",
+    "name": ""
+   },
+   {
+    "url": "https://www.fhsh.khc.edu.tw/aa/news-aa/20261103/47169",
+    "role": "announcement",
+    "name": "鳳新高中 營隊競賽"
    }
   ],
   "seen_in": "discover",
@@ -2924,11 +2946,12 @@
   "attempts": 1,
   "record": "2026-national-skills-south-57",
   "note": "single, checked",
-  "tried": "2026-11-24",
+  "tried": "2026-11-25",
   "searched": "2026-11-24",
+  "change": "e5aa4040821abd7c",
   "second": {
    "attempts": 1,
-   "tried": "2026-11-24",
+   "tried": "2026-11-25",
    "note": "dual"
   }
  },
@@ -4919,11 +4942,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
+  "status": "done",
+  "attempts": 1,
   "record": "2026-ukmt-imc",
-  "note": "search found 1 documents",
-  "tried": "2026-11-24",
+  "note": "single, checked",
+  "tried": "2026-11-25",
   "searched": "2026-11-24"
  },
  {
@@ -5545,11 +5568,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
+  "status": "done",
+  "attempts": 1,
   "record": "2026-nthu-giwas-showdown",
-  "note": "search found 2 documents",
-  "tried": "2026-11-24",
+  "note": "single, checked",
+  "tried": "2026-11-25",
   "searched": "2026-11-24"
  },
  {
@@ -5631,22 +5654,27 @@
     "url": "https://www.ttsh.tp.edu.tw/news/%e9%be%8d%e8%8f%af%e7%a7%91%e6%8a%80%e5%a4%a7%e5%ad%b8%e3%80%8c%e4%ba%a4%e9%80%9aai%e5%b7%a5%e4%bd%9c%e5%9d%8a%e3%80%8d%e5%8f%8a%e3%80%8c%e4%ba%a4%e9%80%9a%e5%ae%89%e5%85%a8ai%e5%b7%a1%e5%ae%88/",
     "role": "announcement",
     "name": "大同高中 學生競賽活動"
+   },
+   {
+    "url": "https://mmdmay.github.io/AITS/",
+    "role": "rules",
+    "name": ""
+   },
+   {
+    "url": "https://drive.google.com/file/d/12c7Fl_BCS6ifw7EhU8ZqyQzhXhzoT8W5/view?usp=sharing",
+    "role": "rules",
+    "name": ""
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null,
-  "need": [
-   "https://mmdmay.github.io/AITS/",
-   "https://www.hccvs.hc.edu.tw/ischool/news/attached/26696/1151201351_1_48%E4%BA%A4%E9%80%9AAI%E5%B7%A5%E4%BD%9C%E5%9D%8A.pdf",
-   "https://www.hccvs.hc.edu.tw/ischool/news/attached/26696/%E4%BE%86%E6%96%87.pdf",
-   "https://www.fg.tp.edu.tw/view-doc/46/人工智慧在交通安全科學之應用與推廣.pdf",
-   "https://www.hgsh.hc.edu.tw/wp-content/uploads/doc/u1220/龍華科大場次.pdf"
-  ]
+  "status": "done",
+  "attempts": 1,
+  "record": "2027-lhu-traffic-safety-ai-hackathon",
+  "note": "single, unverified",
+  "tried": "2026-11-25",
+  "searched": "2026-11-25"
  },
  {
   "key": "c0189",
@@ -5657,17 +5685,27 @@
     "url": "http://www.wlsh.tyc.edu.tw/p/406-1000-42894,r83.php?Lang=zh-tw",
     "role": "announcement",
     "name": "武陵高中 校外競賽"
+   },
+   {
+    "url": "https://sites.google.com/view/hsh2026",
+    "role": "rules",
+    "name": ""
+   },
+   {
+    "url": "https://docs.google.com/document/d/1pTfmDI8xbcMyxXIxnP4nzD6aqrX5QR5t/export?format=txt",
+    "role": "rules",
+    "name": ""
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "search",
+  "status": "done",
   "attempts": 1,
-  "record": "2026-secondary-hackathon",
-  "note": "single, unverified",
-  "tried": "2026-11-24",
-  "after_search": "done"
+  "record": "2026-hsh-hackathon",
+  "note": "single, checked",
+  "tried": "2026-11-25",
+  "searched": "2026-11-25"
  },
  {
   "key": "c0190",
@@ -5738,18 +5776,32 @@
     "url": "https://www.ccsh.ptc.edu.tw/data.php?id=19280&tpl=27",
     "role": "announcement",
     "name": "潮州高中 學生課外活動"
+   },
+   {
+    "url": "https://sites.google.com/view/nodassbigdata/index",
+    "role": "rules",
+    "name": ""
+   },
+   {
+    "url": "https://drive.google.com/file/d/1HHv4Wa9Hvnguc0vylNf8DpEiwTbVTbTJ/view",
+    "role": "rules",
+    "name": ""
+   },
+   {
+    "url": "https://drive.google.com/drive/folders/1RMNVEBP5mNnmnxvaAEDBCWQk4OfYY2MC?usp=sharing",
+    "role": "rules",
+    "name": ""
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null,
-  "need": [
-   "https://www.ccsh.ptc.edu.tw/images/file/data19280/b206fd0b778e480f3397c737538bc8cc.pdf"
-  ]
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-nodass-ocean-big-data",
+  "note": "single, checked",
+  "tried": "2026-11-25",
+  "searched": "2026-11-25"
  },
  {
   "key": "c0194",
@@ -5810,23 +5862,24 @@
     "url": "http://www.wlsh.tyc.edu.tw/p/406-1000-43594,r83.php?Lang=zh-tw",
     "role": "announcement",
     "name": "武陵高中 校外競賽"
+   },
+   {
+    "url": "https://dlsh.tc.edu.tw/p/406-1068-647764,r2145.php",
+    "role": "announcement",
+    "name": "大里高中 校外活動與競賽"
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null,
-  "need": [
-   "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/11/2027年第八屆台灣經濟學奧林匹亞競賽活動簡章.pdf",
-   "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28632/2027%E5%B9%B4%E7%AC%AC%E5%85%AB%E5%B1%86%E5%8F%B0%E7%81%A3%E7%B6%93%E6%BF%9F%E5%AD%B8%E5%A5%A7%E6%9E%97%E5%8C%B9%E4%BA%9E%E7%AB%B6%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf",
-   "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs2221/競賽簡章.pdf",
-   "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/11/1151105001_Attach1.pdf",
-   "http://www.ecolympiad.tw",
-   "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs2221/台灣模擬教育協會 函(更正函_.pdf"
-  ]
+  "last_seen": "2026-11-25",
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-taiwan-economics-olympiad",
+  "note": "single, checked",
+  "tried": "2026-11-25",
+  "second": {
+   "attempts": 0
+  }
  },
  {
   "key": "c0195",
@@ -5857,17 +5910,32 @@
     "url": "http://www.wlsh.tyc.edu.tw/p/406-1000-43417,r83.php?Lang=zh-tw",
     "role": "announcement",
     "name": "武陵高中 校外競賽"
+   },
+   {
+    "url": "https://www.ecolympiad.tw/zh-tw/eo",
+    "role": "rules",
+    "name": ""
+   },
+   {
+    "url": "https://drive.google.com/file/d/1MLBbn-kEIlLGT6PeeMtt-jPgbmlfl44W/view?usp=sharing",
+    "role": "rules",
+    "name": ""
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "search",
+  "status": "done",
   "attempts": 1,
   "record": "2026-economics-olympiad-school-round",
-  "note": "single, unverified",
-  "tried": "2026-11-24",
-  "after_search": "done"
+  "note": "single, checked",
+  "tried": "2026-11-25",
+  "searched": "2026-11-25",
+  "second": {
+   "attempts": 1,
+   "tried": "2026-11-25",
+   "note": "dual"
+  }
  },
  {
   "key": "c0196",
@@ -5907,7 +5975,12 @@
   "attempts": 1,
   "record": "2026-national-skills-north",
   "note": "single, checked",
-  "tried": "2026-11-24"
+  "tried": "2026-11-24",
+  "second": {
+   "attempts": 1,
+   "tried": "2026-11-25",
+   "note": "dual"
+  }
  },
  {
   "key": "c0198",
@@ -5923,14 +5996,18 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null,
-  "need": [
-   "https://www.mlaivs.mlc.edu.tw/ischool/news/attached/26952/1150008641.pdf",
-   "https://www.mlaivs.mlc.edu.tw/ischool/news/attached/26952/1150008641_1.pdf"
-  ]
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-national-skills-central",
+  "note": "single, checked",
+  "tried": "2026-11-25",
+  "second": {
+   "attempts": 0,
+   "need": [
+    "https://www.mlaivs.mlc.edu.tw/ischool/news/attached/26952/1150008641.pdf",
+    "https://www.mlaivs.mlc.edu.tw/ischool/news/attached/26952/1150008641_1.pdf"
+   ]
+  }
  },
  {
   "key": "c0199",
@@ -5955,7 +6032,12 @@
   "attempts": 1,
   "record": "2026-new-immigrants-dream-plan",
   "note": "single, checked",
-  "tried": "2026-11-24"
+  "tried": "2026-11-24",
+  "second": {
+   "attempts": 1,
+   "tried": "2026-11-25",
+   "note": "dual"
+  }
  },
  {
   "key": "c0200",
@@ -6011,14 +6093,16 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null,
-  "need": [
-   "https://reurl.cc/omV4d3",
-   "https://www.ltivs.ilc.edu.tw/app/index.php?Action=downloadfile&file=azlzQTZQWHFOVVRoMU9vOUdZQkZrbUFxQk9FMjVwN1BRbHJPWjc4dHNySDlraUZRUm15SXdiUXFnd2J1eHpML0pVeHVZWTd0L1VQcE4xOTVVSWYyUWlsVUgrSVRZWEE2WlBKeEFISDFaQms9&fname=T0NvT3VTVkNpOTNVbG83dWp3RXk1U2xVSCtJVFlYQTZaUEp4QUhIMVpCaz0="
-  ]
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-genai-algorithm-cert",
+  "note": "single, checked",
+  "tried": "2026-11-25",
+  "second": {
+   "attempts": 1,
+   "tried": "2026-11-25",
+   "note": "dual"
+  }
  },
  {
   "key": "c0201",
@@ -6039,13 +6123,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
+  "status": "skipped",
+  "attempts": 1,
   "record": null,
-  "note": null,
-  "need": [
-   "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28374/1150001888.pdf"
-  ]
+  "note": "電競大賽為戰隊選手對戰、總決賽線上直播的電子競技賽事，屬錦標賽性質而非評審作品；所附公文與轉知頁也未載評審方式、名次、獎項或獎狀。",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0202",
@@ -6081,17 +6163,32 @@
     "url": "https://www.ksvs.kh.edu.tw/v4/cpsub/article.php?id=12713",
     "role": "announcement",
     "name": "高雄高工 競賽公告"
+   },
+   {
+    "url": "https://speech.tyhs.kh.edu.tw/action/73",
+    "role": "rules",
+    "name": ""
+   },
+   {
+    "url": "https://speech.tyhs.kh.edu.tw/",
+    "role": "rules",
+    "name": ""
+   },
+   {
+    "url": "https://speech.tyhs.kh.edu.tw/action/74",
+    "role": "rules",
+    "name": ""
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "search",
+  "status": "done",
   "attempts": 1,
   "record": "2026-kh-hs-english-writing-speech",
-  "note": "single, unverified",
-  "tried": "2026-11-24",
-  "after_search": "done"
+  "note": "single, checked",
+  "tried": "2026-11-25",
+  "searched": "2026-11-25"
  },
  {
   "key": "c0204",
@@ -6147,17 +6244,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null,
-  "need": [
-   "https://www.mlaivs.mlc.edu.tw/ischool/news/attached/27031/1150008769_1.pdf",
-   "https://www.mlaivs.mlc.edu.tw/ischool/news/attached/27031/1150008769_2.pdf",
-   "https://www.scvs.ntpc.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mek01TDNCMFlWOHlNakUxTTE4ME1qWTJPVFEyWHpneU16QTRMbkJrWmc9PQ==&fname=0054RPA0RKSSVXHHA404USWT34B4TSLODGB0NO04002500B5A0A424VWUS54JGOKZTPODD00JCB0NK14YW30A000YSB0MKGC01RL31QPWSB0B450CCHGKLRKRKPONPYXFGNO50SXVWB425GGB0MOQKICQPRL31A0A0B4YWUWOOOKRK50VWPODHKKDGB0MOMOIG30GCXS20ROFHMOUTXTJGSSOKMKJCB420GGUWB0USXWLPXXLOPOJCYWXSMO253534UWMPNPIHIDWWCCRO30STLL00KK30SSROPOTTXXHCXS0514YW30WWHC34ROB1NOGGRLMLB0LKTS50SWPK544550PKLKGDYX44XWPKICPKB0QLQL",
-   "https://drive.google.com/file/d/1nc1sKk3hBwg2mkcSt4qIyI9OciEIMTAj/view?usp=sharing",
-   "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/08/0007894_第23屆竹園岡全國高中職學生流音大賽比賽辦法.pdf"
-  ]
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-tnfsh-pop-music",
+  "note": "single, checked",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0205",
@@ -6313,10 +6404,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
+  "status": "skipped",
+  "attempts": 1,
   "record": null,
-  "note": null
+  "note": "東海大學「第四屆東海牛奶節」為校園市集、表演與馬術體驗等活動，文件未描述作品評審、名次、獎項或獎狀，不屬競賽。",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0211",
@@ -6332,10 +6424,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-nfu-student-project",
+  "note": "single, checked",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0212",
@@ -6351,10 +6444,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
+  "status": "skipped",
+  "attempts": 1,
   "record": null,
-  "note": null
+  "note": "本校高一、高二學生的校內數學科競試，僅限單一學校學生參加，不屬收錄範圍。",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0213",
@@ -6395,15 +6489,21 @@
     "url": "https://www.scvs.ntpc.edu.tw/p/406-1000-15951,r28.php",
     "role": "announcement",
     "name": "三重商工 學生事務公告"
+   },
+   {
+    "url": "https://dlsh.tc.edu.tw/p/406-1068-646327,r2145.php",
+    "role": "announcement",
+    "name": "大里高中 校外活動與競賽"
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
+  "last_seen": "2026-11-25",
+  "status": "skipped",
+  "attempts": 1,
   "record": null,
-  "note": null
+  "note": "文件描述的是惠文高中辦理的模擬聯合國會議活動（115年12月5日至6日），各文件只有活動目的、時間、地點、參加對象與報名表單，沒有評選、名次、獎項或獎狀的規定，不符收錄條件。",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0214",
@@ -6419,10 +6519,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
+  "status": "skipped",
+  "attempts": 1,
   "record": null,
-  "note": null
+  "note": "模擬聯合國會議活動：實施計畫只寫報名、會前訓練、會議議程與晚宴，沒有評審或名次、獎項、獎狀的規定，不是有評選並頒獎的競賽。",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0215",
@@ -6438,10 +6539,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
+  "status": "skipped",
+  "attempts": 1,
   "record": null,
-  "note": null
+  "note": "文件描述的是模擬聯合國會議活動（學生扮演各國外交使節討論議題），未提及評審、名次、獎項或獎狀，屬活動而非競賽。",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0216",
@@ -6482,10 +6584,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
+  "status": "skipped",
+  "attempts": 1,
   "record": null,
-  "note": null
+  "note": "南山模擬聯合國會議是三天的模擬聯合國會議活動，各校公告與會議官網只寫參會條件、費用、日程與委員會，沒有評選、名次、獎項或獎狀的規定，不符收錄條件。",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0217",
@@ -6501,10 +6604,14 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-taiwan-economics-olympiad",
+  "note": "single, checked",
+  "tried": "2026-11-25",
+  "second": {
+   "attempts": 0
+  }
  },
  {
   "key": "c0218",
@@ -6520,10 +6627,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-takming-cross-cultural-store",
+  "note": "single, checked",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0219",
@@ -6674,10 +6782,18 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-smartreading-science-reading",
+  "note": "single, checked",
+  "tried": "2026-11-25",
+  "second": {
+   "attempts": 0,
+   "need": [
+    "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg252/活動簡報說明.pdf",
+    "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg252/海報.pdf"
+   ]
+  }
  },
  {
   "key": "c0221",
@@ -6693,10 +6809,16 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-taiwan-economics-olympiad",
+  "note": "single, checked",
+  "tried": "2026-11-25",
+  "second": {
+   "attempts": 1,
+   "tried": "2026-11-25",
+   "note": "dual"
+  }
  },
  {
   "key": "c0222",
@@ -6707,15 +6829,27 @@
     "url": "https://www.cygsh.cy.edu.tw/p/406-1013-186867,r679.php",
     "role": "announcement",
     "name": "嘉義女中 競賽與投稿"
+   },
+   {
+    "url": "https://www.ecolympiad.tw/zh-tw/eo",
+    "role": "rules",
+    "name": ""
+   },
+   {
+    "url": "https://drive.google.com/file/d/1MLBbn-kEIlLGT6PeeMtt-jPgbmlfl44W/view?usp=sharing",
+    "role": "rules",
+    "name": ""
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-economics-olympiad-school-round",
+  "note": "single, unverified",
+  "tried": "2026-11-25",
+  "searched": "2026-11-25"
  },
  {
   "key": "c0223",
@@ -6736,10 +6870,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-tfc-youth-factcheck",
+  "note": "single, checked",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0224",
@@ -6810,16 +6945,47 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
+  "status": "skipped",
+  "attempts": 1,
   "record": null,
-  "note": null
+  "note": "這是國立臺灣科學教育館辦理的論壇（公告稱「本工作坊活動」），於115年12月25日至26日舉行，限200人線上報名參加交流與分享，文件未記載作品評審、名次、獎項或獎狀，不是競賽。",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0225",
   "title": "115學年度高級中等學校全國英文競賽【中區】英語演講競賽",
   "deadline": null,
   "urls": [
+   {
+    "url": "https://drive.google.com/file/d/1lr-5KSvMGwomHJGohdHgpIHpM-ngWIVN/view?usp=drive_link",
+    "role": "rules",
+    "name": ""
+   },
+   {
+    "url": "https://shs.k12ea.gov.tw/assets?UUID=1898C433-26EF-4E27-8177-F5FEBFE87105",
+    "role": "rules",
+    "name": ""
+   },
+   {
+    "url": "https://shs.k12ea.gov.tw/site/english",
+    "role": "rules",
+    "name": ""
+   },
+   {
+    "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/26/pta_228111_8139244_04901.pdf",
+    "role": "rules",
+    "name": ""
+   },
+   {
+    "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/26/pta_228112_4715291_04901.pdf",
+    "role": "rules",
+    "name": ""
+   },
+   {
+    "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/26/pta_228113_4310301_04901.pdf",
+    "role": "rules",
+    "name": ""
+   },
    {
     "url": "https://www.chsh.chc.edu.tw/p/406-1009-196839,r70.php?Lang=zh-tw",
     "role": "announcement",
@@ -6829,10 +6995,12 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-shs-english-speech-central",
+  "note": "single, checked",
+  "tried": "2026-11-25",
+  "searched": "2026-11-25"
  },
  {
   "key": "c0226",
@@ -6843,15 +7011,42 @@
     "url": "https://www.chsh.chc.edu.tw/p/406-1009-196448,r70.php?Lang=zh-tw",
     "role": "announcement",
     "name": "彰化高中 競賽公告"
+   },
+   {
+    "url": "https://shs.k12ea.gov.tw/site/english",
+    "role": "rules",
+    "name": ""
+   },
+   {
+    "url": "https://shs.k12ea.gov.tw/assets?UUID=22D1B08D-DDB6-42A0-88F3-F9C89463A894",
+    "role": "rules",
+    "name": ""
+   },
+   {
+    "url": "https://drive.google.com/file/d/1n9Z12Mj1_HAvAP9i1Du-R9dFQf1sUlAR/view?usp=drive_link",
+    "role": "rules",
+    "name": ""
+   },
+   {
+    "url": "https://shs.k12ea.gov.tw/site/english/category?root=17847&cid=17847&oid=112227",
+    "role": "rules",
+    "name": ""
+   },
+   {
+    "url": "https://ecsc.k12ea.gov.tw/",
+    "role": "rules",
+    "name": ""
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-shs-english-writing",
+  "note": "single, checked",
+  "tried": "2026-11-25",
+  "searched": "2026-11-25"
  },
  {
   "key": "c0227",
@@ -6872,10 +7067,16 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-hl-smart-robot-challenge",
+  "note": "single, checked",
+  "tried": "2026-11-25",
+  "second": {
+   "attempts": 1,
+   "tried": "2026-11-25",
+   "note": "dual"
+  }
  },
  {
   "key": "c0228",
@@ -6896,10 +7097,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
+  "status": "skipped",
+  "attempts": 1,
   "record": null,
-  "note": null
+  "note": "這是《特戰英豪》電競對戰賽事，以線上預賽與線下決賽的對戰勝負定名次，並非評審作品，屬錦標賽性質的比賽，不在收錄範圍。",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0229",
@@ -6915,10 +7117,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
+  "status": "skipped",
+  "attempts": 1,
   "record": null,
-  "note": null
+  "note": "唯一的文件是學校轉知公告，只列出競賽計畫名稱並請讀者至臺北市網頁查詢，沒有說明參賽資格、作品、日期或獎項，也沒有附上任何連結，沒有文件描述這項競賽。",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0230",
@@ -6934,10 +7137,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
+  "status": "skipped",
+  "attempts": 1,
   "record": null,
-  "note": null
+  "note": "唯一文件是學校的一行轉知公告，只寫「修正「教育部辦理115年無人機足球競賽實施計畫」,詳情請逕至該部網頁查詢」，沒有附實施計畫或任何連結，無法得知參賽資格、評審方式、日期與獎勵。",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0231",
@@ -6958,10 +7162,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-lhu-terroir-cup",
+  "note": "single, checked",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0232",
@@ -6982,10 +7187,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
+  "status": "skipped",
+  "attempts": 1,
   "record": null,
-  "note": null
+  "note": "教育部海洋教育推手獎表揚推動海洋教育有卓越貢獻的團體、個人、地方政府及課程教學團隊，由政府機關（構）及學校推薦，不是高中職學生參賽的競賽。",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0233",
@@ -7006,10 +7212,16 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-national-skills-central",
+  "note": "single, checked",
+  "tried": "2026-11-25",
+  "second": {
+   "attempts": 1,
+   "tried": "2026-11-25",
+   "note": "dual"
+  }
  },
  {
   "key": "c0234",
@@ -7025,10 +7237,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
+  "status": "skipped",
+  "attempts": 1,
   "record": null,
-  "note": null
+  "note": "兒福聯盟「少年+」據點第四季心理健康主題活動（心靈成長體驗課程及放鬆小聚），為活動課程，無作品評審，亦不頒發名次、獎項或獎狀，非競賽。",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0235",
@@ -7044,10 +7257,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
+  "status": "skipped",
+  "attempts": 1,
   "record": null,
-  "note": null
+  "note": "這是兒童福利聯盟基金會為蒐集兒少表意權意見而辦理的實體討論活動，文件未提及評選作品，也未提及名次、獎金或獎狀，不是競賽。",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0236",
@@ -7124,10 +7338,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
+  "status": "skipped",
+  "attempts": 1,
   "record": null,
-  "note": null
+  "note": "此為教師研習線上講座（參加對象為高中職藝術相關教師及國中小教師），非學生競賽，無評審與獎項。",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0238",
@@ -7143,15 +7358,21 @@
     "url": "https://www.ntsh.ntct.edu.tw/ischool/public/news_view/show.php?nid=22082",
     "role": "announcement",
     "name": "南投高中 最新消息"
+   },
+   {
+    "url": "https://dlsh.tc.edu.tw/p/406-1068-611043,r2145.php",
+    "role": "announcement",
+    "name": "大里高中 校外活動與競賽"
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "last_seen": "2026-11-25",
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-tkb-special-selection-review",
+  "note": "single, checked",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0239",
@@ -7262,15 +7483,21 @@
     "url": "https://bhuntr.com/tw/competitions/5b4d61rbi2tr8ecd9m",
     "role": "announcement",
     "name": "獎金獵人 競賽平台"
+   },
+   {
+    "url": "https://www.hgsh.hc.edu.tw/news/2026%e9%ab%98%e4%b8%ad%e8%81%b7%e5%85%ac%e7%9b%8a%e6%95%99%e6%9d%90%e5%be%b5%e7%a8%bf%e7%ab%b6%e8%b3%bd-2/",
+    "role": "announcement",
+    "name": "新竹女中 活動研習"
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
+  "last_seen": "2026-11-25",
+  "status": "skipped",
+  "attempts": 1,
   "record": null,
-  "note": null
+  "note": "本競賽參賽對象僅限全國公私立高中職教師，學生不得參加，不在收錄範圍。",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0241",
@@ -7286,10 +7513,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-ctu-creative-itinerary",
+  "note": "single, checked",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0242",
@@ -7320,10 +7548,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-cnu-kinder-elder-colearning",
+  "note": "single, checked",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0243",
@@ -7339,10 +7568,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
+  "status": "skipped",
+  "attempts": 1,
   "record": null,
-  "note": null
+  "note": "唯一文件為錦和高中轉知公告，只列報名期限、報名網址、競賽日期與地點，沒有主辦單位、參賽資格、評審方式與獎項，也沒有連到簡章，無法確認高中職生可參加且有名次或獎狀，也無從寫出主辦單位。",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0244",
@@ -7388,10 +7618,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-mohw-mental-health-pk",
+  "note": "single, checked",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0245",
@@ -7412,10 +7643,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
+  "status": "skipped",
+  "attempts": 1,
   "record": null,
-  "note": null
+  "note": "此為臺北市財務智商線上課程測驗活動，學生完成10題測驗後以抽獎方式發放商品卡，作品不經評審、不評名次，不屬於競賽。",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0246",
@@ -7426,15 +7658,26 @@
     "url": "https://www.ykvs.ntpc.edu.tw/p/406-1000-25648,r23.php",
     "role": "announcement",
     "name": "鶯歌工商 最新消息"
+   },
+   {
+    "url": "https://www.ykvs.ntpc.edu.tw/p/406-1000-25648,r23.php?Lang=zh-tw",
+    "role": "announcement",
+    "name": "鶯歌工商 最新消息"
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "last_seen": "2026-11-25",
+  "status": "done",
+  "attempts": 1,
+  "record": "2027-ntpc-self-learning-goai",
+  "note": "single, checked",
+  "tried": "2026-11-25",
+  "second": {
+   "attempts": 1,
+   "tried": "2026-11-25",
+   "note": "dual"
+  }
  },
  {
   "key": "c0247",
@@ -7455,10 +7698,12 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "search",
+  "attempts": 1,
+  "record": "2026-taiwan-healthcare-hs-contest",
+  "note": "single, unverified",
+  "tried": "2026-11-25",
+  "after_search": "done"
  },
  {
   "key": "c0248",
@@ -7474,10 +7719,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-hwu-high-school-band",
+  "note": "single, checked",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0249",
@@ -7508,10 +7754,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-tnu-genai-cad-cam",
+  "note": "single, checked",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0250",
@@ -7535,7 +7782,10 @@
   "status": "new",
   "attempts": 0,
   "record": null,
-  "note": null
+  "note": null,
+  "need": [
+   "https://www.cygsh.cy.edu.tw/app/index.php?Action=downloadfile&file=TmZoSUpFeGFjTmc2VmJWckFJenR1UTFSd0h0UE9nKzc5cmNaMHdBd1ppdUNiN09ZNTdxa1FGSHBCekNLeUQyc1gwTVhKeGhyTnRIRTMrekNTRmdyV3pMcHdWVnQxbTNyamZBbkNUZHhsMVk9&fname=MzlGRGxBKzFIRjRIUkFWU0R1MWdWU2xVSCtJVFlYQTZaUEp4QUhIMVpCaz0="
+  ]
  },
  {
   "key": "c0251",
@@ -7546,15 +7796,21 @@
     "url": "https://dlsh.tc.edu.tw/p/406-1068-643398,r2145.php?Lang=zh-tw",
     "role": "announcement",
     "name": "大里高中 校外活動與競賽"
+   },
+   {
+    "url": "https://dlsh.tc.edu.tw/p/406-1068-643398,r2145.php",
+    "role": "announcement",
+    "name": "大里高中 校外活動與競賽"
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
+  "last_seen": "2026-11-25",
+  "status": "skipped",
+  "attempts": 1,
   "record": null,
-  "note": null
+  "note": "「2027教育創新100」報名對象為幼兒園至大學之學校單位、教師個人、非學校型態實驗學習團體、公部門、企業、NPO及其他教育工作者，徵集教學課程與行動方案，高中職學生不能報名，非本目錄收錄之學生競賽。",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0252",
@@ -7570,10 +7826,12 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "search",
+  "attempts": 1,
+  "record": "2026-taipei-drone",
+  "note": "single, unverified",
+  "tried": "2026-11-25",
+  "after_search": "done"
  },
  {
   "key": "c0253",
@@ -7592,7 +7850,10 @@
   "status": "new",
   "attempts": 0,
   "record": null,
-  "note": null
+  "note": null,
+  "need": [
+   "https://www.k12ea.gov.tw/Tw/Common/Downloader?id=d3a783ba-4423-4f6e-b954-a263b903d6b9"
+  ]
  },
  {
   "key": "c0254",
@@ -7618,10 +7879,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-tajen-practical-project",
+  "note": "single, checked",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0255",
@@ -7662,10 +7924,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-nkust-business-intelligence",
+  "note": "single, checked",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0256",
@@ -7711,15 +7974,27 @@
     "url": "http://www.wlsh.tyc.edu.tw/p/406-1000-43431,r83.php?Lang=zh-tw",
     "role": "announcement",
     "name": "武陵高中 校外競賽"
+   },
+   {
+    "url": "https://www.hssh.tp.edu.tw/p/405-1000-52542,c540.php",
+    "role": "announcement",
+    "name": "西松高中 校外競賽公告"
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "status": "new",
   "attempts": 0,
   "record": null,
-  "note": null
+  "note": null,
+  "need": [
+   "https://www.fg.tp.edu.tw/view-doc/11/TOL 2027_國際語言學奧林匹亞競賽臺灣國手選拔賽說明簡章.pdf",
+   "https://www.fg.tp.edu.tw/view-doc/11/2027年國際語言學奧林匹亞競賽臺灣代表隊選拔賽複賽之學校推薦辦法.pdf",
+   "https://www.cygsh.cy.edu.tw/app/index.php?Action=downloadfile&file=VSt4WU5uRGxCcEJqQmxXUzhvR0hMUHZFb1ptaVduckt3TnkxcUNKMlJmNlRXYXMvT25QNnQwT0tHZGtvZXEwRlVRVy9YdE9YbWUwb3d5MGxSODRtN3ZPekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=NWxPREhOVjFZQW95T2hXLy9jUzlyQlZTc2lTTmVEK0VaWGtGRy96WjFOU0xsbjgrQjcwaWJJR1ZIdHpEeGIvZ1UzdUR1R1dFQ1V5eTNFemM0VHVOQkpXc3pJV0JnQUQ2MlA4aTRtOTg1Y2VwaXNRckl6Z3FWcEY4TVdyUEgxYk1LVlFmNGhOaGNEcGs4bkVBY2ZWa0dRPT0=",
+   "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28337/%E5%85%AC%E6%96%87.pdf",
+   "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28337/%E6%8E%A8%E8%96%A6%E8%BE%A6%E6%B3%95.pdf"
+  ]
  },
  {
   "key": "c0257",
@@ -7770,10 +8045,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-quanmin-e-info-games-autumn",
+  "note": "single, checked",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0258",
@@ -7814,10 +8090,12 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "search",
+  "attempts": 1,
+  "record": "2026-moe-ai-learning-handbook",
+  "note": "single, unverified",
+  "tried": "2026-11-25",
+  "after_search": "done"
  },
  {
   "key": "c0259",
@@ -7863,15 +8141,21 @@
     "url": "https://www.sssh.tyc.edu.tw/news/%e6%9d%b1%e6%b5%b7%e5%a4%a7%e5%ad%b8%e7%ae%a1%e7%90%86%e5%ad%b8%e9%99%a2%e8%88%89%e8%be%a6%e3%80%8c2026%e6%b1%82%e7%9c%9f%e7%9b%83%e5%85%a8%e5%9c%8b%e9%ab%98%e4%b8%ad%e5%95%86%e7%ae%a1%e5%80%8b/",
     "role": "announcement",
     "name": "壽山高中 校外競賽"
+   },
+   {
+    "url": "https://dlsh.tc.edu.tw/p/406-1068-642030,r2145.php",
+    "role": "announcement",
+    "name": "大里高中 校外活動與競賽"
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "last_seen": "2026-11-25",
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-qiuzhen-cup",
+  "note": "single, checked",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0260",
@@ -7895,7 +8179,10 @@
   "status": "new",
   "attempts": 0,
   "record": null,
-  "note": null
+  "note": null,
+  "need": [
+   "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/「2026第八屆全國高中職電競大賽」.pdf"
+  ]
  },
  {
   "key": "c0261",
@@ -7911,10 +8198,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
+  "status": "skipped",
+  "attempts": 1,
   "record": null,
-  "note": null
+  "note": "這是《傳說對決》及《聯盟戰棋》的電競對戰賽事，名次由比賽勝負決定而非評審作品，屬錦標賽性質；公告也未載明名次、獎項或獎狀。",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0262",
@@ -7935,10 +8223,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
+  "status": "skipped",
+  "attempts": 1,
   "record": null,
-  "note": null
+  "note": "《全明星街球派對》手機遊戲電子競技對戰賽，以隊伍現場對戰勝負決定名次，並無評審作品，性質同錦標賽，不屬本目錄收錄的競賽。",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0263",
@@ -7957,7 +8246,10 @@
   "status": "new",
   "attempts": 0,
   "record": null,
-  "note": null
+  "note": null,
+  "need": [
+   "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/95/pta_227481_8692695_93899.pdf"
+  ]
  },
  {
   "key": "c0264",
@@ -7988,10 +8280,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-csu-intergenerational-teaching-aids",
+  "note": "single, checked",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0265",
@@ -8022,15 +8315,27 @@
     "url": "https://www.pshs.ntct.edu.tw/ischool/public/news_view/show.php?nid=33805",
     "role": "announcement",
     "name": "暨大附中 學生研習與競賽活動"
+   },
+   {
+    "url": "https://dlsh.tc.edu.tw/p/406-1068-640341,r2145.php",
+    "role": "announcement",
+    "name": "大里高中 校外活動與競賽"
+   },
+   {
+    "url": "https://www.hssh.tp.edu.tw/p/405-1000-52532,c540.php",
+    "role": "announcement",
+    "name": "西松高中 校外競賽公告"
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "last_seen": "2026-11-25",
+  "status": "search",
+  "attempts": 1,
+  "record": "2026-economics-olympiad-school-round",
+  "note": "single, unverified",
+  "tried": "2026-11-25",
+  "after_search": "done"
  },
  {
   "key": "c0266",
@@ -8051,10 +8356,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
+  "status": "skipped",
+  "attempts": 1,
   "record": null,
-  "note": null
+  "note": "此為財團法人台北市彩霞教育基金會辦理的樂齡才藝公益甄選，對象為55歲以上樂齡團體及含60歲以上長者的青銀組合，高中職學生無法自行參賽；入選僅獲邀登台演出，未設名次、獎金或獎狀。",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0267",
@@ -8090,15 +8396,21 @@
     "url": "https://www.pshs.ntct.edu.tw/ischool/public/news_view/show.php?nid=33827",
     "role": "announcement",
     "name": "暨大附中 學生研習與競賽活動"
+   },
+   {
+    "url": "https://dlsh.tc.edu.tw/p/406-1068-640243,r2145.php",
+    "role": "announcement",
+    "name": "大里高中 校外活動與競賽"
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "last_seen": "2026-11-25",
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-cute-hs-paper-symposium",
+  "note": "single, checked",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0268",
@@ -8149,15 +8461,26 @@
     "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=28250",
     "role": "announcement",
     "name": "苗栗高中 學生校外營隊、活動、比賽"
+   },
+   {
+    "url": "https://dlsh.tc.edu.tw/p/406-1068-639247,r2145.php",
+    "role": "announcement",
+    "name": "大里高中 校外活動與競賽"
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "status": "new",
   "attempts": 0,
   "record": null,
-  "note": null
+  "note": null,
+  "need": [
+   "https://ithu.tw/qygjw",
+   "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/「2026智慧永續循環技術研討會暨專題競賽」競賽資訊.pdf",
+   "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28250/%E5%85%AC%E6%96%87.pdf",
+   "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=VUtLVkVyTVU2amFxekQ2NVB4MktvMG0yZm96R3lDRjQrTUVVNExwQk9QMS9MQUl0WTVtRkVpSkl4UHFnTm1ZWHY4UDcrNW10Uk9pQ01hamhBbjJrNWZPekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=NmVrQXRkNURhYy9lTnhQNmQ0VFBlVExwd1ZWdDFtM3JqZkFuQ1RkeGwxWT0="
+  ]
  },
  {
   "key": "c0269",
@@ -8173,10 +8496,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-hsinchu-mazu-sketch",
+  "note": "single, checked",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0270",
@@ -8187,15 +8511,21 @@
     "url": "https://www.nkhs.tp.edu.tw/ischool/public/news_view/show.php?nid=34965",
     "role": "announcement",
     "name": "南港高工 重要資訊"
+   },
+   {
+    "url": "https://dlsh.tc.edu.tw/p/406-1068-641898,r2145.php",
+    "role": "announcement",
+    "name": "大里高中 校外活動與競賽"
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "last_seen": "2026-11-25",
+  "status": "done",
+  "attempts": 1,
+  "record": "2027-metamanga-comic",
+  "note": "single, checked",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0271",
@@ -8211,10 +8541,12 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "search",
+  "attempts": 1,
+  "record": "2026-ntbsa-xinying-tax-ai-comic",
+  "note": "single, unverified",
+  "tried": "2026-11-25",
+  "after_search": "done"
  },
  {
   "key": "c0272",
@@ -8230,10 +8562,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
+  "status": "skipped",
+  "attempts": 1,
   "record": null,
-  "note": null
+  "note": "唯一的文件是學校的轉知公告，只寫明競賽名稱並指向另一個網站（https://sites.google.com/view/gailearn/），未載參賽資格、評選方式、獎項或日期；該網址不在任何 docs/NN.links.txt 中，無法索取，現有文件不足以描述這項競賽。",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0273",
@@ -8384,11 +8717,16 @@
     "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=28268",
     "role": "announcement",
     "name": "苗栗高中 學生校外營隊、活動、比賽"
+   },
+   {
+    "url": "https://dlsh.tc.edu.tw/p/406-1068-640238,r2145.php",
+    "role": "announcement",
+    "name": "大里高中 校外活動與競賽"
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "status": "new",
   "attempts": 0,
   "record": null,
@@ -8777,11 +9115,16 @@
     "url": "https://www.cksh.tp.edu.tw/news/%e3%80%90%e8%bd%89%e7%9f%a5%e3%80%91%e6%96%87%e8%97%bb%e5%ad%b8%e6%a0%a1%e8%b2%a1%e5%9c%98%e6%b3%95%e4%ba%ba%e6%96%87%e8%97%bb%e5%a4%96%e8%aa%9e%e5%a4%a7%e5%ad%b8%e6%a0%a1%e8%a8%82%e6%96%bc115/",
     "role": "announcement",
     "name": "成功高中 活動競賽"
+   },
+   {
+    "url": "https://dlsh.tc.edu.tw/p/406-1068-639837,r2145.php",
+    "role": "announcement",
+    "name": "大里高中 校外活動與競賽"
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "status": "new",
   "attempts": 0,
   "record": null,
@@ -8835,11 +9178,16 @@
     "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26726",
     "role": "announcement",
     "name": "苗栗農工 處室公告"
+   },
+   {
+    "url": "https://www.hssh.tp.edu.tw/p/405-1000-52522,c540.php",
+    "role": "announcement",
+    "name": "西松高中 校外競賽公告"
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "status": "new",
   "attempts": 0,
   "record": null,
@@ -9316,11 +9664,16 @@
     "url": "https://www.chsh.chc.edu.tw/p/406-1009-189378,r70.php?Lang=zh-tw",
     "role": "announcement",
     "name": "彰化高中 競賽公告"
+   },
+   {
+    "url": "https://www.chsh.chc.edu.tw/p/406-1009-189378,r70.php",
+    "role": "announcement",
+    "name": "彰化高中 競賽公告"
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "status": "new",
   "attempts": 0,
   "record": null,
@@ -9360,11 +9713,16 @@
     "url": "https://www.sssh.tyc.edu.tw/news/%e5%83%91%e5%85%89%e7%a7%91%e6%8a%80%e5%a4%a7%e5%ad%b8%e8%b2%a1%e5%8b%99%e9%87%91%e8%9e%8d%e7%b3%bb%e8%88%89%e8%be%a6%e3%80%8c2026%e8%82%a1%e5%b8%82plus%e8%99%9b%e6%93%ac%e4%ba%a4%e6%98%93%e7%ab%b6/",
     "role": "announcement",
     "name": "壽山高中 校外競賽"
+   },
+   {
+    "url": "https://www.hssh.tp.edu.tw/p/405-1000-52449,c540.php",
+    "role": "announcement",
+    "name": "西松高中 校外競賽公告"
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "status": "new",
   "attempts": 0,
   "record": null,
@@ -9588,11 +9946,16 @@
     "url": "https://bhuntr.com/tw/competitions/fer4o8xurg6sfxefgr",
     "role": "announcement",
     "name": "獎金獵人 競賽平台"
+   },
+   {
+    "url": "https://www.hssh.tp.edu.tw/p/405-1000-52392,c540.php",
+    "role": "announcement",
+    "name": "西松高中 校外競賽公告"
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "status": "new",
   "attempts": 0,
   "record": null,
@@ -9709,11 +10072,16 @@
     "url": "https://www.hgsh.hc.edu.tw/news/%e7%ac%ac%e4%b9%9d%e5%b1%86%e5%ba%b7%e5%af%a7%e5%85%92%e7%ab%a5%e6%96%87%e8%97%9d%e7%8d%8e%e5%be%b5%e6%96%87%e5%af%a6%e6%96%bd%e8%be%a6%e6%b3%95/",
     "role": "announcement",
     "name": "新竹女中 活動研習"
+   },
+   {
+    "url": "https://dlsh.tc.edu.tw/p/406-1068-635672,r2145.php",
+    "role": "announcement",
+    "name": "大里高中 校外活動與競賽"
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "status": "new",
   "attempts": 0,
   "record": null,
@@ -9757,11 +10125,16 @@
     "url": "https://dlsh.tc.edu.tw/p/406-1068-636911,r2145.php?Lang=zh-tw",
     "role": "announcement",
     "name": "大里高中 校外活動與競賽"
+   },
+   {
+    "url": "https://dlsh.tc.edu.tw/p/406-1068-636911,r2145.php",
+    "role": "announcement",
+    "name": "大里高中 校外活動與競賽"
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "status": "new",
   "attempts": 0,
   "record": null,
@@ -9843,11 +10216,16 @@
     "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=22277",
     "role": "announcement",
     "name": "金門高中 最新消息"
+   },
+   {
+    "url": "https://dlsh.tc.edu.tw/p/406-1068-636494,r2145.php",
+    "role": "announcement",
+    "name": "大里高中 校外活動與競賽"
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "status": "new",
   "attempts": 0,
   "record": null,
@@ -9945,11 +10323,16 @@
     "url": "https://www.ykvs.ntpc.edu.tw/p/406-1000-25876,r23.php",
     "role": "announcement",
     "name": "鶯歌工商 最新消息"
+   },
+   {
+    "url": "https://www.ykvs.ntpc.edu.tw/p/406-1000-25876,r23.php?Lang=zh-tw",
+    "role": "announcement",
+    "name": "鶯歌工商 最新消息"
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "status": "new",
   "attempts": 0,
   "record": null,
@@ -10258,11 +10641,16 @@
     "url": "https://www.sssh.tyc.edu.tw/news/%e6%95%99%e8%82%b2%e9%83%a8%e8%be%a6%e7%90%86115%e5%b9%b4%e3%80%8c%e6%95%b8%e4%bd%8d-%e7%b6%b2%e8%b7%af%e6%80%a7%e5%88%a5%e6%9a%b4%e5%8a%9b%e9%98%b2%e6%b2%bb%e7%9f%ad%e5%bd%b1%e9%9f%b3%e6%9a%a8/",
     "role": "announcement",
     "name": "壽山高中 校外競賽"
+   },
+   {
+    "url": "https://dlsh.tc.edu.tw/p/406-1068-635378,r2145.php",
+    "role": "announcement",
+    "name": "大里高中 校外活動與競賽"
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "status": "new",
   "attempts": 0,
   "record": null,
@@ -10586,11 +10974,16 @@
     "url": "http://www.wlsh.tyc.edu.tw/p/406-1000-43227,r83.php?Lang=zh-tw",
     "role": "announcement",
     "name": "武陵高中 校外競賽"
+   },
+   {
+    "url": "https://dlsh.tc.edu.tw/p/406-1068-633080,r2145.php",
+    "role": "announcement",
+    "name": "大里高中 校外活動與競賽"
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "status": "new",
   "attempts": 0,
   "record": null,
@@ -10760,11 +11153,16 @@
     "url": "https://www.chsh.chc.edu.tw/p/406-1009-188190,r70.php?Lang=zh-tw",
     "role": "announcement",
     "name": "彰化高中 競賽公告"
+   },
+   {
+    "url": "https://www.chsh.chc.edu.tw/p/406-1009-188190,r70.php",
+    "role": "announcement",
+    "name": "彰化高中 競賽公告"
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "status": "new",
   "attempts": 0,
   "record": null,
@@ -10964,11 +11362,21 @@
     "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=27689",
     "role": "announcement",
     "name": "苗栗高中 學生校外營隊、活動、比賽"
+   },
+   {
+    "url": "https://www.hssh.tp.edu.tw/p/405-1000-52187,c540.php",
+    "role": "announcement",
+    "name": "西松高中 校外競賽公告"
+   },
+   {
+    "url": "https://dlsh.tc.edu.tw/p/406-1068-625616,r2145.php",
+    "role": "announcement",
+    "name": "大里高中 校外活動與競賽"
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "status": "new",
   "attempts": 0,
   "record": null,
@@ -11113,11 +11521,16 @@
     "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=27890",
     "role": "announcement",
     "name": "苗栗高中 學生校外營隊、活動、比賽"
+   },
+   {
+    "url": "https://dlsh.tc.edu.tw/p/406-1068-629077,r2145.php",
+    "role": "announcement",
+    "name": "大里高中 校外活動與競賽"
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "status": "new",
   "attempts": 0,
   "record": null,
@@ -11167,11 +11580,21 @@
     "url": "http://www.wlsh.tyc.edu.tw/p/406-1000-43167,r83.php?Lang=zh-tw",
     "role": "announcement",
     "name": "武陵高中 校外競賽"
+   },
+   {
+    "url": "https://dlsh.tc.edu.tw/p/406-1068-628797,r2145.php",
+    "role": "announcement",
+    "name": "大里高中 校外活動與競賽"
+   },
+   {
+    "url": "https://www.hssh.tp.edu.tw/p/405-1000-52066,c540.php",
+    "role": "announcement",
+    "name": "西松高中 校外競賽公告"
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "status": "new",
   "attempts": 0,
   "record": null,
@@ -11285,11 +11708,16 @@
     "url": "https://bhuntr.com/tw/competitions/dz2trpjsslxv9tpmn3",
     "role": "announcement",
     "name": "獎金獵人 競賽平台"
+   },
+   {
+    "url": "https://dlsh.tc.edu.tw/p/406-1068-628369,r2145.php",
+    "role": "announcement",
+    "name": "大里高中 校外活動與競賽"
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "status": "new",
   "attempts": 0,
   "record": null,
@@ -11324,11 +11752,16 @@
     "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=27747",
     "role": "announcement",
     "name": "苗栗高中 學生校外營隊、活動、比賽"
+   },
+   {
+    "url": "https://dlsh.tc.edu.tw/p/406-1068-633071,r2145.php",
+    "role": "announcement",
+    "name": "大里高中 校外活動與競賽"
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "status": "new",
   "attempts": 0,
   "record": null,
@@ -11368,11 +11801,16 @@
     "url": "http://www.wlsh.tyc.edu.tw/p/406-1000-43260,r83.php?Lang=zh-tw",
     "role": "announcement",
     "name": "武陵高中 校外競賽"
+   },
+   {
+    "url": "https://dlsh.tc.edu.tw/p/406-1068-633081,r2145.php",
+    "role": "announcement",
+    "name": "大里高中 校外活動與競賽"
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "status": "new",
   "attempts": 0,
   "record": null,
@@ -11457,11 +11895,16 @@
     "url": "https://www.tngs.tn.edu.tw/2026/08/11/%e3%80%8c%e7%ac%ac%e4%ba%8c%e5%b1%86%e9%8a%98%e5%82%b3%e9%87%91%e8%9e%8d%e7%a7%91%e6%8a%80%e7%9b%83-%ef%bc%8d-etf%e6%a8%a1%e6%93%ac%e4%ba%a4%e6%98%93%e5%af%a6%e6%88%b0%e7%ab%b6%e8%b3%bd%e3%80%8d/",
     "role": "announcement",
     "name": "臺南女中 學生競賽"
+   },
+   {
+    "url": "https://www.hssh.tp.edu.tw/p/405-1000-52283,c540.php",
+    "role": "announcement",
+    "name": "西松高中 校外競賽公告"
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "status": "new",
   "attempts": 0,
   "record": null,
@@ -11519,11 +11962,16 @@
     "url": "https://www.hccvs.hc.edu.tw/ischool/public/news_view/show.php?nid=26364",
     "role": "announcement",
     "name": "新竹高商 消息公佈欄"
+   },
+   {
+    "url": "https://dlsh.tc.edu.tw/p/406-1068-633103,r2145.php",
+    "role": "announcement",
+    "name": "大里高中 校外活動與競賽"
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "status": "new",
   "attempts": 0,
   "record": null,
@@ -11558,11 +12006,16 @@
     "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=27895",
     "role": "announcement",
     "name": "苗栗高中 學生校外營隊、活動、比賽"
+   },
+   {
+    "url": "https://dlsh.tc.edu.tw/p/406-1068-629139,r2145.php",
+    "role": "announcement",
+    "name": "大里高中 校外活動與競賽"
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "status": "new",
   "attempts": 0,
   "record": null,
@@ -11917,11 +12370,16 @@
     "url": "https://www.hgsh.hc.edu.tw/news/2027%e5%b9%b4%e7%ac%ac59%e5%b1%86%e5%9c%8b%e9%9a%9b%e5%8c%96%e5%ad%b8%e5%a5%a7%e6%9e%97%e5%8c%b9%e4%ba%9e%e7%ab%b6%e8%b3%bd%e5%88%9d%e8%b3%bd-%e6%a0%a1%e5%85%a7%e5%9c%98%e9%ab%94%e5%a0%b1%e5%90%8d/",
     "role": "announcement",
     "name": "新竹女中 活動研習"
+   },
+   {
+    "url": "https://dlsh.tc.edu.tw/p/406-1068-633092,r2145.php",
+    "role": "announcement",
+    "name": "大里高中 校外活動與競賽"
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "status": "new",
   "attempts": 0,
   "record": null,
@@ -11936,11 +12394,16 @@
     "url": "https://www.hgsh.hc.edu.tw/news/2027%e5%b9%b4%e7%ac%ac38%e5%b1%86%e5%9c%8b%e9%9a%9b%e7%94%9f%e7%89%a9%e5%a5%a7%e6%9e%97%e5%8c%b9%e4%ba%9e%e7%ab%b6%e8%b3%bd%e5%88%9d%e8%b3%bd-%e6%a0%a1%e5%85%a7%e5%9c%98%e9%ab%94%e5%a0%b1%e5%90%8d/",
     "role": "announcement",
     "name": "新竹女中 活動研習"
+   },
+   {
+    "url": "https://dlsh.tc.edu.tw/p/406-1068-632968,r2145.php",
+    "role": "announcement",
+    "name": "大里高中 校外活動與競賽"
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "status": "new",
   "attempts": 0,
   "record": null,
@@ -11955,11 +12418,21 @@
     "url": "https://www.hgsh.hc.edu.tw/news/2027%e5%b9%b4%e7%ac%ac57%e5%b1%86%e5%9c%8b%e9%9a%9b%e7%89%a9%e7%90%86%e5%a5%a7%e6%9e%97%e5%8c%b9%e4%ba%9e%e7%ab%b6%e8%b3%bd%e5%88%9d%e8%b3%bd-%e6%a0%a1%e5%85%a7%e5%9c%98%e9%ab%94%e5%a0%b1%e5%90%8d/",
     "role": "announcement",
     "name": "新竹女中 活動研習"
+   },
+   {
+    "url": "https://dlsh.tc.edu.tw/p/406-1068-635635,r2145.php",
+    "role": "announcement",
+    "name": "大里高中 校外活動與競賽"
+   },
+   {
+    "url": "https://dlsh.tc.edu.tw/p/406-1068-631048,r2145.php",
+    "role": "announcement",
+    "name": "大里高中 校外活動與競賽"
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "status": "new",
   "attempts": 0,
   "record": null,
@@ -12028,11 +12501,16 @@
     "url": "https://bhuntr.com/tw/competitions/xmsycqqomr6xyhwk3r",
     "role": "announcement",
     "name": "獎金獵人 競賽平台"
+   },
+   {
+    "url": "https://www.hssh.tp.edu.tw/p/405-1000-52081,c540.php",
+    "role": "announcement",
+    "name": "西松高中 校外競賽公告"
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "status": "new",
   "attempts": 0,
   "record": null,
@@ -12555,11 +13033,16 @@
     "url": "http://www.wlsh.tyc.edu.tw/p/406-1000-43148,r83.php?Lang=zh-tw",
     "role": "announcement",
     "name": "武陵高中 校外競賽"
+   },
+   {
+    "url": "https://dlsh.tc.edu.tw/p/406-1068-628916,r2145.php",
+    "role": "announcement",
+    "name": "大里高中 校外活動與競賽"
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "status": "new",
   "attempts": 0,
   "record": null,
@@ -12912,11 +13395,16 @@
     "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=27751",
     "role": "announcement",
     "name": "苗栗高中 學生校外營隊、活動、比賽"
+   },
+   {
+    "url": "https://dlsh.tc.edu.tw/p/406-1068-628270,r2145.php",
+    "role": "announcement",
+    "name": "大里高中 校外活動與競賽"
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "status": "new",
   "attempts": 0,
   "record": null,
@@ -12961,11 +13449,16 @@
     "url": "https://www.hssh.tp.edu.tw/p/405-1000-52058,c540.php?Lang=zh-tw",
     "role": "announcement",
     "name": "西松高中 校外競賽公告"
+   },
+   {
+    "url": "https://www.hssh.tp.edu.tw/p/405-1000-52058,c540.php",
+    "role": "announcement",
+    "name": "西松高中 校外競賽公告"
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "status": "new",
   "attempts": 0,
   "record": null,
@@ -13831,11 +14324,16 @@
     "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=27797",
     "role": "announcement",
     "name": "苗栗高中 學生校外營隊、活動、比賽"
+   },
+   {
+    "url": "https://dlsh.tc.edu.tw/p/406-1068-628345,r2145.php",
+    "role": "announcement",
+    "name": "大里高中 校外活動與競賽"
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "status": "new",
   "attempts": 0,
   "record": null,
@@ -14034,11 +14532,16 @@
     "url": "https://bhuntr.com/tw/competitions/3cx072xt7k75hsw17h",
     "role": "announcement",
     "name": "獎金獵人 競賽平台"
+   },
+   {
+    "url": "https://www.hssh.tp.edu.tw/p/405-1000-51995,c540.php",
+    "role": "announcement",
+    "name": "西松高中 校外競賽公告"
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "status": "new",
   "attempts": 0,
   "record": null,
@@ -14217,11 +14720,16 @@
     "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=27679",
     "role": "announcement",
     "name": "苗栗高中 學生校外營隊、活動、比賽"
+   },
+   {
+    "url": "https://dlsh.tc.edu.tw/p/406-1068-625618,r2145.php",
+    "role": "announcement",
+    "name": "大里高中 校外活動與競賽"
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "status": "new",
   "attempts": 0,
   "record": null,
@@ -14623,11 +15131,16 @@
     "url": "https://www.pshs.ntct.edu.tw/ischool/public/news_view/show.php?nid=33375",
     "role": "announcement",
     "name": "暨大附中 學生研習與競賽活動"
+   },
+   {
+    "url": "https://dlsh.tc.edu.tw/p/406-1068-623849,r2145.php",
+    "role": "announcement",
+    "name": "大里高中 校外活動與競賽"
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "status": "new",
   "attempts": 0,
   "record": null,
@@ -14745,11 +15258,16 @@
     "url": "https://bhuntr.com/tw/competitions/5cxxu8bh4706d1pa18",
     "role": "announcement",
     "name": "獎金獵人 競賽平台"
+   },
+   {
+    "url": "https://dlsh.tc.edu.tw/p/406-1068-622459,r2145.php",
+    "role": "announcement",
+    "name": "大里高中 校外活動與競賽"
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "status": "new",
   "attempts": 0,
   "record": null,
@@ -14961,11 +15479,16 @@
     "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=27597",
     "role": "announcement",
     "name": "苗栗高中 學生校外營隊、活動、比賽"
+   },
+   {
+    "url": "https://dlsh.tc.edu.tw/p/406-1068-622460,r2145.php",
+    "role": "announcement",
+    "name": "大里高中 校外活動與競賽"
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "status": "new",
   "attempts": 0,
   "record": null,
@@ -15107,11 +15630,16 @@
     "url": "https://www.sssh.tyc.edu.tw/news/%e8%bd%89%e7%9f%a5%ef%bc%9a%e5%9c%8b%e7%ab%8b%e8%87%ba%e7%81%a3%e5%b8%ab%e7%af%84%e5%a4%a7%e5%ad%b8%e8%be%a6%e7%90%86%e3%80%8c2026-isteam-powertech-%e9%9d%92%e5%b0%91%e5%b9%b4%e7%a7%91%e6%8a%80/",
     "role": "announcement",
     "name": "壽山高中 校外競賽"
+   },
+   {
+    "url": "https://dlsh.tc.edu.tw/p/406-1068-622224,r2145.php",
+    "role": "announcement",
+    "name": "大里高中 校外活動與競賽"
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "status": "new",
   "attempts": 0,
   "record": null,
@@ -15591,11 +16119,16 @@
     "url": "https://www.cksh.tp.edu.tw/news/%e3%80%90%e8%bd%89%e7%9f%a5%e3%80%91%e7%ac%ac%e4%b8%83%e5%b1%86%e9%81%a0%e5%93%b2%e6%96%87%e5%89%b5%e7%a7%91%e5%ad%b8%e6%8e%a2%e7%a9%b6%e7%ab%b6%e8%b3%bd/",
     "role": "announcement",
     "name": "成功高中 活動競賽"
+   },
+   {
+    "url": "https://dlsh.tc.edu.tw/p/406-1068-619150,r2145.php",
+    "role": "announcement",
+    "name": "大里高中 校外活動與競賽"
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "status": "new",
   "attempts": 0,
   "record": null,
@@ -15615,11 +16148,16 @@
     "url": "https://www.hssh.tp.edu.tw/p/405-1000-51722,c540.php?Lang=zh-tw",
     "role": "announcement",
     "name": "西松高中 校外競賽公告"
+   },
+   {
+    "url": "https://www.hssh.tp.edu.tw/p/405-1000-51722,c540.php",
+    "role": "announcement",
+    "name": "西松高中 校外競賽公告"
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "status": "new",
   "attempts": 0,
   "record": null,
@@ -15911,11 +16449,16 @@
     "url": "https://www.tlsh.ylc.edu.tw/2026/07/21/65361/",
     "role": "announcement",
     "name": "斗六高中 營隊研習競賽"
+   },
+   {
+    "url": "https://dlsh.tc.edu.tw/p/406-1068-618124,r2145.php",
+    "role": "announcement",
+    "name": "大里高中 校外活動與競賽"
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "status": "new",
   "attempts": 0,
   "record": null,
@@ -16099,11 +16642,16 @@
     "url": "https://www.pshs.ntct.edu.tw/ischool/public/news_view/show.php?nid=33208",
     "role": "announcement",
     "name": "暨大附中 學生研習與競賽活動"
+   },
+   {
+    "url": "https://www.hssh.tp.edu.tw/p/405-1000-51410,c540.php",
+    "role": "announcement",
+    "name": "西松高中 校外競賽公告"
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "status": "new",
   "attempts": 0,
   "record": null,
@@ -16571,11 +17119,16 @@
     "url": "https://dlsh.tc.edu.tw/p/406-1068-613432,r2145.php?Lang=zh-tw",
     "role": "announcement",
     "name": "大里高中 校外活動與競賽"
+   },
+   {
+    "url": "https://dlsh.tc.edu.tw/p/406-1068-613432,r2145.php",
+    "role": "announcement",
+    "name": "大里高中 校外活動與競賽"
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "status": "new",
   "attempts": 0,
   "record": null,
@@ -16590,11 +17143,16 @@
     "url": "https://dlsh.tc.edu.tw/p/406-1068-613544,r2145.php?Lang=zh-tw",
     "role": "announcement",
     "name": "大里高中 校外活動與競賽"
+   },
+   {
+    "url": "https://dlsh.tc.edu.tw/p/406-1068-613544,r2145.php",
+    "role": "announcement",
+    "name": "大里高中 校外活動與競賽"
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "status": "new",
   "attempts": 0,
   "record": null,
@@ -16614,11 +17172,16 @@
     "url": "https://www.hssh.tp.edu.tw/p/405-1000-51443,c540.php?Lang=zh-tw",
     "role": "announcement",
     "name": "西松高中 校外競賽公告"
+   },
+   {
+    "url": "https://www.hssh.tp.edu.tw/p/405-1000-51443,c540.php",
+    "role": "announcement",
+    "name": "西松高中 校外競賽公告"
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "status": "new",
   "attempts": 0,
   "record": null,
@@ -17734,11 +18297,16 @@
     "url": "https://www.chsh.chc.edu.tw/p/406-1009-190780,r70.php?Lang=zh-tw",
     "role": "announcement",
     "name": "彰化高中 競賽公告"
+   },
+   {
+    "url": "https://www.chsh.chc.edu.tw/p/406-1009-190780,r70.php",
+    "role": "announcement",
+    "name": "彰化高中 競賽公告"
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "status": "new",
   "attempts": 0,
   "record": null,
@@ -17858,11 +18426,21 @@
     "url": "https://www.hssh.tp.edu.tw/p/405-1000-50788,c540.php?Lang=zh-tw",
     "role": "announcement",
     "name": "西松高中 校外競賽公告"
+   },
+   {
+    "url": "https://www.chsh.chc.edu.tw/p/406-1009-190983,r70.php",
+    "role": "announcement",
+    "name": "彰化高中 競賽公告"
+   },
+   {
+    "url": "https://www.hssh.tp.edu.tw/p/405-1000-50788,c540.php",
+    "role": "announcement",
+    "name": "西松高中 校外競賽公告"
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "status": "new",
   "attempts": 0,
   "record": null,
@@ -17920,11 +18498,16 @@
     "url": "https://www.hssh.tp.edu.tw/p/405-1000-50608,c540.php?Lang=zh-tw",
     "role": "announcement",
     "name": "西松高中 校外競賽公告"
+   },
+   {
+    "url": "https://www.hssh.tp.edu.tw/p/405-1000-50608,c540.php",
+    "role": "announcement",
+    "name": "西松高中 校外競賽公告"
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "status": "new",
   "attempts": 0,
   "record": null,
@@ -17939,11 +18522,16 @@
     "url": "https://www.hssh.tp.edu.tw/p/405-1000-50585,c540.php?Lang=zh-tw",
     "role": "announcement",
     "name": "西松高中 校外競賽公告"
+   },
+   {
+    "url": "https://www.hssh.tp.edu.tw/p/405-1000-50585,c540.php",
+    "role": "announcement",
+    "name": "西松高中 校外競賽公告"
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "status": "new",
   "attempts": 0,
   "record": null,
@@ -17996,11 +18584,16 @@
     "url": "https://www.chsh.chc.edu.tw/p/406-1009-189898,r70.php?Lang=zh-tw",
     "role": "announcement",
     "name": "彰化高中 競賽公告"
+   },
+   {
+    "url": "https://www.chsh.chc.edu.tw/p/406-1009-189898,r70.php",
+    "role": "announcement",
+    "name": "彰化高中 競賽公告"
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "status": "new",
   "attempts": 0,
   "record": null,
@@ -18034,11 +18627,16 @@
     "url": "https://www.hssh.tp.edu.tw/p/405-1000-50261,c540.php?Lang=zh-tw",
     "role": "announcement",
     "name": "西松高中 校外競賽公告"
+   },
+   {
+    "url": "https://www.hssh.tp.edu.tw/p/405-1000-50261,c540.php",
+    "role": "announcement",
+    "name": "西松高中 校外競賽公告"
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "status": "new",
   "attempts": 0,
   "record": null,
@@ -18058,11 +18656,21 @@
     "url": "https://www.chsh.chc.edu.tw/p/406-1009-188500,r70.php?Lang=zh-tw",
     "role": "announcement",
     "name": "彰化高中 競賽公告"
+   },
+   {
+    "url": "https://www.chsh.chc.edu.tw/p/406-1009-189256,r70.php",
+    "role": "announcement",
+    "name": "彰化高中 競賽公告"
+   },
+   {
+    "url": "https://www.chsh.chc.edu.tw/p/406-1009-188500,r70.php",
+    "role": "announcement",
+    "name": "彰化高中 競賽公告"
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "status": "new",
   "attempts": 0,
   "record": null,
@@ -18096,11 +18704,16 @@
     "url": "https://www.chsh.chc.edu.tw/p/406-1009-188899,r70.php?Lang=zh-tw",
     "role": "announcement",
     "name": "彰化高中 競賽公告"
+   },
+   {
+    "url": "https://www.chsh.chc.edu.tw/p/406-1009-188899,r70.php",
+    "role": "announcement",
+    "name": "彰化高中 競賽公告"
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "status": "new",
   "attempts": 0,
   "record": null,
@@ -18125,11 +18738,21 @@
     "url": "https://www.chsh.chc.edu.tw/p/406-1009-188401,r70.php?Lang=zh-tw",
     "role": "announcement",
     "name": "彰化高中 競賽公告"
+   },
+   {
+    "url": "https://www.hssh.tp.edu.tw/p/405-1000-50016,c540.php",
+    "role": "announcement",
+    "name": "西松高中 校外競賽公告"
+   },
+   {
+    "url": "https://www.chsh.chc.edu.tw/p/406-1009-188401,r70.php",
+    "role": "announcement",
+    "name": "彰化高中 競賽公告"
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "status": "new",
   "attempts": 0,
   "record": null,
@@ -18163,11 +18786,16 @@
     "url": "https://www.chsh.chc.edu.tw/p/406-1009-188185,r70.php?Lang=zh-tw",
     "role": "announcement",
     "name": "彰化高中 競賽公告"
+   },
+   {
+    "url": "https://www.chsh.chc.edu.tw/p/406-1009-188185,r70.php",
+    "role": "announcement",
+    "name": "彰化高中 競賽公告"
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "status": "new",
   "attempts": 0,
   "record": null,
@@ -18182,11 +18810,16 @@
     "url": "https://www.chsh.chc.edu.tw/p/406-1009-188067,r70.php?Lang=zh-tw",
     "role": "announcement",
     "name": "彰化高中 競賽公告"
+   },
+   {
+    "url": "https://www.chsh.chc.edu.tw/p/406-1009-188067,r70.php",
+    "role": "announcement",
+    "name": "彰化高中 競賽公告"
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "status": "new",
   "attempts": 0,
   "record": null,
@@ -18244,11 +18877,16 @@
     "url": "https://www.tlsh.ylc.edu.tw/2026/01/08/59443/",
     "role": "announcement",
     "name": "斗六高中 營隊研習競賽"
+   },
+   {
+    "url": "https://www.chsh.chc.edu.tw/p/406-1009-186001,r70.php",
+    "role": "announcement",
+    "name": "彰化高中 競賽公告"
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "status": "new",
   "attempts": 0,
   "record": null,
@@ -18263,11 +18901,16 @@
     "url": "https://www.chsh.chc.edu.tw/p/406-1009-185865,r70.php?Lang=zh-tw",
     "role": "announcement",
     "name": "彰化高中 競賽公告"
+   },
+   {
+    "url": "https://www.chsh.chc.edu.tw/p/406-1009-185865,r70.php",
+    "role": "announcement",
+    "name": "彰化高中 競賽公告"
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "status": "new",
   "attempts": 0,
   "record": null,
@@ -18282,11 +18925,16 @@
     "url": "https://www.chsh.chc.edu.tw/p/406-1009-185459,r70.php?Lang=zh-tw",
     "role": "announcement",
     "name": "彰化高中 競賽公告"
+   },
+   {
+    "url": "https://www.chsh.chc.edu.tw/p/406-1009-185459,r70.php",
+    "role": "announcement",
+    "name": "彰化高中 競賽公告"
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "status": "new",
   "attempts": 0,
   "record": null,
@@ -18320,11 +18968,16 @@
     "url": "https://www.chsh.chc.edu.tw/p/406-1009-184641,r70.php?Lang=zh-tw",
     "role": "announcement",
     "name": "彰化高中 競賽公告"
+   },
+   {
+    "url": "https://www.chsh.chc.edu.tw/p/406-1009-184641,r70.php",
+    "role": "announcement",
+    "name": "彰化高中 競賽公告"
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "status": "new",
   "attempts": 0,
   "record": null,
@@ -18339,11 +18992,16 @@
     "url": "https://www.chsh.chc.edu.tw/p/406-1009-185041,r70.php?Lang=zh-tw",
     "role": "announcement",
     "name": "彰化高中 競賽公告"
+   },
+   {
+    "url": "https://www.chsh.chc.edu.tw/p/406-1009-185041,r70.php",
+    "role": "announcement",
+    "name": "彰化高中 競賽公告"
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "status": "new",
   "attempts": 0,
   "record": null,
@@ -18363,11 +19021,21 @@
     "url": "https://www.chsh.chc.edu.tw/p/406-1009-181334,r70.php?Lang=zh-tw",
     "role": "announcement",
     "name": "彰化高中 競賽公告"
+   },
+   {
+    "url": "https://www.chsh.chc.edu.tw/p/406-1009-182965,r70.php",
+    "role": "announcement",
+    "name": "彰化高中 競賽公告"
+   },
+   {
+    "url": "https://www.chsh.chc.edu.tw/p/406-1009-181334,r70.php",
+    "role": "announcement",
+    "name": "彰化高中 競賽公告"
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "status": "new",
   "attempts": 0,
   "record": null,
@@ -18382,11 +19050,16 @@
     "url": "https://www.chsh.chc.edu.tw/p/406-1009-182742,r70.php?Lang=zh-tw",
     "role": "announcement",
     "name": "彰化高中 競賽公告"
+   },
+   {
+    "url": "https://www.chsh.chc.edu.tw/p/406-1009-182742,r70.php",
+    "role": "announcement",
+    "name": "彰化高中 競賽公告"
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "status": "new",
   "attempts": 0,
   "record": null,
@@ -18401,11 +19074,16 @@
     "url": "https://www.chsh.chc.edu.tw/p/406-1009-181881,r70.php?Lang=zh-tw",
     "role": "announcement",
     "name": "彰化高中 競賽公告"
+   },
+   {
+    "url": "https://www.chsh.chc.edu.tw/p/406-1009-181881,r70.php",
+    "role": "announcement",
+    "name": "彰化高中 競賽公告"
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "status": "new",
   "attempts": 0,
   "record": null,
@@ -18420,11 +19098,16 @@
     "url": "https://www.chsh.chc.edu.tw/p/406-1009-181311,r70.php?Lang=zh-tw",
     "role": "announcement",
     "name": "彰化高中 競賽公告"
+   },
+   {
+    "url": "https://www.chsh.chc.edu.tw/p/406-1009-181311,r70.php",
+    "role": "announcement",
+    "name": "彰化高中 競賽公告"
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "status": "new",
   "attempts": 0,
   "record": null,
@@ -18439,11 +19122,16 @@
     "url": "https://www.hssh.tp.edu.tw/p/405-1000-48659,c540.php?Lang=zh-tw",
     "role": "announcement",
     "name": "西松高中 校外競賽公告"
+   },
+   {
+    "url": "https://www.hssh.tp.edu.tw/p/405-1000-48659,c540.php",
+    "role": "announcement",
+    "name": "西松高中 校外競賽公告"
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-25",
   "status": "new",
   "attempts": 0,
   "record": null,
@@ -20426,5 +21114,633 @@
    "tried": "2026-11-24",
    "note": "dual"
   }
+ },
+ {
+  "key": "c0755",
+  "title": "新北市高級中等學校AI Start Up創業挑戰賽",
+  "deadline": null,
+  "urls": [
+   {
+    "url": "https://www.jhsh.ntpc.edu.tw/p/406-1000-21439,r51.php?Lang=zh-tw",
+    "role": "announcement",
+    "name": "錦和高中 學生競賽"
+   },
+   {
+    "url": "https://www.scvs.ntpc.edu.tw/p/406-1000-16085,r28.php",
+    "role": "announcement",
+    "name": "三重商工 學生事務公告"
+   },
+   {
+    "url": "https://www.hshs.ntpc.edu.tw/p/406-1000-12796,r156.php",
+    "role": "announcement",
+    "name": "海山高中 學生競賽活動"
+   }
+  ],
+  "seen_in": "discover",
+  "first_seen": "2026-11-25",
+  "last_seen": "2026-11-25",
+  "status": "new",
+  "attempts": 0,
+  "record": null,
+  "note": null
+ },
+ {
+  "key": "c0756",
+  "title": "116年好優Show學生藝團活動",
+  "deadline": null,
+  "urls": [
+   {
+    "url": "https://www.tlsh.ylc.edu.tw/2026/11/25/69497/",
+    "role": "announcement",
+    "name": "斗六高中 營隊研習競賽"
+   }
+  ],
+  "seen_in": "discover",
+  "first_seen": "2026-11-25",
+  "last_seen": "2026-11-25",
+  "status": "new",
+  "attempts": 0,
+  "record": null,
+  "note": null
+ },
+ {
+  "key": "c0757",
+  "title": "2027台北燈節全國各級學校花燈競賽",
+  "deadline": null,
+  "urls": [
+   {
+    "url": "https://www.ttsh.tp.edu.tw/news/%e3%80%8c2027%e5%8f%b0%e5%8c%97%e7%87%88%e7%af%80%e3%80%8d%e5%85%a8%e5%9c%8b%e5%90%84%e7%b4%9a%e5%ad%b8%e6%a0%a1%e8%8a%b1%e7%87%88%e7%ab%b6%e8%b3%bd%e5%af%a6-%e6%96%bd%e8%a8%88%e7%95%ab/",
+    "role": "announcement",
+    "name": "大同高中 學生競賽活動"
+   }
+  ],
+  "seen_in": "discover",
+  "first_seen": "2026-11-25",
+  "last_seen": "2026-11-25",
+  "status": "new",
+  "attempts": 0,
+  "record": null,
+  "note": null
+ },
+ {
+  "key": "c0758",
+  "title": "2027葉總繪盃全國高中職電腦繪圖競賽之未來之星",
+  "deadline": null,
+  "urls": [
+   {
+    "url": "https://www.ttsh.tp.edu.tw/news/%e5%a4%a7%e8%91%89%e5%a4%a7%e5%ad%b8%e8%88%89%e8%be%a6%e3%80%8c2027%e8%91%89%e7%b8%bd%e7%b9%aa%e7%9b%83%e5%85%a8%e5%9c%8b%e9%ab%98%e4%b8%ad%e8%81%b7%e9%9b%bb%e8%85%a6%e7%b9%aa%e5%9c%96%e7%ab%b6/",
+    "role": "announcement",
+    "name": "大同高中 學生競賽活動"
+   }
+  ],
+  "seen_in": "discover",
+  "first_seen": "2026-11-25",
+  "last_seen": "2026-11-25",
+  "status": "new",
+  "attempts": 0,
+  "record": null,
+  "note": null
+ },
+ {
+  "key": "c0759",
+  "title": "115學年度人權教育系列活動",
+  "deadline": null,
+  "urls": [
+   {
+    "url": "https://www.fg.tp.edu.tw/news/%e6%a1%83%e5%9c%92%e5%b8%82%e7%ab%8b%e4%b8%ad%e5%a3%a2%e5%95%86%e6%a5%ad%e9%ab%98%e7%b4%9a%e4%b8%ad%e7%ad%89%e5%ad%b8%e6%a0%a1%e8%be%a6%e7%90%86115%e5%ad%b8%e5%b9%b4%e5%ba%a6%e4%ba%ba%e6%ac%8a/",
+    "role": "announcement",
+    "name": "北一女中 最新消息"
+   }
+  ],
+  "seen_in": "discover",
+  "first_seen": "2026-11-25",
+  "last_seen": "2026-11-25",
+  "status": "new",
+  "attempts": 0,
+  "record": null,
+  "note": null
+ },
+ {
+  "key": "c0760",
+  "title": "第57屆全國技能競賽分區技能競賽",
+  "deadline": null,
+  "urls": [
+   {
+    "url": "https://www.nkhs.tp.edu.tw/ischool/public/news_view/show.php?nid=35369",
+    "role": "announcement",
+    "name": "南港高工 重要資訊"
+   },
+   {
+    "url": "https://www.sssh.tyc.edu.tw/news/%e7%ac%ac57%e5%b1%86%e5%85%a8%e5%9c%8b%e6%8a%80%e8%83%bd%e7%ab%b6%e8%b3%bd%e5%88%86%e5%8d%80%e6%8a%80%e8%83%bd%e7%ab%b6%e8%b3%bd/",
+    "role": "announcement",
+    "name": "壽山高中 校外競賽"
+   }
+  ],
+  "seen_in": "discover",
+  "first_seen": "2026-11-25",
+  "last_seen": "2026-11-25",
+  "status": "new",
+  "attempts": 0,
+  "record": null,
+  "note": null
+ },
+ {
+  "key": "c0761",
+  "title": "115學年度國語文競賽",
+  "deadline": null,
+  "urls": [
+   {
+    "url": "https://www.ykvs.ntpc.edu.tw/p/406-1000-25621,r23.php?Lang=zh-tw",
+    "role": "announcement",
+    "name": "鶯歌工商 最新消息"
+   }
+  ],
+  "seen_in": "discover",
+  "first_seen": "2026-11-25",
+  "last_seen": "2026-11-25",
+  "status": "new",
+  "attempts": 0,
+  "record": null,
+  "note": null
+ },
+ {
+  "key": "c0762",
+  "title": "115學年度 PT Mini TED Talks 英語表達力發表會",
+  "deadline": null,
+  "urls": [
+   {
+    "url": "https://dlsh.tc.edu.tw/p/406-1068-643399,r2145.php",
+    "role": "announcement",
+    "name": "大里高中 校外活動與競賽"
+   }
+  ],
+  "seen_in": "discover",
+  "first_seen": "2026-11-25",
+  "last_seen": "2026-11-25",
+  "status": "new",
+  "attempts": 0,
+  "record": null,
+  "note": null
+ },
+ {
+  "key": "c0763",
+  "title": "致理科技大學115年度全國永續 DNA 短影片徵集競賽",
+  "deadline": null,
+  "urls": [
+   {
+    "url": "https://www.tlsh.ylc.edu.tw/2026/10/27/68416/",
+    "role": "announcement",
+    "name": "斗六高中 營隊研習競賽"
+   }
+  ],
+  "seen_in": "discover",
+  "first_seen": "2026-11-25",
+  "last_seen": "2026-11-25",
+  "status": "new",
+  "attempts": 0,
+  "record": null,
+  "note": null
+ },
+ {
+  "key": "c0764",
+  "title": "雲林縣政府「縣長盃」硬筆書法比賽",
+  "deadline": null,
+  "urls": [
+   {
+    "url": "https://www.tlsh.ylc.edu.tw/2026/10/21/68296/",
+    "role": "announcement",
+    "name": "斗六高中 營隊研習競賽"
+   }
+  ],
+  "seen_in": "discover",
+  "first_seen": "2026-11-25",
+  "last_seen": "2026-11-25",
+  "status": "new",
+  "attempts": 0,
+  "record": null,
+  "note": null
+ },
+ {
+  "key": "c0765",
+  "title": "第十九屆青年書法暨篆刻大賞",
+  "deadline": null,
+  "urls": [
+   {
+    "url": "https://www.tlsh.ylc.edu.tw/2026/10/21/68310/",
+    "role": "announcement",
+    "name": "斗六高中 營隊研習競賽"
+   }
+  ],
+  "seen_in": "discover",
+  "first_seen": "2026-11-25",
+  "last_seen": "2026-11-25",
+  "status": "new",
+  "attempts": 0,
+  "record": null,
+  "note": null
+ },
+ {
+  "key": "c0766",
+  "title": "2027年亞太數學奧林匹亞競賽初選考試",
+  "deadline": null,
+  "urls": [
+   {
+    "url": "https://dlsh.tc.edu.tw/p/406-1068-639229,r2145.php",
+    "role": "announcement",
+    "name": "大里高中 校外活動與競賽"
+   }
+  ],
+  "seen_in": "discover",
+  "first_seen": "2026-11-25",
+  "last_seen": "2026-11-25",
+  "status": "new",
+  "attempts": 0,
+  "record": null,
+  "note": null
+ },
+ {
+  "key": "c0767",
+  "title": "2026海洋文化攝影比賽",
+  "deadline": null,
+  "urls": [
+   {
+    "url": "https://dlsh.tc.edu.tw/p/406-1068-638421,r2145.php",
+    "role": "announcement",
+    "name": "大里高中 校外活動與競賽"
+   }
+  ],
+  "seen_in": "discover",
+  "first_seen": "2026-11-25",
+  "last_seen": "2026-11-25",
+  "status": "new",
+  "attempts": 0,
+  "record": null,
+  "note": null
+ },
+ {
+  "key": "c0768",
+  "title": "2026全國火星任務創意競賽",
+  "deadline": null,
+  "urls": [
+   {
+    "url": "https://dlsh.tc.edu.tw/p/406-1068-635683,r2145.php",
+    "role": "announcement",
+    "name": "大里高中 校外活動與競賽"
+   }
+  ],
+  "seen_in": "discover",
+  "first_seen": "2026-11-25",
+  "last_seen": "2026-11-25",
+  "status": "new",
+  "attempts": 0,
+  "record": null,
+  "note": null
+ },
+ {
+  "key": "c0769",
+  "title": "2026全國自行車遊程規劃設計競賽",
+  "deadline": null,
+  "urls": [
+   {
+    "url": "https://www.hssh.tp.edu.tw/p/405-1000-52293,c540.php",
+    "role": "announcement",
+    "name": "西松高中 校外競賽公告"
+   }
+  ],
+  "seen_in": "discover",
+  "first_seen": "2026-11-25",
+  "last_seen": "2026-11-25",
+  "status": "new",
+  "attempts": 0,
+  "record": null,
+  "note": null
+ },
+ {
+  "key": "c0770",
+  "title": "吳守禮全國高中職台語學思人文競賽",
+  "deadline": null,
+  "urls": [
+   {
+    "url": "https://www.hssh.tp.edu.tw/p/405-1000-52295,c540.php",
+    "role": "announcement",
+    "name": "西松高中 校外競賽公告"
+   }
+  ],
+  "seen_in": "discover",
+  "first_seen": "2026-11-25",
+  "last_seen": "2026-11-25",
+  "status": "new",
+  "attempts": 0,
+  "record": null,
+  "note": null
+ },
+ {
+  "key": "c0771",
+  "title": "115年度醒吾科技大學「茶創盃全國創新創業競賽」",
+  "deadline": null,
+  "urls": [
+   {
+    "url": "https://www.hssh.tp.edu.tw/p/405-1000-52286,c540.php",
+    "role": "announcement",
+    "name": "西松高中 校外競賽公告"
+   }
+  ],
+  "seen_in": "discover",
+  "first_seen": "2026-11-25",
+  "last_seen": "2026-11-25",
+  "status": "new",
+  "attempts": 0,
+  "record": null,
+  "note": null
+ },
+ {
+  "key": "c0772",
+  "title": "AI跨域創新應用競賽",
+  "deadline": null,
+  "urls": [
+   {
+    "url": "https://www.hssh.tp.edu.tw/p/405-1000-52149,c540.php",
+    "role": "announcement",
+    "name": "西松高中 校外競賽公告"
+   }
+  ],
+  "seen_in": "discover",
+  "first_seen": "2026-11-25",
+  "last_seen": "2026-11-25",
+  "status": "new",
+  "attempts": 0,
+  "record": null,
+  "note": null
+ },
+ {
+  "key": "c0773",
+  "title": "第21屆舊愛新歡活動競賽－AI作曲MV製作競賽",
+  "deadline": null,
+  "urls": [
+   {
+    "url": "https://dlsh.tc.edu.tw/p/406-1068-628648,r2145.php",
+    "role": "announcement",
+    "name": "大里高中 校外活動與競賽"
+   }
+  ],
+  "seen_in": "discover",
+  "first_seen": "2026-11-25",
+  "last_seen": "2026-11-25",
+  "status": "new",
+  "attempts": 0,
+  "record": null,
+  "note": null
+ },
+ {
+  "key": "c0774",
+  "title": "Win the PRIDE：用指標說故事競賽",
+  "deadline": null,
+  "urls": [
+   {
+    "url": "https://dlsh.tc.edu.tw/p/406-1068-628292,r2145.php",
+    "role": "announcement",
+    "name": "大里高中 校外活動與競賽"
+   }
+  ],
+  "seen_in": "discover",
+  "first_seen": "2026-11-25",
+  "last_seen": "2026-11-25",
+  "status": "new",
+  "attempts": 0,
+  "record": null,
+  "note": null
+ },
+ {
+  "key": "c0775",
+  "title": "2026第一屆東華英美青年文學翻譯獎",
+  "deadline": null,
+  "urls": [
+   {
+    "url": "https://dlsh.tc.edu.tw/p/406-1068-628367,r2145.php",
+    "role": "announcement",
+    "name": "大里高中 校外活動與競賽"
+   }
+  ],
+  "seen_in": "discover",
+  "first_seen": "2026-11-25",
+  "last_seen": "2026-11-25",
+  "status": "new",
+  "attempts": 0,
+  "record": null,
+  "note": null
+ },
+ {
+  "key": "c0776",
+  "title": "第27屆台新青少年志工菁英獎",
+  "deadline": null,
+  "urls": [
+   {
+    "url": "https://dlsh.tc.edu.tw/p/406-1068-627683,r2145.php",
+    "role": "announcement",
+    "name": "大里高中 校外活動與競賽"
+   }
+  ],
+  "seen_in": "discover",
+  "first_seen": "2026-11-25",
+  "last_seen": "2026-11-25",
+  "status": "new",
+  "attempts": 0,
+  "record": null,
+  "note": null
+ },
+ {
+  "key": "c0777",
+  "title": "2026年中國文化大學第三屆『世界大學問』高中職及五專簡報比賽",
+  "deadline": null,
+  "urls": [
+   {
+    "url": "https://dlsh.tc.edu.tw/p/406-1068-625499,r2145.php",
+    "role": "announcement",
+    "name": "大里高中 校外活動與競賽"
+   },
+   {
+    "url": "https://dlsh.tc.edu.tw/p/406-1068-619152,r2145.php",
+    "role": "announcement",
+    "name": "大里高中 校外活動與競賽"
+   }
+  ],
+  "seen_in": "discover",
+  "first_seen": "2026-11-25",
+  "last_seen": "2026-11-25",
+  "status": "new",
+  "attempts": 0,
+  "record": null,
+  "note": null
+ },
+ {
+  "key": "c0778",
+  "title": "2026第十三屆來自亞洲的設計力量",
+  "deadline": null,
+  "urls": [
+   {
+    "url": "https://dlsh.tc.edu.tw/p/406-1068-623843,r2145.php",
+    "role": "announcement",
+    "name": "大里高中 校外活動與競賽"
+   }
+  ],
+  "seen_in": "discover",
+  "first_seen": "2026-11-25",
+  "last_seen": "2026-11-25",
+  "status": "new",
+  "attempts": 0,
+  "record": null,
+  "note": null
+ },
+ {
+  "key": "c0779",
+  "title": "2026全國AI專題創意競賽",
+  "deadline": null,
+  "urls": [
+   {
+    "url": "https://dlsh.tc.edu.tw/p/406-1068-622452,r2145.php",
+    "role": "announcement",
+    "name": "大里高中 校外活動與競賽"
+   }
+  ],
+  "seen_in": "discover",
+  "first_seen": "2026-11-25",
+  "last_seen": "2026-11-25",
+  "status": "new",
+  "attempts": 0,
+  "record": null,
+  "note": null
+ },
+ {
+  "key": "c0780",
+  "title": "2026自主學習節暨AI賦能教與學研討會徵稿",
+  "deadline": null,
+  "urls": [
+   {
+    "url": "https://dlsh.tc.edu.tw/p/406-1068-612353,r2145.php",
+    "role": "announcement",
+    "name": "大里高中 校外活動與競賽"
+   }
+  ],
+  "seen_in": "discover",
+  "first_seen": "2026-11-25",
+  "last_seen": "2026-11-25",
+  "status": "new",
+  "attempts": 0,
+  "record": null,
+  "note": null
+ },
+ {
+  "key": "c0781",
+  "title": "TED X專題論文：專題探究暨論文成果短講競賽",
+  "deadline": null,
+  "urls": [
+   {
+    "url": "https://www.chsh.chc.edu.tw/p/406-1009-187673,r70.php",
+    "role": "announcement",
+    "name": "彰化高中 競賽公告"
+   }
+  ],
+  "seen_in": "discover",
+  "first_seen": "2026-11-25",
+  "last_seen": "2026-11-25",
+  "status": "new",
+  "attempts": 0,
+  "record": null,
+  "note": null
+ },
+ {
+  "key": "c0782",
+  "title": "114學年度彰化縣高中職暨國中英語演講比賽",
+  "deadline": null,
+  "urls": [
+   {
+    "url": "https://www.chsh.chc.edu.tw/p/406-1009-181309,r70.php",
+    "role": "announcement",
+    "name": "彰化高中 競賽公告"
+   }
+  ],
+  "seen_in": "discover",
+  "first_seen": "2026-11-25",
+  "last_seen": "2026-11-25",
+  "status": "new",
+  "attempts": 0,
+  "record": null,
+  "note": null
+ },
+ {
+  "key": "c0783",
+  "title": "第一屆TWKEA台灣金廚獎",
+  "deadline": null,
+  "urls": [
+   {
+    "url": "https://bhuntr.com/tw/competitions/qqyehifqj2oqwf2b7d",
+    "role": "announcement",
+    "name": "獎金獵人 競賽平台"
+   }
+  ],
+  "seen_in": "discover",
+  "first_seen": "2026-11-25",
+  "last_seen": "2026-11-25",
+  "status": "new",
+  "attempts": 0,
+  "record": null,
+  "note": null
+ },
+ {
+  "key": "c0784",
+  "title": "2027 加沃藝術計畫 +wò Art Project 徵件",
+  "deadline": null,
+  "urls": [
+   {
+    "url": "https://bhuntr.com/tw/competitions/z8nezllmafftj3euju",
+    "role": "announcement",
+    "name": "獎金獵人 競賽平台"
+   }
+  ],
+  "seen_in": "discover",
+  "first_seen": "2026-11-25",
+  "last_seen": "2026-11-25",
+  "status": "new",
+  "attempts": 0,
+  "record": null,
+  "note": null
+ },
+ {
+  "key": "c0785",
+  "title": "2027 IFA國際時尚美學創意競賽",
+  "deadline": null,
+  "urls": [
+   {
+    "url": "https://bhuntr.com/tw/competitions/zs6m19ex375yz8rj1x",
+    "role": "announcement",
+    "name": "獎金獵人 競賽平台"
+   }
+  ],
+  "seen_in": "discover",
+  "first_seen": "2026-11-25",
+  "last_seen": "2026-11-25",
+  "status": "new",
+  "attempts": 0,
+  "record": null,
+  "note": null
+ },
+ {
+  "key": "c0786",
+  "title": "2026 第四屆全國科學量測競賽",
+  "deadline": null,
+  "urls": [
+   {
+    "url": "https://www.hshs.ntpc.edu.tw/p/406-1000-12797,r156.php",
+    "role": "announcement",
+    "name": "海山高中 學生競賽活動"
+   }
+  ],
+  "seen_in": "discover",
+  "first_seen": "2026-11-25",
+  "last_seen": "2026-11-25",
+  "status": "new",
+  "attempts": 0,
+  "record": null,
+  "note": null
  }
 ]

@@ -3,7 +3,7 @@
   "id": "2026-hwu-high-school-band",
   "title": "醒聲而起，吾樂不止｜全國高中熱音大賽",
   "edition": "2026",
-  "summary": "熱音大賽 10/1 至 11/30 線上報名，12/10 寄送入選通知，12/27 於臺北 CORNER MAX 舉行活動。",
+  "summary": "全國高中生報名參加熱音比賽，經選拔入選者參加決賽演出。",
   "organizers": [
     {
       "name": "醒吾科技大學流行音樂創作系",
@@ -15,11 +15,14 @@
     }
   ],
   "categories": [
-    "音樂"
+    "音樂",
+    "表演藝術"
   ],
   "eligibility": {
-    "levels": [],
-    "division": "unknown",
+    "levels": [
+      "高中"
+    ],
+    "division": "hs_only",
     "regions": [
       "全國"
     ],
@@ -27,8 +30,13 @@
     "team_min": null,
     "team_max": null,
     "teacher": "unknown",
-    "basis": "unread",
-    "evidence": []
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/news/attached/26919/1150008502_1.jpg",
+        "quote": "全國高中熱音大賽"
+      }
+    ]
   },
   "dates": [
     {
@@ -36,15 +44,11 @@
       "label": "報名截止",
       "date": "2026-11-30",
       "time": "23:59",
-      "original": "11/30 23:59(PM)",
+      "original": "10/01 09:00(AM)>>11/30 23:59(PM)",
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://www.csghs.tp.edu.tw/news/%e9%86%92%e5%90%be%e5%ad%b8%e6%a0%a1%e8%b2%a1%e5%9c%98%e6%b3%95%e4%ba%ba%e9%86%92%e5%90%be%e7%a7%91%e6%8a%80%e5%a4%a7%e5%ad%b8%e6%b5%81%e8%a1%8c%e9%9f%b3%e6%a8%82%e5%89%b5%e4%bd%9c%e7%b3%bb%e8%be%a6/",
-          "quote": "一、報名日期：即日起至11月30日止。"
-        },
-        {
-          "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs313/海報文宣.jpg",
+          "url": "https://www.mlaivs.mlc.edu.tw/ischool/news/attached/26919/1150008502_1.jpg",
           "quote": "10/01 09:00(AM)>>11/30 23:59(PMM)"
         }
       ]
@@ -58,41 +62,49 @@
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs313/海報文宣.jpg",
+          "url": "https://www.mlaivs.mlc.edu.tw/ischool/news/attached/26919/1150008502_1.jpg",
           "quote": "12/10以電子郵件寄送入選通知"
         }
       ]
     },
     {
       "kind": "final_event",
-      "label": "活動日期",
+      "label": "活動日（現場演出）",
       "date": "2026-12-27",
       "time": null,
-      "original": "12月27日（星期日）",
+      "original": "12/27",
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://www.csghs.tp.edu.tw/news/%e9%86%92%e5%90%be%e5%ad%b8%e6%a0%a1%e8%b2%a1%e5%9c%98%e6%b3%95%e4%ba%ba%e9%86%92%e5%90%be%e7%a7%91%e6%8a%80%e5%a4%a7%e5%ad%b8%e6%b5%81%e8%a1%8c%e9%9f%b3%e6%a8%82%e5%89%b5%e4%bd%9c%e7%b3%bb%e8%be%a6/",
-          "quote": "(一)活動日期：12月27日（星期日）"
+          "url": "https://www.mlaivs.mlc.edu.tw/ischool/news/attached/26919/1150008502_1.jpg",
+          "quote": "活動日期\n12/27"
         }
       ]
     }
   ],
   "deliverables": [
     {
-      "stage": "報名",
-      "what": "掃描海報 QR code 線上報名",
-      "how": "online"
+      "stage": "活動日（入選者）",
+      "what": "現場熱音演出",
+      "how": "onsite"
     }
   ],
   "attendance": {
-    "value": "unknown",
+    "value": "finalists",
     "where": "CORNER MAX 大角落多功能展演館（臺北市光復南路102號1樓）",
     "basis": "quote",
     "evidence": [
       {
-        "url": "https://www.csghs.tp.edu.tw/news/%e9%86%92%e5%90%be%e5%ad%b8%e6%a0%a1%e8%b2%a1%e5%9c%98%e6%b3%95%e4%ba%ba%e9%86%92%e5%90%be%e7%a7%91%e6%8a%80%e5%a4%a7%e5%ad%b8%e6%b5%81%e8%a1%8c%e9%9f%b3%e6%a8%82%e5%89%b5%e4%bd%9c%e7%b3%bb%e8%be%a6/",
-        "quote": "(二)活動地點：CORNER MAX 大角落多功能展演館（光復南路102號1樓）"
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/news/attached/26919/1150008502_1.jpg",
+        "quote": "12/10以電子郵件寄送入選通知"
+      },
+      {
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/news/attached/26919/1150008502_1.jpg",
+        "quote": "大角落多功能展演館"
+      },
+      {
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/news/attached/26919/1150008502_1.jpg",
+        "quote": "(臺北市光復南路102號1樓)"
       }
     ]
   },
@@ -113,60 +125,36 @@
     "evidence": []
   },
   "links": {
-    "official": "https://c016.hwu.edu.tw/Category?CId=6962",
-    "rules": [],
+    "official": null,
+    "rules": [
+      {
+        "title": "活動海報（EDM）",
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/news/attached/26919/1150008502_1.jpg"
+      }
+    ],
     "registration": null
   },
   "found_via": [
     {
-      "name": "西松高中 校外競賽公告",
-      "url": "https://www.hssh.tp.edu.tw/p/405-1000-52709,c540.php?Lang=zh-tw"
-    },
-    {
-      "name": "南港高工 重要資訊",
-      "url": "https://www.nkhs.tp.edu.tw/ischool/public/news_view/show.php?nid=35101"
-    },
-    {
-      "name": "中山女高 最新消息",
-      "url": "https://www.csghs.tp.edu.tw/news/%e9%86%92%e5%90%be%e5%ad%b8%e6%a0%a1%e8%b2%a1%e5%9c%98%e6%b3%95%e4%ba%ba%e9%86%92%e5%90%be%e7%a7%91%e6%8a%80%e5%a4%a7%e5%ad%b8%e6%b5%81%e8%a1%8c%e9%9f%b3%e6%a8%82%e5%89%b5%e4%bd%9c%e7%b3%bb%e8%be%a6/"
-    },
-    {
-      "name": "南投高中 最新消息",
-      "url": "https://www.ntsh.ntct.edu.tw/ischool/public/news_view/show.php?nid=23179"
-    },
-    {
-      "name": "新竹高商 消息公佈欄",
-      "url": "https://www.hccvs.hc.edu.tw/ischool/public/news_view/show.php?nid=26593"
-    },
-    {
-      "name": "高雄高工 競賽公告",
-      "url": "https://www.ksvs.kh.edu.tw/v4/cpsub/article.php?id=12603"
-    },
-    {
-      "name": "高師大附中 校外競賽與活動",
-      "url": "https://www.nknush.kh.edu.tw/announcement/21882/%e5%85%ac%e5%91%8a%e8%a8%93%e8%82%b2%e7%b5%84%e9%86%92%e5%90%be%e7%a7%91%e6%8a%80%e5%a4%a7%e5%ad%b8%e3%80%8c%e9%86%92%e8%81%b2%e8%80%8c%e8%b5%b7%ef%bc%8c%e5%90%be%e6%a8%82%e4%b8%8d%e6%ad%a2%ef%bd%9c/"
-    },
-    {
-      "name": "大同高中 學生競賽活動",
-      "url": "https://www.ttsh.tp.edu.tw/news/%e9%86%92%e5%90%be%e5%ad%b8%e6%a0%a1%e8%b2%a1%e5%9c%98%e6%b3%95%e4%ba%ba%e9%86%92%e5%90%be%e7%a7%91%e6%8a%80%e5%a4%a7%e5%ad%b8%e8%be%a6%e7%90%86%e3%80%8c%e9%86%92%e8%81%b2%e8%80%8c%e8%b5%b7%ef%bc%8c/"
+      "name": "苗栗農工 處室公告",
+      "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26919"
     }
   ],
   "verification": {
-    "last_verified": "2026-11-24",
+    "last_verified": "2026-11-25",
     "method": "single",
     "unread": [
-      "醒吾科技大學流行音樂創作系最新消息之活動訊息（簡章）",
-      "海報 QR code 所連之報名頁"
+      "醒吾科技大學流行音樂創作系官網「最新資訊」頁的報名資訊",
+      "海報上的報名 QR code"
     ],
-    "note": "第二次讀取沒有確認：參賽對象、分組",
+    "note": null,
     "readers": [
-      "claude-opus-5-5",
       "claude-opus-5-5"
     ]
   },
   "first_seen": "2026-11-24",
-  "updated": "2026-11-24",
-  "level": "unverified",
-  "url": null,
-  "markdown": null
+  "updated": "2026-11-25",
+  "level": "checked",
+  "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-hwu-high-school-band/",
+  "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-hwu-high-school-band.md"
 }

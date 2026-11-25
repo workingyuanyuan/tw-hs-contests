@@ -3,7 +3,7 @@ title: "115 年度全國高中職校際「AI × 日語創意行銷」競賽"
 description: "高中職生參加分組競賽，A 組 2 至 4 人交 5 分鐘內日語簡報影音、B 組個人現場抽稿日語朗讀。"
 appliesTo: "115 年度 這一屆"
 caveat: "日期與時間都是臺灣時間。"
-lastVerified: 2026-11-24
+lastVerified: 2026-11-25
 kind: "contest"
 deadline: "2026-12-04"
 sources:

@@ -1,0 +1,308 @@
+{
+  "schema": 1,
+  "id": "2026-quanmin-e-info-games-autumn",
+  "title": "2026年全民e化資訊運動會秋季賽",
+  "edition": "2026 秋季賽",
+  "summary": "國小生至社會人士選考資訊、程式或英語詞彙科目，以電腦實作測驗依分數與時間排名。",
+  "organizers": [
+    {
+      "name": "中華民國電腦教育發展協會",
+      "role": "主辦"
+    },
+    {
+      "name": "中華民國電腦教育發展協會_英語教育發展委員會",
+      "role": "主辦"
+    },
+    {
+      "name": "宏國德霖科技大學",
+      "role": "承辦"
+    },
+    {
+      "name": "達藝帝優工作室",
+      "role": "協辦"
+    },
+    {
+      "name": "各縣市政府教育局(處)",
+      "role": "指導"
+    }
+  ],
+  "categories": [
+    "資訊與 AI",
+    "外語"
+  ],
+  "eligibility": {
+    "levels": [
+      "國小",
+      "國中",
+      "高中",
+      "高職",
+      "大專",
+      "社會人士"
+    ],
+    "division": "separate",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": 1,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26502/115120000611_1_2026%E5%B9%B4%E5%85%A8%E6%B0%91e%E5%8C%96%E8%B3%87%E8%A8%8A%E9%81%8B%E5%8B%95%E6%9C%83%E7%A7%8B%E5%AD%A3%E8%B3%BD%E6%B4%BB%E5%8B%95%E8%BE%A6%E6%B3%95%E4%B8%80%E4%BB%BD.pdf",
+        "quote": "國中小組：凡就讀公私立國中、國小或完全中學國中部或國小部學生，均可參加"
+      },
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26502/115120000611_1_2026%E5%B9%B4%E5%85%A8%E6%B0%91e%E5%8C%96%E8%B3%87%E8%A8%8A%E9%81%8B%E5%8B%95%E6%9C%83%E7%A7%8B%E5%AD%A3%E8%B3%BD%E6%B4%BB%E5%8B%95%E8%BE%A6%E6%B3%95%E4%B8%80%E4%BB%BD.pdf",
+        "quote": "高中職組：凡就讀公私立高中職之學生，均可參加"
+      },
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26502/115120000611_1_2026%E5%B9%B4%E5%85%A8%E6%B0%91e%E5%8C%96%E8%B3%87%E8%A8%8A%E9%81%8B%E5%8B%95%E6%9C%83%E7%A7%8B%E5%AD%A3%E8%B3%BD%E6%B4%BB%E5%8B%95%E8%BE%A6%E6%B3%95%E4%B8%80%E4%BB%BD.pdf",
+        "quote": "大專社會組：大專院校之學生，或年滿18 歲的社會人士，均可參加。"
+      },
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26502/115120000611_1_2026%E5%B9%B4%E5%85%A8%E6%B0%91e%E5%8C%96%E8%B3%87%E8%A8%8A%E9%81%8B%E5%8B%95%E6%9C%83%E7%A7%8B%E5%AD%A3%E8%B3%BD%E6%B4%BB%E5%8B%95%E8%BE%A6%E6%B3%95%E4%B8%80%E4%BB%BD.pdf",
+        "quote": "個人報名：個人報名須註冊為「考生會員」，登入後進行報名。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "other",
+      "label": "校園賽截止",
+      "date": "2026-11-08",
+      "time": null,
+      "original": "115 年11 月08 日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26502/115120000611_1_2026%E5%B9%B4%E5%85%A8%E6%B0%91e%E5%8C%96%E8%B3%87%E8%A8%8A%E9%81%8B%E5%8B%95%E6%9C%83%E7%A7%8B%E5%AD%A3%E8%B3%BD%E6%B4%BB%E5%8B%95%E8%BE%A6%E6%B3%95%E4%B8%80%E4%BB%BD.pdf",
+          "quote": "校園賽：競賽期間即日起至115 年11 月08 日止"
+        }
+      ]
+    },
+    {
+      "kind": "registration_deadline",
+      "label": "報名截止",
+      "date": "2026-11-08",
+      "time": null,
+      "original": "115 年11 月08 日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26502/115120000611_1_2026%E5%B9%B4%E5%85%A8%E6%B0%91e%E5%8C%96%E8%B3%87%E8%A8%8A%E9%81%8B%E5%8B%95%E6%9C%83%E7%A7%8B%E5%AD%A3%E8%B3%BD%E6%B4%BB%E5%8B%95%E8%BE%A6%E6%B3%95%E4%B8%80%E4%BB%BD.pdf",
+          "quote": "一、報名時間：報名即日起至115 年11 月08 日，逾時不受理報名。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "繳費截止",
+      "date": "2026-11-08",
+      "time": null,
+      "original": "115 年11 月08 日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26502/115120000611_1_2026%E5%B9%B4%E5%85%A8%E6%B0%91e%E5%8C%96%E8%B3%87%E8%A8%8A%E9%81%8B%E5%8B%95%E6%9C%83%E7%A7%8B%E5%AD%A3%E8%B3%BD%E6%B4%BB%E5%8B%95%E8%BE%A6%E6%B3%95%E4%B8%80%E4%BB%BD.pdf",
+          "quote": "請於115 年11 月08 日前繳費完畢，逾期視同放棄。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "現場賽（宏國德霖科技大學）",
+      "date": "2026-11-14",
+      "time": null,
+      "original": "115 年11 月14 日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26502/115120000611_1_2026%E5%B9%B4%E5%85%A8%E6%B0%91e%E5%8C%96%E8%B3%87%E8%A8%8A%E9%81%8B%E5%8B%95%E6%9C%83%E7%A7%8B%E5%AD%A3%E8%B3%BD%E6%B4%BB%E5%8B%95%E8%BE%A6%E6%B3%95%E4%B8%80%E4%BB%BD.pdf",
+          "quote": "現場賽：115 年11 月14 日於新北市「宏國德霖科技大學」舉行"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "線上賽",
+      "date": "2026-11-15",
+      "time": null,
+      "original": "115 年11 月15 日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26502/115120000611_1_2026%E5%B9%B4%E5%85%A8%E6%B0%91e%E5%8C%96%E8%B3%87%E8%A8%8A%E9%81%8B%E5%8B%95%E6%9C%83%E7%A7%8B%E5%AD%A3%E8%B3%BD%E6%B4%BB%E5%8B%95%E8%BE%A6%E6%B3%95%E4%B8%80%E4%BB%BD.pdf",
+          "quote": "線上賽：115 年11 月15 日，各選手自行準備電腦及網路，線上舉行競賽"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "秋季全國賽公布排名",
+      "date": "2026-11-24",
+      "time": null,
+      "original": "115 年11 月24 日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26502/115120000611_1_2026%E5%B9%B4%E5%85%A8%E6%B0%91e%E5%8C%96%E8%B3%87%E8%A8%8A%E9%81%8B%E5%8B%95%E6%9C%83%E7%A7%8B%E5%AD%A3%E8%B3%BD%E6%B4%BB%E5%8B%95%E8%BE%A6%E6%B3%95%E4%B8%80%E4%BB%BD.pdf",
+          "quote": "全國賽：於115 年11 月24 日公佈排名"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "校園賽（團體單位申請，單科 20 人以上或二科各 10 人以上）",
+      "what": "在校內以電腦完成所選科目測驗，由學校上傳成績",
+      "how": "onsite"
+    },
+    {
+      "stage": "現場賽",
+      "what": "到宏國德霖科技大學以電腦完成所選科目測驗",
+      "how": "onsite"
+    },
+    {
+      "stage": "線上賽",
+      "what": "自備電腦及安裝 MEET 全程監看的行動裝置，依安排時間上線測驗",
+      "how": "online"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "現場賽：新北市宏國德霖科技大學；線上賽：各選手自備電腦線上應試；校園賽：於校內進行",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26502/115120000611_1_2026%E5%B9%B4%E5%85%A8%E6%B0%91e%E5%8C%96%E8%B3%87%E8%A8%8A%E9%81%8B%E5%8B%95%E6%9C%83%E7%A7%8B%E5%AD%A3%E8%B3%BD%E6%B4%BB%E5%8B%95%E8%BE%A6%E6%B3%95%E4%B8%80%E4%BB%BD.pdf",
+        "quote": "現場賽：115 年11 月14 日於新北市「宏國德霖科技大學」舉行"
+      },
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26502/115120000611_1_2026%E5%B9%B4%E5%85%A8%E6%B0%91e%E5%8C%96%E8%B3%87%E8%A8%8A%E9%81%8B%E5%8B%95%E6%9C%83%E7%A7%8B%E5%AD%A3%E8%B3%BD%E6%B4%BB%E5%8B%95%E8%BE%A6%E6%B3%95%E4%B8%80%E4%BB%BD.pdf",
+        "quote": "(二)線上賽：需於網站完成報名。選手需準備電腦及行動裝置(安裝MEET 軟體全程監看)，依主辦單位安排時間上線考試。"
+      },
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26502/115120000611_1_2026%E5%B9%B4%E5%85%A8%E6%B0%91e%E5%8C%96%E8%B3%87%E8%A8%8A%E9%81%8B%E5%8B%95%E6%9C%83%E7%A7%8B%E5%AD%A3%E8%B3%BD%E6%B4%BB%E5%8B%95%E8%BE%A6%E6%B3%95%E4%B8%80%E4%BB%BD.pdf",
+        "quote": "校園賽於校內完成比賽後上傳成績，主辦單位在統一公告成績。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "required",
+    "amount": "核心能力素養類、視窗程式軟體核心技能類每人每類別 500 元；視窗程式軟體專業技能類每人每類別 800 元；(EAST-VOC)英語詞彙能力檢測每人 800 元；殘障人士檢附證明文件得免費參加",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26502/115120000611_1_2026%E5%B9%B4%E5%85%A8%E6%B0%91e%E5%8C%96%E8%B3%87%E8%A8%8A%E9%81%8B%E5%8B%95%E6%9C%83%E7%A7%8B%E5%AD%A3%E8%B3%BD%E6%B4%BB%E5%8B%95%E8%BE%A6%E6%B3%95%E4%B8%80%E4%BB%BD.pdf",
+        "quote": "參加核心能力素養類、視窗程式軟體核心技能類：每人每類別NT$ 500元。"
+      },
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26502/115120000611_1_2026%E5%B9%B4%E5%85%A8%E6%B0%91e%E5%8C%96%E8%B3%87%E8%A8%8A%E9%81%8B%E5%8B%95%E6%9C%83%E7%A7%8B%E5%AD%A3%E8%B3%BD%E6%B4%BB%E5%8B%95%E8%BE%A6%E6%B3%95%E4%B8%80%E4%BB%BD.pdf",
+        "quote": "參加視窗程式軟體專業技能類：每人每類別NT$ 800 元。"
+      },
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26502/115120000611_1_2026%E5%B9%B4%E5%85%A8%E6%B0%91e%E5%8C%96%E8%B3%87%E8%A8%8A%E9%81%8B%E5%8B%95%E6%9C%83%E7%A7%8B%E5%AD%A3%E8%B3%BD%E6%B4%BB%E5%8B%95%E8%BE%A6%E6%B3%95%E4%B8%80%E4%BB%BD.pdf",
+        "quote": "(EAST-VOC)英語詞彙能力檢測：每人NT$ 800 元。"
+      },
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26502/115120000611_1_2026%E5%B9%B4%E5%85%A8%E6%B0%91e%E5%8C%96%E8%B3%87%E8%A8%8A%E9%81%8B%E5%8B%95%E6%9C%83%E7%A7%8B%E5%AD%A3%E8%B3%BD%E6%B4%BB%E5%8B%95%E8%BE%A6%E6%B3%95%E4%B8%80%E4%BB%BD.pdf",
+        "quote": "凡殘障人士得免費參加競賽（須檢附證明文件）。"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "每位參賽選手獲「參賽證明」電子檔；校園賽各類別成績前 20% 獲獎狀電子檔（前三名列名次，第四名起列優勝）；秋季全國賽各科組前 10 名獲全國賽獎狀及指導狀電子檔；成績合格者免費獲「認證合格證書」電子檔。紙本證明每張另付 200 元工本費。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26502/115120000611_1_2026%E5%B9%B4%E5%85%A8%E6%B0%91e%E5%8C%96%E8%B3%87%E8%A8%8A%E9%81%8B%E5%8B%95%E6%9C%83%E7%A7%8B%E5%AD%A3%E8%B3%BD%E6%B4%BB%E5%8B%95%E8%BE%A6%E6%B3%95%E4%B8%80%E4%BB%BD.pdf",
+        "quote": "每位參賽選手憑成績，皆可獲「參賽證明」電子檔。"
+      },
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26502/115120000611_1_2026%E5%B9%B4%E5%85%A8%E6%B0%91e%E5%8C%96%E8%B3%87%E8%A8%8A%E9%81%8B%E5%8B%95%E6%9C%83%E7%A7%8B%E5%AD%A3%E8%B3%BD%E6%B4%BB%E5%8B%95%E8%BE%A6%E6%B3%95%E4%B8%80%E4%BB%BD.pdf",
+        "quote": "校園賽各類別成績取前20%給予獎狀電子檔，排名前三位以名次排名，第四位起列優勝，校園賽得獎者才可列入全國賽排名。"
+      },
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26502/115120000611_1_2026%E5%B9%B4%E5%85%A8%E6%B0%91e%E5%8C%96%E8%B3%87%E8%A8%8A%E9%81%8B%E5%8B%95%E6%9C%83%E7%A7%8B%E5%AD%A3%E8%B3%BD%E6%B4%BB%E5%8B%95%E8%BE%A6%E6%B3%95%E4%B8%80%E4%BB%BD.pdf",
+        "quote": "秋季全國賽將各類科成績整合排名，取各科組前10 名給予全國賽獎狀及指導狀電子檔。"
+      },
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26502/115120000611_1_2026%E5%B9%B4%E5%85%A8%E6%B0%91e%E5%8C%96%E8%B3%87%E8%A8%8A%E9%81%8B%E5%8B%95%E6%9C%83%E7%A7%8B%E5%AD%A3%E8%B3%BD%E6%B4%BB%E5%8B%95%E8%BE%A6%E6%B3%95%E4%B8%80%E4%BB%BD.pdf",
+        "quote": "成績合格者可免費獲得「認證合格證書」電子檔"
+      },
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26502/115120000611_1_2026%E5%B9%B4%E5%85%A8%E6%B0%91e%E5%8C%96%E8%B3%87%E8%A8%8A%E9%81%8B%E5%8B%95%E6%9C%83%E7%A7%8B%E5%AD%A3%E8%B3%BD%E6%B4%BB%E5%8B%95%E8%BE%A6%E6%B3%95%E4%B8%80%E4%BB%BD.pdf",
+        "quote": "各項證書、獎狀皆為電子檔，如需紙本證明，每張需另付200 元工本費。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26502/115120000611_1_2026%E5%B9%B4%E5%85%A8%E6%B0%91e%E5%8C%96%E8%B3%87%E8%A8%8A%E9%81%8B%E5%8B%95%E6%9C%83%E7%A7%8B%E5%AD%A3%E8%B3%BD%E6%B4%BB%E5%8B%95%E8%BE%A6%E6%B3%95%E4%B8%80%E4%BB%BD.pdf"
+      }
+    ]
+  },
+  "links": {
+    "official": "http://www.testcenter.org.tw",
+    "rules": [
+      {
+        "title": "2026年全民e化資訊運動會秋季賽活動辦法",
+        "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26502/115120000611_1_2026%E5%B9%B4%E5%85%A8%E6%B0%91e%E5%8C%96%E8%B3%87%E8%A8%8A%E9%81%8B%E5%8B%95%E6%9C%83%E7%A7%8B%E5%AD%A3%E8%B3%BD%E6%B4%BB%E5%8B%95%E8%BE%A6%E6%B3%95%E4%B8%80%E4%BB%BD.pdf"
+      }
+    ],
+    "registration": "http://www.testcenter.org.tw"
+  },
+  "found_via": [
+    {
+      "name": "南港高工 重要資訊",
+      "url": "https://www.nkhs.tp.edu.tw/ischool/public/news_view/show.php?nid=35011"
+    },
+    {
+      "name": "金門高中 最新消息",
+      "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=22455"
+    },
+    {
+      "name": "苗栗農工 處室公告",
+      "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26797"
+    },
+    {
+      "name": "暨大附中 學生研習與競賽活動",
+      "url": "https://www.pshs.ntct.edu.tw/ischool/public/news_view/show.php?nid=33848"
+    },
+    {
+      "name": "鳳新高中 營隊競賽",
+      "url": "https://www.fhsh.khc.edu.tw/aa/news-aa/20261013/46722"
+    },
+    {
+      "name": "新竹高商 消息公佈欄",
+      "url": "https://www.hccvs.hc.edu.tw/ischool/public/news_view/show.php?nid=26502"
+    },
+    {
+      "name": "苗栗高中 學生校外營隊、活動、比賽",
+      "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=28329"
+    },
+    {
+      "name": "臺南女中 學生競賽",
+      "url": "https://www.tngs.tn.edu.tw/2026/10/12/%e5%ae%8f%e5%9c%8b%e5%be%b7%e9%9c%96%e7%a7%91%e6%8a%80%e5%a4%a7%e5%ad%b8%e8%be%a6%e7%90%86%e3%80%8c2026%e5%b9%b4%e5%85%a8%e6%b0%91e%e5%8c%96%e8%b3%87%e8%a8%8a%e9%81%8b%e5%8b%95%e6%9c%83%e3%80%8d-2/"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-25",
+    "method": "single",
+    "unread": [],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-25",
+  "level": "checked",
+  "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-quanmin-e-info-games-autumn/",
+  "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-quanmin-e-info-games-autumn.md"
+}

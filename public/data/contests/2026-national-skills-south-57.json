@@ -3,7 +3,7 @@
   "id": "2026-national-skills-south-57",
   "title": "第57屆全國技能競賽南區分區技能競賽",
   "edition": "第 57 屆",
-  "summary": "南區 7 縣市提名單位推薦的選手擇一職類，到場以實地技能操作競賽，優勝者晉級全國技能競賽。",
+  "summary": "南區 7 縣市單位推薦的選手，分青年組與青少年組，依職類到場實地操作技能競賽。",
   "organizers": [
     {
       "name": "勞動部",
@@ -90,7 +90,7 @@
       },
       {
         "url": "https://ws.wda.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMzExL3JlbGZpbGUvOTMzOC8xOTY1MjkvMjZkMzA1NGUtOGJhMC00ZmE2LWE3ZjMtN2E1ZDQ0Y2Q5NWQ3LnBkZg%3d%3d&n=MDEu6ZmE5Lu2NC3nrKw1N%2bWxhuWFqOWci%2baKgOiDveertuizveWNl%2bWNgOWIhuWNgOaKgOiDveertuizveewoeeroC5wZGY%3d",
-        "quote": "選手由單一提名單位推薦，提名單位限設於嘉義縣、嘉義市、臺南市、高雄市、屏東縣、臺東縣、澎湖縣等7 縣（市）行政轄區內"
+        "quote": "選手由單一提名單位推薦，提名單位限設於嘉義縣、嘉義市、臺南市、高雄市、屏東縣、臺東縣、澎湖縣等7 縣（市）行政轄區內："
       },
       {
         "url": "https://ws.wda.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMzExL3JlbGZpbGUvOTMzOC8xOTY1MjkvMjZkMzA1NGUtOGJhMC00ZmE2LWE3ZjMtN2E1ZDQ0Y2Q5NWQ3LnBkZg%3d%3d&n=MDEu6ZmE5Lu2NC3nrKw1N%2bWxhuWFqOWci%2baKgOiDveertuizveWNl%2bWNgOWIhuWNgOaKgOiDveertuizveewoeeroC5wZGY%3d",
@@ -98,7 +98,15 @@
       },
       {
         "url": "https://ws.wda.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMzExL3JlbGZpbGUvOTMzOC8xOTY1MjkvMjZkMzA1NGUtOGJhMC00ZmE2LWE3ZjMtN2E1ZDQ0Y2Q5NWQ3LnBkZg%3d%3d&n=MDEu6ZmE5Lu2NC3nrKw1N%2bWxhuWFqOWci%2baKgOiDveertuizveWNl%2bWNgOWIhuWNgOaKgOiDveertuizveewoeeroC5wZGY%3d",
-        "quote": "青少年組共計辦理CAD 機械設計製圖、商務軟體設計、電子、網頁技術、電氣裝配、工業控制、漆作裝潢、自主移動機器人(2 人1 組)"
+        "quote": "提名單位為機關、團體、公司行號及廠商時，需加附農民保險卡影印本或由提名單位投保之勞保證明資料(個人勞保明細表影印本)；"
+      },
+      {
+        "url": "https://ws.wda.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMzExL3JlbGZpbGUvOTMzOC8xOTY1MjkvMjZkMzA1NGUtOGJhMC00ZmE2LWE3ZjMtN2E1ZDQ0Y2Q5NWQ3LnBkZg%3d%3d&n=MDEu6ZmE5Lu2NC3nrKw1N%2bWxhuWFqOWci%2baKgOiDveertuizveWNl%2bWNgOWIhuWNgOaKgOiDveertuizveewoeeroC5wZGY%3d",
+        "quote": "學校設有進修部者，每職類得增額提名1 人(組)參加，其中進修部相關科系學生至少應有1 人(組)。"
+      },
+      {
+        "url": "https://ws.wda.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMzExL3JlbGZpbGUvOTMzOC8xOTY1MjkvMjZkMzA1NGUtOGJhMC00ZmE2LWE3ZjMtN2E1ZDQ0Y2Q5NWQ3LnBkZg%3d%3d&n=MDEu6ZmE5Lu2NC3nrKw1N%2bWxhuWFqOWci%2baKgOiDveertuizveWNl%2bWNgOWIhuWNgOaKgOiDveertuizveewoeeroC5wZGY%3d",
+        "quote": "青年組共計辦理工業機械、資通訊網路建置、集體創作(2 人1 組)、機電整合(2 人1 組)"
       }
     ]
   },
@@ -108,21 +116,21 @@
       "label": "網路報名截止",
       "date": "2026-12-07",
       "time": "24:00",
-      "original": "115年11月24日(二)上午9時至12月7日(一)24時止",
+      "original": "115 年12 月7 日(星期一)24 時",
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://yct168.wda.gov.tw/News_Content.aspx?n=3457B06B7217EC61&sms=9F8CD839BDD2F62F&s=9A67E9544D330F61",
-          "quote": "一、報名時間：115年11月24日(二)上午9時至12月7日(一)24時止。"
+          "url": "https://ws.wda.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMzExL3JlbGZpbGUvOTMzOC8xOTY1MjkvMjZkMzA1NGUtOGJhMC00ZmE2LWE3ZjMtN2E1ZDQ0Y2Q5NWQ3LnBkZg%3d%3d&n=MDEu6ZmE5Lu2NC3nrKw1N%2bWxhuWFqOWci%2baKgOiDveertuizveWNl%2bWNgOWIhuWNgOaKgOiDveertuizveewoeeroC5wZGY%3d",
+          "quote": "自民國115 年11 月24 日(星期二)上午9 時起至115 年12 月7 日(星期一)24 時止。"
         }
       ]
     },
     {
-      "kind": "other",
-      "label": "書面報名表件掛號寄出截止（郵戳為憑）",
+      "kind": "registration_deadline",
+      "label": "書面報名資料掛號寄出截止（郵戳為憑）",
       "date": "2026-12-08",
       "time": null,
-      "original": "115年12月8日(二)前掛號寄出(含當日)",
+      "original": "115年12月8日(二)",
       "basis": "quote",
       "evidence": [
         {
@@ -133,10 +141,10 @@
     },
     {
       "kind": "other",
-      "label": "青年組中餐烹飪、西點製作、麵包製作技術士證影本補正截止",
+      "label": "青年組中餐烹飪、西點製作、麵包製作選手技術士證影本補正截止",
       "date": "2026-12-15",
       "time": null,
-      "original": "115 年12 月15 日(星期二)前補正",
+      "original": "115 年12 月15 日(星期二)",
       "basis": "quote",
       "evidence": [
         {
@@ -150,7 +158,7 @@
       "label": "報名費補正資料截止",
       "date": "2026-12-28",
       "time": null,
-      "original": "115年12月28日(一)前補正",
+      "original": "115年12月28日(一)",
       "basis": "quote",
       "evidence": [
         {
@@ -160,16 +168,58 @@
       ]
     },
     {
-      "kind": "final_event",
-      "label": "青少年組報到、熟悉場地與競賽（3月22日至23日）",
-      "date": "2027-03-22",
+      "kind": "other",
+      "label": "團體職類選手因故不能參賽之遞補申請截止",
+      "date": "2027-02-19",
       "time": null,
-      "original": "116 年3 月22 日(星期一)報到、熟悉場地、競賽；3 月23 日(星期二)競賽及評分",
+      "original": "116 年2 月19 日",
       "basis": "quote",
       "evidence": [
         {
           "url": "https://ws.wda.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMzExL3JlbGZpbGUvOTMzOC8xOTY1MjkvMjZkMzA1NGUtOGJhMC00ZmE2LWE3ZjMtN2E1ZDQ0Y2Q5NWQ3LnBkZg%3d%3d&n=MDEu6ZmE5Lu2NC3nrKw1N%2bWxhuWFqOWci%2baKgOiDveertuizveWNl%2bWNgOWIhuWNgOaKgOiDveertuizveewoeeroC5wZGY%3d",
-          "quote": "116 年3 月22 日(星期一)報到、熟悉場地、競賽；3 月23 日(星期二)競賽及評分，3 月24 日(星期三)上午10 時30 分公告英雄榜"
+          "quote": "得於競賽30 日前(116 年2 月19 日前)，向承辦單位申請再推薦符合資格選手遞補，但以一人次為限。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "無法參賽選手書面請假截止",
+      "date": "2027-03-08",
+      "time": null,
+      "original": "116 年3 月8 日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://ws.wda.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMzExL3JlbGZpbGUvOTMzOC8xOTY1MjkvMjZkMzA1NGUtOGJhMC00ZmE2LWE3ZjMtN2E1ZDQ0Y2Q5NWQ3LnBkZg%3d%3d&n=MDEu6ZmE5Lu2NC3nrKw1N%2bWxhuWFqOWci%2baKgOiDveertuizveWNl%2bWNgOWIhuWNgOaKgOiDveertuizveewoeeroC5wZGY%3d",
+          "quote": "應於競賽2 週前(即116 年3 月8 日前)以書面向南區承辦單位-勞動部勞動力發展署雲嘉南分署辦理請假"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "青少年組報到、熟悉場地及競賽",
+      "date": "2027-03-22",
+      "time": null,
+      "original": "116年3月22日(一)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://yct168.wda.gov.tw/News_Content.aspx?n=3457B06B7217EC61&sms=9F8CD839BDD2F62F&s=9A67E9544D330F61",
+          "quote": "116年3月22日(一)：報到、熟悉場地及競賽"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "青少年組競賽及評分",
+      "date": "2027-03-23",
+      "time": null,
+      "original": "116年3月23日(二)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://yct168.wda.gov.tw/News_Content.aspx?n=3457B06B7217EC61&sms=9F8CD839BDD2F62F&s=9A67E9544D330F61",
+          "quote": "116年3月23日(二)：競賽及評分"
         }
       ]
     },
@@ -178,26 +228,40 @@
       "label": "青少年組公告英雄榜",
       "date": "2027-03-24",
       "time": "10:30",
-      "original": "3 月24 日(星期三)上午10 時30 分公告英雄榜",
+      "original": "116 年3 月24 日(星期三)上午10 時30 分",
       "basis": "quote",
       "evidence": [
         {
           "url": "https://ws.wda.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMzExL3JlbGZpbGUvOTMzOC8xOTY1MjkvMjZkMzA1NGUtOGJhMC00ZmE2LWE3ZjMtN2E1ZDQ0Y2Q5NWQ3LnBkZg%3d%3d&n=MDEu6ZmE5Lu2NC3nrKw1N%2bWxhuWFqOWci%2baKgOiDveertuizveWNl%2bWNgOWIhuWNgOaKgOiDveertuizveewoeeroC5wZGY%3d",
-          "quote": "116 年3 月22 日(星期一)報到、熟悉場地、競賽；3 月23 日(星期二)競賽及評分，3 月24 日(星期三)上午10 時30 分公告英雄榜"
+          "quote": "青少年組-116 年3 月24 日(星期三)上午10 時30 分於勞動部勞動力發展署技能檢定中心網站"
         }
       ]
     },
     {
       "kind": "final_event",
-      "label": "青年組報到、熟悉場地與競賽（3月25日至26日）",
+      "label": "青年組報到、熟悉場地及競賽",
       "date": "2027-03-25",
       "time": null,
-      "original": "116 年3 月25 日(星期四)報到、熟悉場地、競賽；3 月26 日(星期五)競賽及評分",
+      "original": "116年3月25日(四)",
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://ws.wda.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMzExL3JlbGZpbGUvOTMzOC8xOTY1MjkvMjZkMzA1NGUtOGJhMC00ZmE2LWE3ZjMtN2E1ZDQ0Y2Q5NWQ3LnBkZg%3d%3d&n=MDEu6ZmE5Lu2NC3nrKw1N%2bWxhuWFqOWci%2baKgOiDveertuizveWNl%2bWNgOWIhuWNgOaKgOiDveertuizveewoeeroC5wZGY%3d",
-          "quote": "116 年3 月25 日(星期四)報到、熟悉場地、競賽；3 月26 日(星期五)競賽及評分，3 月27 日(星期六)上午10 時30 分公告英雄榜"
+          "url": "https://yct168.wda.gov.tw/News_Content.aspx?n=3457B06B7217EC61&sms=9F8CD839BDD2F62F&s=9A67E9544D330F61",
+          "quote": "116年3月25日(四)：報到、熟悉場地及競賽"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "青年組競賽及評分",
+      "date": "2027-03-26",
+      "time": null,
+      "original": "116年3月26日(五)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://yct168.wda.gov.tw/News_Content.aspx?n=3457B06B7217EC61&sms=9F8CD839BDD2F62F&s=9A67E9544D330F61",
+          "quote": "116年3月26日(五)：競賽及評分"
         }
       ]
     },
@@ -206,12 +270,40 @@
       "label": "青年組公告英雄榜",
       "date": "2027-03-27",
       "time": "10:30",
-      "original": "3 月27 日(星期六)上午10 時30 分公告英雄榜",
+      "original": "116 年3 月27 日(星期六)上午10 時30 分",
       "basis": "quote",
       "evidence": [
         {
           "url": "https://ws.wda.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMzExL3JlbGZpbGUvOTMzOC8xOTY1MjkvMjZkMzA1NGUtOGJhMC00ZmE2LWE3ZjMtN2E1ZDQ0Y2Q5NWQ3LnBkZg%3d%3d&n=MDEu6ZmE5Lu2NC3nrKw1N%2bWxhuWFqOWci%2baKgOiDveertuizveWNl%2bWNgOWIhuWNgOaKgOiDveertuizveewoeeroC5wZGY%3d",
-          "quote": "116 年3 月25 日(星期四)報到、熟悉場地、競賽；3 月26 日(星期五)競賽及評分，3 月27 日(星期六)上午10 時30 分公告英雄榜"
+          "quote": "青年組-116 年3 月27 日(星期六)上午10 時30 分於勞動部勞動力發展署技能檢定中心網站"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "獎狀及獎牌寄至提名單位",
+      "date": "2027-04-09",
+      "time": null,
+      "original": "116 年4 月9 日(星期五)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://ws.wda.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMzExL3JlbGZpbGUvOTMzOC8xOTY1MjkvMjZkMzA1NGUtOGJhMC00ZmE2LWE3ZjMtN2E1ZDQ0Y2Q5NWQ3LnBkZg%3d%3d&n=MDEu6ZmE5Lu2NC3nrKw1N%2bWxhuWFqOWci%2baKgOiDveertuizveWNl%2bWNgOWIhuWNgOaKgOiDveertuizveewoeeroC5wZGY%3d",
+          "quote": "由本分署將獎狀及獎牌於116 年4 月9 日(星期五)以前統一寄送至提名單位，"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "優勝選手繳交獎金領據截止",
+      "date": "2027-04-09",
+      "time": null,
+      "original": "116 年4 月9 日(星期五)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://ws.wda.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMzExL3JlbGZpbGUvOTMzOC8xOTY1MjkvMjZkMzA1NGUtOGJhMC00ZmE2LWE3ZjMtN2E1ZDQ0Y2Q5NWQ3LnBkZg%3d%3d&n=MDEu6ZmE5Lu2NC3nrKw1N%2bWxhuWFqOWci%2baKgOiDveertuizveWNl%2bWNgOWIhuWNgOaKgOiDveertuizveewoeeroC5wZGY%3d",
+          "quote": "請選手親筆簽名填妥資料並黏貼選手本人之帳號存摺封面影本，於116 年4 月9 日"
         }
       ]
     }
@@ -219,23 +311,23 @@
   "deliverables": [
     {
       "stage": "網路報名",
-      "what": "選手基本資料、提名及培訓單位與指導老師資料，以及 2 年內正面半身照片檔",
+      "what": "參賽基本資料與 2 年內正面半身照片檔",
       "how": "online"
     },
     {
       "stage": "書面報名",
-      "what": "蓋提名單位印信的報名表、身分證與學生證（或勞保明細）影本、指定職類的丙級證照或學科及格成績單、報名費郵政匯票及選手競賽通知信封",
+      "what": "蓋提名單位印信的報名表、證明文件影本、報名費郵政匯票、選手通知信封，掛號寄出",
       "how": "mail"
     },
     {
       "stage": "競賽",
-      "what": "依各職類試題實地技能操作；報名人數超過場地負荷的職類先辦筆試或技能測驗",
+      "what": "依各職類試題實地技能操作；報名人數超過場地容量的職類先辦筆試或技能測驗",
       "how": "onsite"
     }
   ],
   "attendance": {
     "value": "all",
-    "where": "依職類於勞動部勞動力發展署雲嘉南分署（台南市官田區）及台南、高雄的協辦學校等場地",
+    "where": "勞動部勞動力發展署雲嘉南分署（台南市官田區）及台南、高雄的協辦學校，依職類分場地",
     "basis": "quote",
     "evidence": [
       {
@@ -259,12 +351,12 @@
     "evidence": [
       {
         "url": "https://yct168.wda.gov.tw/News_Content.aspx?n=3457B06B7217EC61&sms=9F8CD839BDD2F62F&s=8CBD3FC433C7D851",
-        "quote": "(1)競賽報名費用為每人新台幣400元，請至中華郵政購買「郵政匯票」(受款人為「勞動部勞動力發展署雲嘉南分署」)"
+        "quote": "(1)競賽報名費用為每人新台幣400元，請至中華郵政購買「郵政匯票」(受款人為「勞動部勞動力發展署雲嘉南分署」)；"
       }
     ]
   },
   "prizes": {
-    "text": "每職類取前 5 名優勝（參賽不足 10 人或 10 組時取參賽數二分之一），參賽逾 10 人或組時得取佳作。青年組第 1 名獎金 1 萬 2 仟元、第 2 名 6 仟元、第 3 名 4 仟元；青少年組第 1 名 3 仟元、第 2 名 1 仟 5 佰元、第 3 名 1 仟元；前 3 名另頒金、銀、銅牌，前 5 名及佳作皆頒獎狀。前 3 名 3 年內參加相關職類丙級或單一級技能檢定，得申請免術科測試。",
+    "text": "每職類取前 5 名優勝（參賽不足 10 人或組時取半數，無條件進位），參賽超過 10 人或組時另取佳作。青年組第 1 名獎金 12,000 元、第 2 名 6,000 元、第 3 名 4,000 元，青少年組第 1 名 3,000 元、第 2 名 1,500 元、第 3 名 1,000 元，前 3 名另有金、銀、銅牌與獎狀；第 4、5 名及佳作頒獎狀。各職類前 5 名晉級全國技能競賽，前 3 名 3 年內參加相關職類丙級或單一級技能檢定可申請免術科測試。",
     "basis": "quote",
     "evidence": [
       {
@@ -305,12 +397,16 @@
       },
       {
         "url": "https://ws.wda.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMzExL3JlbGZpbGUvOTMzOC8xOTY1MjkvMjZkMzA1NGUtOGJhMC00ZmE2LWE3ZjMtN2E1ZDQ0Y2Q5NWQ3LnBkZg%3d%3d&n=MDEu6ZmE5Lu2NC3nrKw1N%2bWxhuWFqOWci%2baKgOiDveertuizveWNl%2bWNgOWIhuWNgOaKgOiDveertuizveewoeeroC5wZGY%3d",
+        "quote": "當年度分區技能競賽各區承辦單位推薦每一職類之前5 名晉級全國技能競賽"
+      },
+      {
+        "url": "https://ws.wda.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMzExL3JlbGZpbGUvOTMzOC8xOTY1MjkvMjZkMzA1NGUtOGJhMC00ZmE2LWE3ZjMtN2E1ZDQ0Y2Q5NWQ3LnBkZg%3d%3d&n=MDEu6ZmE5Lu2NC3nrKw1N%2bWxhuWFqOWci%2baKgOiDveertuizveWNl%2bWNgOWIhuWNgOaKgOiDveertuizveewoeeroC5wZGY%3d",
         "quote": "分區技能競賽獲得前3 名選手，自獲獎日起3 年內，參加相關職類丙級或單一級技能檢定時，得向主辦單位申請技能檢定免術科測試證明。"
       }
     ]
   },
   "ai_policy": {
-    "value": "allowed",
+    "value": "unknown",
     "basis": "quote",
     "evidence": [
       {
@@ -319,7 +415,7 @@
       },
       {
         "url": "https://ws.wda.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMzExL3JlbGZpbGUvOTMzOC8xOTY1MjkvMjZkMzA1NGUtOGJhMC00ZmE2LWE3ZjMtN2E1ZDQ0Y2Q5NWQ3LnBkZg%3d%3d&n=MDEu6ZmE5Lu2NC3nrKw1N%2bWxhuWFqOWci%2baKgOiDveertuizveWNl%2bWNgOWIhuWNgOaKgOiDveertuizveewoeeroC5wZGY%3d",
-        "quote": "另包含運用 AI 輔助工具生成與評估早期設計方案"
+        "quote": "AI 在3D 建模的輔助應用。"
       }
     ]
   },
@@ -327,7 +423,7 @@
     "official": "https://yct168.wda.gov.tw/News_Content.aspx?n=3457B06B7217EC61&sms=9F8CD839BDD2F62F&s=9A67E9544D330F61",
     "rules": [
       {
-        "title": "第57屆全國技能競賽南區分區技能競賽簡章（PDF）",
+        "title": "第57屆全國技能競賽南區分區技能競賽簡章",
         "url": "https://ws.wda.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMzExL3JlbGZpbGUvOTMzOC8xOTY1MjkvMjZkMzA1NGUtOGJhMC00ZmE2LWE3ZjMtN2E1ZDQ0Y2Q5NWQ3LnBkZg%3d%3d&n=MDEu6ZmE5Lu2NC3nrKw1N%2bWxhuWFqOWci%2baKgOiDveertuizveWNl%2bWNgOWIhuWNgOaKgOiDveertuizveewoeeroC5wZGY%3d"
       }
     ],
@@ -335,15 +431,19 @@
   },
   "found_via": [
     {
+      "name": "ws.wda.gov.tw",
+      "url": "https://ws.wda.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMzExL3JlbGZpbGUvOTMzOC8xOTY1MjkvMjZkMzA1NGUtOGJhMC00ZmE2LWE3ZjMtN2E1ZDQ0Y2Q5NWQ3LnBkZg%3d%3d&n=MDEu6ZmE5Lu2NC3nrKw1N%2bWxhuWFqOWci%2baKgOiDveertuizveWNl%2bWNgOWIhuWNgOaKgOiDveertuizveewoeeroC5wZGY%3d"
+    },
+    {
       "name": "鳳新高中 營隊競賽",
       "url": "https://www.fhsh.khc.edu.tw/aa/news-aa/20261103/47169"
     }
   ],
   "verification": {
-    "last_verified": "2026-11-24",
+    "last_verified": "2026-11-25",
     "method": "dual",
     "unread": [
-      "技能檢定中心技能競賽專區網站公告的各職類競賽試題"
+      "各職類競賽試題（技能檢定中心技能競賽專區）"
     ],
     "note": null,
     "readers": [
@@ -352,7 +452,7 @@
     ]
   },
   "first_seen": "2026-11-24",
-  "updated": "2026-11-24",
+  "updated": "2026-11-25",
   "level": "verified",
   "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-national-skills-south-57/",
   "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-national-skills-south-57.md"

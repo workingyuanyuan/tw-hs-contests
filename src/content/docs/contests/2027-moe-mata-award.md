@@ -3,7 +3,7 @@ title: "第13屆MATA獎–Butaso！努力專注！115年-116年大專校院暨�
 description: "大專校院學生繳交原住民族主題影音作品，高級中等學校學生組隊繳交拍片企劃書參賽。"
 appliesTo: "第13屆 這一屆"
 caveat: "日期與時間都是臺灣時間。"
-lastVerified: 2026-11-24
+lastVerified: 2026-11-25
 kind: "contest"
 deadline: "2027-06-07"
 sources:

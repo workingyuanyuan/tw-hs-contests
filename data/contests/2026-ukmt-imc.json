@@ -1,13 +1,21 @@
 {
   "schema": 1,
   "id": "2026-ukmt-imc",
-  "title": "UKMT-IMC",
+  "title": "2026 UKMT-IMC 英國中級數學挑戰",
   "edition": "2026",
-  "summary": "10 年級及以下學生作答英國 UKMT 數學競賽試題，由英國 UKMT 組委會統一評獎。",
+  "summary": "10 年級及以下學生參加英國 UKMT 中級數學挑戰，以數學筆試與全球考生比較排名取獎。",
   "organizers": [
     {
-      "name": "中華數學協會",
+      "name": "英國UKMT(United Kingdom Mathematics Trust)",
       "role": "主辦"
+    },
+    {
+      "name": "中華數學協會",
+      "role": "承辦"
+    },
+    {
+      "name": "OLPC 數學俱樂部",
+      "role": "承辦"
     }
   ],
   "categories": [
@@ -20,75 +28,223 @@
       "高中",
       "高職"
     ],
-    "division": "unknown",
+    "division": "mixed",
     "regions": [
       "全國"
     ],
-    "nomination": "unknown",
+    "nomination": "none",
     "team_min": null,
     "team_max": null,
     "teacher": "unknown",
     "basis": "quote",
     "evidence": [
       {
+        "url": "https://www.zlsh.tp.edu.tw/wp-content/uploads/doc/t9023/%E3%80%902026%20UKMT-IMC%E3%80%91%E8%8B%B1%E5%9C%8B%E4%B8%AD%E7%B4%9A%E6%95%B8%E5%AD%B8%E6%8C%91%E6%88%B0%E7%AB%B6%E8%B3%BD%E6%B4%BB%E5%8B%95%E8%A8%88%E7%95%AB%E6%9B%B8.pdf",
+        "quote": "全國各縣市之10 年級及以下之學生。(可跳級參加)"
+      },
+      {
+        "url": "https://www.zlsh.tp.edu.tw/wp-content/uploads/doc/t9023/%E3%80%902026%20UKMT-IMC%E3%80%91%E8%8B%B1%E5%9C%8B%E4%B8%AD%E7%B4%9A%E6%95%B8%E5%AD%B8%E6%8C%91%E6%88%B0%E7%AB%B6%E8%B3%BD%E6%B4%BB%E5%8B%95%E8%A8%88%E7%95%AB%E6%9B%B8.pdf",
+        "quote": "四、個人報名線上考場活動流程："
+      },
+      {
         "url": "https://www.ntsh.ntct.edu.tw/ischool/public/news_view/show.php?nid=23343",
         "quote": "本競賽為國際競賽，採用全英文試卷，參加對象為10年級及以下之學生，將由英國UKMT組委會以統一分數線進行全球評獎。"
       }
     ]
   },
-  "dates": [],
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "報名截止並完成報名費用匯款",
+      "date": "2026-01-12",
+      "time": null,
+      "original": "1/12(一)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.zlsh.tp.edu.tw/wp-content/uploads/doc/t9023/%E3%80%902026%20UKMT-IMC%E3%80%91%E8%8B%B1%E5%9C%8B%E4%B8%AD%E7%B4%9A%E6%95%B8%E5%AD%B8%E6%8C%91%E6%88%B0%E7%AB%B6%E8%B3%BD%E6%B4%BB%E5%8B%95%E8%A8%88%E7%95%AB%E6%9B%B8.pdf",
+          "quote": "1/12(一) 報名截止，學校須於截止日前將附件「UKMT-IMC 團體報名表」填寫回傳至協會，"
+        },
+        {
+          "url": "https://www.zlsh.tp.edu.tw/wp-content/uploads/doc/t9023/%E3%80%902026%20UKMT-IMC%E3%80%91%E8%8B%B1%E5%9C%8B%E4%B8%AD%E7%B4%9A%E6%95%B8%E5%AD%B8%E6%8C%91%E6%88%B0%E7%AB%B6%E8%B3%BD%E6%B4%BB%E5%8B%95%E8%A8%88%E7%95%AB%E6%9B%B8.pdf",
+          "quote": "1/12(一) 報名截止，請於截止日前填寫google 報名表單後送出、完成報名費用匯款，"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "個人報名考生陸續收到考前通知與准考證",
+      "date": "2026-01-26",
+      "time": null,
+      "original": "1/26(一)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.zlsh.tp.edu.tw/wp-content/uploads/doc/t9023/%E3%80%902026%20UKMT-IMC%E3%80%91%E8%8B%B1%E5%9C%8B%E4%B8%AD%E7%B4%9A%E6%95%B8%E5%AD%B8%E6%8C%91%E6%88%B0%E7%AB%B6%E8%B3%BD%E6%B4%BB%E5%8B%95%E8%A8%88%E7%95%AB%E6%9B%B8.pdf",
+          "quote": "1/26(一) 陸續發送考前通知、准考證"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "個人考場考試",
+      "date": "2026-01-29",
+      "time": "15:00",
+      "original": "1 月29 日(四) 15:00 ~ 16:00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.zlsh.tp.edu.tw/wp-content/uploads/doc/t9023/%E3%80%902026%20UKMT-IMC%E3%80%91%E8%8B%B1%E5%9C%8B%E4%B8%AD%E7%B4%9A%E6%95%B8%E5%AD%B8%E6%8C%91%E6%88%B0%E7%AB%B6%E8%B3%BD%E6%B4%BB%E5%8B%95%E8%A8%88%E7%95%AB%E6%9B%B8.pdf",
+          "quote": "一、活動時間：2026 年1 月29 日(四)"
+        },
+        {
+          "url": "https://www.zlsh.tp.edu.tw/wp-content/uploads/doc/t9023/%E3%80%902026%20UKMT-IMC%E3%80%91%E8%8B%B1%E5%9C%8B%E4%B8%AD%E7%B4%9A%E6%95%B8%E5%AD%B8%E6%8C%91%E6%88%B0%E7%AB%B6%E8%B3%BD%E6%B4%BB%E5%8B%95%E8%A8%88%E7%95%AB%E6%9B%B8.pdf",
+          "quote": "※時間為1 月29 日(四) 15:00 ~ 16:00。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "學校自辦考場考試（當日自選時段）",
+      "date": "2026-01-29",
+      "time": null,
+      "original": "1/29(四)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.zlsh.tp.edu.tw/wp-content/uploads/doc/t9023/%E3%80%902026%20UKMT-IMC%E3%80%91%E8%8B%B1%E5%9C%8B%E4%B8%AD%E7%B4%9A%E6%95%B8%E5%AD%B8%E6%8C%91%E6%88%B0%E7%AB%B6%E8%B3%BD%E6%B4%BB%E5%8B%95%E8%A8%88%E7%95%AB%E6%9B%B8.pdf",
+          "quote": "※不限時段，但需於1 月29 日當日完成。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "學校自辦考場將考生答題卷掃描回傳協會",
+      "date": "2026-01-30",
+      "time": null,
+      "original": "1/30(五)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.zlsh.tp.edu.tw/wp-content/uploads/doc/t9023/%E3%80%902026%20UKMT-IMC%E3%80%91%E8%8B%B1%E5%9C%8B%E4%B8%AD%E7%B4%9A%E6%95%B8%E5%AD%B8%E6%8C%91%E6%88%B0%E7%AB%B6%E8%B3%BD%E6%B4%BB%E5%8B%95%E8%A8%88%E7%95%AB%E6%9B%B8.pdf",
+          "quote": "1/30(五) 學校將考生答題卷清晰掃描後，以LINE@窗口或EMAIL 信箱傳至協會，"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "公布成績並提供獎項證書（3 月中旬）",
+      "date": null,
+      "time": null,
+      "original": "3 月中旬",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.zlsh.tp.edu.tw/wp-content/uploads/doc/t9023/%E3%80%902026%20UKMT-IMC%E3%80%91%E8%8B%B1%E5%9C%8B%E4%B8%AD%E7%B4%9A%E6%95%B8%E5%AD%B8%E6%8C%91%E6%88%B0%E7%AB%B6%E8%B3%BD%E6%B4%BB%E5%8B%95%E8%A8%88%E7%95%AB%E6%9B%B8.pdf",
+          "quote": "3 月中旬 主辦單位進行考生成績批改處理與排名取獎後，公布成績並提供對應獎項證書。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "英國中級數學奧林匹克（限通過 UKMT-IMC 者）",
+      "date": "2026-03-20",
+      "time": null,
+      "original": "3/20",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.zlsh.tp.edu.tw/wp-content/uploads/doc/t9023/%E3%80%902026%20UKMT-IMC%E3%80%91%E8%8B%B1%E5%9C%8B%E4%B8%AD%E7%B4%9A%E6%95%B8%E5%AD%B8%E6%8C%91%E6%88%B0%E7%AB%B6%E8%B3%BD%E6%B4%BB%E5%8B%95%E8%A8%88%E7%95%AB%E6%9B%B8.pdf",
+          "quote": "英國中級數學奧林匹克將在3/20 舉行，欲參加者須先參加通過UKMT-IMC。"
+        }
+      ]
+    }
+  ],
   "deliverables": [
     {
-      "stage": "競賽",
-      "what": "全英文數學試卷作答",
+      "stage": "考試（學校自辦考場、台北/新竹/台中/高雄實體考區）",
+      "what": "60 分鐘、25 題選擇題答題卷（英文試卷附中文翻譯，禁用計算機）",
       "how": "onsite"
+    },
+    {
+      "stage": "考試（線上考區，非考區縣市、東部及離島）",
+      "what": "以 ZOOM 進行的 60 分鐘、25 題選擇題考試",
+      "how": "online"
     }
   ],
   "attendance": {
     "value": "all",
-    "where": "考場（各校可申請舉辦校內考場）",
+    "where": "學校自辦考場、台北/新竹/台中/高雄實體考區，或以 ZOOM 進行的線上考區",
     "basis": "quote",
     "evidence": [
       {
-        "url": "https://www.ntsh.ntct.edu.tw/ischool/public/news_view/show.php?nid=23343",
-        "quote": "也歡迎各校舉辦校內考場，敬請聯繫競賽窗口申請。"
+        "url": "https://www.zlsh.tp.edu.tw/wp-content/uploads/doc/t9023/%E3%80%902026%20UKMT-IMC%E3%80%91%E8%8B%B1%E5%9C%8B%E4%B8%AD%E7%B4%9A%E6%95%B8%E5%AD%B8%E6%8C%91%E6%88%B0%E7%AB%B6%E8%B3%BD%E6%B4%BB%E5%8B%95%E8%A8%88%E7%95%AB%E6%9B%B8.pdf",
+        "quote": "團體報名達10 人以上，學校可申請自辦實體考場。"
+      },
+      {
+        "url": "https://www.zlsh.tp.edu.tw/wp-content/uploads/doc/t9023/%E3%80%902026%20UKMT-IMC%E3%80%91%E8%8B%B1%E5%9C%8B%E4%B8%AD%E7%B4%9A%E6%95%B8%E5%AD%B8%E6%8C%91%E6%88%B0%E7%AB%B6%E8%B3%BD%E6%B4%BB%E5%8B%95%E8%A8%88%E7%95%AB%E6%9B%B8.pdf",
+        "quote": "台北/新竹/台中/高雄實體考區（若未達10 人則改至線上考區）。"
+      },
+      {
+        "url": "https://www.zlsh.tp.edu.tw/wp-content/uploads/doc/t9023/%E3%80%902026%20UKMT-IMC%E3%80%91%E8%8B%B1%E5%9C%8B%E4%B8%AD%E7%B4%9A%E6%95%B8%E5%AD%B8%E6%8C%91%E6%88%B0%E7%AB%B6%E8%B3%BD%E6%B4%BB%E5%8B%95%E8%A8%88%E7%95%AB%E6%9B%B8.pdf",
+        "quote": "位於非考區縣市、東部及離島地區，特別開設線上考區（使用 ZOOM 程式進行）。"
       }
     ]
   },
   "fee": {
-    "value": "unknown",
-    "amount": null,
-    "basis": "unread",
-    "evidence": []
-  },
-  "prizes": {
-    "text": "由英國 UKMT 組委會以統一分數線進行全球評獎，獎項有金獎證書。",
+    "value": "required",
+    "amount": "學校自辦考場每位考生 900 元",
     "basis": "quote",
     "evidence": [
       {
-        "url": "https://www.ntsh.ntct.edu.tw/ischool/public/news_view/show.php?nid=23343",
-        "quote": "將由英國UKMT組委會以統一分數線進行全球評獎。"
+        "url": "https://www.zlsh.tp.edu.tw/wp-content/uploads/doc/t9023/%E3%80%902026%20UKMT-IMC%E3%80%91%E8%8B%B1%E5%9C%8B%E4%B8%AD%E7%B4%9A%E6%95%B8%E5%AD%B8%E6%8C%91%E6%88%B0%E7%AB%B6%E8%B3%BD%E6%B4%BB%E5%8B%95%E8%A8%88%E7%95%AB%E6%9B%B8.pdf",
+        "quote": "學校自辦考場每位考生收費900 元。"
       },
       {
-        "url": "https://www.ntsh.ntct.edu.tw/ischool/public/news_view/show.php?nid=23343",
-        "quote": "一張金獎證書足以讓申請履歷脫穎而出。"
+        "url": "https://www.zlsh.tp.edu.tw/wp-content/uploads/doc/t9023/%E3%80%902026%20UKMT-IMC%E3%80%91%E8%8B%B1%E5%9C%8B%E4%B8%AD%E7%B4%9A%E6%95%B8%E5%AD%B8%E6%8C%91%E6%88%B0%E7%AB%B6%E8%B3%BD%E6%B4%BB%E5%8B%95%E8%A8%88%E7%95%AB%E6%9B%B8.pdf",
+        "quote": "請於截止日前填寫google 報名表單後送出、完成報名費用匯款，"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "金獎授予全球排名約前 8% 考生，銀獎約前 25%，銅獎約前 50%，未獲獎者獲參與證書，由 UKMT 英國組委會授予英文證書；另設學校最佳獎與年級最佳獎。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.zlsh.tp.edu.tw/wp-content/uploads/doc/t9023/%E3%80%902026%20UKMT-IMC%E3%80%91%E8%8B%B1%E5%9C%8B%E4%B8%AD%E7%B4%9A%E6%95%B8%E5%AD%B8%E6%8C%91%E6%88%B0%E7%AB%B6%E8%B3%BD%E6%B4%BB%E5%8B%95%E8%A8%88%E7%95%AB%E6%9B%B8.pdf",
+        "quote": "金獎授予全球排名約前8%的頂尖考生；銀獎授予全球約前25%的 考生；銅獎授予全球約前50%的考生。未獲獎的考生可獲得參與 證書。"
+      },
+      {
+        "url": "https://www.zlsh.tp.edu.tw/wp-content/uploads/doc/t9023/%E3%80%902026%20UKMT-IMC%E3%80%91%E8%8B%B1%E5%9C%8B%E4%B8%AD%E7%B4%9A%E6%95%B8%E5%AD%B8%E6%8C%91%E6%88%B0%E7%AB%B6%E8%B3%BD%E6%B4%BB%E5%8B%95%E8%A8%88%E7%95%AB%E6%9B%B8.pdf",
+        "quote": "※將由UKMT 英國組委會參考英國學生分數線授予英文證書。"
+      },
+      {
+        "url": "https://www.zlsh.tp.edu.tw/wp-content/uploads/doc/t9023/%E3%80%902026%20UKMT-IMC%E3%80%91%E8%8B%B1%E5%9C%8B%E4%B8%AD%E7%B4%9A%E6%95%B8%E5%AD%B8%E6%8C%91%E6%88%B0%E7%AB%B6%E8%B3%BD%E6%B4%BB%E5%8B%95%E8%A8%88%E7%95%AB%E6%9B%B8.pdf",
+        "quote": "除了上述獎項外，競賽還設有「學校最佳獎（頒給全校最高分者）」 和「年級最佳獎（頒給各年級校內最高分者）」。"
       }
     ]
   },
   "ai_policy": {
-    "value": "unknown",
-    "basis": "unread",
-    "evidence": []
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.zlsh.tp.edu.tw/wp-content/uploads/doc/t9023/%E3%80%902026%20UKMT-IMC%E3%80%91%E8%8B%B1%E5%9C%8B%E4%B8%AD%E7%B4%9A%E6%95%B8%E5%AD%B8%E6%8C%91%E6%88%B0%E7%AB%B6%E8%B3%BD%E6%B4%BB%E5%8B%95%E8%A8%88%E7%95%AB%E6%9B%B8.pdf"
+      },
+      {
+        "url": "https://www.ntsh.ntct.edu.tw/ischool/public/news_view/show.php?nid=23343"
+      }
+    ]
   },
   "links": {
     "official": null,
     "rules": [
       {
-        "title": "UKMT 競賽轉知公告",
-        "url": "https://www.ntsh.ntct.edu.tw/ischool/public/news_view/show.php?nid=23343"
+        "title": "2026 UKMT-IMC 英國中級數學挑戰活動計劃書",
+        "url": "https://www.zlsh.tp.edu.tw/wp-content/uploads/doc/t9023/%E3%80%902026%20UKMT-IMC%E3%80%91%E8%8B%B1%E5%9C%8B%E4%B8%AD%E7%B4%9A%E6%95%B8%E5%AD%B8%E6%8C%91%E6%88%B0%E7%AB%B6%E8%B3%BD%E6%B4%BB%E5%8B%95%E8%A8%88%E7%95%AB%E6%9B%B8.pdf"
       }
     ],
-    "registration": null
+    "registration": "https://reurl.cc/vKax0A"
   },
   "found_via": [
     {
@@ -97,10 +253,10 @@
     }
   ],
   "verification": {
-    "last_verified": "2026-11-24",
+    "last_verified": "2026-11-25",
     "method": "single",
     "unread": [
-      "公告附件（其他詳細比賽資訊）"
+      "UKMT-IMC 團體報名表"
     ],
     "note": null,
     "readers": [
@@ -108,5 +264,5 @@
     ]
   },
   "first_seen": "2026-11-24",
-  "updated": "2026-11-24"
+  "updated": "2026-11-25"
 }

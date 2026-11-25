@@ -3,7 +3,7 @@ title: "2026農田水利之美 全國攝影大賽"
 description: "全國民眾拍攝指定農田水利設施結合人文影像，線上繳交數位照片及著作權同意書，分空拍與地面組評選。"
 appliesTo: "2026 這一屆"
 caveat: "高中職學生與大專生或社會人士同組評比。"
-lastVerified: 2026-11-24
+lastVerified: 2026-11-25
 kind: "contest"
 deadline: "2026-12-21"
 sources:

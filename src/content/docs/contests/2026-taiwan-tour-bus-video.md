@@ -3,7 +3,7 @@ title: "「台灣觀巴」品牌形象短影音徵選活動"
 description: "個人或至多 5 人團隊拍攝 30 秒「台灣觀巴」品牌形象短影音，線上繳交影片連結、正片及相關同意書。"
 appliesTo: "2026 這一屆"
 caveat: "高中職學生與大專生或社會人士同組評比。"
-lastVerified: 2026-11-24
+lastVerified: 2026-11-25
 kind: "contest"
 deadline: "2026-12-31"
 sources:

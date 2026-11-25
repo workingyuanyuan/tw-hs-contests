@@ -3,7 +3,7 @@ title: "2026 智慧永續循環技術論文暨專題競賽"
 description: "1 至 5 人就智慧永續專題繳交 5 頁內短文，入選口頭發表組者到東海大學簡報。"
 appliesTo: "2026 這一屆"
 caveat: "報名已於 2026-11-22 截止。"
-lastVerified: 2026-11-24
+lastVerified: 2026-11-25
 kind: "contest"
 deadline: "2026-11-22"
 sources:

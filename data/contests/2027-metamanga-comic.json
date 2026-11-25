@@ -1,0 +1,151 @@
+{
+  "schema": 1,
+  "id": "2027-metamanga-comic",
+  "title": "漫界 MetaManga 漫畫創作競賽",
+  "edition": "115 年 7 月至 116 年 2 月徵稿",
+  "summary": "學生及社會創作者依作品適讀對象分兒童、少年、青年、成人四組，投稿短篇完結漫畫。",
+  "organizers": [
+    {
+      "name": "搜咖科技股份有限公司",
+      "role": "協辦"
+    },
+    {
+      "name": "弘光科技大學多媒體遊戲發展與應用系",
+      "role": "協辦"
+    }
+  ],
+  "categories": [
+    "美術"
+  ],
+  "eligibility": {
+    "levels": [
+      "國小",
+      "國中",
+      "高中",
+      "高職",
+      "五專",
+      "大專",
+      "社會人士"
+    ],
+    "division": "mixed",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": null,
+    "team_max": null,
+    "teacher": "optional",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://dlsh.tc.edu.tw/p/406-1068-641898,r2145.php",
+        "quote": "本競賽透過「漫界 MetaManga」漫畫創作平台，鼓勵學生及社會創作者投入漫畫創作"
+      },
+      {
+        "url": "https://dlsh.tc.edu.tw/p/406-1068-641898,r2145.php",
+        "quote": "競賽分組：分為兒童、少年、青年及成人四組，依作品適讀對象及內容定位選擇投稿組別"
+      },
+      {
+        "url": "https://dlsh.tc.edu.tw/p/406-1068-641898,r2145.php",
+        "quote": "報名方式：參賽者至漫界 MetaManga 平台註冊帳號，依競賽辦法完成作品上傳及報名。"
+      },
+      {
+        "url": "https://dlsh.tc.edu.tw/p/406-1068-641898,r2145.php",
+        "quote": "貴校如有教師帶領學生共同參與，可由帶隊教師聯繫競賽窗口，洽詢投稿流程及相關事宜。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "other",
+      "label": "徵稿開始",
+      "date": "2026-07-15",
+      "time": null,
+      "original": "民國115年7月15日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://dlsh.tc.edu.tw/p/406-1068-641898,r2145.php",
+          "quote": "徵稿日期：自民國115年7月15日起至民國116年2月15日止"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "徵稿截止（作品上傳及報名）",
+      "date": "2027-02-15",
+      "time": null,
+      "original": "民國116年2月15日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://dlsh.tc.edu.tw/p/406-1068-641898,r2145.php",
+          "quote": "徵稿日期：自民國115年7月15日起至民國116年2月15日止"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "投稿",
+      "what": "短篇完結漫畫，32 頁以上（兒童組不受頁數限制），上傳至漫界 MetaManga 平台",
+      "how": "online"
+    }
+  ],
+  "attendance": {
+    "value": "unknown",
+    "where": null,
+    "basis": "unread",
+    "evidence": []
+  },
+  "fee": {
+    "value": "unknown",
+    "amount": null,
+    "basis": "unread",
+    "evidence": []
+  },
+  "prizes": {
+    "text": null,
+    "basis": "unread",
+    "evidence": []
+  },
+  "ai_policy": {
+    "value": "allowed",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://dlsh.tc.edu.tw/p/406-1068-641898,r2145.php",
+        "quote": "結合故事發想、視覺敘事與 AI 輔助創作，提供作品發表及讀者交流機會，發掘具潛力之漫畫創作人才。"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://www.metamanga.ai/contest",
+    "rules": [],
+    "registration": null
+  },
+  "found_via": [
+    {
+      "name": "南港高工 重要資訊",
+      "url": "https://www.nkhs.tp.edu.tw/ischool/public/news_view/show.php?nid=34965"
+    },
+    {
+      "name": "大里高中 校外活動與競賽",
+      "url": "https://dlsh.tc.edu.tw/p/406-1068-641898,r2145.php"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-25",
+    "method": "single",
+    "unread": [
+      "官方競賽辦法（賽事網址 https://www.metamanga.ai/contest）",
+      "活動海報（附件）"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-25"
+}

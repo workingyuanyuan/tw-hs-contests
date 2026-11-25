@@ -199,18 +199,19 @@
     }
   ],
   "verification": {
-    "last_verified": "2026-11-24",
-    "method": "single",
+    "last_verified": "2026-11-25",
+    "method": "dual",
     "unread": [],
     "note": null,
     "readers": [
+      "claude-opus-5-5",
       "claude-opus-5-5"
     ]
   },
   "first_seen": "2026-11-20",
   "updated": "2026-11-24",
   "conflict": "簡章與獎金獵人活動頁的「比賽程序」寫入圍決賽名單於 2027 年 3 月 18 日公布，同一活動頁的「活動時程」卻寫入圍決賽公布時間為 2027 年 4 月 24 日。",
-  "level": "checked",
+  "level": "verified",
   "url": "https://yuanaruru.com/tw-hs-contests/contests/2027-blia-three-acts-song/",
   "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2027-blia-three-acts-song.md"
 }

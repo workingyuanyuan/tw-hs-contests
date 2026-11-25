@@ -1,0 +1,197 @@
+{
+  "schema": 1,
+  "id": "2026-cute-hs-paper-symposium",
+  "title": "2026全國高中職小論文研討會",
+  "edition": "2026",
+  "summary": "高中職學生以資訊科技相關主題撰寫中文或英文小論文投稿，通過審查者到場口頭發表。",
+  "organizers": [
+    {
+      "name": "中國科技大學資訊學院資訊工程系",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "資訊與 AI"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職"
+    ],
+    "division": "hs_only",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": null,
+    "team_max": null,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/public/news_view/show.php?nid=26530",
+        "quote": "(二)投稿資格：限高中職學生，稿件須為原創作品，且未曾發表。"
+      },
+      {
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/28/中國科技大學辦理2026全國高中職小論文研討會.pdf",
+        "quote": "本研討會論文一律採上傳投稿，請投稿者於2026年11月6日前，將摘要或全文論文(含聯絡方式)完成上傳。"
+      },
+      {
+        "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=N0VzWm5ZbVVxN0o1MzJGQ3haMGgyaWtPbmNSMG92c0J4NnJhWGsvdlliTWF5S05jQ1RnenVHYkZHa3QwQ1JYSmo5dlkzUDEvQ1pZNlhGcC81T3ZjUHZPekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=WmF1eFlmOVZCTjhzVXA2QldXdUVSd2l6dVA0aGhnZGlOT0NnTmNUU1FJdWxjUmVJYTJrMTB3Q3FRbDF2bDdKVXlQSFFWTVdKbnllOUkxaFp2MHBOOEttZDJDUWpLekt1MU9SbWpIekthNUx6c3h1dnFrZlBoVXRHa005TGdmMEU=",
+        "quote": "正本：全國高級中等學校"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "submission_deadline",
+      "label": "摘要或全文投稿截止",
+      "date": "2026-11-06",
+      "time": null,
+      "original": "115年11月06日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.hccvs.hc.edu.tw/ischool/public/news_view/show.php?nid=26530",
+          "quote": "(一)摘要或全文投稿投稿截止：115年11月06日星期五"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "研討會舉辦（口頭發表）",
+      "date": "2026-11-15",
+      "time": null,
+      "original": "115年11月15日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.hccvs.hc.edu.tw/ischool/public/news_view/show.php?nid=26530",
+          "quote": "(三)研討會舉辦日期：115年11月15日星期日"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "投稿",
+      "what": "中文或英文之摘要或全文，依大會範本格式以 Word 檔提交",
+      "how": "online"
+    },
+    {
+      "stage": "研討會（通過審查者）",
+      "what": "以中文或英文口頭發表論文；最佳論文須從出席報告的全文投稿中選出",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "finalists",
+    "where": "中國科技大學臺北校區",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/public/news_view/show.php?nid=26530",
+        "quote": "(三)發表方式：通過審查者將獲安排口頭發表，並由大會提供發表證明及出席證明（電子檔）。"
+      },
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/public/news_view/show.php?nid=26530",
+        "quote": "中國科技大學資訊工程系謹訂於 115年11月15日星期日，於臺北校區舉辦「2026全國高中職小論文研討會」。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/28/中國科技大學辦理2026全國高中職小論文研討會.pdf",
+        "quote": "本研討會不收報名註冊費用，唯稿件須具原創性，未曾發表之論文。"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "從全文投稿且出席報告的論文中選出數篇最佳論文，頒發獎狀；通過審查並發表者獲發表證明及出席證明（電子檔）。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/28/中國科技大學辦理2026全國高中職小論文研討會.pdf",
+        "quote": "此外，本研討會將從全文投稿論文中(須出席報告)，選出數篇最佳論文，並頒發獎狀，以玆鼓勵。"
+      },
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/public/news_view/show.php?nid=26530",
+        "quote": "(三)發表方式：通過審查者將獲安排口頭發表，並由大會提供發表證明及出席證明（電子檔）。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=N0VzWm5ZbVVxN0o1MzJGQ3haMGgyaWtPbmNSMG92c0J4NnJhWGsvdlliTWF5S05jQ1RnenVHYkZHa3QwQ1JYSmo5dlkzUDEvQ1pZNlhGcC81T3ZjUHZPekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=WmF1eFlmOVZCTjhzVXA2QldXdUVSd2l6dVA0aGhnZGlOT0NnTmNUU1FJdWxjUmVJYTJrMTB3Q3FRbDF2bDdKVXlQSFFWTVdKbnllOUkxaFp2MHBOOEttZDJDUWpLekt1MU9SbWpIekthNUx6c3h1dnFrZlBoVXRHa005TGdmMEU="
+      },
+      {
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/28/中國科技大學辦理2026全國高中職小論文研討會.pdf"
+      }
+    ]
+  },
+  "links": {
+    "official": null,
+    "rules": [
+      {
+        "title": "2026全國高中職小論文研討會公文",
+        "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=N0VzWm5ZbVVxN0o1MzJGQ3haMGgyaWtPbmNSMG92c0J4NnJhWGsvdlliTWF5S05jQ1RnenVHYkZHa3QwQ1JYSmo5dlkzUDEvQ1pZNlhGcC81T3ZjUHZPekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=WmF1eFlmOVZCTjhzVXA2QldXdUVSd2l6dVA0aGhnZGlOT0NnTmNUU1FJdWxjUmVJYTJrMTB3Q3FRbDF2bDdKVXlQSFFWTVdKbnllOUkxaFp2MHBOOEttZDJDUWpLekt1MU9SbWpIekthNUx6c3h1dnFrZlBoVXRHa005TGdmMEU="
+      },
+      {
+        "title": "2026全國高中職小論文研討會海報",
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/28/中國科技大學辦理2026全國高中職小論文研討會.pdf"
+      }
+    ],
+    "registration": null
+  },
+  "found_via": [
+    {
+      "name": "新竹高商 消息公佈欄",
+      "url": "https://www.hccvs.hc.edu.tw/ischool/public/news_view/show.php?nid=26530"
+    },
+    {
+      "name": "南投高中 最新消息",
+      "url": "https://www.ntsh.ntct.edu.tw/ischool/public/news_view/show.php?nid=23079"
+    },
+    {
+      "name": "大里高中 校外活動與競賽",
+      "url": "https://dlsh.tc.edu.tw/p/406-1068-640243,r2145.php?Lang=zh-tw"
+    },
+    {
+      "name": "苗栗農工 處室公告",
+      "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26751"
+    },
+    {
+      "name": "新竹女中 活動研習",
+      "url": "https://www.hgsh.hc.edu.tw/news/%e4%b8%ad%e5%9c%8b%e7%a7%91%e6%8a%80%e5%a4%a7%e5%ad%b8%e8%be%a6%e7%90%862026%e5%85%a8%e5%9c%8b%e9%ab%98%e4%b8%ad%e8%81%b7%e5%b0%8f%e8%ab%96%e6%96%87%e7%a0%94%e8%a8%8e%e6%9c%83/"
+    },
+    {
+      "name": "暨大附中 學生研習與競賽活動",
+      "url": "https://www.pshs.ntct.edu.tw/ischool/public/news_view/show.php?nid=33827"
+    },
+    {
+      "name": "大里高中 校外活動與競賽",
+      "url": "https://dlsh.tc.edu.tw/p/406-1068-640243,r2145.php"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-25",
+    "method": "single",
+    "unread": [
+      "大會範本格式",
+      "研討會網站（競賽網址）"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-25"
+}

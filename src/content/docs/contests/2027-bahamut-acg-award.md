@@ -3,7 +3,7 @@ title: "2027 ACG 創作大賽"
 description: "業餘、學生創作者或獨立團隊個人或組隊，線上繳交原創動畫、漫畫或遊戲作品參賽。"
 appliesTo: "2027 這一屆"
 caveat: "高中職學生與大專生或社會人士同組評比。三組參賽規則頁寫「禁止生成式 AI 技術之使用」；常見問題（2026/11/19 更新）則寫遊戲組允許使用 AI 輔助程式開發，須於報名時揭露。"
-lastVerified: 2026-11-24
+lastVerified: 2026-11-25
 kind: "contest"
 deadline: "2027-05-20"
 sources:

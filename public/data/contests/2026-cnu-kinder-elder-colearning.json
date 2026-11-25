@@ -1,0 +1,268 @@
+{
+  "schema": 1,
+  "id": "2026-cnu-kinder-elder-colearning",
+  "title": "2026全國幼老共學教案設計暨教學成果競賽",
+  "edition": "2026",
+  "summary": "大專及高中職學生 2 至 6 人組隊設計全學期幼老共學教案，幼兒園教師組隊提出幼老共學教學成果。",
+  "organizers": [
+    {
+      "name": "嘉南藥理大學嬰幼兒保育系(幼老共園南區人才培育中心)",
+      "role": "主辦"
+    },
+    {
+      "name": "社團法人中華民國幼老共園促進發展協會",
+      "role": "主辦"
+    },
+    {
+      "name": "實踐大學家庭研究與兒童發展學系 (幼老共園北區人才培育中心)",
+      "role": "協辦"
+    },
+    {
+      "name": "慈濟大學兒童發展與家庭教育學系 (幼老共園東區人才培育中心)",
+      "role": "協辦"
+    },
+    {
+      "name": "朝陽科技大學幼老共園推動中心",
+      "role": "協辦"
+    },
+    {
+      "name": "教育部大學社會責任推動中心",
+      "role": "指導"
+    },
+    {
+      "name": "幼老共園人才培育總中心(朝陽科技大學)",
+      "role": "指導"
+    }
+  ],
+  "categories": [
+    "醫護與照顧",
+    "社會人文"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職",
+      "大專",
+      "社會人士"
+    ],
+    "division": "mixed",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 2,
+    "team_max": 6,
+    "teacher": "optional",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg212/2026全國幼老共學教案設計暨教學成果競賽徵案規章.pdf",
+        "quote": "1. 教案設計組：具大專院校及高中職25歲以內學生身分參賽(不含碩士生以上、在職生)，主要領域為幼教及老人相關科系(但不限於此)。"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg212/2026全國幼老共學教案設計暨教學成果競賽徵案規章.pdf",
+        "quote": "2. 教學成果組：限幼兒園老師身分參賽(可含園長、教師、教保員、參與教學且具重要貢獻的其他領域工作者)。"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg212/2026全國幼老共學教案設計暨教學成果競賽徵案規章.pdf",
+        "quote": "(二) 參賽者必須2至6人組成一隊，兩類均得設指導老師一至二人(若無可免)。"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg212/2026全國幼老共學教案設計暨教學成果競賽徵案規章.pdf",
+        "quote": "(三) 每一位參賽者只限報名一組(可跨科系、跨校組隊)，不接受個人報名參賽。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "線上報名截止（延長後）",
+      "date": "2026-11-13",
+      "time": null,
+      "original": "延長至115年11月13日止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.cksh.tp.edu.tw/news/%e3%80%90%e8%bd%89%e7%9f%a5%e3%80%91%e5%98%89%e5%8d%97%e8%97%a5%e7%90%86%e5%a4%a7%e5%ad%b82026%e5%85%a8%e5%9c%8b%e5%b9%bc%e8%80%81%e5%85%b1%e5%ad%b8%e6%95%99%e6%a1%88%e8%a8%ad%e8%a8%88%e6%9a%a8/",
+          "quote": "(一)徵件期限：延長至115年11月13日止，請於期限內完成線上報名及參賽資料繳交"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "參賽資料繳交截止（延長後）",
+      "date": "2026-11-13",
+      "time": null,
+      "original": "延長至115年11月13日止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.cksh.tp.edu.tw/news/%e3%80%90%e8%bd%89%e7%9f%a5%e3%80%91%e5%98%89%e5%8d%97%e8%97%a5%e7%90%86%e5%a4%a7%e5%ad%b82026%e5%85%a8%e5%9c%8b%e5%b9%bc%e8%80%81%e5%85%b1%e5%ad%b8%e6%95%99%e6%a1%88%e8%a8%ad%e8%a8%88%e6%9a%a8/",
+          "quote": "(一)徵件期限：延長至115年11月13日止，請於期限內完成線上報名及參賽資料繳交"
+        }
+      ]
+    },
+    {
+      "kind": "shortlist_announcement",
+      "label": "初賽結果公告",
+      "date": "2026-11-30",
+      "time": "17:00",
+      "original": "11/30(一) 下午5點前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg212/2026全國幼老共學教案設計暨教學成果競賽徵案規章.pdf",
+          "quote": "3. 初賽結果公告：11/30(一) 下午5點前"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "決賽口頭發表",
+      "date": "2026-12-18",
+      "time": "09:00",
+      "original": "12/18 (五) 上午9點至下午5點",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg212/2026全國幼老共學教案設計暨教學成果競賽徵案規章.pdf",
+          "quote": "4. 決賽日期時間：12/18 (五) 上午9點至下午5點"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名",
+      "what": "線上報名表單",
+      "how": "online"
+    },
+    {
+      "stage": "繳件（教案設計組）",
+      "what": "報名表、16 週以上的全學期幼老共學課程規劃表與週教案、授權同意書，Word 及 PDF 檔，以電子郵件寄送",
+      "how": "online"
+    },
+    {
+      "stage": "繳件（教學成果組）",
+      "what": "報名表（含 3 至 5 分鐘教學特色影片連結）、全學期課程規劃表、每週課程紀錄表、授權同意書，Word 及 PDF 檔，以電子郵件寄送",
+      "how": "online"
+    },
+    {
+      "stage": "決賽（入選隊伍）",
+      "what": "至少二名隊員到場，15 分鐘口頭簡報及教學演示",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "finalists",
+    "where": "嘉義市「幼老共園示範基地(籌備處)」（東吳高職大禮堂）",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg212/2026全國幼老共學教案設計暨教學成果競賽徵案規章.pdf",
+        "quote": "2. 決賽：獲選決賽隊伍應至少二名隊員赴競賽現場發表作品，每隊發表時間為15分鐘"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg212/2026全國幼老共學教案設計暨教學成果競賽徵案規章.pdf",
+        "quote": "地點於嘉義市「幼老共園示範基地(籌備處)」舉行口頭發表。地址：嘉義市東區新開里宣信街252號(東吳高職大禮堂)。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.cksh.tp.edu.tw/news/%e3%80%90%e8%bd%89%e7%9f%a5%e3%80%91%e5%98%89%e5%8d%97%e8%97%a5%e7%90%86%e5%a4%a7%e5%ad%b82026%e5%85%a8%e5%9c%8b%e5%b9%bc%e8%80%81%e5%85%b1%e5%ad%b8%e6%95%99%e6%a1%88%e8%a8%ad%e8%a8%88%e6%9a%a8/",
+        "quote": "該競賽免收報名費"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "教案設計組與教學成果組分別頒發：第一名 10,000 元、第二名 6,000 元、第三名 4,000 元，皆附獎狀；佳作頒獎狀及獎品（教案設計組預計 4 至 6 名，教學成果組預計 2 至 3 名）。作品未盡理想得從缺。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg212/2026全國幼老共學教案設計暨教學成果競賽徵案規章.pdf",
+        "quote": "第一名｜頒發10,000元獎金及獎狀 (各類組1名)"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg212/2026全國幼老共學教案設計暨教學成果競賽徵案規章.pdf",
+        "quote": "第二名｜頒發6,000元獎金及獎狀 (各類組1名)"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg212/2026全國幼老共學教案設計暨教學成果競賽徵案規章.pdf",
+        "quote": "第三名｜頒發4,000元 獎金及獎狀 (各類組1名)"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg212/2026全國幼老共學教案設計暨教學成果競賽徵案規章.pdf",
+        "quote": "佳作獎｜頒發獎狀及獎品(各組預計錄取4至6名)"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg212/2026全國幼老共學教案設計暨教學成果競賽徵案規章.pdf",
+        "quote": "佳作獎｜頒發獎狀及獎品(各組預計錄取2至3名)"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg212/2026全國幼老共學教案設計暨教學成果競賽徵案規章.pdf",
+        "quote": "(三) 各獎項作品若未盡理想，主辦單位得視情況予以從缺。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg212/2026全國幼老共學教案設計暨教學成果競賽徵案規章.pdf"
+      }
+    ]
+  },
+  "links": {
+    "official": null,
+    "rules": [
+      {
+        "title": "2026全國幼老共學教案設計暨教學成果競賽徵案規章",
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg212/2026全國幼老共學教案設計暨教學成果競賽徵案規章.pdf"
+      },
+      {
+        "title": "活動海報",
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg212/2026全國幼老共學教案設計暨教學成果競賽活動海報.png"
+      }
+    ],
+    "registration": "https://forms.gle/ChYLjaFLAa37irJB7"
+  },
+  "found_via": [
+    {
+      "name": "成功高中 活動競賽",
+      "url": "https://www.cksh.tp.edu.tw/news/%e3%80%90%e8%bd%89%e7%9f%a5%e3%80%91%e5%98%89%e5%8d%97%e8%97%a5%e7%90%86%e5%a4%a7%e5%ad%b82026%e5%85%a8%e5%9c%8b%e5%b9%bc%e8%80%81%e5%85%b1%e5%ad%b8%e6%95%99%e6%a1%88%e8%a8%ad%e8%a8%88%e6%9a%a8/"
+    },
+    {
+      "name": "苗栗農工 處室公告",
+      "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26939"
+    },
+    {
+      "name": "苗栗高中 學生校外營隊、活動、比賽",
+      "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=28512"
+    },
+    {
+      "name": "苗栗農工 處室公告",
+      "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=25968"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-25",
+    "method": "single",
+    "unread": [],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "conflict": "徵案規章訂線上報名期間至 10/15、作品繳件至 11/6，報名表單為 https://forms.gle/sev2eqrfQgNSoWEM9；嘉南藥理大學 10 月轉發的公告則將徵件期限延長至 115 年 11 月 13 日，報名網址為 https://forms.gle/ChYLjaFLAa37irJB7。",
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-25",
+  "level": "checked",
+  "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-cnu-kinder-elder-colearning/",
+  "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-cnu-kinder-elder-colearning.md"
+}

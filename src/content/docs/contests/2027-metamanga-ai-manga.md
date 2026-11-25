@@ -3,7 +3,7 @@ title: "AI 創作漫畫大賽"
 description: "創作者以 AI 工具製作單篇完結漫畫，於漫界平台登入並完成手機驗證後線上投稿，最多可更新三個版本。"
 appliesTo: "2027 這一屆"
 caveat: "高中職學生與大專生或社會人士同組評比。"
-lastVerified: 2026-11-24
+lastVerified: 2026-11-25
 kind: "contest"
 deadline: "2027-02-15"
 sources:

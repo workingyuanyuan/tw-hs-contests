@@ -3,50 +3,46 @@
   "id": "2026-dajiamazu-original-music",
   "title": "2027大甲媽原創音樂",
   "edition": "2027",
-  "summary": "1 至 6 人樂團上傳原創歌曲影片至 YouTube 並填表報名初賽，入選 15 強者至鎮瀾宮附近現場演出決賽。",
+  "summary": "1 至 6 人的樂團以任何曲風的原創歌曲參賽，比詞曲創意與演唱演奏。",
   "organizers": [
     {
       "name": "無所不在創意活動有限公司",
-      "role": "承辦"
+      "role": "主辦"
     }
   ],
   "categories": [
     "音樂"
   ],
   "eligibility": {
-    "levels": [
-      "國小",
-      "國中",
-      "高中",
-      "高職",
-      "五專",
-      "大專",
-      "社會人士"
-    ],
-    "division": "mixed",
+    "levels": [],
+    "division": "unknown",
     "regions": [
       "全國"
     ],
     "nomination": "none",
     "team_min": 1,
     "team_max": 6,
-    "teacher": "none",
+    "teacher": "unknown",
     "basis": "quote",
     "evidence": [
       {
         "url": "https://bhuntr.com/tw/competitions/z8nqgesacta77ujwva",
-        "quote": "三、報名資格：✅樂團成員人數最少1人，最多6人為限✅比賽曲目以原創歌曲進行評比✅各曲風皆可以參賽 : 不限於民謠、搖滾、饒舌......等等"
+        "quote": "樂團成員人數最少1人，最多6人為限"
       },
       {
         "url": "https://bhuntr.com/tw/competitions/z8nqgesacta77ujwva",
-        "quote": "上傳完整創作歌曲之影片至Youtube平台，並將標題寫上「大甲媽原創音樂 — (樂團名字) 」後 ，於Google報名表單附上作品連結"
+        "quote": "各曲風皆可以參賽 :不限於民謠、搖滾、饒舌......等等"
+      },
+      {
+        "url": "https://bhuntr.com/tw/competitions/z8nqgesacta77ujwva",
+        "quote": "上傳完整創作歌曲之影片至Youtube平台，並將標題寫上「大甲媽原創音樂 — (樂團名字) 」後 ，於Google報名表單附上作品連結（請勿提供它場參賽影片）"
       }
     ]
   },
   "dates": [
     {
       "kind": "registration_deadline",
-      "label": "報名及初賽繳件截止",
+      "label": "初賽報名與作品連結繳交截止",
       "date": "2026-12-09",
       "time": "12:00",
       "original": "即日起至 2026/12/9(三)中午12:00 止",
@@ -60,7 +56,7 @@
     },
     {
       "kind": "other",
-      "label": "初賽作品審核",
+      "label": "初賽評選結束",
       "date": "2026-12-30",
       "time": null,
       "original": "2026/12/16(三) 至 2026/12/30(三)",
@@ -68,13 +64,13 @@
       "evidence": [
         {
           "url": "https://bhuntr.com/tw/competitions/z8nqgesacta77ujwva",
-          "quote": "1️⃣2026/12/16(三) 至 2026/12/30(三)，初賽將由承辦單位邀請專業評審進行評選"
+          "quote": "2026/12/16(三) 至 2026/12/30(三)，初賽將由承辦單位邀請專業評審進行評選"
         }
       ]
     },
     {
       "kind": "shortlist_announcement",
-      "label": "決賽名單公布",
+      "label": "決賽 15 強名單公布",
       "date": "2027-01-08",
       "time": null,
       "original": "2027/1/8(五)",
@@ -88,7 +84,7 @@
     },
     {
       "kind": "final_event",
-      "label": "決賽（1 月底前寄送日期通知）",
+      "label": "決賽（日期於 2027 年 1 月底前以 E-Mail 通知入圍者）",
       "date": null,
       "time": null,
       "original": "2027年1月底前寄送至入圍決賽者E-Mail",
@@ -104,12 +100,17 @@
   "deliverables": [
     {
       "stage": "初賽",
-      "what": "上傳完整原創歌曲影片至 YouTube（標題「大甲媽原創音樂 — (樂團名字)」），於 Google 報名表單附上作品連結並繳費",
+      "what": "完整原創歌曲演出影片，上傳 YouTube 後於 Google 報名表單附上連結",
       "how": "online"
     },
     {
-      "stage": "決賽",
-      "what": "回傳樂團編制清單及樂團照，並現場 Live Band 演出 3 至 4 分鐘原創歌曲（含上下台總計 8 分鐘）",
+      "stage": "決賽前（入圍 15 強）",
+      "what": "樂團編制清單與團體（個人）照片",
+      "how": "unknown"
+    },
+    {
+      "stage": "決賽（入圍 15 強）",
+      "what": "Live Band 現場演出原創歌曲，歌曲 3 至 4 分鐘，含上下台共 8 分鐘",
       "how": "onsite"
     }
   ],
@@ -118,10 +119,6 @@
     "where": "近鎮瀾宮",
     "basis": "quote",
     "evidence": [
-      {
-        "url": "https://bhuntr.com/tw/competitions/z8nqgesacta77ujwva",
-        "quote": "晉級15組可參與決賽"
-      },
       {
         "url": "https://bhuntr.com/tw/competitions/z8nqgesacta77ujwva",
         "quote": "比賽地點：近鎮瀾宮(詳細地點將與決賽日期統一公告)"
@@ -134,7 +131,7 @@
   },
   "fee": {
     "value": "required",
-    "amount": "初賽 $100/組；入圍決賽 15 強 $1,200/組（晉級決賽會扣除已收取費用，繳費後皆不予以退費）",
+    "amount": "初賽每組 100 元；入圍決賽 15 強每組 1,200 元，晉級者扣除已繳初賽費用；繳費後不退費",
     "basis": "quote",
     "evidence": [
       {
@@ -148,16 +145,28 @@
     ]
   },
   "prizes": {
-    "text": "第一名：獎金新台幣 60,000 元、獎盃乙座；第二名：獎金新台幣 20,000 元、獎盃乙座；第三名：獎金新台幣 10,000 元、獎盃乙座；佳作三名：精美好禮、獎盃乙座；原創 HIGHLIGHT：獎盃乙座，擔任翌日活動開場嘉賓。",
+    "text": "第一名獎金 60,000 元、第二名 20,000 元、第三名 10,000 元，皆附獎盃；佳作三名得精美好禮與獎盃；原創 HIGHLIGHT 得獎盃並擔任翌日活動開場嘉賓。",
     "basis": "quote",
     "evidence": [
       {
         "url": "https://bhuntr.com/tw/competitions/z8nqgesacta77ujwva",
-        "quote": "🥇第一名：獎金新台幣60,000元、獎盃乙座🥈第二名：獎金新台幣20,000元、獎盃乙座🥉第三名：獎金新台幣10,000元、獎盃乙座"
+        "quote": "第一名：獎金新台幣60,000元、獎盃乙座"
       },
       {
         "url": "https://bhuntr.com/tw/competitions/z8nqgesacta77ujwva",
-        "quote": "🏅佳作三名：精美好禮、獎盃乙座🏅原創HIGHLIGHT:獎盃乙座，擔任翌日活動開場嘉賓"
+        "quote": "第二名：獎金新台幣20,000元、獎盃乙座"
+      },
+      {
+        "url": "https://bhuntr.com/tw/competitions/z8nqgesacta77ujwva",
+        "quote": "第三名：獎金新台幣10,000元、獎盃乙座"
+      },
+      {
+        "url": "https://bhuntr.com/tw/competitions/z8nqgesacta77ujwva",
+        "quote": "佳作三名：精美好禮、獎盃乙座"
+      },
+      {
+        "url": "https://bhuntr.com/tw/competitions/z8nqgesacta77ujwva",
+        "quote": "原創HIGHLIGHT:獎盃乙座，擔任翌日活動開場嘉賓"
       }
     ]
   },
@@ -166,10 +175,10 @@
     "basis": "absent",
     "evidence": [
       {
-        "url": "https://bhuntr.com/tw/competitions/z8nqgesacta77ujwva"
+        "url": "https://cdn.bountyhunter.co/file-presign/f4250001-b8ec-4b38-8014-2094b88ff83f.pdf?dl=2027%E5%A4%A7%E7%94%B2%E5%AA%BD%E5%8E%9F%E5%89%B5%E9%9F%B3%E6%A8%82%E7%B0%A1%E7%AB%A0.pdf"
       },
       {
-        "url": "https://cdn.bountyhunter.co/file-presign/f4250001-b8ec-4b38-8014-2094b88ff83f.pdf?dl=2027%E5%A4%A7%E7%94%B2%E5%AA%BD%E5%8E%9F%E5%89%B5%E9%9F%B3%E6%A8%82%E7%B0%A1%E7%AB%A0.pdf"
+        "url": "https://bhuntr.com/tw/competitions/z8nqgesacta77ujwva"
       }
     ]
   },
@@ -177,33 +186,39 @@
     "official": null,
     "rules": [
       {
-        "title": "2027大甲媽原創音樂簡章.pdf",
+        "title": "2027大甲媽原創音樂簡章（PDF）",
         "url": "https://cdn.bountyhunter.co/file-presign/f4250001-b8ec-4b38-8014-2094b88ff83f.pdf?dl=2027%E5%A4%A7%E7%94%B2%E5%AA%BD%E5%8E%9F%E5%89%B5%E9%9F%B3%E6%A8%82%E7%B0%A1%E7%AB%A0.pdf"
+      },
+      {
+        "title": "獎金獵人比賽頁（比賽辦法）",
+        "url": "https://bhuntr.com/tw/competitions/z8nqgesacta77ujwva"
       }
     ],
     "registration": "https://forms.gle/ntKv9Q6RMCaKxWnH6"
   },
   "found_via": [
     {
+      "name": "cdn.bountyhunter.co",
+      "url": "https://cdn.bountyhunter.co/file-presign/f4250001-b8ec-4b38-8014-2094b88ff83f.pdf?dl=2027%E5%A4%A7%E7%94%B2%E5%AA%BD%E5%8E%9F%E5%89%B5%E9%9F%B3%E6%A8%82%E7%B0%A1%E7%AB%A0.pdf"
+    },
+    {
       "name": "bhuntr.com",
       "url": "https://bhuntr.com/tw/competitions/z8nqgesacta77ujwva"
     }
   ],
   "verification": {
-    "last_verified": "2026-11-21",
-    "method": "dual",
-    "unread": [
-      "Google 報名表單"
-    ],
-    "note": null,
+    "last_verified": "2026-11-25",
+    "method": "single",
+    "unread": [],
+    "note": "第二次讀取沒有確認：參賽對象、分組",
     "readers": [
-      "gemini-4-hydrogen-medium",
-      "gpt-6.1-sol"
+      "claude-opus-5-5",
+      "claude-opus-5-5"
     ]
   },
   "first_seen": "2026-11-20",
-  "updated": "2026-11-20",
-  "level": "verified",
+  "updated": "2026-11-25",
+  "level": "checked",
   "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-dajiamazu-original-music/",
   "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-dajiamazu-original-music.md"
 }

@@ -3,7 +3,7 @@ title: "「韌性不NG」迷因梗圖媒體識讀徵件"
 description: "國中、高中職學生與 18 歲以上社會人士就影音韌性議題創作迷因梗圖，線上上傳圖檔與 200 字內說明。"
 appliesTo: "2026 這一屆"
 caveat: "日期與時間都是臺灣時間。"
-lastVerified: 2026-11-24
+lastVerified: 2026-11-25
 kind: "contest"
 deadline: "2027-01-05"
 sources:

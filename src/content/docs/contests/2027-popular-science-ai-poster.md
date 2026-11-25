@@ -3,7 +3,7 @@ title: "2027 第二屆 全國傑出學生『科普 AI』壁報競賽"
 description: "高中職至研究所 1 至 3 人組隊參加科普 AI 壁報競賽，依六大主題評選，通過初審者至臺師大參加決賽。"
 appliesTo: "2027 第二屆 這一屆"
 caveat: "高中職學生與大專生或社會人士同組評比。"
-lastVerified: 2026-11-24
+lastVerified: 2026-11-25
 kind: "contest"
 deadline: "2027-02-01"
 sources:

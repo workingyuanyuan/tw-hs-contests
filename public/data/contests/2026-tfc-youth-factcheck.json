@@ -1,0 +1,205 @@
+{
+  "schema": 1,
+  "id": "2026-tfc-youth-factcheck",
+  "title": "2026第六屆青年查證挑戰賽",
+  "edition": "第六屆",
+  "summary": "15 至 24 歲青年 2 至 3 人組隊，運用事實查核與數位工具解查證挑戰題。",
+  "organizers": [
+    {
+      "name": "財團法人新北市台灣事實查核教育基金會",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "社會人文",
+    "資訊與 AI"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職",
+      "五專",
+      "大專",
+      "社會人士"
+    ],
+    "division": "mixed",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 2,
+    "team_max": 3,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.k12ea.gov.tw/Tw/Common/Downloader?id=6b1b97b9-1e80-43f6-9a5b-2b326ab5c439",
+        "quote": "(一)報名資格：15-24歲青年，2-3人組隊（生日區間於2002\n年～2011年）"
+      },
+      {
+        "url": "https://www.k12ea.gov.tw/Tw/Common/Downloader?id=6b1b97b9-1e80-43f6-9a5b-2b326ab5c439",
+        "quote": "(五)報名網站：https://se4rch.net/"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "報名截止",
+      "date": "2026-11-20",
+      "time": null,
+      "original": "即日起至11月20日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.k12ea.gov.tw/Tw/Common/Downloader?id=6b1b97b9-1e80-43f6-9a5b-2b326ab5c439",
+          "quote": "(四)報名日期：即日起至11月20日"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "線上說明會",
+      "date": "2026-11-26",
+      "time": null,
+      "original": "11月26日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.k12ea.gov.tw/Tw/Common/Downloader?id=6b1b97b9-1e80-43f6-9a5b-2b326ab5c439",
+          "quote": "(一)11月26日：線上說明會"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "台灣賽",
+      "date": "2026-12-05",
+      "time": null,
+      "original": "12月05日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.k12ea.gov.tw/Tw/Common/Downloader?id=6b1b97b9-1e80-43f6-9a5b-2b326ab5c439",
+          "quote": "(二)12月05日：台灣賽"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "國際賽（各國前五名隊伍）",
+      "date": "2026-12-12",
+      "time": null,
+      "original": "12月12日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.k12ea.gov.tw/Tw/Common/Downloader?id=6b1b97b9-1e80-43f6-9a5b-2b326ab5c439",
+          "quote": "(三)12月12日：國際賽"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "台灣賽",
+      "what": "組隊即時線上對戰，解多道挑戰題",
+      "how": "online"
+    },
+    {
+      "stage": "國際賽（各國前五名隊伍）",
+      "what": "跨國線上即時對戰",
+      "how": "online"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "線上",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.k12ea.gov.tw/Tw/Common/Downloader?id=6b1b97b9-1e80-43f6-9a5b-2b326ab5c439",
+        "quote": "主旨：本會擬於115年12月5日、12月12日線上辦理「2026第六屆\n青年查證挑戰賽」"
+      },
+      {
+        "url": "https://www.k12ea.gov.tw/Tw/Common/Downloader?id=6b1b97b9-1e80-43f6-9a5b-2b326ab5c439",
+        "quote": "２、形式：組隊即時線上對戰，解多道挑戰題"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "http://www.wlsh.tyc.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9MemMwTDNCMFlWODJNRGczTkY4Mk5USXpNamcxWHpVNE5UQTVMbkJ1Wnc9PQ==&fname=0054YSB0PKQOYXHHGGVWUSWTQOPKUW25WXQK35YWXXFDNLNL",
+        "quote": "線上舉行·免費參加·15-24歲"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "台灣賽：第一名新臺幣 1 萬 5,000 元、第二名新臺幣 9,000 元、第三名新臺幣 6,000 元。國際賽：第一名 1,000 美元、第二名 600 美元、第三名 400 美元。完成報名並全程參與台灣賽者可獲電子證書。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.k12ea.gov.tw/Tw/Common/Downloader?id=6b1b97b9-1e80-43f6-9a5b-2b326ab5c439",
+        "quote": "３、獎金：第一名新臺幣1萬5,000元，第二名新臺幣9,000\n元，第三名新臺幣6,000元"
+      },
+      {
+        "url": "https://www.k12ea.gov.tw/Tw/Common/Downloader?id=6b1b97b9-1e80-43f6-9a5b-2b326ab5c439",
+        "quote": "３、獎金：第一名1,000美元，第二名600美元，第三名400\n美元"
+      },
+      {
+        "url": "https://www.k12ea.gov.tw/Tw/Common/Downloader?id=6b1b97b9-1e80-43f6-9a5b-2b326ab5c439",
+        "quote": "五、參賽證明：完成報名，並全程參與台灣賽即可獲得電子證\n書。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "unknown",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.k12ea.gov.tw/Tw/Common/Downloader?id=6b1b97b9-1e80-43f6-9a5b-2b326ab5c439"
+      },
+      {
+        "url": "http://www.wlsh.tyc.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9MemMwTDNCMFlWODJNRGczTkY4Mk5USXpNamcxWHpVNE5UQTVMbkJ1Wnc9PQ==&fname=0054YSB0PKQOYXHHGGVWUSWTQOPKUW25WXQK35YWXXFDNLNL"
+      }
+    ]
+  },
+  "links": {
+    "official": null,
+    "rules": [
+      {
+        "title": "台灣事實查核教育基金會來函（國教署轉知）",
+        "url": "https://www.k12ea.gov.tw/Tw/Common/Downloader?id=6b1b97b9-1e80-43f6-9a5b-2b326ab5c439"
+      }
+    ],
+    "registration": "https://se4rch.net/"
+  },
+  "found_via": [
+    {
+      "name": "武陵高中 校外競賽",
+      "url": "http://www.wlsh.tyc.edu.tw/p/406-1000-43627,r83.php?Lang=zh-tw"
+    },
+    {
+      "name": "教育部國民及學前教育署 公文公告平台",
+      "url": "https://www.k12ea.gov.tw/Tw/Annc/Detail?filter=AC097895-3399-4890-8891-FC005A77CCB3&id=7410f399-5cfa-49cb-80c0-c9abeb9d4d88"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-25",
+    "method": "single",
+    "unread": [],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-25",
+  "level": "checked",
+  "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-tfc-youth-factcheck/",
+  "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-tfc-youth-factcheck.md"
+}

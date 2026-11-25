@@ -1,0 +1,235 @@
+{
+  "schema": 1,
+  "id": "2027-lhu-traffic-safety-ai-hackathon",
+  "title": "交通安全AI巡守隊-全國黑客松競賽",
+  "edition": "2027",
+  "summary": "高中職與大專學生組隊訓練 AI 模型辨識街景中的路口危險，提出路口安全診斷與改善建議。",
+  "organizers": [
+    {
+      "name": "龍華科技大學工業管理系",
+      "role": "主辦"
+    },
+    {
+      "name": "國立臺中科技大學資管系/人工智慧學程",
+      "role": "協辦"
+    },
+    {
+      "name": "國立中山大學電機系",
+      "role": "協辦"
+    }
+  ],
+  "categories": [
+    "資訊與 AI",
+    "工程與製造"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職",
+      "大專"
+    ],
+    "division": "separate",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "unknown",
+    "team_min": null,
+    "team_max": null,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://mmdmay.github.io/AITS/",
+        "quote": "活動對象主要為高中(職)學生與大專以上學生"
+      },
+      {
+        "url": "https://mmdmay.github.io/AITS/",
+        "quote": "依據書面報告與模型訓練成效，高中職組與大專組各擇優錄取10隊晉級。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "final_event",
+      "label": "實體決賽（暫定）",
+      "date": "2027-04-17",
+      "time": "09:30",
+      "original": "116年4月17日 (週六)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://mmdmay.github.io/AITS/",
+          "quote": "暫定於 116年4月17日 (週六) 於龍華科技大學舉辦。"
+        },
+        {
+          "url": "https://mmdmay.github.io/AITS/",
+          "quote": "魔王題極限挑戰 (09:30-12:00)"
+        },
+        {
+          "url": "https://www.ksvs.kh.edu.tw/v4/cpsub/article.php?id=12722",
+          "quote": "２、決賽：116/04/17(六)於龍華科技大學進行"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "線上初賽（任務 A：AI 金眼獎）",
+      "what": "以模型推論主辦單位提供的 50 張 Google 街景影像",
+      "how": "online"
+    },
+    {
+      "stage": "線上初賽（任務 B：我的路口我守護）",
+      "what": "自選 1 處路口截取街景圖訓練模型，繳交 15-20 頁 PDF 診斷報告（問題意識、AI 技術實作、風險診斷圖、改善建議）",
+      "how": "online"
+    },
+    {
+      "stage": "決賽（晉級隊伍）",
+      "what": "魔王題現場實測：對未公開的街景跑模型產出辨識結果",
+      "how": "onsite"
+    },
+    {
+      "stage": "決賽（晉級隊伍）",
+      "what": "8 分鐘簡報與 5 分鐘統答",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "finalists",
+    "where": "龍華科技大學",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://mmdmay.github.io/AITS/",
+        "quote": "暫定於 116年4月17日 (週六) 於龍華科技大學舉辦。賽制包含「現場實測」與「簡報決審」兩部分"
+      },
+      {
+        "url": "https://mmdmay.github.io/AITS/",
+        "quote": "高中職組與大專組各擇優錄取10隊晉級。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "unknown",
+    "amount": null,
+    "basis": "unread",
+    "evidence": []
+  },
+  "prizes": {
+    "text": "高中職組、大專組：金、銀、銅獎、佳作及特別獎。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://mmdmay.github.io/AITS/",
+        "quote": "頒獎典禮：結算書面與實測總分，頒發金、銀、銅獎、佳作及特別獎"
+      },
+      {
+        "url": "https://drive.google.com/file/d/12c7Fl_BCS6ifw7EhU8ZqyQzhXhzoT8W5/view?usp=sharing",
+        "quote": "大專組、高中職組各 10 隊晉級實體決賽，角逐金、銀、銅獎！"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "required",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://mmdmay.github.io/AITS/",
+        "quote": "自選 1 處真實路口截取街景圖，訓練模型並產出路口安全診斷報告"
+      },
+      {
+        "url": "https://mmdmay.github.io/AITS/",
+        "quote": "報告要求：需繳交 15-20 頁 PDF，包含問題意識、AI 技術實作、風險診斷圖及改善建議"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://mmdmay.github.io/AITS/",
+    "rules": [
+      {
+        "title": "交通AI工作坊海報（含黑客松介紹）",
+        "url": "https://drive.google.com/file/d/12c7Fl_BCS6ifw7EhU8ZqyQzhXhzoT8W5/view?usp=sharing"
+      }
+    ],
+    "registration": null
+  },
+  "found_via": [
+    {
+      "name": "新竹高商 消息公佈欄",
+      "url": "https://www.hccvs.hc.edu.tw/ischool/public/news_view/show.php?nid=26696"
+    },
+    {
+      "name": "新竹女中 活動研習",
+      "url": "https://www.hgsh.hc.edu.tw/news/%e3%80%8c%e4%ba%a4%e9%80%9aai%e5%b7%a5%e4%bd%9c%e5%9d%8a%e3%80%8d%e5%8f%8a%e3%80%8c%e4%ba%a4%e9%80%9a%e5%ae%89%e5%85%a8ai%e5%b7%a1%e5%ae%88%e9%9a%8a-%e5%85%a8%e5%9c%8b%e9%bb%91%e5%ae%a2%e6%9d%be/"
+    },
+    {
+      "name": "高雄高工 競賽公告",
+      "url": "https://www.ksvs.kh.edu.tw/v4/cpsub/article.php?id=12722"
+    },
+    {
+      "name": "錦和高中 學生競賽",
+      "url": "https://www.jhsh.ntpc.edu.tw/p/406-1000-21314,r51.php?Lang=zh-tw"
+    },
+    {
+      "name": "大安高工 競賽資訊",
+      "url": "https://www.taivs.tp.edu.tw/content?a=T0RESVQxUm5NMDlVWTNoTmVtYzl5c21hTkJ6YTY1RWUwc0dWaW50ZWx5"
+    },
+    {
+      "name": "成功高中 活動競賽",
+      "url": "https://www.cksh.tp.edu.tw/news/%e8%bd%89%e7%9f%a5-%e3%80%8c%e4%ba%a4%e9%80%9aai%e5%b7%a5%e4%bd%9c%e5%9d%8a%e3%80%8d%e5%8f%8a%e3%80%8c%e4%ba%a4%e9%80%9a%e5%ae%89%e5%85%a8ai%e5%b7%a1%e5%ae%88%e9%9a%8a-%e5%85%a8%e5%9c%8b%e9%bb%91/"
+    },
+    {
+      "name": "北一女中 最新消息",
+      "url": "https://www.fg.tp.edu.tw/news/%e3%80%8c%e4%ba%a4%e9%80%9aai%e5%b7%a5%e4%bd%9c%e5%9d%8a%e3%80%8d%e5%8f%8a%e3%80%8c%e4%ba%a4%e9%80%9a%e5%ae%89%e5%85%a8ai%e5%b7%a1%e5%ae%88%e9%9a%8a-%e5%85%a8%e5%9c%8b%e9%bb%91%e5%ae%a2%e6%9d%be/"
+    },
+    {
+      "name": "南投高中 最新消息",
+      "url": "https://www.ntsh.ntct.edu.tw/ischool/public/news_view/show.php?nid=23318"
+    },
+    {
+      "name": "斗六高中 營隊研習競賽",
+      "url": "https://www.tlsh.ylc.edu.tw/2026/11/09/68953/"
+    },
+    {
+      "name": "中山女高 最新消息",
+      "url": "https://www.csghs.tp.edu.tw/news/%e8%bd%89%e7%9f%a5%e9%be%8d%e8%8f%af%e7%a7%91%e6%8a%80%e5%a4%a7%e5%ad%b8%e8%88%89%e8%be%a6%e3%80%8c%e4%ba%a4%e9%80%9aai%e5%b7%a5%e4%bd%9c%e5%9d%8a%e3%80%8d%e5%8f%8a%e3%80%8c%e4%ba%a4%e9%80%9a%e5%ae%89/"
+    },
+    {
+      "name": "羅東高工 最新消息",
+      "url": "https://www.ltivs.ilc.edu.tw/p/406-1000-5323,r12.php?Lang=zh-tw"
+    },
+    {
+      "name": "苗栗農工 處室公告",
+      "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=27065"
+    },
+    {
+      "name": "高師大附中 校外競賽與活動",
+      "url": "https://www.nknush.kh.edu.tw/announcement/22501/%e7%ab%b6%e8%b3%bd%e4%ba%a4%e9%80%9a%e5%ae%89%e5%85%a8ai%e5%b7%a1%e5%ae%88%e9%9a%8a-%e5%85%a8%e5%9c%8b%e9%bb%91%e5%ae%a2%e6%9d%be%e7%ab%b6%e8%b3%bd%e6%95%99%e5%8b%99%e8%99%95/"
+    },
+    {
+      "name": "苗栗高中 學生校外營隊、活動、比賽",
+      "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=28637"
+    },
+    {
+      "name": "大同高中 學生競賽活動",
+      "url": "https://www.ttsh.tp.edu.tw/news/%e9%be%8d%e8%8f%af%e7%a7%91%e6%8a%80%e5%a4%a7%e5%ad%b8%e3%80%8c%e4%ba%a4%e9%80%9aai%e5%b7%a5%e4%bd%9c%e5%9d%8a%e3%80%8d%e5%8f%8a%e3%80%8c%e4%ba%a4%e9%80%9a%e5%ae%89%e5%85%a8ai%e5%b7%a1%e5%ae%88/"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-25",
+    "method": "single",
+    "unread": [
+      "來文.pdf",
+      "分區工作坊海報（臺中、高雄、桃園）"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-25",
+  "level": "unverified",
+  "url": null,
+  "markdown": null
+}

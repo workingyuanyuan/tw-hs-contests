@@ -3,7 +3,7 @@ title: "2027 SYM 三陽創新設計大賽"
 description: "全國高中職至碩博士生與 2027 應屆畢業生 1 至 5 人設計速克達載具，初複審線上繳交圖面表板，決審帶 1:3 模型簡報。"
 appliesTo: "2027 這一屆"
 caveat: "高中職學生與大專生或社會人士同組評比。"
-lastVerified: 2026-11-24
+lastVerified: 2026-11-25
 kind: "contest"
 deadline: "2026-12-17"
 sources:

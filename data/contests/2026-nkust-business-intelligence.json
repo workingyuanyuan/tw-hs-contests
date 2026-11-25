@@ -1,0 +1,273 @@
+{
+  "schema": 1,
+  "id": "2026-nkust-business-intelligence",
+  "title": "第七屆高科盃全國商業智慧競賽",
+  "edition": "第七屆",
+  "summary": "高中職及大學部學生2至5人組隊，就自訂主題提出商業智慧應用提案或實作作品。",
+  "organizers": [
+    {
+      "name": "國立高雄科技大學商業智慧學院暨智慧商務系",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "商管與行銷",
+    "創業與企劃",
+    "資訊與 AI"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職",
+      "大專"
+    ],
+    "division": "separate",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 2,
+    "team_max": 5,
+    "teacher": "required",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/第七屆高科盃全國商業智慧競賽簡章.pdf",
+        "quote": "全國高中職及大學部在學生，不拘科系皆可參加。"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/第七屆高科盃全國商業智慧競賽簡章.pdf",
+        "quote": "本競賽分為「高中職概念組」、「高中職實作組」及「大學概念組」三組，能擇一參加，且須依規定繳交資料，如違反上述規定，則取消參賽資格。"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/第七屆高科盃全國商業智慧競賽簡章.pdf",
+        "quote": "每隊以2至5位參賽學生為限，可跨校、跨科、跨班組隊參加。"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/第七屆高科盃全國商業智慧競賽簡章.pdf",
+        "quote": "指導老師至少1位，2位為上限，校外學校之教師亦得擔任指導老師。"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/第七屆高科盃全國商業智慧競賽簡章.pdf",
+        "quote": "報名：採線上報名，請至https://cpt.ic.nkust.edu.tw/報名。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "報名暨初賽繳件截止",
+      "date": "2026-10-28",
+      "time": "12:00",
+      "original": "115年10月28日（三）中午12:00截止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/第七屆高科盃全國商業智慧競賽簡章.pdf",
+          "quote": "報名、初賽繳件截止日"
+        },
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/第七屆高科盃全國商業智慧競賽簡章.pdf",
+          "quote": "115年10月28日（三）中午12:00截止"
+        }
+      ]
+    },
+    {
+      "kind": "shortlist_announcement",
+      "label": "公布晉級決賽名單",
+      "date": "2026-11-06",
+      "time": null,
+      "original": "115年11月6日（五）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/第七屆高科盃全國商業智慧競賽簡章.pdf",
+          "quote": "公布晉級決賽名單 115年11月6日（五）"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "決賽繳件截止",
+      "date": "2026-11-11",
+      "time": "12:00",
+      "original": "115年11月11日（三）中午12:00截止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/第七屆高科盃全國商業智慧競賽簡章.pdf",
+          "quote": "決賽繳件截止日 115年11月11日（三）中午12:00截止"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "決賽暨頒獎典禮",
+      "date": "2026-11-22",
+      "time": null,
+      "original": "115年11月22日(日)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.ttsh.tp.edu.tw/news/%e5%9c%8b%e7%ab%8b%e9%ab%98%e9%9b%84%e7%a7%91%e6%8a%80%e5%a4%a7%e5%ad%b8%e5%95%86%e6%a5%ad%e6%99%ba%e6%85%a7%e5%ad%b8%e9%99%a2%e6%9a%a8%e6%99%ba%e6%85%a7%e5%95%86%e5%8b%99%e7%b3%bb%e8%88%89%e8%be%a6/",
+          "quote": "原列決賽日期「115年11月21日(六)」，更正為「115年11月22日(日)」"
+        },
+        {
+          "url": "https://www.cksh.tp.edu.tw/news/%e3%80%90%e8%bd%89%e7%9f%a5%e3%80%91-%e5%9c%8b%e7%ab%8b%e9%ab%98%e9%9b%84%e7%a7%91%e6%8a%80%e5%a4%a7%e5%ad%b8%e3%80%8c%e7%ac%ac%e4%b8%83%e5%b1%86%e9%ab%98%e7%a7%91%e7%9b%83%e5%85%a8%e5%9c%8b-%e5%95%86/",
+          "quote": "三、原列決賽日期「115年11月21日(六)」，更正為「115年11月22日(日)」。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "初賽（高中職概念組、大學概念組）",
+      "what": "提案說明書 PDF（作品介紹、欲解決之問題、商業分析、現有類似產品、結論）",
+      "how": "online"
+    },
+    {
+      "stage": "初賽（高中職實作組）",
+      "what": "作品說明書 PDF（使用技術、成本分析、實用性評估、預期效果等）",
+      "how": "online"
+    },
+    {
+      "stage": "初賽（全隊）",
+      "what": "學生證明、著作財產權授權同意書、法定代理人同意書、延續性作品說明書，上傳 Google 表單",
+      "how": "online"
+    },
+    {
+      "stage": "決賽繳件",
+      "what": "決賽簡報 .pptx 檔",
+      "how": "unknown"
+    },
+    {
+      "stage": "決賽",
+      "what": "每隊 7 分鐘簡報與 3 分鐘問答；高中職實作組另展示作品並準備 A1 海報",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "finalists",
+    "where": null,
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/第七屆高科盃全國商業智慧競賽簡章.pdf",
+        "quote": "評審委員在每組中評選10隊晉級決賽（視狀況酌予增減）"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/第七屆高科盃全國商業智慧競賽簡章.pdf",
+        "quote": "參賽隊伍應全員出席比賽，組員如因正當事由無法出席，應事先請假並檢附相關證明，經主辦單位審核同意；未依規定辦理者，取消該隊決賽資格。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/第七屆高科盃全國商業智慧競賽簡章.pdf"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "高中職概念組、高中職實作組、大學概念組各自頒發：第一名 1 名團體獎金 8,000 元、第二名 1 名 5,000 元、第三名 1 名 3,000 元，皆附每組獎狀與團體獎盃；佳作 5 名各團體獎金 1,000 元與獎狀；入圍獎 2 名獎狀。所有參賽者頒發參賽證明。獎品項目暫訂。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/第七屆高科盃全國商業智慧競賽簡章.pdf",
+        "quote": "一名，團體獎金8,000元、每組獎狀一只、團體獎盃一座。"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/第七屆高科盃全國商業智慧競賽簡章.pdf",
+        "quote": "一名，團體獎金5,000元、每組獎狀一只、團體獎盃一座。"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/第七屆高科盃全國商業智慧競賽簡章.pdf",
+        "quote": "一名，團體獎金3,000元、每組獎狀一只、團體獎盃一座。"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/第七屆高科盃全國商業智慧競賽簡章.pdf",
+        "quote": "五名，團體獎金1,000元、每組獎狀一只。"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/第七屆高科盃全國商業智慧競賽簡章.pdf",
+        "quote": "二名，每組獎狀一只。"
+      },
+      {
+        "url": "https://www.ttsh.tp.edu.tw/news/%e5%9c%8b%e7%ab%8b%e9%ab%98%e9%9b%84%e7%a7%91%e6%8a%80%e5%a4%a7%e5%ad%b8%e5%95%86%e6%a5%ad%e6%99%ba%e6%85%a7%e5%ad%b8%e9%99%a2%e6%9a%a8%e6%99%ba%e6%85%a7%e5%95%86%e5%8b%99%e7%b3%bb%e8%88%89%e8%be%a6/",
+        "quote": "分為高中職項目(概念組、實作組)及大學組，總獎金高達63,000元整。"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/第七屆高科盃全國商業智慧競賽簡章.pdf",
+        "quote": "所有參賽者，皆頒發參賽證明，可上傳作為推薦甄試佐證資料。"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/第七屆高科盃全國商業智慧競賽簡章.pdf",
+        "quote": "獎品項目暫訂，主辦單位得依實際狀況更改之。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/第七屆高科盃全國商業智慧競賽簡章.pdf"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://cpt.ic.nkust.edu.tw/",
+    "rules": [
+      {
+        "title": "第七屆高科盃全國商業智慧競賽簡章（PDF）",
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/第七屆高科盃全國商業智慧競賽簡章.pdf"
+      }
+    ],
+    "registration": "https://cpt.ic.nkust.edu.tw/"
+  },
+  "found_via": [
+    {
+      "name": "大同高中 學生競賽活動",
+      "url": "https://www.ttsh.tp.edu.tw/news/%e5%9c%8b%e7%ab%8b%e9%ab%98%e9%9b%84%e7%a7%91%e6%8a%80%e5%a4%a7%e5%ad%b8%e5%95%86%e6%a5%ad%e6%99%ba%e6%85%a7%e5%ad%b8%e9%99%a2%e6%9a%a8%e6%99%ba%e6%85%a7%e5%95%86%e5%8b%99%e7%b3%bb%e8%88%89%e8%be%a6/"
+    },
+    {
+      "name": "成功高中 活動競賽",
+      "url": "https://www.cksh.tp.edu.tw/news/%e3%80%90%e8%bd%89%e7%9f%a5%e3%80%91-%e5%9c%8b%e7%ab%8b%e9%ab%98%e9%9b%84%e7%a7%91%e6%8a%80%e5%a4%a7%e5%ad%b8%e3%80%8c%e7%ac%ac%e4%b8%83%e5%b1%86%e9%ab%98%e7%a7%91%e7%9b%83%e5%85%a8%e5%9c%8b-%e5%95%86/"
+    },
+    {
+      "name": "武陵高中 校外競賽",
+      "url": "http://www.wlsh.tyc.edu.tw/p/406-1000-43321,r83.php?Lang=zh-tw"
+    },
+    {
+      "name": "苗栗農工 處室公告",
+      "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26526"
+    },
+    {
+      "name": "苗栗高中 學生校外營隊、活動、比賽",
+      "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=28070"
+    },
+    {
+      "name": "臺南女中 學生競賽",
+      "url": "https://www.tngs.tn.edu.tw/2026/09/21/%e7%ac%ac%e4%b8%83%e5%b1%86%e9%ab%98%e7%a7%91%e7%9b%83%e5%85%a8%e5%9c%8b%e5%95%86%e6%a5%ad%e6%99%ba%e6%85%a7%e7%ab%b6%e8%b3%bd%e5%85%ac%e5%91%8a/"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-25",
+    "method": "single",
+    "unread": [
+      "延續性作品說明書",
+      "著作財產權授權同意書",
+      "法定代理人同意書"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-25",
+  "conflict": "簡章列決賽暨頒獎典禮為115年11月21日（六）；大同高中與成功高中的轉知公告寫明原列決賽日期115年11月21日(六)更正為115年11月22日(日)。"
+}

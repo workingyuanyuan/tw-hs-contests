@@ -3,7 +3,7 @@ title: "第13屆新住民及子女築夢計畫"
 description: "新住民或其子女2至5人組隊，依五大主題組別撰寫築夢計畫書參加甄選。"
 appliesTo: "第13屆 這一屆"
 caveat: "高中職學生與大專生或社會人士同組評比。"
-lastVerified: 2026-11-24
+lastVerified: 2026-11-25
 kind: "contest"
 deadline: "2026-12-15"
 sources:

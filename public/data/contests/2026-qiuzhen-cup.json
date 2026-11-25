@@ -1,13 +1,21 @@
 {
   "schema": 1,
   "id": "2026-qiuzhen-cup",
-  "title": "求真盃全國高中商管個案競賽",
+  "title": "2026求真盃全國高中商管個案競賽",
   "edition": "2026",
-  "summary": "4 至 6 人組隊到東海大學，當天拿到企業個案，限時分析、製作簡報並上台答詢。",
+  "summary": "高中職學生 4 至 6 人組隊，研討高科技業、製造業或商業服務業的企業個案並提出分析報告。",
   "organizers": [
+    {
+      "name": "東海大學管理學院",
+      "role": "主辦"
+    },
     {
       "name": "路思義文教協會",
       "role": "主辦"
+    },
+    {
+      "name": "東海大學企業永續影響力中心",
+      "role": "協辦"
     }
   ],
   "categories": [
@@ -22,178 +30,171 @@
     "regions": [
       "全國"
     ],
-    "nomination": "none",
+    "nomination": "unknown",
     "team_min": 4,
     "team_max": 6,
     "teacher": "unknown",
     "basis": "quote",
     "evidence": [
       {
-        "url": "https://wodewangzhan-7nf60w.webnode.page/",
-        "quote": "報名資格:全國高中職學生(須提供學生在學證明)"
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26857",
+        "quote": "(三)參賽對象：全國高中職在學學生，每校至多報名2隊，總名額36隊。"
       },
       {
-        "url": "https://wodewangzhan-7nf60w.webnode.page/",
-        "quote": "每校最多ˇ2隊，每隊4-6人（正式上台 4 人）"
-      },
-      {
-        "url": "https://wodewangzhan-7nf60w.webnode.page/",
-        "quote": "競賽名額：36 隊，額滿為止"
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26857",
+        "quote": "(五)組隊方式：每隊4至6人，不限年級，正式上臺報告以4人為限。"
       }
     ]
   },
   "dates": [
     {
+      "kind": "other",
+      "label": "競賽說明會",
+      "date": "2026-10-31",
+      "time": null,
+      "original": "115年10月31日(星期六)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26857",
+          "quote": "(六)競賽說明會：115年10月31日(星期六)，相關資訊請參閱活動官網公告。"
+        }
+      ]
+    },
+    {
       "kind": "registration_deadline",
-      "label": "報名截止",
+      "label": "線上報名截止",
       "date": "2026-11-20",
       "time": null,
-      "original": "報名期間:2026/08/31-11/20",
+      "original": "115年11月20日(星期五)",
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://wodewangzhan-7nf60w.webnode.page/",
-          "quote": "報名期間:2026/08/31-11/20"
+          "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26857",
+          "quote": "(七)報名期限：即日起至115年11月20日(星期五)止。"
         }
       ]
     },
     {
       "kind": "final_event",
-      "label": "初賽",
+      "label": "競賽（12 月 12 日至 13 日兩天）",
       "date": "2026-12-12",
       "time": null,
-      "original": "競賽日期:2026/12/12、13",
+      "original": "115年12月12~13日(星期六~日)",
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://wodewangzhan-7nf60w.webnode.page/",
-          "quote": "競賽日期:2026/12/12、13"
-        }
-      ]
-    },
-    {
-      "kind": "final_event",
-      "label": "決賽",
-      "date": "2026-12-13",
-      "time": null,
-      "original": "STEP 5｜晉級決賽 12/13",
-      "basis": "quote",
-      "evidence": [
-        {
-          "url": "https://wodewangzhan-7nf60w.webnode.page/",
-          "quote": "STEP 5｜晉級決賽 12/13"
+          "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26857",
+          "quote": "(一)競賽日期：115年12月12~13日(星期六~日)。"
         }
       ]
     }
   ],
   "deliverables": [
     {
-      "stage": "競賽當日",
-      "what": "現場完成的個案分析簡報，4 人上台報告並答詢",
+      "stage": "競賽（分高科技業組、製造業組、商業服務業組）",
+      "what": "企業個案分析上臺報告，上臺報告者以 4 人為限",
       "how": "onsite"
     }
   ],
   "attendance": {
     "value": "all",
-    "where": "東海大學管理學院",
+    "where": "東海大學第二校區管理學院（臺中市西屯區臺灣大道四段1727號）",
     "basis": "quote",
     "evidence": [
       {
-        "url": "https://wodewangzhan-7nf60w.webnode.page/",
-        "quote": "競賽地點:東海大學管理學院"
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26857",
+        "quote": "(一)競賽日期：115年12月12~13日(星期六~日)。"
       },
       {
-        "url": "https://wodewangzhan-7nf60w.webnode.page/",
-        "quote": "比賽當日，大會將公布競賽個案，各隊需在有限時間內完成分析、擬定策略並製作簡報，向專業評審進行成果發表"
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26857",
+        "quote": "(二)競賽地點：本校第二校區管理學院(臺中市西屯區臺灣大道四段1727號)。"
       }
     ]
   },
   "fee": {
     "value": "deposit",
-    "amount": "保證金 1,000 元，競賽當天歸還",
+    "amount": null,
     "basis": "quote",
     "evidence": [
       {
-        "url": "https://wodewangzhan-7nf60w.webnode.page/",
-        "quote": "保證金:1000元(於競賽當天歸還)"
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26857",
+        "quote": "四、本競賽設有各組優勝獎項及參賽相關補助，競賽辦法、報名保證金、獎勵及補助等相關規定，請參閱活動官網(https://wodewangzhan-7nf60w.webnode.page/)公告。"
       }
     ]
   },
   "prizes": {
-    "text": "特優 15,000 元、優勝 10,000 元、佳作 5,000 元，皆附獎狀與獎牌；殿軍得獎狀、獎牌與獎品。名次只頒給進入複賽的隊伍。",
+    "text": "各組設優勝獎項，另有參賽相關補助。",
     "basis": "quote",
     "evidence": [
       {
-        "url": "https://wodewangzhan-7nf60w.webnode.page/%e7%8d%8e%e9%87%912/",
-        "quote": "僅提供進入複賽隊伍"
-      },
-      {
-        "url": "https://wodewangzhan-7nf60w.webnode.page/%e7%8d%8e%e9%87%912/",
-        "quote": "特優（冠軍）：獎狀+獎牌+15,000元"
-      },
-      {
-        "url": "https://wodewangzhan-7nf60w.webnode.page/%e7%8d%8e%e9%87%912/",
-        "quote": "優勝（亞軍）：獎狀+獎牌+10,000元"
-      },
-      {
-        "url": "https://wodewangzhan-7nf60w.webnode.page/%e7%8d%8e%e9%87%912/",
-        "quote": "佳作（季軍）：獎狀+獎牌+5,000元"
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26857",
+        "quote": "四、本競賽設有各組優勝獎項及參賽相關補助，競賽辦法、報名保證金、獎勵及補助等相關規定，請參閱活動官網(https://wodewangzhan-7nf60w.webnode.page/)公告。"
       }
     ]
   },
   "ai_policy": {
-    "value": "allowed",
-    "basis": "quote",
-    "evidence": [
-      {
-        "url": "https://wodewangzhan-7nf60w.webnode.page/%e9%97%9c%e6%96%bc%e6%88%91%e5%80%91/",
-        "quote": "求真盃採 AI 開放使用制度，參賽者可以選擇適合自己的 AI 工具協助分析。"
-      }
-    ]
+    "value": "unknown",
+    "basis": "unread",
+    "evidence": []
   },
   "links": {
     "official": "https://wodewangzhan-7nf60w.webnode.page/",
-    "rules": [
-      {
-        "title": "比賽資訊",
-        "url": "https://wodewangzhan-7nf60w.webnode.page/%e6%af%94%e8%b3%bd%e8%b3%87%e8%a8%8a/"
-      },
-      {
-        "title": "獎金資訊",
-        "url": "https://wodewangzhan-7nf60w.webnode.page/%e7%8d%8e%e9%87%912/"
-      },
-      {
-        "title": "關於我們",
-        "url": "https://wodewangzhan-7nf60w.webnode.page/%e9%97%9c%e6%96%bc%e6%88%91%e5%80%91/"
-      },
-      {
-        "title": "常見問題",
-        "url": "https://wodewangzhan-7nf60w.webnode.page/%e5%b8%b8%e8%a6%8bq-a/"
-      }
-    ],
-    "registration": null
+    "rules": [],
+    "registration": "https://forms.gle/mpU14o6eRpkjqQEFA"
   },
   "found_via": [
     {
-      "name": "斗六高中轉知公告",
-      "url": "https://www.tlsh.ylc.edu.tw/2026/10/21/68304/"
+      "name": "高師大附中 校外競賽與活動",
+      "url": "https://www.nknush.kh.edu.tw/announcement/21564/%e5%85%ac%e5%91%8a%e8%a8%93%e8%82%b2%e7%b5%84%e6%9d%b1%e6%b5%b7%e5%a4%a7%e5%ad%b8%e3%80%8c2026%e6%b1%82%e7%9c%9f%e7%9b%83%e5%85%a8%e5%9c%8b%e9%ab%98%e4%b8%ad%e5%95%86%e7%ae%a1%e5%80%8b%e6%a1%88/"
+    },
+    {
+      "name": "大同高中 學生競賽活動",
+      "url": "https://www.ttsh.tp.edu.tw/news/%e6%9d%b1%e6%b5%b7%e5%a4%a7%e5%ad%b8%e7%ae%a1%e7%90%86%e5%ad%b8%e9%99%a2%e8%88%89%e8%be%a6%e3%80%8c2026%e6%b1%82%e7%9c%9f%e7%9b%83%e5%85%a8%e5%9c%8b%e9%ab%98%e4%b8%ad%e5%95%86%e7%ae%a1%e5%80%8b/"
+    },
+    {
+      "name": "成功高中 活動競賽",
+      "url": "https://www.cksh.tp.edu.tw/news/%e3%80%90%e8%bd%89%e7%9f%a5%e3%80%91-%e6%9d%b1%e6%b5%b7%e5%a4%a7%e5%ad%b8%e3%80%8c2026%e6%b1%82%e7%9c%9f%e7%9b%83%e5%85%a8%e5%9c%8b%e9%ab%98%e4%b8%ad%e5%95%86%e7%ae%a1%e5%80%8b%e6%a1%88%e7%ab%b6/"
+    },
+    {
+      "name": "大里高中 校外活動與競賽",
+      "url": "https://dlsh.tc.edu.tw/p/406-1068-642030,r2145.php?Lang=zh-tw"
+    },
+    {
+      "name": "苗栗農工 處室公告",
+      "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26857"
+    },
+    {
+      "name": "苗栗高中 學生校外營隊、活動、比賽",
+      "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=28422"
+    },
+    {
+      "name": "暨大附中 學生研習與競賽活動",
+      "url": "https://www.pshs.ntct.edu.tw/ischool/public/news_view/show.php?nid=33895"
+    },
+    {
+      "name": "壽山高中 校外競賽",
+      "url": "https://www.sssh.tyc.edu.tw/news/%e6%9d%b1%e6%b5%b7%e5%a4%a7%e5%ad%b8%e7%ae%a1%e7%90%86%e5%ad%b8%e9%99%a2%e8%88%89%e8%be%a6%e3%80%8c2026%e6%b1%82%e7%9c%9f%e7%9b%83%e5%85%a8%e5%9c%8b%e9%ab%98%e4%b8%ad%e5%95%86%e7%ae%a1%e5%80%8b/"
+    },
+    {
+      "name": "大里高中 校外活動與競賽",
+      "url": "https://dlsh.tc.edu.tw/p/406-1068-642030,r2145.php"
     }
   ],
-  "conflict": "官網首頁寫競賽日期是 2026/12/12、13，同站「比賽資訊」頁寫 2026 年 11 月 14 日及 15 日。",
   "verification": {
-    "last_verified": "2026-11-24",
+    "last_verified": "2026-11-25",
     "method": "single",
     "unread": [
-      "競賽規則",
-      "報到須知",
-      "評分標準",
-      "晉級方式",
-      "報名管道"
+      "活動官網的競賽辦法（報名保證金、獎勵及補助規定）",
+      "活動海報"
     ],
-    "note": null
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
   },
   "first_seen": "2026-11-16",
-  "updated": "2026-11-18",
+  "updated": "2026-11-25",
   "level": "checked",
   "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-qiuzhen-cup/",
   "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-qiuzhen-cup.md"

@@ -1,9 +1,9 @@
 ---
 title: "類別：外語"
 description: "外語類的比賽 7 則，最早在 2026-12-04 截止。"
-appliesTo: "資料更新至 2026-11-24"
+appliesTo: "資料更新至 2026-11-25"
 caveat: "截止日指新參賽者報名的最後一天，以臺灣時間計。"
-lastVerified: 2026-11-24
+lastVerified: 2026-11-25
 kind: "index"
 sidebar:
   label: "外語"

@@ -3,7 +3,7 @@
   "id": "2026-chtiia-creative-entrepreneurship",
   "title": "2026全國大專院校暨高中職創意創新創業管理個案專題競賽",
   "edition": "2026",
-  "summary": "大專院校與高中職師生組隊，撰寫創意創新創業管理個案專題報告，以Word與PDF繳交書面審查。",
+  "summary": "大專院校與高中職學生 2 至 6 人組隊，就創意創新創業管理個案撰寫專題提案報告。",
   "organizers": [
     {
       "name": "中華人文科技創新國際學會",
@@ -40,17 +40,17 @@
       },
       {
         "url": "https://sites.google.com/site/ciipcertificate/2026全國大專院校暨高中職創意創新創業管理個案專題競賽",
-        "quote": "以隊為單位，競賽取學生團隊前三名及佳作數名"
+        "quote": "競賽結束後，以隊為單位，競賽取學生團隊前三名及佳作數名"
       }
     ]
   },
   "dates": [
     {
       "kind": "registration_deadline",
-      "label": "報名與繳交資料截止",
+      "label": "網路報名與上傳報名繳交資料截止",
       "date": "2026-12-25",
       "time": null,
-      "original": "自公告日起至 2026 年 12 月 25 日(星期五)截止",
+      "original": "2026 年 12 月 25 日(星期五)",
       "basis": "quote",
       "evidence": [
         {
@@ -77,12 +77,17 @@
   "deliverables": [
     {
       "stage": "報名",
-      "what": "BeClass 線上報名表",
+      "what": "BeClass 網路報名表（基本資料、參賽主題、學校科系、指導老師與組員姓名）",
       "how": "online"
     },
     {
       "stage": "報名",
-      "what": "全員親筆簽名的授權同意書掃描檔，與創意創新創業提案（Word 與 PDF 各一份，至少 10 頁）以 email 繳交",
+      "what": "全員親筆簽名的著作授權同意書掃描檔",
+      "how": "online"
+    },
+    {
+      "stage": "報名",
+      "what": "創意創新與創業提案報告 Word 與 PDF 電子檔，至少 10 頁，依附件二大綱與格式",
       "how": "online"
     }
   ],
@@ -93,11 +98,11 @@
     "evidence": [
       {
         "url": "https://sites.google.com/site/ciipcertificate/2026全國大專院校暨高中職創意創新創業管理個案專題競賽",
-        "quote": "資料符合規定才可參加競賽、經入圍組別得以繼續進入決賽。"
+        "quote": "1. 競賽評審方式以書面審查方式進行。"
       },
       {
         "url": "https://sites.google.com/site/ciipcertificate/2026全國大專院校暨高中職創意創新創業管理個案專題競賽",
-        "quote": "1. 競賽評審方式以書面審查方式進行。"
+        "quote": "資料符合規定才可參加競賽、經入圍組別得以繼續進入決賽。"
       }
     ]
   },
@@ -113,7 +118,7 @@
     ]
   },
   "prizes": {
-    "text": "學生團隊第一名獎金 3 千元、第二名 2 千元、第三名 1 千元，皆附團體獎狀；佳作數名頒團體獎狀。增加的並列前三名只有獎狀。",
+    "text": "第一名獎金 3 千元、第二名 2 千元、第三名 1 千元，各附隊員團體獎狀；佳作數名頒團體獎狀。主辦單位得增加並列前三名，並列者只有獎狀、無獎金。",
     "basis": "quote",
     "evidence": [
       {
@@ -157,13 +162,17 @@
     "official": "https://sites.google.com/site/ciipcertificate/2026全國大專院校暨高中職創意創新創業管理個案專題競賽",
     "rules": [
       {
-        "title": "附件12（參賽注意事項、授權同意書與報告格式，docx）",
+        "title": "附件（參賽注意事項、著作授權同意書、內容參考大綱，docx）",
         "url": "https://www.beclass.com/share/202609/1001890050391fmf_0.docx"
       }
     ],
     "registration": "https://www.beclass.com/rid=305283a6ab1fb5086b9b"
   },
   "found_via": [
+    {
+      "name": "www.beclass.com",
+      "url": "https://www.beclass.com/share/202609/1001890050391fmf_0.docx"
+    },
     {
       "name": "sites.google.com",
       "url": "https://sites.google.com/site/ciipcertificate/2026全國大專院校暨高中職創意創新創業管理個案專題競賽"
@@ -182,7 +191,7 @@
     }
   ],
   "verification": {
-    "last_verified": "2026-11-24",
+    "last_verified": "2026-11-25",
     "method": "dual",
     "unread": [],
     "note": null,
@@ -192,8 +201,7 @@
     ]
   },
   "first_seen": "2026-11-20",
-  "updated": "2026-11-24",
-  "conflict": "BeClass 報名頁所附的附件12（docx）中，授權同意書與內容參考大綱寫「2025全國大專院校暨高中職創意創新創業管理個案專題競賽」、授權日期為民國 114 年；學會網站的 2026 競賽頁附件一、附件二寫 2026 與民國 115 年。",
+  "updated": "2026-11-25",
   "level": "verified",
   "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-chtiia-creative-entrepreneurship/",
   "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-chtiia-creative-entrepreneurship.md"

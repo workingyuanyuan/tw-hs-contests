@@ -3,7 +3,7 @@ title: "2026年弘光盃全國高中職電競大賽－秋季賽《特戰英豪�
 description: "全國高中職及五專一至三年級學生 5 至 6 人組隊線上報名參加《特戰英豪》線上預賽，晉級者至弘光科大線下決賽。"
 appliesTo: "2026 這一屆"
 caveat: "報名已於 2026-11-14 截止。"
-lastVerified: 2026-11-24
+lastVerified: 2026-11-25
 kind: "contest"
 deadline: "2026-11-14"
 sources:

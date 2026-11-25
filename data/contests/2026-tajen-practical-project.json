@@ -1,0 +1,260 @@
+{
+  "schema": 1,
+  "id": "2026-tajen-practical-project",
+  "title": "115年度高屏地區學生國高中實務專題製作競賽",
+  "edition": "115年度",
+  "summary": "高屏地區國高中職學生 2 至 6 人組隊，就健康照護、數位人文或環境永續專題繳交成果報告。",
+  "organizers": [
+    {
+      "name": "教育部",
+      "role": "指導"
+    },
+    {
+      "name": "大仁科技大學研發暨產學合作處",
+      "role": "主辦"
+    },
+    {
+      "name": "大仁科技大學教學發展中心",
+      "role": "協辦"
+    },
+    {
+      "name": "大仁科技大學藥學暨健康學院",
+      "role": "協辦"
+    },
+    {
+      "name": "大仁科技大學休閒暨餐旅學院",
+      "role": "協辦"
+    },
+    {
+      "name": "大仁科技大學人文暨資訊學院",
+      "role": "協辦"
+    }
+  ],
+  "categories": [
+    "醫護與照顧",
+    "資訊與 AI",
+    "農業與環境"
+  ],
+  "eligibility": {
+    "levels": [
+      "國中",
+      "高中",
+      "高職"
+    ],
+    "division": "mixed",
+    "regions": [
+      "高雄市",
+      "屏東縣"
+    ],
+    "nomination": "none",
+    "team_min": 2,
+    "team_max": 6,
+    "teacher": "required",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.ksvs.kh.edu.tw/v4/cpsub/article.php?id=12611",
+        "quote": "(一) 參賽對象： 高屏地區各公私立國中、高中及職業學校（含進修學校）在學學生。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1kvsqtSZpHfVdauVvA7Nz4jm5yBMTihNj/view?usp=sharing",
+        "quote": "（一） 高屏區國高中職組 。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1kvsqtSZpHfVdauVvA7Nz4jm5yBMTihNj/view?usp=sharing",
+        "quote": "（三） 每組作品組員2~6 名及指導老師一名或以上。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1kvsqtSZpHfVdauVvA7Nz4jm5yBMTihNj/view?usp=sharing",
+        "quote": "本競賽採網路報名提出申請，即日起至115 年11 月8 日(日)晚上 23:55 止"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "網路報名截止",
+      "date": "2026-11-08",
+      "time": "23:55",
+      "original": "115 年11 月8 日(日)晚上 23:55",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://drive.google.com/file/d/1kvsqtSZpHfVdauVvA7Nz4jm5yBMTihNj/view?usp=sharing",
+          "quote": "本競賽採網路報名提出申請，即日起至115 年11 月8 日(日)晚上 23:55 止"
+        },
+        {
+          "url": "https://www.ksvs.kh.edu.tw/v4/cpsub/article.php?id=12611",
+          "quote": "(二) 報名日期： 自即日起至115年11月8日(星期日)止。"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "作品收件及繳交海報電子檔截止",
+      "date": "2026-11-08",
+      "time": "23:55",
+      "original": "至115年11月08日(日)止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://drive.google.com/file/d/1kvsqtSZpHfVdauVvA7Nz4jm5yBMTihNj/view?usp=sharing",
+          "quote": "作品收件及繳交海報電子檔日期： 至115年11月08日(日)止"
+        },
+        {
+          "url": "https://drive.google.com/file/d/1kvsqtSZpHfVdauVvA7Nz4jm5yBMTihNj/view?usp=sharing",
+          "quote": "申請文件應於115 年11 月8 日(日)晚上23:55 前上傳至Google 報名"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "初審入圍作品決賽與成果展示",
+      "date": "2026-11-18",
+      "time": "10:00",
+      "original": "115年11月18日(三)10:00~16:30",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://drive.google.com/file/d/1kvsqtSZpHfVdauVvA7Nz4jm5yBMTihNj/view?usp=sharing",
+          "quote": "決賽與成果展示時間： 115年11月18日(三)10:00~16:30"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名",
+      "what": "參賽同意書、切結書、個人資料提供同意書（師生簽名後掃描）",
+      "how": "online"
+    },
+    {
+      "stage": "報名",
+      "what": "成果報告書 PDF 檔，內文至多 5 頁（不含封面及參考文獻）",
+      "how": "online"
+    },
+    {
+      "stage": "報名",
+      "what": "專題海報 PDF 檔",
+      "how": "online"
+    },
+    {
+      "stage": "決賽（初審入圍）",
+      "what": "實體海報展示，3 分鐘口頭發表及 3 分鐘評審提問；海報由主辦單位統一輸出",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "finalists",
+    "where": "大仁科技大學體育館",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/1kvsqtSZpHfVdauVvA7Nz4jm5yBMTihNj/view?usp=sharing",
+        "quote": "初審入圍之作品，務必參與決賽。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1kvsqtSZpHfVdauVvA7Nz4jm5yBMTihNj/view?usp=sharing",
+        "quote": "決賽地點：大仁科技大學 體育館"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/1kvsqtSZpHfVdauVvA7Nz4jm5yBMTihNj/view?usp=sharing"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/1151201468_1_實務專題競賽簡章.pdf"
+      },
+      {
+        "url": "https://www.ksvs.kh.edu.tw/v4/cpsub/article.php?id=12611"
+      },
+      {
+        "url": "https://www.ksvs.kh.edu.tw/v4/cpsub/article.php?id=12575"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "三大領域各自頒發：金獎 1 名 8,000 元、銀獎 1 名 6,000 元、銅獎 1 名 5,000 元、特別獎 7 名各 1,500 元，皆附獎狀；佳作 3 名，頒獎狀。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/1kvsqtSZpHfVdauVvA7Nz4jm5yBMTihNj/view?usp=sharing",
+        "quote": "依各領域得分高低錄取前三名及特別獎七名予以獎勵"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1kvsqtSZpHfVdauVvA7Nz4jm5yBMTihNj/view?usp=sharing",
+        "quote": "金 獎：乙名，每名捌仟元獎金及獎狀乙紙。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1kvsqtSZpHfVdauVvA7Nz4jm5yBMTihNj/view?usp=sharing",
+        "quote": "銀 獎：乙名，每名陸仟元獎金及獎狀乙紙。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1kvsqtSZpHfVdauVvA7Nz4jm5yBMTihNj/view?usp=sharing",
+        "quote": "銅 獎：乙名，每名伍仟元獎金及獎狀乙紙。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1kvsqtSZpHfVdauVvA7Nz4jm5yBMTihNj/view?usp=sharing",
+        "quote": "特別獎：七名，每名一仟伍佰元獎金及獎狀乙紙。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1kvsqtSZpHfVdauVvA7Nz4jm5yBMTihNj/view?usp=sharing",
+        "quote": "佳 作：三名，獎狀乙紙。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/1kvsqtSZpHfVdauVvA7Nz4jm5yBMTihNj/view?usp=sharing"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/1151201468_1_實務專題競賽簡章.pdf"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://sites.google.com/tajen.edu.tw/reurlcc3ex44j/%E9%A6%96%E9%A0%81",
+    "rules": [
+      {
+        "title": "參賽簡章（PDF）",
+        "url": "https://drive.google.com/file/d/1kvsqtSZpHfVdauVvA7Nz4jm5yBMTihNj/view?usp=sharing"
+      }
+    ],
+    "registration": "https://forms.gle/YhDPb4y6yfcK6bU8A"
+  },
+  "found_via": [
+    {
+      "name": "高雄高工 競賽公告",
+      "url": "https://www.ksvs.kh.edu.tw/v4/cpsub/article.php?id=12611"
+    },
+    {
+      "name": "高師大附中 校外競賽與活動",
+      "url": "https://www.nknush.kh.edu.tw/announcement/21748/%e7%ab%b6%e8%b3%bd115%e5%b9%b4%e5%ba%a6%e9%ab%98%e5%b1%8f%e5%9c%b0%e5%8d%80%e5%ad%b8%e7%94%9f%e5%9c%8b%e9%ab%98%e4%b8%ad%e5%af%a6%e5%8b%99%e5%b0%88%e9%a1%8c%e8%a3%bd%e4%bd%9c%e7%ab%b6%e8%b3%bd/"
+    },
+    {
+      "name": "高雄高工 競賽公告",
+      "url": "https://www.ksvs.kh.edu.tw/v4/cpsub/article.php?id=12575"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-25",
+    "method": "single",
+    "unread": [
+      "活動官方網站（競賽詳細規範及相關表單）"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-25"
+}

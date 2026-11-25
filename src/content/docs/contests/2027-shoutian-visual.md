@@ -3,7 +3,7 @@ title: "2026 受天宮影像創作大賽「看見・信仰」"
 description: "高中職以上及社會人士分組就受天宮信仰與松柏嶺采風，以個人或 3 人內團隊繳直式短影音連結，或個人繳 3 張 JPG 組圖參賽。"
 appliesTo: "2026 這一屆"
 caveat: "高中職學生與大專生或社會人士同組評比。"
-lastVerified: 2026-11-21
+lastVerified: 2026-11-25
 kind: "contest"
 deadline: "2027-05-01"
 sources:

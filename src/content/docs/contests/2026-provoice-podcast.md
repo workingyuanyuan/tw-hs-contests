@@ -3,7 +3,7 @@ title: "第七屆播客大賽：用我們的話 說愛的故事"
 description: "15 歲以上學生及社會人士（兒童故事類不限年齡）1 至 4 人組隊或個人報名，繳交 10 至 15 分鐘原創播客音檔參與評選與網路票選。"
 appliesTo: "第七屆 這一屆"
 caveat: "高中職學生與大專生或社會人士同組評比。"
-lastVerified: 2026-11-24
+lastVerified: 2026-11-25
 kind: "contest"
 deadline: "2026-12-25"
 sources:

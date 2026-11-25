@@ -3,7 +3,7 @@ title: "2026全國高中職暨大專校院英日語播報員朗讀競賽"
 description: "高中職及大專學生以英語或日語朗讀介紹笠間市的播報稿，模擬電視播報員播報。"
 appliesTo: "2026 這一屆"
 caveat: "須由學校推薦或薦送，學生不能自行報名。"
-lastVerified: 2026-11-24
+lastVerified: 2026-11-25
 kind: "contest"
 deadline: "2026-12-05"
 sources:

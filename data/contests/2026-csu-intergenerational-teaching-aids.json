@@ -1,0 +1,323 @@
+{
+  "schema": 1,
+  "id": "2026-csu-intergenerational-teaching-aids",
+  "title": "2026全國高中職暨大專校院老幼共學創意教具競賽",
+  "edition": "2026",
+  "summary": "高中職相關科系與大專學生組隊（至多4人），設計製作老幼共學創意教具參賽。",
+  "organizers": [
+    {
+      "name": "教育部",
+      "role": "指導"
+    },
+    {
+      "name": "正修科技大學長期照護與健康管理系",
+      "role": "主辦"
+    },
+    {
+      "name": "正修科技大學幼兒保育系",
+      "role": "主辦"
+    },
+    {
+      "name": "正修科技大學護理系",
+      "role": "主辦"
+    },
+    {
+      "name": "正修科技大學健康暨管理學院",
+      "role": "協辦"
+    }
+  ],
+  "categories": [
+    "醫護與照顧",
+    "設計"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職",
+      "五專",
+      "大專"
+    ],
+    "division": "separate",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": null,
+    "team_max": 4,
+    "teacher": "optional",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28395/%E7%AB%B6%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "一、高中職組：全國高中職長照、老服、幼保、家政、護理或相關科系學生。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28395/%E7%AB%B6%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "二、大專組：全國專科部四、五年級或大學部三年級(含)以上在學學生，歡迎各校組隊參加。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28395/%E7%AB%B6%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "每組參賽團隊人數至多4人，每位參賽者至多可參與1件作品，每件作品之指導老師以2名為限。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28395/%E7%AB%B6%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "一、請上網填寫報名資料"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "報名及初賽書面資料上傳截止",
+      "date": "2026-11-05",
+      "time": "12:00",
+      "original": "115年11月5日(星期四)中午12時",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26831",
+          "quote": "一、報名日期：即日起至115年11月5日(星期四)中午12時截止。"
+        }
+      ]
+    },
+    {
+      "kind": "shortlist_announcement",
+      "label": "公布入圍決賽作品",
+      "date": "2026-11-13",
+      "time": null,
+      "original": "115年11月13日(星期五)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26831",
+          "quote": "二、公布入圍決賽作品時間：115年11月13日(星期五)。"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "入圍決賽作品郵寄收件截止（以郵戳為憑）",
+      "date": "2026-11-19",
+      "time": null,
+      "original": "115年11月19日(星期四)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26831",
+          "quote": "三、入圍決賽作品收件時間：115年11月19日(星期四)以郵戳為憑；115年11月20日(星期五)下午16時親送截止。"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "入圍決賽作品親送截止",
+      "date": "2026-11-20",
+      "time": "16:00",
+      "original": "115年11月20日(星期五)下午16時",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26831",
+          "quote": "三、入圍決賽作品收件時間：115年11月19日(星期四)以郵戳為憑；115年11月20日(星期五)下午16時親送截止。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "決賽作品展示及評審（11月23日至25日）",
+      "date": "2026-11-23",
+      "time": null,
+      "original": "115年11月23日(星期一)至25日(星期三)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26831",
+          "quote": "四、作品展示及評審時間：115年11月23日(星期一)至25日(星期三)。"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "決賽成績公布",
+      "date": "2026-11-26",
+      "time": null,
+      "original": "115年11月26日(星期四)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26831",
+          "quote": "五、決賽成績公布時間：115年11月26日(星期四)。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "獲獎團隊代表寄送身分證及存摺檔案截止",
+      "date": "2026-12-02",
+      "time": "17:00",
+      "original": "115 年12 月2 日(三)下午17 時",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28395/%E7%AB%B6%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf",
+          "quote": "115 年12 月2 日(三)下午17 時止，由各獲獎團隊推派一名代表"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "公開頒獎",
+      "date": "2026-12-03",
+      "time": null,
+      "original": "115年12月3日(星期四)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26831",
+          "quote": "六、公開頒獎時間：115年12月3日(星期四)。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "入圍決賽作品至系辦公室領回截止",
+      "date": "2026-12-11",
+      "time": "17:00",
+      "original": "2026年12月11日(五)17時",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28395/%E7%AB%B6%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf",
+          "quote": "請逕自於2026年12月11日(五)17時前至本系辦公室領回作品。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "初賽（書面審查）",
+      "what": "參賽作品資料表 PDF 檔（含至多 15 張 6cm×6cm 教具說明照片），隨線上報名上傳",
+      "how": "online"
+    },
+    {
+      "stage": "決賽（入圍作品）",
+      "what": "教具實體作品附作品資料表；平面四開，立體長寬高 90×90×50 公分以內，展開高度 100 公分以內；郵寄或親送",
+      "how": "mail"
+    }
+  ],
+  "attendance": {
+    "value": "none",
+    "where": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28395/%E7%AB%B6%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf"
+      },
+      {
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26831"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28395/%E7%AB%B6%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf"
+      },
+      {
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26831"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "高中職組、大專組各取第一名 1 組獎金 4,000 元、第二名 1 組 3,000 元、第三名 1 組 1,500 元、佳作 3 組各 500 元，皆頒獎狀（電子檔）；所有參賽隊伍皆獲參加證明。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28395/%E7%AB%B6%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "高中職組：第一名1 組、第二名1 組、第三名1 組及佳作3 組。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28395/%E7%AB%B6%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "大專組：第一名1 組、第二名1 組、第三名1 組及佳作3 組。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28395/%E7%AB%B6%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "第一名：得獎作品頒發獎狀(電子檔案)及獎金肆仟元整。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28395/%E7%AB%B6%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "第二名：得獎作品頒發獎狀(電子檔案)及獎金叄仟元整。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28395/%E7%AB%B6%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "第三名：得獎作品頒發獎狀(電子檔案)及獎金壹仟伍佰元整。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28395/%E7%AB%B6%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "佳作：得獎作品頒發獎狀(電子檔案)及獎金伍佰元整。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28395/%E7%AB%B6%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "1.所有參賽隊伍不論得名與否，皆可獲得主辦單位提供之參加證明。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28395/%E7%AB%B6%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf"
+      },
+      {
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26831"
+      }
+    ]
+  },
+  "links": {
+    "official": null,
+    "rules": [
+      {
+        "title": "競賽簡章（PDF）",
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28395/%E7%AB%B6%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf"
+      },
+      {
+        "title": "正修科技大學公文（PDF）",
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/「2026全國高中職暨大專校院老幼共學創意教具競賽」.pdf"
+      }
+    ],
+    "registration": "https://forms.gle/YgBT6xz8cyG9dAvTA"
+  },
+  "found_via": [
+    {
+      "name": "苗栗農工 處室公告",
+      "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26831"
+    },
+    {
+      "name": "苗栗高中 學生校外營隊、活動、比賽",
+      "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=28395"
+    },
+    {
+      "name": "高師大附中 校外競賽與活動",
+      "url": "https://www.nknush.kh.edu.tw/announcement/21436/%e5%85%ac%e5%91%8a%e8%a8%93%e8%82%b2%e7%b5%84%e6%ad%a3%e4%bf%ae%e7%a7%91%e6%8a%80%e5%a4%a7%e5%ad%b8%e3%80%8c2026%e5%85%a8%e5%9c%8b%e9%ab%98%e4%b8%ad%e8%81%b7%e6%9a%a8%e5%a4%a7%e5%b0%88%e6%a0%a1/"
+    },
+    {
+      "name": "新竹女中 活動研習",
+      "url": "https://www.hgsh.hc.edu.tw/news/%e8%b2%a1%e5%9c%98%e6%b3%95%e4%ba%ba%e6%ad%a3%e4%bf%ae%e7%a7%91%e6%8a%80%e5%a4%a7%e5%ad%b8%e8%88%89%e8%be%a6%e3%80%8c2026%e5%85%a8%e5%9c%8b%e9%ab%98%e4%b8%ad%e8%81%b7%e6%9a%a8%e5%a4%a7%e5%b0%88/"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-25",
+    "method": "single",
+    "unread": [],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-25"
+}
