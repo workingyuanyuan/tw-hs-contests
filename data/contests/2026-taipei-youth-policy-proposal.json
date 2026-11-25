@@ -1,0 +1,161 @@
+{
+  "schema": 1,
+  "id": "2026-taipei-youth-policy-proposal",
+  "title": "115年度公共政策創意提案競賽",
+  "edition": "115年度",
+  "summary": "15 至 45 歲青年組隊，就市政或社會議題提出公共政策創意提案。",
+  "organizers": [
+    {
+      "name": "臺北市政府青年局",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "社會人文",
+    "創業與企劃"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職",
+      "五專",
+      "大專",
+      "社會人士"
+    ],
+    "division": "mixed",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": 6,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.nkhs.tp.edu.tw/ischool/public/news_view/show.php?nid=34589",
+        "quote": "四、參加對象：15歲以上至45歲以下之青年（以報名截止日為準）。"
+      },
+      {
+        "url": "https://www.nkhs.tp.edu.tw/ischool/public/news_view/show.php?nid=34589",
+        "quote": "個人不得重複報名，以參與一個團隊為限，團隊人數為1人至6人，且團隊成員於報名截止後不得更換。"
+      },
+      {
+        "url": "https://www.nkhs.tp.edu.tw/ischool/public/news_view/show.php?nid=34589",
+        "quote": "三、報名方式：於活動平臺線上報名。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "other",
+      "label": "競賽推廣說明會",
+      "date": "2026-09-12",
+      "time": null,
+      "original": "115年9月12日（星期六）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.nkhs.tp.edu.tw/ischool/public/news_view/show.php?nid=34589",
+          "quote": "(二)競賽推廣說明會：115年9月12日（星期六）。"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "徵件截止",
+      "date": "2026-10-16",
+      "time": null,
+      "original": "即日起至115年10月16日（星期五）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.nkhs.tp.edu.tw/ischool/public/news_view/show.php?nid=34589",
+          "quote": "(一)徵件期間：即日起至115年10月16日（星期五）。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "決賽工作坊",
+      "date": "2026-11-06",
+      "time": null,
+      "original": "115年11月6日（星期五）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.nkhs.tp.edu.tw/ischool/public/news_view/show.php?nid=34589",
+          "quote": "(三)決賽工作坊：115年11月6日（星期五）。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "決賽",
+      "date": "2026-11-08",
+      "time": null,
+      "original": "115年11月8日（星期日）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.nkhs.tp.edu.tw/ischool/public/news_view/show.php?nid=34589",
+          "quote": "(四)決賽日期：115年11月8日（星期日）。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "徵件",
+      "what": "從三項命題（青年心理健康與提升數位媒體韌性、青年職場支持與就業權益、友善人本交通與城市美學）擇一的提案",
+      "how": "unknown"
+    }
+  ],
+  "attendance": {
+    "value": "unknown",
+    "where": null,
+    "basis": "unread",
+    "evidence": []
+  },
+  "fee": {
+    "value": "unknown",
+    "amount": null,
+    "basis": "unread",
+    "evidence": []
+  },
+  "prizes": {
+    "text": null,
+    "basis": "unread",
+    "evidence": []
+  },
+  "ai_policy": {
+    "value": "unknown",
+    "basis": "unread",
+    "evidence": []
+  },
+  "links": {
+    "official": null,
+    "rules": [],
+    "registration": "https://bhuntr.com/tw/competitions/7c23hk6iu7qmrv0bmd"
+  },
+  "found_via": [
+    {
+      "name": "南港高工 重要資訊",
+      "url": "https://www.nkhs.tp.edu.tw/ischool/public/news_view/show.php?nid=34589"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-25",
+    "method": "single",
+    "unread": [
+      "活動簡章",
+      "海報"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-25"
+}

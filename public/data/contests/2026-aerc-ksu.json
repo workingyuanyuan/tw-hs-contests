@@ -1,0 +1,207 @@
+{
+  "schema": 1,
+  "id": "2026-aerc-ksu",
+  "title": "2026第38屆AERC亞洲機器人運動競技大賽－崑山科技大學賽場",
+  "edition": "第38屆",
+  "summary": "各級學校師生組隊，以機器人或無人機參加循跡、障礙、帶球跑、競速等九個項目的現場競技。",
+  "organizers": [
+    {
+      "name": "台灣創新自造者學會",
+      "role": "主辦"
+    },
+    {
+      "name": "崑山科技大學",
+      "role": "主辦"
+    },
+    {
+      "name": "德明財經科技大學",
+      "role": "主辦"
+    },
+    {
+      "name": "勤益科技大學",
+      "role": "主辦"
+    },
+    {
+      "name": "崑山科技大學",
+      "role": "承辦"
+    },
+    {
+      "name": "台灣亞競教育科技有限公司",
+      "role": "協辦"
+    }
+  ],
+  "categories": [
+    "工程與製造",
+    "資訊與 AI"
+  ],
+  "eligibility": {
+    "levels": [
+      "國小",
+      "國中",
+      "高中",
+      "高職",
+      "大專"
+    ],
+    "division": "separate",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": null,
+    "team_max": null,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28071/2026%E7%AC%AC38%E5%B1%86AERC%E4%BA%9E%E6%B4%B2%E6%A9%9F%E5%99%A8%E4%BA%BA%E9%81%8B%E5%8B%95%E7%AB%B6%E6%8A%80%E5%A4%A7%E8%B3%BD.pdf",
+        "quote": "本競賽參賽級別包括國民小學、國民中學、高中高職、大專院校及無限級，各競賽項目開放之參賽級別及機器組"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28071/2026%E7%AC%AC38%E5%B1%86AERC%E4%BA%9E%E6%B4%B2%E6%A9%9F%E5%99%A8%E4%BA%BA%E9%81%8B%E5%8B%95%E7%AB%B6%E6%8A%80%E5%A4%A7%E8%B3%BD.pdf",
+        "quote": "報名時間：即日起開放網路報名，報名至115年11月9日截止。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28071/2026%E7%AC%AC38%E5%B1%86AERC%E4%BA%9E%E6%B4%B2%E6%A9%9F%E5%99%A8%E4%BA%BA%E9%81%8B%E5%8B%95%E7%AB%B6%E6%8A%80%E5%A4%A7%E8%B3%BD.pdf",
+        "quote": "正本：公私立大專校院、全國高級中等學校"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "網路報名截止",
+      "date": "2026-11-09",
+      "time": null,
+      "original": "115年11月9日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28071/2026%E7%AC%AC38%E5%B1%86AERC%E4%BA%9E%E6%B4%B2%E6%A9%9F%E5%99%A8%E4%BA%BA%E9%81%8B%E5%8B%95%E7%AB%B6%E6%8A%80%E5%A4%A7%E8%B3%BD.pdf",
+          "quote": "報名時間：即日起開放網路報名，報名至115年11月9日截止。"
+        },
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28071/2026%E7%AC%AC38%E5%B1%86AERC%E4%BA%9E%E6%B4%B2%E6%A9%9F%E5%99%A8%E4%BA%BA%E9%81%8B%E5%8B%95%E7%AB%B6%E6%8A%80%E5%A4%A7%E8%B3%BD1.pdf",
+          "quote": "報名時間：即日起~ 11/09"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "報名費匯款截止",
+      "date": "2026-11-11",
+      "time": null,
+      "original": "115年11月11日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28071/2026%E7%AC%AC38%E5%B1%86AERC%E4%BA%9E%E6%B4%B2%E6%A9%9F%E5%99%A8%E4%BA%BA%E9%81%8B%E5%8B%95%E7%AB%B6%E6%8A%80%E5%A4%A7%E8%B3%BD.pdf",
+          "quote": "報名費匯款截止日期：115年11月11日。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "決賽暨頒獎典禮",
+      "date": "2026-12-12",
+      "time": null,
+      "original": "115年12月12日（星期六）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28071/2026%E7%AC%AC38%E5%B1%86AERC%E4%BA%9E%E6%B4%B2%E6%A9%9F%E5%99%A8%E4%BA%BA%E9%81%8B%E5%8B%95%E7%AB%B6%E6%8A%80%E5%A4%A7%E8%B3%BD.pdf",
+          "quote": "競賽時間：115年12月12日（星期六）"
+        },
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28071/2026%E7%AC%AC38%E5%B1%86AERC%E4%BA%9E%E6%B4%B2%E6%A9%9F%E5%99%A8%E4%BA%BA%E9%81%8B%E5%8B%95%E7%AB%B6%E6%8A%80%E5%A4%A7%E8%B3%BD1.pdf",
+          "quote": "決賽暨頒獎典禮：12/12"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名",
+      "what": "網路報名並匯繳報名費",
+      "how": "online"
+    },
+    {
+      "stage": "競賽",
+      "what": "以機器人或無人機參加所選項目（C01機器人循跡挑戰至C09無人機遙控競速挑戰賽）",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "崑山科技大學體育館（臺南市永康區崑大路195號）",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28071/2026%E7%AC%AC38%E5%B1%86AERC%E4%BA%9E%E6%B4%B2%E6%A9%9F%E5%99%A8%E4%BA%BA%E9%81%8B%E5%8B%95%E7%AB%B6%E6%8A%80%E5%A4%A7%E8%B3%BD.pdf",
+        "quote": "競賽地點：崑山科技大學體育館（臺南市永康區崑大路195號）。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28071/2026%E7%AC%AC38%E5%B1%86AERC%E4%BA%9E%E6%B4%B2%E6%A9%9F%E5%99%A8%E4%BA%BA%E9%81%8B%E5%8B%95%E7%AB%B6%E6%8A%80%E5%A4%A7%E8%B3%BD.pdf",
+        "quote": "活動訂於115年12月12日(星期六)假本校體育館舉行"
+      }
+    ]
+  },
+  "fee": {
+    "value": "required",
+    "amount": null,
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28071/2026%E7%AC%AC38%E5%B1%86AERC%E4%BA%9E%E6%B4%B2%E6%A9%9F%E5%99%A8%E4%BA%BA%E9%81%8B%E5%8B%95%E7%AB%B6%E6%8A%80%E5%A4%A7%E8%B3%BD.pdf",
+        "quote": "報名費匯款截止日期：115年11月11日。"
+      }
+    ]
+  },
+  "prizes": {
+    "text": null,
+    "basis": "unread",
+    "evidence": []
+  },
+  "ai_policy": {
+    "value": "allowed",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28071/2026%E7%AC%AC38%E5%B1%86AERC%E4%BA%9E%E6%B4%B2%E6%A9%9F%E5%99%A8%E4%BA%BA%E9%81%8B%E5%8B%95%E7%AB%B6%E6%8A%80%E5%A4%A7%E8%B3%BD.pdf",
+        "quote": "並引導學生適切運用人工智慧工具於競賽準備過程中的知識建構、技能學習、程式設計及問題分析"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://aerc.ksu.coolcold.com.tw/",
+    "rules": [
+      {
+        "title": "AERC亞洲機器人運動競技大賽官方網站：競賽辦法、各項競賽規則及相關公告",
+        "url": "https://www.aerc1988.com.tw/custom_101145.html"
+      }
+    ],
+    "registration": "https://reurl.cc/7Yd3my"
+  },
+  "found_via": [
+    {
+      "name": "苗栗高中 學生校外營隊、活動、比賽",
+      "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=28071"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-25",
+    "method": "single",
+    "unread": [
+      "AERC亞洲機器人運動競技大賽官方網站之競賽辦法與各項競賽規則",
+      "報名表"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-25",
+  "level": "checked",
+  "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-aerc-ksu/",
+  "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-aerc-ksu.md"
+}

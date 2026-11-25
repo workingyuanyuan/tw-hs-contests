@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "id": "2026-thu-smart-sustainability",
-  "title": "2026 智慧永續循環技術論文暨專題競賽",
+  "title": "2026智慧永續循環技術論文暨專題競賽",
   "edition": "2026",
-  "summary": "1 至 5 人就智慧永續專題繳交 5 頁內短文，入選口頭發表組者到東海大學簡報。",
+  "summary": "高中職與大專學生 1 至 5 人組隊，提出以智慧科技解決永續發展問題的專題。",
   "organizers": [
     {
       "name": "東海大學工學院",
@@ -32,27 +32,35 @@
     "basis": "quote",
     "evidence": [
       {
-        "url": "https://enger.thu.edu.tw/info-on-home-page/2026%e6%99%ba%e6%85%a7%e6%b0%b8%e7%ba%8c%e5%be%aa%e7%92%b0%e6%8a%80%e8%a1%93%e7%a0%94%e8%a8%8e%e6%9c%83%e6%9a%a8%e5%b0%88%e9%a1%8c%e7%ab%b6%e8%b3%bd/",
+        "url": "https://ithu.tw/qygjw",
         "quote": "大專以上或高中職在學學生，分為大專組與高中組，兩組分開評選。"
       },
       {
-        "url": "https://enger.thu.edu.tw/info-on-home-page/2026%e6%99%ba%e6%85%a7%e6%b0%b8%e7%ba%8c%e5%be%aa%e7%92%b0%e6%8a%80%e8%a1%93%e7%a0%94%e8%a8%8e%e6%9c%83%e6%9a%a8%e5%b0%88%e9%a1%8c%e7%ab%b6%e8%b3%bd/",
+        "url": "https://ithu.tw/qygjw",
         "quote": "每一團隊成員1至5人，每一團隊指導老師至多2人。"
+      },
+      {
+        "url": "https://ithu.tw/qygjw",
+        "quote": "指定日期前上網報名並繳交短文（以5頁為限）"
       }
     ]
   },
   "dates": [
     {
       "kind": "submission_deadline",
-      "label": "專題競賽投稿截止",
+      "label": "報名及短文投稿截止",
       "date": "2026-11-22",
       "time": null,
       "original": "2026/11/22",
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://enger.thu.edu.tw/info-on-home-page/2026%e6%99%ba%e6%85%a7%e6%b0%b8%e7%ba%8c%e5%be%aa%e7%92%b0%e6%8a%80%e8%a1%93%e7%a0%94%e8%a8%8e%e6%9c%83%e6%9a%a8%e5%b0%88%e9%a1%8c%e7%ab%b6%e8%b3%bd/",
+          "url": "https://ithu.tw/qygjw",
           "quote": "專題競賽投稿截止日期： 2026/11/22"
+        },
+        {
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/「2026智慧永續循環技術研討會暨專題競賽」競賽資訊.pdf",
+          "quote": "(二)報名日期：即日起至本年11月22日止。"
         }
       ]
     },
@@ -65,7 +73,7 @@
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://enger.thu.edu.tw/info-on-home-page/2026%e6%99%ba%e6%85%a7%e6%b0%b8%e7%ba%8c%e5%be%aa%e7%92%b0%e6%8a%80%e8%a1%93%e7%a0%94%e8%a8%8e%e6%9c%83%e6%9a%a8%e5%b0%88%e9%a1%8c%e7%ab%b6%e8%b3%bd/",
+          "url": "https://ithu.tw/qygjw",
           "quote": "論文專題競賽初審結果通知： 2026/11/27"
         }
       ]
@@ -79,50 +87,67 @@
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://enger.thu.edu.tw/info-on-home-page/2026%e6%99%ba%e6%85%a7%e6%b0%b8%e7%ba%8c%e5%be%aa%e7%92%b0%e6%8a%80%e8%a1%93%e7%a0%94%e8%a8%8e%e6%9c%83%e6%9a%a8%e5%b0%88%e9%a1%8c%e7%ab%b6%e8%b3%bd/",
+          "url": "https://ithu.tw/qygjw",
           "quote": "當日活動報名截止：2026/12/04"
         }
       ]
     },
     {
       "kind": "final_event",
-      "label": "決賽",
+      "label": "決賽及頒獎",
       "date": "2026-12-12",
       "time": null,
       "original": "2026/12/12",
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://enger.thu.edu.tw/info-on-home-page/2026%e6%99%ba%e6%85%a7%e6%b0%b8%e7%ba%8c%e5%be%aa%e7%92%b0%e6%8a%80%e8%a1%93%e7%a0%94%e8%a8%8e%e6%9c%83%e6%9a%a8%e5%b0%88%e9%a1%8c%e7%ab%b6%e8%b3%bd/",
+          "url": "https://ithu.tw/qygjw",
           "quote": "論文發表及專題競賽決賽： 2026/12/12"
+        },
+        {
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/「2026智慧永續循環技術研討會暨專題競賽」競賽資訊.pdf",
+          "quote": "(一)競賽日期：本(115)年12月12日(星期六)。"
         }
       ]
     }
   ],
   "deliverables": [
     {
-      "stage": "投稿",
-      "what": "5 頁內 PDF 短文（研究背景與動機、問題、方法、實驗結果）",
+      "stage": "報名投稿",
+      "what": "5 頁內 PDF 短文（研究背景與動機、欲解決的問題、主要方法及實驗結果）",
       "how": "online"
     },
     {
       "stage": "決賽（入選口頭發表組）",
-      "what": "10 分鐘口頭簡報與 2 分鐘答詢，自備 PowerPoint",
+      "what": "10 分鐘口頭簡報與 2 分鐘評審提問，自備 PowerPoint",
+      "how": "onsite"
+    },
+    {
+      "stage": "決賽（入選海報展演組）",
+      "what": "依指定時間及位置張貼海報並現場解說",
       "how": "onsite"
     }
   ],
   "attendance": {
     "value": "finalists",
-    "where": "東海大學人文大樓 B1 茂榜廳",
+    "where": "東海大學茂榜廳（人文大樓 B1）",
     "basis": "quote",
     "evidence": [
       {
-        "url": "https://enger.thu.edu.tw/info-on-home-page/2026%e6%99%ba%e6%85%a7%e6%b0%b8%e7%ba%8c%e5%be%aa%e7%92%b0%e6%8a%80%e8%a1%93%e7%a0%94%e8%a8%8e%e6%9c%83%e6%9a%a8%e5%b0%88%e9%a1%8c%e7%ab%b6%e8%b3%bd/",
+        "url": "https://ithu.tw/qygjw",
         "quote": "入選口頭發表組之團隊於指定日期前完成報名，並於決賽當天出席參加口頭簡報。"
       },
       {
-        "url": "https://enger.thu.edu.tw/info-on-home-page/2026%e6%99%ba%e6%85%a7%e6%b0%b8%e7%ba%8c%e5%be%aa%e7%92%b0%e6%8a%80%e8%a1%93%e7%a0%94%e8%a8%8e%e6%9c%83%e6%9a%a8%e5%b0%88%e9%a1%8c%e7%ab%b6%e8%b3%bd/",
+        "url": "https://ithu.tw/qygjw",
+        "quote": "入選海報展演組之團隊於指定日期前完成報名，並於決賽當天依大會指定時間及位置張貼海報、現場解說"
+      },
+      {
+        "url": "https://ithu.tw/qygjw",
         "quote": "會議地點：東海大學茂榜廳"
+      },
+      {
+        "url": "https://ithu.tw/qygjw",
+        "quote": "即可抵達會場(B1茂榜廳)"
       }
     ]
   },
@@ -132,20 +157,40 @@
     "basis": "absent",
     "evidence": [
       {
-        "url": "https://enger.thu.edu.tw/info-on-home-page/2026%e6%99%ba%e6%85%a7%e6%b0%b8%e7%ba%8c%e5%be%aa%e7%92%b0%e6%8a%80%e8%a1%93%e7%a0%94%e8%a8%8e%e6%9c%83%e6%9a%a8%e5%b0%88%e9%a1%8c%e7%ab%b6%e8%b3%bd/"
+        "url": "https://ithu.tw/qygjw"
       }
     ]
   },
   "prizes": {
-    "text": "口頭發表組（大專組、高中職組分別頒發）：金獎 1 名 10,000 元、銀獎 1 名 8,000 元、銅獎 1 名 5,000 元、優選 2 名各 2,000 元、佳作若干名，皆附獎狀。海報展演組只頒獎狀。",
+    "text": "口頭發表組（大專組、高中職組分別評選）：金獎 1 名新台幣 10,000 元、銀獎 1 名 8,000 元、銅獎 1 名 5,000 元、優選 2 名各 2,000 元、佳作若干名，皆附獎狀。海報展演組優選 2 名、佳作 3 名，只頒獎狀。",
     "basis": "quote",
     "evidence": [
       {
-        "url": "https://enger.thu.edu.tw/info-on-home-page/2026%e6%99%ba%e6%85%a7%e6%b0%b8%e7%ba%8c%e5%be%aa%e7%92%b0%e6%8a%80%e8%a1%93%e7%a0%94%e8%a8%8e%e6%9c%83%e6%9a%a8%e5%b0%88%e9%a1%8c%e7%ab%b6%e8%b3%bd/",
+        "url": "https://ithu.tw/qygjw",
+        "quote": "口頭發表組（大專組、高中職組分別評選頒發）："
+      },
+      {
+        "url": "https://ithu.tw/qygjw",
         "quote": "金獎：1名，新台幣10,000元，獎狀乙紙"
       },
       {
-        "url": "https://enger.thu.edu.tw/info-on-home-page/2026%e6%99%ba%e6%85%a7%e6%b0%b8%e7%ba%8c%e5%be%aa%e7%92%b0%e6%8a%80%e8%a1%93%e7%a0%94%e8%a8%8e%e6%9c%83%e6%9a%a8%e5%b0%88%e9%a1%8c%e7%ab%b6%e8%b3%bd/",
+        "url": "https://ithu.tw/qygjw",
+        "quote": "銀獎：1名，新台幣8,000元，獎狀乙紙"
+      },
+      {
+        "url": "https://ithu.tw/qygjw",
+        "quote": "銅獎：1名，新台幣5,000元，獎狀乙紙"
+      },
+      {
+        "url": "https://ithu.tw/qygjw",
+        "quote": "優選：2名，各新台幣2,000元，獎狀乙紙"
+      },
+      {
+        "url": "https://ithu.tw/qygjw",
+        "quote": "佳作：若干名，獎狀乙紙"
+      },
+      {
+        "url": "https://ithu.tw/qygjw",
         "quote": "海報展演組（大專組、高中組分別評選頒發）：優選2名、佳作3名，僅頒發獎狀乙紙，無獎金頒發。"
       }
     ]
@@ -155,7 +200,7 @@
     "basis": "absent",
     "evidence": [
       {
-        "url": "https://enger.thu.edu.tw/info-on-home-page/2026%e6%99%ba%e6%85%a7%e6%b0%b8%e7%ba%8c%e5%be%aa%e7%92%b0%e6%8a%80%e8%a1%93%e7%a0%94%e8%a8%8e%e6%9c%83%e6%9a%a8%e5%b0%88%e9%a1%8c%e7%ab%b6%e8%b3%bd/"
+        "url": "https://ithu.tw/qygjw"
       }
     ]
   },
@@ -166,26 +211,57 @@
   },
   "found_via": [
     {
-      "name": "東海大學工學院競賽頁",
-      "url": "https://enger.thu.edu.tw/info-on-home-page/2026%e6%99%ba%e6%85%a7%e6%b0%b8%e7%ba%8c%e5%be%aa%e7%92%b0%e6%8a%80%e8%a1%93%e7%a0%94%e8%a8%8e%e6%9c%83%e6%9a%a8%e5%b0%88%e9%a1%8c%e7%ab%b6%e8%b3%bd/"
+      "name": "新竹女中 活動研習",
+      "url": "https://www.hgsh.hc.edu.tw/news/2026%e6%99%ba%e6%85%a7%e6%b0%b8%e7%ba%8c%e5%be%aa%e7%92%b0%e6%8a%80%e8%a1%93%e7%a0%94%e8%a8%8e%e6%9c%83%e6%9a%a8%e5%b0%88%e9%a1%8c%e7%ab%b6%e8%b3%bd/"
     },
     {
-      "name": "東海大學工學院競賽頁",
-      "url": "https://enger.thu.edu.tw/info-on-home-page/2026%e6%99%ba%e6%85%a7%e6%b0%b8%e7%ba%8c%e5%be%aa%e7%92%b0%e6%8a%80%e8%a1%93%e7%a0%94%e8%a8%8e%e6%9c%83%e6%9a%a8%e5%b0%88%e9%a1%8c%e7%ab%b6%e8%b3%bd/"
+      "name": "高師大附中 校外競賽與活動",
+      "url": "https://www.nknush.kh.edu.tw/announcement/21152/%e5%85%ac%e5%91%8a%e8%a8%93%e8%82%b2%e7%b5%84%e3%80%8c2026%e6%99%ba%e6%85%a7%e6%b0%b8%e7%ba%8c%e5%be%aa%e7%92%b0%e6%8a%80%e8%a1%93%e7%a0%94%e8%a8%8e%e6%9c%83%e6%9a%a8%e5%b0%88%e9%a1%8c%e7%ab%b6/"
+    },
+    {
+      "name": "鳳新高中 營隊競賽",
+      "url": "https://www.fhsh.khc.edu.tw/aa/news-aa/20261007/46620"
+    },
+    {
+      "name": "大里高中 校外活動與競賽",
+      "url": "https://dlsh.tc.edu.tw/p/406-1068-639247,r2145.php?Lang=zh-tw"
+    },
+    {
+      "name": "苗栗農工 處室公告",
+      "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26725"
+    },
+    {
+      "name": "大同高中 學生競賽活動",
+      "url": "https://www.ttsh.tp.edu.tw/news/%e6%9d%b1%e6%b5%b7%e5%a4%a7%e5%ad%b8%e8%88%89%e8%be%a6%e3%80%8c2026%e6%99%ba%e6%85%a7%e6%b0%b8%e7%ba%8c%e5%be%aa%e7%92%b0%e6%8a%80%e8%a1%93%e7%a0%94%e8%a8%8e%e6%9c%83%e6%9a%a8%e5%b0%88%e9%a1%8c/"
+    },
+    {
+      "name": "苗栗農工 處室公告",
+      "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26705"
+    },
+    {
+      "name": "暨大附中 學生研習與競賽活動",
+      "url": "https://www.pshs.ntct.edu.tw/ischool/public/news_view/show.php?nid=33787"
+    },
+    {
+      "name": "苗栗高中 學生校外營隊、活動、比賽",
+      "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=28250"
+    },
+    {
+      "name": "大里高中 校外活動與競賽",
+      "url": "https://dlsh.tc.edu.tw/p/406-1068-639247,r2145.php"
     }
   ],
   "verification": {
     "last_verified": "2026-11-25",
-    "method": "dual",
+    "method": "single",
     "unread": [
-      "檔案下載區的短文格式檔"
+      "論文延伸摘要撰寫格式.docx"
     ],
     "note": null,
     "readers": [
-      "gemini-4-hydrogen-medium",
-      "gpt-6.1-sol"
+      "claude-opus-5-5"
     ]
   },
   "first_seen": "2026-11-16",
-  "updated": "2026-11-21"
+  "updated": "2026-11-25"
 }

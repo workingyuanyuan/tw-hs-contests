@@ -1,0 +1,228 @@
+{
+  "schema": 1,
+  "id": "2026-tpcu-japanese-dubbing",
+  "title": "2026年第17屆全國高中職學生日語配音比賽",
+  "edition": "第 17 屆",
+  "summary": "高中職學生 4 至 6 人一隊，選一部公播版日本戲劇或動畫，以日語為片段配音演出。",
+  "organizers": [
+    {
+      "name": "臺北城市科技大學應用外語系",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "外語",
+    "表演藝術"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職"
+    ],
+    "division": "hs_only",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "school",
+    "team_min": 4,
+    "team_max": 6,
+    "teacher": "required",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/5/全國高中職學生日語配音比賽.pdf",
+        "quote": "經教育部核准設立並具有中華民國國籍之在校高中職學生，且須經由學校遴薦者。"
+      },
+      {
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/5/全國高中職學生日語配音比賽.pdf",
+        "quote": "須由同一學校之學生4～6 人組隊報名，每名學生僅能選擇一組報名，不得跨組（主修組與非主修組）參賽，也不得跨校參賽。"
+      },
+      {
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/5/全國高中職學生日語配音比賽.pdf",
+        "quote": "指導老師簽名"
+      },
+      {
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/5/全國高中職學生日語配音比賽.pdf",
+        "quote": "指導老師的人數最多僅限兩名。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "線上報名、紙本報名表寄送與 email 繳交資料截止",
+      "date": "2026-10-22",
+      "time": "17:00",
+      "original": "10/22(四)17:00 前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.hgsh.hc.edu.tw/view-doc/5/全國高中職學生日語配音比賽.pdf",
+          "quote": "請在10/22(四)17:00 前完成以下報名手續："
+        },
+        {
+          "url": "https://www.hgsh.hc.edu.tw/view-doc/5/全國高中職學生日語配音比賽.pdf",
+          "quote": "2026/10/22(四)止"
+        }
+      ]
+    },
+    {
+      "kind": "shortlist_announcement",
+      "label": "公告進入決賽隊伍",
+      "date": "2026-11-02",
+      "time": "18:00",
+      "original": "11/02(一) 18:00 前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.hgsh.hc.edu.tw/view-doc/5/全國高中職學生日語配音比賽.pdf",
+          "quote": "11/02(一) 18:00 前"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "非主修組決賽",
+      "date": "2026-11-19",
+      "time": null,
+      "original": "非主修組：11/19(四)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.hgsh.hc.edu.tw/view-doc/5/全國高中職學生日語配音比賽.pdf",
+          "quote": "非主修組：11/19(四)"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "主修組決賽",
+      "date": "2026-11-20",
+      "time": null,
+      "original": "主修組：11/20 (五)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.hgsh.hc.edu.tw/view-doc/5/全國高中職學生日語配音比賽.pdf",
+          "quote": "主修組：11/20 (五)"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名",
+      "what": "Google 表單線上報名",
+      "how": "online"
+    },
+    {
+      "stage": "報名",
+      "what": "紙本報名表（含指導老師簽名、參賽學生學生證影本、系科章或學校關防章），以掛號寄送",
+      "how": "mail"
+    },
+    {
+      "stage": "初賽",
+      "what": "報名表掃描檔、評分表電子檔，以及含台詞檔（PDF）、初賽影片（不含背景音樂與音效，不得出現選手影像）與決賽用靜音影片的雲端資料夾連結，以 email 寄送",
+      "how": "online"
+    },
+    {
+      "stage": "決賽（進入決賽隊伍）",
+      "what": "配合靜音播放的影片現場配音演出 4 分半至 5 分鐘，音效以自備道具現場製造",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "finalists",
+    "where": "臺北城市科技大學財經大樓 2 樓國際會議廳",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/5/全國高中職學生日語配音比賽.pdf",
+        "quote": "臺北城市科技大學 財經大樓2 樓國際會議廳（112 台北市北投區學園路2 號）"
+      },
+      {
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/5/全國高中職學生日語配音比賽.pdf",
+        "quote": "每隊進入決賽時之人數至少需4 人，因故少於4 人，將取消決賽資格。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/5/全國高中職學生日語配音比賽.pdf"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "得獎隊伍於決賽當日賽後頒獎並領取獎狀，獎金有無視募款狀況而定；另獎勵表現優良的個人參賽者。優勝隊伍數由主辦單位視參賽隊伍數增減。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/5/全國高中職學生日語配音比賽.pdf",
+        "quote": "由評審委員裁決得獎名單，並於決賽當日賽後進行頒獎。"
+      },
+      {
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/5/全國高中職學生日語配音比賽.pdf",
+        "quote": "因此獲獎者皆可於賽後立即領取獎狀。"
+      },
+      {
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/5/全國高中職學生日語配音比賽.pdf",
+        "quote": "但有無獎金，視募款狀況而定。"
+      },
+      {
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/5/全國高中職學生日語配音比賽.pdf",
+        "quote": "另給予表現優良之個人參賽者獎勵。"
+      },
+      {
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/5/全國高中職學生日語配音比賽.pdf",
+        "quote": "主辦單位可視實際參賽隊伍數，增減優勝隊伍數。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/5/全國高中職學生日語配音比賽.pdf"
+      }
+    ]
+  },
+  "links": {
+    "official": null,
+    "rules": [
+      {
+        "title": "比賽辦法暨報名表（PDF）",
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/5/全國高中職學生日語配音比賽.pdf"
+      }
+    ],
+    "registration": "https://forms.gle/gnZyQCyLhfNUVqDC6"
+  },
+  "found_via": [
+    {
+      "name": "南港高工 重要資訊",
+      "url": "https://www.nkhs.tp.edu.tw/ischool/public/news_view/show.php?nid=34844"
+    },
+    {
+      "name": "新竹女中 活動研習",
+      "url": "https://www.hgsh.hc.edu.tw/news/2026%e5%b9%b4%e7%ac%ac17%e5%b1%86%e5%85%a8%e5%9c%8b%e9%ab%98%e4%b8%ad%e8%81%b7%e5%ad%b8-%e7%94%9f%e6%97%a5%e8%aa%9e%e9%85%8d%e9%9f%b3%e6%af%94%e8%b3%bd/"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-25",
+    "method": "single",
+    "unread": [],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-25",
+  "level": "checked",
+  "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-tpcu-japanese-dubbing/",
+  "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-tpcu-japanese-dubbing.md"
+}

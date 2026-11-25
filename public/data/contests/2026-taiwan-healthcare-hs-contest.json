@@ -1,63 +1,87 @@
 {
   "schema": 1,
   "id": "2026-taiwan-healthcare-hs-contest",
-  "title": "全國高中醫療科技競賽",
+  "title": "高中醫療科技創意競賽",
   "edition": "2026",
-  "summary": "高中生結合醫療科技展的參訪與觀察，提出醫療科技創新提案。",
+  "summary": "3 至 5 名高中職生與指導教師組隊，以台灣醫療科技展展出項目為發想，提出醫療問題的創意解法。",
   "organizers": [
-    {
-      "name": "財團法人生技醫療科技政策研究中心",
-      "role": "主辦"
-    },
     {
       "name": "教育部",
       "role": "指導"
+    },
+    {
+      "name": "生策會",
+      "role": "主辦"
+    },
+    {
+      "name": "生策中心",
+      "role": "主辦"
     }
   ],
   "categories": [
-    "醫護與照顧"
+    "醫護與照顧",
+    "創業與企劃"
   ],
   "eligibility": {
     "levels": [
-      "高中"
+      "高中",
+      "高職"
     ],
     "division": "hs_only",
     "regions": [
       "全國"
     ],
-    "nomination": "unknown",
-    "team_min": null,
-    "team_max": null,
-    "teacher": "unknown",
+    "nomination": "none",
+    "team_min": 3,
+    "team_max": 5,
+    "teacher": "required",
     "basis": "quote",
     "evidence": [
       {
-        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28491/%E8%B2%A1%E5%9C%98%E6%B3%95%E4%BA%BA%E7%94%9F%E6%8A%80%E9%86%AB%E7%99%82%E6%94%BF%E7%AD%96%E7%A0%94%E7%A9%B6%E4%B8%AD%E5%BF%83.pdf",
-        "quote": "(三)全國高中醫療科技競賽：由教育部指導，以「智慧醫療」、「精準醫療」、「全齡健康」三大主題為核心，"
+        "url": "https://expo-healthcare-taiwan.vercel.app/",
+        "quote": "全國高中職在學學生皆可參加。3–5 名學生＋1–2 名指導教師組隊（可跨校），以台灣醫療科技展展出項目為發想，三大主題擇一提案。"
+      },
+      {
+        "url": "https://expo-healthcare-taiwan.vercel.app/",
+        "quote": "每隊 3–5 名學生＋1–2 名指導教師，可跨校。先在本站「競賽報名頁」確認資格，再由團隊代表人至官方競賽系統完成報名。"
       }
     ]
   },
   "dates": [
     {
-      "kind": "other",
-      "label": "2026台灣醫療科技展開展（展期至12月6日，南港展覽館一館4樓）",
-      "date": "2026-12-03",
+      "kind": "registration_deadline",
+      "label": "組隊報名截止",
+      "date": "2026-11-30",
       "time": null,
-      "original": "12月3日至6日",
+      "original": "11/30 前組隊報名",
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28491/%E8%B2%A1%E5%9C%98%E6%B3%95%E4%BA%BA%E7%94%9F%E6%8A%80%E9%86%AB%E7%99%82%E6%94%BF%E7%AD%96%E7%A0%94%E7%A9%B6%E4%B8%AD%E5%BF%83.pdf",
-          "quote": "一、本計畫以「2026台灣醫療科技展」為實施場域（12月3日至6日於南港展覽館一館4樓舉行），"
+          "url": "https://expo-healthcare-taiwan.vercel.app/",
+          "quote": "11/30 前組隊報名"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "上傳計畫書與影片截止",
+      "date": "2026-12-25",
+      "time": null,
+      "original": "12/25 前上傳計畫書與影片說明書",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://expo-healthcare-taiwan.vercel.app/",
+          "quote": "12/25 前上傳計畫書與影片說明書 16:9 ≤15 頁＋影片 ≤3 分鐘"
         }
       ]
     }
   ],
   "deliverables": [
     {
-      "stage": "提案",
-      "what": "以「智慧醫療」、「精準醫療」、「全齡健康」為主題，兼具創新性與應用潛力的醫療科技提案",
-      "how": "unknown"
+      "stage": "報名後上傳",
+      "what": "計畫書與影片說明書（16:9，15 頁以內）及 3 分鐘以內影片",
+      "how": "online"
     }
   ],
   "attendance": {
@@ -69,13 +93,8 @@
   "fee": {
     "value": "unknown",
     "amount": null,
-    "basis": "quote",
-    "evidence": [
-      {
-        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28491/%E8%B2%A1%E5%9C%98%E6%B3%95%E4%BA%BA%E7%94%9F%E6%8A%80%E9%86%AB%E7%99%82%E6%94%BF%E7%AD%96%E7%A0%94%E7%A9%B6%E4%B8%AD%E5%BF%83.pdf",
-        "quote": "活動採限額報名制，相關方案費用、預約時程及體驗規則，請至活動官網（https://expo.taiwan-healthcare.org）查詢。"
-      }
-    ]
+    "basis": "unread",
+    "evidence": []
   },
   "prizes": {
     "text": null,
@@ -88,14 +107,14 @@
     "evidence": []
   },
   "links": {
-    "official": "https://expo.taiwan-healthcare.org",
+    "official": "https://innoaward.taiwan-healthcare.org/news_detail.php?REFDOCTYPID=0rhgrh6y6rr0lkfw&REFDOCID=0rhisem0dgzqb2mg",
     "rules": [
       {
-        "title": "生策中心函：2026高中生醫療科技人才培育計畫",
-        "url": "https://www.k12ea.gov.tw/Tw/Common/Downloader?id=8c020b4a-5e22-4ab1-b3cb-bfe9bba386ad"
+        "title": "2026 競賽簡章",
+        "url": "https://innoaward.taiwan-healthcare.org/data/tmp/20260924/20260924led0ju.pdf"
       }
     ],
-    "registration": null
+    "registration": "https://innoaward.taiwan-healthcare.org/high-school/login"
   },
   "found_via": [
     {
@@ -111,7 +130,8 @@
     "last_verified": "2026-11-25",
     "method": "single",
     "unread": [
-      "活動官網（https://expo.taiwan-healthcare.org）的方案費用、預約時程及體驗規則"
+      "2026 競賽簡章（PDF）",
+      "國教署公告所附函文"
     ],
     "note": null,
     "readers": [
@@ -120,7 +140,7 @@
   },
   "first_seen": "2026-11-24",
   "updated": "2026-11-25",
-  "level": "unverified",
-  "url": null,
-  "markdown": null
+  "level": "checked",
+  "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-taiwan-healthcare-hs-contest/",
+  "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-taiwan-healthcare-hs-contest.md"
 }

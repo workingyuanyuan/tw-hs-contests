@@ -1,0 +1,249 @@
+{
+  "schema": 1,
+  "id": "2026-jinzhuan-calligraphy",
+  "title": "金篆獎-書法暨硬筆書法比賽",
+  "edition": "第 32 屆",
+  "summary": "設籍或就讀新北市、臺北市的學生與民眾，書寫以弘揚倫理教育為主題的書法或硬筆書法作品。",
+  "organizers": [
+    {
+      "name": "金陵女子高級中學教育基金會",
+      "role": "主辦"
+    },
+    {
+      "name": "金陵女子高級中學",
+      "role": "協辦"
+    }
+  ],
+  "categories": [
+    "美術"
+  ],
+  "eligibility": {
+    "levels": [
+      "國小",
+      "國中",
+      "高中",
+      "高職",
+      "大專",
+      "社會人士"
+    ],
+    "division": "mixed",
+    "regions": [
+      "新北市",
+      "臺北市"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": 1,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg317/新北市金陵女中教育基金會第32屆金篆獎書法暨硬筆書法比賽辦法.pdf",
+        "quote": "四、參賽對象：凡設籍或就讀新北市、臺北市公私立學生與民眾，對於書法或硬筆書法有興趣者皆可報名參加。"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg317/新北市金陵女中教育基金會第32屆金篆獎書法暨硬筆書法比賽辦法.pdf",
+        "quote": "(二)中學組：設籍或就讀新北市、臺北市的國、高中者，皆可自由報名或統一由學校代為報名。"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg317/新北市金陵女中教育基金會第32屆金篆獎書法暨硬筆書法比賽辦法.pdf",
+        "quote": "(三)社會組：設籍或就讀新北市、臺北市者得自由報名。"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg317/新北市金陵女中教育基金會第32屆金篆獎書法暨硬筆書法比賽辦法.pdf",
+        "quote": "3. 書法及硬筆書法只能擇一參加比賽。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "報名截止",
+      "date": "2026-10-14",
+      "time": null,
+      "original": "115 年10 月14 日(三)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg317/新北市金陵女中教育基金會第32屆金篆獎書法暨硬筆書法比賽辦法.pdf",
+          "quote": "八、報名日期：即日起至115 年10 月14 日(三)止。"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "硬筆書法類初賽作品寄送截止（以郵戳或親自送達日為憑）",
+      "date": "2026-10-14",
+      "time": null,
+      "original": "10 月14 日前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg317/新北市金陵女中教育基金會第32屆金篆獎書法暨硬筆書法比賽辦法.pdf",
+          "quote": "(二) 硬筆書法類初賽：作品於10 月14 日前郵寄或親送至金陵女中警衛室(例假日照常收件)，以郵戳或親自送達日為憑。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "書法類現場比賽及硬筆書法類決賽（上午 9:10 起報到）",
+      "date": "2026-11-14",
+      "time": "10:00",
+      "original": "115 年11 月14 日，上午9:10~9:40 報到，10:00~11:00 比賽",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg317/新北市金陵女中教育基金會第32屆金篆獎書法暨硬筆書法比賽辦法.pdf",
+          "quote": "(三) 比賽日期：115 年11 月14 日，上午9:10~9:40 報到，10:00~11:00 比賽。"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "得獎名單公布",
+      "date": "2026-11-20",
+      "time": null,
+      "original": "115 年11 月20 日下午",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg317/新北市金陵女中教育基金會第32屆金篆獎書法暨硬筆書法比賽辦法.pdf",
+          "quote": "十四、頒獎：得獎名單於115 年11 月20 日下午公布於本校網頁"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "頒獎典禮",
+      "date": "2026-12-12",
+      "time": null,
+      "original": "115 年12 月12 日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg317/新北市金陵女中教育基金會第32屆金篆獎書法暨硬筆書法比賽辦法.pdf",
+          "quote": "115 年12 月12 日在金陵女中公開頒獎，請獲獎人員務必出席領獎。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "書法類比賽",
+      "what": "以傳統毛筆直式書寫現場公布的題目，用主辦單位提供的手工宣紙一張",
+      "how": "onsite"
+    },
+    {
+      "stage": "硬筆書法類初賽",
+      "what": "以鋼筆、原子筆或鋼珠筆在 A4 格式紙上書寫公布於金陵女中網站的題目",
+      "how": "mail"
+    },
+    {
+      "stage": "硬筆書法類決賽（入選者）",
+      "what": "以硬筆現場書寫比賽題目",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "finalists",
+    "where": "新北市金陵女中（新北市三重區重新路五段656 號）",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg317/新北市金陵女中教育基金會第32屆金篆獎書法暨硬筆書法比賽辦法.pdf",
+        "quote": "1. 書法類採現場書寫方式。"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg317/新北市金陵女中教育基金會第32屆金篆獎書法暨硬筆書法比賽辦法.pdf",
+        "quote": "2. 硬筆書法類初賽採郵寄方式，小學組由評審委員選出各組40 名，中學組由評審委員選出20 名(得視參加比賽人數酌量增減)參加決賽。"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg317/新北市金陵女中教育基金會第32屆金篆獎書法暨硬筆書法比賽辦法.pdf",
+        "quote": "(四) 比賽地點：新北市金陵女中。(新北市三重區重新路五段656 號)"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg317/新北市金陵女中教育基金會第32屆金篆獎書法暨硬筆書法比賽辦法.pdf"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "各組擇優頒發第 1 至 5 名獎金及獎狀，佳作 5 至 10 名頒獎狀。書法類中學組第一至五名 6,000、5,000、4,000、3,000、2,000 元；硬筆書法類中學組第一名 2,000 元、第二名 1,500 元、第三至五名各 1,000 元。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg317/新北市金陵女中教育基金會第32屆金篆獎書法暨硬筆書法比賽辦法.pdf",
+        "quote": "2. 各組依參賽件數及作品內容擇優頒發1~5 名，可獲贈獎金及獎狀乙幀。"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg317/新北市金陵女中教育基金會第32屆金篆獎書法暨硬筆書法比賽辦法.pdf",
+        "quote": "佳作5~10 名，可獲贈獎狀乙幀。"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg317/新北市金陵女中教育基金會第32屆金篆獎書法暨硬筆書法比賽辦法.pdf",
+        "quote": "中學組 6,000 5,000 4,000 3,000 2,000"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg317/新北市金陵女中教育基金會第32屆金篆獎書法暨硬筆書法比賽辦法.pdf",
+        "quote": "中學組 2,000 1,500 1,000"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg317/新北市金陵女中教育基金會第32屆金篆獎書法暨硬筆書法比賽辦法.pdf"
+      }
+    ]
+  },
+  "links": {
+    "official": null,
+    "rules": [
+      {
+        "title": "第32屆金篆獎書法暨硬筆書法比賽辦法（PDF）",
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg317/新北市金陵女中教育基金會第32屆金篆獎書法暨硬筆書法比賽辦法.pdf"
+      },
+      {
+        "title": "比賽辦法及注意事項函文（PDF）",
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg317/新北市金陵女中教育基金會第32屆金篆獎書法暨硬筆書法比賽辦法及注意事項.pdf"
+      }
+    ],
+    "registration": "https://reurl.cc/EYbjGv"
+  },
+  "found_via": [
+    {
+      "name": "成功高中 活動競賽",
+      "url": "https://www.cksh.tp.edu.tw/news/%e3%80%90%e8%bd%89%e7%9f%a5%e3%80%91%e8%b2%a1%e5%9c%98%e6%b3%95%e4%ba%ba%e9%87%91%e9%99%b5%e5%a5%b3%e5%ad%90%e9%ab%98%e7%b4%9a%e4%b8%ad%e5%ad%b8%e6%95%99%e8%82%b2%e5%9f%ba%e9%87%91%e6%9c%83%e6%aa%a2-2/"
+    },
+    {
+      "name": "海山高中 學生競賽活動",
+      "url": "https://www.hshs.ntpc.edu.tw/p/406-1000-12304,r156.php"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-25",
+    "method": "single",
+    "unread": [
+      "硬筆書法類書寫格式（金陵女中網頁下載）",
+      "硬筆書法類初賽題目（金陵女中網站公布）",
+      "比賽手冊"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-25",
+  "level": "checked",
+  "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-jinzhuan-calligraphy/",
+  "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-jinzhuan-calligraphy.md"
+}

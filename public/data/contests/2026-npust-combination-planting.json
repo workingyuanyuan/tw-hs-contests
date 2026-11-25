@@ -1,0 +1,104 @@
+{
+  "schema": 1,
+  "id": "2026-npust-combination-planting",
+  "title": "2026年全國技高端學生組合盆栽競賽",
+  "edition": "2026",
+  "summary": "全國高中職農業相關類科學生組隊，以植物材料搭配造景技巧創作組合盆栽參賽。",
+  "organizers": [
+    {
+      "name": "國立屏東科技大學農園生產系",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "農業與環境",
+    "技藝與技能"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職"
+    ],
+    "division": "hs_only",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "unknown",
+    "team_min": null,
+    "team_max": null,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26599",
+        "quote": "二、參賽對象：全國各高中、高職農業相關類科（如園藝科、農場經營科、造園技術科等）之在學學生。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "網路線上報名截止",
+      "date": "2026-10-13",
+      "time": null,
+      "original": "115年10月13日（二）24時",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26599",
+          "quote": "三、報名方式：自即日起至 115年10月13日（二）24時截止，採網路線上報名"
+        }
+      ]
+    }
+  ],
+  "deliverables": [],
+  "attendance": {
+    "value": "unknown",
+    "where": null,
+    "basis": "unread",
+    "evidence": []
+  },
+  "fee": {
+    "value": "unknown",
+    "amount": null,
+    "basis": "unread",
+    "evidence": []
+  },
+  "prizes": {
+    "text": null,
+    "basis": "unread",
+    "evidence": []
+  },
+  "ai_policy": {
+    "value": "unknown",
+    "basis": "unread",
+    "evidence": []
+  },
+  "links": {
+    "official": null,
+    "rules": [],
+    "registration": "https://forms.gle/RNsHgDqSNYEfT3o39"
+  },
+  "found_via": [
+    {
+      "name": "苗栗農工 處室公告",
+      "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26599"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-25",
+    "method": "single",
+    "unread": [
+      "競賽活動辦法"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-25",
+  "level": "checked",
+  "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-npust-combination-planting/",
+  "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-npust-combination-planting.md"
+}

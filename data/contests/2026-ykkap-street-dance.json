@@ -1,0 +1,191 @@
+{
+  "schema": 1,
+  "id": "2026-ykkap-street-dance",
+  "title": "YKK AP 2026決戰街頭 舞蹈大賽",
+  "edition": "2026",
+  "summary": "5 至 20 人的在學青年舞團，以團體排舞（Team Crew）演出參賽。",
+  "organizers": [
+    {
+      "name": "北市體育局",
+      "role": "主辦"
+    },
+    {
+      "name": "台灣街舞文化推廣協會",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "表演藝術"
+  ],
+  "eligibility": {
+    "levels": [
+      "國中",
+      "高中",
+      "高職",
+      "五專",
+      "大專"
+    ],
+    "division": "mixed",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 5,
+    "team_max": 20,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.ttsh.tp.edu.tw/news/%e5%8c%97%e5%b8%82%e9%ab%94%e8%82%b2%e5%b1%80%e8%88%87%e5%8f%b0%e7%81%a3%e8%a1%97%e8%88%9e%e6%96%87%e5%8c%96%e6%8e%a8%e5%bb%a3%e5%8d%94%e6%9c%83%e8%88%89%e8%be%a6%e3%80%8cykk-ap-2026%e6%b1%ba%e6%88%b0/",
+        "quote": "(一) 每隊參賽人數為5-20人，參賽成員須符合下列資格："
+      },
+      {
+        "url": "https://www.ttsh.tp.edu.tw/news/%e5%8c%97%e5%b8%82%e9%ab%94%e8%82%b2%e5%b1%80%e8%88%87%e5%8f%b0%e7%81%a3%e8%a1%97%e8%88%9e%e6%96%87%e5%8c%96%e6%8e%a8%e5%bb%a3%e5%8d%94%e6%9c%83%e8%88%89%e8%be%a6%e3%80%8cykk-ap-2026%e6%b1%ba%e6%88%b0/",
+        "quote": "參賽者年齡須為12-24歲(含)，即2002年(含)至2014年(含)出生且具在學身分者"
+      },
+      {
+        "url": "https://www.ttsh.tp.edu.tw/news/%e5%8c%97%e5%b8%82%e9%ab%94%e8%82%b2%e5%b1%80%e8%88%87%e5%8f%b0%e7%81%a3%e8%a1%97%e8%88%9e%e6%96%87%e5%8c%96%e6%8e%a8%e5%bb%a3%e5%8d%94%e6%9c%83%e8%88%89%e8%be%a6%e3%80%8cykk-ap-2026%e6%b1%ba%e6%88%b0/",
+        "quote": "每隊15-24歲(含)之參賽成員，須占全隊參賽總人數65%(含)以上"
+      },
+      {
+        "url": "https://www.ttsh.tp.edu.tw/news/%e5%8c%97%e5%b8%82%e9%ab%94%e8%82%b2%e5%b1%80%e8%88%87%e5%8f%b0%e7%81%a3%e8%a1%97%e8%88%9e%e6%96%87%e5%8c%96%e6%8e%a8%e5%bb%a3%e5%8d%94%e6%9c%83%e8%88%89%e8%be%a6%e3%80%8cykk-ap-2026%e6%b1%ba%e6%88%b0/",
+        "quote": "(一) 採線上報名，免收報名費(pse.is/YKKAP_StreetDanceCompetition)"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "線上報名截止",
+      "date": "2026-11-02",
+      "time": "23:59",
+      "original": "即日起至11.02(一)23:59截止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.ttsh.tp.edu.tw/news/%e5%8c%97%e5%b8%82%e9%ab%94%e8%82%b2%e5%b1%80%e8%88%87%e5%8f%b0%e7%81%a3%e8%a1%97%e8%88%9e%e6%96%87%e5%8c%96%e6%8e%a8%e5%bb%a3%e5%8d%94%e6%9c%83%e8%88%89%e8%be%a6%e3%80%8cykk-ap-2026%e6%b1%ba%e6%88%b0/",
+          "quote": "(二) 報名期間：即日起至11.02(一)23:59截止"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "比賽",
+      "date": "2026-11-29",
+      "time": "12:00",
+      "original": "115年11月29日(星期日) 12:00-17:30",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.ttsh.tp.edu.tw/news/%e5%8c%97%e5%b8%82%e9%ab%94%e8%82%b2%e5%b1%80%e8%88%87%e5%8f%b0%e7%81%a3%e8%a1%97%e8%88%9e%e6%96%87%e5%8c%96%e6%8e%a8%e5%bb%a3%e5%8d%94%e6%9c%83%e8%88%89%e8%be%a6%e3%80%8cykk-ap-2026%e6%b1%ba%e6%88%b0/",
+          "quote": "(一) 活動日期：115年11月29日(星期日)"
+        },
+        {
+          "url": "https://www.ttsh.tp.edu.tw/news/%e5%8c%97%e5%b8%82%e9%ab%94%e8%82%b2%e5%b1%80%e8%88%87%e5%8f%b0%e7%81%a3%e8%a1%97%e8%88%9e%e6%96%87%e5%8c%96%e6%8e%a8%e5%bb%a3%e5%8d%94%e6%9c%83%e8%88%89%e8%be%a6%e3%80%8cykk-ap-2026%e6%b1%ba%e6%88%b0/",
+          "quote": "(二) 活動時間：12:00-17:30"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名",
+      "what": "隊伍報名資料；未滿 18 歲者附法定代理人同意書",
+      "how": "online"
+    },
+    {
+      "stage": "比賽",
+      "what": "團體排舞現場演出，由專業評審評分",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "信義香堤大道廣場（台北市信義區松智、松高、松仁、松壽路段之間）",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.ttsh.tp.edu.tw/news/%e5%8c%97%e5%b8%82%e9%ab%94%e8%82%b2%e5%b1%80%e8%88%87%e5%8f%b0%e7%81%a3%e8%a1%97%e8%88%9e%e6%96%87%e5%8c%96%e6%8e%a8%e5%bb%a3%e5%8d%94%e6%9c%83%e8%88%89%e8%be%a6%e3%80%8cykk-ap-2026%e6%b1%ba%e6%88%b0/",
+        "quote": "(三) 活動地點：信義香堤大道廣場(台北市信義區松智、松高、松仁、松壽路段之間)"
+      },
+      {
+        "url": "https://www.ttsh.tp.edu.tw/news/%e5%8c%97%e5%b8%82%e9%ab%94%e8%82%b2%e5%b1%80%e8%88%87%e5%8f%b0%e7%81%a3%e8%a1%97%e8%88%9e%e6%96%87%e5%8c%96%e6%8e%a8%e5%bb%a3%e5%8d%94%e6%9c%83%e8%88%89%e8%be%a6%e3%80%8cykk-ap-2026%e6%b1%ba%e6%88%b0/",
+        "quote": "(四) 活動內容：以團體排舞賽(Team Crew)為主，並安排專業評審及表演團體參與，促進青年舞者交流與學習"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.ttsh.tp.edu.tw/news/%e5%8c%97%e5%b8%82%e9%ab%94%e8%82%b2%e5%b1%80%e8%88%87%e5%8f%b0%e7%81%a3%e8%a1%97%e8%88%9e%e6%96%87%e5%8c%96%e6%8e%a8%e5%bb%a3%e5%8d%94%e6%9c%83%e8%88%89%e8%be%a6%e3%80%8cykk-ap-2026%e6%b1%ba%e6%88%b0/",
+        "quote": "(一) 採線上報名，免收報名費(pse.is/YKKAP_StreetDanceCompetition)"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "總獎金新臺幣 200,000 元：冠軍 1 隊 50,000 元、亞軍 1 隊 30,000 元、季軍 1 隊 20,000 元（皆含稅）；冠軍另得國際賽事 GDCC Team Crew 種子選手資格及國際交流獎勵補助金 100,000 元（含稅）。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.ttsh.tp.edu.tw/news/%e5%8c%97%e5%b8%82%e9%ab%94%e8%82%b2%e5%b1%80%e8%88%87%e5%8f%b0%e7%81%a3%e8%a1%97%e8%88%9e%e6%96%87%e5%8c%96%e6%8e%a8%e5%bb%a3%e5%8d%94%e6%9c%83%e8%88%89%e8%be%a6%e3%80%8cykk-ap-2026%e6%b1%ba%e6%88%b0/",
+        "quote": "四、獎勵規劃：總獎金新臺幣200,000元(包含國際交流獎勵新臺幣100,000元)"
+      },
+      {
+        "url": "https://www.ttsh.tp.edu.tw/news/%e5%8c%97%e5%b8%82%e9%ab%94%e8%82%b2%e5%b1%80%e8%88%87%e5%8f%b0%e7%81%a3%e8%a1%97%e8%88%9e%e6%96%87%e5%8c%96%e6%8e%a8%e5%bb%a3%e5%8d%94%e6%9c%83%e8%88%89%e8%be%a6%e3%80%8cykk-ap-2026%e6%b1%ba%e6%88%b0/",
+        "quote": "【冠軍】新臺幣50,000元(含稅) / 1隊"
+      },
+      {
+        "url": "https://www.ttsh.tp.edu.tw/news/%e5%8c%97%e5%b8%82%e9%ab%94%e8%82%b2%e5%b1%80%e8%88%87%e5%8f%b0%e7%81%a3%e8%a1%97%e8%88%9e%e6%96%87%e5%8c%96%e6%8e%a8%e5%bb%a3%e5%8d%94%e6%9c%83%e8%88%89%e8%be%a6%e3%80%8cykk-ap-2026%e6%b1%ba%e6%88%b0/",
+        "quote": "【亞軍】新臺幣30,000元(含稅) / 1隊"
+      },
+      {
+        "url": "https://www.ttsh.tp.edu.tw/news/%e5%8c%97%e5%b8%82%e9%ab%94%e8%82%b2%e5%b1%80%e8%88%87%e5%8f%b0%e7%81%a3%e8%a1%97%e8%88%9e%e6%96%87%e5%8c%96%e6%8e%a8%e5%bb%a3%e5%8d%94%e6%9c%83%e8%88%89%e8%be%a6%e3%80%8cykk-ap-2026%e6%b1%ba%e6%88%b0/",
+        "quote": "【季軍】新臺幣20,000元(含稅) / 1隊"
+      },
+      {
+        "url": "https://www.ttsh.tp.edu.tw/news/%e5%8c%97%e5%b8%82%e9%ab%94%e8%82%b2%e5%b1%80%e8%88%87%e5%8f%b0%e7%81%a3%e8%a1%97%e8%88%9e%e6%96%87%e5%8c%96%e6%8e%a8%e5%bb%a3%e5%8d%94%e6%9c%83%e8%88%89%e8%be%a6%e3%80%8cykk-ap-2026%e6%b1%ba%e6%88%b0/",
+        "quote": "國際賽事GDCC Team Crew之種子選手資格"
+      },
+      {
+        "url": "https://www.ttsh.tp.edu.tw/news/%e5%8c%97%e5%b8%82%e9%ab%94%e8%82%b2%e5%b1%80%e8%88%87%e5%8f%b0%e7%81%a3%e8%a1%97%e8%88%9e%e6%96%87%e5%8c%96%e6%8e%a8%e5%bb%a3%e5%8d%94%e6%9c%83%e8%88%89%e8%be%a6%e3%80%8cykk-ap-2026%e6%b1%ba%e6%88%b0/",
+        "quote": "國際交流獎勵補助金新臺幣100,000元(含稅)"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "unknown",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.ttsh.tp.edu.tw/news/%e5%8c%97%e5%b8%82%e9%ab%94%e8%82%b2%e5%b1%80%e8%88%87%e5%8f%b0%e7%81%a3%e8%a1%97%e8%88%9e%e6%96%87%e5%8c%96%e6%8e%a8%e5%bb%a3%e5%8d%94%e6%9c%83%e8%88%89%e8%be%a6%e3%80%8cykk-ap-2026%e6%b1%ba%e6%88%b0/"
+      }
+    ]
+  },
+  "links": {
+    "official": null,
+    "rules": [],
+    "registration": "http://pse.is/YKKAP_StreetDanceCompetition"
+  },
+  "found_via": [
+    {
+      "name": "大同高中 學生競賽活動",
+      "url": "https://www.ttsh.tp.edu.tw/news/%e5%8c%97%e5%b8%82%e9%ab%94%e8%82%b2%e5%b1%80%e8%88%87%e5%8f%b0%e7%81%a3%e8%a1%97%e8%88%9e%e6%96%87%e5%8c%96%e6%8e%a8%e5%bb%a3%e5%8d%94%e6%9c%83%e8%88%89%e8%be%a6%e3%80%8cykk-ap-2026%e6%b1%ba%e6%88%b0/"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-25",
+    "method": "single",
+    "unread": [
+      "法定代理人同意書"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-25"
+}

@@ -5690,7 +5690,12 @@
   "record": "2027-lhu-traffic-safety-ai-hackathon",
   "note": "single, unverified",
   "tried": "2026-11-25",
-  "searched": "2026-11-25"
+  "searched": "2026-11-25",
+  "second": {
+   "attempts": 1,
+   "tried": "2026-11-25",
+   "note": "dual"
+  }
  },
  {
   "key": "c0189",
@@ -7709,17 +7714,22 @@
     "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=28491",
     "role": "announcement",
     "name": "苗栗高中 學生校外營隊、活動、比賽"
+   },
+   {
+    "url": "https://expo-healthcare-taiwan.vercel.app/",
+    "role": "rules",
+    "name": ""
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "search",
+  "status": "done",
   "attempts": 1,
   "record": "2026-taiwan-healthcare-hs-contest",
-  "note": "single, unverified",
+  "note": "single, checked",
   "tried": "2026-11-25",
-  "after_search": "done"
+  "searched": "2026-11-25"
  },
  {
   "key": "c0248",
@@ -7739,7 +7749,12 @@
   "attempts": 1,
   "record": "2026-hwu-high-school-band",
   "note": "single, checked",
-  "tried": "2026-11-25"
+  "tried": "2026-11-25",
+  "second": {
+   "attempts": 1,
+   "tried": "2026-11-25",
+   "note": "dual"
+  }
  },
  {
   "key": "c0249",
@@ -7795,13 +7810,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
+  "status": "skipped",
+  "attempts": 1,
   "record": null,
-  "note": null,
-  "need": [
-   "https://www.cygsh.cy.edu.tw/app/index.php?Action=downloadfile&file=TmZoSUpFeGFjTmc2VmJWckFJenR1UTFSd0h0UE9nKzc5cmNaMHdBd1ppdUNiN09ZNTdxa1FGSHBCekNLeUQyc1gwTVhKeGhyTnRIRTMrekNTRmdyV3pMcHdWVnQxbTNyamZBbkNUZHhsMVk9&fname=MzlGRGxBKzFIRjRIUkFWU0R1MWdWU2xVSCtJVFlYQTZaUEp4QUhIMVpCaz0="
-  ]
+  "note": "此競賽為教育部地理學科中心辦理之素養導向評量命題競賽，參加對象為全國高中(職)地理教師（含代理、兼課和實習教師），學生不得參加，屬僅限教師之競賽。",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0251",
@@ -7837,17 +7850,32 @@
     "url": "https://www.hccvs.hc.edu.tw/ischool/public/news_view/show.php?nid=26597",
     "role": "announcement",
     "name": "新竹高商 消息公佈欄"
+   },
+   {
+    "url": "https://techpro.tp.edu.tw/techpro-server/activities/web/fd9f73f9-62c0-4c79-812d-80f4ab6281f0",
+    "role": "rules",
+    "name": ""
+   },
+   {
+    "url": "https://techpro.tp.edu.tw/techpro-server/documents/62d83089-9999-42f5-b82b-0069b4ef87d6",
+    "role": "rules",
+    "name": ""
+   },
+   {
+    "url": "https://techpro.tp.edu.tw/techpro-server/latestNews/3f620648-f13a-43c0-876e-5de08c6243b2",
+    "role": "rules",
+    "name": ""
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "search",
+  "status": "done",
   "attempts": 1,
   "record": "2026-taipei-drone",
-  "note": "single, unverified",
+  "note": "single, checked",
   "tried": "2026-11-25",
-  "after_search": "done"
+  "searched": "2026-11-25"
  },
  {
   "key": "c0253",
@@ -7863,13 +7891,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null,
-  "need": [
-   "https://www.k12ea.gov.tw/Tw/Common/Downloader?id=d3a783ba-4423-4f6e-b954-a263b903d6b9"
-  ]
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-youth-health-advocacy",
+  "note": "single, checked",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0254",
@@ -8000,17 +8026,16 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-25",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null,
-  "need": [
-   "https://www.fg.tp.edu.tw/view-doc/11/TOL 2027_國際語言學奧林匹亞競賽臺灣國手選拔賽說明簡章.pdf",
-   "https://www.fg.tp.edu.tw/view-doc/11/2027年國際語言學奧林匹亞競賽臺灣代表隊選拔賽複賽之學校推薦辦法.pdf",
-   "https://www.cygsh.cy.edu.tw/app/index.php?Action=downloadfile&file=VSt4WU5uRGxCcEJqQmxXUzhvR0hMUHZFb1ptaVduckt3TnkxcUNKMlJmNlRXYXMvT25QNnQwT0tHZGtvZXEwRlVRVy9YdE9YbWUwb3d5MGxSODRtN3ZPekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=NWxPREhOVjFZQW95T2hXLy9jUzlyQlZTc2lTTmVEK0VaWGtGRy96WjFOU0xsbjgrQjcwaWJJR1ZIdHpEeGIvZ1UzdUR1R1dFQ1V5eTNFemM0VHVOQkpXc3pJV0JnQUQ2MlA4aTRtOTg1Y2VwaXNRckl6Z3FWcEY4TVdyUEgxYk1LVlFmNGhOaGNEcGs4bkVBY2ZWa0dRPT0=",
-   "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28337/%E5%85%AC%E6%96%87.pdf",
-   "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28337/%E6%8E%A8%E8%96%A6%E8%BE%A6%E6%B3%95.pdf"
-  ]
+  "status": "done",
+  "attempts": 1,
+  "record": "2027-iol-taiwan-selection",
+  "note": "single, checked",
+  "tried": "2026-11-25",
+  "second": {
+   "attempts": 1,
+   "tried": "2026-11-25",
+   "note": "dual"
+  }
  },
  {
   "key": "c0257",
@@ -8101,17 +8126,27 @@
     "url": "https://www.tngs.tn.edu.tw/2026/10/13/%e5%9c%8b%e7%ab%8b%e8%87%ba%e5%8d%97%e5%a4%a7%e5%ad%b8%e8%be%a6%e7%90%86%e4%b9%8b%e3%80%8c%e3%80%8a%e4%b8%ad%e5%b0%8f%e5%ad%b8ai%e4%b9%8b%e5%ad%b8%e7%bf%92%e6%87%89%e7%94%a8%e6%89%8b%e5%86%8a%e3%80%8b/",
     "role": "announcement",
     "name": "臺南女中 學生競賽"
+   },
+   {
+    "url": "https://sites.google.com/view/gailearn/競賽活動/分區競賽/115年度中學生-ai-學習應用競賽",
+    "role": "rules",
+    "name": ""
+   },
+   {
+    "url": "https://drive.google.com/file/d/1SE5prtnLAoU7P5AoU71BbGFnD9wo4Pvl/view?usp=drive_link",
+    "role": "rules",
+    "name": ""
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "search",
+  "status": "done",
   "attempts": 1,
-  "record": "2026-moe-ai-learning-handbook",
-  "note": "single, unverified",
+  "record": "2026-gailearn-ai-handbook",
+  "note": "single, checked",
   "tried": "2026-11-25",
-  "after_search": "done"
+  "searched": "2026-11-25"
  },
  {
   "key": "c0259",
@@ -8192,13 +8227,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
+  "status": "skipped",
+  "attempts": 1,
   "record": null,
-  "note": null,
-  "need": [
-   "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/「2026第八屆全國高中職電競大賽」.pdf"
-  ]
+  "note": "電競大賽：戰隊以電玩遊戲對戰、由比賽勝負決定名次，屬電競賽，不在收錄範圍。",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0261",
@@ -8259,13 +8292,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null,
-  "need": [
-   "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/95/pta_227481_8692695_93899.pdf"
-  ]
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-changhua-rotary-english-speech",
+  "note": "single, checked",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0264",
@@ -8341,17 +8372,32 @@
     "url": "https://www.hssh.tp.edu.tw/p/405-1000-52532,c540.php",
     "role": "announcement",
     "name": "西松高中 校外競賽公告"
+   },
+   {
+    "url": "https://www.ecolympiad.tw/zh-tw/eo",
+    "role": "rules",
+    "name": ""
+   },
+   {
+    "url": "https://drive.google.com/file/d/1MLBbn-kEIlLGT6PeeMtt-jPgbmlfl44W/view?usp=sharing",
+    "role": "rules",
+    "name": ""
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-25",
-  "status": "search",
+  "status": "done",
   "attempts": 1,
   "record": "2026-economics-olympiad-school-round",
   "note": "single, unverified",
   "tried": "2026-11-25",
-  "after_search": "done"
+  "searched": "2026-11-25",
+  "second": {
+   "attempts": 1,
+   "tried": "2026-11-25",
+   "note": "dual"
+  }
  },
  {
   "key": "c0266",
@@ -8487,16 +8533,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-25",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null,
-  "need": [
-   "https://ithu.tw/qygjw",
-   "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/「2026智慧永續循環技術研討會暨專題競賽」競賽資訊.pdf",
-   "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28250/%E5%85%AC%E6%96%87.pdf",
-   "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=VUtLVkVyTVU2amFxekQ2NVB4MktvMG0yZm96R3lDRjQrTUVVNExwQk9QMS9MQUl0WTVtRkVpSkl4UHFnTm1ZWHY4UDcrNW10Uk9pQ01hamhBbjJrNWZPekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=NmVrQXRkNURhYy9lTnhQNmQ0VFBlVExwd1ZWdDFtM3JqZkFuQ1RkeGwxWT0="
-  ]
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-thu-smart-sustainability",
+  "note": "single, checked",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0269",
@@ -8541,7 +8582,12 @@
   "attempts": 1,
   "record": "2027-metamanga-comic",
   "note": "single, checked",
-  "tried": "2026-11-25"
+  "tried": "2026-11-25",
+  "second": {
+   "attempts": 1,
+   "tried": "2026-11-25",
+   "note": "dual"
+  }
  },
  {
   "key": "c0271",
@@ -8557,12 +8603,17 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "search",
+  "status": "done",
   "attempts": 1,
   "record": "2026-ntbsa-xinying-tax-ai-comic",
-  "note": "single, unverified",
+  "note": "search found nothing that names this contest and edition",
   "tried": "2026-11-25",
-  "after_search": "done"
+  "searched": "2026-11-25",
+  "second": {
+   "attempts": 1,
+   "tried": "2026-11-25",
+   "note": "dual"
+  }
  },
  {
   "key": "c0272",
@@ -8603,10 +8654,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-asus-rog-pc-diy",
+  "note": "single, checked",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0274",
@@ -8622,10 +8674,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-tw-biology-olympiad",
+  "note": "single, checked",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0275",
@@ -8641,10 +8694,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
+  "status": "skipped",
+  "attempts": 1,
   "record": null,
-  "note": null
+  "note": "這是電競大賽：戰隊以電玩遊戲對戰，由比賽決定名次，屬目錄不收的電競賽。",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0276",
@@ -8665,10 +8719,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
+  "status": "skipped",
+  "attempts": 1,
   "record": null,
-  "note": null
+  "note": "申請須知與報名表皆規定參賽成員須為大專校院在學學生或社會人士，高中職學生不得參賽。",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0277",
@@ -8684,10 +8739,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
+  "status": "skipped",
+  "attempts": 1,
   "record": null,
-  "note": null
+  "note": "所給文件是高師大附中招募一名高二女學生、與該校種子選手及日本夥伴學生組隊參加 2026 ASEP 大會的校內甄選（書面審查，額滿則面試），僅限該校學生報名；大會本身的主辦單位、各校如何報名及獎項，所給文件都沒有寫明，無法寫成一筆競賽紀錄。",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0278",
@@ -8743,10 +8799,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-25",
-  "status": "new",
-  "attempts": 0,
+  "status": "skipped",
+  "attempts": 1,
   "record": null,
-  "note": null
+  "note": "國立臺中教育大學「高中職學校學生自主學習成果分享展-聚光時刻」是成果分享展覽：簡章只規定繳交海報到場展出，回饋為每位組員一份教授回饋意見表及輸出海報，沒有評審、名次、獎金或獎狀，屬未評審的展覽，不在收錄範圍。",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0279",
@@ -8762,10 +8819,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-ntnu-biped-robot",
+  "note": "single, checked",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0280",
@@ -8831,10 +8889,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-cust-innovation-entrepreneurship",
+  "note": "single, checked",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0282",
@@ -8880,10 +8939,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-chihlee-xinchuang-cup",
+  "note": "single, checked",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0283",
@@ -8899,10 +8959,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-kaohsiung-programming",
+  "note": "single, checked",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0284",
@@ -8918,10 +8979,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-kinmen-student-music-prelim",
+  "note": "single, checked",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0285",
@@ -8937,10 +8999,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-hsinchu-city-student-music",
+  "note": "single, checked",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0286",
@@ -8956,10 +9019,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-tainan-student-music",
+  "note": "single, checked",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0287",
@@ -8975,10 +9039,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-miaoli-student-art-prelim",
+  "note": "single, checked",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0288",
@@ -9024,10 +9089,16 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-national-student-music",
+  "note": "single, checked",
+  "tried": "2026-11-25",
+  "second": {
+   "attempts": 1,
+   "tried": "2026-11-25",
+   "note": "single"
+  }
  },
  {
   "key": "c0289",
@@ -9053,10 +9124,16 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2027-miaoli-18-township-english-speech",
+  "note": "single, checked",
+  "tried": "2026-11-25",
+  "second": {
+   "attempts": 1,
+   "tried": "2026-11-25",
+   "note": "dual"
+  }
  },
  {
   "key": "c0290",
@@ -9072,15 +9149,27 @@
     "url": "https://www.ntsh.ntct.edu.tw/ischool/public/news_view/show.php?nid=23043",
     "role": "announcement",
     "name": "南投高中 最新消息"
+   },
+   {
+    "url": "https://sites.google.com/view/gailearn/競賽活動/分區競賽/115年度中學生-ai-學習應用競賽",
+    "role": "rules",
+    "name": ""
+   },
+   {
+    "url": "https://drive.google.com/file/d/1SE5prtnLAoU7P5AoU71BbGFnD9wo4Pvl/view?usp=drive_link",
+    "role": "rules",
+    "name": ""
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-gailearn-ai-handbook",
+  "note": "single, checked",
+  "tried": "2026-11-25",
+  "searched": "2026-11-25"
  },
  {
   "key": "c0291",
@@ -9141,10 +9230,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-25",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-wzu-interpreting",
+  "note": "single, checked",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0292",
@@ -9175,10 +9265,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-cute-ai-cross-domain",
+  "note": "single, checked",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0293",
@@ -9204,10 +9295,18 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-25",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-paochung-cup-spicy-cuisine",
+  "note": "single, checked",
+  "tried": "2026-11-25",
+  "second": {
+   "attempts": 0,
+   "need": [
+    "https://www.hssh.tp.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9MelExTDNCMFlWODFPRFUzTlY4NU1qY3lNVFF4WHpjM05URTVMbkJrWmc9PQ==&fname=WSGGIGGHMK00OOMPHCLKUSZWKKMOOOKKDGUWSS20A1IDCCFCSSECVTPOUSSSPKPO",
+    "https://reurl.cc/EYD9YR"
+   ]
+  }
  },
  {
   "key": "c0294",
@@ -9278,10 +9377,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-nptu-hs-project",
+  "note": "single, checked",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0295",
@@ -9312,10 +9412,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-tpcu-english-dubbing",
+  "note": "single, checked",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0296",
@@ -9341,10 +9442,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-tpcu-japanese-dubbing",
+  "note": "single, checked",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0297",
@@ -9375,10 +9477,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-vnu-tianchu-cup-airline-cuisine",
+  "note": "single, checked",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0298",
@@ -9414,10 +9517,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-mwbit",
+  "note": "single, checked",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0299",
@@ -9438,10 +9542,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-iifme-kuwait",
+  "note": "single, checked",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0300",
@@ -9462,10 +9567,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-bangkok-intl-invention-fair",
+  "note": "single, checked",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0301",
@@ -9481,10 +9587,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-nptu-hs-project",
+  "note": "single, checked",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0302",
@@ -9505,10 +9612,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
+  "status": "skipped",
+  "attempts": 1,
   "record": null,
-  "note": null
+  "note": "此為表彰教師及教育行政主管的永續教育人物獎，參選資格限現任教育機構之教師或教育工作者，高中職學生不得參加，不屬本目錄收錄的學生競賽。",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0303",
@@ -9574,10 +9682,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
+  "status": "skipped",
+  "attempts": 1,
   "record": null,
-  "note": null
+  "note": "這是電競賽：參賽隊伍在 PaGamO 線上遊戲平台以族語答題佔地與挑戰任務，由遊戲對戰結果決定名次，屬目錄不收的電競比賽。",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0304",
@@ -9637,10 +9746,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-tpcu-japanese-dubbing",
+  "note": "single, checked",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0306",
@@ -9666,10 +9776,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-tpcu-english-dubbing",
+  "note": "single, checked",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0307",
@@ -9690,10 +9801,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-25",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-cyut-kuso-english-dubbing",
+  "note": "single, checked",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0308",
@@ -9739,10 +9851,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-25",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-ocu-stock-plus",
+  "note": "single, checked",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0309",
@@ -9758,16 +9871,27 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-ykkap-street-dance",
+  "note": "single, checked",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0310",
   "title": "第11屆桃園市長盃珠心算暨數學公開邀請賽",
   "deadline": null,
   "urls": [
+   {
+    "url": "http://www.wlsh.tyc.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mek0yTDNCMFlWODJNRFUzT0Y4ME9UazBPREkzWHpRMU9UY3pMbkJrWmc9PQ==&fname=0054YSB0PKQOTXHHGGVWUSWT14PKUW35503435YWXXFDNLNL",
+    "role": "rules",
+    "name": ""
+   },
+   {
+    "url": "http://www.wlsh.tyc.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mek0yTDNCMFlWODJNRFUzTjE4NU5qYzJOamM1WHpRMU9UY3pMbkJrWmc9PQ==&fname=0054YSB0PKQOVXHHGGVWUSWT14PKUW35503435YWXXFDNLNL",
+    "role": "rules",
+    "name": ""
+   },
    {
     "url": "http://www.wlsh.tyc.edu.tw/p/406-1000-43395,r83.php?Lang=zh-tw",
     "role": "announcement",
@@ -9777,10 +9901,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-taoyuan-mayor-cup-abacus-math",
+  "note": "single, checked",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0311",
@@ -9796,10 +9921,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-hochi-calligraphy",
+  "note": "single, checked",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0312",
@@ -9815,10 +9941,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
+  "status": "skipped",
+  "attempts": 1,
   "record": null,
-  "note": null
+  "note": "文件中沒有描述此活動的內容：學校公告頁只有標題「屏東縣補習教育暨品保協會「115年育苗專案」」，沒有內文或附件，其餘兩頁為家長同意書與內部控制聲明書，無法判斷是否為評審給獎的競賽。",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0313",
@@ -9849,10 +9976,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
+  "status": "skipped",
+  "attempts": 1,
   "record": null,
-  "note": null
+  "note": "「115年度生涯影展」是國教署生涯輔導資源中心辦理的線上觀影活動，附帶的「寫心得抽好禮活動」以電腦隨機抽獎發放獎品，心得不經評審、不評名次，不是競賽。",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0314",
@@ -9906,7 +10034,13 @@
   "status": "new",
   "attempts": 0,
   "record": null,
-  "note": null
+  "note": null,
+  "need": [
+   "https://afl.ltu.edu.tw/",
+   "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg317/「2026全國高中職暨大專院校台灣私房景點介紹英／日文簡報比賽」2.png",
+   "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/「2026全國高中職暨大專院校台灣私房景點介紹英／日文簡報比賽」.pdf",
+   "https://www.mlaivs.mlc.edu.tw/ischool/news/attached/26650/1150007709_1.png"
+  ]
  },
  {
   "key": "c0315",
@@ -9975,7 +10109,13 @@
   "status": "new",
   "attempts": 0,
   "record": null,
-  "note": null
+  "note": null,
+  "need": [
+   "https://aecyut.cyut.edu.tw/p/406-1039-66700,r106.php?Lang=zh-tw",
+   "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28160/%E7%B0%A1%E7%AB%A0.pdf",
+   "https://www.mlaivs.mlc.edu.tw/ischool/news/attached/26654/1150007749_1.pdf",
+   "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/第10屆朝陽科技大學應用英語系全國校園創意短片比賽.pdf"
+  ]
  },
  {
   "key": "c0316",
@@ -9991,10 +10131,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2027-cyut-ae-short-film",
+  "note": "single, checked",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0317",
@@ -10030,10 +10171,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-ksu-low-carbon-tour",
+  "note": "single, checked",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0318",
@@ -10049,10 +10191,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-vnu-mkt-cup",
+  "note": "single, checked",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0319",
@@ -10101,7 +10244,12 @@
   "status": "new",
   "attempts": 0,
   "record": null,
-  "note": null
+  "note": null,
+  "need": [
+   "https://www.kmsh.km.edu.tw/ischool/news/attached/22272/A10130000U0000000_%E9%99%84%E4%BB%B62-%E5%85%92%E7%AB%A5%E7%B9%AA%E6%9C%AC%E5%89%B5%E4%BD%9C%EF%BC%88%E5%90%AB%E5%A0%B1%E5%90%8D%E8%A1%A8%EF%BC%89007851.pdf",
+   "https://drive.google.com/file/d/1S8HUr2opa4poOdAsArZCO9aWbmw7aola/view?usp=sharing",
+   "https://ecce.ukn.edu.tw/"
+  ]
  },
  {
   "key": "c0320",
@@ -10127,10 +10275,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2027-k12-tobacco-betel-video",
+  "note": "single, checked",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0321",
@@ -10151,10 +10300,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-25",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-daming-cup-art",
+  "note": "single, checked",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0322",
@@ -10170,10 +10320,12 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "search",
+  "attempts": 1,
+  "record": "2027-national-skills-competition",
+  "note": "single, unverified",
+  "tried": "2026-11-25",
+  "after_search": "done"
  },
  {
   "key": "c0323",
@@ -10189,10 +10341,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-taipei-youth-policy-proposal",
+  "note": "single, checked",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0324",
@@ -10213,10 +10366,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-jinzhuan-calligraphy",
+  "note": "single, checked",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0325",
@@ -10242,10 +10396,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-25",
-  "status": "new",
-  "attempts": 0,
+  "status": "skipped",
+  "attempts": 1,
   "record": null,
-  "note": null
+  "note": "這是國立政治大學提供學士班特殊選才及申請入學錄取新生的入學獎學金計畫，經審查委員會審核發給獎學金，並非評審作品並給予名次或獎項的競賽。",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0326",
@@ -10301,10 +10456,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
+  "status": "skipped",
+  "attempts": 1,
   "record": null,
-  "note": null
+  "note": "新竹市政府115年臺灣女孩日系列活動，內容為造船廠參訪、淨灘與海岸走讀三場活動，沒有評審、名次或獎項，不是競賽。",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0328",
@@ -10328,13 +10484,26 @@
   "status": "new",
   "attempts": 0,
   "record": null,
-  "note": null
+  "note": null,
+  "need": [
+   "https://hsinchuyouthdream.com/"
+  ]
  },
  {
   "key": "c0329",
   "title": "新北市115學年度技術型高中「AI+P煉戰素養Challenge挑戰賽」",
   "deadline": null,
   "urls": [
+   {
+    "url": "https://www.ykvs.ntpc.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9MemMwTDNCMFlWOHlORFkxTmw4MU56VTVNRGMzWHpVNE9UVTFMbkJrWmc9PQ==&fname=WSGGHGGHUSLKOOYXDGLKOKYWMK30WTRLQO34XS10QPNPCC40USRO01UW005430EGPOPOVXXXA404LK14MOPKTSLOOPB0NOWSLPJDXWA034MKB001USSSXSFC00POHHKKDGA0NOXTVWNK40XS50B040NK41GDQP21QKDCOPA414TSCDUSRK00TX2524FGFCMOQOJGPO3520ROWSWS01A104VSXWB4NKA4IGGG01QKSSLKLP00WW04WW34PKNKTSKO20B040GCNPIDOOB5NKB4OPEG2054ROSSNO00ZTIHHCEGEGHCXSFGOOMKRKRKNKWSA1YT31FCUWTS30QKECSW45RKRKPOGG1124NOEGMORKB4JGGCQOFCUSMPTX3504SSKPEC45FG0010ST50NOWWA5KKGGPOMOYSQOB4JD34DGVW14MPUTXTROB0ZWYWJGB0YWKKUWOKNO40LP15GGB0KPGDKO305000DGB0DCKKCC05FG40UWQOPPUWQOOK50ST",
+    "role": "rules",
+    "name": ""
+   },
+   {
+    "url": "https://www.ykvs.ntpc.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9MemMwTDNCMFlWOHlORFkxTlY4Mk5UZ3pOVGd6WHpVNE9UVTFMbVJ2WTNnPQ==&fname=WSGGHGGHUSLKOOYXDGLKOKYWMK30WTRLQO34XS10QPNPCC40USRO01UW005430EGPOPOVXXXA404LK14MOPKTSLOOPB0NOWSLPJDXWA034MKB001USSSXSFC00POHHKKDGA0NOXTVWNK40XS50B040NK41GDQP21QKDCOPA414TSCDUSRK00TX2524FGFCMOQOJGPO3520ROWSWS01A104VSXWB4NKA4IGGG01QKSSLKLP00WW04WW34PKNKTSKO20B040GCNPIDOOB5NKB4OPEG2054ROSSNO00ZTIHHCEGEGHCXSFGOOMKRKRKNKWSA1YT31FCUWTS30QKECSW45RKRKPOGG1124NOEGMORKB4JGGCQOFCUSMPTX3504SSKPEC45FG0010ST50NOWWA5KKGGPOMOYSQOB4JD34DGVW14MPUTXTROB0ZWYWJGB0YWKKUWOKNO40LP15GGB0KPGDKO305000DGB0DCKKCC05LK40UWA4YWPOFH10ROUW",
+    "role": "announcement",
+    "name": "www.ykvs.ntpc.edu.tw"
+   },
    {
     "url": "https://www.ykvs.ntpc.edu.tw/p/406-1000-25876,r23.php",
     "role": "announcement",
@@ -10349,10 +10518,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-25",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2027-ntpc-ai-p-literacy-challenge",
+  "note": "single, checked",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0330",
@@ -10398,10 +10568,12 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "search",
+  "attempts": 1,
+  "record": "2026-vnu-cosmetics-formulation",
+  "note": "single, unverified",
+  "tried": "2026-11-25",
+  "after_search": "done"
  },
  {
   "key": "c0331",
@@ -10417,10 +10589,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-npust-combination-planting",
+  "note": "single, checked",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0332",
@@ -10436,10 +10609,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
+  "status": "skipped",
+  "attempts": 1,
   "record": null,
-  "note": null
+  "note": "115年度生涯影展為觀影活動，「寫心得抽好禮活動」以電腦隨機抽獎決定獎品，心得不經評審、不評名次，不屬競賽。",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0333",
@@ -10463,7 +10637,10 @@
   "status": "new",
   "attempts": 0,
   "record": null,
-  "note": null
+  "note": null,
+  "need": [
+   "https://www.aerc1988.com.tw"
+  ]
  },
  {
   "key": "c0334",
@@ -10479,10 +10656,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-aerc-robot-sports",
+  "note": "single, checked",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0335",
@@ -10513,10 +10691,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-aerc-ksu",
+  "note": "single, checked",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0336",
@@ -10532,10 +10711,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-aerc-robot-sports-2",
+  "note": "single, checked",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0337",
@@ -10559,7 +10739,10 @@
   "status": "new",
   "attempts": 0,
   "record": null,
-  "note": null
+  "note": null,
+  "need": [
+   "https://drive.google.com/file/d/1ijegHA_062EIRJij7ikNZWqIWieD_lyl/view?usp=sharing"
+  ]
  },
  {
   "key": "c0338",
@@ -10575,10 +10758,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-aerc-ksu",
+  "note": "single, checked",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0339",
@@ -10594,10 +10778,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-aerc-robot-sports-2",
+  "note": "single, checked",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0340",
@@ -10613,10 +10798,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-taipei-cicero-cup-english-debate",
+  "note": "single, checked",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0341",
@@ -10667,10 +10853,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-25",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-moe-digital-gender-violence-video",
+  "note": "single, checked",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0342",

@@ -1,0 +1,288 @@
+{
+  "schema": 1,
+  "id": "2026-mwbit",
+  "title": "2026-2027賽季數學無國界大賽",
+  "edition": "2026-2027賽季",
+  "summary": "1 至 12 年級學生依出生年分組，以英文試題參加兩輪數學積分賽，獲獎牌者可赴保加利亞總決賽。",
+  "organizers": [
+    {
+      "name": "保加利亞數學無國界組委會",
+      "role": "主辦"
+    },
+    {
+      "name": "中華數學協會",
+      "role": "承辦"
+    },
+    {
+      "name": "數學俱樂部",
+      "role": "承辦"
+    }
+  ],
+  "categories": [
+    "數學"
+  ],
+  "eligibility": {
+    "levels": [
+      "國小",
+      "國中",
+      "高中",
+      "高職"
+    ],
+    "division": "mixed",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": 1,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文附件_6100201A00_ATTCH1.pdf",
+        "quote": "參加學生為1–12級別，其中9–12級別為同一組。"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文附件_6100201A00_ATTCH1.pdf",
+        "quote": "五、考試對象：1至12 年級（按照出生年報考，可跳級參賽）。"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文附件_6100201A00_ATTCH1.pdf",
+        "quote": "Born in 2011 or earlier (15-18-year-old students)"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文附件_6100201A00_ATTCH1.pdf",
+        "quote": "九、學生個人報名方式"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "第一輪競賽報名截止",
+      "date": "2026-10-19",
+      "time": null,
+      "original": "即日起至10/19(一)報名截止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文附件_6100201A00_ATTCH1.pdf",
+          "quote": "一、報名時間：即日起至10/19(一)報名截止。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "陸續發送考前通知、准考證",
+      "date": "2026-10-27",
+      "time": null,
+      "original": "10/27(二)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文附件_6100201A00_ATTCH1.pdf",
+          "quote": "10/27(二) 陸續發送考前通知、准考證"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "學校自辦考場第一輪考試（10/28～10/31 擇一日）",
+      "date": "2026-10-31",
+      "time": null,
+      "original": "10/28~10/31 選擇一天",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文附件_6100201A00_ATTCH1.pdf",
+          "quote": "10/28~10/31 選擇一天"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "第一輪競賽考試",
+      "date": "2026-11-01",
+      "time": "14:00",
+      "original": "2026 年11 月1 日(星期日) 14:00 ~ 15:00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文附件_6100201A00_ATTCH1.pdf",
+          "quote": "二、考試日期：2026 年11 月1 日(星期日) 14:00 ~ 15:00。"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "學校自辦考場第一輪成績於網站公告（大約）",
+      "date": "2026-11-16",
+      "time": null,
+      "original": "大約11/16",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文附件_6100201A00_ATTCH1.pdf",
+          "quote": "大約11/16 成績於網站公告"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "第二輪競賽考試",
+      "date": "2027-02-21",
+      "time": "10:00",
+      "original": "2027/02/21 (日) 10:00 ~ 11:00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文附件_6100201A00_ATTCH1.pdf",
+          "quote": "MWB第二輪競賽 2027/02/21 (日) 10:00 ~ 11:00"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "夏季總決賽於保加利亞舉行（至 2027/07/06）",
+      "date": "2027-07-02",
+      "time": null,
+      "original": "2027/07/02 (五) ~ 2027/07/06 (二)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文附件_6100201A00_ATTCH1.pdf",
+          "quote": "MWB夏季總決賽 2027/07/02 (五) ~ 2027/07/06 (二) 於保加利亞舉行"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "第一輪競賽",
+      "what": "60 分鐘作答 20 題英文填充題（Group1～Group6 附中文翻譯），實體考場或非考區線上考場",
+      "how": "onsite"
+    },
+    {
+      "stage": "第二輪競賽",
+      "what": "第二輪積分賽考試",
+      "how": "online"
+    },
+    {
+      "stage": "夏季總決賽（前兩輪獲獎牌者及配額）",
+      "what": "於保加利亞內賽伯爾參加決賽",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "第一輪於台北、新竹、台中、高雄實體考場；總決賽於保加利亞內賽伯爾",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文附件_6100201A00_ATTCH1.pdf",
+        "quote": "實體考試，於台北/新竹/台中/高雄設置實體考場，位於非考區縣市、東部及離島地區， 特別開設線上考場。"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文附件_6100201A00_ATTCH1.pdf",
+        "quote": "夏季總決賽於7月在保加利亞－內 賽伯爾舉行。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "required",
+    "amount": "1000元；學校自辦考場每位考生900元",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文附件_6100201A00_ATTCH1.pdf",
+        "quote": "1000元（其他方案及優惠請參考報名表單）"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文附件_6100201A00_ATTCH1.pdf",
+        "quote": "3. 參賽費用：學校自辦考場參賽費用為一位考生900 元（若有需求協會可開立收據）。"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文附件_6100201A00_ATTCH1.pdf",
+        "quote": "**報名無退費機制，請確定參加再報名**"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "每輪頒金獎（5%）、銀獎（10%）、銅獎（15%）獎牌及證書，其他參與者獲參與證書；答對率 50% 或銅獎以上另獲合格證書；前兩輪獲至少一枚獎牌者可進入總決賽。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文附件_6100201A00_ATTCH1.pdf",
+        "quote": "主辦單位提供得獎者獎牌（金獎 5%、銀獎 10%、銅獎 15%）與其對應獎項之證書，其 他參與者則獲得「參與證書」。"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文附件_6100201A00_ATTCH1.pdf",
+        "quote": "若答對率為 50%或銅獎以上者，將額外獲得本會授權頒發之「合格證書」。"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文附件_6100201A00_ATTCH1.pdf",
+        "quote": "所 有在前兩輪積分賽贏得至少一枚獎牌的參賽者都可進入決賽。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文附件_6100201A00_ATTCH1.pdf"
+      }
+    ]
+  },
+  "links": {
+    "official": null,
+    "rules": [
+      {
+        "title": "2026-2027賽季數學無國界大賽 First Round 簡章",
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文附件_6100201A00_ATTCH1.pdf"
+      },
+      {
+        "title": "2026-2027賽季數學無國界大賽 海報",
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文附件_6100201A00_ATTCH5.pdf"
+      }
+    ],
+    "registration": "https://forms.gle/wXFwQjq3VTQafdY1A"
+  },
+  "found_via": [
+    {
+      "name": "高師大附中 校外競賽與活動",
+      "url": "https://www.nknush.kh.edu.tw/announcement/high-school-news/20968/%e5%85%ac%e5%91%8a2026-2027%e8%b3%bd%e5%ad%a3%e6%95%b8%e5%ad%b8%e7%84%a1%e5%9c%8b%e7%95%8c%e5%a4%a7%e8%b3%bd%e8%a8%ad%e5%82%99%e7%b5%84/"
+    },
+    {
+      "name": "新竹高商 消息公佈欄",
+      "url": "https://www.hccvs.hc.edu.tw/ischool/public/news_view/show.php?nid=26469"
+    },
+    {
+      "name": "苗栗農工 處室公告",
+      "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26638"
+    },
+    {
+      "name": "南投高中 最新消息",
+      "url": "https://www.ntsh.ntct.edu.tw/ischool/public/news_view/show.php?nid=22964"
+    },
+    {
+      "name": "武陵高中 校外競賽",
+      "url": "http://www.wlsh.tyc.edu.tw/p/406-1000-43365,r83.php?Lang=zh-tw"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-25",
+    "method": "single",
+    "unread": [
+      "學校自辦考場報名表格範例（Excel 檔）",
+      "參考樣題",
+      "考試知識點"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-25"
+}

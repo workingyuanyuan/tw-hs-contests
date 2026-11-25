@@ -51,6 +51,112 @@
     "corrections": []
    }
   },
+  "2026-aerc-ksu": {
+   "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28071/2026%E7%AC%AC38%E5%B1%86AERC%E4%BA%9E%E6%B4%B2%E6%A9%9F%E5%99%A8%E4%BA%BA%E9%81%8B%E5%8B%95%E7%AB%B6%E6%8A%80%E5%A4%A7%E8%B3%BD.pdf": {
+    "fingerprint": "3c430365d3566133a72a00fa907b7b4790d63d3ded71ad4a4981e211755ff17c",
+    "chars": 1705,
+    "facts": [
+     "1b41174a90c8f5cd",
+     "1fb7327fd1c25ec6",
+     "49ea2fcfb40dcea4",
+     "5bb4ae4712797aa4",
+     "7360bbf51078fc8e",
+     "8f5a1e576598c612",
+     "bad26c73c8d1fbda",
+     "bcd799f4db11040b",
+     "d49b3e0c57ce7077",
+     "e5afb4a5fc69532b",
+     "f766b5d744ecc3ae",
+     "fcc464c6476d539a"
+    ],
+    "corrections": []
+   },
+   "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28071/2026%E7%AC%AC38%E5%B1%86AERC%E4%BA%9E%E6%B4%B2%E6%A9%9F%E5%99%A8%E4%BA%BA%E9%81%8B%E5%8B%95%E7%AB%B6%E6%8A%80%E5%A4%A7%E8%B3%BD1.pdf": {
+    "fingerprint": "283face8904476d35f652043cacab1e8c80cf93a8f55454dc9d01f05ac819d90",
+    "chars": 324,
+    "facts": [
+     "b39c5f79c33a0abd"
+    ],
+    "corrections": []
+   }
+  },
+  "2026-aerc-robot-sports": {
+   "https://www.aerc1988.com.tw/": {
+    "fingerprint": "1df10e91e891038c53b866410941f666c88dd64deb62bdd899a205cd44b14a07",
+    "chars": 618,
+    "facts": [
+     "12e5778af28f8474",
+     "3b0920f4cbf0ccc5",
+     "6c6b6ef70fe74b60",
+     "fa2c6ba88ffff878"
+    ],
+    "corrections": []
+   },
+   "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28143/AERC2026%E4%BA%9E%E6%B4%B2%E6%A9%9F%E5%99%A8%E4%BA%BA%E9%81%8B%E5%8B%95%E7%AB%B6%E6%8A%80%E5%A4%A7%E8%B3%BD.pdf": {
+    "fingerprint": "c4133b70d2143d4562305e57385a0d6ebba2230150b96264ccbf75b479791e0e",
+    "chars": 1304,
+    "facts": [
+     "1fb7327fd1c25ec6",
+     "3aa8d8e02a012039",
+     "57a4f6f65895b57e",
+     "c850744fa746f386"
+    ],
+    "corrections": []
+   }
+  },
+  "2026-aerc-robot-sports-2": {
+   "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28026/%E3%80%8C2026%E7%AC%AC38%E5%B1%86AERC%E4%BA%9E%E6%B4%B2%E6%A9%9F%E5%99%A8%E4%BA%BA%E9%81%8B%E5%8B%95%E7%AB%B6%E6%8A%80%E5%A4%A7%E8%B3%BD%E3%80%8D.pdf": {
+    "fingerprint": "b373bfca6178cba983cf467acc3f7547659420462ea7da1c9f9e4db274d24c68",
+    "chars": 7142,
+    "facts": [
+     "023ad23175587911",
+     "0a3126b01dd599d4",
+     "166740a483ef6aea",
+     "1e77dc339d1a8be8",
+     "288a0a4f7f2a5f18",
+     "28d37604cac0d2ba",
+     "2db306b481fed567",
+     "3ef11a8ddcb15d7f",
+     "3fa85b0b8a65f9a7",
+     "40213ac11be0ff87",
+     "4603f316917b6035",
+     "47de8db0b107719a",
+     "5204f73478dfd37c",
+     "597c0c281cf70f34",
+     "608f3de273bf69b2",
+     "69ccbe1728a29a0e",
+     "719b759305bd9ab9",
+     "721eb9c1ce8dc355",
+     "745aa86b3adfb0cb",
+     "75aae3e48288a579",
+     "78475256715ff4b8",
+     "793092d944e98d86",
+     "7fc3dfd0ad8a9e04",
+     "915da98501c90704",
+     "96702f8338b71f77",
+     "9a17694c59bb67e1",
+     "9d05cee19a8d8f01",
+     "a0b77da7d7bfd313",
+     "ab6fef4862cddac0",
+     "b4c929eacf13b012",
+     "c175e0dd59e7528f",
+     "c5070dda3fe2301c",
+     "c710d00ad737908e",
+     "c94ed9aaa917113f",
+     "cb1bf95a430c3d87",
+     "d046286278c8f0e5",
+     "d2618dad6e4f20e6",
+     "dccbfbae7d92be1a",
+     "e455e19fc2f60855",
+     "ea0a46aa3778f3bc",
+     "eadb14fba42d2f3b",
+     "ec97eddb9597fae8",
+     "f8c23ec921a5d242",
+     "f934da44d18be6ea"
+    ],
+    "corrections": []
+   }
+  },
   "2026-aicup-solar-defect": {
    "https://www.aidea-web.tw/topic/3c8ec48b-0dff-4b14-9b5e-d91bbb98c699": {
     "fingerprint": "a07f5475dbf9e5484632638c6c989315075522736fea5146b3c52f2d5e8f4247",
@@ -91,6 +197,75 @@
     "corrections": []
    }
   },
+  "2026-asus-rog-pc-diy": {
+   "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26788": {
+    "fingerprint": "d48ab10ea0700b52ff3097180d39870f0bc0a9e4b3bc7d4ed50d157c6a4ead91",
+    "chars": 522,
+    "facts": [
+     "10138124999c2958",
+     "47605a183c29c2c5",
+     "c93d7f2c056b5f96",
+     "e6cb46d050264c67"
+    ],
+    "corrections": []
+   },
+   "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28375/1150001901.pdf": {
+    "fingerprint": "ba858728b8f860fefb8a0a2d2f536732fa3d5a9698aeb5cc5015b7c261d3c913",
+    "chars": 1282,
+    "facts": [
+     "06f39bc9eb64f8f5",
+     "114ee87ca35a570c",
+     "1fb7327fd1c25ec6",
+     "409aef24dc589741",
+     "a955bad335f814f1"
+    ],
+    "corrections": []
+   },
+   "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28375/1150001901_1.jpg": {
+    "fingerprint": "387e38dd89144c4c7e0d2f34790344ed0469a8d81995e1b5125e67d6453af1e3",
+    "chars": 296,
+    "facts": [
+     "b8d902e3cb566608",
+     "e9cb8960bb8ea3ff"
+    ],
+    "corrections": []
+   }
+  },
+  "2026-bangkok-intl-invention-fair": {
+   "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/來文本文_文稿1_0082503A00.pdf": {
+    "fingerprint": "8b1f81a933d87035f6127215e5cc35594b5cb03ea4e6f822cade85302b396e54",
+    "chars": 5501,
+    "facts": [
+     "1fb7327fd1c25ec6",
+     "45664c9e167364a5",
+     "58c29d479b99fff0"
+    ],
+    "corrections": []
+   },
+   "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/來文附件_文稿1_0082503A00_ATTCH1.docx": {
+    "fingerprint": "eaaeabeb2f6bab0f156a970477adb70587d1f1deedc085e11df4f69ec54a5bf3",
+    "chars": 684,
+    "facts": [
+     "414e23b69d51f9b5",
+     "694d45bc5180f12e",
+     "e35ee96ee8fe060f"
+    ],
+    "corrections": []
+   },
+   "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/來文附件_文稿1_0082503A00_ATTCH2.pdf": {
+    "fingerprint": "e385545dac6b5f79f04146cd5d985499295b116d5cff84f08df61a732e5e1cd9",
+    "chars": 747,
+    "facts": [
+     "3624bec91232e506",
+     "414e23b69d51f9b5",
+     "4e5e2b66f57f543f",
+     "571e07b7f9411a4d",
+     "694d45bc5180f12e",
+     "fb6864f2a5eb10e0"
+    ],
+    "corrections": []
+   }
+  },
   "2026-changde-veggie-painting": {
    "https://bhuntr.com/tw/competitions/741z7qhw11fov6lvj6": {
     "fingerprint": "05d7093ad3ca246863459467fbe9496e7b011405b0bec87e7a02bff506a42b3f",
@@ -98,6 +273,37 @@
     "facts": [
      "23a4eea616fe264a",
      "503002201a67c90b"
+    ],
+    "corrections": []
+   }
+  },
+  "2026-changhua-rotary-english-speech": {
+   "https://www.chsh.chc.edu.tw/p/406-1009-196423,r70.php?Lang=zh-tw": {
+    "fingerprint": "6699313f782118344ec2a674ffd8b0e1fa3b67d9c9ef6b21c2368b2d83cfd84e",
+    "chars": 750,
+    "facts": [
+     "39063ff116edb682",
+     "55258d0bc9ca7cd3",
+     "9618514cebf5eed1",
+     "ae52f2905ca36a1c",
+     "bcf8f6cff1ceea01"
+    ],
+    "corrections": []
+   },
+   "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/95/pta_227481_8692695_93899.pdf": {
+    "fingerprint": "bb0ee79d532f1495b82341c8272aa54e8af55dffce32763ef4d45b911d330f5b",
+    "chars": 3944,
+    "facts": [
+     "2a573491cbc3c7e0",
+     "330df02d664ac807",
+     "683e07e0f4cdfe3e",
+     "7ca4ea3169c194a3",
+     "95364cd4acec73cd",
+     "9b5efe47489732c9",
+     "a54de8e672c0ac3b",
+     "bed3fb0b03a0ab9b",
+     "da9db1049508b4f2",
+     "e1a4e465e4f5b81c"
     ],
     "corrections": []
    }
@@ -134,6 +340,54 @@
      "e543b099388fb3f5",
      "f440d7efa0ce94a5",
      "f49d19bfffa24db3"
+    ],
+    "corrections": []
+   }
+  },
+  "2026-chihlee-xinchuang-cup": {
+   "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26383": {
+    "fingerprint": "830fea74c4845ff8d20e864c0867e8ee017f2116ea9e804f965b325aa97e5cd3",
+    "chars": 588,
+    "facts": [
+     "1fe59cc590f1aed5",
+     "4063ae53c4eeaef5",
+     "40b6d68c94fef3be",
+     "51d9ae3cf1f80bb6",
+     "8332e21292ec01b9",
+     "8734d871966198c9",
+     "ea4d2bddef0e3744"
+    ],
+    "corrections": []
+   },
+   "https://www.pshs.ntct.edu.tw/ischool/news/attached/33616/09142026%E5%B9%B4%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%86%E6%96%B0%E5%89%B5%E7%9B%83%E5%85%A8%E7%90%83%E5%A4%A7%E5%B0%88%E6%A0%A1%E9%99%A2%E6%9A%A8%E9%AB%98%E4%B8%AD%E8%81%B7%E5%89%B5%E6%84%8F%E5%89%B5%E6%96%B0%E5%89%B5%E6%A5%AD%E4%BC%81%E5%8A%83%E7%AB%B6%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf": {
+    "fingerprint": "ee6fd7ddcf33d7d9f3179cc3333229d86fad3da56e3444ecd207a172e4473ca0",
+    "chars": 4507,
+    "facts": [
+     "038d08ee645bd895",
+     "0cab7823e97c21a2",
+     "149f262392810d09",
+     "381ac16f2fc82e0c",
+     "513b0f214271659f",
+     "5db1bd6146c2f284",
+     "5e2b117f03cd4d82",
+     "716f55c46d49b0a7",
+     "78f8f320e38e2305",
+     "8d353ae598c7fb55",
+     "90c002f3d51de103",
+     "9f67fe28a4b328cf",
+     "a7c50fa2fe6b2fd5",
+     "aefeba01452d6616",
+     "b465fed53a33f5a4",
+     "b588499332f7f1ee",
+     "c40944003b470cb0",
+     "c6130d520330b22e",
+     "caf5b2e6d2721580",
+     "d1b32c5069c9c8de",
+     "e7e34fcef90c2d48",
+     "ea6e624ed64f463f",
+     "f35ee81557ea1f26",
+     "f9860bfa356cabd6",
+     "fe548a3ea8dee255"
     ],
     "corrections": []
    }
@@ -470,6 +724,79 @@
     "corrections": []
    }
   },
+  "2026-cust-innovation-entrepreneurship": {
+   "https://www.hccvs.hc.edu.tw/ischool/news/attached/26501/1151200445_1_%E7%AB%B6%E8%B3%BD%E8%A8%88%E7%95%AB%E6%9B%B8.pdf": {
+    "fingerprint": "1d4446cedf7df701abfa86a29b2a6b359409a04d23e994a4604b6051e9bc68eb",
+    "chars": 3053,
+    "facts": [
+     "00220942f08d4765",
+     "13fe96c896d4e9e1",
+     "2f6b7932b07e3f68",
+     "3ba66a36a42add5f",
+     "6120c02a22b820cd",
+     "70d0c1b33626ba4b",
+     "802dd519fd2fc5d6",
+     "81171d42bb63b8b0",
+     "a24d71651b004332",
+     "ae238c7fc6612508",
+     "b0f143cfe1416e55",
+     "b87a619411dbd18f",
+     "ce9e5e254b1e073a",
+     "d10fa352908f7b24",
+     "dc0012082832a6be",
+     "e1243bf8499ff1f1",
+     "e4642f846313d8bb",
+     "ee9cdc5bf0b31ae5"
+    ],
+    "corrections": []
+   },
+   "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26749": {
+    "fingerprint": "6aa7151b29c2b52e93c5c3b928e7cd843f5798423788638c4c9b8ed6094996fa",
+    "chars": 199,
+    "facts": [
+     "c96e082dc4cc8d07",
+     "e1f37b9adeb87dec"
+    ],
+    "corrections": []
+   }
+  },
+  "2026-cute-ai-cross-domain": {
+   "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/「AI跨域創新應用競賽」.pdf": {
+    "fingerprint": "e88b32c336fbfc0b86134db66e4a3ab622873bc73c3cc0eacc843fdb41555246",
+    "chars": 1593,
+    "facts": [
+     "1fb7327fd1c25ec6",
+     "333b6829cc3cf817",
+     "4f219ab59915eee1",
+     "51341424f10d404b",
+     "582bf97c38d39ccf",
+     "9b80f9e4aedcb580",
+     "ae826ba5bd827f6e",
+     "c94243deb8d3ab47",
+     "d13266e66ed31b43"
+    ],
+    "corrections": []
+   },
+   "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/「AI跨域創新應用競賽」1.pdf": {
+    "fingerprint": "d8b76d3f55a5177084dc0f9f5f7a1b17931adec5f8e637c80e390828e52714c2",
+    "chars": 2114,
+    "facts": [
+     "0204c9d5e8aa36be",
+     "11863025b32ca6dc",
+     "1abdef29c312deb0",
+     "50066f665e54d64d",
+     "62701ed31ed81438",
+     "7cb8b70a0932177c",
+     "7f17ba1f6f3cb81d",
+     "89ccafeface87f8a",
+     "ae51ca67b0316683",
+     "c208a4bed2a4e154",
+     "c7a8e38f90598784",
+     "e5a78c0e81189641"
+    ],
+    "corrections": []
+   }
+  },
   "2026-cute-ai-japanese-marketing": {
    "https://www.chsh.chc.edu.tw/p/406-1009-196706,r70.php?Lang=zh-tw": {
     "fingerprint": "e04ca62f86c408ae7ad4e14adddeda862b52d2fa2f98991535894558e1ef9424",
@@ -553,6 +880,50 @@
     "corrections": []
    }
   },
+  "2026-cyut-kuso-english-dubbing": {
+   "http://aecyut.cyut.edu.tw/": {
+    "fingerprint": "e326de28ed1062dfefde1ec54d554840681ba60505548f8df6a121a334d69d14",
+    "chars": 713,
+    "facts": [
+     "8b32a7ef7ec68c6e",
+     "ef60002fad892e67"
+    ],
+    "corrections": []
+   },
+   "https://www.chsh.chc.edu.tw/p/406-1009-189378,r70.php?Lang=zh-tw": {
+    "fingerprint": "07a2802a91bb6d6ce01cbeca8605f4353d21a5b3448abfc31bac47e88474d6fd",
+    "chars": 711,
+    "facts": [
+     "35d40f78630ca36d",
+     "600119a9f0773b64",
+     "a0c38202897ab687"
+    ],
+    "corrections": []
+   },
+   "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/34/pta_216140_1400963_76742.pdf": {
+    "fingerprint": "3e012b6f791c60755e1251b98974e95108a4f284a11ee68fb21d65ab09a399e6",
+    "chars": 1690,
+    "facts": [
+     "0d54f24332d591a7",
+     "1270eb1ac1cc38bd",
+     "63692bab02bf7c53",
+     "7080b3058818ecc4",
+     "71cb230c47abf8f5",
+     "7b15941f4043cc80",
+     "7d04f31480992e2f",
+     "892742cf9b58deb0",
+     "951d8e1558cb15a0",
+     "a38697c3cabd3fea",
+     "aba2c6b36a626e62",
+     "c6c89a91c223aa6b",
+     "cd65a97de458075c",
+     "d2a568fa0cdbe0a3",
+     "e328e384971db652",
+     "e33917cfc9be4075"
+    ],
+    "corrections": []
+   }
+  },
   "2026-dajiamazu-original-music": {
    "https://bhuntr.com/tw/competitions/z8nqgesacta77ujwva": {
     "fingerprint": "704d771d3db8e27325626c1404a5ec46226d14e2ca3f9b26e861e1c9657b8700",
@@ -586,6 +957,19 @@
      "df58997402577271",
      "ed46762a6e95b43a",
      "f631eb2a5022272a"
+    ],
+    "corrections": []
+   }
+  },
+  "2026-daming-cup-art": {
+   "https://dlsh.tc.edu.tw/p/406-1068-636911,r2145.php?Lang=zh-tw": {
+    "fingerprint": "3764759cc0b30ea18d35b3c9ae4371d9f72aa6c711fc9c2c2e6d7a02bee94b63",
+    "chars": 1307,
+    "facts": [
+     "06e1dcd034b9edcb",
+     "0c73822f35d938ab",
+     "0ddbb1bb1a282f80",
+     "e1e61bf77cbf32e9"
     ],
     "corrections": []
    }
@@ -707,6 +1091,33 @@
    }
   },
   "2026-economics-olympiad-school-round": {
+   "https://drive.google.com/file/d/1MLBbn-kEIlLGT6PeeMtt-jPgbmlfl44W/view?usp=sharing": {
+    "fingerprint": "d97da6858c95b80139f75230b7bf7adb7fcf7e969355498abb18767bdd03dcb3",
+    "chars": 2687,
+    "facts": [
+     "0427b4e104b4277e",
+     "11ad1deacb92686f",
+     "1c5fa39d47ca1d6d",
+     "31b93a5ac22bfdad",
+     "4446f5226e80164a",
+     "4966bc75d2a7ed70",
+     "4e0ddc4a92a16fa0",
+     "56164c856eafa97f",
+     "5b39c287ab4d0b00",
+     "6319f1043f572766",
+     "648601a0c43e7ce2",
+     "6a52fc5084ec036b",
+     "6ba68456d46d2b07",
+     "742c2a623b9534e5",
+     "7e5577ad55190f99",
+     "9586628ed97c317d",
+     "99d5f65d050c587e",
+     "a6ef53473769f244",
+     "b3f232d0dc842a0d",
+     "d68b7b5fa7a7486b"
+    ],
+    "corrections": []
+   },
    "https://www.ecolympiad.tw/zh-tw/eo": {
     "fingerprint": "c5b661b62f8601c58927d4e19a08c0740147906f6328e90650245c11322bd13b",
     "chars": 3627,
@@ -742,33 +1153,6 @@
      "00a11633e6e20318",
      "0e4bf18df7498a03",
      "b65db6e9b1ac8964"
-    ],
-    "corrections": []
-   },
-   "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/10/經濟學奧林匹亞EO2026-2027年校際回合競賽簡章.pdf": {
-    "fingerprint": "d97da6858c95b80139f75230b7bf7adb7fcf7e969355498abb18767bdd03dcb3",
-    "chars": 2687,
-    "facts": [
-     "0427b4e104b4277e",
-     "11ad1deacb92686f",
-     "1c5fa39d47ca1d6d",
-     "31b93a5ac22bfdad",
-     "4446f5226e80164a",
-     "4966bc75d2a7ed70",
-     "4e0ddc4a92a16fa0",
-     "56164c856eafa97f",
-     "5b39c287ab4d0b00",
-     "6319f1043f572766",
-     "648601a0c43e7ce2",
-     "6a52fc5084ec036b",
-     "6ba68456d46d2b07",
-     "742c2a623b9534e5",
-     "7e5577ad55190f99",
-     "9586628ed97c317d",
-     "99d5f65d050c587e",
-     "a6ef53473769f244",
-     "b3f232d0dc842a0d",
-     "d68b7b5fa7a7486b"
     ],
     "corrections": []
    }
@@ -897,6 +1281,41 @@
      "88a4a742fe0d80a7",
      "ad9f0939289801c3",
      "c4e6cab1fc0f3450"
+    ],
+    "corrections": []
+   }
+  },
+  "2026-gailearn-ai-handbook": {
+   "https://drive.google.com/file/d/1SE5prtnLAoU7P5AoU71BbGFnD9wo4Pvl/view?usp=drive_link": {
+    "fingerprint": "a4c16829c1bd0182e2f62206d3ea1b12adc4988b885e9336e58c6993be3b8119",
+    "chars": 2294,
+    "facts": [
+     "037758270efd313e",
+     "04bc4e69472035be",
+     "05bbbe9b763b8b76",
+     "12b09ade2d2cd485",
+     "22dc3ccab5b6b535",
+     "2c13b5d51e12680f",
+     "3d60aab87ddc10a3",
+     "5165ed4a0ec29036",
+     "9332eee4716d6c11",
+     "979ef070dd12c72a",
+     "accce12c28b92151",
+     "c84257e5dcdac50e",
+     "f1f73271ac21e04a",
+     "f46c35ca260464f1",
+     "fe9cda888f070567"
+    ],
+    "corrections": []
+   },
+   "https://sites.google.com/view/gailearn/競賽活動/分區競賽/115年度中學生-ai-學習應用競賽": {
+    "fingerprint": "2275121efe786fb41899a8a95cdf8457d7160f46638711a8be05f63d699d2955",
+    "chars": 832,
+    "facts": [
+     "42d05bdabadc5f32",
+     "cddf4201557fd944",
+     "cdf51922206d8dd8",
+     "ddb10e015ddd63f3"
     ],
     "corrections": []
    }
@@ -1054,6 +1473,49 @@
     "corrections": []
    }
   },
+  "2026-hochi-calligraphy": {
+   "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg317/「115和氣大愛文教基金會第三屆全國書法比賽」1.pdf": {
+    "fingerprint": "a1fcefa82944a19bb6d2645ae85e824fe31faac82a444ea4f0c6b267f4843442",
+    "chars": 1291,
+    "facts": [
+     "1fb7327fd1c25ec6",
+     "4a94b4cbf4ba4486",
+     "575f5b9ad0692c2b",
+     "653dcf08bb946ba6",
+     "ddf2942bab5973f2"
+    ],
+    "corrections": []
+   },
+   "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg317/「115和氣大愛文教基金會第三屆全國書法比賽」2.pdf": {
+    "fingerprint": "186d31f5ba7defb3fc8f5aa732cb139b1fc6c1e24d96134df4b924404910260e",
+    "chars": 2168,
+    "facts": [
+     "14e106775e2268fa",
+     "1780d84aa9323b1b",
+     "1aa9ee6f784c3267",
+     "3f10b09e6718ef77",
+     "6b4dee855966b0a3",
+     "718d6ae6db1edf96",
+     "74f5132ad1ee9c18",
+     "7bccdecb3b86b7c1",
+     "7cb8b70a0932177c",
+     "7f690431f95802b1",
+     "8240d37607d2e07b",
+     "9310ee9629ba4b0d",
+     "9cea56316d82efba",
+     "ac71bcb7ecef60ab",
+     "b65ddbf84215940f",
+     "bea1c964c35d42bb",
+     "c27fa519ac1a070a",
+     "c4a84f2b3019aa7c",
+     "e7d0594d9c98d46d",
+     "edc3d655ef56769a",
+     "f5403714659d3f84",
+     "f8d9fca32a35daa9"
+    ],
+    "corrections": []
+   }
+  },
   "2026-hsh-hackathon": {
    "http://www.wlsh.tyc.edu.tw/p/406-1000-42894,r83.php?Lang=zh-tw": {
     "fingerprint": "34cf00db223f790e4bfb7ea0d642552d516e53fc97b83d47382aabc6a4b2f9cd",
@@ -1168,6 +1630,26 @@
      "f7d84ff4ebeb6a3c",
      "f84f2cf1f0bf45b9",
      "fe195eed66dc37c3"
+    ],
+    "corrections": []
+   }
+  },
+  "2026-hsinchu-city-student-music": {
+   "https://www.hccvs.hc.edu.tw/ischool/public/news_view/show.php?nid=26101": {
+    "fingerprint": "bcb285367cefe0d1e3beac7539c022821686ad5279fb18b26a20dba1b1e95b00",
+    "chars": 753,
+    "facts": [
+     "0e0681136bf65e20",
+     "3cbfcf081f8dcd65",
+     "6536ce2e929665b3",
+     "6a3c7c67a70a032d",
+     "7184369d7e5d3cab",
+     "7479c7fcf937aa3b",
+     "8e775c707cf2b23c",
+     "a4a1cce3795d748a",
+     "ace86a0266ff7255",
+     "eef4122b79122a76",
+     "ff750bad4e193a33"
     ],
     "corrections": []
    }
@@ -1493,6 +1975,104 @@
     "corrections": []
    }
   },
+  "2026-iifme-kuwait": {
+   "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文附件_0010004A00_ATTCH1.pdf": {
+    "fingerprint": "15dae55b3b6f6f4365f4c4843a070feb7bdca66750c13981a3cd762ed5fc9c89",
+    "chars": 3229,
+    "facts": [
+     "3ac52d3dd78761eb",
+     "3be29e3e7c38c741",
+     "3ed56fe086c830ea",
+     "44f4fc12cbd6aaf8",
+     "50cb5d0adf4e03a5",
+     "68be654a74e9298a",
+     "829dbbb5deae58a4",
+     "99098559fc74aa9e",
+     "a35325ad3d787541",
+     "a6081a8347343c68",
+     "a780342245c1a8bb",
+     "acebb66c4a8a243e",
+     "b033aa9e0f8dda0f",
+     "b444087d77b7cd63",
+     "d0a198bdde492911",
+     "d7c4a4bd5e6025da",
+     "e292e29f324bdd1f",
+     "e8c0cb2fb3acf0c0"
+    ],
+    "corrections": []
+   },
+   "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文附件_0010004A00_ATTCH2.docx": {
+    "fingerprint": "e0129fb525baf94031b3bcf3f088131fd313317ac1d8adf23e0ad2684cf8b3c9",
+    "chars": 934,
+    "facts": [
+     "54d3bdd740756a43",
+     "f485913f814b21dd",
+     "fa38da7d356da624"
+    ],
+    "corrections": []
+   },
+   "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文附件_0010004A00_ATTCH3.pdf": {
+    "fingerprint": "828f26eed8ee64fd8e549d9041be68954b7377dc37116881f932fd2ad97e4e32",
+    "chars": 222,
+    "facts": [
+     "9d0a9f141775361b",
+     "b60fefec38636091",
+     "c94b09dfe5789de3"
+    ],
+    "corrections": []
+   },
+   "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文附件_0010004A00_ATTCH4.pdf": {
+    "fingerprint": "53e7a3d929bdb83e53bfff311e016cb86074c5c46a222f2b691f6a19b81e9904",
+    "chars": 7587,
+    "facts": [
+     "00aed3b615ba668b",
+     "0b57bc4ebc6968b6",
+     "0dd26aa85e24dd2b",
+     "1459ca41a65a4129",
+     "1881073d12852abe",
+     "1aa68d0c6e81c09a",
+     "299671cc12277259",
+     "3a6994b3819e146f",
+     "68420fc6e2792256",
+     "7bd782d8c8740786",
+     "8598a50162012deb",
+     "8b65eddda4750bd5",
+     "94ad1a9d9b3287ec",
+     "9711e11059b6c841",
+     "97a605ebb15e5594",
+     "a26ee7265928c42f",
+     "aa07ee3ab23e3e60",
+     "abe8fac22ee22168",
+     "aee253a926afb3dd",
+     "afe3a32c75568e39",
+     "b737b7889dfc8490",
+     "badef02518920038",
+     "c510734ba95c43bd",
+     "c93525d2f41d5eb6",
+     "d146780d577ee455",
+     "d30f19516b6001f9",
+     "d3ecacc1e73bfd96",
+     "e010f5ffcecc1a10",
+     "e32f4732972d87da",
+     "f07f5b1af4a3dc0d",
+     "f8877b6935bcf2f2"
+    ],
+    "corrections": []
+   },
+   "https://www.ntsh.ntct.edu.tw/ischool/public/news_view/show.php?nid=22999": {
+    "fingerprint": "892535fabf6226cd3a933e56c1e47ecf4c01d6f14f1b712a5aa917ff840cd6aa",
+    "chars": 653,
+    "facts": [
+     "164a78ad9a597c4b",
+     "4be396523458de7a",
+     "ac4f5ca1bf90f182",
+     "bb878f44ff69756f",
+     "cf833d6c2613c713",
+     "fdca7380ab068f76"
+    ],
+    "corrections": []
+   }
+  },
   "2026-indigenous-oral-history-comic": {
    "https://cdn.bountyhunter.co/file-presign/3f74b038-7736-406b-9164-fa07340fe4b9.pdf?dl=%E5%BE%B5%E4%BB%B6%E7%B0%A1%E7%AB%A0.pdf": {
     "fingerprint": "22fb8f923460395ea3b58399d8efa523ce5921c991bade3d2022d4085157a16b",
@@ -1697,6 +2277,35 @@
     "corrections": []
    }
   },
+  "2026-jinzhuan-calligraphy": {
+   "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg317/新北市金陵女中教育基金會第32屆金篆獎書法暨硬筆書法比賽辦法.pdf": {
+    "fingerprint": "3c5346c415fd9ac0ee3026806ae45cb00e5da2cd141e39004db41e093e181ca0",
+    "chars": 3045,
+    "facts": [
+     "02cc5c392cfd98ce",
+     "0811f13f05510587",
+     "185e310481fc5b8e",
+     "261f1d087cfc2cde",
+     "42fc67e306e79644",
+     "497a6175393a2d71",
+     "563cc5c49b4b8020",
+     "5b4f2a1b87ffa6c6",
+     "66283ec0511a83d5",
+     "6e3f576ceba6bc97",
+     "81b7e733ec512c8a",
+     "88075854abe4cf59",
+     "892e480968f9dee9",
+     "99cd51f4cc5e4703",
+     "b705e256544aff37",
+     "be540ff44b9d8dbc",
+     "ce42081ccc2b4e0d",
+     "ce5e709d555928c5",
+     "ea6b16325240d034",
+     "fd7ff27575bf3ad3"
+    ],
+    "corrections": []
+   }
+  },
   "2026-justshow-napkin-folding": {
    "https://www.hssh.tp.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mek16TDNCMFlWODFPRGMzTlY4ME56UXhPVE5mTVRBek9EWXVjR1Jt&fname=WSGGUWQKUS44A110EDLKSW24KK30OO35DGUWSS20A1IDCCFCSSECVTPOUSSSPKPO": {
     "fingerprint": "37fe935dbcf6c4bf76e82dcb23bcf1a429008e719eb710140a0124a13712f7a9",
@@ -1734,6 +2343,37 @@
      "c6d184e859356977",
      "d1d164cdcb6bfc7e",
      "e742f9ebc862d909"
+    ],
+    "corrections": []
+   }
+  },
+  "2026-kaohsiung-programming": {
+   "https://www.k12ea.gov.tw/Tw/Common/Downloader?id=c3b4b85f-f0ff-49ff-8ecb-3b394928cc49": {
+    "fingerprint": "dca9de27de0bb07f23ae360d61b3299d14d5e16db14f2b4373e98eb5b354b8dc",
+    "chars": 4867,
+    "facts": [
+     "239675d4575f843b",
+     "27627165612aaf2d",
+     "27e2fee3c4580141",
+     "4357dac8b096f3f3",
+     "46330c653ca1ab33",
+     "48fc4ed95665e43b",
+     "55b0f361a603f444",
+     "608a8bcd0cbddd64",
+     "697ba8be44e04d44",
+     "70405f61f1560d71",
+     "77b239a6068676fd",
+     "7a6abab01385c5fe",
+     "7c206e0efbaf18e9",
+     "86cfac7fb482894b",
+     "92154d30406c41fd",
+     "9557f3b970ebaad9",
+     "a936b3f4eb78a25d",
+     "b6e4ce52342a541c",
+     "b7305ab9fe84be84",
+     "dfbee40e2168ba92",
+     "e0da515227dc34a9",
+     "f66b602ce81deff3"
     ],
     "corrections": []
    }
@@ -1792,6 +2432,22 @@
     "corrections": []
    }
   },
+  "2026-kinmen-student-music-prelim": {
+   "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=22423": {
+    "fingerprint": "944a0df4765bf3e9a7639ad946e0bc8796934339a914bc5000a9b0eb826fd40a",
+    "chars": 538,
+    "facts": [
+     "16a426406edf0da2",
+     "766c79483749be6d",
+     "a26592de6f738ae8",
+     "a6262eb62f83db22",
+     "d080e7ff9f144b61",
+     "ee8df10131fb9704",
+     "fdd64664e1580f99"
+    ],
+    "corrections": []
+   }
+  },
   "2026-kouhu-photography": {
    "https://cdn.bountyhunter.co/file-presign/fa5867b7-aff9-450e-8642-6ebd59dd8491.docx?dl=2026%E7%99%BC%E7%8F%BE%E5%8F%A3%E6%B9%96%E4%B9%8B%E7%BE%8E%E6%94%9D%E5%BD%B1%E6%AF%94%E8%B3%BD%E6%B4%BB%E5%8B%95(%E7%B0%A1%E7%AB%A0).docx": {
     "fingerprint": "a1a8465b5099d6fa7484f6b3965b767b9e504aa1a943f9a26a3bc20ff6d733e1",
@@ -1820,6 +2476,76 @@
      "cdd6dd62683cecbc",
      "db349c1e901645af",
      "e549915e924bae7a"
+    ],
+    "corrections": []
+   }
+  },
+  "2026-ksu-low-carbon-tour": {
+   "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26600": {
+    "fingerprint": "53d5500c9a1f068cb4df7c5c8a65d52dcf9458b2245d91dd0e50db92b55978f5",
+    "chars": 775,
+    "facts": [
+     "0793b442042aa9a7",
+     "155548d62da16e88",
+     "2c8ea98276e30e2c",
+     "869e84cc5eb6627f",
+     "b6dcbd109459eba0",
+     "c06a7256cff6dc3a"
+    ],
+    "corrections": []
+   },
+   "https://www.pshs.ntct.edu.tw/ischool/news/attached/33761/1005%E6%B7%A8%E9%9B%B6%E7%B6%A0%E7%94%9F%E6%B4%BB-%E4%BD%8E%E7%A2%B3%E9%81%8A%E7%A8%8B%E6%8F%90%E6%A1%88%E7%AB%B6%E8%B3%BD%E4%BE%86%E6%96%87.pdf": {
+    "fingerprint": "793277f7538143e26802140887f511d6b02447e3323c218313ebbb9d5bce9fe5",
+    "chars": 1463,
+    "facts": [
+     "155548d62da16e88",
+     "16110583ed46c7d8",
+     "18fb18ac0d935621",
+     "1fb7327fd1c25ec6",
+     "2c8ea98276e30e2c",
+     "7ea58ba694c5ce78",
+     "b6dcbd109459eba0",
+     "c06a7256cff6dc3a"
+    ],
+    "corrections": []
+   },
+   "https://www.pshs.ntct.edu.tw/ischool/news/attached/33761/1005%E6%B7%A8%E9%9B%B6%E7%B6%A0%E7%94%9F%E6%B4%BB-%E4%BD%8E%E7%A2%B3%E9%81%8A%E7%A8%8B%E6%8F%90%E6%A1%88%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.pdf": {
+    "fingerprint": "4887978f0df200128b3e387266634b5a1c7f5493c1c008ddf9573f84528cba6d",
+    "chars": 5870,
+    "facts": [
+     "0b0436af42567d3a",
+     "0b3df73c756ca00b",
+     "0d5ce1268c8aba1e",
+     "1730509cf70906e8",
+     "186cc6b441c9a38a",
+     "224d0c825032acb8",
+     "25243528a6a307b9",
+     "2ea2e4188e758f1a",
+     "2f20255b09a42a96",
+     "3451fe115d9492d7",
+     "374aa548e54ef83a",
+     "4594c0854ea4afb6",
+     "47a6e21e6e2063b6",
+     "507d17dea8fc4abd",
+     "50f35140b624b621",
+     "52ddd95a639a832a",
+     "5c76fd436df8d8c3",
+     "5f5d594873fec48c",
+     "70d0c1b33626ba4b",
+     "747d3fd846eff10f",
+     "7800332d5ffd6bd9",
+     "7949f8e57a0749a1",
+     "8618e9b2358f5eef",
+     "890d77f8004e5b89",
+     "96d85055b3c25d4c",
+     "988111f88d83cce6",
+     "a384ec9afe198ec7",
+     "ab8c519930d09a7b",
+     "b2fa108473bd0c11",
+     "cba72aa060908166",
+     "ea4ac2e92a460a06",
+     "ebbde16c4f9a0a98",
+     "f2f51289aff31ec0"
     ],
     "corrections": []
    }
@@ -2050,13 +2776,107 @@
     "corrections": []
    }
   },
-  "2026-moe-ai-learning-handbook": {
-   "https://www.nkhs.tp.edu.tw/ischool/public/news_view/show.php?nid=35014": {
-    "fingerprint": "ce7b019af925059cc5e13562fbeda2173de0323ece633c62e3aa21419a967c3d",
-    "chars": 552,
+  "2026-miaoli-student-art-prelim": {
+   "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27635/1150000722.pdf": {
+    "fingerprint": "2aa7248c700ffe5a7bd2dfdf357efc5dcd95d7a2626e9405f64e83c8e03ee7aa",
+    "chars": 1827,
     "facts": [
-     "1a971b428d410427",
-     "c0585610cc6ff97a"
+     "062cca1ad1d84a12",
+     "1fb7327fd1c25ec6",
+     "4dfa1540f502f065",
+     "57e1223473852e72",
+     "7a69f24d765e7e9d",
+     "bb23e03f2c634b8f",
+     "c1c4c9e09c0499d8",
+     "ccdba3ed852d374e",
+     "dae553b24d357d5d",
+     "ff20d3468fa6ee74"
+    ],
+    "corrections": []
+   },
+   "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27635/1150000722_2.pdf": {
+    "fingerprint": "a1faa8581ba6b49cf881a69eb0d3819852c54e974bb8496794e96211aa7560e1",
+    "chars": 3491,
+    "facts": [
+     "0943b192a03b2a16",
+     "174919bb432f958c",
+     "186606b0335aaaf4",
+     "1893fedd66f9ba68",
+     "1fd59d71e53ca119",
+     "2c536ef993c5b5d4",
+     "5b980d3276391707",
+     "6025eded77d0ff32",
+     "6713305a2123080a",
+     "6874cb7e236ea86e",
+     "6d86844dace8fe50",
+     "7a94ea762f441956",
+     "8a6a65d3eb644ce5",
+     "9d385bb9483386c1",
+     "b9f4cc96a5a69867",
+     "bd21e84a4d828bca",
+     "d47b881e6dfad019",
+     "dcd841e92c4be05a",
+     "e537b85f1330256f",
+     "e80a1f083d1944a5",
+     "f2aedfb2fee2934b",
+     "fd06fd76ad82d88b"
+    ],
+    "corrections": []
+   },
+   "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27635/1150000722_3.docx": {
+    "fingerprint": "dfbf8ce113d91356e0a9250b6880de5dbe7f7928d7a31b8b591965f4ce2cecf5",
+    "chars": 436,
+    "facts": [
+     "1113e37a12c7b903",
+     "50f4fcfe0bfc0908",
+     "6960bc2a4085e304",
+     "72ead9908f1359c8",
+     "b0f740bbc40b4046",
+     "e69e4389cf430698"
+    ],
+    "corrections": []
+   }
+  },
+  "2026-moe-digital-gender-violence-video": {
+   "https://www.ttsh.tp.edu.tw/view-doc/37/更新115年「數位∕網路性別暴力防治短影音暨海報繪畫比賽」活動簡章.pdf": {
+    "fingerprint": "ac688b96d54a2e596e0850f4105324f23fb56ae949e43bbccdf326adc83cd559",
+    "chars": 7446,
+    "facts": [
+     "03426a986fa8c8f2",
+     "082c4dc556b5664b",
+     "1896dea1e3cd810d",
+     "1c54caca8ead92fa",
+     "2843cda6456351db",
+     "29c2a30dc46e80e9",
+     "2ccd8068dc92ec6d",
+     "2f86d3194445d6cc",
+     "366bdf11fa8afade",
+     "48567d1e771ed02c",
+     "4eb45cca9f3d85f5",
+     "5822a1c8c59bc89c",
+     "58d51aaf422fb804",
+     "605a8b5935de8f41",
+     "6a800e13914c9a2a",
+     "6ca064c971706b8b",
+     "7057f95af85de516",
+     "855b1fe83fa4f5de",
+     "941d1d840bd3a1f6",
+     "947da100cc8a57fc",
+     "9a8efb602bd89087",
+     "9dd21190987d6179",
+     "9fbc71c80940d3a7",
+     "a574b78ca261bf3d",
+     "af8fb7e42c3b8d0c",
+     "b808af6fff021136",
+     "c1afde89b47d4d7a",
+     "c6a52d5e9ea9d07f",
+     "c9d03e04251eebce",
+     "d58e524caa72ff53",
+     "d62c39804114b4a5",
+     "de1bc9cae0838d52",
+     "f279e285313609cd",
+     "fb3657e5f9437ea5",
+     "fb410ad506477762"
     ],
     "corrections": []
    }
@@ -2086,6 +2906,35 @@
      "c64b8756e466c434",
      "e0acf40f7cb77831",
      "e1c4c856206f5381"
+    ],
+    "corrections": []
+   }
+  },
+  "2026-mwbit": {
+   "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文附件_6100201A00_ATTCH1.pdf": {
+    "fingerprint": "869cc6838bbafca8927d28304fa9637a81cde1c2514b639b9ccefb73009f32ae",
+    "chars": 3265,
+    "facts": [
+     "014f66a7e6073d44",
+     "1a3eca2002182447",
+     "222923957f2548ff",
+     "2597d55b4b56e879",
+     "30b894f0f9da509f",
+     "3865042620adb442",
+     "3c4085f4f76b0806",
+     "54566295b59d4661",
+     "5c2625d24cfeb468",
+     "5e8208c51d80755d",
+     "66c18155a491f293",
+     "678d810d43371e2e",
+     "67bda523a30bed29",
+     "8f491416b9e55946",
+     "91de99d0993b3f54",
+     "ac56f21f05c901b9",
+     "c0c67cb4019205a9",
+     "c906c9fafe753776",
+     "e33065387fabd172",
+     "e7fc63507bb66015"
     ],
     "corrections": []
    }
@@ -2996,47 +3845,6 @@
    }
   },
   "2026-national-student-music": {
-   "https://web.arte.gov.tw/music/content/Content.asp?cid=28": {
-    "fingerprint": "7ce47ad223ccd58f700133f5cb4d29c43b04bf9507b285a0f332c377c7591cdd",
-    "chars": 1798,
-    "facts": [
-     "1af017b66c4ab82c",
-     "2f0b705c89123ef7",
-     "3a7183e665312516",
-     "3c2b0bf058f7ba4e",
-     "53f5febccca52578",
-     "5f71c0c6e80064bd",
-     "63660d132f83ef3f",
-     "65466ac21bb8fcba",
-     "756f28bccddcd5ed",
-     "75b0e3b3170577ec",
-     "85d5be2d23125440",
-     "87dce3c5b4057fb3",
-     "8d2ec80ee8c6b2cd",
-     "9cbf45ec915bb1b9",
-     "a977abd56046cc38",
-     "ac94fe85c4368ee5",
-     "af570d0b26214260",
-     "b0c48801f4b8c752",
-     "c5e7bee5b48efec5",
-     "c641b55fc3d7462a",
-     "cd65f9d5946cca7f",
-     "cff7489df897ac50",
-     "f279889373d139b3"
-    ],
-    "corrections": []
-   },
-   "https://web.arte.gov.tw/music/content/Content.asp?cid=3": {
-    "fingerprint": "5d94e14503a38d1bd71b2fad6a8226a0f141d8049b8a3146afb829ed19535d61",
-    "chars": 464,
-    "facts": [
-     "1a1fbba528768ab0",
-     "4bfcab08e83685fb",
-     "83f2e1a163088a59",
-     "85d5be2d23125440"
-    ],
-    "corrections": []
-   },
    "https://web.arte.gov.tw/music/default.asp": {
     "fingerprint": "a7b0f64a85b78fcca2ceead26dcb4713a8e5205ee24a896b8162263c7e66bb2d",
     "chars": 1044,
@@ -3068,34 +3876,7 @@
      "f04fea32cb243f22"
     ]
    },
-   "https://web.arte.gov.tw/music/news_M/disp.asp?id=1116": {
-    "fingerprint": "4d46c404862329d260331e3b912dcac6529b509d1d2e240850acf1b5ad498d30",
-    "chars": 1306,
-    "facts": [
-     "11f70021a19b4cb1",
-     "123a93097000aaf5",
-     "1b14c9819e717cba",
-     "26233e0e59aa3d76",
-     "5368bb887b01cd4d",
-     "5834e70b608fcec0",
-     "60d2ed5d452039b5",
-     "62d12168965b83e9",
-     "790d088112fbdf38",
-     "85d5be2d23125440",
-     "89c8444ac275cb64",
-     "9615bf6da28ade3b",
-     "af3b70b8bf9e4197",
-     "c0a2a1a57412ffe0",
-     "c2c3c2cccbd47202",
-     "c64878481e39b059",
-     "d699a43c9abee96c",
-     "da6664ff0fe786d6",
-     "e8b1e2cf0da010b1",
-     "f35ef7671ab0b4b2"
-    ],
-    "corrections": []
-   },
-   "https://web.arte.gov.tw/music/upfile/news/115/附件-115學年度全國學生音樂比賽實施要點.pdf": {
+   "https://web.arte.gov.tw/music/upfile/www/115/%E9%99%84%E4%BB%B6-115%E5%AD%B8%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9C%8B%E5%AD%B8%E7%94%9F%E9%9F%B3%E6%A8%82%E6%AF%94%E8%B3%BD%E5%AF%A6%E6%96%BD%E8%A6%81%E9%BB%9E.pdf": {
     "fingerprint": "0ec779827a24956de8afdfa3146f4f7f551eb3d54caa82c511eba877171892a0",
     "chars": 21306,
     "facts": [
@@ -3196,130 +3977,17 @@
     ],
     "corrections": []
    },
-   "https://web.arte.gov.tw/music/upfile/www/115/115%E5%AD%B8%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9C%8B%E9%9F%B3%E6%A8%82%E6%AF%94%E8%B3%BD%E6%B1%BA%E8%B3%BD%E5%A0%B1%E5%90%8D%E8%A1%A8%20%20_%E5%90%84%E7%B8%A3%E5%B8%82%E7%B9%B3%E4%BA%A4%E6%88%AA%E6%AD%A2%E6%97%A5.pdf": {
-    "fingerprint": "e0cb42a346e59c656c2fe2208ce04b5113948b82558b4993c5e33e6837c8ddad",
-    "chars": 1993,
+   "https://www.hccvs.hc.edu.tw/ischool/public/news_view/show.php?nid=26014": {
+    "fingerprint": "dd7adb44e0066e0272dcd30a4652a0909d3367478fc566094514cce31f1e27d9",
+    "chars": 684,
     "facts": [
-     "00bff6344df8564f",
-     "093e9e6f7a66d80b",
-     "0f1bc979e927ef7c",
-     "132ed1415a03e573",
-     "1e05c2ba7423ea36",
-     "269edd2df6df4215",
-     "4b44a352b29d7356",
-     "72de89ec796884ea",
-     "74813d5436b08422",
-     "7901657e8992f61c",
-     "8d5be6e98a39ef6e",
-     "8f5bf2b70efe0960",
-     "9dd2dcd5d2aa2ce5",
-     "a2403a2eead6e43b",
-     "bbe2b7631d6ae535",
-     "cc3dd1b889681aa6",
-     "d7e7aa9d48266873",
-     "e38bec052c0b0794",
-     "fb41fcc9265fb2ad"
-    ],
-    "corrections": []
-   },
-   "https://web.arte.gov.tw/music/upfile/www/115/附件-115學年度全國學生音樂比賽實施要點.pdf": {
-    "fingerprint": "0ec779827a24956de8afdfa3146f4f7f551eb3d54caa82c511eba877171892a0",
-    "chars": 21306,
-    "facts": [
-     "0076558ab67a7982",
-     "00c076823cce434a",
-     "062bc63255728938",
-     "0f53d139fae78a7a",
-     "1069b4734b4c1182",
-     "1185e970a76fc33c",
-     "11f178a42dd625ba",
-     "12e4eb0b7372d616",
-     "1477408b54621d8a",
-     "1522934c12715600",
-     "16bce65242458a14",
-     "1ae66b64f23eaa97",
-     "1f1275620b38ec28",
-     "28f3262bbaf4feda",
-     "2aa98c8931f09f6e",
-     "2acd2e7a2f31c75d",
-     "2b323754cd77050c",
-     "2b90e6cfda9646b1",
-     "2d09896180abf331",
-     "2d4f854163f113d1",
-     "37370d6ccbd898f9",
-     "39cf5b84c9ade622",
-     "3cf219100a115fe4",
-     "3ffa9b3e6881acdc",
-     "41c7a201f2d9a905",
-     "4352af26c0270504",
-     "4a8f0d4f30b388df",
-     "4d1c26fe418c531e",
-     "60511aeb8a5f824b",
-     "608188404ec70d0b",
-     "64936c929ef51f7b",
-     "6519fdbee0c9221e",
-     "68939bd28e82a17d",
-     "721b31b2f3435589",
-     "73d97c5ac7b9cbc8",
-     "756ba7efeca4f416",
-     "76ae1ebfdb1e45f4",
-     "7970391a9d1b999c",
-     "7aa6a4cf357ce461",
-     "7af309e4845c2ca9",
-     "7e4b588077429f00",
-     "7e930f0ad80bbcff",
-     "80567ccb3ff493d5",
-     "823155b42df56a10",
-     "828c1715c0be765a",
-     "86bb8a24b842dce2",
-     "89044554b7897ecd",
-     "8c43b94218eaed37",
-     "8f1c3dfbb7ab4965",
-     "9286109db35cdff5",
-     "9331127026f5d40e",
-     "93fcb9f7953b924d",
-     "9b2b1e967e24cc98",
-     "9c30d70b395b659f",
-     "9c579ae95e701ede",
-     "a2a50976d9ccb395",
-     "a3e8b733cf77ea57",
-     "a6e06db6c0c95c1d",
-     "aa186a13c2989c08",
-     "add4530a68a19b86",
-     "ae46dc0a822cf980",
-     "af04cb17d007846c",
-     "afaf49d7aefe9bab",
-     "b0e996643ce491f0",
-     "b1d13fa87937a8ad",
-     "b6e33531e006261b",
-     "b96df35e4c186af4",
-     "c139ff2211f3e56f",
-     "c34bc1a7bcaf473a",
-     "cc3936bfad9ccb8f",
-     "ccca5037a1474d02",
-     "ce4347ca56b36287",
-     "d089fa18ee970509",
-     "d3ee2998f61fd574",
-     "d69c14bfb96ca249",
-     "d8991738dfc95af9",
-     "d907406d3f5d9aa8",
-     "da86dbfa610782ba",
-     "dcfc875371a291ad",
-     "e02f78bfe7e9a70f",
-     "e1f7b0fb93e83cbf",
-     "e2b6a4f152abfb25",
-     "e64bcb1e39f98125",
-     "e81a0df3daf0c03c",
-     "ea34639b829fcad7",
-     "ec14393543f2a86e",
-     "f31adb64556ed5c0",
-     "f3cf718d20464922",
-     "f6fee70a59984efd",
-     "f99c2e0f391758a1",
-     "fbdf248f3636f6f4",
-     "fd61cfd97e4e8b50",
-     "feb474ac11cfa0e3",
-     "fedf1105ed22e086"
+     "2c6cd7d1705e7d06",
+     "3f812a2a39506ea2",
+     "4a81069ba56b4a78",
+     "650d72efa6ecc64c",
+     "7bbec629d6e74e06",
+     "93a6b8c3a2de7bba",
+     "b08716c637e7ad40"
     ],
     "corrections": []
    }
@@ -3877,6 +4545,110 @@
     "corrections": []
    }
   },
+  "2026-nptu-hs-project": {
+   "https://ccsnptu.wixsite.com/contest": {
+    "fingerprint": "ecd8a25f63c7a93e3b427b772889b6305942b7ae1cbc65fa6a4e777d91ca28df",
+    "chars": 1709,
+    "facts": [
+     "06813dedeff70822",
+     "0900d7c5ae88f69f",
+     "163aa0e6736cfb3d",
+     "450ae9b2c4498400",
+     "4ca91033c10b7012",
+     "59c2bf56087b5e9c",
+     "629ead5dbc641f43",
+     "67aa8bae29ca7a8d",
+     "6f3ddcfe742e8ca3",
+     "8179d36e85ccf146",
+     "89ffdae347725f18",
+     "a41ffdb2f375eabf",
+     "a6134f21fa425d46",
+     "d3e0d64216b6929d"
+    ],
+    "corrections": []
+   },
+   "https://drive.google.com/file/d/1OPxIcnDP1KnoyMiIcAb-WgdkYpHurbyc/view?usp=sharing": {
+    "fingerprint": "0741c8e0a0563cf009b9a200d21a02b24fbbc1bc70d7f1c9701541c5bb3267fc",
+    "chars": 2050,
+    "facts": [
+     "19ddd5f560fcba2c",
+     "2aec2729b11d2e9c",
+     "50831ce5e1cfdb4f",
+     "53a530e2a6680b07",
+     "5f1c5b4e982b10e3",
+     "61a0b7db0b044f0f",
+     "65d3dfc16cc7ee39",
+     "6e02eb5b894a46cc",
+     "71a1e5916c315b09",
+     "803f71c788a67774",
+     "80f0d7975a38ff6b",
+     "95a07c06a1ceb913",
+     "9b2d3b9acbad46dd",
+     "9c95b017abd2dd74",
+     "a1a1496b48a57413",
+     "a8f8ce60c7b1d0f5",
+     "ac2cb783d6403423",
+     "ae6f3c7ae24d4c03",
+     "b38964a4924266cf",
+     "defaf1b69fb0ec2f",
+     "ee0f49035592b1e5"
+    ],
+    "corrections": []
+   },
+   "https://drive.google.com/file/d/1UpmYShd4eQCmXy0soJ9YHJKeKYSMZ7bM/view?usp=sharing": {
+    "fingerprint": "cf1d483b2ebfc406eb3211be242fd5746b52be68cb425fe476d02e9f48e348f7",
+    "chars": 2478,
+    "facts": [
+     "082021f56228f8df",
+     "09bdd38855ec8e8e",
+     "13dbcfefe5d64205",
+     "29819d7e5180a79b",
+     "2a1d552834740feb",
+     "4ca91033c10b7012",
+     "522926c846a21c4b",
+     "59c2bf56087b5e9c",
+     "6ee8ee828815e38e",
+     "80a223d02a130b0c",
+     "84383f95ada80279",
+     "8a697df12df25f26",
+     "9c7b5367dcb61057",
+     "a58996992a698980",
+     "aea4b90cdb8b2e15",
+     "ba1fbdf85d496456",
+     "cc8a0e21d7f633ca",
+     "d49c6104e9ae3d89",
+     "e04f3f2a76656b49",
+     "e5ab6958a1e3f502"
+    ],
+    "corrections": []
+   },
+   "https://www.ntsh.ntct.edu.tw/ischool/public/news_view/show.php?nid=23001": {
+    "fingerprint": "951ab4c4e09f0c06f69b6b470706a017c3015fea749af914e9076d7cf72451f5",
+    "chars": 451,
+    "facts": [
+     "2bbb92942081d000",
+     "464a1289d4070109",
+     "4ef8b0f4818ee4a8",
+     "a5da28ed6a294083",
+     "c0513666beddc114",
+     "c827f192c066a95c"
+    ],
+    "corrections": []
+   }
+  },
+  "2026-npust-combination-planting": {
+   "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26599": {
+    "fingerprint": "ed92cfda4021b95a89442949040cf599ef98da691f11ff11b613ffd3d358241e",
+    "chars": 544,
+    "facts": [
+     "0a62c5cfc1b6b444",
+     "77a8412e05a1b435",
+     "a7d9837f9989fc89",
+     "d4d6b8f7c666582f"
+    ],
+    "corrections": []
+   }
+  },
   "2026-ntbsa-xinying-tax-ai-comic": {},
   "2026-nthu-giwas-showdown": {
    "http://www.wlsh.tyc.edu.tw/p/406-1000-43647,r83.php?Lang=zh-tw": {
@@ -3927,7 +4699,7 @@
     "facts": [],
     "corrections": []
    },
-   "https://drive.google.com/file/d/1S27cLpv5w05B0JGeh7giuTRk6_BOxbSa/view?usp=drive_link": {
+   "https://drive.google.com/file/d/1yO-CXCET2jASeN_zCRQBKykC3PqUnJxw/view?usp=sharing": {
     "fingerprint": "4ffba7c7460256973a1cb8c118110adad95fcea7ffc2d04c47e8d6117985a9da",
     "chars": 1792,
     "facts": [
@@ -3950,12 +4722,13 @@
     ],
     "corrections": []
    },
-   "https://www.ksvs.kh.edu.tw/v4/cpsub/article.php?id=12557": {
-    "fingerprint": "ffd61b5e3a609efc68a81e96e208ecab9619ce0266fe08b3582bbf7f1bafc674",
-    "chars": 410,
+   "https://www.fhsh.khc.edu.tw/aa/news-aa/20261013/46740": {
+    "fingerprint": "33c23dc6c01ca18e6516611e85797e02241a5e609c3c09aa96ba292e1a117f3d",
+    "chars": 2366,
     "facts": [
-     "5794e2d504b2f8ee",
-     "f52316c13bc9398c"
+     "66cfff312c4739aa",
+     "6929f44e952abc31",
+     "dbe9fcdf6819fdde"
     ],
     "corrections": []
    }
@@ -4216,6 +4989,75 @@
     "corrections": []
    }
   },
+  "2026-ocu-stock-plus": {
+   "https://fc.ocu.edu.tw/p/412-1045-5979.php": {
+    "fingerprint": "2942eb8ba46976da433b716eaa69dbb1364facecbc060798b61aaedcd2be3c5a",
+    "chars": 4236,
+    "facts": [
+     "2b9bb9234e28f459",
+     "361b79eb2fedb61b",
+     "3e5512233f441bd9",
+     "46d8b38f83ab4e7b",
+     "4fdc5b880cd959bb",
+     "5a0c29b50a65ebe2",
+     "7167ff428c6b2741",
+     "79d325bb4ae6ad30",
+     "92855246ac8ff98b",
+     "93c25cd31461be21",
+     "be30f4b873d0790c",
+     "bf14d9ade543673f",
+     "cbf21cb77773672e",
+     "cf1428efe0545abc",
+     "d44f2e87fd62d562",
+     "d71ba37695fa2d31",
+     "de9bc4ae2f73282d",
+     "dfd52aac31472023",
+     "e5b0f429d41de4ae"
+    ],
+    "corrections": []
+   },
+   "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/「2026股市Plus虛擬交易競賽」.pdf": {
+    "fingerprint": "d7a790e4632823e7a6cdc391ef7ccfefd4fa6e1950ca03a9acc22c3c350ce69d",
+    "chars": 832,
+    "facts": [
+     "1fb7327fd1c25ec6",
+     "4a94b4cbf4ba4486",
+     "65a70efac666fcf6",
+     "7ca9fa5609d12caf",
+     "9c1c5ddbfc165a62"
+    ],
+    "corrections": []
+   },
+   "https://www.pshs.ntct.edu.tw/ischool/news/attached/33760/10052026%E8%82%A1%E5%B8%82Plus%E8%99%9B%E6%93%AC%E4%BA%A4%E6%98%93%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.pdf": {
+    "fingerprint": "e9eadf3547764a3f66b129beb379696b172702ba952a1f375ba6ff7aafef9759",
+    "chars": 4066,
+    "facts": [
+     "09401811135be1ed",
+     "0b5c15de9e5dcaf9",
+     "1810b9b42fd61d1b",
+     "2000ce88b298b41f",
+     "2e1833fa03a1ed69",
+     "3d86c9233c76f703",
+     "5c510b84ab3f5427",
+     "822da7ce6dd8c197",
+     "847236158f3b8f3b",
+     "8b841478c6643ae9",
+     "92855246ac8ff98b",
+     "97e4756667ae7e9a",
+     "9db81e5713e7b5e4",
+     "a05d3c85ad4c7df3",
+     "a382f8ea1d0f5c48",
+     "aef12adca752fa01",
+     "b78914e5699a4df9",
+     "bccf0712cb94d04c",
+     "c6a13dcf45d099ff",
+     "d44f2e87fd62d562",
+     "dea90d713aaa31d0",
+     "e5b0f429d41de4ae"
+    ],
+    "corrections": []
+   }
+  },
   "2026-ocu-stock-plus-trading": {
    "https://fc.ocu.edu.tw/p/412-1045-5979.php": {
     "fingerprint": "2942eb8ba46976da433b716eaa69dbb1364facecbc060798b61aaedcd2be3c5a",
@@ -4269,6 +5111,59 @@
      "d44f2e87fd62d562",
      "dea90d713aaa31d0",
      "e5b0f429d41de4ae"
+    ],
+    "corrections": []
+   }
+  },
+  "2026-paochung-cup-spicy-cuisine": {
+   "https://www.hssh.tp.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9MelExTDNCMFlWODFPRFUzTlY4NU1qY3lNVFF4WHpjM05URTVMbkJrWmc9PQ==&fname=WSGGIGGHMK00OOMPHCLKUSZWKKMOOOKKDGUWSS20A1IDCCFCSSECVTPOUSSSPKPO": {
+    "fingerprint": "7e4a30be31b2f64a8ec77e7df542c9331e74fbc8ad4d25a47eda01a3b512271d",
+    "chars": 4401,
+    "facts": [
+     "086af61c7a243b81",
+     "140c0b5ed0d8d701",
+     "15d9938d5a5ab8f3",
+     "20ea545d98a37bc0",
+     "33d8200e17567ba0",
+     "46a54456b0f60158",
+     "648a8029b241010c",
+     "70d0c1b33626ba4b",
+     "7679b22a57b05e21",
+     "ad6a31c207a816bc",
+     "b737b7889dfc8490",
+     "ba50037a14939080",
+     "cdbd64538387f3d3",
+     "f096b2810a838245",
+     "f91c168e70a50703",
+     "fb37c61898d5a2c7"
+    ],
+    "corrections": []
+   },
+   "https://www.hssh.tp.edu.tw/p/405-1000-52522,c540.php?Lang=zh-tw": {
+    "fingerprint": "58a4d0fbc6e5ccff784a1400909357c73314b1edeb14bf772fcc4cec6608518c",
+    "chars": 1831,
+    "facts": [
+     "04c17ac53fcbb205",
+     "5e17e69e5fa24239",
+     "5f33b0750bbcdd3b",
+     "a8493791474f1d49",
+     "c7fd9b20d6426c4a",
+     "ddd1ce2e3e432e6a",
+     "e742f9ebc862d909"
+    ],
+    "corrections": []
+   },
+   "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26726": {
+    "fingerprint": "0b1e1a2f2c03c79415248edb198e591ffe52d193db1fe89e0c2603f403ebca3c",
+    "chars": 455,
+    "facts": [
+     "5e17e69e5fa24239",
+     "5f33b0750bbcdd3b",
+     "8c5f33fad8e99639",
+     "a8493791474f1d49",
+     "c7fd9b20d6426c4a",
+     "d586dcde90c145b4",
+     "ddd1ce2e3e432e6a"
     ],
     "corrections": []
    }
@@ -5142,6 +6037,216 @@
     "corrections": []
    }
   },
+  "2026-tainan-student-music": {
+   "https://www.tngs.tn.edu.tw/2026/09/04/%e7%ab%b6%e8%b3%bd%e3%80%8c%e8%87%ba%e5%8d%97%e5%b8%82115%e5%ad%b8%e5%b9%b4%e5%ba%a6%e5%ad%b8%e7%94%9f%e9%9f%b3%e6%a8%82%e6%af%94%e8%b3%bd%e5%af%a6%e6%96%bd%e8%a8%88%e7%95%ab%e3%80%8d%e5%85%ac/": {
+    "fingerprint": "e1ac46db6af93dbee684dec932d3aac3e5cdc8cd9d19ffdbcd7ab19215474c13",
+    "chars": 1425,
+    "facts": [
+     "3ad7c2412a9b71ea",
+     "73400c47a2ba2306",
+     "769d89f48167cf69",
+     "97ebc0c973f140a7",
+     "d8dedced1435c5ea",
+     "e703ae265002044d"
+    ],
+    "corrections": [
+     "d478594c7770baaa"
+    ]
+   },
+   "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/臺南市115學年度學生音樂比賽實施計畫修正.pdf": {
+    "fingerprint": "56bf21a42fab57798315a556222490701af28c08251535a50217b115d54ef898",
+    "chars": 29995,
+    "facts": [
+     "007dff30e98013e9",
+     "01ec42d336cb69f5",
+     "02a8acf95a150042",
+     "03571c241ffe688e",
+     "0553152bffa8ea2c",
+     "0634ec86ded76399",
+     "0797db9b9a164f60",
+     "08438e4896970b00",
+     "0b356ffdc71ddf86",
+     "12eafce71deb8e40",
+     "137170cde9d6698a",
+     "14f9ecc0a637407e",
+     "1522934c12715600",
+     "1787d6b689f37779",
+     "190fe2d5426389dd",
+     "1ad95b935e1b9c05",
+     "1afe724c74e1a973",
+     "1aff1694ecb0b07c",
+     "1cb543d200f46851",
+     "1fed8b1c259b70de",
+     "203b8f47a04920c4",
+     "21ccff5c3175a25f",
+     "22e64fd6119a4023",
+     "26187c4c06017fdb",
+     "26736c366ebc5030",
+     "26f0518d8f984868",
+     "2a86a6682fca210a",
+     "2bbfae134e6c0133",
+     "2da2fac721eb4c9d",
+     "2f99450af2de3a24",
+     "33e057a1babb2713",
+     "349aa35726a704b7",
+     "35ce9b1b01128856",
+     "35d8ddba869c1ea3",
+     "36e93263a8e8a385",
+     "3948fdcb158dccae",
+     "39beefbeb6813717",
+     "3a66945d54814217",
+     "3b717259878a2f7a",
+     "3c31eb1e1d85cf37",
+     "3ce10a318675bc99",
+     "3df2e3536094416c",
+     "3f3baa2d4f64850a",
+     "3f9ddbd4b1996d5d",
+     "3fdc097f449da0b9",
+     "40961a5a38b3338b",
+     "40c96563faeaa753",
+     "419ee3bce5f0f717",
+     "425ca2a2c9520105",
+     "4353c4e461534754",
+     "440d669f2fbc1f06",
+     "45b7bb8a27fa27fb",
+     "45c0af3d439e9158",
+     "46ada6ed8636d7ca",
+     "4781018d131f3d73",
+     "480ecaa3dbf4b011",
+     "4d07e2d810bb2f76",
+     "4dd0dfd6663359c5",
+     "4fceec95ee407d2a",
+     "503f3a353b5ac215",
+     "52ab16d58c6c34b0",
+     "52ef19ed360e74eb",
+     "53df6159e24fd613",
+     "5425c74de53e9cff",
+     "5445743a3fb181db",
+     "5587bfafbb339b3e",
+     "55fba2c4cc067606",
+     "565b4832937ee621",
+     "56764e12c32aac13",
+     "596a0dd64d663db5",
+     "60511aeb8a5f824b",
+     "60e02fac4201ce50",
+     "614a33137b83a1c8",
+     "61d2bcd00194acd6",
+     "63c21bc10f7bbca5",
+     "6623c6b361deac78",
+     "668c293527c7996c",
+     "673f374d05e27992",
+     "67bc0b70b799efba",
+     "67cc266b143dd060",
+     "6ba3ac89537f2ad1",
+     "6c3ee0885645cf0c",
+     "704b4bce0241ccbd",
+     "70d0c1b33626ba4b",
+     "718cf44b39d2217f",
+     "721c426950b1df70",
+     "7247fdcc8bb4ad86",
+     "72d1294816d3e979",
+     "77c95a7a07b3d36b",
+     "7836822825202fb2",
+     "78878aa70dff87f4",
+     "7bf7c00ea4e695ba",
+     "7d32f5b18d792309",
+     "7dabf8d0b94589fb",
+     "7e6f9da452cbc525",
+     "80b552729967bdf2",
+     "822e5976534c7e31",
+     "871217692fe9a5cd",
+     "886548dee3654a42",
+     "8bee3ff2e3e61672",
+     "8ff2875b624e3836",
+     "90bbf1d50eb4ab8d",
+     "93981a76cc0c20a8",
+     "946f8a5866e82a1c",
+     "971db4034835ae09",
+     "98d163d833f6b7da",
+     "9c53732596421078",
+     "9d514e9a85d70b17",
+     "9dbea586a3e468ba",
+     "9fdb6bdc884d4ea0",
+     "a3e7f79b70063980",
+     "a53bcf55ede3d361",
+     "a59c11b607f11618",
+     "a6e06db6c0c95c1d",
+     "a8148df8627fad1a",
+     "ab92f94785519d2a",
+     "abb5788df7ee45f1",
+     "adbbb7a19053a144",
+     "ae2cf7ed9b17ec5b",
+     "b04869c9a97e4c32",
+     "b0b5c64b93c5156d",
+     "b1b0fc2559696f9c",
+     "b1f4f2d5c7f7b79e",
+     "b2d01d16bee180ae",
+     "b44fad8f9f8a32d7",
+     "bc0709762d37095f",
+     "bc49194bbfdd928d",
+     "bde0f80cf50f9556",
+     "bf3acaab6bd21768",
+     "cd90d1468840c0d1",
+     "ce60f1eb7b0a196e",
+     "d0f26aaee48a6f3c",
+     "d1a37342550b83b9",
+     "d23a55bbc0f544cd",
+     "d4792c35d16569e5",
+     "d5e96c5db5eca0bf",
+     "d6b95566588c6b67",
+     "d6eb98206e5deed1",
+     "d9145e9ed6992226",
+     "daa864c2ae9de691",
+     "dd56de2ced191dfa",
+     "e0d3cbf9bac7593d",
+     "e1a2dc6e1d8ffcde",
+     "e28b9fbf01d7feb3",
+     "e3fb40b4f83c8ac1",
+     "e42da4cef7fee44a",
+     "e60ed359c36570c5",
+     "e6a386364ce88daa",
+     "e75e0395e1404e13",
+     "e848cc8db86723f5",
+     "e92fb5e7447bd5f0",
+     "eb7566bca4c424b3",
+     "edc0f1c954469550",
+     "f2f345fefdde2fba",
+     "f4201090686ee201",
+     "f424791b9750557d",
+     "f58a6ac715674b9e",
+     "f6676f1fe4b63210",
+     "f7212ed5a6137eb4",
+     "fa53f58f74f3192e",
+     "fe1c17bff174f48b",
+     "fe52531e8488533c",
+     "fef49de3c0e748fc",
+     "ff31b4de0bb2056c"
+    ],
+    "corrections": []
+   }
+  },
+  "2026-taipei-cicero-cup-english-debate": {
+   "https://www.cksh.tp.edu.tw/news/%e3%80%90%e8%bd%89%e7%9f%a5%e3%80%91%e3%80%8c%e8%87%ba%e5%8c%97%e5%b8%82115%e5%ad%b8%e5%b9%b4%e5%ba%a6%e8%a5%bf%e5%a1%9e%e7%be%85%e7%9b%83%e9%ab%98%e4%b8%ad%e5%ad%b8%e7%94%9f%e8%8b%b1%e8%aa%9e/": {
+    "fingerprint": "517d14f27f65e8f2b4fafe364a82d109650a9ec3c47a041cc4b1033a6d3b49ed",
+    "chars": 2800,
+    "facts": [
+     "05c5e3bcb722fd40",
+     "15816c06bc4838ed",
+     "25b8fb449a1b1d76",
+     "56fe3a07c792ee3c",
+     "af40659fc9f7a95a",
+     "bee805957d0a345d",
+     "bf775a4c202643d6",
+     "c9581c0a363f1ad1",
+     "cb377837061e51a8",
+     "cb3f8512bad7feda",
+     "cf1ac2a9beae735e",
+     "e5cb09ea9e32f83b",
+     "f3f6572e1fdfa974"
+    ],
+    "corrections": []
+   }
+  },
   "2026-taipei-cinunan-language-hunter": {
    "https://cinunan.kitulutp.com/": {
     "fingerprint": "dd5efc16bcf51007ed94e40218a0203e17ee91179ba01d24dffbdd0628d9b9fc",
@@ -5201,12 +6306,81 @@
    }
   },
   "2026-taipei-drone": {
-   "https://www.hccvs.hc.edu.tw/ischool/public/news_view/show.php?nid=26597": {
-    "fingerprint": "ca62b21b9df3df3d1778dcd5a5201ca28b5d289e44b6bc097221b958c9e6c83c",
-    "chars": 170,
+   "https://techpro.tp.edu.tw/techpro-server/activities/web/fd9f73f9-62c0-4c79-812d-80f4ab6281f0": {
+    "fingerprint": "f72fbe85e4593022cfe56d470260d628259e34e3fcdb9bd8b0e6627df9935269",
+    "chars": 5159,
     "facts": [
-     "99c8f47d9d702bea",
-     "e813335e29d4951e"
+     "f72fbe85e4593022"
+    ],
+    "corrections": []
+   },
+   "https://techpro.tp.edu.tw/techpro-server/documents/62d83089-9999-42f5-b82b-0069b4ef87d6": {
+    "fingerprint": "af85229bc759c54c3e6b1d44de1b02d6dc5406e8dc5412610811bb22d9fe5da1",
+    "chars": 12365,
+    "facts": [
+     "0271ff56ce492244",
+     "03c5c007e457e551",
+     "0ef8fa0ef5f09869",
+     "0f176633bdb408ba",
+     "10a811c726e7d454",
+     "130e50a8e9b01f3e",
+     "14b50224b55826e1",
+     "15f5d998a420720c",
+     "17e2a504df85d1a7",
+     "288a0a4f7f2a5f18",
+     "2caf1e20e5123e89",
+     "32b5e64d706e2ec1",
+     "3349e3c211910090",
+     "36e8ef00ffdf2616",
+     "39f0241e10c81815",
+     "4289506a7d63d5f4",
+     "43af87de3db2f17d",
+     "44fbef81b827ea5c",
+     "4591a5a5350de7db",
+     "46f2e7a0b3a14e40",
+     "4a186093fe315644",
+     "4d3bb053d700f936",
+     "4ed63b6fc47d8c68",
+     "4efca9ee85b8c25b",
+     "50bc61c3a09ce3f1",
+     "512e07a693150d45",
+     "584205fd2355bcf5",
+     "6f0d7ae82bd80460",
+     "70d0c1b33626ba4b",
+     "71f682ad45d1a4f8",
+     "75d5d392398e7377",
+     "77d18dc4fa5c0054",
+     "79a17341fd6a89b3",
+     "8155ef3d1456bb02",
+     "82da49315d0acbda",
+     "91e17a0599971078",
+     "928fbc37d201822b",
+     "95e76af5ea72bc61",
+     "9c92e844545eadc2",
+     "9f64e5f3f4e4ec12",
+     "a5a9fb31afc839be",
+     "a612db0ec2fa2b10",
+     "aab2732b5484dfd7",
+     "b0a42e3941aaeb87",
+     "b3a6643697654e5e",
+     "b4c1c5e1e7008509",
+     "ba767fe73d3c62f9",
+     "c24d1b4ffb1981c4",
+     "c2c72f80d854deed",
+     "c2f23b582537f3ad",
+     "c39785b2690a1c8a",
+     "c3b228fa7e90a56c",
+     "c5294ae52f8ef3b4",
+     "caf5e56c6cfbe874",
+     "d2ae0598ac82ea01",
+     "db59f48c031d7e71",
+     "e17569ffe9214bf9",
+     "e3121d3fb9c5c688",
+     "e8ed7340a78fde26",
+     "f0b2217e0045ee85",
+     "f3f8068fc57fec0c",
+     "fb3e5c0586c90072",
+     "ff0543c2fab5871b"
     ],
     "corrections": []
    }
@@ -5285,6 +6459,25 @@
     "corrections": []
    }
   },
+  "2026-taipei-youth-policy-proposal": {
+   "https://www.nkhs.tp.edu.tw/ischool/public/news_view/show.php?nid=34589": {
+    "fingerprint": "814c2e2673b1cfa706ee275963eeb1f42825a994e642ff5770106f552ff714e4",
+    "chars": 686,
+    "facts": [
+     "11ffdb6d965eb3ed",
+     "2239bcbdd717a7c6",
+     "62c984997a1b4fbc",
+     "715f46009b36b4a0",
+     "79fd40c2a313e00e",
+     "7d9e6b9dcc929a39",
+     "82f188057974e634",
+     "d9159d198a227e41",
+     "dac1e2d4957382b9",
+     "fd62b268d2bc9345"
+    ],
+    "corrections": []
+   }
+  },
   "2026-taiwan-economics-olympiad": {
    "http://www.ecolympiad.tw": {
     "fingerprint": "665b8ca8ed66e0d6eab791acbbacaf40c3d458da15888b15e812a38aacf73f5d",
@@ -5334,15 +6527,26 @@
    }
   },
   "2026-taiwan-healthcare-hs-contest": {
-   "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28491/%E8%B2%A1%E5%9C%98%E6%B3%95%E4%BA%BA%E7%94%9F%E6%8A%80%E9%86%AB%E7%99%82%E6%94%BF%E7%AD%96%E7%A0%94%E7%A9%B6%E4%B8%AD%E5%BF%83.pdf": {
-    "fingerprint": "a78dc10011e55fa23d74a1e585aaee7cda41e430067212052f0bad5a30022937",
-    "chars": 9586,
+   "https://expo-healthcare-taiwan.vercel.app/": {
+    "fingerprint": "a2092c2e3dac504cd6162af886cf0a5555049f3fc460abbe38ead3c30946e697",
+    "chars": 2464,
     "facts": [
-     "1fb7327fd1c25ec6",
-     "59db0c4da1b5171c",
-     "6e250e6732488041",
-     "98593042718035f6",
-     "c30b2504cbadefe3"
+     "0db56e71e7235ec9",
+     "0ea1a66dc5963f46",
+     "123f7c3d42c0f7b9",
+     "1da5ab60d1f14deb",
+     "32c902b05f18c582",
+     "446ed6d0227df0a4",
+     "6d6702a2eb3fbd3b",
+     "a374efb5ae6aebc2",
+     "a43bd79a3119d5a3",
+     "a9005b9594759f3a",
+     "c5fa9605042c3a4a",
+     "d9d88aa06b41cf79",
+     "e0ba0dfea499d52c",
+     "e79b78d975f7ddf1",
+     "eaa4f8a909cffd19",
+     "fdadf6eb383c0b70"
     ],
     "corrections": []
    }
@@ -5516,6 +6720,53 @@
     "chars": 894,
     "facts": [
      "8ec6df07ab0f50a5"
+    ],
+    "corrections": []
+   }
+  },
+  "2026-taoyuan-mayor-cup-abacus-math": {
+   "http://www.wlsh.tyc.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mek0yTDNCMFlWODJNRFUzT0Y4ME9UazBPREkzWHpRMU9UY3pMbkJrWmc9PQ==&fname=0054YSB0PKQOTXHHGGVWUSWT14PKUW35503435YWXXFDNLNL": {
+    "fingerprint": "1ff2579ddba2b4316423f64fdb9480632ff1957ebf88015e284c86fa79c4f695",
+    "chars": 5210,
+    "facts": [
+     "064de8df9f2d3637",
+     "07ffa8561a38b46b",
+     "09062d2b99f69f8f",
+     "0d9caab51438ed3c",
+     "0de86d0466fad4f0",
+     "0ee4f8a120d3c883",
+     "211bc277474fb015",
+     "22946742508d536b",
+     "3356a4a8dd00f169",
+     "37a42e170f4378b5",
+     "3d0b085ad4edc488",
+     "3eed677be3f2f368",
+     "4124d2719b96398e",
+     "451d10d99860d6c0",
+     "591edd6ea5610429",
+     "6c093c4af35cb0cc",
+     "6ee40ef9b663a968",
+     "7c0caea2cb6a8e3c",
+     "87383eae6cd78dd1",
+     "bcc5ed8a97d08627",
+     "d0f49136937f8e10",
+     "e07753cc64ae88a0",
+     "e4e0d4725fd6b12f",
+     "e680b4e4cd3ddb50",
+     "ecb4f6b29f0a63ed",
+     "f1fe2008f35352fd"
+    ],
+    "corrections": []
+   },
+   "http://www.wlsh.tyc.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mek0yTDNCMFlWODJNRFUzTjE4NU5qYzJOamM1WHpRMU9UY3pMbkJrWmc9PQ==&fname=0054YSB0PKQOVXHHGGVWUSWT14PKUW35503435YWXXFDNLNL": {
+    "fingerprint": "50aabfd2ba69a4b579137ba4ebed5cab204bd7a65885462f8f5ca53efcd54cff",
+    "chars": 882,
+    "facts": [
+     "09dc7224baea3aec",
+     "1fb7327fd1c25ec6",
+     "370f80fcbfc83629",
+     "5e8ce631c90315d6",
+     "8fe129e244544300"
     ],
     "corrections": []
    }
@@ -5699,6 +6950,60 @@
      "ecd3a286695c845c",
      "f00c125bd8e10e6a",
      "f172f4759fcb7b30"
+    ],
+    "corrections": []
+   },
+   "https://ithu.tw/qygjw": {
+    "fingerprint": "ad92d23907f43a7c83a3f6ab187f9b56dcce980528efd65e5878d0ef91f979c9",
+    "chars": 6383,
+    "facts": [
+     "0271f783a8250cb4",
+     "07a88a473eabc382",
+     "183cf033718cc0b4",
+     "19327663b31fde77",
+     "23c779c3f8a02c52",
+     "27fd67c9d441fe01",
+     "2b09d52408e6002b",
+     "3d7da7631445aac5",
+     "406c6d80af6bbfd6",
+     "4142001d495f72ac",
+     "5439601dd175dfad",
+     "6244424cb2b91abe",
+     "62a4e80de749a57c",
+     "6b4d230badbb0294",
+     "7df8e9e967c22087",
+     "82d05bd66a147b23",
+     "89fdbf28f1bbf406",
+     "9904cf942c2ad691",
+     "9a3c232426bc2344",
+     "ad740d81332ad990",
+     "bc60a206dfc09ba4",
+     "bd3bb4032ea957fe",
+     "bd951c0961c70f09",
+     "bfee19a7a15e4780",
+     "c485300d85f45850",
+     "c8857121ae593141",
+     "cd02dd62b024978f",
+     "cf359fae2ee04749",
+     "d9893c4626756e17",
+     "e29cb8687de6f0ec",
+     "e9ffcf612d7e7098",
+     "ecd3a286695c845c",
+     "f00c125bd8e10e6a",
+     "f172f4759fcb7b30"
+    ],
+    "corrections": []
+   },
+   "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/「2026智慧永續循環技術研討會暨專題競賽」競賽資訊.pdf": {
+    "fingerprint": "cf3deedc3f0ea37537f6e2cd6813d3e92153f0faac7738ff80befbfbc34e36c3",
+    "chars": 1175,
+    "facts": [
+     "106df718125c542a",
+     "1fb7327fd1c25ec6",
+     "5d42892d74ff8bf5",
+     "b7babf57e3154ea6",
+     "f4d6b0aaf2770d5b",
+     "fced0907e4679074"
     ],
     "corrections": []
    }
@@ -5980,6 +7285,164 @@
     "corrections": []
    }
   },
+  "2026-tpcu-english-dubbing": {
+   "https://www.chsh.chc.edu.tw/p/406-1009-196091,r70.php?Lang=zh-tw": {
+    "fingerprint": "d12dfcec942080e2448784fe76a8302b541059a6c08513d156a07500088a3dc2",
+    "chars": 1037,
+    "facts": [
+     "0e656a8090700a99",
+     "24442d82dae295fd",
+     "246df18de8af65bb",
+     "6b1f6c9559ff2831",
+     "b9a0bb6236521d00",
+     "ccb7ffb384ec2439"
+    ],
+    "corrections": []
+   },
+   "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/54/pta_226985_8071056_84343.pdf": {
+    "fingerprint": "8c731ea0ee9899a0970215b6de6e3b5cf245d82baeadfe7be84d4e1c77aa07a2",
+    "chars": 38591,
+    "facts": [
+     "0d054db0410b04d5",
+     "0f202a0f87be6b2b",
+     "159d6683e4fddd55",
+     "16ca58fecf111a34",
+     "1cd845fdfa4b2495",
+     "211c9ee9e1a1485d",
+     "24c0fa2184c8d2f9",
+     "286f451a5e5f0206",
+     "2be93d97fc62bc40",
+     "3291005e86bc3ef4",
+     "36e6643fef4558bd",
+     "4aa585e6acf49a6b",
+     "4b3cccff97f4057c",
+     "57c1cfed7936f3ae",
+     "5c6c775a03731d00",
+     "5c7572b20da334c4",
+     "5f5cbc10fa44dbbb",
+     "6008f5d90f08719c",
+     "6d80daf115095531",
+     "7348aac6d57cfa91",
+     "7d6cf045da437827",
+     "84d998382c0cef37",
+     "89c150b2b91fec2a",
+     "8e251991221fae3e",
+     "8f58f1264cf29169",
+     "9dd52f0bfa1dc436",
+     "a1bdc6e9c1fcae63",
+     "b1792e83d5df23cf",
+     "b2297bbf24c17dfa",
+     "b536b1e7f9713518",
+     "b6e910e8de76c2bb",
+     "be1881c50b076f3e",
+     "ce0d2868bc557b1e",
+     "d11d9a5d27244d70",
+     "d2de145028eb0efa",
+     "d5527403ff7c44f6",
+     "db9c0e388f95f41e",
+     "e3ea99d4fbb4e514"
+    ],
+    "corrections": []
+   }
+  },
+  "2026-tpcu-japanese-dubbing": {
+   "https://www.hgsh.hc.edu.tw/view-doc/5/全國高中職學生日語配音比賽.pdf": {
+    "fingerprint": "c1b74c72430c41d4045c29c2f9c3b52eaffdb6baaf2b8a6eb41a0b783010f508",
+    "chars": 20670,
+    "facts": [
+     "05e01071f975b389",
+     "062f45be9992da0e",
+     "0f202a0f87be6b2b",
+     "16ca58fecf111a34",
+     "1ac789d6baef23d0",
+     "31d0d57c9fd90414",
+     "3390a510d20d6698",
+     "34f826b76bbc4b31",
+     "3a3557cbafd24153",
+     "3b11ee1b345d70ac",
+     "3ce6563ea5cd58a2",
+     "3d9c5682663f9a23",
+     "3f99496036ecf0e5",
+     "4b49d970e27608ac",
+     "4ff45c827be018f0",
+     "53d63f31e86c7635",
+     "57ab246cbbb04255",
+     "5e9420d3cf266fd4",
+     "5f5622fff4a57534",
+     "6595563f55610193",
+     "6782da969177d5ef",
+     "68945075963128e9",
+     "6ee9750b72797963",
+     "7d8a8fbb5f908ca0",
+     "7dc2a42680d0bfce",
+     "7f26ce7e972871a9",
+     "82d18943e4820396",
+     "84d923cc644ae773",
+     "84d998382c0cef37",
+     "8e0da031975b025b",
+     "9f73656de0b557b5",
+     "9f890e08997696ba",
+     "a5b64b4bead7c9ca",
+     "b0321129ac59f082",
+     "b09ca678e082636a",
+     "b536b1e7f9713518",
+     "b6417751c4c831a1",
+     "b953d7b554c8d44d",
+     "bcb447f1d60cf197",
+     "c940907683b3a574",
+     "d540a8eb3f2ded86",
+     "e27dcb8cd577f8db",
+     "eda5b0170b3a8b9d",
+     "f7209bfcc90bb4d1",
+     "f9656cdda59304d5"
+    ],
+    "corrections": []
+   }
+  },
+  "2026-tw-biology-olympiad": {
+   "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg214/2027生物奧林匹亞_簡章.pdf": {
+    "fingerprint": "478c72e289c9d13c6546f49b63617b040d07bbd438d2a2eb7037095fbc74d012",
+    "chars": 3566,
+    "facts": [
+     "050dd88b4f30eb34",
+     "12385bb579f9df06",
+     "1321f62b50246182",
+     "1418038b05d0d584",
+     "2264594bed01e385",
+     "244162829c3922d6",
+     "4a1105168a15a536",
+     "5774b7a7afda6fb2",
+     "5904a303fd55ef3e",
+     "5d5fdfc8c7e8ffc8",
+     "5e987d0b4b679b29",
+     "61d15d808e7d42f3",
+     "64ed5e082e43ad8b",
+     "68abaa9976d00976",
+     "6d6ae23f7918787c",
+     "725408aa14ee1ad8",
+     "74ef8e6c5d12f2c2",
+     "77d169f5c16567e8",
+     "8938523ea9a975a2",
+     "90c5408426e7994b",
+     "96e2e3a538a085b8",
+     "9881965ca35352b3",
+     "988f363d70d97732",
+     "a25b67c59f57946d",
+     "aaedd6ef3c4e12f4",
+     "aea1ffc4b0d94485",
+     "c38e31b69e7afaa6",
+     "c7a8190d0c881cff",
+     "c7da9111faec99c6",
+     "d7453b53b4f38480",
+     "e44815150031f4c9",
+     "e73cdf7880a5cf89",
+     "eed3fe46e2a92794",
+     "fba89e70e07f0d9e",
+     "fcd109dcc5c60a56"
+    ],
+    "corrections": []
+   }
+  },
   "2026-uch-new-retail": {
    "https://bhuntr.com/tw/competitions/widw7q1v1uftpzb4va": {
     "fingerprint": "cef89eef62cdb5c435d7d6ba72294ffde12d88b7d3dc01620ac7225de21a4d21",
@@ -6134,6 +7597,109 @@
     "corrections": []
    }
   },
+  "2026-vnu-cosmetics-formulation": {
+   "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26596": {
+    "fingerprint": "f6488584db51f5a19957d6a59b34c53b9450302fc6306b735bc4c2c75a96f4a6",
+    "chars": 433,
+    "facts": [
+     "42ca770bd5f622c0",
+     "659ec9ba2fea1531",
+     "838072c9b2fa5f15",
+     "8b868415b6c3372b",
+     "c779027bf6ae238f"
+    ],
+    "corrections": []
+   },
+   "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/「2026全國新穎化妝品調製競賽」1.pdf": {
+    "fingerprint": "af93a7ca62abaf08301eca625e367d728c9731df07e14f42aafc73ae9d795ce4",
+    "chars": 613,
+    "facts": [
+     "715ef6d1636603f0",
+     "8cdda75f265d7dc4",
+     "e8d1392cd43527b1"
+    ],
+    "corrections": []
+   }
+  },
+  "2026-vnu-mkt-cup": {
+   "https://www.sssh.tyc.edu.tw/view-doc/35/1151200796_1_第七屆萬能馬克町簡章.pdf": {
+    "fingerprint": "c465969f9fe3b42dbc8b92b384b6a067d86127d1f11cca79e2d5c8fb0b83bf79",
+    "chars": 2173,
+    "facts": [
+     "09f1aac0e05f5f0e",
+     "1a01fd00819893d8",
+     "299f9e879f5a800b",
+     "2bf0232730d953d2",
+     "2c7879d6d03375fd",
+     "35ec74f09505dd84",
+     "3b20c478d86ce17a",
+     "4e405be7795c2db1",
+     "695d4c299008c537",
+     "ceb87dba755891c8",
+     "f3a2b48305506497",
+     "ff258c309a905d69"
+    ],
+    "corrections": []
+   },
+   "https://www.sssh.tyc.edu.tw/view-doc/35/1151200796_2_第七屆萬能馬克町聲明書.pdf": {
+    "fingerprint": "4034ac0d32fdf80483346aac492ec52275796dab245cd016bdc5a370bd3779b9",
+    "chars": 528,
+    "facts": [],
+    "corrections": []
+   }
+  },
+  "2026-vnu-tianchu-cup-airline-cuisine": {
+   "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/2026天廚盃全國航空創意廚藝競賽.pdf": {
+    "fingerprint": "a6360c95cb4a15de7b449c9a96c132b97118032f77b23a69bd6c98be3587c12e",
+    "chars": 835,
+    "facts": [
+     "1fb7327fd1c25ec6",
+     "9435e6dc9b9507b8",
+     "b7babf57e3154ea6",
+     "bf0e9ce2b115a276",
+     "cfc3d922962b9857"
+    ],
+    "corrections": []
+   },
+   "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/2026天廚盃全國航空創意廚藝競賽1.pdf": {
+    "fingerprint": "3007eec9ee5a2f3299cfb1edaf0bd7289cf576afff86b577cc3ac348c4cfb08a",
+    "chars": 2550,
+    "facts": [
+     "120e3c30c9077923",
+     "162412155e7c0435",
+     "1b9900f2449b87ea",
+     "1c86a176f6459bd6",
+     "1f3804a01a53c7e7",
+     "2272e43033e83a19",
+     "2539c6ff473da784",
+     "2d45d955fb7c007e",
+     "382ecc4cc3466127",
+     "4dd3b3ad1e7135d0",
+     "5a03dd2add2738ec",
+     "67a20bfe50d15f1a",
+     "710bcaa90cb0305b",
+     "770e394492ec6932",
+     "78477ded88f07ad6",
+     "914758979bbe3b5e",
+     "987a43f0fb2435ff",
+     "a05e230689019ca0",
+     "a34fc7d9fb279ccb",
+     "a370730c2ed4d9d2",
+     "b119a974c1f5c56c",
+     "b5fd81c23836a792",
+     "b6114a52ea4cb635",
+     "b88daf8885459fa4",
+     "c1fc45e0d504acc5",
+     "c332b86be9f87462",
+     "c4c595e2a9028867",
+     "dc1f2e6608257ff7",
+     "e8a9e7fafe95a12d",
+     "ec17f5bbfde3002b",
+     "f13ecf9c469153a1"
+    ],
+    "corrections": []
+   }
+  },
   "2026-wlcef-literature-award": {
    "https://wlcef.vcom.tw/article/第五屆全國高中生文學獎（115學年度）": {
     "fingerprint": "106474b038d7b9da8801b0512dac47f8ee3205c588c26862effd42afab5e611c",
@@ -6150,6 +7716,40 @@
      "dfbe5a657bcb664b",
      "ee90c97889ff67ea",
      "f03b110bf18721b5"
+    ],
+    "corrections": []
+   }
+  },
+  "2026-wzu-interpreting": {
+   "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/54/pta_226780_448518_38154.pdf": {
+    "fingerprint": "3c26690e93f722c90bafd09669a353fd611926b166aafbfe6710e1aca03af9a4",
+    "chars": 1304,
+    "facts": [
+     "1fb7327fd1c25ec6",
+     "6c14e32a14cde9de",
+     "802880b2696e82d0",
+     "8fe129e244544300",
+     "935fb074975c6326",
+     "a8196aa60cc81814"
+    ],
+    "corrections": []
+   },
+   "https://www.hgsh.hc.edu.tw/view-doc/5/2026文藻盃全國高中職中英口譯大賽比賽辦法.pdf": {
+    "fingerprint": "d232ebcb45b7de859956364e7968a4a3a5b75a46c9caa25bc9a015e7503fefc1",
+    "chars": 1365,
+    "facts": [
+     "24071dfa7ef8e4f6",
+     "242bbbadd8e98287",
+     "2cdbabefeeed6e72",
+     "4849465d1d566ecd",
+     "5d07444c316c4d2f",
+     "70b3192f392bf91f",
+     "8eb65972df1f1e06",
+     "9b3506fc0ce4eaea",
+     "b8c0b14d88f3d42c",
+     "befaf76208cdfd8e",
+     "db6bb03d21001a8e",
+     "e5333c93aaa80497"
     ],
     "corrections": []
    }
@@ -6219,6 +7819,67 @@
      "94f2d2a7b6b32857",
      "9c3fe64333de2639",
      "a433c8ba83101c75"
+    ],
+    "corrections": []
+   }
+  },
+  "2026-ykkap-street-dance": {
+   "https://www.ttsh.tp.edu.tw/news/%e5%8c%97%e5%b8%82%e9%ab%94%e8%82%b2%e5%b1%80%e8%88%87%e5%8f%b0%e7%81%a3%e8%a1%97%e8%88%9e%e6%96%87%e5%8c%96%e6%8e%a8%e5%bb%a3%e5%8d%94%e6%9c%83%e8%88%89%e8%be%a6%e3%80%8cykk-ap-2026%e6%b1%ba%e6%88%b0/": {
+    "fingerprint": "6926b856b74a18256ea8ed1d1d1fe8833d877ce523e09776b4a89d4d6a0a6a97",
+    "chars": 2916,
+    "facts": [
+     "059da136dbf487af",
+     "089e3699fe7f6a61",
+     "15b2773dc915f11d",
+     "3205377e7c9e7639",
+     "42a9a16ccd28cd25",
+     "486819a8e726443e",
+     "56fe3a07c792ee3c",
+     "5f4834bf13ad6195",
+     "87069b0c5b390896",
+     "8d8849e091922524",
+     "92ae76ad969a449d",
+     "9908252dc71ecb75",
+     "beaa56ff4bc6df38",
+     "ce06131132b5bc08",
+     "ce48f1fabb075f05",
+     "f09b63beda3ca17a"
+    ],
+    "corrections": []
+   }
+  },
+  "2026-youth-health-advocacy": {
+   "https://www.k12ea.gov.tw/Tw/Annc/Detail?filter=AC097895-3399-4890-8891-FC005A77CCB3&id=7f6d70a4-35bb-4396-934b-caec2dd713c7": {
+    "fingerprint": "e445ec202f0c68582f2a8f07bc686c74dee404cbf6ec1dc7f2f375203a37965e",
+    "chars": 2717,
+    "facts": [
+     "5ba9cac08ab40bd1",
+     "65401cd11dcfe813",
+     "86e6a3cc3fd02bc0",
+     "97a589f3f911a5ee",
+     "dde64635b487ec85"
+    ],
+    "corrections": []
+   },
+   "https://www.k12ea.gov.tw/Tw/Common/Downloader?id=d3a783ba-4423-4f6e-b954-a263b903d6b9": {
+    "fingerprint": "0e5423a023a32370066bea1f1625eafd9cb8536a84c0ea20934cb7e0d8b00dad",
+    "chars": 4406,
+    "facts": [
+     "10c4b6962b72ae8f",
+     "1f59ba4f4fc5e370",
+     "30af84f56ec459a7",
+     "5e5721e136dd74fd",
+     "8a78816c8b73c2d7",
+     "9772de4860706657",
+     "a2baf21fff7dd546",
+     "b7fec86c02858a9c",
+     "d9333b1ab8089427",
+     "d96fe25f7c5a92fd",
+     "dc01407541a39490",
+     "e55dbd79b12bfa79",
+     "f284a2e09ebea43d",
+     "f358c77a6bc1ad85",
+     "f3c7754aa05b3d71"
     ],
     "corrections": []
    }
@@ -6777,18 +8438,7 @@
    }
   },
   "2027-cyut-ae-short-film": {
-   "https://aecyut.cyut.edu.tw/p/406-1039-66700,r106.php?Lang=zh-tw": {
-    "fingerprint": "8036cb84e25f91e0e6ce5ab366d6f7ecc85995e56dbb7cd0d6dfa6c3cc8674ac",
-    "chars": 658,
-    "facts": [
-     "1e8adcc8c7bcff60",
-     "6aaa2c33c8cfb452",
-     "8b32a7ef7ec68c6e",
-     "ef60002fad892e67"
-    ],
-    "corrections": []
-   },
-   "https://aecyut.cyut.edu.tw/var/file/39/1039/img/343266758.pdf": {
+   "https://drive.google.com/file/d/1nulnftoB_C3xeDRqwkAfXxeY-MOG2dDe/view?usp=sharing": {
     "fingerprint": "0ee551792707638a62d579303fce8f6342daf167d70d05db4e28c6bb6ac543a2",
     "chars": 1629,
     "facts": [
@@ -6806,6 +8456,16 @@
      "cd2261aac059e899",
      "d2156e1d7c606f9f",
      "fe163b677b592c67"
+    ],
+    "corrections": []
+   },
+   "https://www.tlsh.ylc.edu.tw/2026/10/01/67699/": {
+    "fingerprint": "de9f77a82ad9e58c1a5c720c596dc5bfb07b43e873320861349514fc0c3cf350",
+    "chars": 1316,
+    "facts": [
+     "117d8cb181e69de3",
+     "2db2bbd660fcc5bd",
+     "82d56be0e3f4f75d"
     ],
     "corrections": []
    }
@@ -7244,6 +8904,66 @@
     "corrections": []
    }
   },
+  "2027-iol-taiwan-selection": {
+   "https://www.fg.tp.edu.tw/view-doc/11/2027年國際語言學奧林匹亞競賽臺灣代表隊選拔賽複賽之學校推薦辦法.pdf": {
+    "fingerprint": "e6b1b4366f21b344401acd592c6b4d02fbdc86bb650ad5c6587ff33ab2626aec",
+    "chars": 843,
+    "facts": [
+     "3df924558577bec1"
+    ],
+    "corrections": []
+   },
+   "https://www.fg.tp.edu.tw/view-doc/11/TOL 2027_國際語言學奧林匹亞競賽臺灣國手選拔賽說明簡章.pdf": {
+    "fingerprint": "481743162f979396928d329ffa964da0f2cb1c93da0b5493c4177f1d76fecfc3",
+    "chars": 8000,
+    "facts": [
+     "01fafc8f98f5a0c8",
+     "083e2e0ad28e68c1",
+     "0acc6180ebddddd9",
+     "0c1e9bd47e438cec",
+     "1550076b52f15981",
+     "288a0a4f7f2a5f18",
+     "2bf69160d609c02b",
+     "2e1c53a6d5697cb1",
+     "37ad18cef143b71e",
+     "3d052156bfd46a6c",
+     "3e3fe75e506f5500",
+     "54b7bf5a1e5c0cb2",
+     "57e6ffbaf0fc702e",
+     "70d0c1b33626ba4b",
+     "772cf8ce4c5e7222",
+     "87ec5a537eee4668",
+     "8ea02c4e1bf048cc",
+     "c208adbd5ce33c45",
+     "c5e403c3827f0ead",
+     "c74b7a5b22ccd811",
+     "c8062abae58f044b",
+     "d0a58f879a7094ce",
+     "e48d3ca553e1f05e",
+     "ef604ed8ac76c7fd",
+     "f147f3e40521d018",
+     "f1ed97776fa529df",
+     "f9c5d04adbebd051",
+     "fd42497a3580f4d2"
+    ],
+    "corrections": []
+   },
+   "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28337/%E5%85%AC%E6%96%87.pdf": {
+    "fingerprint": "00c3ab67d82aff0e896e324bd419b0472b9edf96f32212dabd718216e48a0d37",
+    "chars": 7203,
+    "facts": [
+     "147839a8428b477a",
+     "1fb7327fd1c25ec6",
+     "84e3ec3665f7c02b",
+     "982d809404205878",
+     "9a796ae2612c4413",
+     "9bfe845e3b90a53a",
+     "a955bad335f814f1",
+     "bb5aa773bac1bf42"
+    ],
+    "corrections": []
+   }
+  },
   "2027-just-hs-project": {
    "https://cbm.just.edu.tw/cbm2027/Menu/Poster.aspx": {
     "fingerprint": "04b9ecf8c2561b5bc146ea68733280f995505545984a79f75cdf30053a2f2e32",
@@ -7286,6 +9006,31 @@
      "747b439bd36cff07",
      "a9769fca6c67b432",
      "fd243614bce626c3"
+    ],
+    "corrections": []
+   }
+  },
+  "2027-k12-tobacco-betel-video": {
+   "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg224/115 學年度校園菸檳危害防制教育「影爆倡議」短片競賽.pdf": {
+    "fingerprint": "5b5b34cbc30f63fab6b5655b82f5044c0b19956c7bc7dc9875c0aeddb3a80168",
+    "chars": 4640,
+    "facts": [
+     "049b5f5135a6a10c",
+     "1467bf30b1acab9d",
+     "17789736c93a048b",
+     "178fea9c09da342f",
+     "4c6c50a92da64596",
+     "777d71a8add1ddb3",
+     "7ee5a159a6e4b87c",
+     "9ea0e63f3302c528",
+     "c023b98d644f3efc",
+     "c3b30f2932bec029",
+     "d98a71815e874757",
+     "da9c453af9321e30",
+     "e493f4261f2fe4a3",
+     "e76cf576e5ed0a33",
+     "eab285b46bfe9055",
+     "ed3e65d27ffa20d4"
     ],
     "corrections": []
    }
@@ -7530,6 +9275,78 @@
     "corrections": []
    }
   },
+  "2027-miaoli-18-township-english-speech": {
+   "https://www.linking368taiwan.org/englishspeech/Miaoli/index.jsp": {
+    "fingerprint": "8199ebb94b789de70f7c21e57cabbcd0d97e6bf9cc5528c126083019c37909f5",
+    "chars": 6475,
+    "facts": [
+     "01fcaa9d02c92248",
+     "0ab13c756424227c",
+     "0da3c25b3ebf6afe",
+     "0ee31969c133b7ad",
+     "1bde220d14089209",
+     "1e34280ffc5b1ce4",
+     "29755d0cd617131e",
+     "322d224c4600f369",
+     "426d2448ebe037e0",
+     "4e1c29aecde4d471",
+     "571a49cfcd181d04",
+     "673fa03c167f2060",
+     "6c6b6ef70fe74b60",
+     "8639cdfe11a3284a",
+     "935367b6165d9b73",
+     "9b559119ffe2ef02",
+     "9ce80f04ee839585",
+     "9fe843c5944ebf01",
+     "ba4bd0efa8e06f05",
+     "c23cf0899d23f169",
+     "c2b68d722d3833ed",
+     "cf443e5af5239af8",
+     "e738b59d0561f767"
+    ],
+    "corrections": []
+   },
+   "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26769": {
+    "fingerprint": "704d4ce73d2d8508b7585e9eebcd883d32c555714a8bb10b7bc1f3250caf21cf",
+    "chars": 1885,
+    "facts": [
+     "2273bd830a5b6904",
+     "eda53d5ee14c48a6"
+    ],
+    "corrections": []
+   },
+   "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27493/115%E5%AD%B8%E5%B9%B4%E5%BA%A6%E3%80%8C%E8%8B%97%E6%A0%97%E7%B8%A318%E9%84%89%E9%8E%AE%E5%B8%82%E8%8B%B1%E6%96%87%E6%BC%94%E8%AC%9B%E6%AF%94%E8%B3%BD%E3%80%8D%E5%AF%A6%E6%96%BD%E8%A8%88%E7%95%AB.pdf": {
+    "fingerprint": "8c74fa6b7064cb8887b94b84ae454949c58641535ea841410a4b2cc85ef9633f",
+    "chars": 4160,
+    "facts": [
+     "0e8705d590b18385",
+     "108070f3b73bb91d",
+     "2f7ece72c42ad388",
+     "47b52116e4d87518",
+     "79fd1b5e01a45f46",
+     "7f09e479836ef79d",
+     "816a4acaed0c4dea",
+     "906c78821a3f8f8e",
+     "935cc44f5433b2a4",
+     "96d88644a46a1545",
+     "98aac2e677cf9d52",
+     "9e429fe6cefac0bd",
+     "a8f31491cd64544f",
+     "af722ea0ae9a6317",
+     "b4201f2633cba155",
+     "b9fa28cb8930c9e8",
+     "cb11e5b39955a9f2",
+     "cbf49317b94bbeab",
+     "d2df51b195992d5d",
+     "d787ae89c055b39f",
+     "e20f1445a0ba6823",
+     "e8d1392cd43527b1",
+     "ed782483d8880f89",
+     "f6ca10afc4a41cda"
+    ],
+    "corrections": []
+   }
+  },
   "2027-mingdao-global-chinese-literary-award": {
    "https://sites.google.com/ms.mingdao.edu.tw/literary-award/全球華文學生文學獎/submit": {
     "fingerprint": "8e728008f9cf32087dc78048c1980da4ca16d8e79a7d02ee942da99c976ab7ab",
@@ -7694,6 +9511,35 @@
     "corrections": []
    }
   },
+  "2027-national-skills-competition": {
+   "https://drive.google.com/file/d/1B5p4Ox1_IMgnntwz5mfPq_rvZ9TI59Tw/view?usp=sharing": {
+    "fingerprint": "81630fdda4380c8d2c6f0357f2d5bfae5084d079e77e57c9a1079456162f3f0f",
+    "chars": 3782,
+    "facts": [
+     "016684c5f7da554d",
+     "0298262d3507f4b4",
+     "0cff864a9824bd62",
+     "11b58b6705a0f3c7",
+     "475ed91553c4c100",
+     "4f98d56df0832bcf",
+     "61930e0e17942afe",
+     "6a6504b243a475df",
+     "7ed7a02d38863222",
+     "80238eee0b28c00f",
+     "8a4d96462721ca5c",
+     "9f67b989e02b9b6a",
+     "a773931e7441af95",
+     "bc6a213b85aff127",
+     "c04188d66e8c9bcb",
+     "cedf40b35c785903",
+     "d2939abb797168ef",
+     "db06eb94c83f55b8",
+     "f76ca56de7a64518",
+     "fde3047a1d89e288"
+    ],
+    "corrections": []
+   }
+  },
   "2027-ncue-homerun-science": {
    "https://phys5.ncue.edu.tw/2027science/": {
     "fingerprint": "350940c7310023a9b25c07e586852f87221f573b1f7e0ee27856d4462e25f7a2",
@@ -7795,6 +9641,85 @@
      "e16dc6f438803fbd",
      "f15dbc9471a618a8",
      "f73f6f45a2bc4407"
+    ],
+    "corrections": []
+   }
+  },
+  "2027-ntpc-ai-p-literacy-challenge": {
+   "https://www.ykvs.ntpc.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9MemMwTDNCMFlWOHlORFkxTlY4Mk5UZ3pOVGd6WHpVNE9UVTFMbVJ2WTNnPQ==&fname=WSGGHGGHUSLKOOYXDGLKOKYWMK30WTRLQO34XS10QPNPCC40USRO01UW005430EGPOPOVXXXA404LK14MOPKTSLOOPB0NOWSLPJDXWA034MKB001USSSXSFC00POHHKKDGA0NOXTVWNK40XS50B040NK41GDQP21QKDCOPA414TSCDUSRK00TX2524FGFCMOQOJGPO3520ROWSWS01A104VSXWB4NKA4IGGG01QKSSLKLP00WW04WW34PKNKTSKO20B040GCNPIDOOB5NKB4OPEG2054ROSSNO00ZTIHHCEGEGHCXSFGOOMKRKRKNKWSA1YT31FCUWTS30QKECSW45RKRKPOGG1124NOEGMORKB4JGGCQOFCUSMPTX3504SSKPEC45FG0010ST50NOWWA5KKGGPOMOYSQOB4JD34DGVW14MPUTXTROB0ZWYWJGB0YWKKUWOKNO40LP15GGB0KPGDKO305000DGB0DCKKCC05LK40UWA4YWPOFH10ROUW": {
+    "fingerprint": "10e9e9f6118834914da15c48709f41e4dcf3381a70512bdb0e2b3ca7ee744ec2",
+    "chars": 4494,
+    "facts": [
+     "06bc15992193a726",
+     "1b17c5d9ee88359a",
+     "1cb7cb8f992767aa",
+     "322e9160f88d9afc",
+     "3a22eeee707cf1e8",
+     "3c12b2ae24f96bbe",
+     "4e2abf800a81d673",
+     "6cb639edaf9b3429",
+     "75846074bdead963",
+     "865bbe14802c1286",
+     "93da01efafe96a03",
+     "975517b2a5501abc",
+     "97fcbabf6a0362ea",
+     "991ee72275b0c17e",
+     "b09e59db0c39c476",
+     "b2d8231e44ca409c",
+     "b8ff9d60bc84ef0e",
+     "c5ea7d7d76b6fc1b",
+     "df7d6d2a01da93bf",
+     "f022bb8d632b7cf0",
+     "f025e8a4a6d3d594",
+     "f107762953a839a9",
+     "f8c82628b4dd0076"
+    ],
+    "corrections": []
+   },
+   "https://www.ykvs.ntpc.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9MemMwTDNCMFlWOHlORFkxTmw4MU56VTVNRGMzWHpVNE9UVTFMbkJrWmc9PQ==&fname=WSGGHGGHUSLKOOYXDGLKOKYWMK30WTRLQO34XS10QPNPCC40USRO01UW005430EGPOPOVXXXA404LK14MOPKTSLOOPB0NOWSLPJDXWA034MKB001USSSXSFC00POHHKKDGA0NOXTVWNK40XS50B040NK41GDQP21QKDCOPA414TSCDUSRK00TX2524FGFCMOQOJGPO3520ROWSWS01A104VSXWB4NKA4IGGG01QKSSLKLP00WW04WW34PKNKTSKO20B040GCNPIDOOB5NKB4OPEG2054ROSSNO00ZTIHHCEGEGHCXSFGOOMKRKRKNKWSA1YT31FCUWTS30QKECSW45RKRKPOGG1124NOEGMORKB4JGGCQOFCUSMPTX3504SSKPEC45FG0010ST50NOWWA5KKGGPOMOYSQOB4JD34DGVW14MPUTXTROB0ZWYWJGB0YWKKUWOKNO40LP15GGB0KPGDKO305000DGB0DCKKCC05FG40UWQOPPUWQOOK50ST": {
+    "fingerprint": "b89585208f3d46532d6acaaedf8a16096989656d0c6b427685a67b5a102e9cd7",
+    "chars": 4888,
+    "facts": [
+     "0700bcc9837b2885",
+     "0a207f9963943c59",
+     "1f037e2efe61906c",
+     "2106aa86fba6a63e",
+     "2b8e1dbb91d3681e",
+     "3029081c56ccfe70",
+     "322e9160f88d9afc",
+     "41cb3a5ca0fbcb4b",
+     "4313ba27e38c1d7f",
+     "43539169b18014f0",
+     "45d3a2a05e799d64",
+     "471976e5caf8d14b",
+     "4e2abf800a81d673",
+     "60e27399c99a0edb",
+     "6d86bd95db83acc1",
+     "75846074bdead963",
+     "7e493e27ea7edf1e",
+     "8216a942b254ed6a",
+     "83fedde8db787138",
+     "84f7d3b8e22d44ca",
+     "865bbe14802c1286",
+     "8e88e420e07cdd91",
+     "934f8a3de11c1a86",
+     "aad94768f794dca7",
+     "b76279d6e81ba031",
+     "b83ccda75825d248",
+     "b8ff9d60bc84ef0e",
+     "fb0f4de5aba3be4b"
+    ],
+    "corrections": []
+   },
+   "https://www.ykvs.ntpc.edu.tw/p/406-1000-25876,r23.php": {
+    "fingerprint": "3027b9b8498118e61aef5757c9707c2961b2366bc8b51c194373e75445888f6c",
+    "chars": 1058,
+    "facts": [
+     "1c2b15c1cadc34fd",
+     "4f0ee59b3648f562",
+     "964fdb03ffdd71c7",
+     "9a6035568741dcd2",
+     "f1476046007f86d0"
     ],
     "corrections": []
    }

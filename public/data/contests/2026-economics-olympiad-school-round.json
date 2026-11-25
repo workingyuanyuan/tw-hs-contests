@@ -1,13 +1,17 @@
 {
   "schema": 1,
   "id": "2026-economics-olympiad-school-round",
-  "title": "經濟學奧林匹亞(EO)2026-2027年校際回合競賽",
+  "title": "經濟學奧林匹亞 (EO) 校際回合",
   "edition": "2026–2027 年度",
-  "summary": "國中與高中職學生個人以中文或英文參加經濟學線上測驗，依全體成績排名頒獎。",
+  "summary": "國中及高中職學生個人以中文或英文應試經濟學與財務金融選擇題，依全體成績排名敘獎。",
   "organizers": [
     {
       "name": "台灣經濟學奧林匹亞競賽組織",
       "role": "主辦"
+    },
+    {
+      "name": "台灣模擬教育協會",
+      "role": "協辦"
     }
   ],
   "categories": [
@@ -31,122 +35,118 @@
     "basis": "quote",
     "evidence": [
       {
-        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/10/經濟學奧林匹亞EO2026-2027年校際回合競賽簡章.pdf",
-        "quote": "(一) 中華⺠國境內公私立高級中等學校、國⺠中學或外僑學校之在學學生（包含在我國居留就學之外籍學生）。"
+        "url": "https://drive.google.com/file/d/1MLBbn-kEIlLGT6PeeMtt-jPgbmlfl44W/view?usp=sharing",
+        "quote": "(一) 中華⺠國境內公私立高級中等學校、國⺠中學或外僑學校之在學學生（包含在我國居留就學"
       },
       {
-        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/10/經濟學奧林匹亞EO2026-2027年校際回合競賽簡章.pdf",
-        "quote": "(二) 不得為大專院校學生，且未曾就讀於任何大專院校。"
+        "url": "https://www.ecolympiad.tw/zh-tw/eo",
+        "quote": "為 7 至 12 年級在學學生。"
       },
       {
-        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/10/經濟學奧林匹亞EO2026-2027年校際回合競賽簡章.pdf",
+        "url": "https://drive.google.com/file/d/1MLBbn-kEIlLGT6PeeMtt-jPgbmlfl44W/view?usp=sharing",
         "quote": "參賽者無須透過學校報名，參賽者可自由選擇場次，惟於當年（2026–2027）僅能參與1 場次。"
       },
       {
-        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/10/經濟學奧林匹亞EO2026-2027年校際回合競賽簡章.pdf",
+        "url": "https://drive.google.com/file/d/1MLBbn-kEIlLGT6PeeMtt-jPgbmlfl44W/view?usp=sharing",
         "quote": "40 分鐘個人賽；25 題選擇題，每題4 分"
-      },
-      {
-        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/10/經濟學奧林匹亞EO2026-2027年校際回合競賽簡章.pdf",
-        "quote": "本競賽依所有場次之全體參賽者成績進行排名並給予獎項："
       }
     ]
   },
   "dates": [
     {
       "kind": "other",
-      "label": "校際回合場次一競賽",
+      "label": "校際回合線上測驗場次一",
       "date": "2026-10-09",
       "time": "10:00",
       "original": "2026 年 10 月 9 日（星期五）10:00–11:30（國慶日補假）",
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/10/經濟學奧林匹亞EO2026-2027年校際回合競賽簡章.pdf",
+          "url": "https://drive.google.com/file/d/1MLBbn-kEIlLGT6PeeMtt-jPgbmlfl44W/view?usp=sharing",
           "quote": "場次一：2026 年 10 月 9 日（星期五）10:00–11:30（國慶日補假）"
         }
       ]
     },
     {
       "kind": "other",
-      "label": "校際回合場次二競賽",
+      "label": "校際回合線上測驗場次二",
       "date": "2026-10-26",
       "time": "10:00",
       "original": "2026 年 10 月26 日（星期一）10:00–11:30（台灣光復暨金門古寧頭大捷紀念日補假）",
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/10/經濟學奧林匹亞EO2026-2027年校際回合競賽簡章.pdf",
+          "url": "https://drive.google.com/file/d/1MLBbn-kEIlLGT6PeeMtt-jPgbmlfl44W/view?usp=sharing",
           "quote": "場次二：2026 年 10 月26 日（星期一）10:00–11:30（台灣光復暨金門古寧頭大捷紀念日補假）"
         }
       ]
     },
     {
       "kind": "other",
-      "label": "校際回合場次三競賽",
+      "label": "校際回合線上測驗場次三",
       "date": "2026-11-07",
       "time": "10:00",
       "original": "2026 年 11 月 7 日（星期六）10:00–11:30",
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/10/經濟學奧林匹亞EO2026-2027年校際回合競賽簡章.pdf",
+          "url": "https://drive.google.com/file/d/1MLBbn-kEIlLGT6PeeMtt-jPgbmlfl44W/view?usp=sharing",
           "quote": "場次三：2026 年 11 月 7 日（星期六）10:00–11:30"
         }
       ]
     },
     {
       "kind": "other",
-      "label": "校際回合場次四競賽",
+      "label": "校際回合線上測驗場次四",
       "date": "2026-11-21",
       "time": "10:00",
       "original": "2026 年 11 月21 日（星期六）10:00–11:30",
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/10/經濟學奧林匹亞EO2026-2027年校際回合競賽簡章.pdf",
+          "url": "https://drive.google.com/file/d/1MLBbn-kEIlLGT6PeeMtt-jPgbmlfl44W/view?usp=sharing",
           "quote": "場次四：2026 年 11 月21 日（星期六）10:00–11:30"
         }
       ]
     },
     {
       "kind": "other",
-      "label": "校際回合場次五競賽",
+      "label": "校際回合線上測驗場次五",
       "date": "2026-12-05",
       "time": "10:00",
       "original": "2026 年 12 月 5 日（星期六）10:00–11:30",
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/10/經濟學奧林匹亞EO2026-2027年校際回合競賽簡章.pdf",
+          "url": "https://drive.google.com/file/d/1MLBbn-kEIlLGT6PeeMtt-jPgbmlfl44W/view?usp=sharing",
           "quote": "場次五：2026 年 12 月 5 日（星期六）10:00–11:30"
         }
       ]
     },
     {
       "kind": "other",
-      "label": "校際回合場次六競賽",
+      "label": "校際回合線上測驗場次六",
       "date": "2026-12-19",
       "time": "10:00",
       "original": "2026 年 12 月19 日（星期六）10:00–11:30",
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/10/經濟學奧林匹亞EO2026-2027年校際回合競賽簡章.pdf",
+          "url": "https://drive.google.com/file/d/1MLBbn-kEIlLGT6PeeMtt-jPgbmlfl44W/view?usp=sharing",
           "quote": "場次六：2026 年 12 月19 日（星期六）10:00–11:30"
         }
       ]
     },
     {
       "kind": "other",
-      "label": "校際回合場次七競賽",
+      "label": "校際回合線上測驗場次七",
       "date": "2026-12-25",
       "time": "10:00",
       "original": "2026 年 12 月25 日（星期五）10:00–11:30（行憲紀念日放假）",
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/10/經濟學奧林匹亞EO2026-2027年校際回合競賽簡章.pdf",
+          "url": "https://drive.google.com/file/d/1MLBbn-kEIlLGT6PeeMtt-jPgbmlfl44W/view?usp=sharing",
           "quote": "場次七：2026 年 12 月25 日（星期五）10:00–11:30（行憲紀念日放假）"
         }
       ]
@@ -154,16 +154,25 @@
   ],
   "deliverables": [
     {
-      "stage": "校際回合",
-      "what": "40 分鐘個人測驗，25 題經濟學選擇題，自備電腦並開啟鏡頭受遠端監試",
+      "stage": "校際回合（任選一場次）",
+      "what": "40 分鐘線上測驗，25 題選擇題，自備電腦並開啟鏡頭遠端監試",
       "how": "online"
     }
   ],
   "attendance": {
-    "value": "unknown",
-    "where": "線上（自備電腦，開啟鏡頭遠端監試）",
-    "basis": "unread",
-    "evidence": []
+    "value": "all",
+    "where": "線上，無須前往實體考場",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.ecolympiad.tw/zh-tw/eo",
+        "quote": "本回合在線上進行，參賽者無須前往實體考場，但應自備電腦。測驗過程中設有監考及防弊機制。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1MLBbn-kEIlLGT6PeeMtt-jPgbmlfl44W/view?usp=sharing",
+        "quote": "2. 參賽者應自備個人電腦，並事先測試網路連線及鏡頭功能正常。未能開啟鏡頭者，本競賽"
+      }
+    ]
   },
   "fee": {
     "value": "required",
@@ -171,7 +180,7 @@
     "basis": "quote",
     "evidence": [
       {
-        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/10/經濟學奧林匹亞EO2026-2027年校際回合競賽簡章.pdf",
+        "url": "https://drive.google.com/file/d/1MLBbn-kEIlLGT6PeeMtt-jPgbmlfl44W/view?usp=sharing",
         "quote": "報名費為新台幣700 元整。繳費成功後將開立收據，並透過電子郵件提供給參賽者。"
       },
       {
@@ -181,32 +190,32 @@
     ]
   },
   "prizes": {
-    "text": "依所有場次全體參賽者成績排名：一等獎為前 5.00%，另加頒新台幣 1,000 元獎金（限本國籍）；二等獎為前 5.01% 至 15.00%；三等獎為前 15.01% 至 30.00%；滿分者另頒卓越獎。測驗後即可獲得成績與參賽證明；中文組成績最優 4 名直接晉級 2027 年 1 月選訓營。",
+    "text": "依所有場次全體參賽者成績排名：前 5.00% 一等獎，加頒新台幣 1,000 元獎金（限本國籍）；前 5.01% 至 15.00% 二等獎；前 15.01% 至 30.00% 三等獎；滿分者另頒卓越獎。中文組成績最優 4 名直接晉級 2027 年 1 月選訓營。",
     "basis": "quote",
     "evidence": [
       {
-        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/10/經濟學奧林匹亞EO2026-2027年校際回合競賽簡章.pdf",
+        "url": "https://drive.google.com/file/d/1MLBbn-kEIlLGT6PeeMtt-jPgbmlfl44W/view?usp=sharing",
+        "quote": "本競賽依所有場次之全體參賽者成績進行排名並給予獎項："
+      },
+      {
+        "url": "https://drive.google.com/file/d/1MLBbn-kEIlLGT6PeeMtt-jPgbmlfl44W/view?usp=sharing",
         "quote": "1. 一等獎：成績位於前5.00％ 之參賽者，並加頒新台幣1,000 元獎金（獎金得主限本國籍）。"
       },
       {
-        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/10/經濟學奧林匹亞EO2026-2027年校際回合競賽簡章.pdf",
+        "url": "https://drive.google.com/file/d/1MLBbn-kEIlLGT6PeeMtt-jPgbmlfl44W/view?usp=sharing",
         "quote": "2. 二等獎：成績位於前5.01％ 至15.00％ 之參賽者。"
       },
       {
-        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/10/經濟學奧林匹亞EO2026-2027年校際回合競賽簡章.pdf",
+        "url": "https://drive.google.com/file/d/1MLBbn-kEIlLGT6PeeMtt-jPgbmlfl44W/view?usp=sharing",
         "quote": "3. 三等獎：成績位於前15.01％ 至30.00％ 之參賽者。"
       },
       {
-        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/10/經濟學奧林匹亞EO2026-2027年校際回合競賽簡章.pdf",
+        "url": "https://drive.google.com/file/d/1MLBbn-kEIlLGT6PeeMtt-jPgbmlfl44W/view?usp=sharing",
         "quote": "4. 卓越獎：於競賽中獲得滿分之參賽者，另頒此獎項以資鼓勵。"
       },
       {
-        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/10/經濟學奧林匹亞EO2026-2027年校際回合競賽簡章.pdf",
-        "quote": "參賽者於測驗後即可獲得成績回饋及參賽證明；獲獎與晉級名單另由主辦單位公告。"
-      },
-      {
-        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/10/經濟學奧林匹亞EO2026-2027年校際回合競賽簡章.pdf",
-        "quote": "為提供更多參與2027 年8 月國際回合（EO5International5Final5Round）機會，本競賽校際回合特予「中文組」成績最優4 名之參賽者直接晉級至2027 年1 月選訓營之途徑。"
+        "url": "https://www.ecolympiad.tw/zh-tw/eo",
+        "quote": "為提供更多參與 2027 年 8 月國際回合（EO International Final Round）機會，本競賽校際回合特予「中文組」成績最優 4 名之參賽者直接晉級至 2027 年 1 月選訓營之途徑。"
       }
     ]
   },
@@ -215,7 +224,10 @@
     "basis": "absent",
     "evidence": [
       {
-        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/10/經濟學奧林匹亞EO2026-2027年校際回合競賽簡章.pdf"
+        "url": "https://www.ecolympiad.tw/zh-tw/eo"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1MLBbn-kEIlLGT6PeeMtt-jPgbmlfl44W/view?usp=sharing"
       }
     ]
   },
@@ -223,11 +235,11 @@
     "official": "https://www.ecolympiad.tw/zh-tw/eo",
     "rules": [
       {
-        "title": "競賽簡章（PDF）",
-        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/10/經濟學奧林匹亞EO2026-2027年校際回合競賽簡章.pdf"
+        "title": "競賽簡章",
+        "url": "https://drive.google.com/file/d/1MLBbn-kEIlLGT6PeeMtt-jPgbmlfl44W/view?usp=sharing"
       }
     ],
-    "registration": "https://www.ecolympiad.tw/zh-tw/eo"
+    "registration": "https://docs.google.com/forms/d/e/1FAIpQLSehiooM0waWa0IrkJzXHce90ft5rD5vb4cgN_rZeF8O8SM_-A/viewform"
   },
   "found_via": [
     {
@@ -262,8 +274,10 @@
   "verification": {
     "last_verified": "2026-11-25",
     "method": "dual",
-    "unread": [],
-    "note": "兩次讀取不一致，未列出：到場：all 對 none",
+    "unread": [
+      "賽制圖（PDF）"
+    ],
+    "note": null,
     "readers": [
       "claude-opus-5-5",
       "claude-opus-5-5"

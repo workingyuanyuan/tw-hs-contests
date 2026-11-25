@@ -1,0 +1,194 @@
+{
+  "schema": 1,
+  "id": "2026-bangkok-intl-invention-fair",
+  "title": "2027曼谷國際發明展",
+  "edition": "2027",
+  "summary": "發明人至多 5 人以一件發明作品報名曼谷國際發明展，參加展覽與評比。",
+  "organizers": [
+    {
+      "name": "泰國國家研究院",
+      "role": "主辦"
+    },
+    {
+      "name": "台灣發明商品促進協會",
+      "role": "承辦"
+    }
+  ],
+  "categories": [
+    "工程與製造"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職",
+      "社會人士"
+    ],
+    "division": "unknown",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": null,
+    "team_max": 5,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/來文本文_文稿1_0082503A00.pdf",
+        "quote": "本協會辦理「2027曼谷國際發明展」，敬請惠予公告並轉知 貴校師生踴躍參加。"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/來文附件_文稿1_0082503A00_ATTCH2.pdf",
+        "quote": "泰國政府誠摯邀請台灣發明家們參加 2027曼谷國際發明展"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/來文附件_文稿1_0082503A00_ATTCH1.docx",
+        "quote": "參 賽 人(至多5位)"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/來文附件_文稿1_0082503A00_ATTCH2.pdf",
+        "quote": "參展費用：38,000/件，包含5位發明人報名費、展位費、桌椅、電力、評比費。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "報名截止",
+      "date": "2026-12-09",
+      "time": null,
+      "original": "2026年12月9日截止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/來文附件_文稿1_0082503A00_ATTCH2.pdf",
+          "quote": "報名日期：2026年12月9日截止"
+        },
+        {
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/來文附件_文稿1_0082503A00_ATTCH1.docx",
+          "quote": "報名日期：2026年12月9日截止"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "繳費截止，逾期取消參賽資格",
+      "date": "2026-12-15",
+      "time": null,
+      "original": "2026年12月15日截止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/來文附件_文稿1_0082503A00_ATTCH2.pdf",
+          "quote": "繳費日期：2026年12月15日截止，逾期取消參賽資格"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "曼谷國際發明展展覽（2月2日至2月6日）",
+      "date": "2027-02-02",
+      "time": null,
+      "original": "2027年2月2日~2月6日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/來文附件_文稿1_0082503A00_ATTCH2.pdf",
+          "quote": "展覽日期：2027年2月2日~2月6日"
+        },
+        {
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/來文本文_文稿1_0082503A00.pdf",
+          "quote": "二、參展日期︰116年2月2日至2月6日。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名",
+      "what": "Word 檔報名表：作品中英文名稱與摘要、作品屬性與類別、專利申請狀況、3～5 張作品相片",
+      "how": "online"
+    },
+    {
+      "stage": "參展",
+      "what": "海報（90cm×150cm）",
+      "how": "unknown"
+    },
+    {
+      "stage": "參展",
+      "what": "作品（商品化、原型、模型或圖稿）於曼谷國際貿易展覽中心（BITEC）展位展出",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "unknown",
+    "where": null,
+    "basis": "unread",
+    "evidence": []
+  },
+  "fee": {
+    "value": "required",
+    "amount": "每件 38,000（含 5 位發明人報名費、展位費、桌椅、電力、評比費）",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/來文附件_文稿1_0082503A00_ATTCH2.pdf",
+        "quote": "參展費用：38,000/件，包含5位發明人報名費、展位費、桌椅、電力、評比費。"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "展後由台灣發明商品促進協會安排教育部、縣市政府接見及頒發獎狀。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/來文附件_文稿1_0082503A00_ATTCH2.pdf",
+        "quote": "展後協會安排教育部、縣市政府接見及頒發獎狀。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "unknown",
+    "basis": "unread",
+    "evidence": []
+  },
+  "links": {
+    "official": null,
+    "rules": [
+      {
+        "title": "2027曼谷國際發明展邀請函",
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/來文附件_文稿1_0082503A00_ATTCH2.pdf"
+      },
+      {
+        "title": "報名表（Word）",
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/來文附件_文稿1_0082503A00_ATTCH1.docx"
+      },
+      {
+        "title": "台灣發明商品促進協會來文",
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/來文本文_文稿1_0082503A00.pdf"
+      }
+    ],
+    "registration": null
+  },
+  "found_via": [
+    {
+      "name": "高師大附中 校外競賽與活動",
+      "url": "https://www.nknush.kh.edu.tw/announcement/high-school-news/19433/%e5%85%ac%e5%91%8a2027%e6%9b%bc%e8%b0%b7%e5%9c%8b%e9%9a%9b%e7%99%bc%e6%98%8e%e5%b1%95%e8%a8%ad%e5%82%99%e7%b5%84/"
+    },
+    {
+      "name": "潮州高中 學生課外活動",
+      "url": "https://www.ccsh.ptc.edu.tw/data.php?id=18897&tpl=27"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-25",
+    "method": "single",
+    "unread": [],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-25"
+}

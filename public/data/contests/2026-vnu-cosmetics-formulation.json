@@ -1,0 +1,227 @@
+{
+  "schema": 1,
+  "id": "2026-vnu-cosmetics-formulation",
+  "title": "2026全國新穎化妝品調製競賽",
+  "edition": "2026",
+  "summary": "大專與高中職/五專學生分組競賽，調製創意香水、精油、手工皂或乳液作品。",
+  "organizers": [
+    {
+      "name": "萬能科技大學",
+      "role": "主辦"
+    },
+    {
+      "name": "萬能科技大學化妝品應用與管理系暨研究所",
+      "role": "承辦"
+    },
+    {
+      "name": "十藝生技股份有限公司",
+      "role": "協辦"
+    },
+    {
+      "name": "中華國際美容協會",
+      "role": "協辦"
+    },
+    {
+      "name": "百迅國際行銷有限公司",
+      "role": "協辦"
+    },
+    {
+      "name": "台灣阿多瑪生化科技公司",
+      "role": "協辦"
+    },
+    {
+      "name": "佰世康生化科技股份有限公司",
+      "role": "協辦"
+    },
+    {
+      "name": "昕越檢驗科技股份有限公司",
+      "role": "協辦"
+    },
+    {
+      "name": "昕曜媄生醫股份有限公司",
+      "role": "協辦"
+    },
+    {
+      "name": "峻盟國際股份有限公司",
+      "role": "協辦"
+    },
+    {
+      "name": "喜凱莉美的事業有限公司",
+      "role": "協辦"
+    },
+    {
+      "name": "祥鳳國際行銷有限公司",
+      "role": "協辦"
+    },
+    {
+      "name": "赫蒂法股份有限公司",
+      "role": "協辦"
+    },
+    {
+      "name": "澤芳生物股份有限公司",
+      "role": "協辦"
+    }
+  ],
+  "categories": [
+    "技藝與技能"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職",
+      "五專",
+      "大專"
+    ],
+    "division": "separate",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": null,
+    "team_max": null,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/「2026全國新穎化妝品調製競賽」1.pdf",
+        "quote": "全國大專院校,高中職/五專三年級以下(含)在校生"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/「2026全國新穎化妝品調製競賽」1.pdf",
+        "quote": "大專組 高中職組"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/「2026全國新穎化妝品調製競賽」1.pdf",
+        "quote": "一律採網路報名(免報名費)"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "final_event",
+      "label": "現場競賽",
+      "date": "2026-12-11",
+      "time": "09:00",
+      "original": "115年12月11日(星期五)；12/11(五)09:00~17:00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26596",
+          "quote": "二、活動時間：115年12月11日(星期五)。"
+        },
+        {
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/「2026全國新穎化妝品調製競賽」1.pdf",
+          "quote": "12/11(五)09:00~17:00"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "競賽當日",
+      "what": "依報名組別在指定時段（各 2 小時）製作作品：創意香水、創意精油調配、冷製或熱製創意手工皂；創意乳液調配組只設於大專組",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "萬能科技大學化妝品應用與管理系暨研究所",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26596",
+        "quote": "三、活動地點：本校化妝品應用與管理系暨研究所。"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/「2026全國新穎化妝品調製競賽」1.pdf",
+        "quote": "09:00-09:30 評審,監評人員,選手報到"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/「2026全國新穎化妝品調製競賽」1.pdf",
+        "quote": "一律採網路報名(免報名費)"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "前三名有獎學金和獎品。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/「2026全國新穎化妝品調製競賽」1.pdf",
+        "quote": "前三名有優渥的獎學金和獎品喔！"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "unknown",
+    "basis": "unread",
+    "evidence": []
+  },
+  "links": {
+    "official": null,
+    "rules": [
+      {
+        "title": "活動海報",
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/「2026全國新穎化妝品調製競賽」1.pdf"
+      },
+      {
+        "title": "萬能科技大學函",
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/「2026全國新穎化妝品調製競賽」.pdf"
+      }
+    ],
+    "registration": "https://docs.google.com/forms/d/1PcRHuUqjKcdg_9A_wuafB3Ub0MyEKe93L9VHcucDoE8/viewform?edit_requested=true"
+  },
+  "found_via": [
+    {
+      "name": "新竹高商 消息公佈欄",
+      "url": "https://www.hccvs.hc.edu.tw/ischool/public/news_view/show.php?nid=26428"
+    },
+    {
+      "name": "高師大附中 校外競賽與活動",
+      "url": "https://www.nknush.kh.edu.tw/announcement/20335/%e5%85%ac%e5%91%8a%e8%a8%93%e8%82%b2%e7%b5%84%e8%90%ac%e8%83%bd%e7%a7%91%e6%8a%80%e5%a4%a7%e5%ad%b8%e3%80%8c2026%e5%85%a8%e5%9c%8b%e6%96%b0%e7%a9%8e%e5%8c%96%e5%a6%9d%e5%93%81%e8%aa%bf%e8%a3%bd/"
+    },
+    {
+      "name": "斗六高中 營隊研習競賽",
+      "url": "https://www.tlsh.ylc.edu.tw/2026/09/29/67605/"
+    },
+    {
+      "name": "苗栗高中 學生校外營隊、活動、比賽",
+      "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=28134"
+    },
+    {
+      "name": "苗栗農工 處室公告",
+      "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26596"
+    },
+    {
+      "name": "壽山高中 校外競賽",
+      "url": "https://www.sssh.tyc.edu.tw/news/%e8%90%ac%e8%83%bd%e7%a7%91%e6%8a%80%e5%a4%a7%e5%ad%b8%e5%8c%96%e5%a6%9d%e5%93%81%e6%87%89%e7%94%a8%e8%88%87%e7%ae%a1%e7%90%86%e7%b3%bb%e6%9a%a8%e7%a0%94%e7%a9%b6%e6%89%80%e8%be%a6%e7%90%86%e3%80%8c-2/"
+    },
+    {
+      "name": "大同高中 學生競賽活動",
+      "url": "https://www.ttsh.tp.edu.tw/news/%e8%90%ac%e8%83%bd%e5%ad%b8%e6%a0%a1%e8%b2%a1%e5%9c%98%e6%b3%95%e4%ba%ba%e8%90%ac%e8%83%bd%e7%a7%91%e6%8a%80%e5%a4%a7%e5%ad%b8%e5%8c%96%e5%a6%9d%e5%93%81%e6%87%89%e7%94%a8%e8%88%87%e7%ae%a1%e7%90%86/"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-25",
+    "method": "single",
+    "unread": [
+      "海報「活動報名詳情」QR code 所連頁面"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-25",
+  "level": "unverified",
+  "url": null,
+  "markdown": null
+}

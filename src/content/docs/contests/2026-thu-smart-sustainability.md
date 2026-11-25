@@ -1,6 +1,6 @@
 ---
-title: "2026 智慧永續循環技術論文暨專題競賽"
-description: "1 至 5 人就智慧永續專題繳交 5 頁內短文，入選口頭發表組者到東海大學簡報。"
+title: "2026智慧永續循環技術論文暨專題競賽"
+description: "高中職與大專學生 1 至 5 人組隊，提出以智慧科技解決永續發展問題的專題。"
 appliesTo: "2026 這一屆"
 caveat: "報名已於 2026-11-22 截止。"
 lastVerified: 2026-11-25
@@ -11,6 +11,30 @@ sources:
     url: "https://enger.thu.edu.tw/info-on-home-page/2026%e6%99%ba%e6%85%a7%e6%b0%b8%e7%ba%8c%e5%be%aa%e7%92%b0%e6%8a%80%e8%a1%93%e7%a0%94%e8%a8%8e%e6%9c%83%e6%9a%a8%e5%b0%88%e9%a1%8c%e7%ab%b6%e8%b3%bd/"
   - title: "報名頁面"
     url: "https://forms.gle/qmqabiSE6hfRKnoy6"
+  - title: "ithu.tw"
+    url: "https://ithu.tw/qygjw"
+  - title: "www.nknush.kh.edu.tw"
+    url: "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/「2026智慧永續循環技術研討會暨專題競賽」競賽資訊.pdf"
+  - title: "轉發公告：新竹女中 活動研習"
+    url: "https://www.hgsh.hc.edu.tw/news/2026%e6%99%ba%e6%85%a7%e6%b0%b8%e7%ba%8c%e5%be%aa%e7%92%b0%e6%8a%80%e8%a1%93%e7%a0%94%e8%a8%8e%e6%9c%83%e6%9a%a8%e5%b0%88%e9%a1%8c%e7%ab%b6%e8%b3%bd/"
+  - title: "轉發公告：高師大附中 校外競賽與活動"
+    url: "https://www.nknush.kh.edu.tw/announcement/21152/%e5%85%ac%e5%91%8a%e8%a8%93%e8%82%b2%e7%b5%84%e3%80%8c2026%e6%99%ba%e6%85%a7%e6%b0%b8%e7%ba%8c%e5%be%aa%e7%92%b0%e6%8a%80%e8%a1%93%e7%a0%94%e8%a8%8e%e6%9c%83%e6%9a%a8%e5%b0%88%e9%a1%8c%e7%ab%b6/"
+  - title: "轉發公告：鳳新高中 營隊競賽"
+    url: "https://www.fhsh.khc.edu.tw/aa/news-aa/20261007/46620"
+  - title: "轉發公告：大里高中 校外活動與競賽"
+    url: "https://dlsh.tc.edu.tw/p/406-1068-639247,r2145.php?Lang=zh-tw"
+  - title: "轉發公告：苗栗農工 處室公告"
+    url: "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26725"
+  - title: "轉發公告：大同高中 學生競賽活動"
+    url: "https://www.ttsh.tp.edu.tw/news/%e6%9d%b1%e6%b5%b7%e5%a4%a7%e5%ad%b8%e8%88%89%e8%be%a6%e3%80%8c2026%e6%99%ba%e6%85%a7%e6%b0%b8%e7%ba%8c%e5%be%aa%e7%92%b0%e6%8a%80%e8%a1%93%e7%a0%94%e8%a8%8e%e6%9c%83%e6%9a%a8%e5%b0%88%e9%a1%8c/"
+  - title: "轉發公告：苗栗農工 處室公告"
+    url: "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26705"
+  - title: "轉發公告：暨大附中 學生研習與競賽活動"
+    url: "https://www.pshs.ntct.edu.tw/ischool/public/news_view/show.php?nid=33787"
+  - title: "轉發公告：苗栗高中 學生校外營隊、活動、比賽"
+    url: "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=28250"
+  - title: "轉發公告：大里高中 校外活動與競賽"
+    url: "https://dlsh.tc.edu.tw/p/406-1068-639247,r2145.php"
 ---
 
 ## 重點
@@ -26,18 +50,19 @@ sources:
 
 ## 要交什麼
 
-- 投稿：5 頁內 PDF 短文（研究背景與動機、問題、方法、實驗結果）（線上繳交）
-- 決賽（入選口頭發表組）：10 分鐘口頭簡報與 2 分鐘答詢，自備 PowerPoint（現場）
+- 報名投稿：5 頁內 PDF 短文（研究背景與動機、欲解決的問題、主要方法及實驗結果）（線上繳交）
+- 決賽（入選口頭發表組）：10 分鐘口頭簡報與 2 分鐘評審提問，自備 PowerPoint（現場）
+- 決賽（入選海報展演組）：依指定時間及位置張貼海報並現場解說（現場）
 
 ## 獎項
 
-口頭發表組（大專組、高中職組分別頒發）：金獎 1 名 10,000 元、銀獎 1 名 8,000 元、銅獎 1 名 5,000 元、優選 2 名各 2,000 元、佳作若干名，皆附獎狀。海報展演組只頒獎狀。
+口頭發表組（大專組、高中職組分別評選）：金獎 1 名新台幣 10,000 元、銀獎 1 名 8,000 元、銅獎 1 名 5,000 元、優選 2 名各 2,000 元、佳作若干名，皆附獎狀。海報展演組優選 2 名、佳作 3 名，只頒獎狀。
 
 ## 時程
 
 | 日期 | 事項 |
 | --- | --- |
-| 2026-11-22 | 專題競賽投稿截止 |
+| 2026-11-22 | 報名及短文投稿截止 |
 | 2026-11-27 | 初審結果通知 |
 | 2026-12-04 | 當日活動報名截止 |
-| 2026-12-12 | 決賽 |
+| 2026-12-12 | 決賽及頒獎 |

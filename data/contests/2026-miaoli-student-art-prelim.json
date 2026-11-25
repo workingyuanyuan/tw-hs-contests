@@ -1,0 +1,289 @@
+{
+  "schema": 1,
+  "id": "2026-miaoli-student-art-prelim",
+  "title": "115學年度全國學生美術比賽苗栗縣初賽",
+  "edition": "115 學年度",
+  "summary": "苗栗縣國小至高中職學生創作繪畫、書法、平面設計、漫畫、水墨畫或版畫作品，由學校擇優選送參賽。",
+  "organizers": [
+    {
+      "name": "苗栗縣政府",
+      "role": "主辦"
+    },
+    {
+      "name": "苗栗縣頭份市頭份國民小學",
+      "role": "承辦"
+    },
+    {
+      "name": "教育部",
+      "role": "指導"
+    },
+    {
+      "name": "國立臺灣藝術教育館",
+      "role": "指導"
+    }
+  ],
+  "categories": [
+    "美術",
+    "設計"
+  ],
+  "eligibility": {
+    "levels": [
+      "國小",
+      "國中",
+      "高中",
+      "高職"
+    ],
+    "division": "separate",
+    "regions": [
+      "苗栗縣"
+    ],
+    "nomination": "school",
+    "team_min": 1,
+    "team_max": 1,
+    "teacher": "required",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27635/1150000722.pdf",
+        "quote": "(一)參賽組別：共分國小組、國中組、高中(職)組等。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27635/1150000722.pdf",
+        "quote": "參賽作品統一由學生就讀學校送件"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27635/1150000722_2.pdf",
+        "quote": "(九)參賽學校一律採線上報名，每類作品各校普通班各組擇優1-5件參賽；如設有美術(工)班(科)組(包括設計類科)之學校擇優1-10件作品參賽。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27635/1150000722_2.pdf",
+        "quote": "(八)同一類組每人限送作品一件，且每件作品之創作者為一人，每人至多參加二類。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27635/1150000722_2.pdf",
+        "quote": "學校指導老師 (需親自簽名，審核參賽學生無臨摹、抄襲、或挪 用 他人創意之情形)"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "other",
+      "label": "線上報名開始",
+      "date": "2026-09-07",
+      "time": null,
+      "original": "115年9月7日(星期一)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27635/1150000722_3.docx",
+          "quote": "115年9月7日(星期一) 至 9月30日(三)下午3時"
+        }
+      ]
+    },
+    {
+      "kind": "registration_deadline",
+      "label": "線上報名截止",
+      "date": "2026-09-30",
+      "time": "15:00",
+      "original": "9月30日(星期三)下午3時止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27635/1150000722_2.pdf",
+          "quote": "線上報名期限至9月30日(星期三)下午3時止。"
+        },
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27635/1150000722_3.docx",
+          "quote": "115年9月7日(星期一) 至 9月30日(三)下午3時"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "學校送件至頭份國小活動中心",
+      "date": "2026-09-30",
+      "time": "15:00",
+      "original": "115年9月30日(星期三)，上午9時至12時，下午1時至3時",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27635/1150000722_2.pdf",
+          "quote": "收件時間：115年9月30日(星期三)，上午9時至12時，下午1時至3時，逾時或未規定"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "初賽成績公布",
+      "date": "2026-10-07",
+      "time": "17:00",
+      "original": "115年10月7日(星期三)下午5時前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27635/1150000722_2.pdf",
+          "quote": "成績公布：115年10月7日(星期三)下午5時前於教育處網站公布。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "書法類前三名縣內現場書寫",
+      "date": "2026-10-14",
+      "time": "09:00",
+      "original": "115年10月14日 (星期三) 上午9時至12時",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27635/1150000722_2.pdf",
+          "quote": "時間：115年10月14日 (星期三) 上午9時至12時，未於指定時間參加者視同棄權。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "初賽作品退件",
+      "date": "2026-10-16",
+      "time": null,
+      "original": "115年10月16日(星期五)上午9時~下午3時",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27635/1150000722_2.pdf",
+          "quote": "初賽作品退件日期：115年10月16日(星期五)上午9時~下午3時"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "全國決賽是否試辦現場創作公告",
+      "date": "2026-10-18",
+      "time": null,
+      "original": "115年10月18日前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27635/1150000722_2.pdf",
+          "quote": "將於115年10月18日前於國立臺灣藝術教育館比賽專網公告是否試辦現場創作"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名",
+      "what": "學校登錄參賽作品，列印作品清冊與標籤",
+      "how": "online"
+    },
+    {
+      "stage": "初賽",
+      "what": "作品背面黏貼報名表一式兩份，附作品清冊一式兩份；高中職組非書法類報名表另填 100-200 字作品介紹",
+      "how": "onsite"
+    },
+    {
+      "stage": "書法類現場書寫（前三名）",
+      "what": "現場從 2 題中選 1 題書寫 120 分鐘，自選 1 張參加決選",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "finalists",
+    "where": "頭份國小活動中心",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27635/1150000722_2.pdf",
+        "quote": "（一）參加對象：本縣初賽書法組，獲評選為前三名者。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27635/1150000722_2.pdf",
+        "quote": "（三）地點：頭份國小活動中心，如有異動另行公告或通知。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27635/1150000722.pdf"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27635/1150000722_2.pdf"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27635/1150000722_3.docx"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "各類組錄取第一名 1 件、第二名 2 件、第三名 3 件、佳作若干件，皆頒發苗栗縣政府獎狀；前三名作品送全國學生美術比賽，書法類前三名須先參加縣內現場寫作。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27635/1150000722_2.pdf",
+        "quote": "錄取名額：各類組錄取第一名壹件，第二名貳件，第三名參件，佳作若干件。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27635/1150000722_2.pdf",
+        "quote": "本縣評選為前三名作品及佳作之各類組作品，頒發苗栗縣政府獎狀。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27635/1150000722_2.pdf",
+        "quote": "本縣初賽各組前三名之作品經評選後，即送全國美術比賽參加展出。（惟書法前三"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "banned",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27635/1150000722_2.pdf",
+        "quote": "參賽作品應為學生之個人創作，非著作權保護之著作(如 AI 人工智慧生成作品)不得參賽。"
+      }
+    ]
+  },
+  "links": {
+    "official": null,
+    "rules": [
+      {
+        "title": "苗栗縣政府函",
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27635/1150000722.pdf"
+      },
+      {
+        "title": "115學年度全國學生美術比賽苗栗縣初賽實施計畫",
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27635/1150000722_2.pdf"
+      },
+      {
+        "title": "書法類決賽苗栗縣現場書寫簡章",
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27635/1150000722_1.pdf"
+      },
+      {
+        "title": "苗栗縣初選報名暨送件學校自我檢核表",
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27635/1150000722_3.docx"
+      }
+    ],
+    "registration": "http://www.sinyu.idv.tw/games/2026100201/"
+  },
+  "found_via": [
+    {
+      "name": "苗栗高中 學生校外營隊、活動、比賽",
+      "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=27635"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-25",
+    "method": "single",
+    "unread": [
+      "115學年度全國學生美術比賽實施要點"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-25"
+}

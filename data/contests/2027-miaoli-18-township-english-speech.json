@@ -1,0 +1,266 @@
+{
+  "schema": 1,
+  "id": "2027-miaoli-18-township-english-speech",
+  "title": "苗栗縣18鄉鎮市英文演講比賽",
+  "edition": "115 學年度",
+  "summary": "設籍或就讀苗栗縣的學生與社會人士，以英語演講介紹苗栗18鄉鎮市的家鄉文化。",
+  "organizers": [
+    {
+      "name": "必紅演藝國際有限公司",
+      "role": "主辦"
+    },
+    {
+      "name": "苗栗縣政府",
+      "role": "指導"
+    },
+    {
+      "name": "十八鄉鎮市公所",
+      "role": "指導"
+    },
+    {
+      "name": "苗栗縣文化觀光局",
+      "role": "指導"
+    },
+    {
+      "name": "國際扶輪社台灣總會",
+      "role": "協辦"
+    },
+    {
+      "name": "台灣獅子會基金會",
+      "role": "協辦"
+    }
+  ],
+  "categories": [
+    "外語"
+  ],
+  "eligibility": {
+    "levels": [
+      "國小",
+      "國中",
+      "高中",
+      "高職",
+      "大專",
+      "社會人士"
+    ],
+    "division": "separate",
+    "regions": [
+      "苗栗縣"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": 1,
+    "teacher": "optional",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27493/115%E5%AD%B8%E5%B9%B4%E5%BA%A6%E3%80%8C%E8%8B%97%E6%A0%97%E7%B8%A318%E9%84%89%E9%8E%AE%E5%B8%82%E8%8B%B1%E6%96%87%E6%BC%94%E8%AC%9B%E6%AF%94%E8%B3%BD%E3%80%8D%E5%AF%A6%E6%96%BD%E8%A8%88%E7%95%AB.pdf",
+        "quote": "（一）參加對象:設籍或就讀於苗栗縣之在校學生及設籍苗栗縣之社會人士。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27493/115%E5%AD%B8%E5%B9%B4%E5%BA%A6%E3%80%8C%E8%8B%97%E6%A0%97%E7%B8%A318%E9%84%89%E9%8E%AE%E5%B8%82%E8%8B%B1%E6%96%87%E6%BC%94%E8%AC%9B%E6%AF%94%E8%B3%BD%E3%80%8D%E5%AF%A6%E6%96%BD%E8%A8%88%E7%95%AB.pdf",
+        "quote": "3. 高中職組：限高級中等學校及職業學校在校生"
+      },
+      {
+        "url": "https://www.linking368taiwan.org/englishspeech/Miaoli/index.jsp",
+        "quote": "參賽者須設籍於苗栗縣，報名時須填寫相關資料。"
+      },
+      {
+        "url": "https://www.linking368taiwan.org/englishspeech/Miaoli/index.jsp",
+        "quote": "每人限報名一次，不得重複參賽。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27493/115%E5%AD%B8%E5%B9%B4%E5%BA%A6%E3%80%8C%E8%8B%97%E6%A0%97%E7%B8%A318%E9%84%89%E9%8E%AE%E5%B8%82%E8%8B%B1%E6%96%87%E6%BC%94%E8%AC%9B%E6%AF%94%E8%B3%BD%E3%80%8D%E5%AF%A6%E6%96%BD%E8%A8%88%E7%95%AB.pdf",
+        "quote": "直接上網填寫個人報名資料《，包括姓名《、參加組別《、設籍鄉鎮《、聯絡資訊等基本資料。"
+      },
+      {
+        "url": "https://www.linking368taiwan.org/englishspeech/Miaoli/index.jsp",
+        "quote": "凡國小及國中組得獎者之指導教師每名(頒發)獎金2000元(限領一次)。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "初賽報名截止",
+      "date": "2027-07-31",
+      "time": null,
+      "original": "2027年7月31日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.linking368taiwan.org/englishspeech/Miaoli/index.jsp",
+          "quote": "● 初賽報名截止日期：2027年7月31日"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "初賽演講影片 YouTube 連結收件截止",
+      "date": "2027-07-31",
+      "time": null,
+      "original": "2027年7月31日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.linking368taiwan.org/englishspeech/Miaoli/index.jsp",
+          "quote": "● 初賽收件截止日期：2027年7月31日"
+        },
+        {
+          "url": "https://www.linking368taiwan.org/englishspeech/Miaoli/index.jsp",
+          "quote": "請於報名截止日（2027/07/31）前提交 YouTube 連結給執行單位"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "縣府參賽獎勵金申請截止（完成投稿且符合資格之學生與指導教師）",
+      "date": "2026-12-31",
+      "time": null,
+      "original": "115年12月31日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26769",
+          "quote": "１、申請期限：115年8月1日起至115年12月31日止（星期四）。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "初賽",
+      "what": "一鏡到底、無字幕的橫式英文演講影片：高中、大專院校及社會組 4~5 分鐘，以《Linking 368 Taiwan》苗栗縣 18 鄉鎮市系列影片為題材；國小及國中組 2~3 分鐘，題目「我的家鄉」；上傳 YouTube 後提交連結",
+      "how": "online"
+    },
+    {
+      "stage": "決賽（初賽各組前 30%）",
+      "what": "高中、大專院校及社會組現場抽籤 18 鄉鎮市之一，準備 30 分鐘後即席英文演講 4~5 分鐘；國小及國中組以預備文稿朗讀 2~3 分鐘",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "finalists",
+    "where": null,
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27493/115%E5%AD%B8%E5%B9%B4%E5%BA%A6%E3%80%8C%E8%8B%97%E6%A0%97%E7%B8%A318%E9%84%89%E9%8E%AE%E5%B8%82%E8%8B%B1%E6%96%87%E6%BC%94%E8%AC%9B%E6%AF%94%E8%B3%BD%E3%80%8D%E5%AF%A6%E6%96%BD%E8%A8%88%E7%95%AB.pdf",
+        "quote": "比賽方式：線上初賽及實體決賽"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27493/115%E5%AD%B8%E5%B9%B4%E5%BA%A6%E3%80%8C%E8%8B%97%E6%A0%97%E7%B8%A318%E9%84%89%E9%8E%AE%E5%B8%82%E8%8B%B1%E6%96%87%E6%BC%94%E8%AC%9B%E6%AF%94%E8%B3%BD%E3%80%8D%E5%AF%A6%E6%96%BD%E8%A8%88%E7%95%AB.pdf",
+        "quote": "決賽地點：平台另行公告"
+      },
+      {
+        "url": "https://www.linking368taiwan.org/englishspeech/Miaoli/index.jsp",
+        "quote": "★ 初賽各組取「該組報名人數」前 30％，作為決賽入圍名單。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27493/115%E5%AD%B8%E5%B9%B4%E5%BA%A6%E3%80%8C%E8%8B%97%E6%A0%97%E7%B8%A318%E9%84%89%E9%8E%AE%E5%B8%82%E8%8B%B1%E6%96%87%E6%BC%94%E8%AC%9B%E6%AF%94%E8%B3%BD%E3%80%8D%E5%AF%A6%E6%96%BD%E8%A8%88%E7%95%AB.pdf"
+      },
+      {
+        "url": "https://www.linking368taiwan.org/englishspeech/Miaoli/index.jsp"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "高中、大專院校及社會組各錄取冠軍 30,000 元、亞軍 20,000 元、季軍 10,000 元、優選 2 名各 5,000 元，皆附獎狀；國小及國中組各錄取優選 10 名各 5,000 元、佳作若干名各 3,000 元及獎狀，得獎者指導教師獎金 2,000 元。縣府另對完成投稿且符合資格之學生與指導教師各發獎勵金 500 元。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.linking368taiwan.org/englishspeech/Miaoli/index.jsp",
+        "quote": "冠軍、亞軍、季軍各一名及優選2名"
+      },
+      {
+        "url": "https://www.linking368taiwan.org/englishspeech/Miaoli/index.jsp",
+        "quote": "冠軍：獎金 30000 元，獎狀乙張"
+      },
+      {
+        "url": "https://www.linking368taiwan.org/englishspeech/Miaoli/index.jsp",
+        "quote": "亞軍：獎金 20000 元，獎狀乙張"
+      },
+      {
+        "url": "https://www.linking368taiwan.org/englishspeech/Miaoli/index.jsp",
+        "quote": "季軍：獎金 10000 元，獎狀乙張"
+      },
+      {
+        "url": "https://www.linking368taiwan.org/englishspeech/Miaoli/index.jsp",
+        "quote": "優選2名：獎金 5000 元 / 名，獎狀乙張"
+      },
+      {
+        "url": "https://www.linking368taiwan.org/englishspeech/Miaoli/index.jsp",
+        "quote": "優選獎金每名5000 元，獎狀乙張"
+      },
+      {
+        "url": "https://www.linking368taiwan.org/englishspeech/Miaoli/index.jsp",
+        "quote": "佳作獎金每名3000 元，獎狀乙張"
+      },
+      {
+        "url": "https://www.linking368taiwan.org/englishspeech/Miaoli/index.jsp",
+        "quote": "凡國小及國中組得獎者之指導教師每名(頒發)獎金2000元(限領一次)。"
+      },
+      {
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26769",
+        "quote": "針對完成參賽投稿 並符合資格之學生及指導教師核予獎勵金新臺幣（下同） 1,000元整（指導教師500元、參賽學生500元）"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27493/115%E5%AD%B8%E5%B9%B4%E5%BA%A6%E3%80%8C%E8%8B%97%E6%A0%97%E7%B8%A318%E9%84%89%E9%8E%AE%E5%B8%82%E8%8B%B1%E6%96%87%E6%BC%94%E8%AC%9B%E6%AF%94%E8%B3%BD%E3%80%8D%E5%AF%A6%E6%96%BD%E8%A8%88%E7%95%AB.pdf"
+      },
+      {
+        "url": "https://www.linking368taiwan.org/englishspeech/Miaoli/index.jsp"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://www.linking368taiwan.org/englishspeech/Miaoli/index.jsp",
+    "rules": [
+      {
+        "title": "115學年度「苗栗縣18鄉鎮市英文演講比賽」實施計畫（PDF）",
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27493/115%E5%AD%B8%E5%B9%B4%E5%BA%A6%E3%80%8C%E8%8B%97%E6%A0%97%E7%B8%A318%E9%84%89%E9%8E%AE%E5%B8%82%E8%8B%B1%E6%96%87%E6%BC%94%E8%AC%9B%E6%AF%94%E8%B3%BD%E3%80%8D%E5%AF%A6%E6%96%BD%E8%A8%88%E7%95%AB.pdf"
+      }
+    ],
+    "registration": "https://www.linking368taiwan.org/englishspeech/Miaoli/register.jsp"
+  },
+  "found_via": [
+    {
+      "name": "苗栗農工 處室公告",
+      "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26769"
+    },
+    {
+      "name": "苗栗高中 學生校外營隊、活動、比賽",
+      "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=27493"
+    },
+    {
+      "name": "獎金獵人 競賽平台",
+      "url": "https://bhuntr.com/tw/competitions/h99a7hpd6qs2tm2jn1"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-25",
+    "method": "dual",
+    "unread": [
+      "苗栗縣18鄉鎮市英文演講比賽獎勵計畫"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5",
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-25",
+  "conflict": "115學年度實施計畫（PDF）、苗栗縣政府新聞稿與苗栗農工公告寫初賽網路報名至115年11月30日，並排定115年12月1日至116年1月31日網路評選、116年2月1日公布決賽入選名單；比賽平台網頁則寫初賽報名與收件截止日期皆為2027年7月31日。"
+}

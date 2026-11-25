@@ -1,0 +1,216 @@
+{
+  "schema": 1,
+  "id": "2026-kaohsiung-programming",
+  "title": "高雄市115學年度中等學校電腦程式設計比賽",
+  "edition": "115 學年度",
+  "summary": "高雄市高中職與國中學生經學校推薦，到中正高工現場以程式解題競賽。",
+  "organizers": [
+    {
+      "name": "高雄市政府教育局",
+      "role": "主辦"
+    },
+    {
+      "name": "高雄市立中正高級工業職業學校",
+      "role": "承辦"
+    }
+  ],
+  "categories": [
+    "資訊與 AI"
+  ],
+  "eligibility": {
+    "levels": [
+      "國中",
+      "高中",
+      "高職"
+    ],
+    "division": "separate",
+    "regions": [
+      "高雄市"
+    ],
+    "nomination": "school",
+    "team_min": 1,
+    "team_max": 1,
+    "teacher": "required",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.k12ea.gov.tw/Tw/Common/Downloader?id=c3b4b85f-f0ff-49ff-8ecb-3b394928cc49",
+        "quote": "參加對象：本市公私立高級中學（含國立高級中學）、高級職業學校各年級學生。"
+      },
+      {
+        "url": "https://www.k12ea.gov.tw/Tw/Common/Downloader?id=c3b4b85f-f0ff-49ff-8ecb-3b394928cc49",
+        "quote": "參加對象：本市國民中學學生，其參賽題目將依據國中學習階段程度另訂"
+      },
+      {
+        "url": "https://www.k12ea.gov.tw/Tw/Common/Downloader?id=c3b4b85f-f0ff-49ff-8ecb-3b394928cc49",
+        "quote": "⼞高中組 ⼞高職組 ⼞國中組 ⼞觀摩組(非高雄市學校)"
+      },
+      {
+        "url": "https://www.k12ea.gov.tw/Tw/Common/Downloader?id=c3b4b85f-f0ff-49ff-8ecb-3b394928cc49",
+        "quote": "複賽學生人數以全校班級數計算，每7 班可推薦1 人，尾數可進位，最多推薦12 人，不足8 班學校可推薦1 人。"
+      },
+      {
+        "url": "https://www.k12ea.gov.tw/Tw/Common/Downloader?id=c3b4b85f-f0ff-49ff-8ecb-3b394928cc49",
+        "quote": "一、請務必填寫指導老師姓名，並附上相關資料。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "報名截止（學校核章報名）",
+      "date": "2026-10-23",
+      "time": "17:00",
+      "original": "115 年10 月23 日(星期五)下午5 時前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.k12ea.gov.tw/Tw/Common/Downloader?id=c3b4b85f-f0ff-49ff-8ecb-3b394928cc49",
+          "quote": "報名日期：請於115 年10 月23 日(星期五)下午5 時前，完成核章"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "高中職組複賽、國中組檢定",
+      "date": "2026-11-07",
+      "time": "08:00",
+      "original": "115 年11 月7 日(星期六)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.k12ea.gov.tw/Tw/Common/Downloader?id=c3b4b85f-f0ff-49ff-8ecb-3b394928cc49",
+          "quote": "複賽日期：115 年11 月7 日(星期六)（承辦學校有供應午餐）"
+        },
+        {
+          "url": "https://www.k12ea.gov.tw/Tw/Common/Downloader?id=c3b4b85f-f0ff-49ff-8ecb-3b394928cc49",
+          "quote": "檢定日期：115 年11 月7 日(星期六)（承辦學校有供應午餐）"
+        },
+        {
+          "url": "https://www.k12ea.gov.tw/Tw/Common/Downloader?id=c3b4b85f-f0ff-49ff-8ecb-3b394928cc49",
+          "quote": "08：00 ~ 08：30 報到、試機"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "成績公布",
+      "date": "2026-11-20",
+      "time": null,
+      "original": "115 年11 月20 日(星期五)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.k12ea.gov.tw/Tw/Common/Downloader?id=c3b4b85f-f0ff-49ff-8ecb-3b394928cc49",
+          "quote": "成績公布日期：115 年11 月20 日(星期五)公布於網站。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "初賽",
+      "what": "各校於 10 月 23 日前或自訂日期辦理初賽，選出推薦學生",
+      "how": "unknown"
+    },
+    {
+      "stage": "複賽",
+      "what": "3 小時線上讀題，以 C、C++、Python 等語言解題並上傳程式碼，依答對題數與總耗時評分",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "高雄市立中正高級工業職業學校忠孝大樓 5 樓資訊科實習工場",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.k12ea.gov.tw/Tw/Common/Downloader?id=c3b4b85f-f0ff-49ff-8ecb-3b394928cc49",
+        "quote": "複賽地點：高雄市立中正高級工業職業學校-忠孝大樓5 樓資訊科實習工場。"
+      },
+      {
+        "url": "https://www.k12ea.gov.tw/Tw/Common/Downloader?id=c3b4b85f-f0ff-49ff-8ecb-3b394928cc49",
+        "quote": "比賽方式為線上登入後，線上讀題，並將解題程式碼上傳。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.k12ea.gov.tw/Tw/Common/Downloader?id=c3b4b85f-f0ff-49ff-8ecb-3b394928cc49"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "高中職組複賽與國中組各取第一名 1 名獎金 2,000 元、第二名 2 名各 1,500 元、第三名 3 名各 1,000 元，皆附獎狀；佳作最多取報名人數的四分之一，頒獎狀。非高雄市政府教育局所屬學校成績優異者只頒優選獎狀及參賽證明。高中職組複賽並選拔優勝學生參加教育部舉辦之決賽。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.k12ea.gov.tw/Tw/Common/Downloader?id=c3b4b85f-f0ff-49ff-8ecb-3b394928cc49",
+        "quote": "第一名：1 名，每名獎金 2,000 元，獎狀乙紙。"
+      },
+      {
+        "url": "https://www.k12ea.gov.tw/Tw/Common/Downloader?id=c3b4b85f-f0ff-49ff-8ecb-3b394928cc49",
+        "quote": "第二名：2 名，每名獎金 1,500 元，獎狀乙紙。"
+      },
+      {
+        "url": "https://www.k12ea.gov.tw/Tw/Common/Downloader?id=c3b4b85f-f0ff-49ff-8ecb-3b394928cc49",
+        "quote": "第三名：3 名，每名獎金 1,000 元，獎狀乙紙。"
+      },
+      {
+        "url": "https://www.k12ea.gov.tw/Tw/Common/Downloader?id=c3b4b85f-f0ff-49ff-8ecb-3b394928cc49",
+        "quote": "佳作：最多取報名人數的四分之一，獎狀乙紙。"
+      },
+      {
+        "url": "https://www.k12ea.gov.tw/Tw/Common/Downloader?id=c3b4b85f-f0ff-49ff-8ecb-3b394928cc49",
+        "quote": "高職暨國中電腦程式設計比賽非高雄市政府教育局所屬之學校，成績優異者僅頒發優選獎狀及參賽證明。"
+      },
+      {
+        "url": "https://www.k12ea.gov.tw/Tw/Common/Downloader?id=c3b4b85f-f0ff-49ff-8ecb-3b394928cc49",
+        "quote": "選拔優勝學生參加教育部舉辦之決賽"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.k12ea.gov.tw/Tw/Common/Downloader?id=c3b4b85f-f0ff-49ff-8ecb-3b394928cc49"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://www.ccvs.kh.edu.tw/p/404-1000-19925.php",
+    "rules": [
+      {
+        "title": "高雄市115學年度中等學校電腦程式設計比賽簡章（PDF）",
+        "url": "https://www.k12ea.gov.tw/Tw/Common/Downloader?id=c3b4b85f-f0ff-49ff-8ecb-3b394928cc49"
+      }
+    ],
+    "registration": "https://twgo.io/ccvs5"
+  },
+  "found_via": [
+    {
+      "name": "教育部國民及學前教育署 公文公告平台",
+      "url": "https://www.k12ea.gov.tw/Tw/Annc/Detail?filter=AC097895-3399-4890-8891-FC005A77CCB3&id=cd82e1f8-a93c-4a01-8c82-8741955d0870"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-25",
+    "method": "single",
+    "unread": [],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-25",
+  "level": "checked",
+  "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-kaohsiung-programming/",
+  "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-kaohsiung-programming.md"
+}

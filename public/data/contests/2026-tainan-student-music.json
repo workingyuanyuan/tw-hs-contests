@@ -1,0 +1,519 @@
+{
+  "schema": 1,
+  "id": "2026-tainan-student-music",
+  "title": "臺南市115學年度學生音樂比賽",
+  "edition": "115 學年度",
+  "summary": "臺南市國小至大專學生以個人或團體參加器樂、合唱及樂曲創作比賽，爭取全國賽代表權。",
+  "organizers": [
+    {
+      "name": "臺南市政府",
+      "role": "指導"
+    },
+    {
+      "name": "臺南市政府教育局",
+      "role": "主辦"
+    },
+    {
+      "name": "新化國小",
+      "role": "承辦"
+    },
+    {
+      "name": "永信國小",
+      "role": "承辦"
+    },
+    {
+      "name": "海東國小",
+      "role": "承辦"
+    },
+    {
+      "name": "省躬國小",
+      "role": "承辦"
+    },
+    {
+      "name": "新進國小",
+      "role": "承辦"
+    },
+    {
+      "name": "正新國小",
+      "role": "承辦"
+    },
+    {
+      "name": "長安國小",
+      "role": "承辦"
+    },
+    {
+      "name": "南新國中",
+      "role": "承辦"
+    },
+    {
+      "name": "新化國中",
+      "role": "承辦"
+    },
+    {
+      "name": "樹人國小",
+      "role": "承辦"
+    },
+    {
+      "name": "歸南國小",
+      "role": "承辦"
+    },
+    {
+      "name": "內角國小",
+      "role": "承辦"
+    },
+    {
+      "name": "新嘉國小",
+      "role": "承辦"
+    },
+    {
+      "name": "坔頭港國小",
+      "role": "承辦"
+    },
+    {
+      "name": "台南應用科技大學",
+      "role": "協辦"
+    },
+    {
+      "name": "新營文化中心",
+      "role": "協辦"
+    },
+    {
+      "name": "台江文化中心",
+      "role": "協辦"
+    },
+    {
+      "name": "新化演藝廳",
+      "role": "協辦"
+    }
+  ],
+  "categories": [
+    "音樂"
+  ],
+  "eligibility": {
+    "levels": [
+      "國小",
+      "國中",
+      "高中",
+      "高職",
+      "五專",
+      "大專"
+    ],
+    "division": "separate",
+    "regions": [
+      "臺南市"
+    ],
+    "nomination": "school",
+    "team_min": 1,
+    "team_max": 150,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/臺南市115學年度學生音樂比賽實施計畫修正.pdf",
+        "quote": "1. 經政府立案公、私立高中職之學生"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/臺南市115學年度學生音樂比賽實施計畫修正.pdf",
+        "quote": "4. 經政府立案五專一、二、三年級之學生"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/臺南市115學年度學生音樂比賽實施計畫修正.pdf",
+        "quote": "1. 經政府立案公、私立大專院校之學生及研究生"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/臺南市115學年度學生音樂比賽實施計畫修正.pdf",
+        "quote": "各學程之 A 組為就讀音樂班、科、系、所者，Ｂ組為就讀非音樂班、科、系、所者。"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/臺南市115學年度學生音樂比賽實施計畫修正.pdf",
+        "quote": "報名高中職組及大專組之學生應憑學生證逕向校籍所在地之初賽主辦單位報名。"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/臺南市115學年度學生音樂比賽實施計畫修正.pdf",
+        "quote": "不接受個人報名，團體項目及個人項目一律由各校負責審核校內報名資料，並負報名之責。"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/臺南市115學年度學生音樂比賽實施計畫修正.pdf",
+        "quote": "隊伍之參賽學生人數及學生身分之指揮，上限為 150 人。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "網路報名截止（團體與個人）",
+      "date": "2026-09-22",
+      "time": "17:00",
+      "original": "自115年9月9日(星期三)8時起至9月22日(星期二)17時止。",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/臺南市115學年度學生音樂比賽實施計畫修正.pdf",
+          "quote": "自115年9月9日(星期三)8時起至9月22日(星期二)17時止。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "個人賽指定曲抽籤",
+      "date": "2026-09-22",
+      "time": "09:00",
+      "original": "115年9月22日上午9時",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/臺南市115學年度學生音樂比賽實施計畫修正.pdf",
+          "quote": "訂於115年9月22日上午9時假永華市政中心4樓會議室舉行"
+        }
+      ]
+    },
+    {
+      "kind": "registration_deadline",
+      "label": "學校寄送書面報名表與報名統計總表截止（郵戳為憑）",
+      "date": "2026-09-24",
+      "time": null,
+      "original": "115年9月24日(星期四)前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/臺南市115學年度學生音樂比賽實施計畫修正.pdf",
+          "quote": "於115年9月24日(星期四)前將報名表及報名統計"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "公告賽程",
+      "date": "2026-09-29",
+      "time": null,
+      "original": "115.9.29(星期二)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/臺南市115學年度學生音樂比賽實施計畫修正.pdf",
+          "quote": "115.9.29(星期二)"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "來函申請調整出場序截止",
+      "date": "2026-10-08",
+      "time": null,
+      "original": "115年10月8日(星期四)前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/臺南市115學年度學生音樂比賽實施計畫修正.pdf",
+          "quote": "請務於115年10月8日(星期四)前函文至局說明原由"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "領隊會議（抽出場序）",
+      "date": "2026-10-13",
+      "time": "09:00",
+      "original": "115年10月13日(星期二)上午9時",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/臺南市115學年度學生音樂比賽實施計畫修正.pdf",
+          "quote": "115年10月13日(星期二)上午9時假新化區新化國小(新化區中山路173號)舉行"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "長笛、琵琶、柳葉琴、阮咸獨奏比賽（至10月30日）",
+      "date": "2026-10-27",
+      "time": null,
+      "original": "115年10月27日（星期二）至10月30日（星期五）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/臺南市115學年度學生音樂比賽實施計畫修正.pdf",
+          "quote": "115年10月27日（星期二）至10月30日（星期五）假台南應用科技大學乃建堂舉行。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "銅管獨奏、單簧管獨奏、銅管五重奏、木管五重奏比賽（至11月6日）",
+      "date": "2026-11-03",
+      "time": null,
+      "original": "115年11月3日（星期二）至11月06日（星期五）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/臺南市115學年度學生音樂比賽實施計畫修正.pdf",
+          "quote": "115年11月3日（星期二）至11月06日（星期五）假台南應用科技大學乃建堂舉行。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "直笛、木琴、薩克斯風獨奏、鋼琴三重奏、鋼琴五重奏、樂曲創作或歌曲創作比賽（至11月13日）",
+      "date": "2026-11-10",
+      "time": null,
+      "original": "115年11月10日（星期二）至115年11月13日（星期五）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/臺南市115學年度學生音樂比賽實施計畫修正.pdf",
+          "quote": "115年11月10日（星期二）至115年11月13日（星期五）假新化演藝廳舉行。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "弦樂合奏、弦樂四重奏、直笛合奏比賽（至11月13日）",
+      "date": "2026-11-10",
+      "time": null,
+      "original": "115年11月10日（星期二）至115年11月13日（星期五）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/臺南市115學年度學生音樂比賽實施計畫修正.pdf",
+          "quote": "115年11月10日（星期二）至115年11月13日（星期五）假新營文化中心舉行。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "行進管樂比賽",
+      "date": "2026-11-13",
+      "time": null,
+      "original": "115年11月13日（星期五）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/臺南市115學年度學生音樂比賽實施計畫修正.pdf",
+          "quote": "115年11月13日（星期五）假新化區新化國小舉行。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "揚琴、箏、雙簧管、低音管獨奏比賽（至11月19日）",
+      "date": "2026-11-16",
+      "time": null,
+      "original": "115年11月16日（星期一）至11月19日（星期四）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/臺南市115學年度學生音樂比賽實施計畫修正.pdf",
+          "quote": "115年11月16日（星期一）至11月19日（星期四）假新化演藝廳舉行。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "口琴獨奏、口琴合奏、口琴四重奏、合唱、本土語及新住民語歌謠比賽（至11月20日）",
+      "date": "2026-11-17",
+      "time": null,
+      "original": "115年11月17日（星期二）至11月20日（星期五）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/臺南市115學年度學生音樂比賽實施計畫修正.pdf",
+          "quote": "115年11月17日（星期二）至11月20日（星期五）假新營區新營文化中心舉行。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "國樂合奏、絲竹室內樂合奏比賽（至11月27日）",
+      "date": "2026-11-26",
+      "time": null,
+      "original": "115年11月26日（星期四）至11月27日（星期五）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/臺南市115學年度學生音樂比賽實施計畫修正.pdf",
+          "quote": "115年11月26日（星期四）至11月27日（星期五）假安南區台江文化中心舉行。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "管弦樂合奏、管樂合奏、兒童樂團、打擊樂合奏比賽（至12月4日）",
+      "date": "2026-12-01",
+      "time": null,
+      "original": "113年12月1日（星期二）至12月4日（星期五）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/臺南市115學年度學生音樂比賽實施計畫修正.pdf",
+          "quote": "113年12月1日（星期二）至12月4日（星期五）假安南區台江文化中心舉行。"
+        },
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/臺南市115學年度學生音樂比賽實施計畫修正.pdf",
+          "quote": "115.12.04(星期五)"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "代表本市參加全國賽者網路報名及書面報名表寄送截止",
+      "date": "2026-12-11",
+      "time": "17:00",
+      "original": "115年11月20日9時起至115年12月11日17時止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/臺南市115學年度學生音樂比賽實施計畫修正.pdf",
+          "quote": "11月20日9時起至115年12月11日17時止，逕上國立臺灣藝術教育館"
+        },
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/臺南市115學年度學生音樂比賽實施計畫修正.pdf",
+          "quote": "另1份於115年12月11日前逕寄至"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "全國賽代表權遞補書面申請截止（郵戳為憑）",
+      "date": "2026-12-14",
+      "time": null,
+      "original": "12月14日前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/臺南市115學年度學生音樂比賽實施計畫修正.pdf",
+          "quote": "請於12月14日前(以郵戳為憑)書面申請遞補"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名",
+      "what": "網路報名，填報參賽類組、自選曲及指導、指揮、伴奏資料",
+      "how": "online"
+    },
+    {
+      "stage": "報名",
+      "what": "蓋學校大印的書面報名表（個人項目附在學證明），由學校統一郵寄",
+      "how": "mail"
+    },
+    {
+      "stage": "比賽",
+      "what": "現場演出指定曲及自選曲各 1 曲；個人項目一律背譜，團體項目限時 20 分鐘、個人項目 10 分鐘內",
+      "how": "onsite"
+    },
+    {
+      "stage": "比賽（樂曲創作或歌曲創作）",
+      "what": "依現場公布主題臨場寫譜創作，限時 3 小時 30 分鐘",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "台南應用科技大學乃建堂、新化演藝廳、新營文化中心、新化國小、台江文化中心",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/臺南市115學年度學生音樂比賽實施計畫修正.pdf",
+        "quote": "參賽者應於司儀唱名時立即進入舞臺開始表演"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/臺南市115學年度學生音樂比賽實施計畫修正.pdf",
+        "quote": "115年10月27日（星期二）至10月30日（星期五）假台南應用科技大學乃建堂舉行。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.tngs.tn.edu.tw/2026/09/04/%e7%ab%b6%e8%b3%bd%e3%80%8c%e8%87%ba%e5%8d%97%e5%b8%82115%e5%ad%b8%e5%b9%b4%e5%ba%a6%e5%ad%b8%e7%94%9f%e9%9f%b3%e6%a8%82%e6%af%94%e8%b3%bd%e5%af%a6%e6%96%bd%e8%a8%88%e7%95%ab%e3%80%8d%e5%85%ac/"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/臺南市115學年度學生音樂比賽實施計畫修正.pdf"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "團體項目依平均分數評等：特優 89 分以上、優等 85 至未滿 89 分、甲等 80 至未滿 85 分；個人項目另依報名人數評列 1 至 6 名。甲等以上頒發獎狀；各類組最高分 2 隊（人）且平均達 80 分者代表臺南市參加全國學生音樂比賽。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/臺南市115學年度學生音樂比賽實施計畫修正.pdf",
+        "quote": "(一) 特優：平均分數89分(含)以上者。"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/臺南市115學年度學生音樂比賽實施計畫修正.pdf",
+        "quote": "(二) 優等：平均分數85分(含)以上未滿89分者。"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/臺南市115學年度學生音樂比賽實施計畫修正.pdf",
+        "quote": "(三) 甲等：平均分數在80分(含)以上未滿85分者。"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/臺南市115學年度學生音樂比賽實施計畫修正.pdf",
+        "quote": "報名人數在5人以下者取1名評列名次；6至8人者取2名；9至"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/臺南市115學年度學生音樂比賽實施計畫修正.pdf",
+        "quote": "參賽參賽獲評甲等(含)以上之學校及學生均頒發獎狀乙幀"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/臺南市115學年度學生音樂比賽實施計畫修正.pdf",
+        "quote": "參加本市團體賽及個人賽各類組競賽榮獲最高分數之2隊(個人)，代表本市參加115"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/臺南市115學年度學生音樂比賽實施計畫修正.pdf",
+        "quote": "但總平均分數未達80分者，一律從缺，不予參加全國賽。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.tngs.tn.edu.tw/2026/09/04/%e7%ab%b6%e8%b3%bd%e3%80%8c%e8%87%ba%e5%8d%97%e5%b8%82115%e5%ad%b8%e5%b9%b4%e5%ba%a6%e5%ad%b8%e7%94%9f%e9%9f%b3%e6%a8%82%e6%af%94%e8%b3%bd%e5%af%a6%e6%96%bd%e8%a8%88%e7%95%ab%e3%80%8d%e5%85%ac/"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/臺南市115學年度學生音樂比賽實施計畫修正.pdf"
+      }
+    ]
+  },
+  "links": {
+    "official": "http://music.tn.edu.tw/",
+    "rules": [
+      {
+        "title": "臺南市115學年度學生音樂比賽實施計畫（修正）",
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/臺南市115學年度學生音樂比賽實施計畫修正.pdf"
+      }
+    ],
+    "registration": "http://music.tn.edu.tw/"
+  },
+  "found_via": [
+    {
+      "name": "臺南女中 學生競賽",
+      "url": "https://www.tngs.tn.edu.tw/2026/09/04/%e7%ab%b6%e8%b3%bd%e3%80%8c%e8%87%ba%e5%8d%97%e5%b8%82115%e5%ad%b8%e5%b9%b4%e5%ba%a6%e5%ad%b8%e7%94%9f%e9%9f%b3%e6%a8%82%e6%af%94%e8%b3%bd%e5%af%a6%e6%96%bd%e8%a8%88%e7%95%ab%e3%80%8d%e5%85%ac/"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-25",
+    "method": "single",
+    "unread": [
+      "115學年度全國學生音樂比賽實施要點",
+      "115學年度全國學生音樂比賽指定曲目"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-25",
+  "conflict": "實施計畫第捌點第九項把管弦樂合奏、管樂合奏、兒童樂團、打擊樂合奏的比賽日期寫為113年12月1日至12月4日，同一計畫附件1的期程表則寫比賽期間為115.10.27至115.12.04。",
+  "level": "checked",
+  "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-tainan-student-music/",
+  "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-tainan-student-music.md"
+}

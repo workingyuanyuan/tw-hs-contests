@@ -1,0 +1,290 @@
+{
+  "schema": 1,
+  "id": "2026-iifme-kuwait",
+  "title": "2027科威特第17屆中東國際發明展IIFME",
+  "edition": "第 17 屆",
+  "summary": "發明人以已取得或申請中專利的發明作品報名，在科威特中東國際發明展展出並接受國際裁判評審。",
+  "organizers": [
+    {
+      "name": "科威特科學俱樂部（Kuwait Science Club, KSC）",
+      "role": "主辦"
+    },
+    {
+      "name": "中華台北著作權人協會",
+      "role": "主辦"
+    },
+    {
+      "name": "台灣發明協會",
+      "role": "主辦"
+    },
+    {
+      "name": "正麗旅行社有限公司",
+      "role": "協辦"
+    }
+  ],
+  "categories": [
+    "工程與製造"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "社會人士"
+    ],
+    "division": "mixed",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": null,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.ntsh.ntct.edu.tw/ischool/public/news_view/show.php?nid=22999",
+        "quote": "主旨：敬邀 貴校參加「2027科威特第17屆中東國際發明展 IIFME」，請協助轉知師生踴躍報名參加。"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文附件_0010004A00_ATTCH1.pdf",
+        "quote": "協會旨期帶領台灣代表團企業、青年、青少年們參展宣揚國內科技"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文附件_0010004A00_ATTCH2.docx",
+        "quote": "※此二欄為若得獎，獎狀上的得獎者姓名，一位以上之發明人，請一律填寫於此；獎狀上的公司/學校名稱，一間以上的名稱，請一律填寫於此。"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文附件_0010004A00_ATTCH2.docx",
+        "quote": "參展類別表 (請選一類)"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "other",
+      "label": "隨團參展者向旅行社報名並預付訂金截止",
+      "date": "2026-10-20",
+      "time": null,
+      "original": "10 月 20 日前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文附件_0010004A00_ATTCH4.pdf",
+          "quote": "1. ※10 月 20 日前報名及預付訂金,以確認機位及飯店。"
+        }
+      ]
+    },
+    {
+      "kind": "registration_deadline",
+      "label": "報名及繳交參展資料、參展費截止",
+      "date": "2026-11-20",
+      "time": null,
+      "original": "2026年11月20日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.ntsh.ntct.edu.tw/ischool/public/news_view/show.php?nid=22999",
+          "quote": "三、即日起報名至2026年11月20日截止。"
+        },
+        {
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文附件_0010004A00_ATTCH1.pdf",
+          "quote": "‧ 參展資料請連同全額參展費於報名截止日前繳交至本會，以完成報名手續。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "中東國際發明展展出（至 2 月 3 日）",
+      "date": "2027-01-31",
+      "time": null,
+      "original": "2027年1月31日~2月3日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.ntsh.ntct.edu.tw/ischool/public/news_view/show.php?nid=22999",
+          "quote": "二、參展日期、地點：2027年1月31日~2月3日，AR-Raya Conference Hall, Courtyard by Marriott-Kuwait City。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "發明作品評審",
+      "date": "2027-02-01",
+      "time": "17:00",
+      "original": "02/01【一】 17:00-21:00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文附件_0010004A00_ATTCH4.pdf",
+          "quote": "02/01【一】"
+        },
+        {
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文附件_0010004A00_ATTCH4.pdf",
+          "quote": "*17:00-21:00 公平晚間會議-發明評估"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "頒獎典禮",
+      "date": "2027-02-03",
+      "time": "19:00",
+      "original": "02/03【三】 19:00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文附件_0010004A00_ATTCH4.pdf",
+          "quote": "02/03【三】"
+        },
+        {
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文附件_0010004A00_ATTCH4.pdf",
+          "quote": "*19:00 頒獎典禮"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名",
+      "what": "電子檔參展資料：報名表、切結書、專利證書影本或專利申請中字號、身分證與護照影本、個人照片、作品照片",
+      "how": "online"
+    },
+    {
+      "stage": "展出（親自參展）",
+      "what": "在科威特展場攤位展出參展品",
+      "how": "onsite"
+    },
+    {
+      "stage": "展出（代展）",
+      "what": "3 分鐘內作品影片，上傳 YouTube 後提供網址",
+      "how": "online"
+    }
+  ],
+  "attendance": {
+    "value": "none",
+    "where": null,
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文附件_0010004A00_ATTCH2.docx",
+        "quote": "是否親展\n□是，共 人。 □否。"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文附件_0010004A00_ATTCH1.pdf",
+        "quote": "○1 代展費用每件台幣10,000 元。"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文附件_0010004A00_ATTCH1.pdf",
+        "quote": "(代展作品需提供3 分鐘內影片，請上傳YouTube 後提供網址。)"
+      }
+    ]
+  },
+  "fee": {
+    "value": "required",
+    "amount": "每件作品新台幣 55,000 元（含報名費及一件作品攤位費）；代展每件 10,000 元、海報每件 1,000 元；旅團約 10 萬元另計",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文附件_0010004A00_ATTCH1.pdf",
+        "quote": "1. 每件作品 台幣55,000 元(含報名費及一件作品攤位費)"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文附件_0010004A00_ATTCH1.pdf",
+        "quote": "○1 代展費用每件台幣10,000 元。"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文附件_0010004A00_ATTCH1.pdf",
+        "quote": "○2 參展品之海報費用每件台幣1,000 元。"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文附件_0010004A00_ATTCH1.pdf",
+        "quote": "2. 個人旅費：旅團約10 萬。機票採浮動價格，限團進團出，並由協會旅行社統一辦理。"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "本屆頒發超過六萬美元獎金，由科威特國王皇室組織授予獎牌與獎金；得獎者獲獎狀。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文附件_0010004A00_ATTCH1.pdf",
+        "quote": "本屆更將頒發超過六萬美元之獎金，"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文附件_0010004A00_ATTCH1.pdf",
+        "quote": "並由科威特國王皇室組織授予獎牌與獎金。"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文附件_0010004A00_ATTCH2.docx",
+        "quote": "※此二欄為若得獎，獎狀上的得獎者姓名"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.ntsh.ntct.edu.tw/ischool/public/news_view/show.php?nid=22999"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文附件_0010004A00_ATTCH1.pdf"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文附件_0010004A00_ATTCH2.docx"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文附件_0010004A00_ATTCH3.pdf"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文附件_0010004A00_ATTCH4.pdf"
+      }
+    ]
+  },
+  "links": {
+    "official": null,
+    "rules": [
+      {
+        "title": "邀請函與參展辦法",
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文附件_0010004A00_ATTCH1.pdf"
+      },
+      {
+        "title": "攤位報名表",
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文附件_0010004A00_ATTCH2.docx"
+      },
+      {
+        "title": "切結書",
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文附件_0010004A00_ATTCH3.pdf"
+      },
+      {
+        "title": "參展團行程及報價",
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/來文附件_0010004A00_ATTCH4.pdf"
+      }
+    ],
+    "registration": null
+  },
+  "found_via": [
+    {
+      "name": "高師大附中 校外競賽與活動",
+      "url": "https://www.nknush.kh.edu.tw/announcement/high-school-news/20975/%e5%85%ac%e5%91%8a2027%e7%a7%91%e5%a8%81%e7%89%b9%e7%ac%ac17%e5%b1%86%e4%b8%ad%e6%9d%b1%e5%9c%8b%e9%9a%9b%e7%99%bc%e6%98%8e%e5%b1%95iifme%e8%a8%ad%e5%82%99%e7%b5%84/"
+    },
+    {
+      "name": "南投高中 最新消息",
+      "url": "https://www.ntsh.ntct.edu.tw/ischool/public/news_view/show.php?nid=22999"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-25",
+    "method": "single",
+    "unread": [],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-25",
+  "conflict": "〈參展團行程及報價〉的報價單與信用卡傳真刷卡單把團名寫成「第十六屆」「第 16 屆」，〈參展辦法〉、邀請函與同一文件的行程表寫第十七屆。",
+  "level": "checked",
+  "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-iifme-kuwait/",
+  "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-iifme-kuwait.md"
+}

@@ -1259,15 +1259,505 @@
    ],
    "merged": [],
    "set_aside": []
+  },
+  {
+   "tasks": [
+    {
+     "task": "c0250-1",
+     "result": "skipped: 此競賽為教育部地理學科中心辦理之素養導向評量命題競賽，參加對象為全國高中(職)地理教師（含代理、兼課和實習教師），學生不得參加，屬僅限教師之競賽。"
+    },
+    {
+     "task": "c0253-1",
+     "result": "done: 2026-youth-health-advocacy (checked)"
+    },
+    {
+     "task": "c0256-1",
+     "result": "done: 2027-iol-taiwan-selection (checked)"
+    },
+    {
+     "task": "c0260-1",
+     "result": "skipped: 電競大賽：戰隊以電玩遊戲對戰、由比賽勝負決定名次，屬電競賽，不在收錄範圍。"
+    },
+    {
+     "task": "c0263-1",
+     "result": "done: 2026-changhua-rotary-english-speech (checked)"
+    },
+    {
+     "task": "c0268-1",
+     "result": "done: 2026-thu-smart-sustainability (checked)"
+    },
+    {
+     "task": "c0273-1",
+     "result": "asks for 2 more documents"
+    },
+    {
+     "task": "c0274-1",
+     "result": "done: 2026-tw-biology-olympiad (checked)"
+    },
+    {
+     "task": "c0275-1",
+     "result": "skipped: 這是電競大賽：戰隊以電玩遊戲對戰，由比賽決定名次，屬目錄不收的電競賽。"
+    },
+    {
+     "task": "c0276-1",
+     "result": "skipped: 申請須知與報名表皆規定參賽成員須為大專校院在學學生或社會人士，高中職學生不得參賽。"
+    },
+    {
+     "task": "c0277-1",
+     "result": "asks for 2 more documents"
+    },
+    {
+     "task": "c0278-1",
+     "result": "asks for 5 more documents"
+    },
+    {
+     "task": "c0279-1",
+     "result": "done: 2026-ntnu-biped-robot (checked)"
+    },
+    {
+     "task": "c0281-1",
+     "result": "done: 2026-cust-innovation-entrepreneurship (checked)"
+    },
+    {
+     "task": "c0282-1",
+     "result": "done: 2026-chihlee-xinchuang-cup (checked)"
+    },
+    {
+     "task": "c0283-1",
+     "result": "asks for 1 more documents"
+    },
+    {
+     "task": "c0284-1",
+     "result": "done: 2026-kinmen-student-music-prelim (checked)"
+    },
+    {
+     "task": "c0285-1",
+     "result": "done: 2026-hsinchu-city-student-music (checked)"
+    },
+    {
+     "task": "c0286-1",
+     "result": "done: 2026-tainan-student-music (checked)"
+    },
+    {
+     "task": "c0287-1",
+     "result": "asks for 5 more documents"
+    },
+    {
+     "task": "c0288-1",
+     "result": "done: 2026-national-student-music (checked)"
+    },
+    {
+     "task": "c0289-1",
+     "result": "done: 2027-miaoli-18-township-english-speech (checked)"
+    },
+    {
+     "task": "c0290-1",
+     "result": "asks for 2 more documents"
+    },
+    {
+     "task": "c0291-1",
+     "result": "asks for 5 more documents"
+    },
+    {
+     "task": "c0292-1",
+     "result": "done: 2026-cute-ai-cross-domain (checked)"
+    },
+    {
+     "task": "c0293-1",
+     "result": "asks for 2 more documents"
+    },
+    {
+     "task": "c0294-1",
+     "result": "asks for 5 more documents"
+    },
+    {
+     "task": "c0295-1",
+     "result": "asks for 2 more documents"
+    },
+    {
+     "task": "c0296-1",
+     "result": "asks for 2 more documents"
+    },
+    {
+     "task": "c0297-1",
+     "result": "done: 2026-vnu-tianchu-cup-airline-cuisine (checked)"
+    },
+    {
+     "task": "c0248-2",
+     "result": "asks for 1 more documents"
+    },
+    {
+     "task": "c0270-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0188-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0247-s",
+     "result": "1 kept, 3 dropped (https://innoaward.taiwan-healthcare.org/news_detail.php?REFDOCTYPID=0rhgrh6y6rr0lkfw&REFDOCID=0rhise)"
+    },
+    {
+     "task": "c0252-s",
+     "result": "3 kept, 0 dropped"
+    },
+    {
+     "task": "c0258-s",
+     "result": "2 kept, 2 dropped (https://boyauc.github.io/gailearn-competition/secondary/: does not name the contest)"
+    },
+    {
+     "task": "c0265-s",
+     "result": "2 kept, 1 dropped (https://www.ecolympiad.tw/zh-tw/registration: does not name the contest)"
+    },
+    {
+     "task": "c0271-s",
+     "result": "0 kept, 2 dropped (https://xy-comic.ntbsa.gov.tw/: does not name the contest)"
+    }
+   ],
+   "merged": [],
+   "set_aside": []
+  },
+  {
+   "tasks": [
+    {
+     "task": "c0247-1",
+     "result": "asks for 2 more documents"
+    },
+    {
+     "task": "c0252-1",
+     "result": "done: 2026-taipei-drone (checked)"
+    },
+    {
+     "task": "c0258-1",
+     "result": "done: 2026-moe-ai-learning-handbook (checked)"
+    },
+    {
+     "task": "c0265-1",
+     "result": "done: 2026-economics-olympiad-school-round (unverified)"
+    },
+    {
+     "task": "c0273-1",
+     "result": "done: 2026-asus-rog-pc-diy (checked)"
+    },
+    {
+     "task": "c0277-1",
+     "result": "skipped: 所給文件是高師大附中招募一名高二女學生、與該校種子選手及日本夥伴學生組隊參加 2026 ASEP 大會的校內甄選（書面審查，額滿則面試），僅限該校學生報名；大會"
+    },
+    {
+     "task": "c0278-1",
+     "result": "skipped: 國立臺中教育大學「高中職學校學生自主學習成果分享展-聚光時刻」是成果分享展覽：簡章只規定繳交海報到場展出，回饋為每位組員一份教授回饋意見表及輸出海報，沒有評審、"
+    },
+    {
+     "task": "c0283-1",
+     "result": "done: 2026-kaohsiung-programming (checked)"
+    },
+    {
+     "task": "c0287-1",
+     "result": "done: 2026-miaoli-student-art-prelim (checked)"
+    },
+    {
+     "task": "c0290-1",
+     "result": "done: 2026-gailearn-ai-handbook (unverified), to be searched"
+    },
+    {
+     "task": "c0291-1",
+     "result": "done: 2026-wzu-interpreting (checked)"
+    },
+    {
+     "task": "c0293-1",
+     "result": "done: 2026-paochung-cup-spicy-cuisine (checked)"
+    },
+    {
+     "task": "c0294-1",
+     "result": "done: 2026-nptu-hs-project (checked)"
+    },
+    {
+     "task": "c0295-1",
+     "result": "done: 2026-tpcu-english-dubbing (checked)"
+    },
+    {
+     "task": "c0296-1",
+     "result": "done: 2026-tpcu-japanese-dubbing (checked)"
+    },
+    {
+     "task": "c0298-1",
+     "result": "done: 2026-mwbit (checked)"
+    },
+    {
+     "task": "c0299-1",
+     "result": "done: 2026-iifme-kuwait (checked)"
+    },
+    {
+     "task": "c0300-1",
+     "result": "asks for 2 more documents"
+    },
+    {
+     "task": "c0301-1",
+     "result": "done: 2026-nptu-hs-project (checked)"
+    },
+    {
+     "task": "c0302-1",
+     "result": "skipped: 此為表彰教師及教育行政主管的永續教育人物獎，參選資格限現任教育機構之教師或教育工作者，高中職學生不得參加，不屬本目錄收錄的學生競賽。"
+    },
+    {
+     "task": "c0303-1",
+     "result": "skipped: 這是電競賽：參賽隊伍在 PaGamO 線上遊戲平台以族語答題佔地與挑戰任務，由遊戲對戰結果決定名次，屬目錄不收的電競比賽。"
+    },
+    {
+     "task": "c0305-1",
+     "result": "done: 2026-tpcu-japanese-dubbing (checked)"
+    },
+    {
+     "task": "c0306-1",
+     "result": "done: 2026-tpcu-english-dubbing (checked)"
+    },
+    {
+     "task": "c0307-1",
+     "result": "done: 2026-cyut-kuso-english-dubbing (checked)"
+    },
+    {
+     "task": "c0308-1",
+     "result": "done: 2026-ocu-stock-plus (checked)"
+    },
+    {
+     "task": "c0309-1",
+     "result": "done: 2026-ykkap-street-dance (checked)"
+    },
+    {
+     "task": "c0310-1",
+     "result": "asks for 2 more documents"
+    },
+    {
+     "task": "c0311-1",
+     "result": "done: 2026-hochi-calligraphy (checked)"
+    },
+    {
+     "task": "c0312-1",
+     "result": "skipped: 文件中沒有描述此活動的內容：學校公告頁只有標題「屏東縣補習教育暨品保協會「115年育苗專案」」，沒有內文或附件，其餘兩頁為家長同意書與內部控制聲明書，無法判斷是"
+    },
+    {
+     "task": "c0313-1",
+     "result": "skipped: 「115年度生涯影展」是國教署生涯輔導資源中心辦理的線上觀影活動，附帶的「寫心得抽好禮活動」以電腦隨機抽獎發放獎品，心得不經評審、不評名次，不是競賽。"
+    },
+    {
+     "task": "c0248-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0288-2",
+     "result": "second reading: single"
+    },
+    {
+     "task": "c0256-2",
+     "result": "asks for 6 more documents"
+    },
+    {
+     "task": "c0289-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0271-2",
+     "result": "second reading: dual"
+    }
+   ],
+   "merged": [],
+   "set_aside": []
+  },
+  {
+   "tasks": [
+    {
+     "task": "c0247-1",
+     "result": "done: 2026-taiwan-healthcare-hs-contest (checked)"
+    },
+    {
+     "task": "c0300-1",
+     "result": "done: 2026-bangkok-intl-invention-fair (checked)"
+    },
+    {
+     "task": "c0310-1",
+     "result": "done: 2026-taoyuan-mayor-cup-abacus-math (checked)"
+    },
+    {
+     "task": "c0314-1",
+     "result": "asks for 4 more documents"
+    },
+    {
+     "task": "c0315-1",
+     "result": "asks for 4 more documents"
+    },
+    {
+     "task": "c0316-1",
+     "result": "done: 2027-cyut-ae-short-film (checked)"
+    },
+    {
+     "task": "c0317-1",
+     "result": "done: 2026-ksu-low-carbon-tour (checked)"
+    },
+    {
+     "task": "c0318-1",
+     "result": "done: 2026-vnu-mkt-cup (checked)"
+    },
+    {
+     "task": "c0319-1",
+     "result": "asks for 3 more documents"
+    },
+    {
+     "task": "c0320-1",
+     "result": "done: 2027-k12-tobacco-betel-video (checked)"
+    },
+    {
+     "task": "c0321-1",
+     "result": "done: 2026-daming-cup-art (checked)"
+    },
+    {
+     "task": "c0322-1",
+     "result": "done: 2027-national-skills-competition (unverified), to be searched"
+    },
+    {
+     "task": "c0323-1",
+     "result": "done: 2026-taipei-youth-policy-proposal (checked)"
+    },
+    {
+     "task": "c0324-1",
+     "result": "done: 2026-jinzhuan-calligraphy (checked)"
+    },
+    {
+     "task": "c0325-1",
+     "result": "skipped: 這是國立政治大學提供學士班特殊選才及申請入學錄取新生的入學獎學金計畫，經審查委員會審核發給獎學金，並非評審作品並給予名次或獎項的競賽。"
+    },
+    {
+     "task": "c0327-1",
+     "result": "skipped: 新竹市政府115年臺灣女孩日系列活動，內容為造船廠參訪、淨灘與海岸走讀三場活動，沒有評審、名次或獎項，不是競賽。"
+    },
+    {
+     "task": "c0328-1",
+     "result": "asks for 1 more documents"
+    },
+    {
+     "task": "c0329-1",
+     "result": "done: 2027-ntpc-ai-p-literacy-challenge (checked)"
+    },
+    {
+     "task": "c0330-1",
+     "result": "done: 2026-vnu-cosmetics-formulation (unverified), to be searched"
+    },
+    {
+     "task": "c0331-1",
+     "result": "done: 2026-npust-combination-planting (checked)"
+    },
+    {
+     "task": "c0332-1",
+     "result": "skipped: 115年度生涯影展為觀影活動，「寫心得抽好禮活動」以電腦隨機抽獎決定獎品，心得不經評審、不評名次，不屬競賽。"
+    },
+    {
+     "task": "c0333-1",
+     "result": "asks for 1 more documents"
+    },
+    {
+     "task": "c0334-1",
+     "result": "done: 2026-aerc-robot-sports (checked)"
+    },
+    {
+     "task": "c0335-1",
+     "result": "done: 2026-aerc-ksu (checked)"
+    },
+    {
+     "task": "c0336-1",
+     "result": "done: 2026-aerc-robot-sports-2 (checked)"
+    },
+    {
+     "task": "c0337-1",
+     "result": "asks for 1 more documents"
+    },
+    {
+     "task": "c0338-1",
+     "result": "done: 2026-aerc-ksu (checked)"
+    },
+    {
+     "task": "c0339-1",
+     "result": "done: 2026-aerc-robot-sports-2 (checked)"
+    },
+    {
+     "task": "c0340-1",
+     "result": "done: 2026-taipei-cicero-cup-english-debate (checked)"
+    },
+    {
+     "task": "c0341-1",
+     "result": "done: 2026-moe-digital-gender-violence-video (checked)"
+    },
+    {
+     "task": "c0293-2",
+     "result": "asks for 2 more documents"
+    },
+    {
+     "task": "c0256-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0265-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0290-s",
+     "result": "2 kept, 2 dropped (https://boyauc.github.io/gailearn-competition/secondary/: does not name the contest)"
+    }
+   ],
+   "merged": [],
+   "set_aside": []
+  },
+  {
+   "tasks": [
+    {
+     "task": "c0285-1",
+     "result": "done: 2026-hsinchu-city-student-music (checked)"
+    },
+    {
+     "task": "c0290-1",
+     "result": "done: 2026-gailearn-ai-handbook (checked)"
+    },
+    {
+     "task": "c0310-1",
+     "result": "done: 2026-taoyuan-mayor-cup-abacus-math (checked)"
+    }
+   ],
+   "merged": [
+    "2026-moe-ai-learning-handbook merged into 2026-gailearn-ai-handbook"
+   ],
+   "set_aside": []
+  },
+  {
+   "tasks": [
+    {
+     "task": "c0329-1",
+     "result": "done: 2027-ntpc-ai-p-literacy-challenge (checked)"
+    }
+   ],
+   "merged": [],
+   "set_aside": []
+  },
+  {
+   "tasks": [
+    {
+     "task": "c0285-1",
+     "result": "done: 2026-hsinchu-city-student-music (checked)"
+    },
+    {
+     "task": "c0329-1",
+     "result": "done: 2027-ntpc-ai-p-literacy-challenge (checked)"
+    }
+   ],
+   "merged": [],
+   "set_aside": []
   }
  ],
  "queue": {
-  "done": 209,
-  "skipped": 64,
-  "search": 5,
-  "new": 507,
-  "expired": 1
+  "done": 265,
+  "skipped": 77,
+  "expired": 1,
+  "new": 441,
+  "search": 2
  },
  "announcements_waiting": 0,
- "records": 178
+ "records": 218
 }

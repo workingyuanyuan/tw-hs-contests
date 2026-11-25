@@ -1,0 +1,134 @@
+{
+  "schema": 1,
+  "id": "2026-kinmen-student-music-prelim",
+  "title": "115學年度全國學生音樂比賽金門縣初賽",
+  "edition": "115 學年度",
+  "summary": "金門縣學生報名揚琴獨奏、箏獨奏等音樂項目，參加全國學生音樂比賽縣初賽。",
+  "organizers": [
+    {
+      "name": "金門縣政府",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "音樂"
+  ],
+  "eligibility": {
+    "levels": [
+      "國小",
+      "國中"
+    ],
+    "division": "unknown",
+    "regions": [
+      "金門縣"
+    ],
+    "nomination": "school",
+    "team_min": null,
+    "team_max": null,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=22423",
+        "quote": "(1008縣府來函修正)「115學年度全國學生音樂比賽金門縣初賽實施計畫」"
+      },
+      {
+        "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=22423",
+        "quote": "本府勉予同意該二校報名，並修正旨揭實施計畫，增列揚琴獨奏國中A 組與箏獨奏國小A組，請轉知符合參賽資格學生。"
+      },
+      {
+        "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=22423",
+        "quote": "請各校務必落實校內報名作業管控及行政審查機制"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "other",
+      "label": "校內報名表繳交學務處訓育組截止",
+      "date": "2026-10-13",
+      "time": null,
+      "original": "10/13(星期二)下午放學前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=22423",
+          "quote": "請報名同學於10/13(星期二)下午放學前，將報名表繳交至學務處訓育組，完成報名手續，若逾期繳交，將不予受理。"
+        },
+        {
+          "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=22423",
+          "quote": "發佈時間 : 2026-10-13 10:02:43"
+        }
+      ]
+    },
+    {
+      "kind": "registration_deadline",
+      "label": "初賽報名截止",
+      "date": "2026-10-15",
+      "time": "17:30",
+      "original": "115年10月15日下午5時30分",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=22423",
+          "quote": "旨揭初賽報名期限至115年10月15日下午5時30分止，逾期恕不受理"
+        }
+      ]
+    }
+  ],
+  "deliverables": [],
+  "attendance": {
+    "value": "unknown",
+    "where": null,
+    "basis": "unread",
+    "evidence": []
+  },
+  "fee": {
+    "value": "unknown",
+    "amount": null,
+    "basis": "unread",
+    "evidence": []
+  },
+  "prizes": {
+    "text": null,
+    "basis": "unread",
+    "evidence": []
+  },
+  "ai_policy": {
+    "value": "unknown",
+    "basis": "unread",
+    "evidence": []
+  },
+  "links": {
+    "official": null,
+    "rules": [
+      {
+        "title": "實施計畫修正公告",
+        "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=22423"
+      }
+    ],
+    "registration": null
+  },
+  "found_via": [
+    {
+      "name": "金門高中 最新消息",
+      "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=22423"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-25",
+    "method": "single",
+    "unread": [
+      "115學年度全國學生音樂比賽金門縣初賽實施計畫"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-25",
+  "level": "checked",
+  "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-kinmen-student-music-prelim/",
+  "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-kinmen-student-music-prelim.md"
+}

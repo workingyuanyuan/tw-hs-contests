@@ -217,13 +217,14 @@
   ],
   "verification": {
     "last_verified": "2026-11-25",
-    "method": "single",
+    "method": "dual",
     "unread": [
       "來文.pdf",
       "分區工作坊海報（臺中、高雄、桃園）"
     ],
     "note": null,
     "readers": [
+      "claude-opus-5-5",
       "claude-opus-5-5"
     ]
   },

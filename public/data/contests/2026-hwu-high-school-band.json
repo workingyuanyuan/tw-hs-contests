@@ -142,19 +142,20 @@
   ],
   "verification": {
     "last_verified": "2026-11-25",
-    "method": "single",
+    "method": "dual",
     "unread": [
       "醒吾科技大學流行音樂創作系官網「最新資訊」頁的報名資訊",
       "海報上的報名 QR code"
     ],
     "note": null,
     "readers": [
+      "claude-opus-5-5",
       "claude-opus-5-5"
     ]
   },
   "first_seen": "2026-11-24",
   "updated": "2026-11-25",
-  "level": "checked",
+  "level": "verified",
   "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-hwu-high-school-band/",
   "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-hwu-high-school-band.md"
 }

@@ -1,0 +1,233 @@
+{
+  "schema": 1,
+  "id": "2026-wzu-interpreting",
+  "title": "2026 文藻盃全國高中職中英口譯大賽",
+  "edition": "2026",
+  "summary": "高中職學生錄製中英文介紹「我的家鄉」的影片，入圍者到文藻外語大學比視譯與英語表達。",
+  "organizers": [
+    {
+      "name": "文藻外語大學翻譯系暨碩士班",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "外語"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職",
+      "五專"
+    ],
+    "division": "hs_only",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": null,
+    "team_max": null,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/5/2026文藻盃全國高中職中英口譯大賽比賽辦法.pdf",
+        "quote": "歡迎全國高中職（含五專一年級~三年級），具中華民國國籍之在學學生，踴躍報名參加。"
+      },
+      {
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/5/2026文藻盃全國高中職中英口譯大賽比賽辦法.pdf",
+        "quote": "即日起至2026 年11 月6 日（五）前，請將影音檔上傳YouTube，並提交YT 連結於報名表單上。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "報名及繳交初賽影片連結截止",
+      "date": "2026-11-06",
+      "time": null,
+      "original": "2026 年11 月6 日（五）前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.hgsh.hc.edu.tw/view-doc/5/2026文藻盃全國高中職中英口譯大賽比賽辦法.pdf",
+          "quote": "即日起至2026 年11 月6 日（五）前，請將影音檔上傳YouTube，並提交YT 連結於報名表單上。"
+        }
+      ]
+    },
+    {
+      "kind": "shortlist_announcement",
+      "label": "公告入圍決賽名單",
+      "date": "2026-11-20",
+      "time": null,
+      "original": "2026 年11 月20 日（五）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.hgsh.hc.edu.tw/view-doc/5/2026文藻盃全國高中職中英口譯大賽比賽辦法.pdf",
+          "quote": "2026 年11 月20 日（五）入圍同學名單將公告於文藻翻譯系網頁與臉書。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "公告決賽英語表達的城市名稱",
+      "date": "2026-11-20",
+      "time": null,
+      "original": "2026 年11 月20 日（五）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.hgsh.hc.edu.tw/view-doc/5/2026文藻盃全國高中職中英口譯大賽比賽辦法.pdf",
+          "quote": "英語表達：以英文簡介永續城鄉，城市名稱將於2026 年11 月20 日（五）公告。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "決賽（9:30 前報到）",
+      "date": "2026-12-05",
+      "time": "10:00",
+      "original": "2026 年 12 月5 日（六）上午 10:00-12:00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.hgsh.hc.edu.tw/view-doc/5/2026文藻盃全國高中職中英口譯大賽比賽辦法.pdf",
+          "quote": "2026 年 12 月5 日（六）上午 10:00-12:00，於文藻外語大學公簡廳一樓舉行。"
+        },
+        {
+          "url": "https://www.hgsh.hc.edu.tw/view-doc/5/2026文藻盃全國高中職中英口譯大賽比賽辦法.pdf",
+          "quote": "決賽報到時間：比賽謹訂於2026 年12 月5 日（六）早上10:00 開始。參賽者需於9:30 前完成報到。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "初賽",
+      "what": "以「我的家鄉」為題的影音檔，中文、英文各一分鐘，上傳 YouTube 後把連結填入報名表單",
+      "how": "online"
+    },
+    {
+      "stage": "決賽",
+      "what": "視譯（抽到的英文短文譯成中文）及以英文簡介永續城鄉，攜帶學生證及身分證",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "finalists",
+    "where": "文藻外語大學公簡廳一樓",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/5/2026文藻盃全國高中職中英口譯大賽比賽辦法.pdf",
+        "quote": "2026 年 12 月5 日（六）上午 10:00-12:00，於文藻外語大學公簡廳一樓舉行。"
+      },
+      {
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/5/2026文藻盃全國高中職中英口譯大賽比賽辦法.pdf",
+        "quote": "請參賽同學攜帶學生證及身分證備查，逾時視為棄權。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/5/2026文藻盃全國高中職中英口譯大賽比賽辦法.pdf"
+      },
+      {
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/54/pta_226780_448518_38154.pdf"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "第一名獎金 3,000 元、第二名 1,800 元、第三名 1,000 元、佳作 500 元，皆附獎狀；參與決賽者獲頒參賽證明。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/5/2026文藻盃全國高中職中英口譯大賽比賽辦法.pdf",
+        "quote": "得獎同學第一名獎金3000 元、獎狀一只；第二名獎金1800 元、獎狀一只；第三名獎金1000 元；獎狀一只：佳作獎金500 元、獎狀一只。"
+      },
+      {
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/5/2026文藻盃全國高中職中英口譯大賽比賽辦法.pdf",
+        "quote": "※參與決賽之同學，將獲頒參賽證明。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/5/2026文藻盃全國高中職中英口譯大賽比賽辦法.pdf"
+      },
+      {
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/54/pta_226780_448518_38154.pdf"
+      }
+    ]
+  },
+  "links": {
+    "official": null,
+    "rules": [
+      {
+        "title": "2026 文藻盃全國高中職中英口譯大賽比賽辦法",
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/5/2026文藻盃全國高中職中英口譯大賽比賽辦法.pdf"
+      }
+    ],
+    "registration": "https://forms.gle/UQ76iT5dNce4cody8"
+  },
+  "found_via": [
+    {
+      "name": "大里高中 校外活動與競賽",
+      "url": "https://dlsh.tc.edu.tw/p/406-1068-639837,r2145.php?Lang=zh-tw"
+    },
+    {
+      "name": "新竹女中 活動研習",
+      "url": "https://www.hgsh.hc.edu.tw/news/2026%e6%96%87%e8%97%bb%e7%9b%83%e5%85%a8%e5%9c%8b%e9%ab%98%e4%b8%ad%e8%81%b7%e4%b8%ad%e8%8b%b1%e5%8f%a3%e8%ad%af%e5%a4%a7%e8%b3%bd/"
+    },
+    {
+      "name": "苗栗農工 處室公告",
+      "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26681"
+    },
+    {
+      "name": "金門高中 最新消息",
+      "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=22305"
+    },
+    {
+      "name": "潮州高中 學生課外活動",
+      "url": "https://www.ccsh.ptc.edu.tw/data.php?id=19082&tpl=5"
+    },
+    {
+      "name": "高師大附中 校外競賽與活動",
+      "url": "https://www.nknush.kh.edu.tw/announcement/20490/%e7%ab%b6%e8%b3%bd2026%e6%96%87%e8%97%bb%e7%9b%83%e5%85%a8%e5%9c%8b%e9%ab%98%e4%b8%ad%e8%81%b7%e4%b8%ad%e8%8b%b1-%e5%8f%a3%e8%ad%af%e5%a4%a7%e8%b3%bd%e5%af%a6%e7%a0%94%e7%b5%84/"
+    },
+    {
+      "name": "彰化高中 競賽公告",
+      "url": "https://www.chsh.chc.edu.tw/p/406-1009-195994,r70.php?Lang=zh-tw"
+    },
+    {
+      "name": "苗栗高中 學生校外營隊、活動、比賽",
+      "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=28196"
+    },
+    {
+      "name": "成功高中 活動競賽",
+      "url": "https://www.cksh.tp.edu.tw/news/%e3%80%90%e8%bd%89%e7%9f%a5%e3%80%91%e6%96%87%e8%97%bb%e5%ad%b8%e6%a0%a1%e8%b2%a1%e5%9c%98%e6%b3%95%e4%ba%ba%e6%96%87%e8%97%bb%e5%a4%96%e8%aa%9e%e5%a4%a7%e5%ad%b8%e6%a0%a1%e8%a8%82%e6%96%bc115/"
+    },
+    {
+      "name": "大里高中 校外活動與競賽",
+      "url": "https://dlsh.tc.edu.tw/p/406-1068-639837,r2145.php"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-25",
+    "method": "single",
+    "unread": [],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-25"
+}

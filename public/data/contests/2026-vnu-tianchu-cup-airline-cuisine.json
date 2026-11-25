@@ -1,0 +1,231 @@
+{
+  "schema": 1,
+  "id": "2026-vnu-tianchu-cup-airline-cuisine",
+  "title": "2026天廚盃全國航空創意廚藝競賽",
+  "edition": "2026",
+  "summary": "大專與高中職學生個人設計航空餐，以實作料理或彩色手繪呈現餐點與菜單參賽。",
+  "organizers": [
+    {
+      "name": "萬能科技大學觀光餐旅暨管理學院",
+      "role": "主辦"
+    },
+    {
+      "name": "萬能科技大學航空暨運輸服務管理系",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "餐旅",
+    "設計"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職",
+      "大專"
+    ],
+    "division": "separate",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": 1,
+    "teacher": "required",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/2026天廚盃全國航空創意廚藝競賽1.pdf",
+        "quote": "1.大專組：目前就讀於全國大專校院大學部之在學學生。"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/2026天廚盃全國航空創意廚藝競賽1.pdf",
+        "quote": "2.高中組：目前就讀於全國公私立高中職之在學學生。"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/2026天廚盃全國航空創意廚藝競賽1.pdf",
+        "quote": "每隊一人參賽，並設指導老師一人​，每人限報名一隊，不得重複"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/2026天廚盃全國航空創意廚藝競賽1.pdf",
+        "quote": "1.比賽一律以網路表單報名並上傳檔案成功始取得參賽資格。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "線上報名截止",
+      "date": "2026-11-20",
+      "time": "12:00",
+      "original": "115年11月20日(五)中午 12點前報名截止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/2026天廚盃全國航空創意廚藝競賽1.pdf",
+          "quote": "2. 115年11月20日(五)中午 12​​點前報名截止。"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "作品上傳截止",
+      "date": "2026-11-20",
+      "time": "12:00",
+      "original": "115年11月20日(五)中午 12點前作品上傳截止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/2026天廚盃全國航空創意廚藝競賽1.pdf",
+          "quote": "至115年11月20日(五)中午 12​​點前作品上傳截止。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "評分程序結束",
+      "date": "2026-12-10",
+      "time": null,
+      "original": "115年11月23日至115年12月10日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/2026天廚盃全國航空創意廚藝競賽1.pdf",
+          "quote": "115年11月23日至115年12月10日。"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "公佈得獎名單",
+      "date": "2026-12-17",
+      "time": "12:00",
+      "original": "115年12月17日(四)中午 12 點",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/2026天廚盃全國航空創意廚藝競賽1.pdf",
+          "quote": "115年12月17日(四)中午 12 點​​公佈於萬能科技大學航空暨​​運輸服務管理系首頁"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "實作創意類（中式、西式、其他料理組）",
+      "what": "單一 WORD 檔參賽表：只能用烤箱的機上餐點菜單、成品照片與創意發想",
+      "how": "online"
+    },
+    {
+      "stage": "手繪創意類（中文、其他語言菜單組）",
+      "what": "單一 WORD 檔參賽表：彩色手繪航空餐及菜單的成品照片",
+      "how": "online"
+    }
+  ],
+  "attendance": {
+    "value": "none",
+    "where": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/2026天廚盃全國航空創意廚藝競賽1.pdf"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/2026天廚盃全國航空創意廚藝競賽.pdf"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/2026天廚盃全國航空創意廚藝競賽1.pdf"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/2026天廚盃全國航空創意廚藝競賽.pdf"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "第一名獎狀及一千元禮卷、第二名獎狀及八百元禮卷、第三名獎狀及五百元禮卷，佳作若干名頒發獎狀。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/2026天廚盃全國航空創意廚藝競賽1.pdf",
+        "quote": "第一名：頒發獎狀及一千元禮卷。"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/2026天廚盃全國航空創意廚藝競賽1.pdf",
+        "quote": "第二名：頒發獎狀及八百元禮卷。"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/2026天廚盃全國航空創意廚藝競賽1.pdf",
+        "quote": "第三名：頒發獎狀及五百元禮卷。"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/2026天廚盃全國航空創意廚藝競賽1.pdf",
+        "quote": "佳 作：取若干名，頒發獎狀。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "restricted",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/2026天廚盃全國航空創意廚藝競賽1.pdf",
+        "quote": "手繪創作媒材不限（色鉛​​筆、水彩、油畫、蠟筆、彩色筆、水墨…等），不可使用AI創作。"
+      }
+    ]
+  },
+  "links": {
+    "official": null,
+    "rules": [
+      {
+        "title": "2026天廚盃全國航空創意廚藝競賽辦法",
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/2026天廚盃全國航空創意廚藝競賽1.pdf"
+      },
+      {
+        "title": "萬能科技大學函（公文）",
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/2026天廚盃全國航空創意廚藝競賽.pdf"
+      }
+    ],
+    "registration": "https://forms.gle/v8jhcYzDNBVfudGL8"
+  },
+  "found_via": [
+    {
+      "name": "高師大附中 校外競賽與活動",
+      "url": "https://www.nknush.kh.edu.tw/announcement/20867/%e5%85%ac%e5%91%8a%e8%a8%93%e8%82%b2%e7%b5%84%e8%90%ac%e8%83%bd%e7%a7%91%e6%8a%80%e5%a4%a7%e5%ad%b82026%e5%a4%a9%e5%bb%9a%e7%9b%83%e5%85%a8%e5%9c%8b%e8%88%aa%e7%a9%ba%e5%89%b5%e6%84%8f%e5%bb%9a/"
+    },
+    {
+      "name": "大同高中 學生競賽活動",
+      "url": "https://www.ttsh.tp.edu.tw/news/%e8%90%ac%e8%83%bd%e5%ad%b8%e6%a0%a1%e8%b2%a1%e5%9c%98%e6%b3%95%e4%ba%ba%e8%90%ac%e8%83%bd%e7%a7%91%e6%8a%80%e5%a4%a7%e5%ad%b8%e8%88%aa%e7%a9%ba%e6%9a%a8%e9%81%8b%e8%bc%b8%e6%9c%8d%e5%8b%99%e7%ae%a1-3/"
+    },
+    {
+      "name": "苗栗農工 處室公告",
+      "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26704"
+    },
+    {
+      "name": "苗栗高中 學生校外營隊、活動、比賽",
+      "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=28251"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-25",
+    "method": "single",
+    "unread": [
+      "天廚盃參賽表格2026.docx"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-25",
+  "level": "checked",
+  "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-vnu-tianchu-cup-airline-cuisine/",
+  "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-vnu-tianchu-cup-airline-cuisine.md"
+}

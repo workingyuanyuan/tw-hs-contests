@@ -1,0 +1,189 @@
+{
+  "schema": 1,
+  "id": "2026-asus-rog-pc-diy",
+  "title": "華碩校園組裝王PC DIY競賽",
+  "edition": "2026",
+  "summary": "全台高中職與大專學生報名參加華碩 ROG 舉辦的 PC DIY 電腦組裝競賽。",
+  "organizers": [
+    {
+      "name": "華碩ASUS ROG",
+      "role": "主辦"
+    },
+    {
+      "name": "中華民國電子競技運動協會",
+      "role": "指導"
+    }
+  ],
+  "categories": [
+    "技藝與技能",
+    "資訊與 AI"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職",
+      "大專"
+    ],
+    "division": "unknown",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": null,
+    "team_max": null,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28375/1150001901.pdf",
+        "quote": "正本：全國高中職、全國大專院校"
+      },
+      {
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26788",
+        "quote": "華碩ASUS ROG辦理之「華碩校園組裝王PC DIY競賽」競賽報名，鼓勵有興趣同學踴躍參與報名。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28375/1150001901_1.jpg",
+        "quote": "召集全台校園"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "報名及線上徵選截止",
+      "date": "2026-11-07",
+      "time": null,
+      "original": "11/07(六)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28375/1150001901_1.jpg",
+          "quote": "STAGE 01 線上徵選：即日起至 11/07(六)"
+        },
+        {
+          "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26788",
+          "quote": "三、校園組裝王賽事報名至11/7截止表單如網址"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "挑戰賽",
+      "date": "2026-11-21",
+      "time": null,
+      "original": "11/21(六)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28375/1150001901_1.jpg",
+          "quote": "STAGE 02挑戰賽：11/21(六)@華碩總部"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "決賽",
+      "date": "2026-12-12",
+      "time": null,
+      "original": "12/12(六)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28375/1150001901_1.jpg",
+          "quote": "STAGE 03決賽：12/12(六)@GamForce電競嘉年華"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "線上徵選",
+      "what": "填寫報名表單參加線上徵選",
+      "how": "online"
+    },
+    {
+      "stage": "挑戰賽",
+      "what": "在華碩總部進行電腦組裝挑戰",
+      "how": "onsite"
+    },
+    {
+      "stage": "決賽",
+      "what": "在 GamForce電競嘉年華進行決賽",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "finalists",
+    "where": "華碩總部（挑戰賽）、GamForce電競嘉年華（決賽）",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28375/1150001901_1.jpg",
+        "quote": "STAGE 02挑戰賽：11/21(六)@華碩總部"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28375/1150001901_1.jpg",
+        "quote": "STAGE 03決賽：12/12(六)@GamForce電競嘉年華"
+      }
+    ]
+  },
+  "fee": {
+    "value": "unknown",
+    "amount": null,
+    "basis": "unread",
+    "evidence": []
+  },
+  "prizes": {
+    "text": "獎項總價值新台幣 100,000 元。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28375/1150001901_1.jpg",
+        "quote": "獎項總價值 NTD100,000"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "unknown",
+    "basis": "unread",
+    "evidence": []
+  },
+  "links": {
+    "official": null,
+    "rules": [
+      {
+        "title": "中華民國電子競技運動協會函",
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28375/1150001901.pdf"
+      },
+      {
+        "title": "華碩ROG校園菁英召集令海報",
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28375/1150001901_1.jpg"
+      }
+    ],
+    "registration": "https://esurvey.asus.com/?id=12414&code=1813b066-23a5-4a25-9e3c-554ae5aeab75&lang=zh_TW"
+  },
+  "found_via": [
+    {
+      "name": "苗栗高中 學生校外營隊、活動、比賽",
+      "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=28375"
+    },
+    {
+      "name": "苗栗農工 處室公告",
+      "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26788"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-25",
+    "method": "single",
+    "unread": [
+      "海報上「活動說明」QR code 所連的活動說明"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-25"
+}

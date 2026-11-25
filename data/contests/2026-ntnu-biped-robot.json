@@ -3,7 +3,7 @@
   "id": "2026-ntnu-biped-robot",
   "title": "2026 全國二足機器人競賽",
   "edition": "2026",
-  "summary": "教師指導至多 4 名學生組隊，攜帶自備機器人至臺師大參加足球、擂台或氣球擊破等現場競賽。",
+  "summary": "由教師指導的學生隊伍帶二足機器人到臺師大，參加足球、擂台與氣球擊破等項目比賽。",
   "organizers": [
     {
       "name": "國立臺灣師範大學機電工程學系",
@@ -36,9 +36,10 @@
       "國中",
       "高中",
       "高職",
+      "五專",
       "大專"
     ],
-    "division": "mixed",
+    "division": "unknown",
     "regions": [
       "全國"
     ],
@@ -49,63 +50,85 @@
     "basis": "quote",
     "evidence": [
       {
-        "url": "https://www.ksvs.kh.edu.tw/v4/cpsub/article.php?id=12557",
-        "quote": "一、為培養大專及高中職(含)以下學校智慧型機器人科技人才，提昇科學教育及實踐機械、電機、電子與資訊等相關領域之技術整合能力，特辦理智慧型二足機器人競賽。"
+        "url": "https://drive.google.com/file/d/1yO-CXCET2jASeN_zCRQBKykC3PqUnJxw/view?usp=sharing",
+        "quote": "促進各級學校師生於教學及學習上之相互交流與觀摩"
       },
       {
-        "url": "https://drive.google.com/file/d/1S27cLpv5w05B0JGeh7giuTRk6_BOxbSa/view?usp=drive_link",
+        "url": "https://drive.google.com/file/d/1yO-CXCET2jASeN_zCRQBKykC3PqUnJxw/view?usp=sharing",
         "quote": "1. 由教師指導學生組隊報名參加。"
       },
       {
-        "url": "https://drive.google.com/file/d/1S27cLpv5w05B0JGeh7giuTRk6_BOxbSa/view?usp=drive_link",
+        "url": "https://drive.google.com/file/d/1yO-CXCET2jASeN_zCRQBKykC3PqUnJxw/view?usp=sharing",
         "quote": "2. 每一隊伍指導教師至多1 名、同學至多4 人。"
       },
       {
-        "url": "https://drive.google.com/file/d/1S27cLpv5w05B0JGeh7giuTRk6_BOxbSa/view?usp=drive_link",
-        "quote": "1. 請從主辦單位網站查閱相關報名規定，於報名網址填寫報名表，並於115 年\n11 月20 日(五)下午17:00 報名截止日前將報名費匯入指定帳號，並於報名表\n單中回傳匯款單，如有報名成功會於官網公布名單，即完成報名手續（逾期\n恕不受理）。"
+        "url": "https://drive.google.com/file/d/1yO-CXCET2jASeN_zCRQBKykC3PqUnJxw/view?usp=sharing",
+        "quote": "1. 以「隊伍」為單位報名參賽，敘獎時亦同。"
       }
     ]
   },
   "dates": [
     {
       "kind": "other",
-      "label": "早鳥報名及繳費截止",
-      "date": "2026-10-30",
+      "label": "開始報名",
+      "date": "2026-10-16",
       "time": null,
-      "original": "115 年10 月30 日(五)前",
+      "original": "115年10月16日（星期五）",
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://drive.google.com/file/d/1S27cLpv5w05B0JGeh7giuTRk6_BOxbSa/view?usp=drive_link",
-          "quote": "4. 於115 年10 月30 日(五)前完成線上報名及繳費的隊伍，報名費可享早鳥優\n惠價新臺幣1,000 元。"
+          "url": "https://www.fhsh.khc.edu.tw/aa/news-aa/20261013/46740",
+          "quote": "一、本活動報名期間自115年10月16日（星期五）起至11月20日（星期五）止。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "早鳥優惠報名及繳費截止",
+      "date": "2026-10-30",
+      "time": null,
+      "original": "115 年10 月30 日(五)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://drive.google.com/file/d/1yO-CXCET2jASeN_zCRQBKykC3PqUnJxw/view?usp=sharing",
+          "quote": "4. 於115 年10 月30 日(五)前完成線上報名及繳費的隊伍，報名費可享早鳥優惠價新臺幣1,000 元。"
         }
       ]
     },
     {
       "kind": "registration_deadline",
-      "label": "報名截止",
+      "label": "報名及繳費截止",
       "date": "2026-11-20",
       "time": "17:00",
       "original": "115 年11 月20 日(五)下午17:00",
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://drive.google.com/file/d/1S27cLpv5w05B0JGeh7giuTRk6_BOxbSa/view?usp=drive_link",
-          "quote": "並於115 年\n11 月20 日(五)下午17:00 報名截止日前將報名費匯入指定帳號，並於報名表\n單中回傳匯款單，如有報名成功會於官網公布名單，即完成報名手續（逾期\n恕不受理）。"
+          "url": "https://drive.google.com/file/d/1yO-CXCET2jASeN_zCRQBKykC3PqUnJxw/view?usp=sharing",
+          "quote": "於報名網址填寫報名表，並於115 年11 月20 日(五)下午17:00 報名截止日前將報名費匯入指定帳號"
+        },
+        {
+          "url": "https://www.fhsh.khc.edu.tw/aa/news-aa/20261013/46740",
+          "quote": "一、本活動報名期間自115年10月16日（星期五）起至11月20日（星期五）止。"
         }
       ]
     },
     {
       "kind": "final_event",
-      "label": "競賽時間",
+      "label": "競賽",
       "date": "2026-12-05",
       "time": "09:00",
       "original": "115 年12 月 05 日09:00~17:00",
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://drive.google.com/file/d/1S27cLpv5w05B0JGeh7giuTRk6_BOxbSa/view?usp=drive_link",
+          "url": "https://drive.google.com/file/d/1yO-CXCET2jASeN_zCRQBKykC3PqUnJxw/view?usp=sharing",
           "quote": "115 年12 月 05 日09:00~17:00"
+        },
+        {
+          "url": "https://www.fhsh.khc.edu.tw/aa/news-aa/20261013/46740",
+          "quote": "【競賽】國立臺灣師範大學機電工程學系於115年12月5日(星期六)舉辦「2026全國二足機器人競賽」"
         }
       ]
     }
@@ -113,68 +136,80 @@
   "deliverables": [
     {
       "stage": "報名",
-      "what": "線上填寫報名表並回傳報名費匯款單",
+      "what": "報名表與報名費匯款單",
       "how": "online"
     },
     {
       "stage": "競賽",
-      "what": "攜帶該隊伍之機器人現場參加足球賽、擂台競賽或氣球擊破（至多報名 3 項）",
+      "what": "隊伍自己的機器人，不得與其他隊伍共用；每隊至多報名 3 個項目",
       "how": "onsite"
     }
   ],
   "attendance": {
     "value": "all",
-    "where": "國立臺灣師範大學綜合大樓二樓210 展覽廳(臺北市和平東路一段129 號)",
+    "where": "國立臺灣師範大學綜合大樓二樓 210 展覽廳（臺北市和平東路一段 129 號）",
     "basis": "quote",
     "evidence": [
       {
-        "url": "https://drive.google.com/file/d/1S27cLpv5w05B0JGeh7giuTRk6_BOxbSa/view?usp=drive_link",
-        "quote": "2. 參加比賽的各隊伍，必須使用該隊伍之機器人參加比賽，不得與其他隊伍共\n用機器人。"
+        "url": "https://drive.google.com/file/d/1yO-CXCET2jASeN_zCRQBKykC3PqUnJxw/view?usp=sharing",
+        "quote": "國立臺灣師範大學綜合大樓二樓210"
       },
       {
-        "url": "https://drive.google.com/file/d/1S27cLpv5w05B0JGeh7giuTRk6_BOxbSa/view?usp=drive_link",
-        "quote": "國立臺灣師範大學綜合大樓二樓210 \n展覽廳(臺北市和平東路一段129 號)"
+        "url": "https://drive.google.com/file/d/1yO-CXCET2jASeN_zCRQBKykC3PqUnJxw/view?usp=sharing",
+        "quote": "展覽廳(臺北市和平東路一段129 號)"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1yO-CXCET2jASeN_zCRQBKykC3PqUnJxw/view?usp=sharing",
+        "quote": "(1) 僅開放該場次操作手下場比賽，其餘指導教師、隊員均不得進入比賽區。"
       }
     ]
   },
   "fee": {
     "value": "required",
-    "amount": "早鳥（10/30 前）每隊 1,000 元，之後每隊 1,200 元（含紀念 T 恤 1 件及午餐 1 份）",
+    "amount": "每隊 1,200 元，含紀念 T 恤一件及午餐一份；115 年 10 月 30 日前完成線上報名及繳費者早鳥價 1,000 元",
     "basis": "quote",
     "evidence": [
       {
-        "url": "https://drive.google.com/file/d/1S27cLpv5w05B0JGeh7giuTRk6_BOxbSa/view?usp=drive_link",
-        "quote": "4. 於115 年10 月30 日(五)前完成線上報名及繳費的隊伍，報名費可享早鳥優\n惠價新臺幣1,000 元。115 年10 月30 日(五)之後繳費者，每隊報名費1,200\n元，費用內含紀念T 恤一件及午餐一份。"
+        "url": "https://drive.google.com/file/d/1yO-CXCET2jASeN_zCRQBKykC3PqUnJxw/view?usp=sharing",
+        "quote": "4. 於115 年10 月30 日(五)前完成線上報名及繳費的隊伍，報名費可享早鳥優惠價新臺幣1,000 元。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1yO-CXCET2jASeN_zCRQBKykC3PqUnJxw/view?usp=sharing",
+        "quote": "115 年10 月30 日(五)之後繳費者，每隊報名費1,200 元，費用內含紀念T 恤一件及午餐一份。"
       }
     ]
   },
   "prizes": {
-    "text": "各項競賽錄取前三名頒發獎狀與獎金：第一名 8,000 元、第二名 4,500 元、第三名 3,000 元；前 1/3 隊伍頒發獎狀乙紙（對抗型競賽超過 12 組頒發前 4 名獎狀，超過 24 組頒發前 8 名獎狀）；完成參賽者發給參賽證明。",
+    "text": "各項競賽前三名頒發獎狀與獎金：第一名 8,000 元、第二名 4,500 元、第三名 3,000 元。前 1/3 隊伍頒發獎狀（對抗型競賽超過 12 組報名頒發前 4 名獎狀，超過 24 組報名頒發前 8 名獎狀）。完成參賽者發給參賽證明。",
     "basis": "quote",
     "evidence": [
       {
-        "url": "https://drive.google.com/file/d/1S27cLpv5w05B0JGeh7giuTRk6_BOxbSa/view?usp=drive_link",
-        "quote": "各項競賽錄取前三名，頒發獎狀與獎金。\n獎金：第一名獎金8000 元整、第二名獎\n金4500 元整、第三名獎金3000 元整。"
+        "url": "https://drive.google.com/file/d/1yO-CXCET2jASeN_zCRQBKykC3PqUnJxw/view?usp=sharing",
+        "quote": "各項競賽錄取前三名，頒發獎狀與獎金。"
       },
       {
-        "url": "https://drive.google.com/file/d/1S27cLpv5w05B0JGeh7giuTRk6_BOxbSa/view?usp=drive_link",
-        "quote": "前1/3 隊伍頒發獎狀乙紙。(對抗型競賽\n超過12 組報名則頒發前4 名獎狀，超過\n24 組報名則頒發前8 名獎狀)"
+        "url": "https://drive.google.com/file/d/1yO-CXCET2jASeN_zCRQBKykC3PqUnJxw/view?usp=sharing",
+        "quote": "獎金：第一名獎金8000 元整、第二名獎金4500 元整、第三名獎金3000 元整。"
       },
       {
-        "url": "https://drive.google.com/file/d/1S27cLpv5w05B0JGeh7giuTRk6_BOxbSa/view?usp=drive_link",
+        "url": "https://drive.google.com/file/d/1yO-CXCET2jASeN_zCRQBKykC3PqUnJxw/view?usp=sharing",
+        "quote": "前1/3 隊伍頒發獎狀乙紙。(對抗型競賽超過12 組報名則頒發前4 名獎狀，超過24 組報名則頒發前8 名獎狀)"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1yO-CXCET2jASeN_zCRQBKykC3PqUnJxw/view?usp=sharing",
         "quote": "4. 完成參賽者將由主辦單位發給參賽證明。"
       }
     ]
   },
   "ai_policy": {
-    "value": "not_mentioned",
+    "value": "unknown",
     "basis": "absent",
     "evidence": [
       {
-        "url": "https://www.ksvs.kh.edu.tw/v4/cpsub/article.php?id=12557"
+        "url": "https://drive.google.com/file/d/1yO-CXCET2jASeN_zCRQBKykC3PqUnJxw/view?usp=sharing"
       },
       {
-        "url": "https://drive.google.com/file/d/1S27cLpv5w05B0JGeh7giuTRk6_BOxbSa/view?usp=drive_link"
+        "url": "https://www.fhsh.khc.edu.tw/aa/news-aa/20261013/46740"
       }
     ]
   },
@@ -183,30 +218,28 @@
     "rules": [
       {
         "title": "2026 年全國二足機器人競賽活動辦法",
-        "url": "https://drive.google.com/file/d/1S27cLpv5w05B0JGeh7giuTRk6_BOxbSa/view?usp=drive_link"
+        "url": "https://drive.google.com/file/d/1yO-CXCET2jASeN_zCRQBKykC3PqUnJxw/view?usp=sharing"
       }
     ],
     "registration": null
   },
   "found_via": [
     {
-      "name": "www.ksvs.kh.edu.tw",
-      "url": "https://www.ksvs.kh.edu.tw/v4/cpsub/article.php?id=12557"
+      "name": "鳳新高中 營隊競賽",
+      "url": "https://www.fhsh.khc.edu.tw/aa/news-aa/20261013/46740"
     }
   ],
   "verification": {
     "last_verified": "2026-11-25",
-    "method": "dual",
+    "method": "single",
     "unread": [
-      "各比賽項目細則",
-      "線上報名表單"
+      "活動資訊網站公布的各項競賽規則與報名規定"
     ],
     "note": null,
     "readers": [
-      "gemini-4-hydrogen-medium",
-      "gpt-6.1-sol"
+      "claude-opus-5-5"
     ]
   },
   "first_seen": "2026-11-20",
-  "updated": "2026-11-20"
+  "updated": "2026-11-25"
 }

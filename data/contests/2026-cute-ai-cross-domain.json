@@ -1,0 +1,251 @@
+{
+  "schema": 1,
+  "id": "2026-cute-ai-cross-domain",
+  "title": "AI 跨域創新應用競賽",
+  "edition": "115 學年度",
+  "summary": "高中職學生組隊運用 AI 解決生活或產業問題，分土木建築、設計、商管、資訊四組提出創新應用企劃。",
+  "organizers": [
+    {
+      "name": "中國科技大學招生中心",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "資訊與 AI",
+    "設計",
+    "商管與行銷"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職"
+    ],
+    "division": "hs_only",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "school",
+    "team_min": 2,
+    "team_max": 5,
+    "teacher": "required",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/「AI跨域創新應用競賽」1.pdf",
+        "quote": "1. 具高中職學籍之在學學生，不限年級，鼓勵跨班、跨校組隊。"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/「AI跨域創新應用競賽」1.pdf",
+        "quote": "2. 每隊2 至5 人，需指定隊長1 名、指導老師1 名。"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/「AI跨域創新應用競賽」1.pdf",
+        "quote": "4. 需經科主任簽名確認推薦，始得報名參賽。"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/「AI跨域創新應用競賽」.pdf",
+        "quote": "正本：全國高級中等學校"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "報名截止",
+      "date": "2026-10-30",
+      "time": null,
+      "original": "115 年10 月30 日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/「AI跨域創新應用競賽」1.pdf",
+          "quote": "1. 報名時間：115 年8 月31 日至115 年10 月30 日。"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "創意企劃書收件截止",
+      "date": "2026-10-30",
+      "time": "23:59",
+      "original": "115 年10 月30 日23:59 前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/「AI跨域創新應用競賽」1.pdf",
+          "quote": "115 年10 月30 日23:59 前（可掃描繳交PDF 電子檔，若以紙本寄送則收件日以郵戳為憑）"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "初選書面評選（11 月 2 日至 9 日）",
+      "date": "2026-11-09",
+      "time": null,
+      "original": "115年11月2日至11月9日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/「AI跨域創新應用競賽」.pdf",
+          "quote": "(二)初選書面評選：115年11月2日至11月9日。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "決選（AI 實作工作坊、決選發表、頒獎典禮）",
+      "date": "2026-12-09",
+      "time": null,
+      "original": "115 年12 月9 日（星期三）整日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/「AI跨域創新應用競賽」1.pdf",
+          "quote": "115 年12 月9 日（星期三）整日"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名暨初選",
+      "what": "創意企劃書 PDF（隊伍資料、應用主題與問題洞察、AI 應用方式、預期成果與可行性、執行時程）及科主任簽名推薦文件，上傳雲端硬碟後以 e-mail 提供連結",
+      "how": "online"
+    },
+    {
+      "stage": "報名",
+      "what": "簽署活動案例集使用同意書",
+      "how": "online"
+    },
+    {
+      "stage": "決選",
+      "what": "現場發表與問答",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "finalists",
+    "where": null,
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/「AI跨域創新應用競賽」1.pdf",
+        "quote": "決選當日流程：上午為AI 實作工作坊體驗與優秀學長姐作品觀摩，下午為決選發表與頒獎典禮。"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/「AI跨域創新應用競賽」1.pdf",
+        "quote": "決選（現場發表）：創意與問題解決成效25%；AI 應用深度與技術實踐35%；成果完整度與原型可用性20%；簡報表達與問答20%。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/「AI跨域創新應用競賽」1.pdf"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/「AI跨域創新應用競賽」.pdf"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "各組分別頒發：第一、二、三名獎金 10,000 元、5,000 元、2,000 元＋獎狀；優等 1~5 隊各 1,000 元＋獎狀；佳作 3~5 隊獎品＋獎狀；其餘決選隊伍獲創新應用獎（決選入圍證明＋紀念品）；未入圍決選者獲電子版參賽證明及書面講評回饋。實際獎金額度依年度預算核定。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/「AI跨域創新應用競賽」1.pdf",
+        "quote": "依照名次每隊分別獲得獎金新台幣10,000 元、5,000 元、2,000 元＋獎狀"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/「AI跨域創新應用競賽」1.pdf",
+        "quote": "1~5 隊（依決選隊數彈性調整）"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/「AI跨域創新應用競賽」1.pdf",
+        "quote": "每隊分別獲得獎金新台幣1,000 元＋獎狀"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/「AI跨域創新應用競賽」1.pdf",
+        "quote": "3~5 隊（依決選隊數彈性調整）"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/「AI跨域創新應用競賽」1.pdf",
+        "quote": "獎品＋佳作獎狀"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/「AI跨域創新應用競賽」1.pdf",
+        "quote": "「決選入圍證明」＋紀念品"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/「AI跨域創新應用競賽」1.pdf",
+        "quote": "電子版「參賽證明」＋書面講評回饋"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/「AI跨域創新應用競賽」1.pdf",
+        "quote": "實際獎金額度由主辦單位依年度預算核定。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "required",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/「AI跨域創新應用競賽」1.pdf",
+        "quote": "邀請全國高中職學生運用AI 工具，結合創意與實作，解決生活或產業中的真實問題；"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/「AI跨域創新應用競賽」1.pdf",
+        "quote": "AI 應用方式具體說明（使用之AI 工具／技術、應用情境與流程）"
+      }
+    ]
+  },
+  "links": {
+    "official": null,
+    "rules": [
+      {
+        "title": "競賽辦法",
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/「AI跨域創新應用競賽」1.pdf"
+      },
+      {
+        "title": "中國科技大學來函",
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/「AI跨域創新應用競賽」.pdf"
+      }
+    ],
+    "registration": null
+  },
+  "found_via": [
+    {
+      "name": "苗栗高中 學生校外營隊、活動、比賽",
+      "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=28011"
+    },
+    {
+      "name": "潮州高中 學生課外活動",
+      "url": "https://www.ccsh.ptc.edu.tw/data.php?id=18968&tpl=5"
+    },
+    {
+      "name": "鳳新高中 營隊競賽",
+      "url": "https://www.fhsh.khc.edu.tw/aa/news-aa/20260914/46045"
+    },
+    {
+      "name": "高師大附中 校外競賽與活動",
+      "url": "https://www.nknush.kh.edu.tw/announcement/19565/%e5%85%ac%e5%91%8a%e8%a8%93%e8%82%b2%e7%b5%84%e4%b8%ad%e5%9c%8b%e7%a7%91%e6%8a%80%e5%a4%a7%e5%ad%b8%e3%80%8cai-%e8%b7%a8%e5%9f%9f%e5%89%b5%e6%96%b0%e6%87%89%e7%94%a8%e7%ab%b6%e8%b3%bd%e3%80%8d/"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-25",
+    "method": "single",
+    "unread": [
+      "AI跨域創新應用競賽附件（創意企劃書、活動案例集使用同意書）"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-25"
+}

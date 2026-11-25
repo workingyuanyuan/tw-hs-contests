@@ -1,0 +1,148 @@
+{
+  "schema": 1,
+  "id": "2026-taipei-cicero-cup-english-debate",
+  "title": "臺北市115學年度西塞羅盃高中學生英語辯論比賽",
+  "edition": "115 學年度",
+  "summary": "臺北市高中學生以英語就限制未滿16歲者使用社群媒體的辯題進行辯論。",
+  "organizers": [
+    {
+      "name": "私立薇閣中學",
+      "role": "承辦"
+    }
+  ],
+  "categories": [
+    "外語"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中"
+    ],
+    "division": "hs_only",
+    "regions": [
+      "臺北市"
+    ],
+    "nomination": "unknown",
+    "team_min": null,
+    "team_max": null,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.cksh.tp.edu.tw/news/%e3%80%90%e8%bd%89%e7%9f%a5%e3%80%91%e3%80%8c%e8%87%ba%e5%8c%97%e5%b8%82115%e5%ad%b8%e5%b9%b4%e5%ba%a6%e8%a5%bf%e5%a1%9e%e7%be%85%e7%9b%83%e9%ab%98%e4%b8%ad%e5%ad%b8%e7%94%9f%e8%8b%b1%e8%aa%9e/",
+        "quote": "一、依據本市115學年度西塞羅盃高中學生英語辯論比賽實施計畫。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "other",
+      "label": "開始報名",
+      "date": "2026-10-05",
+      "time": null,
+      "original": "115年10月5日（星期一）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.cksh.tp.edu.tw/news/%e3%80%90%e8%bd%89%e7%9f%a5%e3%80%91%e3%80%8c%e8%87%ba%e5%8c%97%e5%b8%82115%e5%ad%b8%e5%b9%b4%e5%ba%a6%e8%a5%bf%e5%a1%9e%e7%be%85%e7%9b%83%e9%ab%98%e4%b8%ad%e5%ad%b8%e7%94%9f%e8%8b%b1%e8%aa%9e/",
+          "quote": "(一)報名時間：115年10月5日（星期一）至115年10月16日（星期五）下午5時止。"
+        }
+      ]
+    },
+    {
+      "kind": "registration_deadline",
+      "label": "報名截止",
+      "date": "2026-10-16",
+      "time": "17:00",
+      "original": "115年10月16日（星期五）下午5時止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.cksh.tp.edu.tw/news/%e3%80%90%e8%bd%89%e7%9f%a5%e3%80%91%e3%80%8c%e8%87%ba%e5%8c%97%e5%b8%82115%e5%ad%b8%e5%b9%b4%e5%ba%a6%e8%a5%bf%e5%a1%9e%e7%be%85%e7%9b%83%e9%ab%98%e4%b8%ad%e5%ad%b8%e7%94%9f%e8%8b%b1%e8%aa%9e/",
+          "quote": "(一)報名時間：115年10月5日（星期一）至115年10月16日（星期五）下午5時止。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "比賽",
+      "date": "2026-12-12",
+      "time": "08:15",
+      "original": "115年12月12日（星期六）上午8時15分",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.cksh.tp.edu.tw/news/%e3%80%90%e8%bd%89%e7%9f%a5%e3%80%91%e3%80%8c%e8%87%ba%e5%8c%97%e5%b8%82115%e5%ad%b8%e5%b9%b4%e5%ba%a6%e8%a5%bf%e5%a1%9e%e7%be%85%e7%9b%83%e9%ab%98%e4%b8%ad%e5%ad%b8%e7%94%9f%e8%8b%b1%e8%aa%9e/",
+          "quote": "(三)比賽時間：115年12月12日（星期六）上午8時15分。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名",
+      "what": "報名表及同意書，以電子郵件寄送承辦學校並電話確認",
+      "how": "online"
+    },
+    {
+      "stage": "比賽",
+      "what": "以英語辯論辯題「Resolved: That the Taiwanese government should substantially restrict access to commercial social media platforms for people under the age of 16」",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "私立薇閣中學（臺北市北投區珠海路50號）",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.cksh.tp.edu.tw/news/%e3%80%90%e8%bd%89%e7%9f%a5%e3%80%91%e3%80%8c%e8%87%ba%e5%8c%97%e5%b8%82115%e5%ad%b8%e5%b9%b4%e5%ba%a6%e8%a5%bf%e5%a1%9e%e7%be%85%e7%9b%83%e9%ab%98%e4%b8%ad%e5%ad%b8%e7%94%9f%e8%8b%b1%e8%aa%9e/",
+        "quote": "(三)比賽時間：115年12月12日（星期六）上午8時15分。"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/news/%e3%80%90%e8%bd%89%e7%9f%a5%e3%80%91%e3%80%8c%e8%87%ba%e5%8c%97%e5%b8%82115%e5%ad%b8%e5%b9%b4%e5%ba%a6%e8%a5%bf%e5%a1%9e%e7%be%85%e7%9b%83%e9%ab%98%e4%b8%ad%e5%ad%b8%e7%94%9f%e8%8b%b1%e8%aa%9e/",
+        "quote": "(四)地點：本市私立薇閣中學（臺北市北投區珠海路50號，近新北投捷運站）。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "unknown",
+    "amount": null,
+    "basis": "unread",
+    "evidence": []
+  },
+  "prizes": {
+    "text": null,
+    "basis": "unread",
+    "evidence": []
+  },
+  "ai_policy": {
+    "value": "unknown",
+    "basis": "unread",
+    "evidence": []
+  },
+  "links": {
+    "official": null,
+    "rules": [],
+    "registration": "https://www.wghs.tp.edu.tw"
+  },
+  "found_via": [
+    {
+      "name": "成功高中 活動競賽",
+      "url": "https://www.cksh.tp.edu.tw/news/%e3%80%90%e8%bd%89%e7%9f%a5%e3%80%91%e3%80%8c%e8%87%ba%e5%8c%97%e5%b8%82115%e5%ad%b8%e5%b9%b4%e5%ba%a6%e8%a5%bf%e5%a1%9e%e7%be%85%e7%9b%83%e9%ab%98%e4%b8%ad%e5%ad%b8%e7%94%9f%e8%8b%b1%e8%aa%9e/"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-25",
+    "method": "single",
+    "unread": [
+      "臺北市115學年度西塞羅盃高中學生英語辯論比賽實施計畫",
+      "報名表及同意書"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-25"
+}

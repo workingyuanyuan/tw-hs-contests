@@ -1,0 +1,298 @@
+{
+  "schema": 1,
+  "id": "2027-iol-taiwan-selection",
+  "title": "2027 年國際語言學奧林匹亞競賽臺灣國手選拔賽",
+  "edition": "2027",
+  "summary": "國高中生以紙筆測驗解答語言學試題，爭取國際語言學奧林匹亞競賽臺灣國手資格。",
+  "organizers": [
+    {
+      "name": "國立臺灣大學語言學研究所",
+      "role": "主辦"
+    },
+    {
+      "name": "臺灣語言文化與資訊協會",
+      "role": "主辦"
+    },
+    {
+      "name": "國立臺灣大學文學院",
+      "role": "協辦"
+    },
+    {
+      "name": "臺灣語言學學會",
+      "role": "協辦"
+    },
+    {
+      "name": "逢甲大學",
+      "role": "協辦"
+    },
+    {
+      "name": "國立中山大學",
+      "role": "協辦"
+    },
+    {
+      "name": "教育部",
+      "role": "指導"
+    }
+  ],
+  "categories": [
+    "語文與寫作",
+    "外語"
+  ],
+  "eligibility": {
+    "levels": [
+      "國中",
+      "高中",
+      "高職"
+    ],
+    "division": "mixed",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": null,
+    "team_max": null,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.fg.tp.edu.tw/view-doc/11/TOL 2027_國際語言學奧林匹亞競賽臺灣國手選拔賽說明簡章.pdf",
+        "quote": "參與資格：全國對語言邏輯有興趣之國高中生，包含政府核准立案之中學、海外僑校、臺商學校與在臺之國際學校之在學學生以及自學生，並且在 2027 年 7 月 1 日前未滿 20 歲。"
+      },
+      {
+        "url": "https://www.fg.tp.edu.tw/view-doc/11/TOL 2027_國際語言學奧林匹亞競賽臺灣國手選拔賽說明簡章.pdf",
+        "quote": "(1) 初賽成績前 25% 者。"
+      },
+      {
+        "url": "https://www.fg.tp.edu.tw/view-doc/11/TOL 2027_國際語言學奧林匹亞競賽臺灣國手選拔賽說明簡章.pdf",
+        "quote": "(3) 各高中推薦之人選。"
+      },
+      {
+        "url": "https://www.fg.tp.edu.tw/view-doc/11/2027年國際語言學奧林匹亞競賽臺灣代表隊選拔賽複賽之學校推薦辦法.pdf",
+        "quote": "受推薦之高中生，需同時獲該校英語科及數理科教師之推薦。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "高中推薦複賽人選：學校送交「推薦學生名單」截止",
+      "date": "2026-12-15",
+      "time": null,
+      "original": "2026 年 12 月 15 日前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.fg.tp.edu.tw/view-doc/11/2027年國際語言學奧林匹亞競賽臺灣代表隊選拔賽複賽之學校推薦辦法.pdf",
+          "quote": "填寫「推薦學生名單」，於 2026 年 12 月 15 日前，以電子公文形式寄送至國立臺灣大學語言學研究所。"
+        }
+      ]
+    },
+    {
+      "kind": "registration_deadline",
+      "label": "初賽報名截止",
+      "date": "2027-01-08",
+      "time": null,
+      "original": "2026 年 12 月 7 日至 2027 年 1 月 8 日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.fg.tp.edu.tw/view-doc/11/TOL 2027_國際語言學奧林匹亞競賽臺灣國手選拔賽說明簡章.pdf",
+          "quote": "報名期限 2026 年 12 月 7 日至 2027 年 1 月 8 日"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "初賽",
+      "date": "2027-01-30",
+      "time": "10:00",
+      "original": "2027 年 1 月 30 日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.fg.tp.edu.tw/view-doc/11/TOL 2027_國際語言學奧林匹亞競賽臺灣國手選拔賽說明簡章.pdf",
+          "quote": "競賽日期 2027 年 1 月 30 日"
+        },
+        {
+          "url": "https://www.fg.tp.edu.tw/view-doc/11/TOL 2027_國際語言學奧林匹亞競賽臺灣國手選拔賽說明簡章.pdf",
+          "quote": "競賽 10:00 即正式開始"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "複賽",
+      "date": "2027-02-20",
+      "time": null,
+      "original": "2027 年 2 月 20 日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.fg.tp.edu.tw/view-doc/11/TOL 2027_國際語言學奧林匹亞競賽臺灣國手選拔賽說明簡章.pdf",
+          "quote": "國手選拔複賽 2027 年 2 月 20 日"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "決賽／亞太語奧",
+      "date": null,
+      "time": null,
+      "original": "2027 年 3 月底至 4 月初（日期待定）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.fg.tp.edu.tw/view-doc/11/TOL 2027_國際語言學奧林匹亞競賽臺灣國手選拔賽說明簡章.pdf",
+          "quote": "日期：2027 年 3 月底至 4 月初（日期待定）"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "初賽",
+      "what": "150 分鐘紙筆測驗，試題正體中文或英文擇一",
+      "how": "onsite"
+    },
+    {
+      "stage": "複賽（初賽前 25%、科展前八名或高中推薦者）",
+      "what": "複賽測驗，成績前 25% 進入決賽",
+      "how": "onsite"
+    },
+    {
+      "stage": "決賽／亞太語奧（複賽錄取並完成第一階段培訓者）",
+      "what": "決賽測驗，前 8 名為正式國手",
+      "how": "unknown"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "國立臺灣大學、逢甲大學、國立中山大學（初賽）",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.fg.tp.edu.tw/view-doc/11/TOL 2027_國際語言學奧林匹亞競賽臺灣國手選拔賽說明簡章.pdf",
+        "quote": "競賽地點 國立臺灣大學、逢甲大學、國立中山大學"
+      },
+      {
+        "url": "https://www.fg.tp.edu.tw/view-doc/11/TOL 2027_國際語言學奧林匹亞競賽臺灣國手選拔賽說明簡章.pdf",
+        "quote": "競賽方式 紙筆測驗"
+      }
+    ]
+  },
+  "fee": {
+    "value": "required",
+    "amount": "初賽新臺幣 1200 元",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.fg.tp.edu.tw/view-doc/11/TOL 2027_國際語言學奧林匹亞競賽臺灣國手選拔賽說明簡章.pdf",
+        "quote": "參賽費用 新臺幣 1200 元整"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "表現優異之學生可獲主辦單位頒發之獎狀；決賽前 8 名為國際語奧臺灣代表隊正式國手，第 9 至 12 名為備取國手。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.fg.tp.edu.tw/view-doc/11/TOL 2027_國際語言學奧林匹亞競賽臺灣國手選拔賽說明簡章.pdf",
+        "quote": "在本競賽表現優異之學生，可獲主辦單位頒發之獎狀。"
+      },
+      {
+        "url": "https://www.fg.tp.edu.tw/view-doc/11/TOL 2027_國際語言學奧林匹亞競賽臺灣國手選拔賽說明簡章.pdf",
+        "quote": "(1) 成績前 8 名者為國際語奧臺灣代表隊成員（即正式國手）。"
+      },
+      {
+        "url": "https://www.fg.tp.edu.tw/view-doc/11/TOL 2027_國際語言學奧林匹亞競賽臺灣國手選拔賽說明簡章.pdf",
+        "quote": "(2) 成績前 9 名至前 12 名者為國際語奧臺灣代表隊備取成員（即備取國手）。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.fg.tp.edu.tw/view-doc/11/TOL 2027_國際語言學奧林匹亞競賽臺灣國手選拔賽說明簡章.pdf"
+      },
+      {
+        "url": "https://www.fg.tp.edu.tw/view-doc/11/2027年國際語言學奧林匹亞競賽臺灣代表隊選拔賽複賽之學校推薦辦法.pdf"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28337/%E5%85%AC%E6%96%87.pdf"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://ioltw.github.io/zh",
+    "rules": [
+      {
+        "title": "臺灣國手選拔賽說明簡章",
+        "url": "https://www.fg.tp.edu.tw/view-doc/11/TOL 2027_國際語言學奧林匹亞競賽臺灣國手選拔賽說明簡章.pdf"
+      },
+      {
+        "title": "複賽之學校推薦辦法",
+        "url": "https://www.fg.tp.edu.tw/view-doc/11/2027年國際語言學奧林匹亞競賽臺灣代表隊選拔賽複賽之學校推薦辦法.pdf"
+      }
+    ],
+    "registration": "https://forms.gle/HnDJeEjY8zKDGKAQA"
+  },
+  "found_via": [
+    {
+      "name": "北一女中 最新消息",
+      "url": "https://www.fg.tp.edu.tw/news/2027%e5%b9%b4%e5%ba%a6%e5%9c%8b%e9%9a%9b%e8%aa%9e%e8%a8%80%e5%ad%b8%e5%a5%a7%e6%9e%97%e5%8c%b9%e4%ba%9e%e7%ab%b6%e8%b3%bd%e8%87%ba%e7%81%a3%e4%bb%a3%e8%a1%a8%e9%9a%8a%e9%81%b8%e6%8b%94%e8%b3%bd/"
+    },
+    {
+      "name": "嘉義女中 競賽與投稿",
+      "url": "https://www.cygsh.cy.edu.tw/p/406-1013-186930,r679.php"
+    },
+    {
+      "name": "斗六高中 營隊研習競賽",
+      "url": "https://www.tlsh.ylc.edu.tw/2026/10/15/68089/"
+    },
+    {
+      "name": "成功高中 活動競賽",
+      "url": "https://www.cksh.tp.edu.tw/news/%e3%80%90%e8%bd%89%e7%9f%a5%e3%80%91%e8%87%ba%e7%81%a3%e5%a4%a7%e5%ad%b8%e8%be%a6%e7%90%86%e3%80%8c2027-%e5%b9%b4%e5%ba%a6%e5%9c%8b%e9%9a%9b%e8%aa%9e%e8%a8%80%e5%ad%b8%e5%a5%a7%e6%9e%97%e5%8c%b9/"
+    },
+    {
+      "name": "西松高中 校外競賽公告",
+      "url": "https://www.hssh.tp.edu.tw/p/405-1000-52542,c540.php?Lang=zh-tw"
+    },
+    {
+      "name": "金門高中 最新消息",
+      "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=22436"
+    },
+    {
+      "name": "苗栗高中 學生校外營隊、活動、比賽",
+      "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=28337"
+    },
+    {
+      "name": "武陵高中 校外競賽",
+      "url": "http://www.wlsh.tyc.edu.tw/p/406-1000-43431,r83.php?Lang=zh-tw"
+    },
+    {
+      "name": "西松高中 校外競賽公告",
+      "url": "https://www.hssh.tp.edu.tw/p/405-1000-52542,c540.php"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-25",
+    "method": "dual",
+    "unread": [
+      "推薦學生名單（附件2）",
+      "推薦人數試算表"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5",
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-25",
+  "conflict": "學校推薦辦法說學校於 2026 年 12 月 15 日前以電子公文形式寄送「推薦學生名單」至國立臺灣大學語言學研究所；國立臺灣大學 115 年 10 月 13 日函則說以電子郵件方式寄發完成推薦作業。",
+  "level": "verified",
+  "url": "https://yuanaruru.com/tw-hs-contests/contests/2027-iol-taiwan-selection/",
+  "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2027-iol-taiwan-selection.md"
+}

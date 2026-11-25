@@ -1,0 +1,177 @@
+{
+  "schema": 1,
+  "id": "2026-cyut-kuso-english-dubbing",
+  "title": "2026全國高中職暨大專校院學生KUSO 創意英語配音比賽",
+  "edition": "2026",
+  "summary": "高中職與大專學生 3 至 7 人一組，為影視或動漫片段配上原創英語對白與字幕，繳交配音影片。",
+  "organizers": [
+    {
+      "name": "朝陽科技大學應用英語系",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "外語",
+    "影音"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職",
+      "大專"
+    ],
+    "division": "separate",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 3,
+    "team_max": 7,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/34/pta_216140_1400963_76742.pdf",
+        "quote": "大專組：中華民國各大專校院在校學生(不含碩、博士生)。"
+      },
+      {
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/34/pta_216140_1400963_76742.pdf",
+        "quote": "高中/職組：中華民國各高中/職在校學生。"
+      },
+      {
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/34/pta_216140_1400963_76742.pdf",
+        "quote": "同一學校學生以3-7人為一組報名(1人可配多角)，每位同學僅能選擇同校其中一組報名，不得跨組參賽。"
+      },
+      {
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/34/pta_216140_1400963_76742.pdf",
+        "quote": "依報名資格區分高中/職組及大專組。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "線上報名及繳交作品連結截止",
+      "date": "2026-06-26",
+      "time": "12:00",
+      "original": "民國115年6月26日(五)中午12:00止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/34/pta_216140_1400963_76742.pdf",
+          "quote": "即日起至民國115年6月26日(五)中午12:00止，請線上填寫報名表（需附參賽作品網址連結）"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名",
+      "what": "線上報名表，附上傳至雲端硬碟、5 分鐘內的英語配音及字幕影片連結",
+      "how": "online"
+    }
+  ],
+  "attendance": {
+    "value": "none",
+    "where": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/34/pta_216140_1400963_76742.pdf"
+      },
+      {
+        "url": "https://www.chsh.chc.edu.tw/p/406-1009-189378,r70.php?Lang=zh-tw"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/34/pta_216140_1400963_76742.pdf"
+      },
+      {
+        "url": "https://www.chsh.chc.edu.tw/p/406-1009-189378,r70.php?Lang=zh-tw"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "高中/職組與大專組分別頒發：第一名禮券 3000 元、第二名禮券 2000 元、第三名禮券 1000 元，皆附獎狀；佳作數名頒獎狀。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/34/pta_216140_1400963_76742.pdf",
+        "quote": "依報名資格區分高中/職組及大專組。"
+      },
+      {
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/34/pta_216140_1400963_76742.pdf",
+        "quote": "第一名：頒發禮券3000元及獎狀乙張"
+      },
+      {
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/34/pta_216140_1400963_76742.pdf",
+        "quote": "第二名：頒發禮券2000元及獎狀乙張"
+      },
+      {
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/34/pta_216140_1400963_76742.pdf",
+        "quote": "第三名：頒發禮券1000元及獎狀乙張"
+      },
+      {
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/34/pta_216140_1400963_76742.pdf",
+        "quote": "佳作數名：獎狀乙張"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "banned",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/34/pta_216140_1400963_76742.pdf",
+        "quote": "英語劇本對白需原創，不得使用AI 生成作品。"
+      },
+      {
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/34/pta_216140_1400963_76742.pdf",
+        "quote": "請勿使用文字轉語音或AI 語音生成功能錄製影片。"
+      }
+    ]
+  },
+  "links": {
+    "official": "http://aecyut.cyut.edu.tw/",
+    "rules": [
+      {
+        "title": "活動辦法",
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/34/pta_216140_1400963_76742.pdf"
+      }
+    ],
+    "registration": "https://forms.gle/Uuq2cMJXHrgJH9RR7"
+  },
+  "found_via": [
+    {
+      "name": "彰化高中 競賽公告",
+      "url": "https://www.chsh.chc.edu.tw/p/406-1009-189378,r70.php?Lang=zh-tw"
+    },
+    {
+      "name": "彰化高中 競賽公告",
+      "url": "https://www.chsh.chc.edu.tw/p/406-1009-189378,r70.php"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-25",
+    "method": "single",
+    "unread": [
+      "公文.PDF",
+      "活動海報.png"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-25",
+  "level": "checked",
+  "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-cyut-kuso-english-dubbing/",
+  "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-cyut-kuso-english-dubbing.md"
+}

@@ -142,13 +142,14 @@
   ],
   "verification": {
     "last_verified": "2026-11-25",
-    "method": "single",
+    "method": "dual",
     "unread": [
       "醒吾科技大學流行音樂創作系官網「最新資訊」頁的報名資訊",
       "海報上的報名 QR code"
     ],
     "note": null,
     "readers": [
+      "claude-opus-5-5",
       "claude-opus-5-5"
     ]
   },

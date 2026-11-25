@@ -136,13 +136,14 @@
   ],
   "verification": {
     "last_verified": "2026-11-25",
-    "method": "single",
+    "method": "dual",
     "unread": [
       "官方競賽辦法（賽事網址 https://www.metamanga.ai/contest）",
       "活動海報（附件）"
     ],
     "note": null,
     "readers": [
+      "claude-opus-5-5",
       "claude-opus-5-5"
     ]
   },

@@ -1,0 +1,235 @@
+{
+  "schema": 1,
+  "id": "2026-hochi-calligraphy",
+  "title": "第三屆全國書法比賽",
+  "edition": "第三屆",
+  "summary": "各級學生與社會大眾以「孝親報恩」或「和氣」相關詩詞書寫一幅書法作品參賽。",
+  "organizers": [
+    {
+      "name": "和氣大愛文教基金會",
+      "role": "主辦"
+    },
+    {
+      "name": "傑閣書會",
+      "role": "協辦"
+    },
+    {
+      "name": "龍笛實業股份有限公司",
+      "role": "協辦"
+    },
+    {
+      "name": "傳光人協進會",
+      "role": "協辦"
+    }
+  ],
+  "categories": [
+    "美術"
+  ],
+  "eligibility": {
+    "levels": [
+      "國小",
+      "國中",
+      "高中",
+      "高職",
+      "大專",
+      "社會人士"
+    ],
+    "division": "separate",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": null,
+    "team_max": null,
+    "teacher": "optional",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg317/「115和氣大愛文教基金會第三屆全國書法比賽」1.pdf",
+        "quote": "(一)參加對象：分為國小中低年級組、國小高年級組、國中組、高中職組、大專社會組及長青組，共六組。"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg317/「115和氣大愛文教基金會第三屆全國書法比賽」2.pdf",
+        "quote": "個人報名：參賽者請將報名表資料以正楷填寫完後，浮貼在作品背面左上角，並以信封郵寄本會。"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg317/「115和氣大愛文教基金會第三屆全國書法比賽」2.pdf",
+        "quote": "團體報名：由指導老師代表填寫電子報名表，每份學生作品，仍請附上紙本報名表。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "submission_deadline",
+      "label": "作品收件截止（以郵戳為憑）",
+      "date": "2026-11-20",
+      "time": null,
+      "original": "民國115年11月20日（週五）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg317/「115和氣大愛文教基金會第三屆全國書法比賽」2.pdf",
+          "quote": "（一）收件日期：即日起至民國115年11月20日（週五）截止，以郵戳為憑。"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "成績公布",
+      "date": "2026-12-25",
+      "time": null,
+      "original": "115年12月25日（週五）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg317/「115和氣大愛文教基金會第三屆全國書法比賽」2.pdf",
+          "quote": "（三）成績公布：115年12月25日（週五）"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "得獎作品展開始（展至3月11日）",
+      "date": "2027-03-02",
+      "time": null,
+      "original": "116年3月2日（週二）至3月11日（週四）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg317/「115和氣大愛文教基金會第三屆全國書法比賽」2.pdf",
+          "quote": "（一）作品展出：116年3月2日（週二）至3月11日（週四）"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "頒獎典禮",
+      "date": "2027-03-06",
+      "time": null,
+      "original": "116年3月6日（週六下午）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg317/「115和氣大愛文教基金會第三屆全國書法比賽」2.pdf",
+          "quote": "頒獎時間：116年3月6日（週六下午）"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "收件",
+      "what": "書法作品一件（高中職組書體不拘，對開宣紙約長136公分、寬35公分，須落款署名並寫校名及年級，不需裱褙），背面左上角浮貼紙本報名表",
+      "how": "mail"
+    },
+    {
+      "stage": "收件",
+      "what": "電子報名表（掃描報名表上的 QR-code 填寫；團體報名由指導老師代表填寫）",
+      "how": "online"
+    }
+  ],
+  "attendance": {
+    "value": "none",
+    "where": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg317/「115和氣大愛文教基金會第三屆全國書法比賽」1.pdf"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg317/「115和氣大愛文教基金會第三屆全國書法比賽」2.pdf"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg317/「115和氣大愛文教基金會第三屆全國書法比賽」1.pdf"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg317/「115和氣大愛文教基金會第三屆全國書法比賽」2.pdf"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "高中職組：首獎 1 名 3,000 元＋獎座、二獎 2 名各 2,000 元、三獎 3 名各 1,500 元；各組另有佳作若干名，頒獎狀及獎品；首獎水準未達標準得從缺。指導學生統一報名送件 5 件以上的老師可獲春風化雨玉才獎（獎狀及獎品）。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg317/「115和氣大愛文教基金會第三屆全國書法比賽」2.pdf",
+        "quote": "首獎（一名） 二獎（二名） 三獎（三名）"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg317/「115和氣大愛文教基金會第三屆全國書法比賽」2.pdf",
+        "quote": "高中職組 3000＋獎座 2000 1500"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg317/「115和氣大愛文教基金會第三屆全國書法比賽」2.pdf",
+        "quote": "（二）佳作若干名，頒發獎狀及獎品以資鼓勵，依各組人數之多寡與水準之高低而定。"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg317/「115和氣大愛文教基金會第三屆全國書法比賽」2.pdf",
+        "quote": "（三）各組之首獎水準如未達標準，得予從缺。"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg317/「115和氣大愛文教基金會第三屆全國書法比賽」2.pdf",
+        "quote": "（四）春風化雨玉才獎：凡指導學生參賽並統一報名送件(不分組別五位以上)，依參賽件數與作品水準鄰選若干名，頒贈獎狀及獎品。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg317/「115和氣大愛文教基金會第三屆全國書法比賽」1.pdf"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg317/「115和氣大愛文教基金會第三屆全國書法比賽」2.pdf"
+      }
+    ]
+  },
+  "links": {
+    "official": null,
+    "rules": [
+      {
+        "title": "比賽簡章及報名表",
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg317/「115和氣大愛文教基金會第三屆全國書法比賽」2.pdf"
+      },
+      {
+        "title": "文選參考",
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg317/「115和氣大愛文教基金會第三屆全國書法比賽」3.pdf"
+      },
+      {
+        "title": "基金會公文",
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg317/「115和氣大愛文教基金會第三屆全國書法比賽」1.pdf"
+      }
+    ],
+    "registration": null
+  },
+  "found_via": [
+    {
+      "name": "成功高中 活動競賽",
+      "url": "https://www.cksh.tp.edu.tw/news/%e3%80%90%e8%bd%89%e7%9f%a5%e3%80%91%e8%b2%a1%e5%9c%98%e6%b3%95%e4%ba%ba%e5%92%8c%e6%b0%a3%e5%a4%a7%e6%84%9b%e6%96%87%e6%95%99%e5%9f%ba%e9%87%91%e6%9c%83%e6%aa%a2%e9%80%81%e3%80%8c115%e5%92%8c/"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-25",
+    "method": "single",
+    "unread": [
+      "報名表上 QR-code 所連的電子報名表"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-25",
+  "level": "checked",
+  "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-hochi-calligraphy/",
+  "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-hochi-calligraphy.md"
+}

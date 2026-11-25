@@ -1,0 +1,230 @@
+{
+  "schema": 1,
+  "id": "2026-tpcu-english-dubbing",
+  "title": "2026年全國高中職學生英語配音比賽",
+  "edition": "2026",
+  "summary": "同校高中職學生 4 至 6 人組隊，為指定公播版戲劇或動畫影片配上英語口白。",
+  "organizers": [
+    {
+      "name": "臺北城市科技大學應用外語系",
+      "role": "主辦"
+    },
+    {
+      "name": "教育部高等教育深耕計畫",
+      "role": "協辦"
+    },
+    {
+      "name": "臺北城市科技大學外語教學委員會",
+      "role": "協辦"
+    }
+  ],
+  "categories": [
+    "外語",
+    "表演藝術"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職"
+    ],
+    "division": "hs_only",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "school",
+    "team_min": 4,
+    "team_max": 6,
+    "teacher": "required",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/54/pta_226985_8071056_84343.pdf",
+        "quote": "經教育部核准設立之在校高中職學生，且須經由學校遴薦者。"
+      },
+      {
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/54/pta_226985_8071056_84343.pdf",
+        "quote": "須由同一學校之學生4～6 人組隊報名"
+      },
+      {
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/54/pta_226985_8071056_84343.pdf",
+        "quote": "報名表上含：(1) 指導老師簽名"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "線上報名及作品收件截止",
+      "date": "2026-11-23",
+      "time": "17:00",
+      "original": "即日起～2026/11/23(一) 17:00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/54/pta_226985_8071056_84343.pdf",
+          "quote": "即日起～2026/11/23(一) 17:00"
+        },
+        {
+          "url": "https://www.chsh.chc.edu.tw/p/406-1009-196091,r70.php?Lang=zh-tw",
+          "quote": "1.線上報名／收件截止日:即日起～2026/11/23(一) 17:00"
+        }
+      ]
+    },
+    {
+      "kind": "shortlist_announcement",
+      "label": "決賽名單公告",
+      "date": "2026-11-30",
+      "time": "17:00",
+      "original": "11/30(一) 17:00 前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/54/pta_226985_8071056_84343.pdf",
+          "quote": "11/30(一) 17:00 前"
+        },
+        {
+          "url": "https://www.chsh.chc.edu.tw/p/406-1009-196091,r70.php?Lang=zh-tw",
+          "quote": "2.決賽名單公告日:11/30(一) 17:00前"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "非主修英語組決賽",
+      "date": "2026-12-10",
+      "time": null,
+      "original": "12/10(四) 非主修英語組",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/54/pta_226985_8071056_84343.pdf",
+          "quote": "12/10(四) 非主修英語組"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "主修英語組決賽",
+      "date": "2026-12-11",
+      "time": null,
+      "original": "12/11(五) 主修英語組",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/54/pta_226985_8071056_84343.pdf",
+          "quote": "12/11(五) 主修英語組"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名",
+      "what": "Google 表單報名表",
+      "how": "online"
+    },
+    {
+      "stage": "報名",
+      "what": "紙本報名表（指導老師簽名、參賽選手學生證影本、學校關防或科章），以掛號寄送",
+      "how": "mail"
+    },
+    {
+      "stage": "初賽",
+      "what": "電子郵件寄送報名表掃描檔、評分表，及含台詞檔、初賽影片（不含背景音樂與音效、不得出現選手影像）與決賽影片的雲端資料夾連結",
+      "how": "online"
+    },
+    {
+      "stage": "決賽",
+      "what": "現場為 5 分鐘內影片配音演出，可自備道具製造音效",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "finalists",
+    "where": "臺北城市科技大學財經大樓 2 樓國際會議廳",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/54/pta_226985_8071056_84343.pdf",
+        "quote": "臺北城市科技大學 財經大樓2 樓國際會議廳（112 台北市北投區學園路2 號）"
+      },
+      {
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/54/pta_226985_8071056_84343.pdf",
+        "quote": "比賽當天每隊若少於4 人，將取消決賽資格。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/54/pta_226985_8071056_84343.pdf"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "主修組與非主修組分別評選團體獎前三名、佳作數名及優秀配音員獎數名，頒發獎狀；進入決賽者頒發決賽證明。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/54/pta_226985_8071056_84343.pdf",
+        "quote": "主修組與非主修組分別評選團體獎前三名、佳作數名以及優秀配音員獎數名，頒發獎狀。"
+      },
+      {
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/54/pta_226985_8071056_84343.pdf",
+        "quote": "凡進入決賽者將頒發「決賽證明」。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/54/pta_226985_8071056_84343.pdf"
+      }
+    ]
+  },
+  "links": {
+    "official": null,
+    "rules": [
+      {
+        "title": "比賽辦法",
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/54/pta_226985_8071056_84343.pdf"
+      }
+    ],
+    "registration": "https://forms.gle/gFH5xTcHB15Hgwn16"
+  },
+  "found_via": [
+    {
+      "name": "南港高工 重要資訊",
+      "url": "https://www.nkhs.tp.edu.tw/ischool/public/news_view/show.php?nid=34845"
+    },
+    {
+      "name": "高師大附中 校外競賽與活動",
+      "url": "https://www.nknush.kh.edu.tw/announcement/20778/%e7%ab%b6%e8%b3%bd%e3%80%8c2026%e5%b9%b4%e5%85%a8%e5%9c%8b%e9%ab%98%e4%b8%ad%e8%81%b7%e5%ad%b8%e7%94%9f%e8%8b%b1%e8%aa%9e%e9%85%8d%e9%9f%b3%e6%af%94%e8%b3%bd%e3%80%8d%e5%af%a6%e7%a0%94%e7%b5%84/"
+    },
+    {
+      "name": "彰化高中 競賽公告",
+      "url": "https://www.chsh.chc.edu.tw/p/406-1009-196091,r70.php?Lang=zh-tw"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-25",
+    "method": "single",
+    "unread": [
+      "比賽現場參賽者站立位置圖"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-25",
+  "level": "checked",
+  "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-tpcu-english-dubbing/",
+  "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-tpcu-english-dubbing.md"
+}

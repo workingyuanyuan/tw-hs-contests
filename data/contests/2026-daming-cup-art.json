@@ -1,0 +1,153 @@
+{
+  "schema": 1,
+  "id": "2026-daming-cup-art",
+  "title": "2026大明盃美術比賽",
+  "edition": "2026",
+  "summary": "幼兒園至社會人士分組參賽，創作寫生類或插畫類美術作品。",
+  "organizers": [
+    {
+      "name": "大明高中",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "美術"
+  ],
+  "eligibility": {
+    "levels": [
+      "國小",
+      "國中",
+      "高中",
+      "高職",
+      "大專",
+      "社會人士"
+    ],
+    "division": "separate",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "unknown",
+    "team_min": null,
+    "team_max": null,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://dlsh.tc.edu.tw/p/406-1068-636911,r2145.php?Lang=zh-tw",
+        "quote": "(一) 寫生類：分幼童組(國小低年級、幼兒園)、國小中年級組、國小高年級組、國中組、高中職組、社會組(大專院校、社會人士)共六組。"
+      },
+      {
+        "url": "https://dlsh.tc.edu.tw/p/406-1068-636911,r2145.php?Lang=zh-tw",
+        "quote": "(二) 插畫類：中學以上(國中、高中職、大專院校、社會人士，不分組)。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "網路報名截止",
+      "date": "2026-11-08",
+      "time": "23:59",
+      "original": "即日起至11月8日（日）23：59止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://dlsh.tc.edu.tw/p/406-1068-636911,r2145.php?Lang=zh-tw",
+          "quote": "「2026大明盃美術比賽」一律採網路報名，報名期間自即日起至11月8日（日）23：59止。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "現場創作（08:00至08:30報到）",
+      "date": "2026-11-14",
+      "time": "08:00",
+      "original": "2026年11月14日（六）上午08：00至08：30報到",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://dlsh.tc.edu.tw/p/406-1068-636911,r2145.php?Lang=zh-tw",
+          "quote": "(一) 日期：2026年11月14日（六）上午08：00至08：30報到，報到後現場創作至當日12：00截止交件。"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "現場創作截止交件",
+      "date": "2026-11-14",
+      "time": "12:00",
+      "original": "2026年11月14日（六）……至當日12：00截止交件",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://dlsh.tc.edu.tw/p/406-1068-636911,r2145.php?Lang=zh-tw",
+          "quote": "(一) 日期：2026年11月14日（六）上午08：00至08：30報到，報到後現場創作至當日12：00截止交件。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "現場創作",
+      "what": "寫生類或插畫類作品，當日 12:00 前交件",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "大明高中（臺中市潭子區潭興路一段168號）",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://dlsh.tc.edu.tw/p/406-1068-636911,r2145.php?Lang=zh-tw",
+        "quote": "(一) 日期：2026年11月14日（六）上午08：00至08：30報到，報到後現場創作至當日12：00截止交件。"
+      },
+      {
+        "url": "https://dlsh.tc.edu.tw/p/406-1068-636911,r2145.php?Lang=zh-tw",
+        "quote": "(二) 地點：大明高中（臺中市潭子區潭興路一段168號）。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "unknown",
+    "amount": null,
+    "basis": "unread",
+    "evidence": []
+  },
+  "prizes": {
+    "text": null,
+    "basis": "unread",
+    "evidence": []
+  },
+  "ai_policy": {
+    "value": "unknown",
+    "basis": "unread",
+    "evidence": []
+  },
+  "links": {
+    "official": null,
+    "rules": [],
+    "registration": "https://forms.gle/3GsEuruqZxjqnQs69"
+  },
+  "found_via": [
+    {
+      "name": "大里高中 校外活動與競賽",
+      "url": "https://dlsh.tc.edu.tw/p/406-1068-636911,r2145.php?Lang=zh-tw"
+    },
+    {
+      "name": "大里高中 校外活動與競賽",
+      "url": "https://dlsh.tc.edu.tw/p/406-1068-636911,r2145.php"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-25",
+    "method": "single",
+    "unread": [],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-25"
+}

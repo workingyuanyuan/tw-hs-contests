@@ -1,0 +1,203 @@
+{
+  "schema": 1,
+  "id": "2026-youth-health-advocacy",
+  "title": "2026 青春健言行動｜我的健康，由我發聲",
+  "edition": "2026",
+  "summary": "高中職學生 3 至 5 人組隊，就五個健康議題子題擇一提出健康倡議提案簡報。",
+  "organizers": [
+    {
+      "name": "今周刊",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "醫護與照顧",
+    "社會人文"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職"
+    ],
+    "division": "hs_only",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 3,
+    "team_max": 5,
+    "teacher": "required",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.k12ea.gov.tw/Tw/Common/Downloader?id=d3a783ba-4423-4f6e-b954-a263b903d6b9",
+        "quote": "參與對象：全臺各公私立高級中等學校、高級中等外僑學校及高級中等實驗教育機構之在學學生。"
+      },
+      {
+        "url": "https://www.k12ea.gov.tw/Tw/Common/Downloader?id=d3a783ba-4423-4f6e-b954-a263b903d6b9",
+        "quote": "每隊3–5 名學生（建議以高一、高二學生為主），鼓勵跨年級組隊參加；每隊須有1 名指導老師，並作為主要聯絡窗口。"
+      },
+      {
+        "url": "https://www.k12ea.gov.tw/Tw/Common/Downloader?id=d3a783ba-4423-4f6e-b954-a263b903d6b9",
+        "quote": "報名方式：採Google 表單線上報名，每組填寫一份"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "submission_deadline",
+      "label": "線上報名及提案檔案上傳截止",
+      "date": "2026-10-30",
+      "time": "17:00",
+      "original": "10 月30 日（五）17:00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.k12ea.gov.tw/Tw/Common/Downloader?id=d3a783ba-4423-4f6e-b954-a263b903d6b9",
+          "quote": "收件截止日：即日起（一）起至10 月30 日（五）17:00 止，逾期恕不受理。"
+        },
+        {
+          "url": "https://www.k12ea.gov.tw/Tw/Annc/Detail?filter=AC097895-3399-4890-8891-FC005A77CCB3&id=7f6d70a4-35bb-4396-934b-caec2dd713c7",
+          "quote": "(二)徵件期間：即日起至115年10月30日（星期五）下午5時止。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "決選暨論壇（入圍 10 組現場發表）",
+      "date": "2026-11-16",
+      "time": "13:30",
+      "original": "2026 年11 月16 日（一）13:00 至13:30 報到，13:30 活動開始",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.k12ea.gov.tw/Tw/Common/Downloader?id=d3a783ba-4423-4f6e-b954-a263b903d6b9",
+          "quote": "決選暨論壇：2026 年11 月16 日（一）13:00 至13:30 報到，13:30 活動開始。"
+        },
+        {
+          "url": "https://www.k12ea.gov.tw/Tw/Annc/Detail?filter=AC097895-3399-4890-8891-FC005A77CCB3&id=7f6d70a4-35bb-4396-934b-caec2dd713c7",
+          "quote": "(三)決選暨論壇時間：115年11月16日（星期一）下午1時30分至4時40分。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名（初審）",
+      "what": "16:9 簡報檔 5 至 8 頁（PPT、PPTX 或 PDF，10MB 內）、提案摘要、3 項健康政策提問，以及簽署的指導老師／參賽同意文件",
+      "how": "online"
+    },
+    {
+      "stage": "決選前 3 天（入圍團隊）",
+      "what": "最終簡報檔（16:9 PPTX 與備份 PDF），寄至主辦單位指定信箱",
+      "how": "online"
+    },
+    {
+      "stage": "決選暨論壇（入圍團隊）",
+      "what": "簡報發表 8 分鐘與評審問答 2 分鐘，須由名冊內參賽學生上台",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "finalists",
+    "where": "張榮發基金會國際會議中心10樓1001會議廳（臺北市中正區中山南路11號）",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.k12ea.gov.tw/Tw/Common/Downloader?id=d3a783ba-4423-4f6e-b954-a263b903d6b9",
+        "quote": "評審團依書面提案整體表現擇優選出10 組團隊，晉級11 月16 日實體論壇決選。"
+      },
+      {
+        "url": "https://www.k12ea.gov.tw/Tw/Common/Downloader?id=d3a783ba-4423-4f6e-b954-a263b903d6b9",
+        "quote": "活動地點：張榮發基金會國際會議中心10 樓1001 會議廳（臺北市中正區中山南路11 號）。"
+      },
+      {
+        "url": "https://www.k12ea.gov.tw/Tw/Common/Downloader?id=d3a783ba-4423-4f6e-b954-a263b903d6b9",
+        "quote": "各校進入決選之參賽團隊，活動當日至少須由1 名指導老師陪同出席。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.k12ea.gov.tw/Tw/Annc/Detail?filter=AC097895-3399-4890-8891-FC005A77CCB3&id=7f6d70a4-35bb-4396-934b-caec2dd713c7"
+      },
+      {
+        "url": "https://www.k12ea.gov.tw/Tw/Common/Downloader?id=d3a783ba-4423-4f6e-b954-a263b903d6b9"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "第一名 1 組獎學金 20,000 元、第二名 1 組 15,000 元、第三名 1 組 10,000 元、決選佳作 7 組各 5,000 元；完成參賽及活動程序者另依實際參與情形獲活動參與證明。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.k12ea.gov.tw/Tw/Common/Downloader?id=d3a783ba-4423-4f6e-b954-a263b903d6b9",
+        "quote": "第一名（共1 組）：每組獎學金20,000 元。"
+      },
+      {
+        "url": "https://www.k12ea.gov.tw/Tw/Common/Downloader?id=d3a783ba-4423-4f6e-b954-a263b903d6b9",
+        "quote": "第二名（共1 組）：每組獎學金15,000 元。"
+      },
+      {
+        "url": "https://www.k12ea.gov.tw/Tw/Common/Downloader?id=d3a783ba-4423-4f6e-b954-a263b903d6b9",
+        "quote": "第三名（共1 組）：每組獎學金10,000 元。"
+      },
+      {
+        "url": "https://www.k12ea.gov.tw/Tw/Common/Downloader?id=d3a783ba-4423-4f6e-b954-a263b903d6b9",
+        "quote": "決選佳作（共7 組）：每組學獎金5,000 元。"
+      },
+      {
+        "url": "https://www.k12ea.gov.tw/Tw/Common/Downloader?id=d3a783ba-4423-4f6e-b954-a263b903d6b9",
+        "quote": "活動參與證明：完成主辦單位規定之參賽及活動程序者，主辦單位將依實際參與情形提供活動參與證明。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.k12ea.gov.tw/Tw/Annc/Detail?filter=AC097895-3399-4890-8891-FC005A77CCB3&id=7f6d70a4-35bb-4396-934b-caec2dd713c7"
+      },
+      {
+        "url": "https://www.k12ea.gov.tw/Tw/Common/Downloader?id=d3a783ba-4423-4f6e-b954-a263b903d6b9"
+      }
+    ]
+  },
+  "links": {
+    "official": null,
+    "rules": [
+      {
+        "title": "2026青春健言行動_活動簡章與評選辦法",
+        "url": "https://www.k12ea.gov.tw/Tw/Common/Downloader?id=d3a783ba-4423-4f6e-b954-a263b903d6b9"
+      }
+    ],
+    "registration": "https://forms.gle/1tY8d8SWUaFV7hBDA"
+  },
+  "found_via": [
+    {
+      "name": "教育部國民及學前教育署 公文公告平台",
+      "url": "https://www.k12ea.gov.tw/Tw/Annc/Detail?filter=AC097895-3399-4890-8891-FC005A77CCB3&id=7f6d70a4-35bb-4396-934b-caec2dd713c7"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-25",
+    "method": "single",
+    "unread": [
+      "指導老師／參賽同意文件"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-25",
+  "level": "checked",
+  "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-youth-health-advocacy/",
+  "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-youth-health-advocacy.md"
+}

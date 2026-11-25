@@ -136,19 +136,20 @@
   ],
   "verification": {
     "last_verified": "2026-11-25",
-    "method": "single",
+    "method": "dual",
     "unread": [
       "官方競賽辦法（賽事網址 https://www.metamanga.ai/contest）",
       "活動海報（附件）"
     ],
     "note": null,
     "readers": [
+      "claude-opus-5-5",
       "claude-opus-5-5"
     ]
   },
   "first_seen": "2026-11-24",
   "updated": "2026-11-25",
-  "level": "checked",
+  "level": "verified",
   "url": "https://yuanaruru.com/tw-hs-contests/contests/2027-metamanga-comic/",
   "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2027-metamanga-comic.md"
 }

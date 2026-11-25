@@ -1,0 +1,185 @@
+{
+  "schema": 1,
+  "id": "2026-changhua-rotary-english-speech",
+  "title": "115年度彰化縣高中職暨國中英語演講比賽",
+  "edition": "115 年度（第 66 屆）",
+  "summary": "彰化縣各高中職、國中遴派學生，以自訂題目上台發表英語演講。",
+  "organizers": [
+    {
+      "name": "彰化扶輪社",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "外語"
+  ],
+  "eligibility": {
+    "levels": [
+      "國中",
+      "高中",
+      "高職"
+    ],
+    "division": "separate",
+    "regions": [
+      "彰化縣"
+    ],
+    "nomination": "school",
+    "team_min": 1,
+    "team_max": 1,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/95/pta_227481_8692695_93899.pdf",
+        "quote": "受文者：彰化縣各公私立高中職學校、彰化縣各公私立國民中學。"
+      },
+      {
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/95/pta_227481_8692695_93899.pdf",
+        "quote": "2.國中組：凡本縣境內公私立國中學校得遴派三名學生參加。"
+      },
+      {
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/95/pta_227481_8692695_93899.pdf",
+        "quote": "高中職每校得遴派三名學生參加；國中每校得遴派三名學生參加。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "通信報名截止（以郵戳為憑）",
+      "date": "2026-11-15",
+      "time": null,
+      "original": "11月15日(星期日)前（以郵戳為憑）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/95/pta_227481_8692695_93899.pdf",
+          "quote": "五、報名方式：一律採通信報名，請於11月15日(星期日)前（以郵戳為憑）"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "比賽（12:30 報到）",
+      "date": "2026-12-12",
+      "time": "13:00",
+      "original": "民國115年12月12日（星期六）下午12:30報到；13:00比賽。",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/95/pta_227481_8692695_93899.pdf",
+          "quote": "三、比賽時間：民國115年12月12日（星期六）下午12:30報到；13:00比賽。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名",
+      "what": "報名表，並填寫自訂的英語演講題目",
+      "how": "mail"
+    },
+    {
+      "stage": "比賽當日",
+      "what": "演講稿 A4 影印三份並署名，供評審參考",
+      "how": "onsite"
+    },
+    {
+      "stage": "比賽當日",
+      "what": "3 至 5 分鐘英語演講，未達 3 分鐘或超過 5 分鐘不計名次",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "彰化扶輪社社館（彰化縣農會大樓 11 樓，彰化市中山路二段 351 號）",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/95/pta_227481_8692695_93899.pdf",
+        "quote": "參賽者須於比賽當日至比賽現場完成報到，並以抽籤方式決定上台順序。"
+      },
+      {
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/95/pta_227481_8692695_93899.pdf",
+        "quote": "地點：本社社館(彰化縣農會大樓11樓，彰化縣政府斜對面)。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.chsh.chc.edu.tw/p/406-1009-196423,r70.php?Lang=zh-tw"
+      },
+      {
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/95/pta_227481_8692695_93899.pdf"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "各組參賽 10 名以下錄取前三名、11 名以上錄取前五名，賽後現場公佈成績並頒發獎金；各組前三名可免費參加 RYLA 青少年領袖營（兩天一夜，價值新臺幣 6,000 元）；參賽學生均頒發參賽獎狀。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/95/pta_227481_8692695_93899.pdf",
+        "quote": "十三、比賽各組參賽學生10名以下錄取前三名；11名以上錄取前五名，於賽後現場公佈成績並頒發獎金。"
+      },
+      {
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/95/pta_227481_8692695_93899.pdf",
+        "quote": "十四、新增獎勵措施：本年度各組別前三名獲獎學生，均可免費參加RYLA青少年領袖營"
+      },
+      {
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/95/pta_227481_8692695_93899.pdf",
+        "quote": "(兩天一夜，價值新臺幣6,000元)。"
+      },
+      {
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/95/pta_227481_8692695_93899.pdf",
+        "quote": "十二、參賽學生均頒發參賽獎狀乙份，以資鼓勵。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.chsh.chc.edu.tw/p/406-1009-196423,r70.php?Lang=zh-tw"
+      },
+      {
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/95/pta_227481_8692695_93899.pdf"
+      }
+    ]
+  },
+  "links": {
+    "official": null,
+    "rules": [
+      {
+        "title": "彰化扶輪社公文（比賽辦法、報名表、評分方式）",
+        "url": "https://www.chsh.chc.edu.tw/var/file/9/1009/attach/95/pta_227481_8692695_93899.pdf"
+      }
+    ],
+    "registration": null
+  },
+  "found_via": [
+    {
+      "name": "彰化高中 競賽公告",
+      "url": "https://www.chsh.chc.edu.tw/p/406-1009-196423,r70.php?Lang=zh-tw"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-25",
+    "method": "single",
+    "unread": [],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-25",
+  "level": "checked",
+  "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-changhua-rotary-english-speech/",
+  "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-changhua-rotary-english-speech.md"
+}

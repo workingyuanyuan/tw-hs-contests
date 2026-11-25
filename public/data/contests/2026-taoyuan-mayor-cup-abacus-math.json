@@ -1,0 +1,249 @@
+{
+  "schema": 1,
+  "id": "2026-taoyuan-mayor-cup-abacus-math",
+  "title": "第十一屆桃園市長盃珠心算暨數學公開邀請賽",
+  "edition": "第十一屆",
+  "summary": "幼兒園至高中學生依年級分組，參加心算、珠算或數學的限時計算與選擇題測驗。",
+  "organizers": [
+    {
+      "name": "桃園市政府",
+      "role": "指導"
+    },
+    {
+      "name": "桃園市政府教育局",
+      "role": "指導"
+    },
+    {
+      "name": "桃園市議會",
+      "role": "指導"
+    },
+    {
+      "name": "桃園市多元教育發展協會",
+      "role": "主辦"
+    },
+    {
+      "name": "台灣省商業會",
+      "role": "協辦"
+    },
+    {
+      "name": "中華珠算研究學會",
+      "role": "協辦"
+    },
+    {
+      "name": "桃園市攝影研究學會",
+      "role": "協辦"
+    },
+    {
+      "name": "桃園市家長協會",
+      "role": "協辦"
+    }
+  ],
+  "categories": [
+    "數學"
+  ],
+  "eligibility": {
+    "levels": [
+      "國小",
+      "國中",
+      "高中"
+    ],
+    "division": "mixed",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "school",
+    "team_min": 1,
+    "team_max": 1,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "http://www.wlsh.tyc.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mek0yTDNCMFlWODJNRFUzT0Y4ME9UazBPREkzWHpRMU9UY3pMbkJrWmc9PQ==&fname=0054YSB0PKQOTXHHGGVWUSWT14PKUW35503435YWXXFDNLNL",
+        "quote": "九、參加資格：台灣及海外就讀幼兒園、國小、國中、高中之學生皆可報名參加"
+      },
+      {
+        "url": "http://www.wlsh.tyc.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mek0yTDNCMFlWODJNRFUzT0Y4ME9UazBPREkzWHpRMU9UY3pMbkJrWmc9PQ==&fname=0054YSB0PKQOTXHHGGVWUSWT14PKUW35503435YWXXFDNLNL",
+        "quote": "(2)珠算組：幼童組、一年級、二年級、三年級、四年級、高年級、國高中組。"
+      },
+      {
+        "url": "http://www.wlsh.tyc.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mek0yTDNCMFlWODJNRFUzT0Y4ME9UazBPREkzWHpRMU9UY3pMbkJrWmc9PQ==&fname=0054YSB0PKQOTXHHGGVWUSWT14PKUW35503435YWXXFDNLNL",
+        "quote": "名額限桃園市公私立幼兒園及桃園市公私立國小、國中、高中"
+      },
+      {
+        "url": "http://www.wlsh.tyc.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mek0yTDNCMFlWODJNRFUzT0Y4ME9UazBPREkzWHpRMU9UY3pMbkJrWmc9PQ==&fname=0054YSB0PKQOTXHHGGVWUSWT14PKUW35503435YWXXFDNLNL",
+        "quote": "每校免費報名三位選手參賽，每位選手只能報一組參賽。"
+      },
+      {
+        "url": "http://www.wlsh.tyc.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mek0yTDNCMFlWODJNRFUzT0Y4ME9UazBPREkzWHpRMU9UY3pMbkJrWmc9PQ==&fname=0054YSB0PKQOTXHHGGVWUSWT14PKUW35503435YWXXFDNLNL",
+        "quote": "未蓋學校官印不予受理。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "E-mail 報名截止",
+      "date": "2026-10-30",
+      "time": null,
+      "original": "10 月30 日（星期五）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "http://www.wlsh.tyc.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mek0yTDNCMFlWODJNRFUzT0Y4ME9UazBPREkzWHpRMU9UY3pMbkJrWmc9PQ==&fname=0054YSB0PKQOTXHHGGVWUSWT14PKUW35503435YWXXFDNLNL",
+          "quote": "(1)報名自即日起至10 月30 日（星期五）截止，一律採E-mail 報名，報名時請詳填名字、"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "選手證掛號寄出並開放自取",
+      "date": "2026-11-20",
+      "time": null,
+      "original": "11 月20 日(星期五)後",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "http://www.wlsh.tyc.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mek0yTDNCMFlWODJNRFUzT0Y4ME9UazBPREkzWHpRMU9UY3pMbkJrWmc9PQ==&fname=0054YSB0PKQOTXHHGGVWUSWT14PKUW35503435YWXXFDNLNL",
+          "quote": "1.選手證於11 月20 日(星期五)後郵局掛號以及開放自取"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "比賽",
+      "date": "2026-12-06",
+      "time": "08:00",
+      "original": "民國115 年12 月6 日（星期日) 上午8:00~下午3:00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "http://www.wlsh.tyc.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mek0yTDNCMFlWODJNRFUzT0Y4ME9UazBPREkzWHpRMU9UY3pMbkJrWmc9PQ==&fname=0054YSB0PKQOTXHHGGVWUSWT14PKUW35503435YWXXFDNLNL",
+          "quote": "八、比賽日期：民國115 年12 月6 日（星期日) 上午8:00~下午3:00"
+        },
+        {
+          "url": "http://www.wlsh.tyc.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mek0yTDNCMFlWODJNRFUzTjE4NU5qYzJOamM1WHpRMU9UY3pMbkJrWmc9PQ==&fname=0054YSB0PKQOVXHHGGVWUSWT14PKUW35503435YWXXFDNLNL",
+          "quote": "旨揭活動訂於115年12月6日（星期日）上午8時至下午5時"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "比賽（心算組）",
+      "what": "依年級作答加減及乘除心算題，限時 1 分 30 秒，不得使用紙算盤",
+      "how": "onsite"
+    },
+    {
+      "stage": "比賽（珠算組）",
+      "what": "以 5 珠算盤作答加減及乘除珠算題，限時 3 分鐘",
+      "how": "onsite"
+    },
+    {
+      "stage": "比賽（數學組，幼童至國中）",
+      "what": "選擇題 20 至 30 題，限時 25 分鐘，不得使用計算機或算盤",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "桃園市復旦國小（桃園市平鎮區廣平街 1 號）",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "http://www.wlsh.tyc.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mek0yTDNCMFlWODJNRFUzT0Y4ME9UazBPREkzWHpRMU9UY3pMbkJrWmc9PQ==&fname=0054YSB0PKQOTXHHGGVWUSWT14PKUW35503435YWXXFDNLNL",
+        "quote": "比賽地點：桃園市復旦國小（桃園市平鎮區廣達里廣平街1 號）"
+      },
+      {
+        "url": "http://www.wlsh.tyc.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mek0yTDNCMFlWODJNRFUzT0Y4ME9UazBPREkzWHpRMU9UY3pMbkJrWmc9PQ==&fname=0054YSB0PKQOTXHHGGVWUSWT14PKUW35503435YWXXFDNLNL",
+        "quote": "7.請選手攜帶身分證或健保卡，比賽時放在桌上讓監考人員核實身分。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "http://www.wlsh.tyc.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mek0yTDNCMFlWODJNRFUzT0Y4ME9UazBPREkzWHpRMU9UY3pMbkJrWmc9PQ==&fname=0054YSB0PKQOTXHHGGVWUSWT14PKUW35503435YWXXFDNLNL",
+        "quote": "每校免費報名三位選手參賽，每位選手只能報一組參賽。"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "各組總冠軍 1 名獎盃及獎狀；第 1、2 名各錄取 10%，獎盃及獎狀；第 3 名錄取 30%，獎盃；第 4 名若干名，獎盃。各組總冠軍及第 1、2 名另獲桃園市政府教育局獎狀，比賽一個月後寄至學校；海外組無教育局獎狀。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "http://www.wlsh.tyc.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mek0yTDNCMFlWODJNRFUzT0Y4ME9UazBPREkzWHpRMU9UY3pMbkJrWmc9PQ==&fname=0054YSB0PKQOTXHHGGVWUSWT14PKUW35503435YWXXFDNLNL",
+        "quote": "總冠軍 1 名 獎盃乙座、獎狀乙紙"
+      },
+      {
+        "url": "http://www.wlsh.tyc.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mek0yTDNCMFlWODJNRFUzT0Y4ME9UazBPREkzWHpRMU9UY3pMbkJrWmc9PQ==&fname=0054YSB0PKQOTXHHGGVWUSWT14PKUW35503435YWXXFDNLNL",
+        "quote": "第1 名 10% 獎盃乙座、獎狀乙紙 第2 名 10% 獎盃乙座、獎狀乙紙 第3 名 30% 獎盃乙座 第4 名 若干名 獎盃乙座"
+      },
+      {
+        "url": "http://www.wlsh.tyc.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mek0yTDNCMFlWODJNRFUzT0Y4ME9UazBPREkzWHpRMU9UY3pMbkJrWmc9PQ==&fname=0054YSB0PKQOTXHHGGVWUSWT14PKUW35503435YWXXFDNLNL",
+        "quote": "※各組總冠軍及第1、2 名之選手，頒發桃園市政府教育局獎狀，比賽一個月後教育局再行文寄獎狀至各學校。"
+      },
+      {
+        "url": "http://www.wlsh.tyc.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mek0yTDNCMFlWODJNRFUzT0Y4ME9UazBPREkzWHpRMU9UY3pMbkJrWmc9PQ==&fname=0054YSB0PKQOTXHHGGVWUSWT14PKUW35503435YWXXFDNLNL",
+        "quote": "※海外組總冠軍和前兩名無桃園市政府教育局獎狀。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "http://www.wlsh.tyc.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mek0yTDNCMFlWODJNRFUzT0Y4ME9UazBPREkzWHpRMU9UY3pMbkJrWmc9PQ==&fname=0054YSB0PKQOTXHHGGVWUSWT14PKUW35503435YWXXFDNLNL"
+      },
+      {
+        "url": "http://www.wlsh.tyc.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mek0yTDNCMFlWODJNRFUzTjE4NU5qYzJOamM1WHpRMU9UY3pMbkJrWmc9PQ==&fname=0054YSB0PKQOVXHHGGVWUSWT14PKUW35503435YWXXFDNLNL"
+      }
+    ]
+  },
+  "links": {
+    "official": null,
+    "rules": [
+      {
+        "title": "競賽計畫書與報名表",
+        "url": "http://www.wlsh.tyc.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mek0yTDNCMFlWODJNRFUzT0Y4ME9UazBPREkzWHpRMU9UY3pMbkJrWmc9PQ==&fname=0054YSB0PKQOTXHHGGVWUSWT14PKUW35503435YWXXFDNLNL"
+      },
+      {
+        "title": "桃園市政府公文",
+        "url": "http://www.wlsh.tyc.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mek0yTDNCMFlWODJNRFUzTjE4NU5qYzJOamM1WHpRMU9UY3pMbkJrWmc9PQ==&fname=0054YSB0PKQOVXHHGGVWUSWT14PKUW35503435YWXXFDNLNL"
+      }
+    ],
+    "registration": null
+  },
+  "found_via": [
+    {
+      "name": "www.wlsh.tyc.edu.tw",
+      "url": "http://www.wlsh.tyc.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mek0yTDNCMFlWODJNRFUzT0Y4ME9UazBPREkzWHpRMU9UY3pMbkJrWmc9PQ==&fname=0054YSB0PKQOTXHHGGVWUSWT14PKUW35503435YWXXFDNLNL"
+    },
+    {
+      "name": "武陵高中 校外競賽",
+      "url": "http://www.wlsh.tyc.edu.tw/p/406-1000-43395,r83.php?Lang=zh-tw"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-25",
+    "method": "single",
+    "unread": [
+      "參賽同意書",
+      "數學比賽答案卷範例"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-25",
+  "conflict": "計畫書寫比賽時間為上午8:00至下午3:00，桃園市政府公文寫上午8時至下午5時。計畫書參加資格寫台灣及海外就讀幼兒園至高中學生皆可報名，所附報名表則寫名額限桃園市公私立幼兒園及國小、國中、高中。",
+  "level": "checked",
+  "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-taoyuan-mayor-cup-abacus-math/",
+  "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-taoyuan-mayor-cup-abacus-math.md"
+}

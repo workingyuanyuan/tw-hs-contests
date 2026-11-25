@@ -2,8 +2,8 @@
   "schema": 1,
   "id": "2027-cyut-ae-short-film",
   "title": "全國校園創意短片比賽",
-  "edition": "第10屆",
-  "summary": "高中職與大專學生 2 至 8 人一組，拍攝介紹就讀科群、系所或學校特色的英文短片。",
+  "edition": "第 10 屆",
+  "summary": "大專及高中職學生 2 至 8 人一組，拍攝介紹就讀科系或學校特色的英文短片。",
   "organizers": [
     {
       "name": "朝陽科技大學應用英語系",
@@ -32,39 +32,39 @@
     "basis": "quote",
     "evidence": [
       {
-        "url": "https://aecyut.cyut.edu.tw/var/file/39/1039/img/343266758.pdf",
+        "url": "https://drive.google.com/file/d/1nulnftoB_C3xeDRqwkAfXxeY-MOG2dDe/view?usp=sharing",
         "quote": "參賽資格：全國大專院校 (含五專四、五年級、大學部、碩士班)以及高中、高職在校學生。"
       },
       {
-        "url": "https://aecyut.cyut.edu.tw/var/file/39/1039/img/343266758.pdf",
+        "url": "https://drive.google.com/file/d/1nulnftoB_C3xeDRqwkAfXxeY-MOG2dDe/view?usp=sharing",
         "quote": "每組以2~8 人為限，參賽同學僅能選擇一組報名，不得跨組、跨系及跨校。"
       },
       {
-        "url": "https://aecyut.cyut.edu.tw/var/file/39/1039/img/343266758.pdf",
+        "url": "https://drive.google.com/file/d/1nulnftoB_C3xeDRqwkAfXxeY-MOG2dDe/view?usp=sharing",
         "quote": "大專院校和高中職組各別錄取團體獎五名，唯主辦單位可視實際參賽隊伍，增刪優勝隊伍數。"
       },
       {
-        "url": "https://aecyut.cyut.edu.tw/var/file/39/1039/img/343266758.pdf",
-        "quote": "請線上填寫報名表（需附參賽作品網址連結），網址https://forms.gle/9V7oENByauhQHiAe7。"
+        "url": "https://drive.google.com/file/d/1nulnftoB_C3xeDRqwkAfXxeY-MOG2dDe/view?usp=sharing",
+        "quote": "請線上填寫報名表（需附參賽作品網址連結），網址https://forms.gle/9V7oENByauhQHiAe7 。"
       }
     ]
   },
   "dates": [
     {
       "kind": "registration_deadline",
-      "label": "報名及作品連結繳交截止",
+      "label": "線上報名及繳交作品連結截止",
       "date": "2027-01-15",
       "time": "12:00",
       "original": "民國116 年1 月15 日(星期五)中午12:00",
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://aecyut.cyut.edu.tw/var/file/39/1039/img/343266758.pdf",
+          "url": "https://drive.google.com/file/d/1nulnftoB_C3xeDRqwkAfXxeY-MOG2dDe/view?usp=sharing",
           "quote": "請於民國116 年1 月15 日(星期五)中午12:00 前，完成以下報名手續。"
         },
         {
-          "url": "https://aecyut.cyut.edu.tw/p/406-1039-66700,r106.php?Lang=zh-tw",
-          "quote": "即日起至民國116年01月15日(星期五)中午12:00為止，請線上填寫報名表（需附參賽作品網址連結）"
+          "url": "https://www.tlsh.ylc.edu.tw/2026/10/01/67699/",
+          "quote": "活動報名自即日起至116年1月15日中午12時止，請線上填寫報名表（需附參賽作品網址連結）"
         }
       ]
     }
@@ -76,8 +76,8 @@
       "how": "online"
     },
     {
-      "stage": "作品",
-      "what": "3 至 4 分鐘短片，配英文旁白與英文字幕",
+      "stage": "報名",
+      "what": "3 至 4 分鐘影片，配英文旁白與英文字幕，可自製音效",
       "how": "online"
     }
   ],
@@ -87,7 +87,10 @@
     "basis": "absent",
     "evidence": [
       {
-        "url": "https://aecyut.cyut.edu.tw/var/file/39/1039/img/343266758.pdf"
+        "url": "https://drive.google.com/file/d/1nulnftoB_C3xeDRqwkAfXxeY-MOG2dDe/view?usp=sharing"
+      },
+      {
+        "url": "https://www.tlsh.ylc.edu.tw/2026/10/01/67699/"
       }
     ]
   },
@@ -97,32 +100,35 @@
     "basis": "absent",
     "evidence": [
       {
-        "url": "https://aecyut.cyut.edu.tw/var/file/39/1039/img/343266758.pdf"
+        "url": "https://drive.google.com/file/d/1nulnftoB_C3xeDRqwkAfXxeY-MOG2dDe/view?usp=sharing"
+      },
+      {
+        "url": "https://www.tlsh.ylc.edu.tw/2026/10/01/67699/"
       }
     ]
   },
   "prizes": {
-    "text": "大專院校組與高中職組各錄取團體獎五名：第一名禮券 3,000 元、第二名禮券 2,000 元、第三名禮券 1,000 元，皆附獎狀；佳作頒發獎狀。",
+    "text": "大專院校組與高中職組各錄取團體獎五名（主辦單位可視參賽隊伍增刪）：第一名禮券 3,000 元及獎狀、第二名禮券 2,000 元及獎狀、第三名禮券 1,000 元及獎狀、佳作獎狀。",
     "basis": "quote",
     "evidence": [
       {
-        "url": "https://aecyut.cyut.edu.tw/var/file/39/1039/img/343266758.pdf",
+        "url": "https://drive.google.com/file/d/1nulnftoB_C3xeDRqwkAfXxeY-MOG2dDe/view?usp=sharing",
         "quote": "大專院校和高中職組各別錄取團體獎五名，唯主辦單位可視實際參賽隊伍，增刪優勝隊伍數。"
       },
       {
-        "url": "https://aecyut.cyut.edu.tw/var/file/39/1039/img/343266758.pdf",
+        "url": "https://drive.google.com/file/d/1nulnftoB_C3xeDRqwkAfXxeY-MOG2dDe/view?usp=sharing",
         "quote": "第一名：頒發禮券3,000 元整及獎狀乙紙"
       },
       {
-        "url": "https://aecyut.cyut.edu.tw/var/file/39/1039/img/343266758.pdf",
+        "url": "https://drive.google.com/file/d/1nulnftoB_C3xeDRqwkAfXxeY-MOG2dDe/view?usp=sharing",
         "quote": "第二名：頒發禮券2,000 元整及獎狀乙紙"
       },
       {
-        "url": "https://aecyut.cyut.edu.tw/var/file/39/1039/img/343266758.pdf",
+        "url": "https://drive.google.com/file/d/1nulnftoB_C3xeDRqwkAfXxeY-MOG2dDe/view?usp=sharing",
         "quote": "第三名：頒發禮券1,000 元整及獎狀乙紙"
       },
       {
-        "url": "https://aecyut.cyut.edu.tw/var/file/39/1039/img/343266758.pdf",
+        "url": "https://drive.google.com/file/d/1nulnftoB_C3xeDRqwkAfXxeY-MOG2dDe/view?usp=sharing",
         "quote": "佳作：頒發獎狀乙紙"
       }
     ]
@@ -132,48 +138,45 @@
     "basis": "quote",
     "evidence": [
       {
-        "url": "https://aecyut.cyut.edu.tw/var/file/39/1039/img/343266758.pdf",
+        "url": "https://drive.google.com/file/d/1nulnftoB_C3xeDRqwkAfXxeY-MOG2dDe/view?usp=sharing",
         "quote": "影片的拍攝、內容和對白需原創，不得使用AI 生成作品。"
       },
       {
-        "url": "https://aecyut.cyut.edu.tw/var/file/39/1039/img/343266758.pdf",
+        "url": "https://drive.google.com/file/d/1nulnftoB_C3xeDRqwkAfXxeY-MOG2dDe/view?usp=sharing",
         "quote": "請勿使用文字轉語音或AI 語音生成的功能來錄製影片。"
       }
     ]
   },
   "links": {
-    "official": "https://aecyut.cyut.edu.tw/p/406-1039-66700,r106.php?Lang=zh-tw",
+    "official": null,
     "rules": [
       {
-        "title": "比賽辦法（PDF）",
-        "url": "https://aecyut.cyut.edu.tw/var/file/39/1039/img/343266758.pdf"
+        "title": "比賽辦法",
+        "url": "https://drive.google.com/file/d/1nulnftoB_C3xeDRqwkAfXxeY-MOG2dDe/view?usp=sharing"
       }
     ],
     "registration": "https://forms.gle/9V7oENByauhQHiAe7"
   },
   "found_via": [
     {
-      "name": "aecyut.cyut.edu.tw",
-      "url": "http://aecyut.cyut.edu.tw/"
-    },
-    {
-      "name": "新竹高商 消息公佈欄",
-      "url": "https://www.hccvs.hc.edu.tw/ischool/public/news_view/show.php?nid=26444"
+      "name": "斗六高中 營隊研習競賽",
+      "url": "https://www.tlsh.ylc.edu.tw/2026/10/01/67699/"
     }
   ],
   "verification": {
-    "last_verified": "2026-11-24",
-    "method": "dual",
-    "unread": [],
+    "last_verified": "2026-11-25",
+    "method": "single",
+    "unread": [
+      "海報（附件2）"
+    ],
     "note": null,
     "readers": [
-      "claude-opus-5-5",
       "claude-opus-5-5"
     ]
   },
   "first_seen": "2026-11-24",
-  "updated": "2026-11-24",
-  "level": "verified",
+  "updated": "2026-11-25",
+  "level": "checked",
   "url": "https://yuanaruru.com/tw-hs-contests/contests/2027-cyut-ae-short-film/",
   "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2027-cyut-ae-short-film.md"
 }

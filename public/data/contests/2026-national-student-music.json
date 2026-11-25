@@ -3,7 +3,7 @@
   "id": "2026-national-student-music",
   "title": "115學年度全國學生音樂比賽",
   "edition": "115 學年度",
-  "summary": "國小至大專學生以個人或校內團隊參賽，演奏器樂、合唱，或創作樂曲與歌曲。",
+  "summary": "國小至大專學生以個人或學校團隊參加器樂、合唱及音樂創作比賽，經縣市初賽晉級全國決賽。",
   "organizers": [
     {
       "name": "教育部",
@@ -55,37 +55,37 @@
       "全國"
     ],
     "nomination": "none",
-    "team_min": 1,
-    "team_max": 150,
+    "team_min": null,
+    "team_max": null,
     "teacher": "unknown",
     "basis": "quote",
     "evidence": [
       {
-        "url": "https://web.arte.gov.tw/music/upfile/www/115/附件-115學年度全國學生音樂比賽實施要點.pdf",
+        "url": "https://web.arte.gov.tw/music/upfile/www/115/%E9%99%84%E4%BB%B6-115%E5%AD%B8%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9C%8B%E5%AD%B8%E7%94%9F%E9%9F%B3%E6%A8%82%E6%AF%94%E8%B3%BD%E5%AF%A6%E6%96%BD%E8%A6%81%E9%BB%9E.pdf",
+        "quote": "1.經政府立案公、私立國小之學生"
+      },
+      {
+        "url": "https://web.arte.gov.tw/music/upfile/www/115/%E9%99%84%E4%BB%B6-115%E5%AD%B8%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9C%8B%E5%AD%B8%E7%94%9F%E9%9F%B3%E6%A8%82%E6%AF%94%E8%B3%BD%E5%AF%A6%E6%96%BD%E8%A6%81%E9%BB%9E.pdf",
         "quote": "1.經政府立案公、私立高中職之學生"
       },
       {
-        "url": "https://web.arte.gov.tw/music/upfile/www/115/附件-115學年度全國學生音樂比賽實施要點.pdf",
+        "url": "https://web.arte.gov.tw/music/upfile/www/115/%E9%99%84%E4%BB%B6-115%E5%AD%B8%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9C%8B%E5%AD%B8%E7%94%9F%E9%9F%B3%E6%A8%82%E6%AF%94%E8%B3%BD%E5%AF%A6%E6%96%BD%E8%A6%81%E9%BB%9E.pdf",
         "quote": "4.經政府立案五專一、二、三年級之學生"
       },
       {
-        "url": "https://web.arte.gov.tw/music/upfile/www/115/附件-115學年度全國學生音樂比賽實施要點.pdf",
+        "url": "https://web.arte.gov.tw/music/upfile/www/115/%E9%99%84%E4%BB%B6-115%E5%AD%B8%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9C%8B%E5%AD%B8%E7%94%9F%E9%9F%B3%E6%A8%82%E6%AF%94%E8%B3%BD%E5%AF%A6%E6%96%BD%E8%A6%81%E9%BB%9E.pdf",
         "quote": "1.經政府立案公、私立大專院校之學生及研究生"
       },
       {
-        "url": "https://web.arte.gov.tw/music/upfile/www/115/附件-115學年度全國學生音樂比賽實施要點.pdf",
+        "url": "https://web.arte.gov.tw/music/upfile/www/115/%E9%99%84%E4%BB%B6-115%E5%AD%B8%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9C%8B%E5%AD%B8%E7%94%9F%E9%9F%B3%E6%A8%82%E6%AF%94%E8%B3%BD%E5%AF%A6%E6%96%BD%E8%A6%81%E9%BB%9E.pdf",
         "quote": "一、各學程之A 組為就讀音樂班、科、系、所者，Ｂ組為就讀非音樂班、科、系、所者。"
       },
       {
-        "url": "https://web.arte.gov.tw/music/upfile/www/115/附件-115學年度全國學生音樂比賽實施要點.pdf",
-        "quote": "（2）報名高中職組及大專組之學生應憑學生證逕向校籍所在地之初賽主辦單位報名。"
+        "url": "https://web.arte.gov.tw/music/upfile/www/115/%E9%99%84%E4%BB%B6-115%E5%AD%B8%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9C%8B%E5%AD%B8%E7%94%9F%E9%9F%B3%E6%A8%82%E6%AF%94%E8%B3%BD%E5%AF%A6%E6%96%BD%E8%A6%81%E9%BB%9E.pdf",
+        "quote": "報名高中職組及大專組之學生應憑學生證逕向校籍所在地之初賽主辦單位報名。"
       },
       {
-        "url": "https://web.arte.gov.tw/music/upfile/www/115/附件-115學年度全國學生音樂比賽實施要點.pdf",
-        "quote": "「71 人以上」隊伍之參賽學生人數及學生身分之指揮，上限為150 人。"
-      },
-      {
-        "url": "https://web.arte.gov.tw/music/upfile/www/115/附件-115學年度全國學生音樂比賽實施要點.pdf",
+        "url": "https://web.arte.gov.tw/music/upfile/www/115/%E9%99%84%E4%BB%B6-115%E5%AD%B8%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9C%8B%E5%AD%B8%E7%94%9F%E9%9F%B3%E6%A8%82%E6%AF%94%E8%B3%BD%E5%AF%A6%E6%96%BD%E8%A6%81%E9%BB%9E.pdf",
         "quote": "六、團體項目不得跨校組隊。"
       }
     ]
@@ -100,413 +100,137 @@
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://web.arte.gov.tw/music/upfile/www/115/附件-115學年度全國學生音樂比賽實施要點.pdf",
+          "url": "https://web.arte.gov.tw/music/upfile/www/115/%E9%99%84%E4%BB%B6-115%E5%AD%B8%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9C%8B%E5%AD%B8%E7%94%9F%E9%9F%B3%E6%A8%82%E6%AF%94%E8%B3%BD%E5%AF%A6%E6%96%BD%E8%A6%81%E9%BB%9E.pdf",
           "quote": "線上報名系統開放時間：115 年11 月20 日9 時至115 年12 月25 日17 時"
         }
       ]
     },
     {
-      "kind": "registration_deadline",
-      "label": "彰化縣決賽書面報名表收件截止（高中職以下團體項目及個人項目）",
-      "date": "2026-11-30",
-      "time": null,
-      "original": "11月30日 下午12:00",
-      "basis": "quote",
-      "evidence": [
-        {
-          "url": "https://web.arte.gov.tw/music/upfile/www/115/115%E5%AD%B8%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9C%8B%E9%9F%B3%E6%A8%82%E6%AF%94%E8%B3%BD%E6%B1%BA%E8%B3%BD%E5%A0%B1%E5%90%8D%E8%A1%A8%20%20_%E5%90%84%E7%B8%A3%E5%B8%82%E7%B9%B3%E4%BA%A4%E6%88%AA%E6%AD%A2%E6%97%A5.pdf",
-          "quote": "彰化縣 11月20日 上午8:30 11月30日 下午12:00"
-        }
-      ]
-    },
-    {
-      "kind": "registration_deadline",
-      "label": "雲林縣決賽書面報名表收件截止（高中職以下團體項目及個人項目）",
-      "date": "2026-11-30",
-      "time": "16:00",
-      "original": "11月30日 下午4:00",
-      "basis": "quote",
-      "evidence": [
-        {
-          "url": "https://web.arte.gov.tw/music/upfile/www/115/115%E5%AD%B8%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9C%8B%E9%9F%B3%E6%A8%82%E6%AF%94%E8%B3%BD%E6%B1%BA%E8%B3%BD%E5%A0%B1%E5%90%8D%E8%A1%A8%20%20_%E5%90%84%E7%B8%A3%E5%B8%82%E7%B9%B3%E4%BA%A4%E6%88%AA%E6%AD%A2%E6%97%A5.pdf",
-          "quote": "雲林縣 11月17日 上午8:00 11月30日 下午4:00"
-        }
-      ]
-    },
-    {
-      "kind": "registration_deadline",
-      "label": "苗栗縣決賽書面報名表收件截止（高中職以下團體項目及個人項目）",
-      "date": "2026-12-01",
-      "time": "17:00",
-      "original": "12月1日 下午5:00",
-      "basis": "quote",
-      "evidence": [
-        {
-          "url": "https://web.arte.gov.tw/music/upfile/www/115/115%E5%AD%B8%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9C%8B%E9%9F%B3%E6%A8%82%E6%AF%94%E8%B3%BD%E6%B1%BA%E8%B3%BD%E5%A0%B1%E5%90%8D%E8%A1%A8%20%20_%E5%90%84%E7%B8%A3%E5%B8%82%E7%B9%B3%E4%BA%A4%E6%88%AA%E6%AD%A2%E6%97%A5.pdf",
-          "quote": "苗栗縣 11月23日 上午8:00 12月1日 下午5:00"
-        }
-      ]
-    },
-    {
-      "kind": "registration_deadline",
-      "label": "臺北市決賽書面報名表收件截止（高中職以下團體項目及個人項目）",
-      "date": "2026-12-04",
-      "time": "11:00",
-      "original": "12月4日 上午11:00",
-      "basis": "quote",
-      "evidence": [
-        {
-          "url": "https://web.arte.gov.tw/music/upfile/www/115/115%E5%AD%B8%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9C%8B%E9%9F%B3%E6%A8%82%E6%AF%94%E8%B3%BD%E6%B1%BA%E8%B3%BD%E5%A0%B1%E5%90%8D%E8%A1%A8%20%20_%E5%90%84%E7%B8%A3%E5%B8%82%E7%B9%B3%E4%BA%A4%E6%88%AA%E6%AD%A2%E6%97%A5.pdf",
-          "quote": "臺北市 12月3日 上午9:00 12月4日 上午11:00"
-        }
-      ]
-    },
-    {
-      "kind": "registration_deadline",
-      "label": "高雄市決賽書面報名表收件截止（高中職以下團體項目及個人項目）",
-      "date": "2026-12-04",
-      "time": "17:00",
-      "original": "12月4日 下午5:00",
-      "basis": "quote",
-      "evidence": [
-        {
-          "url": "https://web.arte.gov.tw/music/upfile/www/115/115%E5%AD%B8%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9C%8B%E9%9F%B3%E6%A8%82%E6%AF%94%E8%B3%BD%E6%B1%BA%E8%B3%BD%E5%A0%B1%E5%90%8D%E8%A1%A8%20%20_%E5%90%84%E7%B8%A3%E5%B8%82%E7%B9%B3%E4%BA%A4%E6%88%AA%E6%AD%A2%E6%97%A5.pdf",
-          "quote": "高雄市 11月20日 上午9:00 12月4日 下午5:00"
-        }
-      ]
-    },
-    {
-      "kind": "registration_deadline",
-      "label": "新竹縣決賽書面報名表收件截止（高中職以下團體項目及個人項目）",
-      "date": "2026-12-04",
-      "time": "16:00",
-      "original": "12月4日 下午4:00",
-      "basis": "quote",
-      "evidence": [
-        {
-          "url": "https://web.arte.gov.tw/music/upfile/www/115/115%E5%AD%B8%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9C%8B%E9%9F%B3%E6%A8%82%E6%AF%94%E8%B3%BD%E6%B1%BA%E8%B3%BD%E5%A0%B1%E5%90%8D%E8%A1%A8%20%20_%E5%90%84%E7%B8%A3%E5%B8%82%E7%B9%B3%E4%BA%A4%E6%88%AA%E6%AD%A2%E6%97%A5.pdf",
-          "quote": "新竹縣 11月30日 上午8:00 12月4日 下午4:00"
-        }
-      ]
-    },
-    {
-      "kind": "registration_deadline",
-      "label": "臺中市決賽書面報名表收件截止（高中職以下團體項目及個人項目）",
-      "date": "2026-12-08",
-      "time": "16:00",
-      "original": "12月8日 下午4:00",
-      "basis": "quote",
-      "evidence": [
-        {
-          "url": "https://web.arte.gov.tw/music/upfile/www/115/115%E5%AD%B8%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9C%8B%E9%9F%B3%E6%A8%82%E6%AF%94%E8%B3%BD%E6%B1%BA%E8%B3%BD%E5%A0%B1%E5%90%8D%E8%A1%A8%20%20_%E5%90%84%E7%B8%A3%E5%B8%82%E7%B9%B3%E4%BA%A4%E6%88%AA%E6%AD%A2%E6%97%A5.pdf",
-          "quote": "臺中市 11月30日 上午8:00 12月8日 下午4:00"
-        }
-      ]
-    },
-    {
-      "kind": "registration_deadline",
-      "label": "嘉義市決賽書面報名表收件截止（高中職以下團體項目及個人項目）",
-      "date": "2026-12-09",
-      "time": "17:30",
-      "original": "12月9日 下午5:30",
-      "basis": "quote",
-      "evidence": [
-        {
-          "url": "https://web.arte.gov.tw/music/upfile/www/115/115%E5%AD%B8%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9C%8B%E9%9F%B3%E6%A8%82%E6%AF%94%E8%B3%BD%E6%B1%BA%E8%B3%BD%E5%A0%B1%E5%90%8D%E8%A1%A8%20%20_%E5%90%84%E7%B8%A3%E5%B8%82%E7%B9%B3%E4%BA%A4%E6%88%AA%E6%AD%A2%E6%97%A5.pdf",
-          "quote": "嘉義市 11月20日 上午9:00 12月9日 下午5:30"
-        }
-      ]
-    },
-    {
-      "kind": "registration_deadline",
-      "label": "嘉義縣決賽書面報名表收件截止（高中職以下團體項目及個人項目）",
-      "date": "2026-12-09",
-      "time": "17:00",
-      "original": "12月9日 下午5:00",
-      "basis": "quote",
-      "evidence": [
-        {
-          "url": "https://web.arte.gov.tw/music/upfile/www/115/115%E5%AD%B8%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9C%8B%E9%9F%B3%E6%A8%82%E6%AF%94%E8%B3%BD%E6%B1%BA%E8%B3%BD%E5%A0%B1%E5%90%8D%E8%A1%A8%20%20_%E5%90%84%E7%B8%A3%E5%B8%82%E7%B9%B3%E4%BA%A4%E6%88%AA%E6%AD%A2%E6%97%A5.pdf",
-          "quote": "嘉義縣 11月23日 上午8:00 12月9日 下午5:00"
-        }
-      ]
-    },
-    {
-      "kind": "registration_deadline",
-      "label": "南投縣決賽書面報名表收件截止（高中職以下團體項目及個人項目）",
-      "date": "2026-12-10",
-      "time": "17:00",
-      "original": "12月10日 下午5:00",
-      "basis": "quote",
-      "evidence": [
-        {
-          "url": "https://web.arte.gov.tw/music/upfile/www/115/115%E5%AD%B8%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9C%8B%E9%9F%B3%E6%A8%82%E6%AF%94%E8%B3%BD%E6%B1%BA%E8%B3%BD%E5%A0%B1%E5%90%8D%E8%A1%A8%20%20_%E5%90%84%E7%B8%A3%E5%B8%82%E7%B9%B3%E4%BA%A4%E6%88%AA%E6%AD%A2%E6%97%A5.pdf",
-          "quote": "南投縣 11月13日 上午8:00 12月10日 下午5:00"
-        }
-      ]
-    },
-    {
-      "kind": "registration_deadline",
-      "label": "金門縣決賽書面報名表收件截止（高中職以下團體項目及個人項目）",
-      "date": "2026-12-10",
-      "time": "17:30",
-      "original": "12月10日 下午5:30",
-      "basis": "quote",
-      "evidence": [
-        {
-          "url": "https://web.arte.gov.tw/music/upfile/www/115/115%E5%AD%B8%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9C%8B%E9%9F%B3%E6%A8%82%E6%AF%94%E8%B3%BD%E6%B1%BA%E8%B3%BD%E5%A0%B1%E5%90%8D%E8%A1%A8%20%20_%E5%90%84%E7%B8%A3%E5%B8%82%E7%B9%B3%E4%BA%A4%E6%88%AA%E6%AD%A2%E6%97%A5.pdf",
-          "quote": "金門縣 11月20日 上午9:00 12月10日 下午5:30"
-        }
-      ]
-    },
-    {
-      "kind": "registration_deadline",
-      "label": "新北市決賽書面報名表收件截止（高中職以下團體項目及個人項目）",
-      "date": "2026-12-11",
-      "time": "17:00",
-      "original": "12月11日 下午5:00",
-      "basis": "quote",
-      "evidence": [
-        {
-          "url": "https://web.arte.gov.tw/music/upfile/www/115/115%E5%AD%B8%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9C%8B%E9%9F%B3%E6%A8%82%E6%AF%94%E8%B3%BD%E6%B1%BA%E8%B3%BD%E5%A0%B1%E5%90%8D%E8%A1%A8%20%20_%E5%90%84%E7%B8%A3%E5%B8%82%E7%B9%B3%E4%BA%A4%E6%88%AA%E6%AD%A2%E6%97%A5.pdf",
-          "quote": "新北市 11月20日 上午8:00 12月11日 下午5:00"
-        }
-      ]
-    },
-    {
-      "kind": "registration_deadline",
-      "label": "臺南市決賽書面報名表收件截止（高中職以下團體項目及個人項目）",
-      "date": "2026-12-11",
-      "time": "17:00",
-      "original": "12月11日 下午5:00",
-      "basis": "quote",
-      "evidence": [
-        {
-          "url": "https://web.arte.gov.tw/music/upfile/www/115/115%E5%AD%B8%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9C%8B%E9%9F%B3%E6%A8%82%E6%AF%94%E8%B3%BD%E6%B1%BA%E8%B3%BD%E5%A0%B1%E5%90%8D%E8%A1%A8%20%20_%E5%90%84%E7%B8%A3%E5%B8%82%E7%B9%B3%E4%BA%A4%E6%88%AA%E6%AD%A2%E6%97%A5.pdf",
-          "quote": "臺南市 11月20日 上午9:00 12月11日 下午5:00"
-        }
-      ]
-    },
-    {
-      "kind": "registration_deadline",
-      "label": "屏東縣決賽書面報名表收件截止（高中職以下團體項目及個人項目）",
-      "date": "2026-12-11",
-      "time": "16:00",
-      "original": "12月11日 下午4:00",
-      "basis": "quote",
-      "evidence": [
-        {
-          "url": "https://web.arte.gov.tw/music/upfile/www/115/115%E5%AD%B8%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9C%8B%E9%9F%B3%E6%A8%82%E6%AF%94%E8%B3%BD%E6%B1%BA%E8%B3%BD%E5%A0%B1%E5%90%8D%E8%A1%A8%20%20_%E5%90%84%E7%B8%A3%E5%B8%82%E7%B9%B3%E4%BA%A4%E6%88%AA%E6%AD%A2%E6%97%A5.pdf",
-          "quote": "屏東縣 12月9日 上午9:00 12月11日 下午4:00"
-        }
-      ]
-    },
-    {
-      "kind": "registration_deadline",
-      "label": "宜蘭縣決賽書面報名表收件截止（高中職以下團體項目及個人項目）",
-      "date": "2026-12-11",
-      "time": "17:00",
-      "original": "12月11日 下午5:00",
-      "basis": "quote",
-      "evidence": [
-        {
-          "url": "https://web.arte.gov.tw/music/upfile/www/115/115%E5%AD%B8%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9C%8B%E9%9F%B3%E6%A8%82%E6%AF%94%E8%B3%BD%E6%B1%BA%E8%B3%BD%E5%A0%B1%E5%90%8D%E8%A1%A8%20%20_%E5%90%84%E7%B8%A3%E5%B8%82%E7%B9%B3%E4%BA%A4%E6%88%AA%E6%AD%A2%E6%97%A5.pdf",
-          "quote": "宜蘭縣 11月23日 上午8:00 12月11日 下午5:00"
-        }
-      ]
-    },
-    {
-      "kind": "registration_deadline",
-      "label": "桃園市決賽書面報名表收件截止（高中職以下團體項目及個人項目）",
-      "date": "2026-12-14",
-      "time": "17:00",
-      "original": "12月14日 下午5:00",
-      "basis": "quote",
-      "evidence": [
-        {
-          "url": "https://web.arte.gov.tw/music/upfile/www/115/115%E5%AD%B8%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9C%8B%E9%9F%B3%E6%A8%82%E6%AF%94%E8%B3%BD%E6%B1%BA%E8%B3%BD%E5%A0%B1%E5%90%8D%E8%A1%A8%20%20_%E5%90%84%E7%B8%A3%E5%B8%82%E7%B9%B3%E4%BA%A4%E6%88%AA%E6%AD%A2%E6%97%A5.pdf",
-          "quote": "桃園市 11月20日 上午10:00 12月14日 下午5:00"
-        }
-      ]
-    },
-    {
-      "kind": "registration_deadline",
-      "label": "新竹市決賽書面報名表收件截止（高中職以下團體項目及個人項目）",
-      "date": "2026-12-17",
-      "time": null,
-      "original": "12月17日 上午12:00",
-      "basis": "quote",
-      "evidence": [
-        {
-          "url": "https://web.arte.gov.tw/music/upfile/www/115/115%E5%AD%B8%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9C%8B%E9%9F%B3%E6%A8%82%E6%AF%94%E8%B3%BD%E6%B1%BA%E8%B3%BD%E5%A0%B1%E5%90%8D%E8%A1%A8%20%20_%E5%90%84%E7%B8%A3%E5%B8%82%E7%B9%B3%E4%BA%A4%E6%88%AA%E6%AD%A2%E6%97%A5.pdf",
-          "quote": "新竹市 12月7日 上午9:00 12月17日 上午12:00"
-        }
-      ]
-    },
-    {
-      "kind": "registration_deadline",
-      "label": "臺東縣決賽書面報名表收件截止（高中職以下團體項目及個人項目）",
-      "date": "2026-12-17",
-      "time": "17:30",
-      "original": "12月17日 下午5:30",
-      "basis": "quote",
-      "evidence": [
-        {
-          "url": "https://web.arte.gov.tw/music/upfile/www/115/115%E5%AD%B8%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9C%8B%E9%9F%B3%E6%A8%82%E6%AF%94%E8%B3%BD%E6%B1%BA%E8%B3%BD%E5%A0%B1%E5%90%8D%E8%A1%A8%20%20_%E5%90%84%E7%B8%A3%E5%B8%82%E7%B9%B3%E4%BA%A4%E6%88%AA%E6%AD%A2%E6%97%A5.pdf",
-          "quote": "臺東縣 12月14日 上午8:30 12月17日 下午5:30"
-        }
-      ]
-    },
-    {
-      "kind": "registration_deadline",
-      "label": "基隆市決賽書面報名表收件截止（高中職以下團體項目及個人項目）",
-      "date": "2026-12-18",
-      "time": "16:00",
-      "original": "12月18日 下午4:00",
-      "basis": "quote",
-      "evidence": [
-        {
-          "url": "https://web.arte.gov.tw/music/upfile/www/115/115%E5%AD%B8%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9C%8B%E9%9F%B3%E6%A8%82%E6%AF%94%E8%B3%BD%E6%B1%BA%E8%B3%BD%E5%A0%B1%E5%90%8D%E8%A1%A8%20%20_%E5%90%84%E7%B8%A3%E5%B8%82%E7%B9%B3%E4%BA%A4%E6%88%AA%E6%AD%A2%E6%97%A5.pdf",
-          "quote": "基隆市 12月7日 上午9:00 12月18日 下午4:00"
-        }
-      ]
-    },
-    {
-      "kind": "registration_deadline",
-      "label": "花蓮縣決賽書面報名表收件截止（高中職以下團體項目及個人項目）",
-      "date": "2026-12-18",
-      "time": "17:00",
-      "original": "12月18日 下午5:00",
-      "basis": "quote",
-      "evidence": [
-        {
-          "url": "https://web.arte.gov.tw/music/upfile/www/115/115%E5%AD%B8%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9C%8B%E9%9F%B3%E6%A8%82%E6%AF%94%E8%B3%BD%E6%B1%BA%E8%B3%BD%E5%A0%B1%E5%90%8D%E8%A1%A8%20%20_%E5%90%84%E7%B8%A3%E5%B8%82%E7%B9%B3%E4%BA%A4%E6%88%AA%E6%AD%A2%E6%97%A5.pdf",
-          "quote": "花蓮縣 12月1日 上午8:00 12月18日 下午5:00"
-        }
-      ]
-    },
-    {
-      "kind": "registration_deadline",
-      "label": "澎湖縣決賽書面報名表收件截止（高中職以下團體項目及個人項目）",
-      "date": "2026-12-18",
-      "time": "17:30",
-      "original": "12月18日 下午5:30",
-      "basis": "quote",
-      "evidence": [
-        {
-          "url": "https://web.arte.gov.tw/music/upfile/www/115/115%E5%AD%B8%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9C%8B%E9%9F%B3%E6%A8%82%E6%AF%94%E8%B3%BD%E6%B1%BA%E8%B3%BD%E5%A0%B1%E5%90%8D%E8%A1%A8%20%20_%E5%90%84%E7%B8%A3%E5%B8%82%E7%B9%B3%E4%BA%A4%E6%88%AA%E6%AD%A2%E6%97%A5.pdf",
-          "quote": "澎湖縣 12月14日 上午8:00 12月18日 下午5:30"
-        }
-      ]
-    },
-    {
       "kind": "other",
-      "label": "各縣市初賽辦理完成（原則）",
+      "label": "各縣市初賽原則辦理完成",
       "date": "2026-12-20",
       "time": null,
       "original": "115 年12 月20 日前",
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://web.arte.gov.tw/music/upfile/www/115/附件-115學年度全國學生音樂比賽實施要點.pdf",
+          "url": "https://web.arte.gov.tw/music/upfile/www/115/%E9%99%84%E4%BB%B6-115%E5%AD%B8%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9C%8B%E5%AD%B8%E7%94%9F%E9%9F%B3%E6%A8%82%E6%AF%94%E8%B3%BD%E5%AF%A6%E6%96%BD%E8%A6%81%E9%BB%9E.pdf",
           "quote": "由各初賽主辦單位編排賽程實施，原則於115 年12 月20 日前舉辦完成。"
         }
       ]
     },
     {
       "kind": "registration_deadline",
-      "label": "決賽線上報名系統關閉",
+      "label": "取得決賽代表權者決賽線上報名截止",
       "date": "2026-12-25",
       "time": "17:00",
       "original": "115 年12 月25 日17 時",
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://web.arte.gov.tw/music/upfile/www/115/附件-115學年度全國學生音樂比賽實施要點.pdf",
+          "url": "https://web.arte.gov.tw/music/upfile/www/115/%E9%99%84%E4%BB%B6-115%E5%AD%B8%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9C%8B%E5%AD%B8%E7%94%9F%E9%9F%B3%E6%A8%82%E6%AF%94%E8%B3%BD%E5%AF%A6%E6%96%BD%E8%A6%81%E9%BB%9E.pdf",
           "quote": "本會將於115 年12 月25 日17 時起關閉決賽報名系統。"
         }
       ]
     },
     {
       "kind": "registration_deadline",
-      "label": "大專院校、大陸臺商子弟學校及特殊學校團體項目決賽書面報名表寄達截止",
-      "date": "2026-12-28",
+      "label": "大專院校、特殊學校、大陸臺商子弟學校及海外臺灣學校團體項目書面報名表寄達截止",
+      "date": "2026-12-25",
       "time": null,
-      "original": "115年12月28日前",
+      "original": "115 年12 月25 日前",
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://web.arte.gov.tw/music/news_M/disp.asp?id=1116",
-          "quote": "僅此項免經縣市政府蓋章於115年12月28日前逕【寄（送）達本會】郵戳為憑。"
+          "url": "https://web.arte.gov.tw/music/upfile/www/115/%E9%99%84%E4%BB%B6-115%E5%AD%B8%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9C%8B%E5%AD%B8%E7%94%9F%E9%9F%B3%E6%A8%82%E6%AF%94%E8%B3%BD%E5%AF%A6%E6%96%BD%E8%A6%81%E9%BB%9E.pdf",
+          "quote": "免備文於115 年12 月25 日前寄（送)達本會（郵遞者以郵戳為憑）。"
         }
       ]
     },
     {
       "kind": "other",
-      "label": "補正基本資料或變更自選曲目之學校公文寄達截止",
+      "label": "各縣市政府將決賽書面報名表寄達截止",
+      "date": "2026-12-25",
+      "time": null,
+      "original": "115 年12 月25 日前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://web.arte.gov.tw/music/upfile/www/115/%E9%99%84%E4%BB%B6-115%E5%AD%B8%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9C%8B%E5%AD%B8%E7%94%9F%E9%9F%B3%E6%A8%82%E6%AF%94%E8%B3%BD%E5%AF%A6%E6%96%BD%E8%A6%81%E9%BB%9E.pdf",
+          "quote": "再統一由縣市政府於115 年12 月25 日前將書面報名表寄（送)達本會（郵遞者以郵戳為憑）。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "補正基本資料或變更自選曲目截止",
       "date": "2027-01-10",
       "time": null,
       "original": "116 年1 月10 日前",
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://web.arte.gov.tw/music/upfile/www/115/附件-115學年度全國學生音樂比賽實施要點.pdf",
+          "url": "https://web.arte.gov.tw/music/upfile/www/115/%E9%99%84%E4%BB%B6-115%E5%AD%B8%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9C%8B%E5%AD%B8%E7%94%9F%E9%9F%B3%E6%A8%82%E6%AF%94%E8%B3%BD%E5%AF%A6%E6%96%BD%E8%A6%81%E9%BB%9E.pdf",
           "quote": "報名後如需補正基本資料或變更自選曲目，應由參賽者就讀之學校出具正式公文，最遲於116 年1 月10 日前(以郵戳為憑)函知本會"
         }
       ]
     },
     {
       "kind": "other",
-      "label": "決賽出場次序抽籤並上網公告",
+      "label": "決賽日期、賽程及出場次序公告",
       "date": "2027-01-15",
       "time": null,
       "original": "116 年1 月15 日前",
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://web.arte.gov.tw/music/upfile/www/115/附件-115學年度全國學生音樂比賽實施要點.pdf",
+          "url": "https://web.arte.gov.tw/music/upfile/www/115/%E9%99%84%E4%BB%B6-115%E5%AD%B8%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9C%8B%E5%AD%B8%E7%94%9F%E9%9F%B3%E6%A8%82%E6%AF%94%E8%B3%BD%E5%AF%A6%E6%96%BD%E8%A6%81%E9%BB%9E.pdf",
           "quote": "訂於116 年1 月15 日前以電腦亂數抽籤排定出場次序並經檢視無誤後上網公告。"
+        },
+        {
+          "url": "https://www.hccvs.hc.edu.tw/ischool/public/news_view/show.php?nid=26014",
+          "quote": "本學年度決賽確定日期及賽程將於116年1月15日前公告於本比賽官網。"
         }
       ]
     },
     {
       "kind": "other",
-      "label": "出場次序公告資料勘誤申請截止",
+      "label": "出場次序勘誤申請截止",
       "date": "2027-01-22",
       "time": null,
       "original": "116 年1 月22 日前",
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://web.arte.gov.tw/music/upfile/www/115/附件-115學年度全國學生音樂比賽實施要點.pdf",
-          "quote": "如公告資料與原始報名表有誤，應由參賽者於116 年1 月22 日前(郵戳為憑)以書面提出勘誤申請。"
+          "url": "https://web.arte.gov.tw/music/upfile/www/115/%E9%99%84%E4%BB%B6-115%E5%AD%B8%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9C%8B%E5%AD%B8%E7%94%9F%E9%9F%B3%E6%A8%82%E6%AF%94%E8%B3%BD%E5%AF%A6%E6%96%BD%E8%A6%81%E9%BB%9E.pdf",
+          "quote": "應由參賽者於116 年1 月22 日前(郵戳為憑)以書面提出勘誤申請。"
         }
       ]
     },
     {
       "kind": "final_event",
-      "label": "團體項目決賽（北、中、南區）預定開始",
+      "label": "團體項目決賽（北、中、南區）開始",
       "date": "2027-03-01",
       "time": null,
       "original": "116 年3 月1 日起",
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://web.arte.gov.tw/music/upfile/www/115/附件-115學年度全國學生音樂比賽實施要點.pdf",
+          "url": "https://web.arte.gov.tw/music/upfile/www/115/%E9%99%84%E4%BB%B6-115%E5%AD%B8%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9C%8B%E5%AD%B8%E7%94%9F%E9%9F%B3%E6%A8%82%E6%AF%94%E8%B3%BD%E5%AF%A6%E6%96%BD%E8%A6%81%E9%BB%9E.pdf",
           "quote": "團體項目分(北、中、南)區：預定自116 年3 月1 日起辦理。"
         }
       ]
     },
     {
       "kind": "final_event",
-      "label": "個人項目決賽預定開始",
+      "label": "個人項目決賽開始",
       "date": "2027-03-15",
       "time": null,
       "original": "116 年3 月15 日起",
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://web.arte.gov.tw/music/upfile/www/115/附件-115學年度全國學生音樂比賽實施要點.pdf",
+          "url": "https://web.arte.gov.tw/music/upfile/www/115/%E9%99%84%E4%BB%B6-115%E5%AD%B8%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9C%8B%E5%AD%B8%E7%94%9F%E9%9F%B3%E6%A8%82%E6%AF%94%E8%B3%BD%E5%AF%A6%E6%96%BD%E8%A6%81%E9%BB%9E.pdf",
           "quote": "個人項目：預定自116 年3 月15 日起辦理。"
         }
       ]
@@ -515,107 +239,84 @@
   "deliverables": [
     {
       "stage": "初賽",
-      "what": "依各縣市初賽實施要點演出或創作",
+      "what": "依各縣市初賽實施要點現場演出",
       "how": "onsite"
-    },
-    {
-      "stage": "決賽報名",
-      "what": "線上填寫報名表（含自選曲資料），列印書面報名表送學校蓋印後寄送",
-      "how": "mail"
     },
     {
       "stage": "決賽",
-      "what": "演出指定曲及自選曲各一曲；個人項目一律背譜、限時 10 分鐘，團體項目限時 20 分鐘（行進管樂 15 分鐘）",
+      "what": "指定曲及自選曲各一曲；個人項目一律背譜，總合演出 10 分鐘；團體項目總合演出 20 分鐘（行進管樂 15 分鐘，自選組曲）",
       "how": "onsite"
     },
     {
-      "stage": "決賽（樂曲創作或歌曲創作）",
-      "what": "依現場公布之主題臨場寫譜創作，限時 3 小時 30 分鐘",
-      "how": "onsite"
-    },
-    {
-      "stage": "決賽報到（團體項目）",
-      "what": "貼有參賽者照片並蓋學校印信之參賽者名冊",
+      "stage": "決賽（樂曲創作或歌曲創作類）",
+      "what": "依比賽現場公布之主題臨場寫譜創作，比賽時間 3 小時 30 分鐘",
       "how": "onsite"
     }
   ],
   "attendance": {
     "value": "all",
-    "where": "初賽由各縣市自行擇定場所；決賽團體項目分北、中、南三區，個人項目全區舉行",
+    "where": "初賽在各初賽主辦單位擇定的場所；決賽團體項目分北、中、南三區，個人項目全區舉行",
     "basis": "quote",
     "evidence": [
       {
-        "url": "https://web.arte.gov.tw/music/upfile/www/115/附件-115學年度全國學生音樂比賽實施要點.pdf",
+        "url": "https://web.arte.gov.tw/music/upfile/www/115/%E9%99%84%E4%BB%B6-115%E5%AD%B8%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9C%8B%E5%AD%B8%E7%94%9F%E9%9F%B3%E6%A8%82%E6%AF%94%E8%B3%BD%E5%AF%A6%E6%96%BD%E8%A6%81%E9%BB%9E.pdf",
         "quote": "由各初賽主辦單位自行擇定適當場所舉行。"
       },
       {
-        "url": "https://web.arte.gov.tw/music/upfile/www/115/附件-115學年度全國學生音樂比賽實施要點.pdf",
-        "quote": "1.團體項目分(北、中、南)區舉行。"
+        "url": "https://web.arte.gov.tw/music/upfile/www/115/%E9%99%84%E4%BB%B6-115%E5%AD%B8%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9C%8B%E5%AD%B8%E7%94%9F%E9%9F%B3%E6%A8%82%E6%AF%94%E8%B3%BD%E5%AF%A6%E6%96%BD%E8%A6%81%E9%BB%9E.pdf",
+        "quote": "1.團體項目決賽分北、中、南三區辦理。"
       },
       {
-        "url": "https://web.arte.gov.tw/music/upfile/www/115/附件-115學年度全國學生音樂比賽實施要點.pdf",
-        "quote": "2.個人項目全區舉行，承辦單位：臺南市政府教育局"
+        "url": "https://web.arte.gov.tw/music/upfile/www/115/%E9%99%84%E4%BB%B6-115%E5%AD%B8%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9C%8B%E5%AD%B8%E7%94%9F%E9%9F%B3%E6%A8%82%E6%AF%94%E8%B3%BD%E5%AF%A6%E6%96%BD%E8%A6%81%E9%BB%9E.pdf",
+        "quote": "1.個人項目均辦理全區決賽。"
       },
       {
-        "url": "https://web.arte.gov.tw/music/upfile/www/115/附件-115學年度全國學生音樂比賽實施要點.pdf",
-        "quote": "4.參賽者應於司儀唱名時立即進入舞臺開始表演，若唱名三次(每次間隔約10 秒)不到者，以棄權論"
+        "url": "https://web.arte.gov.tw/music/upfile/www/115/%E9%99%84%E4%BB%B6-115%E5%AD%B8%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9C%8B%E5%AD%B8%E7%94%9F%E9%9F%B3%E6%A8%82%E6%AF%94%E8%B3%BD%E5%AF%A6%E6%96%BD%E8%A6%81%E9%BB%9E.pdf",
+        "quote": "1.比賽應演出指定曲及自選曲各一曲。"
       }
     ]
   },
   "fee": {
     "value": "unknown",
     "amount": null,
-    "basis": "absent",
+    "basis": "quote",
     "evidence": [
       {
-        "url": "https://web.arte.gov.tw/music/upfile/www/115/附件-115學年度全國學生音樂比賽實施要點.pdf"
-      },
-      {
-        "url": "https://web.arte.gov.tw/music/upfile/news/115/附件-115學年度全國學生音樂比賽實施要點.pdf"
-      },
-      {
-        "url": "https://web.arte.gov.tw/music/news_M/disp.asp?id=1116"
-      },
-      {
-        "url": "https://web.arte.gov.tw/music/upfile/www/115/115%E5%AD%B8%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9C%8B%E9%9F%B3%E6%A8%82%E6%AF%94%E8%B3%BD%E6%B1%BA%E8%B3%BD%E5%A0%B1%E5%90%8D%E8%A1%A8%20%20_%E5%90%84%E7%B8%A3%E5%B8%82%E7%B9%B3%E4%BA%A4%E6%88%AA%E6%AD%A2%E6%97%A5.pdf"
-      },
-      {
-        "url": "https://web.arte.gov.tw/music/default.asp"
-      },
-      {
-        "url": "https://web.arte.gov.tw/music/content/Content.asp?cid=3"
-      },
-      {
-        "url": "https://web.arte.gov.tw/music/content/Content.asp?cid=28"
+        "url": "https://web.arte.gov.tw/music/upfile/www/115/%E9%99%84%E4%BB%B6-115%E5%AD%B8%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9C%8B%E5%AD%B8%E7%94%9F%E9%9F%B3%E6%A8%82%E6%AF%94%E8%B3%BD%E5%AF%A6%E6%96%BD%E8%A6%81%E9%BB%9E.pdf",
+        "quote": "六、各主辦單位得依據本實施要點相關內容，自行訂定「各縣市學生音樂比賽」初賽實施要點(計畫)。"
       }
     ]
   },
   "prizes": {
-    "text": "決賽依平均分數評定特優（90 分以上）、優等（85 分以上未滿 90 分）、甲等（80 分以上未滿 85 分）；特優發給獎盃及獎狀，優等及甲等發給獎狀，個人項目另依參賽人數評列 1 至 6 名。",
+    "text": "決賽依平均分數評定特優（90 分以上）、優等（85 分以上）、甲等（80 分以上），特優發給獎盃及獎狀，優等及甲等發給獎狀；團體項目只評等第，個人項目另依參加人數評列 1 至 6 名。",
     "basis": "quote",
     "evidence": [
       {
-        "url": "https://web.arte.gov.tw/music/upfile/www/115/附件-115學年度全國學生音樂比賽實施要點.pdf",
+        "url": "https://web.arte.gov.tw/music/upfile/www/115/%E9%99%84%E4%BB%B6-115%E5%AD%B8%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9C%8B%E5%AD%B8%E7%94%9F%E9%9F%B3%E6%A8%82%E6%AF%94%E8%B3%BD%E5%AF%A6%E6%96%BD%E8%A6%81%E9%BB%9E.pdf",
         "quote": "1.特優：平均分數90 分以上者。"
       },
       {
-        "url": "https://web.arte.gov.tw/music/upfile/www/115/附件-115學年度全國學生音樂比賽實施要點.pdf",
+        "url": "https://web.arte.gov.tw/music/upfile/www/115/%E9%99%84%E4%BB%B6-115%E5%AD%B8%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9C%8B%E5%AD%B8%E7%94%9F%E9%9F%B3%E6%A8%82%E6%AF%94%E8%B3%BD%E5%AF%A6%E6%96%BD%E8%A6%81%E9%BB%9E.pdf",
         "quote": "2.優等：平均分數85 分以上未滿90 分者。"
       },
       {
-        "url": "https://web.arte.gov.tw/music/upfile/www/115/附件-115學年度全國學生音樂比賽實施要點.pdf",
+        "url": "https://web.arte.gov.tw/music/upfile/www/115/%E9%99%84%E4%BB%B6-115%E5%AD%B8%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9C%8B%E5%AD%B8%E7%94%9F%E9%9F%B3%E6%A8%82%E6%AF%94%E8%B3%BD%E5%AF%A6%E6%96%BD%E8%A6%81%E9%BB%9E.pdf",
         "quote": "3.甲等：平均分數在80 分以上未滿85 分者。"
       },
       {
-        "url": "https://web.arte.gov.tw/music/upfile/www/115/附件-115學年度全國學生音樂比賽實施要點.pdf",
+        "url": "https://web.arte.gov.tw/music/upfile/www/115/%E9%99%84%E4%BB%B6-115%E5%AD%B8%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9C%8B%E5%AD%B8%E7%94%9F%E9%9F%B3%E6%A8%82%E6%AF%94%E8%B3%BD%E5%AF%A6%E6%96%BD%E8%A6%81%E9%BB%9E.pdf",
         "quote": "1.比賽獎勵：獲得特優者發給獎盃及獎狀，優等及甲等發給獎狀。"
       },
       {
-        "url": "https://web.arte.gov.tw/music/upfile/www/115/附件-115學年度全國學生音樂比賽實施要點.pdf",
+        "url": "https://web.arte.gov.tw/music/upfile/www/115/%E9%99%84%E4%BB%B6-115%E5%AD%B8%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9C%8B%E5%AD%B8%E7%94%9F%E9%9F%B3%E6%A8%82%E6%AF%94%E8%B3%BD%E5%AF%A6%E6%96%BD%E8%A6%81%E9%BB%9E.pdf",
+        "quote": "1.團體項目：決賽成績僅評定等第，依錄取等第給予獎勵。"
+      },
+      {
+        "url": "https://web.arte.gov.tw/music/upfile/www/115/%E9%99%84%E4%BB%B6-115%E5%AD%B8%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9C%8B%E5%AD%B8%E7%94%9F%E9%9F%B3%E6%A8%82%E6%AF%94%E8%B3%BD%E5%AF%A6%E6%96%BD%E8%A6%81%E9%BB%9E.pdf",
         "quote": "報名人數在5 人以下者取1 名評列名次；"
       },
       {
-        "url": "https://web.arte.gov.tw/music/upfile/www/115/附件-115學年度全國學生音樂比賽實施要點.pdf",
+        "url": "https://web.arte.gov.tw/music/upfile/www/115/%E9%99%84%E4%BB%B6-115%E5%AD%B8%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9C%8B%E5%AD%B8%E7%94%9F%E9%9F%B3%E6%A8%82%E6%AF%94%E8%B3%BD%E5%AF%A6%E6%96%BD%E8%A6%81%E9%BB%9E.pdf",
         "quote": "24 人以上時，均評列6 名。"
       }
     ]
@@ -625,25 +326,7 @@
     "basis": "absent",
     "evidence": [
       {
-        "url": "https://web.arte.gov.tw/music/upfile/www/115/附件-115學年度全國學生音樂比賽實施要點.pdf"
-      },
-      {
-        "url": "https://web.arte.gov.tw/music/upfile/news/115/附件-115學年度全國學生音樂比賽實施要點.pdf"
-      },
-      {
-        "url": "https://web.arte.gov.tw/music/news_M/disp.asp?id=1116"
-      },
-      {
-        "url": "https://web.arte.gov.tw/music/upfile/www/115/115%E5%AD%B8%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9C%8B%E9%9F%B3%E6%A8%82%E6%AF%94%E8%B3%BD%E6%B1%BA%E8%B3%BD%E5%A0%B1%E5%90%8D%E8%A1%A8%20%20_%E5%90%84%E7%B8%A3%E5%B8%82%E7%B9%B3%E4%BA%A4%E6%88%AA%E6%AD%A2%E6%97%A5.pdf"
-      },
-      {
-        "url": "https://web.arte.gov.tw/music/default.asp"
-      },
-      {
-        "url": "https://web.arte.gov.tw/music/content/Content.asp?cid=3"
-      },
-      {
-        "url": "https://web.arte.gov.tw/music/content/Content.asp?cid=28"
+        "url": "https://web.arte.gov.tw/music/upfile/www/115/%E9%99%84%E4%BB%B6-115%E5%AD%B8%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9C%8B%E5%AD%B8%E7%94%9F%E9%9F%B3%E6%A8%82%E6%AF%94%E8%B3%BD%E5%AF%A6%E6%96%BD%E8%A6%81%E9%BB%9E.pdf"
       }
     ]
   },
@@ -651,20 +334,40 @@
     "official": "https://web.arte.gov.tw/music/default.asp",
     "rules": [
       {
-        "title": "115學年度全國學生音樂比賽實施要點（PDF）",
-        "url": "https://web.arte.gov.tw/music/upfile/www/115/附件-115學年度全國學生音樂比賽實施要點.pdf"
-      },
-      {
-        "title": "各縣市決賽書面報名表繳交截止日（PDF）",
-        "url": "https://web.arte.gov.tw/music/upfile/www/115/115%E5%AD%B8%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9C%8B%E9%9F%B3%E6%A8%82%E6%AF%94%E8%B3%BD%E6%B1%BA%E8%B3%BD%E5%A0%B1%E5%90%8D%E8%A1%A8%20%20_%E5%90%84%E7%B8%A3%E5%B8%82%E7%B9%B3%E4%BA%A4%E6%88%AA%E6%AD%A2%E6%97%A5.pdf"
+        "title": "115學年度全國學生音樂比賽實施要點",
+        "url": "https://web.arte.gov.tw/music/upfile/www/115/%E9%99%84%E4%BB%B6-115%E5%AD%B8%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9C%8B%E5%AD%B8%E7%94%9F%E9%9F%B3%E6%A8%82%E6%AF%94%E8%B3%BD%E5%AF%A6%E6%96%BD%E8%A6%81%E9%BB%9E.pdf"
       }
     ],
-    "registration": "https://web.arte.gov.tw/music/music/musiclist.asp"
+    "registration": "https://web.arte.gov.tw/Music/"
   },
   "found_via": [
     {
-      "name": "獎金獵人 競賽平台",
-      "url": "https://bhuntr.com/tw/competitions/fhuqhfktpa6wxou8eq"
+      "name": "苗栗農工 處室公告",
+      "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=25993"
+    },
+    {
+      "name": "苗栗高中 學生校外營隊、活動、比賽",
+      "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=27487"
+    },
+    {
+      "name": "新竹高商 消息公佈欄",
+      "url": "https://www.hccvs.hc.edu.tw/ischool/public/news_view/show.php?nid=26044"
+    },
+    {
+      "name": "金門高中 最新消息",
+      "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=21773"
+    },
+    {
+      "name": "苗栗高中 學生校外營隊、活動、比賽",
+      "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=27438"
+    },
+    {
+      "name": "斗六高中 營隊研習競賽",
+      "url": "https://www.tlsh.ylc.edu.tw/2026/07/20/65308/"
+    },
+    {
+      "name": "新竹高商 消息公佈欄",
+      "url": "https://www.hccvs.hc.edu.tw/ischool/public/news_view/show.php?nid=26014"
     }
   ],
   "verification": {
@@ -672,7 +375,7 @@
     "method": "single",
     "unread": [
       "各縣市學生音樂比賽初賽實施要點",
-      "報名圖解"
+      "全國學生音樂比賽網站公布之指定曲目"
     ],
     "note": "第二次讀取沒有確認：截止日",
     "readers": [
@@ -681,8 +384,7 @@
     ]
   },
   "first_seen": "2026-11-24",
-  "updated": "2026-11-24",
-  "conflict": "實施要點寫大專院校、大陸臺商子弟學校、其他海外臺灣學校及特殊學校團體項目之書面報名表於115年12月25日前寄達；決賽報名公告（2026/11/20）寫115年12月28日前寄達。",
+  "updated": "2026-11-25",
   "level": "checked",
   "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-national-student-music/",
   "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-national-student-music.md"
