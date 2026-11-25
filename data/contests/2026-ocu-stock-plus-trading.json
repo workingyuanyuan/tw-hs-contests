@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "id": "2026-ocu-stock-plus-trading",
-  "title": "2026 股市plus 虛擬交易競賽",
+  "title": "2026股市Plus虛擬交易競賽",
   "edition": "2026",
-  "summary": "高中職學生 1 至 6 人組隊，在虛擬交易所模擬交易上市櫃股票，依總報酬率排名。",
+  "summary": "高中職學生組隊以虛擬資金買賣台灣上市櫃股票，依總報酬率排名。",
   "organizers": [
     {
       "name": "僑光科技大學財務金融系",
@@ -29,30 +29,20 @@
     "basis": "quote",
     "evidence": [
       {
-        "url": "https://www.hssh.tp.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Melk1TDNCMFlWODFPRFExTjE4Mk16SXdOakl4WHpVeU1ESXpMbkJrWmc9PQ==&fname=WSGGUWQKUS44A110EDLKSW24KK30OO35DGUWSS20A1IDCCFCSSECVTPOUSSSPKPO",
-        "quote": "參加對象：全國高中職學生(高一至高三均可)。"
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33760/10052026%E8%82%A1%E5%B8%82Plus%E8%99%9B%E6%93%AC%E4%BA%A4%E6%98%93%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.pdf",
+        "quote": "參、參加對象：全國高中職學生(高一至高三均可)。"
       },
       {
-        "url": "https://www.hssh.tp.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Melk1TDNCMFlWODFPRFExTjE4Mk16SXdOakl4WHpVeU1ESXpMbkJrWmc9PQ==&fname=WSGGUWQKUS44A110EDLKSW24KK30OO35DGUWSS20A1IDCCFCSSECVTPOUSSSPKPO",
-        "quote": "由參與對象學生組隊參加競賽，每組由1~6 位學生組成。並自行聘請教師指導參賽。"
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33760/10052026%E8%82%A1%E5%B8%82Plus%E8%99%9B%E6%93%AC%E4%BA%A4%E6%98%93%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.pdf",
+        "quote": "一、由參與對象學生組隊參加競賽，每組由1~6 位學生組成。並自行聘請教師指導參賽。"
+      },
+      {
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33760/10052026%E8%82%A1%E5%B8%82Plus%E8%99%9B%E6%93%AC%E4%BA%A4%E6%98%93%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.pdf",
+        "quote": "報名註冊EMAIL 限用就讀學校的電子信箱。"
       }
     ]
   },
   "dates": [
-    {
-      "kind": "registration_deadline",
-      "label": "報名截止",
-      "date": "2026-11-12",
-      "time": null,
-      "original": "115 年11 月12 日(四)",
-      "basis": "quote",
-      "evidence": [
-        {
-          "url": "https://www.hssh.tp.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Melk1TDNCMFlWODFPRFExTjE4Mk16SXdOakl4WHpVeU1ESXpMbkJrWmc9PQ==&fname=WSGGUWQKUS44A110EDLKSW24KK30OO35DGUWSS20A1IDCCFCSSECVTPOUSSSPKPO",
-          "quote": "報名期間：115 年10 月12 日(一) ~ 115 年11 月12 日(四)。"
-        }
-      ]
-    },
     {
       "kind": "other",
       "label": "試玩期間開始",
@@ -62,8 +52,22 @@
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://www.hssh.tp.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Melk1TDNCMFlWODFPRFExTjE4Mk16SXdOakl4WHpVeU1ESXpMbkJrWmc9PQ==&fname=WSGGUWQKUS44A110EDLKSW24KK30OO35DGUWSS20A1IDCCFCSSECVTPOUSSSPKPO",
+          "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33760/10052026%E8%82%A1%E5%B8%82Plus%E8%99%9B%E6%93%AC%E4%BA%A4%E6%98%93%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.pdf",
           "quote": "(1)試玩日期：115 年11 月2 日(一) ~ 115 年11 月13 日(五)。"
+        }
+      ]
+    },
+    {
+      "kind": "registration_deadline",
+      "label": "報名截止",
+      "date": "2026-11-12",
+      "time": null,
+      "original": "115 年11 月12 日(四)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33760/10052026%E8%82%A1%E5%B8%82Plus%E8%99%9B%E6%93%AC%E4%BA%A4%E6%98%93%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.pdf",
+          "quote": "報名期間：115 年10 月12 日(一) ~ 115 年11 月12 日(四)。"
         }
       ]
     },
@@ -76,7 +80,7 @@
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://www.hssh.tp.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Melk1TDNCMFlWODFPRFExTjE4Mk16SXdOakl4WHpVeU1ESXpMbkJrWmc9PQ==&fname=WSGGUWQKUS44A110EDLKSW24KK30OO35DGUWSS20A1IDCCFCSSECVTPOUSSSPKPO",
+          "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33760/10052026%E8%82%A1%E5%B8%82Plus%E8%99%9B%E6%93%AC%E4%BA%A4%E6%98%93%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.pdf",
           "quote": "(2)正式競賽：115 年11 月16 日(一) ~ 116 年1 月15 日(五)。"
         }
       ]
@@ -90,7 +94,7 @@
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://www.hssh.tp.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Melk1TDNCMFlWODFPRFExTjE4Mk16SXdOakl4WHpVeU1ESXpMbkJrWmc9PQ==&fname=WSGGUWQKUS44A110EDLKSW24KK30OO35DGUWSS20A1IDCCFCSSECVTPOUSSSPKPO",
+          "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33760/10052026%E8%82%A1%E5%B8%82Plus%E8%99%9B%E6%93%AC%E4%BA%A4%E6%98%93%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.pdf",
           "quote": "(2)正式競賽：115 年11 月16 日(一) ~ 116 年1 月15 日(五)。"
         }
       ]
@@ -104,21 +108,16 @@
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://www.hssh.tp.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Melk1TDNCMFlWODFPRFExTjE4Mk16SXdOakl4WHpVeU1ESXpMbkJrWmc9PQ==&fname=WSGGUWQKUS44A110EDLKSW24KK30OO35DGUWSS20A1IDCCFCSSECVTPOUSSSPKPO",
-          "quote": "(4)頒獎日期: 116 年1 月22 日(五) 於僑光科技大學舉辦「2026 股市plus 虛擬交易競"
+          "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33760/10052026%E8%82%A1%E5%B8%82Plus%E8%99%9B%E6%93%AC%E4%BA%A4%E6%98%93%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.pdf",
+          "quote": "(4)頒獎日期: 116 年1 月22 日(五) 於僑光科技大學舉辦「2026 股市plus 虛擬交易競賽」頒獎典禮。"
         }
       ]
     }
   ],
   "deliverables": [
     {
-      "stage": "報名",
-      "what": "線上報名表，註冊 EMAIL 限用就讀學校的電子信箱",
-      "how": "online"
-    },
-    {
       "stage": "正式競賽",
-      "what": "在虛擬交易所網頁下單交易，投資組合須有 5 檔以上上市或上櫃股票",
+      "what": "於虛擬交易所網頁下單，以 2,000 萬元虛擬資金持有 5 檔以上上市或上櫃股票，計入交易成本",
       "how": "online"
     }
   ],
@@ -128,7 +127,7 @@
     "basis": "absent",
     "evidence": [
       {
-        "url": "https://www.hssh.tp.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Melk1TDNCMFlWODFPRFExTjE4Mk16SXdOakl4WHpVeU1ESXpMbkJrWmc9PQ==&fname=WSGGUWQKUS44A110EDLKSW24KK30OO35DGUWSS20A1IDCCFCSSECVTPOUSSSPKPO"
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33760/10052026%E8%82%A1%E5%B8%82Plus%E8%99%9B%E6%93%AC%E4%BA%A4%E6%98%93%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.pdf"
       }
     ]
   },
@@ -138,33 +137,36 @@
     "basis": "absent",
     "evidence": [
       {
-        "url": "https://www.hssh.tp.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Melk1TDNCMFlWODFPRFExTjE4Mk16SXdOakl4WHpVeU1ESXpMbkJrWmc9PQ==&fname=WSGGUWQKUS44A110EDLKSW24KK30OO35DGUWSS20A1IDCCFCSSECVTPOUSSSPKPO"
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33760/10052026%E8%82%A1%E5%B8%82Plus%E8%99%9B%E6%93%AC%E4%BA%A4%E6%98%93%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.pdf"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/10/「2026股市Plus虛擬交易競賽」.pdf"
       }
     ]
   },
   "prizes": {
-    "text": "第一名獎狀及獎金 10,000 元、第二名獎狀及獎金 6,000 元、第三名獎狀及獎金 4,000 元，各 1 名；進入前三名組別的登記指導老師可獲 2,000 元指導獎勵。於正式競賽期間曾交易者發給參賽證明。",
+    "text": "第一名 1 名獎狀及獎金 10,000 元、第二名 1 名獎狀及獎金 6,000 元、第三名 1 名獎狀及獎金 4,000 元；報名時登記的前三名組別指導老師可獲 2,000 元指導獎勵。正式競賽期間曾交易者發給參賽證明。",
     "basis": "quote",
     "evidence": [
       {
-        "url": "https://www.hssh.tp.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Melk1TDNCMFlWODFPRFExTjE4Mk16SXdOakl4WHpVeU1ESXpMbkJrWmc9PQ==&fname=WSGGUWQKUS44A110EDLKSW24KK30OO35DGUWSS20A1IDCCFCSSECVTPOUSSSPKPO",
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33760/10052026%E8%82%A1%E5%B8%82Plus%E8%99%9B%E6%93%AC%E4%BA%A4%E6%98%93%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.pdf",
         "quote": "(一)第一名：頒發獎狀乙紙及獎金10,000 元整。(1 名)"
       },
       {
-        "url": "https://www.hssh.tp.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Melk1TDNCMFlWODFPRFExTjE4Mk16SXdOakl4WHpVeU1ESXpMbkJrWmc9PQ==&fname=WSGGUWQKUS44A110EDLKSW24KK30OO35DGUWSS20A1IDCCFCSSECVTPOUSSSPKPO",
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33760/10052026%E8%82%A1%E5%B8%82Plus%E8%99%9B%E6%93%AC%E4%BA%A4%E6%98%93%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.pdf",
         "quote": "(二)第二名：頒發獎狀乙紙及獎金6,000 元整。(1 名)"
       },
       {
-        "url": "https://www.hssh.tp.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Melk1TDNCMFlWODFPRFExTjE4Mk16SXdOakl4WHpVeU1ESXpMbkJrWmc9PQ==&fname=WSGGUWQKUS44A110EDLKSW24KK30OO35DGUWSS20A1IDCCFCSSECVTPOUSSSPKPO",
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33760/10052026%E8%82%A1%E5%B8%82Plus%E8%99%9B%E6%93%AC%E4%BA%A4%E6%98%93%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.pdf",
         "quote": "(三)第三名：頒發獎狀乙紙及獎金4,000 元整。(1 名)"
       },
       {
-        "url": "https://www.hssh.tp.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Melk1TDNCMFlWODFPRFExTjE4Mk16SXdOakl4WHpVeU1ESXpMbkJrWmc9PQ==&fname=WSGGUWQKUS44A110EDLKSW24KK30OO35DGUWSS20A1IDCCFCSSECVTPOUSSSPKPO",
-        "quote": "(四)報名時登記為該組指導老師且有進入前三名之組別，指導老師可獲2000 元指導獎 勵。"
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33760/10052026%E8%82%A1%E5%B8%82Plus%E8%99%9B%E6%93%AC%E4%BA%A4%E6%98%93%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.pdf",
+        "quote": "(四)報名時登記為該組指導老師且有進入前三名之組別，指導老師可獲2000 元指導獎勵。"
       },
       {
-        "url": "https://www.hssh.tp.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Melk1TDNCMFlWODFPRFExTjE4Mk16SXdOakl4WHpVeU1ESXpMbkJrWmc9PQ==&fname=WSGGUWQKUS44A110EDLKSW24KK30OO35DGUWSS20A1IDCCFCSSECVTPOUSSSPKPO",
-        "quote": "經查參賽者於正式競賽期間曾進行交易，主辦單位始發給參賽證明。"
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33760/10052026%E8%82%A1%E5%B8%82Plus%E8%99%9B%E6%93%AC%E4%BA%A4%E6%98%93%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.pdf",
+        "quote": "8、 經查參賽者於正式競賽期間曾進行交易，主辦單位始發給參賽證明。"
       }
     ]
   },
@@ -173,7 +175,7 @@
     "basis": "absent",
     "evidence": [
       {
-        "url": "https://www.hssh.tp.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Melk1TDNCMFlWODFPRFExTjE4Mk16SXdOakl4WHpVeU1ESXpMbkJrWmc9PQ==&fname=WSGGUWQKUS44A110EDLKSW24KK30OO35DGUWSS20A1IDCCFCSSECVTPOUSSSPKPO"
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33760/10052026%E8%82%A1%E5%B8%82Plus%E8%99%9B%E6%93%AC%E4%BA%A4%E6%98%93%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.pdf"
       }
     ]
   },
@@ -181,24 +183,40 @@
     "official": "https://fc.ocu.edu.tw/p/412-1045-5979.php",
     "rules": [
       {
-        "title": "2026 股市plus 虛擬交易競賽簡章",
-        "url": "https://www.hssh.tp.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Melk1TDNCMFlWODFPRFExTjE4Mk16SXdOakl4WHpVeU1ESXpMbkJrWmc9PQ==&fname=WSGGUWQKUS44A110EDLKSW24KK30OO35DGUWSS20A1IDCCFCSSECVTPOUSSSPKPO"
+        "title": "2026股市Plus虛擬交易競賽辦法",
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33760/10052026%E8%82%A1%E5%B8%82Plus%E8%99%9B%E6%93%AC%E4%BA%A4%E6%98%93%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.pdf"
       }
     ],
     "registration": "https://forms.gle/aP4XbH8n6Y3M4gbK9"
   },
   "found_via": [
     {
-      "name": "苗栗農工 處室公告",
-      "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26701"
+      "name": "大同高中 學生競賽活動",
+      "url": "https://www.ttsh.tp.edu.tw/news/%e5%83%91%e5%85%89%e7%a7%91%e6%8a%80%e5%a4%a7%e5%ad%b8%e8%b2%a1%e5%8b%99%e9%87%91%e8%9e%8d%e7%b3%bb%e8%88%89%e8%be%a6%e3%80%8c2026%e8%82%a1%e5%b8%82plus%e8%99%9b%e6%93%ac%e4%ba%a4%e6%98%93%e7%ab%b6/"
     },
     {
-      "name": "新竹高商 消息公佈欄",
-      "url": "https://www.hccvs.hc.edu.tw/ischool/public/news_view/show.php?nid=26473"
+      "name": "南港高工 重要資訊",
+      "url": "https://www.nkhs.tp.edu.tw/ischool/public/news_view/show.php?nid=34822"
+    },
+    {
+      "name": "苗栗高中 學生校外營隊、活動、比賽",
+      "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=28225"
+    },
+    {
+      "name": "高師大附中 校外競賽與活動",
+      "url": "https://www.nknush.kh.edu.tw/announcement/20663/%e5%85%ac%e5%91%8a%e8%a8%93%e8%82%b2%e7%b5%84%e5%83%91%e5%85%89%e7%a7%91%e6%8a%80%e5%a4%a7%e5%ad%b8%e3%80%8c2026%e8%82%a1%e5%b8%82plus%e8%99%9b%e6%93%ac%e4%ba%a4%e6%98%93%e7%ab%b6%e8%b3%bd%e3%80%8d/"
+    },
+    {
+      "name": "暨大附中 學生研習與競賽活動",
+      "url": "https://www.pshs.ntct.edu.tw/ischool/public/news_view/show.php?nid=33760"
+    },
+    {
+      "name": "壽山高中 校外競賽",
+      "url": "https://www.sssh.tyc.edu.tw/news/%e5%83%91%e5%85%89%e7%a7%91%e6%8a%80%e5%a4%a7%e5%ad%b8%e8%b2%a1%e5%8b%99%e9%87%91%e8%9e%8d%e7%b3%bb%e8%88%89%e8%be%a6%e3%80%8c2026%e8%82%a1%e5%b8%82plus%e8%99%9b%e6%93%ac%e4%ba%a4%e6%98%93%e7%ab%b6/"
     },
     {
       "name": "西松高中 校外競賽公告",
-      "url": "https://www.hssh.tp.edu.tw/p/405-1000-52449,c540.php?Lang=zh-tw"
+      "url": "https://www.hssh.tp.edu.tw/p/405-1000-52449,c540.php"
     }
   ],
   "verification": {
@@ -211,5 +229,5 @@
     ]
   },
   "first_seen": "2026-11-24",
-  "updated": "2026-11-24"
+  "updated": "2026-11-25"
 }

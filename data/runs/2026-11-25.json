@@ -1749,15 +1749,36 @@
    ],
    "merged": [],
    "set_aside": []
+  },
+  {
+   "tasks": [
+    {
+     "task": "c0303-1",
+     "result": "asks for 6 more documents"
+    }
+   ],
+   "merged": [],
+   "set_aside": []
+  },
+  {
+   "tasks": [
+    {
+     "task": "c0303-1",
+     "result": "done: 2026-sowal-indigenous-language-esports (checked)"
+    }
+   ],
+   "merged": [],
+   "set_aside": []
   }
  ],
  "queue": {
-  "done": 265,
-  "skipped": 77,
+  "done": 266,
+  "skipped": 76,
   "expired": 1,
   "new": 441,
   "search": 2
  },
  "announcements_waiting": 0,
- "records": 218
+ "records": 212,
+ "possible_duplicates": []
 }

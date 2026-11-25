@@ -1,6 +1,6 @@
 ---
 title: "高中職競賽目錄"
-description: "臺灣高中職學生現在可以報名的比賽 110 則，37 則在 14 天內截止。"
+description: "臺灣高中職學生現在可以報名的比賽 108 則，36 則在 14 天內截止。"
 appliesTo: "資料更新至 2026-11-25"
 caveat: "日期皆為臺灣時間 (UTC+8)；截止日是新參賽者報名的最後一天。"
 lastVerified: 2026-11-25
@@ -25,10 +25,10 @@ sources:
 
 ## 截止月份
 
-- [2026 年 11 月](/deadlines/2026-11/)：20 則
+- [2026 年 11 月](/deadlines/2026-11/)：19 則
 - [2026 年 12 月](/deadlines/2026-12/)：42 則
 - [2027 年 1 月](/deadlines/2027-01/)：22 則
-- [2027 年 2 月](/deadlines/2027-02/)：9 則
+- [2027 年 2 月](/deadlines/2027-02/)：8 則
 - [2027 年 3 月](/deadlines/2027-03/)：7 則
 - [2027 年 4 月](/deadlines/2027-04/)：2 則
 - [2027 年 5 月](/deadlines/2027-05/)：2 則
@@ -45,9 +45,9 @@ sources:
 - [外語](/subjects/foreign-languages/)：10 則
 - [社會人文](/subjects/humanities/)：16 則
 - [商管與行銷](/subjects/business/)：10 則
-- [創業與企劃](/subjects/entrepreneurship/)：10 則
+- [創業與企劃](/subjects/entrepreneurship/)：9 則
 - [設計](/subjects/design/)：15 則
-- [美術](/subjects/fine-arts/)：13 則
+- [美術](/subjects/fine-arts/)：12 則
 - [影音](/subjects/video/)：23 則
 - [音樂](/subjects/music/)：6 則
 - [表演藝術](/subjects/performing-arts/)：6 則
@@ -55,13 +55,13 @@ sources:
 - [餐旅](/subjects/hospitality/)：5 則
 - [工程與製造](/subjects/engineering/)：13 則
 - [農業與環境](/subjects/agriculture-and-environment/)：5 則
-- [醫護與照顧](/subjects/health-and-care/)：8 則
+- [醫護與照顧](/subjects/health-and-care/)：7 則
 - [其他](/subjects/other/)：2 則
 
 ## 封存
 
-- [2026 年 11 月截止](/archive/2026-11/)：44 則
-- [2026 年 10 月截止](/archive/2026-10/)：28 則
+- [2026 年 11 月截止](/archive/2026-11/)：40 則
+- [2026 年 10 月截止](/archive/2026-10/)：29 則
 - [2026 年 9 月截止](/archive/2026-09/)：18 則
 - [2026 年 7 月截止](/archive/2026-07/)：1 則
 - [2026 年 6 月截止](/archive/2026-06/)：3 則

@@ -2,7 +2,7 @@
   "site": "https://yuanaruru.com/tw-hs-contests",
   "generated": "2026-11-25",
   "timezone": "Asia/Taipei",
-  "count": 218,
+  "count": 212,
   "contests": [
     {
       "schema": 1,
@@ -244,213 +244,6 @@
     {
       "schema": 1,
       "id": "2026-aerc-ksu",
-      "title": "2026第38屆AERC亞洲機器人運動競技大賽－崑山科技大學賽場",
-      "edition": "第38屆",
-      "summary": "各級學校師生組隊，以機器人或無人機參加循跡、障礙、帶球跑、競速等九個項目的現場競技。",
-      "organizers": [
-        {
-          "name": "台灣創新自造者學會",
-          "role": "主辦"
-        },
-        {
-          "name": "崑山科技大學",
-          "role": "主辦"
-        },
-        {
-          "name": "德明財經科技大學",
-          "role": "主辦"
-        },
-        {
-          "name": "勤益科技大學",
-          "role": "主辦"
-        },
-        {
-          "name": "崑山科技大學",
-          "role": "承辦"
-        },
-        {
-          "name": "台灣亞競教育科技有限公司",
-          "role": "協辦"
-        }
-      ],
-      "categories": [
-        "工程與製造",
-        "資訊與 AI"
-      ],
-      "eligibility": {
-        "levels": [
-          "國小",
-          "國中",
-          "高中",
-          "高職",
-          "大專"
-        ],
-        "division": "separate",
-        "regions": [
-          "全國"
-        ],
-        "nomination": "none",
-        "team_min": null,
-        "team_max": null,
-        "teacher": "unknown",
-        "basis": "quote",
-        "evidence": [
-          {
-            "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28071/2026%E7%AC%AC38%E5%B1%86AERC%E4%BA%9E%E6%B4%B2%E6%A9%9F%E5%99%A8%E4%BA%BA%E9%81%8B%E5%8B%95%E7%AB%B6%E6%8A%80%E5%A4%A7%E8%B3%BD.pdf",
-            "quote": "本競賽參賽級別包括國民小學、國民中學、高中高職、大專院校及無限級，各競賽項目開放之參賽級別及機器組"
-          },
-          {
-            "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28071/2026%E7%AC%AC38%E5%B1%86AERC%E4%BA%9E%E6%B4%B2%E6%A9%9F%E5%99%A8%E4%BA%BA%E9%81%8B%E5%8B%95%E7%AB%B6%E6%8A%80%E5%A4%A7%E8%B3%BD.pdf",
-            "quote": "報名時間：即日起開放網路報名，報名至115年11月9日截止。"
-          },
-          {
-            "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28071/2026%E7%AC%AC38%E5%B1%86AERC%E4%BA%9E%E6%B4%B2%E6%A9%9F%E5%99%A8%E4%BA%BA%E9%81%8B%E5%8B%95%E7%AB%B6%E6%8A%80%E5%A4%A7%E8%B3%BD.pdf",
-            "quote": "正本：公私立大專校院、全國高級中等學校"
-          }
-        ]
-      },
-      "dates": [
-        {
-          "kind": "registration_deadline",
-          "label": "網路報名截止",
-          "date": "2026-11-09",
-          "time": null,
-          "original": "115年11月9日",
-          "basis": "quote",
-          "evidence": [
-            {
-              "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28071/2026%E7%AC%AC38%E5%B1%86AERC%E4%BA%9E%E6%B4%B2%E6%A9%9F%E5%99%A8%E4%BA%BA%E9%81%8B%E5%8B%95%E7%AB%B6%E6%8A%80%E5%A4%A7%E8%B3%BD.pdf",
-              "quote": "報名時間：即日起開放網路報名，報名至115年11月9日截止。"
-            },
-            {
-              "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28071/2026%E7%AC%AC38%E5%B1%86AERC%E4%BA%9E%E6%B4%B2%E6%A9%9F%E5%99%A8%E4%BA%BA%E9%81%8B%E5%8B%95%E7%AB%B6%E6%8A%80%E5%A4%A7%E8%B3%BD1.pdf",
-              "quote": "報名時間：即日起~ 11/09"
-            }
-          ]
-        },
-        {
-          "kind": "other",
-          "label": "報名費匯款截止",
-          "date": "2026-11-11",
-          "time": null,
-          "original": "115年11月11日",
-          "basis": "quote",
-          "evidence": [
-            {
-              "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28071/2026%E7%AC%AC38%E5%B1%86AERC%E4%BA%9E%E6%B4%B2%E6%A9%9F%E5%99%A8%E4%BA%BA%E9%81%8B%E5%8B%95%E7%AB%B6%E6%8A%80%E5%A4%A7%E8%B3%BD.pdf",
-              "quote": "報名費匯款截止日期：115年11月11日。"
-            }
-          ]
-        },
-        {
-          "kind": "final_event",
-          "label": "決賽暨頒獎典禮",
-          "date": "2026-12-12",
-          "time": null,
-          "original": "115年12月12日（星期六）",
-          "basis": "quote",
-          "evidence": [
-            {
-              "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28071/2026%E7%AC%AC38%E5%B1%86AERC%E4%BA%9E%E6%B4%B2%E6%A9%9F%E5%99%A8%E4%BA%BA%E9%81%8B%E5%8B%95%E7%AB%B6%E6%8A%80%E5%A4%A7%E8%B3%BD.pdf",
-              "quote": "競賽時間：115年12月12日（星期六）"
-            },
-            {
-              "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28071/2026%E7%AC%AC38%E5%B1%86AERC%E4%BA%9E%E6%B4%B2%E6%A9%9F%E5%99%A8%E4%BA%BA%E9%81%8B%E5%8B%95%E7%AB%B6%E6%8A%80%E5%A4%A7%E8%B3%BD1.pdf",
-              "quote": "決賽暨頒獎典禮：12/12"
-            }
-          ]
-        }
-      ],
-      "deliverables": [
-        {
-          "stage": "報名",
-          "what": "網路報名並匯繳報名費",
-          "how": "online"
-        },
-        {
-          "stage": "競賽",
-          "what": "以機器人或無人機參加所選項目（C01機器人循跡挑戰至C09無人機遙控競速挑戰賽）",
-          "how": "onsite"
-        }
-      ],
-      "attendance": {
-        "value": "all",
-        "where": "崑山科技大學體育館（臺南市永康區崑大路195號）",
-        "basis": "quote",
-        "evidence": [
-          {
-            "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28071/2026%E7%AC%AC38%E5%B1%86AERC%E4%BA%9E%E6%B4%B2%E6%A9%9F%E5%99%A8%E4%BA%BA%E9%81%8B%E5%8B%95%E7%AB%B6%E6%8A%80%E5%A4%A7%E8%B3%BD.pdf",
-            "quote": "競賽地點：崑山科技大學體育館（臺南市永康區崑大路195號）。"
-          },
-          {
-            "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28071/2026%E7%AC%AC38%E5%B1%86AERC%E4%BA%9E%E6%B4%B2%E6%A9%9F%E5%99%A8%E4%BA%BA%E9%81%8B%E5%8B%95%E7%AB%B6%E6%8A%80%E5%A4%A7%E8%B3%BD.pdf",
-            "quote": "活動訂於115年12月12日(星期六)假本校體育館舉行"
-          }
-        ]
-      },
-      "fee": {
-        "value": "required",
-        "amount": null,
-        "basis": "quote",
-        "evidence": [
-          {
-            "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28071/2026%E7%AC%AC38%E5%B1%86AERC%E4%BA%9E%E6%B4%B2%E6%A9%9F%E5%99%A8%E4%BA%BA%E9%81%8B%E5%8B%95%E7%AB%B6%E6%8A%80%E5%A4%A7%E8%B3%BD.pdf",
-            "quote": "報名費匯款截止日期：115年11月11日。"
-          }
-        ]
-      },
-      "prizes": {
-        "text": null,
-        "basis": "unread",
-        "evidence": []
-      },
-      "ai_policy": {
-        "value": "allowed",
-        "basis": "quote",
-        "evidence": [
-          {
-            "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28071/2026%E7%AC%AC38%E5%B1%86AERC%E4%BA%9E%E6%B4%B2%E6%A9%9F%E5%99%A8%E4%BA%BA%E9%81%8B%E5%8B%95%E7%AB%B6%E6%8A%80%E5%A4%A7%E8%B3%BD.pdf",
-            "quote": "並引導學生適切運用人工智慧工具於競賽準備過程中的知識建構、技能學習、程式設計及問題分析"
-          }
-        ]
-      },
-      "links": {
-        "official": "https://aerc.ksu.coolcold.com.tw/",
-        "rules": [
-          {
-            "title": "AERC亞洲機器人運動競技大賽官方網站：競賽辦法、各項競賽規則及相關公告",
-            "url": "https://www.aerc1988.com.tw/custom_101145.html"
-          }
-        ],
-        "registration": "https://reurl.cc/7Yd3my"
-      },
-      "found_via": [
-        {
-          "name": "苗栗高中 學生校外營隊、活動、比賽",
-          "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=28071"
-        }
-      ],
-      "verification": {
-        "last_verified": "2026-11-25",
-        "method": "single",
-        "unread": [
-          "AERC亞洲機器人運動競技大賽官方網站之競賽辦法與各項競賽規則",
-          "報名表"
-        ],
-        "note": null,
-        "readers": [
-          "claude-opus-5-5"
-        ]
-      },
-      "first_seen": "2026-11-24",
-      "updated": "2026-11-25",
-      "level": "checked",
-      "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-aerc-ksu/",
-      "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-aerc-ksu.md"
-    },
-    {
-      "schema": 1,
-      "id": "2026-aerc-robot-sports-2",
       "title": "2026第38屆AERC亞洲機器人運動競技大賽",
       "edition": "第 38 屆",
       "summary": "各級學生與社會人士最多 4 人組隊，以機器人參加循跡、避障、帶球跑等競賽項目。",
@@ -745,131 +538,8 @@
       "first_seen": "2026-11-24",
       "updated": "2026-11-25",
       "level": "checked",
-      "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-aerc-robot-sports-2/",
-      "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-aerc-robot-sports-2.md"
-    },
-    {
-      "schema": 1,
-      "id": "2026-aerc-robot-sports",
-      "title": "AERC2026 亞洲機器人運動競技大賽",
-      "edition": "2026",
-      "summary": "國小至社會組參賽者以機器人參加各項目的運動競技比賽。",
-      "organizers": [
-        {
-          "name": "德明財經科技大學",
-          "role": "承辦"
-        }
-      ],
-      "categories": [
-        "工程與製造",
-        "資訊與 AI"
-      ],
-      "eligibility": {
-        "levels": [
-          "國小",
-          "國中",
-          "高中",
-          "高職",
-          "大專",
-          "社會人士"
-        ],
-        "division": "unknown",
-        "regions": [
-          "全國"
-        ],
-        "nomination": "unknown",
-        "team_min": null,
-        "team_max": null,
-        "teacher": "unknown",
-        "basis": "quote",
-        "evidence": [
-          {
-            "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28143/AERC2026%E4%BA%9E%E6%B4%B2%E6%A9%9F%E5%99%A8%E4%BA%BA%E9%81%8B%E5%8B%95%E7%AB%B6%E6%8A%80%E5%A4%A7%E8%B3%BD.pdf",
-            "quote": "二、參加對象： 國小、國中、高中高職、大專院校及社會組。"
-          }
-        ]
-      },
-      "dates": [
-        {
-          "kind": "registration_deadline",
-          "label": "報名截止",
-          "date": "2026-11-02",
-          "time": null,
-          "original": "115年11月02 日（星期一）",
-          "basis": "quote",
-          "evidence": [
-            {
-              "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28143/AERC2026%E4%BA%9E%E6%B4%B2%E6%A9%9F%E5%99%A8%E4%BA%BA%E9%81%8B%E5%8B%95%E7%AB%B6%E6%8A%80%E5%A4%A7%E8%B3%BD.pdf",
-              "quote": "三、報名截止日期：115年11月02 日（星期一）。"
-            }
-          ]
-        },
-        {
-          "kind": "final_event",
-          "label": "大賽舉行",
-          "date": "2026-12-05",
-          "time": null,
-          "original": "115年12月5日（星期六）",
-          "basis": "quote",
-          "evidence": [
-            {
-              "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28143/AERC2026%E4%BA%9E%E6%B4%B2%E6%A9%9F%E5%99%A8%E4%BA%BA%E9%81%8B%E5%8B%95%E7%AB%B6%E6%8A%80%E5%A4%A7%E8%B3%BD.pdf",
-              "quote": "主旨：本校於115年12月5日（星期六）承辦AERC2026 亞洲機器人運動競技大賽"
-            }
-          ]
-        }
-      ],
-      "deliverables": [],
-      "attendance": {
-        "value": "unknown",
-        "where": null,
-        "basis": "unread",
-        "evidence": []
-      },
-      "fee": {
-        "value": "unknown",
-        "amount": null,
-        "basis": "unread",
-        "evidence": []
-      },
-      "prizes": {
-        "text": null,
-        "basis": "unread",
-        "evidence": []
-      },
-      "ai_policy": {
-        "value": "unknown",
-        "basis": "unread",
-        "evidence": []
-      },
-      "links": {
-        "official": "https://www.aerc1988.com.tw/",
-        "rules": [],
-        "registration": null
-      },
-      "found_via": [
-        {
-          "name": "苗栗高中 學生校外營隊、活動、比賽",
-          "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=28143"
-        }
-      ],
-      "verification": {
-        "last_verified": "2026-11-25",
-        "method": "single",
-        "unread": [
-          "競賽官方網站的競賽活動辦法",
-          "競賽官方網站的各項目競賽規則"
-        ],
-        "note": null,
-        "readers": [
-          "claude-opus-5-5"
-        ]
-      },
-      "first_seen": "2026-11-24",
-      "updated": "2026-11-25",
-      "level": "checked",
-      "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-aerc-robot-sports/",
-      "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-aerc-robot-sports.md"
+      "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-aerc-ksu/",
+      "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-aerc-ksu.md"
     },
     {
       "schema": 1,
@@ -18351,282 +18021,6 @@
     },
     {
       "schema": 1,
-      "id": "2026-national-skills-competition-57",
-      "title": "116年度全國技能競賽",
-      "edition": "第57屆",
-      "summary": "符合年齡的我國國民報名各職類，先在北中南分區賽實地操作技能，各職類前 5 名晉級全國賽。",
-      "organizers": [
-        {
-          "name": "勞動部",
-          "role": "指導"
-        },
-        {
-          "name": "勞動部勞動力發展署",
-          "role": "指導"
-        },
-        {
-          "name": "勞動部勞動力發展署技能檢定中心",
-          "role": "主辦"
-        },
-        {
-          "name": "勞動部勞動力發展署桃竹苗分署",
-          "role": "承辦"
-        },
-        {
-          "name": "勞動部勞動力發展署中彰投分署",
-          "role": "承辦"
-        },
-        {
-          "name": "勞動部勞動力發展署雲嘉南分署",
-          "role": "承辦"
-        }
-      ],
-      "categories": [
-        "技藝與技能",
-        "工程與製造",
-        "餐旅"
-      ],
-      "eligibility": {
-        "levels": [
-          "國中",
-          "高中",
-          "高職",
-          "五專",
-          "大專",
-          "社會人士"
-        ],
-        "division": "mixed",
-        "regions": [
-          "全國"
-        ],
-        "nomination": "unknown",
-        "team_min": null,
-        "team_max": null,
-        "teacher": "unknown",
-        "basis": "quote",
-        "evidence": [
-          {
-            "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28149/%E5%A0%B1%E5%90%8D%E7%B0%A1%E7%AB%A0.pdf",
-            "quote": "選手應具有中華民國國籍，青年組限民國95 年1月1 日以後出生者"
-          },
-          {
-            "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28149/%E5%A0%B1%E5%90%8D%E7%B0%A1%E7%AB%A0.pdf",
-            "quote": "青少年組限民國100 年1 月1 日至民國103 年12 月31 日間出生者。"
-          },
-          {
-            "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28149/%E5%A0%B1%E5%90%8D%E7%B0%A1%E7%AB%A0.pdf",
-            "quote": "教育部推薦上年度全國高級中等學校學生技藝競賽相關職類之前3 名參加青年組競賽"
-          },
-          {
-            "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28149/%E5%A0%B1%E5%90%8D%E7%B0%A1%E7%AB%A0.pdf",
-            "quote": "推薦當年度直轄市、縣（市）政府國民中學學生技藝競賽相關職類之前3 名參加青少年組競賽。"
-          }
-        ]
-      },
-      "dates": [
-        {
-          "kind": "registration_deadline",
-          "label": "分區技能競賽網路報名截止（11 月 24 日起）",
-          "date": "2026-12-07",
-          "time": null,
-          "original": "115年11月24日至12月7日",
-          "basis": "quote",
-          "evidence": [
-            {
-              "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28817/%E6%8A%80%E6%AA%A2%E4%B8%AD%E5%BF%83%E3%80%8C%E7%AC%AC57%E5%B1%86%E5%85%A8%E5%9C%8B%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E5%88%86%E5%8D%80%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E3%80%8D%E5%85%AC%E6%96%87.pdf",
-              "quote": "並訂於115年11月24日至12月7日開放網路報名"
-            },
-            {
-              "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28817/%E6%8A%80%E6%AA%A2%E4%B8%AD%E5%BF%83%E3%80%8C%E7%AC%AC57%E5%B1%86%E5%85%A8%E5%9C%8B%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E5%88%86%E5%8D%80%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E3%80%8D%E6%B5%B7%E5%A0%B1.pdf",
-              "quote": "12.07"
-            }
-          ]
-        },
-        {
-          "kind": "other",
-          "label": "分區技能競賽青少年組（3 月 22 日至 23 日）",
-          "date": "2027-03-22",
-          "time": null,
-          "original": "3.22-23",
-          "basis": "quote",
-          "evidence": [
-            {
-              "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28817/%E6%8A%80%E6%AA%A2%E4%B8%AD%E5%BF%83%E3%80%8C%E7%AC%AC57%E5%B1%86%E5%85%A8%E5%9C%8B%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E5%88%86%E5%8D%80%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E3%80%8D%E6%B5%B7%E5%A0%B1.pdf",
-              "quote": "3.22-23"
-            },
-            {
-              "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28817/%E6%8A%80%E6%AA%A2%E4%B8%AD%E5%BF%83%E3%80%8C%E7%AC%AC57%E5%B1%86%E5%85%A8%E5%9C%8B%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E5%88%86%E5%8D%80%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E3%80%8D%E5%85%AC%E6%96%87.pdf",
-              "quote": "分區技能競賽訂於116年3月22日至3月27日於北、中、南三區共同舉辦"
-            }
-          ]
-        },
-        {
-          "kind": "result_announcement",
-          "label": "分區技能競賽青少年組成績公告",
-          "date": "2027-03-24",
-          "time": null,
-          "original": "3.24",
-          "basis": "quote",
-          "evidence": [
-            {
-              "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28817/%E6%8A%80%E6%AA%A2%E4%B8%AD%E5%BF%83%E3%80%8C%E7%AC%AC57%E5%B1%86%E5%85%A8%E5%9C%8B%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E5%88%86%E5%8D%80%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E3%80%8D%E6%B5%B7%E5%A0%B1.pdf",
-              "quote": "青少年组3.24"
-            }
-          ]
-        },
-        {
-          "kind": "other",
-          "label": "分區技能競賽青年組（3 月 25 日至 26 日）",
-          "date": "2027-03-25",
-          "time": null,
-          "original": "3.25-26",
-          "basis": "quote",
-          "evidence": [
-            {
-              "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28817/%E6%8A%80%E6%AA%A2%E4%B8%AD%E5%BF%83%E3%80%8C%E7%AC%AC57%E5%B1%86%E5%85%A8%E5%9C%8B%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E5%88%86%E5%8D%80%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E3%80%8D%E6%B5%B7%E5%A0%B1.pdf",
-              "quote": "3.25-26青年组"
-            }
-          ]
-        },
-        {
-          "kind": "result_announcement",
-          "label": "分區技能競賽青年組成績公告",
-          "date": "2027-03-27",
-          "time": null,
-          "original": "3.27",
-          "basis": "quote",
-          "evidence": [
-            {
-              "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28817/%E6%8A%80%E6%AA%A2%E4%B8%AD%E5%BF%83%E3%80%8C%E7%AC%AC57%E5%B1%86%E5%85%A8%E5%9C%8B%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E5%88%86%E5%8D%80%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E3%80%8D%E6%B5%B7%E5%A0%B1.pdf",
-              "quote": "青年組3.27"
-            }
-          ]
-        },
-        {
-          "kind": "final_event",
-          "label": "全國技能競賽（預定 7 月 21 日至 25 日）",
-          "date": "2027-07-21",
-          "time": null,
-          "original": "預定為116 年7 月21 日至7 月25 日",
-          "basis": "quote",
-          "evidence": [
-            {
-              "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28149/%E5%A0%B1%E5%90%8D%E7%B0%A1%E7%AB%A0.pdf",
-              "quote": "實際競賽時間（預定為116 年7 月21 日至7 月25 日）"
-            }
-          ]
-        }
-      ],
-      "deliverables": [
-        {
-          "stage": "報名",
-          "what": "分區技能競賽網路報名",
-          "how": "online"
-        },
-        {
-          "stage": "分區技能競賽",
-          "what": "依試題實地技能操作，進行加工、裝配、檢修、製作成品或提供服務",
-          "how": "onsite"
-        },
-        {
-          "stage": "全國技能競賽",
-          "what": "依試題實地技能操作",
-          "how": "onsite"
-        }
-      ],
-      "attendance": {
-        "value": "all",
-        "where": "北、中、南三區分區賽場",
-        "basis": "quote",
-        "evidence": [
-          {
-            "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28149/%E5%A0%B1%E5%90%8D%E7%B0%A1%E7%AB%A0.pdf",
-            "quote": "競賽方式以實地技能操作進行。"
-          },
-          {
-            "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28817/%E6%8A%80%E6%AA%A2%E4%B8%AD%E5%BF%83%E3%80%8C%E7%AC%AC57%E5%B1%86%E5%85%A8%E5%9C%8B%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E5%88%86%E5%8D%80%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E3%80%8D%E5%85%AC%E6%96%87.pdf",
-            "quote": "分區技能競賽訂於116年3月22日至3月27日於北、中、南三區共同舉辦"
-          }
-        ]
-      },
-      "fee": {
-        "value": "unknown",
-        "amount": null,
-        "basis": "unread",
-        "evidence": []
-      },
-      "prizes": {
-        "text": "分區技能競賽各職類前 5 名晉級全國技能競賽；全國技能競賽前 3 名得報名國手選拔賽，選拔參加亞洲及國際技能競賽的國手。",
-        "basis": "quote",
-        "evidence": [
-          {
-            "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28149/%E5%A0%B1%E5%90%8D%E7%B0%A1%E7%AB%A0.pdf",
-            "quote": "當年度分區技能競賽各區承辦單位推薦每一職類之前5 名晉級全國技能競賽"
-          },
-          {
-            "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28149/%E5%A0%B1%E5%90%8D%E7%B0%A1%E7%AB%A0.pdf",
-            "quote": "歷屆獲得全國技能競賽前3 名之選手，年齡須符合國際（或亞洲）技能組織規定"
-          },
-          {
-            "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28149/%E5%A0%B1%E5%90%8D%E7%B0%A1%E7%AB%A0.pdf",
-            "quote": "包括116年（2027）亞洲技能競賽及117 年（2028）國際技能競賽之國手選拔"
-          }
-        ]
-      },
-      "ai_policy": {
-        "value": "unknown",
-        "basis": "unread",
-        "evidence": []
-      },
-      "links": {
-        "official": "https://www.wdasec.gov.tw",
-        "rules": [
-          {
-            "title": "116年度全國技能競賽實施計畫",
-            "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28149/%E5%A0%B1%E5%90%8D%E7%B0%A1%E7%AB%A0.pdf"
-          },
-          {
-            "title": "第57屆全國技能競賽分區技能競賽海報",
-            "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28817/%E6%8A%80%E6%AA%A2%E4%B8%AD%E5%BF%83%E3%80%8C%E7%AC%AC57%E5%B1%86%E5%85%A8%E5%9C%8B%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E5%88%86%E5%8D%80%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E3%80%8D%E6%B5%B7%E5%A0%B1.pdf"
-          },
-          {
-            "title": "教育部國民及學前教育署函（分區技能競賽報名）",
-            "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28817/%E6%8A%80%E6%AA%A2%E4%B8%AD%E5%BF%83%E3%80%8C%E7%AC%AC57%E5%B1%86%E5%85%A8%E5%9C%8B%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E5%88%86%E5%8D%80%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E3%80%8D%E5%85%AC%E6%96%87.pdf"
-          }
-        ],
-        "registration": null
-      },
-      "found_via": [
-        {
-          "name": "苗栗高中 學生校外營隊、活動、比賽",
-          "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=28149"
-        },
-        {
-          "name": "苗栗高中 學生校外營隊、活動、比賽",
-          "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=28817"
-        }
-      ],
-      "verification": {
-        "last_verified": "2026-11-25",
-        "method": "dual",
-        "unread": [
-          "第57屆全國技能競賽分區技能競賽簡章",
-          "116年度全國技能競賽簡章"
-        ],
-        "note": null,
-        "readers": [
-          "claude-opus-5-5",
-          "claude-opus-5-5"
-        ]
-      },
-      "first_seen": "2026-11-24",
-      "updated": "2026-11-24",
-      "level": "verified",
-      "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-national-skills-competition-57/",
-      "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-national-skills-competition-57.md"
-    },
-    {
-      "schema": 1,
       "id": "2026-national-skills-north",
       "title": "第57屆全國技能競賽北區分區技能競賽",
       "edition": "第 57 屆",
@@ -24834,224 +24228,6 @@
     {
       "schema": 1,
       "id": "2026-ocu-stock-plus-trading",
-      "title": "2026 股市plus 虛擬交易競賽",
-      "edition": "2026",
-      "summary": "高中職學生 1 至 6 人組隊，在虛擬交易所模擬交易上市櫃股票，依總報酬率排名。",
-      "organizers": [
-        {
-          "name": "僑光科技大學財務金融系",
-          "role": "主辦"
-        }
-      ],
-      "categories": [
-        "商管與行銷"
-      ],
-      "eligibility": {
-        "levels": [
-          "高中",
-          "高職"
-        ],
-        "division": "hs_only",
-        "regions": [
-          "全國"
-        ],
-        "nomination": "none",
-        "team_min": 1,
-        "team_max": 6,
-        "teacher": "required",
-        "basis": "quote",
-        "evidence": [
-          {
-            "url": "https://www.hssh.tp.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Melk1TDNCMFlWODFPRFExTjE4Mk16SXdOakl4WHpVeU1ESXpMbkJrWmc9PQ==&fname=WSGGUWQKUS44A110EDLKSW24KK30OO35DGUWSS20A1IDCCFCSSECVTPOUSSSPKPO",
-            "quote": "參加對象：全國高中職學生(高一至高三均可)。"
-          },
-          {
-            "url": "https://www.hssh.tp.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Melk1TDNCMFlWODFPRFExTjE4Mk16SXdOakl4WHpVeU1ESXpMbkJrWmc9PQ==&fname=WSGGUWQKUS44A110EDLKSW24KK30OO35DGUWSS20A1IDCCFCSSECVTPOUSSSPKPO",
-            "quote": "由參與對象學生組隊參加競賽，每組由1~6 位學生組成。並自行聘請教師指導參賽。"
-          }
-        ]
-      },
-      "dates": [
-        {
-          "kind": "registration_deadline",
-          "label": "報名截止",
-          "date": "2026-11-12",
-          "time": null,
-          "original": "115 年11 月12 日(四)",
-          "basis": "quote",
-          "evidence": [
-            {
-              "url": "https://www.hssh.tp.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Melk1TDNCMFlWODFPRFExTjE4Mk16SXdOakl4WHpVeU1ESXpMbkJrWmc9PQ==&fname=WSGGUWQKUS44A110EDLKSW24KK30OO35DGUWSS20A1IDCCFCSSECVTPOUSSSPKPO",
-              "quote": "報名期間：115 年10 月12 日(一) ~ 115 年11 月12 日(四)。"
-            }
-          ]
-        },
-        {
-          "kind": "other",
-          "label": "試玩期間開始",
-          "date": "2026-11-02",
-          "time": null,
-          "original": "115 年11 月2 日(一)",
-          "basis": "quote",
-          "evidence": [
-            {
-              "url": "https://www.hssh.tp.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Melk1TDNCMFlWODFPRFExTjE4Mk16SXdOakl4WHpVeU1ESXpMbkJrWmc9PQ==&fname=WSGGUWQKUS44A110EDLKSW24KK30OO35DGUWSS20A1IDCCFCSSECVTPOUSSSPKPO",
-              "quote": "(1)試玩日期：115 年11 月2 日(一) ~ 115 年11 月13 日(五)。"
-            }
-          ]
-        },
-        {
-          "kind": "other",
-          "label": "正式競賽開始",
-          "date": "2026-11-16",
-          "time": null,
-          "original": "115 年11 月16 日(一)",
-          "basis": "quote",
-          "evidence": [
-            {
-              "url": "https://www.hssh.tp.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Melk1TDNCMFlWODFPRFExTjE4Mk16SXdOakl4WHpVeU1ESXpMbkJrWmc9PQ==&fname=WSGGUWQKUS44A110EDLKSW24KK30OO35DGUWSS20A1IDCCFCSSECVTPOUSSSPKPO",
-              "quote": "(2)正式競賽：115 年11 月16 日(一) ~ 116 年1 月15 日(五)。"
-            }
-          ]
-        },
-        {
-          "kind": "other",
-          "label": "正式競賽結束",
-          "date": "2027-01-15",
-          "time": null,
-          "original": "116 年1 月15 日(五)",
-          "basis": "quote",
-          "evidence": [
-            {
-              "url": "https://www.hssh.tp.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Melk1TDNCMFlWODFPRFExTjE4Mk16SXdOakl4WHpVeU1ESXpMbkJrWmc9PQ==&fname=WSGGUWQKUS44A110EDLKSW24KK30OO35DGUWSS20A1IDCCFCSSECVTPOUSSSPKPO",
-              "quote": "(2)正式競賽：115 年11 月16 日(一) ~ 116 年1 月15 日(五)。"
-            }
-          ]
-        },
-        {
-          "kind": "other",
-          "label": "頒獎典禮",
-          "date": "2027-01-22",
-          "time": null,
-          "original": "116 年1 月22 日(五)",
-          "basis": "quote",
-          "evidence": [
-            {
-              "url": "https://www.hssh.tp.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Melk1TDNCMFlWODFPRFExTjE4Mk16SXdOakl4WHpVeU1ESXpMbkJrWmc9PQ==&fname=WSGGUWQKUS44A110EDLKSW24KK30OO35DGUWSS20A1IDCCFCSSECVTPOUSSSPKPO",
-              "quote": "(4)頒獎日期: 116 年1 月22 日(五) 於僑光科技大學舉辦「2026 股市plus 虛擬交易競"
-            }
-          ]
-        }
-      ],
-      "deliverables": [
-        {
-          "stage": "報名",
-          "what": "線上報名表，註冊 EMAIL 限用就讀學校的電子信箱",
-          "how": "online"
-        },
-        {
-          "stage": "正式競賽",
-          "what": "在虛擬交易所網頁下單交易，投資組合須有 5 檔以上上市或上櫃股票",
-          "how": "online"
-        }
-      ],
-      "attendance": {
-        "value": "none",
-        "where": null,
-        "basis": "absent",
-        "evidence": [
-          {
-            "url": "https://www.hssh.tp.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Melk1TDNCMFlWODFPRFExTjE4Mk16SXdOakl4WHpVeU1ESXpMbkJrWmc9PQ==&fname=WSGGUWQKUS44A110EDLKSW24KK30OO35DGUWSS20A1IDCCFCSSECVTPOUSSSPKPO"
-          }
-        ]
-      },
-      "fee": {
-        "value": "none",
-        "amount": null,
-        "basis": "absent",
-        "evidence": [
-          {
-            "url": "https://www.hssh.tp.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Melk1TDNCMFlWODFPRFExTjE4Mk16SXdOakl4WHpVeU1ESXpMbkJrWmc9PQ==&fname=WSGGUWQKUS44A110EDLKSW24KK30OO35DGUWSS20A1IDCCFCSSECVTPOUSSSPKPO"
-          }
-        ]
-      },
-      "prizes": {
-        "text": "第一名獎狀及獎金 10,000 元、第二名獎狀及獎金 6,000 元、第三名獎狀及獎金 4,000 元，各 1 名；進入前三名組別的登記指導老師可獲 2,000 元指導獎勵。於正式競賽期間曾交易者發給參賽證明。",
-        "basis": "quote",
-        "evidence": [
-          {
-            "url": "https://www.hssh.tp.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Melk1TDNCMFlWODFPRFExTjE4Mk16SXdOakl4WHpVeU1ESXpMbkJrWmc9PQ==&fname=WSGGUWQKUS44A110EDLKSW24KK30OO35DGUWSS20A1IDCCFCSSECVTPOUSSSPKPO",
-            "quote": "(一)第一名：頒發獎狀乙紙及獎金10,000 元整。(1 名)"
-          },
-          {
-            "url": "https://www.hssh.tp.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Melk1TDNCMFlWODFPRFExTjE4Mk16SXdOakl4WHpVeU1ESXpMbkJrWmc9PQ==&fname=WSGGUWQKUS44A110EDLKSW24KK30OO35DGUWSS20A1IDCCFCSSECVTPOUSSSPKPO",
-            "quote": "(二)第二名：頒發獎狀乙紙及獎金6,000 元整。(1 名)"
-          },
-          {
-            "url": "https://www.hssh.tp.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Melk1TDNCMFlWODFPRFExTjE4Mk16SXdOakl4WHpVeU1ESXpMbkJrWmc9PQ==&fname=WSGGUWQKUS44A110EDLKSW24KK30OO35DGUWSS20A1IDCCFCSSECVTPOUSSSPKPO",
-            "quote": "(三)第三名：頒發獎狀乙紙及獎金4,000 元整。(1 名)"
-          },
-          {
-            "url": "https://www.hssh.tp.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Melk1TDNCMFlWODFPRFExTjE4Mk16SXdOakl4WHpVeU1ESXpMbkJrWmc9PQ==&fname=WSGGUWQKUS44A110EDLKSW24KK30OO35DGUWSS20A1IDCCFCSSECVTPOUSSSPKPO",
-            "quote": "(四)報名時登記為該組指導老師且有進入前三名之組別，指導老師可獲2000 元指導獎 勵。"
-          },
-          {
-            "url": "https://www.hssh.tp.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Melk1TDNCMFlWODFPRFExTjE4Mk16SXdOakl4WHpVeU1ESXpMbkJrWmc9PQ==&fname=WSGGUWQKUS44A110EDLKSW24KK30OO35DGUWSS20A1IDCCFCSSECVTPOUSSSPKPO",
-            "quote": "經查參賽者於正式競賽期間曾進行交易，主辦單位始發給參賽證明。"
-          }
-        ]
-      },
-      "ai_policy": {
-        "value": "not_mentioned",
-        "basis": "absent",
-        "evidence": [
-          {
-            "url": "https://www.hssh.tp.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Melk1TDNCMFlWODFPRFExTjE4Mk16SXdOakl4WHpVeU1ESXpMbkJrWmc9PQ==&fname=WSGGUWQKUS44A110EDLKSW24KK30OO35DGUWSS20A1IDCCFCSSECVTPOUSSSPKPO"
-          }
-        ]
-      },
-      "links": {
-        "official": "https://fc.ocu.edu.tw/p/412-1045-5979.php",
-        "rules": [
-          {
-            "title": "2026 股市plus 虛擬交易競賽簡章",
-            "url": "https://www.hssh.tp.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Melk1TDNCMFlWODFPRFExTjE4Mk16SXdOakl4WHpVeU1ESXpMbkJrWmc9PQ==&fname=WSGGUWQKUS44A110EDLKSW24KK30OO35DGUWSS20A1IDCCFCSSECVTPOUSSSPKPO"
-          }
-        ],
-        "registration": "https://forms.gle/aP4XbH8n6Y3M4gbK9"
-      },
-      "found_via": [
-        {
-          "name": "苗栗農工 處室公告",
-          "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26701"
-        },
-        {
-          "name": "新竹高商 消息公佈欄",
-          "url": "https://www.hccvs.hc.edu.tw/ischool/public/news_view/show.php?nid=26473"
-        },
-        {
-          "name": "西松高中 校外競賽公告",
-          "url": "https://www.hssh.tp.edu.tw/p/405-1000-52449,c540.php?Lang=zh-tw"
-        }
-      ],
-      "verification": {
-        "last_verified": "2026-11-25",
-        "method": "single",
-        "unread": [],
-        "note": null,
-        "readers": [
-          "claude-opus-5-5"
-        ]
-      },
-      "first_seen": "2026-11-24",
-      "updated": "2026-11-24",
-      "level": "checked",
-      "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-ocu-stock-plus-trading/",
-      "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-ocu-stock-plus-trading.md"
-    },
-    {
-      "schema": 1,
-      "id": "2026-ocu-stock-plus",
       "title": "2026股市Plus虛擬交易競賽",
       "edition": "2026",
       "summary": "高中職學生組隊以虛擬資金買賣台灣上市櫃股票，依總報酬率排名。",
@@ -25282,8 +24458,8 @@
       "first_seen": "2026-11-24",
       "updated": "2026-11-25",
       "level": "checked",
-      "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-ocu-stock-plus/",
-      "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-ocu-stock-plus.md"
+      "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-ocu-stock-plus-trading/",
+      "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-ocu-stock-plus-trading.md"
     },
     {
       "schema": 1,
@@ -29315,6 +28491,318 @@
     },
     {
       "schema": 1,
+      "id": "2026-sowal-indigenous-language-esports",
+      "title": "Sowal語你爭霸！115年原住民族語線上遊戲電競賽",
+      "edition": "115年",
+      "summary": "大專以下在學學生 3 人組隊，在 PaGamO 平台作答原住民族語與原住民族文化題目比積分。",
+      "organizers": [
+        {
+          "name": "原住民族委員會",
+          "role": "主辦"
+        },
+        {
+          "name": "財團法人原住民族語言研究發展基金會",
+          "role": "主辦"
+        },
+        {
+          "name": "幫你優股份有限公司",
+          "role": "承辦"
+        }
+      ],
+      "categories": [
+        "語文與寫作",
+        "社會人文"
+      ],
+      "eligibility": {
+        "levels": [
+          "國小",
+          "國中",
+          "高中",
+          "高職",
+          "五專",
+          "大專"
+        ],
+        "division": "mixed",
+        "regions": [
+          "全國"
+        ],
+        "nomination": "none",
+        "team_min": 3,
+        "team_max": 3,
+        "teacher": "optional",
+        "basis": "quote",
+        "evidence": [
+          {
+            "url": "https://www.kmsh.km.edu.tw/ischool/news/attached/22180/Sowal%E8%AA%9E%E4%BD%A0%E7%88%AD%E9%9C%B8%EF%BC%81115%E5%B9%B4%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%97%8F%E8%AA%9E%E7%B7%9A%E4%B8%8A%E9%81%8A%E6%88%B2%E9%9B%BB%E7%AB%B6%E8%B3%BD_%E7%B0%A1%E7%AB%A0.pdf",
+            "quote": "全國大專院校大學部、專科學校、高中職以下之在學生。（不含碩士、博士研究生）"
+          },
+          {
+            "url": "https://www.kmsh.km.edu.tw/ischool/news/attached/22180/Sowal%E8%AA%9E%E4%BD%A0%E7%88%AD%E9%9C%B8%EF%BC%81115%E5%B9%B4%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%97%8F%E8%AA%9E%E7%B7%9A%E4%B8%8A%E9%81%8A%E6%88%B2%E9%9B%BB%E7%AB%B6%E8%B3%BD_%E5%A0%B1%E5%90%8D%E6%89%8B%E5%86%8A.pdf",
+            "quote": "大專院校(含)以下之在學學生，包含大學、高中職、國中及國小學生。"
+          },
+          {
+            "url": "https://www.kmsh.km.edu.tw/ischool/news/attached/22180/Sowal%E8%AA%9E%E4%BD%A0%E7%88%AD%E9%9C%B8%EF%BC%81115%E5%B9%B4%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%97%8F%E8%AA%9E%E7%B7%9A%E4%B8%8A%E9%81%8A%E6%88%B2%E9%9B%BB%E7%AB%B6%E8%B3%BD_%E7%B0%A1%E7%AB%A0.pdf",
+            "quote": "本賽事採團體競賽制，參賽隊伍須由 3 名隊員共同組成；每位選手僅能加入1支隊伍，並僅能以1組 PaGamO 帳號參賽。"
+          },
+          {
+            "url": "https://www.kmsh.km.edu.tw/ischool/news/attached/22180/Sowal%E8%AA%9E%E4%BD%A0%E7%88%AD%E9%9C%B8%EF%BC%81115%E5%B9%B4%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%97%8F%E8%AA%9E%E7%B7%9A%E4%B8%8A%E9%81%8A%E6%88%B2%E9%9B%BB%E7%AB%B6%E8%B3%BD_%E7%B0%A1%E7%AB%A0.pdf",
+            "quote": "依系統指示建立或加入3人隊伍即可完成報名。"
+          },
+          {
+            "url": "https://www.kmsh.km.edu.tw/ischool/news/attached/22180/Sowal%E8%AA%9E%E4%BD%A0%E7%88%AD%E9%9C%B8%EF%BC%81115%E5%B9%B4%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%97%8F%E8%AA%9E%E7%B7%9A%E4%B8%8A%E9%81%8A%E6%88%B2%E9%9B%BB%E7%AB%B6%E8%B3%BD_%E7%B0%A1%E7%AB%A0.pdf",
+            "quote": "報名時須填寫選手姓名、學校、年級、聯絡方式、隊伍名稱、選定語別、指導老師或聯絡人資料、參賽同意資料及其他必要欄位。"
+          }
+        ]
+      },
+      "dates": [
+        {
+          "kind": "registration_deadline",
+          "label": "報名截止（由 9 月 25 日延長）",
+          "date": "2026-10-12",
+          "time": "12:00",
+          "original": "115年10月12日（星期一）中午12時止",
+          "basis": "quote",
+          "evidence": [
+            {
+              "url": "http://www.wlsh.tyc.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mek0zTDNCMFlWODJNRFUzT1Y4MU9UZ3hPVGd4WHpRMk1ETXlMbkJrWmc9PQ==&fname=0054YSGHPKQOVXHHGGVWUSWT14PKUW35503435YWXXFDNLNL",
+              "quote": "報名延長至10月12日（星期一）中午12時止"
+            },
+            {
+              "url": "http://www.wlsh.tyc.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mek0zTDNCMFlWODJNRFUzT1Y4MU9UZ3hPVGd4WHpRMk1ETXlMbkJrWmc9PQ==&fname=0054YSGHPKQOVXHHGGVWUSWT14PKUW35503435YWXXFDNLNL",
+              "quote": "(一)報名時間：即日起至115年10月12日（星期一）中午12時止。"
+            }
+          ]
+        },
+        {
+          "kind": "other",
+          "label": "線上初賽開始",
+          "date": "2026-10-20",
+          "time": "12:00",
+          "original": "115年10月20日（三）中午 12 點開放進場比賽",
+          "basis": "quote",
+          "evidence": [
+            {
+              "url": "https://www.kmsh.km.edu.tw/ischool/news/attached/22180/Sowal%E8%AA%9E%E4%BD%A0%E7%88%AD%E9%9C%B8%EF%BC%81115%E5%B9%B4%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%97%8F%E8%AA%9E%E7%B7%9A%E4%B8%8A%E9%81%8A%E6%88%B2%E9%9B%BB%E7%AB%B6%E8%B3%BD_%E7%B0%A1%E7%AB%A0.pdf",
+              "quote": "競賽時間：於 115年10月20日（三）中午 12 點開放進場比賽"
+            },
+            {
+              "url": "https://www.kmsh.km.edu.tw/ischool/news/attached/22180/Sowal%E8%AA%9E%E4%BD%A0%E7%88%AD%E9%9C%B8%EF%BC%81115%E5%B9%B4%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%97%8F%E8%AA%9E%E7%B7%9A%E4%B8%8A%E9%81%8A%E6%88%B2%E9%9B%BB%E7%AB%B6%E8%B3%BD_%E5%A0%B1%E5%90%8D%E6%89%8B%E5%86%8A.pdf",
+              "quote": "線上初賽：2026年10月20日(二)中午12點至2026年10月24日(六)晚上9點止。"
+            }
+          ]
+        },
+        {
+          "kind": "submission_deadline",
+          "label": "線上初賽停止計分",
+          "date": "2026-10-24",
+          "time": "21:00",
+          "original": "115 年10 月24日（五）晚上 9 點停止計分",
+          "basis": "quote",
+          "evidence": [
+            {
+              "url": "https://www.kmsh.km.edu.tw/ischool/news/attached/22180/Sowal%E8%AA%9E%E4%BD%A0%E7%88%AD%E9%9C%B8%EF%BC%81115%E5%B9%B4%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%97%8F%E8%AA%9E%E7%B7%9A%E4%B8%8A%E9%81%8A%E6%88%B2%E9%9B%BB%E7%AB%B6%E8%B3%BD_%E7%B0%A1%E7%AB%A0.pdf",
+              "quote": "並於 115 年10 月24日（五）晚上 9 點停止計分。"
+            },
+            {
+              "url": "https://www.kmsh.km.edu.tw/ischool/news/attached/22180/Sowal%E8%AA%9E%E4%BD%A0%E7%88%AD%E9%9C%B8%EF%BC%81115%E5%B9%B4%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%97%8F%E8%AA%9E%E7%B7%9A%E4%B8%8A%E9%81%8A%E6%88%B2%E9%9B%BB%E7%AB%B6%E8%B3%BD_%E5%A0%B1%E5%90%8D%E6%89%8B%E5%86%8A.pdf",
+              "quote": "線上初賽：2026年10月20日(二)中午12點至2026年10月24日(六)晚上9點止。"
+            }
+          ]
+        },
+        {
+          "kind": "final_event",
+          "label": "實體複賽與全國總決賽（初賽前 66 隊）",
+          "date": "2026-11-29",
+          "time": null,
+          "original": "2026年11月29日(日)",
+          "basis": "quote",
+          "evidence": [
+            {
+              "url": "https://www.kmsh.km.edu.tw/ischool/news/attached/22180/Sowal%E8%AA%9E%E4%BD%A0%E7%88%AD%E9%9C%B8%EF%BC%81115%E5%B9%B4%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%97%8F%E8%AA%9E%E7%B7%9A%E4%B8%8A%E9%81%8A%E6%88%B2%E9%9B%BB%E7%AB%B6%E8%B3%BD_%E5%A0%B1%E5%90%8D%E6%89%8B%E5%86%8A.pdf",
+              "quote": "實體複賽與決賽：2026年11月29日(日)。"
+            }
+          ]
+        }
+      ],
+      "deliverables": [
+        {
+          "stage": "線上初賽",
+          "what": "5 天內在家登入 PaGamO 電競世界，以 1,000 點能量值答題佔地累積團體積分",
+          "how": "online"
+        },
+        {
+          "stage": "實體複賽（初賽前 66 隊）",
+          "what": "每位隊員依序獨立完成 1 份指定語別族語任務書，每份 15 至 20 題，每場限時 20 分鐘",
+          "how": "onsite"
+        },
+        {
+          "stage": "全國總決賽（複賽前 12 隊）",
+          "what": "城堡爭奪賽，題庫 300 題隨機出題，競賽 20 分鐘",
+          "how": "onsite"
+        }
+      ],
+      "attendance": {
+        "value": "finalists",
+        "where": null,
+        "basis": "quote",
+        "evidence": [
+          {
+            "url": "https://www.kmsh.km.edu.tw/ischool/news/attached/22180/Sowal%E8%AA%9E%E4%BD%A0%E7%88%AD%E9%9C%B8%EF%BC%81115%E5%B9%B4%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%97%8F%E8%AA%9E%E7%B7%9A%E4%B8%8A%E9%81%8A%E6%88%B2%E9%9B%BB%E7%AB%B6%E8%B3%BD_%E7%B0%A1%E7%AB%A0.pdf",
+            "quote": "由線上初賽團體總積分前66組隊伍晉級實體全國複賽。需實際出席實體複賽，始可領取初賽獎項。"
+          },
+          {
+            "url": "https://www.kmsh.km.edu.tw/ischool/news/attached/22180/Sowal%E8%AA%9E%E4%BD%A0%E7%88%AD%E9%9C%B8%EF%BC%81115%E5%B9%B4%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%97%8F%E8%AA%9E%E7%B7%9A%E4%B8%8A%E9%81%8A%E6%88%B2%E9%9B%BB%E7%AB%B6%E8%B3%BD_%E7%B0%A1%E7%AB%A0.pdf",
+            "quote": "複賽總積分前 12 組隊伍，將於當日下午晉級全國總決賽。"
+          }
+        ]
+      },
+      "fee": {
+        "value": "none",
+        "amount": null,
+        "basis": "absent",
+        "evidence": [
+          {
+            "url": "https://www.kmsh.km.edu.tw/ischool/news/attached/22180/Sowal%E8%AA%9E%E4%BD%A0%E7%88%AD%E9%9C%B8%EF%BC%81115%E5%B9%B4%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%97%8F%E8%AA%9E%E7%B7%9A%E4%B8%8A%E9%81%8A%E6%88%B2%E9%9B%BB%E7%AB%B6%E8%B3%BD_%E7%B0%A1%E7%AB%A0.pdf"
+          },
+          {
+            "url": "https://www.kmsh.km.edu.tw/ischool/news/attached/22180/Sowal%E8%AA%9E%E4%BD%A0%E7%88%AD%E9%9C%B8%EF%BC%81115%E5%B9%B4%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%97%8F%E8%AA%9E%E7%B7%9A%E4%B8%8A%E9%81%8A%E6%88%B2%E9%9B%BB%E7%AB%B6%E8%B3%BD_%E5%A0%B1%E5%90%8D%E6%89%8B%E5%86%8A.pdf"
+          }
+        ]
+      },
+      "prizes": {
+        "text": "全國總決賽：冠軍 80,000 元、亞軍 60,000 元、季軍 40,000 元、第四名 20,000 元、第五名 10,000 元，皆附獎座、每人獎牌與獎狀。線上初賽：冠軍 30,000 元、亞軍 20,000 元、季軍 10,000 元、第 4 至 10 名 3,000 元並發獎狀，第 11 至 66 名發初賽優勝獎狀，須出席實體複賽始可領取。另有 PaGamO 虛寶，以及依帶隊數排序的初賽、複賽教師領隊獎前三名各 8,000、5,000、3,000 元。",
+        "basis": "quote",
+        "evidence": [
+          {
+            "url": "https://www.kmsh.km.edu.tw/ischool/news/attached/22180/Sowal%E8%AA%9E%E4%BD%A0%E7%88%AD%E9%9C%B8%EF%BC%81115%E5%B9%B4%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%97%8F%E8%AA%9E%E7%B7%9A%E4%B8%8A%E9%81%8A%E6%88%B2%E9%9B%BB%E7%AB%B6%E8%B3%BD_%E7%B0%A1%E7%AB%A0.pdf",
+            "quote": "冠軍 80,000 元 總決賽冠軍獎座 1 座、獎牌 3 面、獎狀 3 紙"
+          },
+          {
+            "url": "https://www.kmsh.km.edu.tw/ischool/news/attached/22180/Sowal%E8%AA%9E%E4%BD%A0%E7%88%AD%E9%9C%B8%EF%BC%81115%E5%B9%B4%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%97%8F%E8%AA%9E%E7%B7%9A%E4%B8%8A%E9%81%8A%E6%88%B2%E9%9B%BB%E7%AB%B6%E8%B3%BD_%E7%B0%A1%E7%AB%A0.pdf",
+            "quote": "第五名 10,000 元"
+          },
+          {
+            "url": "https://www.kmsh.km.edu.tw/ischool/news/attached/22180/Sowal%E8%AA%9E%E4%BD%A0%E7%88%AD%E9%9C%B8%EF%BC%81115%E5%B9%B4%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%97%8F%E8%AA%9E%E7%B7%9A%E4%B8%8A%E9%81%8A%E6%88%B2%E9%9B%BB%E7%AB%B6%E8%B3%BD_%E7%B0%A1%E7%AB%A0.pdf",
+            "quote": "冠軍 30,000 元 初賽冠軍獎狀 3 紙"
+          },
+          {
+            "url": "https://www.kmsh.km.edu.tw/ischool/news/attached/22180/Sowal%E8%AA%9E%E4%BD%A0%E7%88%AD%E9%9C%B8%EF%BC%81115%E5%B9%B4%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%97%8F%E8%AA%9E%E7%B7%9A%E4%B8%8A%E9%81%8A%E6%88%B2%E9%9B%BB%E7%AB%B6%E8%B3%BD_%E7%B0%A1%E7%AB%A0.pdf",
+            "quote": "第 4 至 10 名 3,000 元 初賽第四至第十名獎狀 3 紙"
+          },
+          {
+            "url": "https://www.kmsh.km.edu.tw/ischool/news/attached/22180/Sowal%E8%AA%9E%E4%BD%A0%E7%88%AD%E9%9C%B8%EF%BC%81115%E5%B9%B4%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%97%8F%E8%AA%9E%E7%B7%9A%E4%B8%8A%E9%81%8A%E6%88%B2%E9%9B%BB%E7%AB%B6%E8%B3%BD_%E7%B0%A1%E7%AB%A0.pdf",
+            "quote": "第 11 至 66 名 - 初賽優勝獎狀 3 紙"
+          },
+          {
+            "url": "https://www.kmsh.km.edu.tw/ischool/news/attached/22180/Sowal%E8%AA%9E%E4%BD%A0%E7%88%AD%E9%9C%B8%EF%BC%81115%E5%B9%B4%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%97%8F%E8%AA%9E%E7%B7%9A%E4%B8%8A%E9%81%8A%E6%88%B2%E9%9B%BB%E7%AB%B6%E8%B3%BD_%E7%B0%A1%E7%AB%A0.pdf",
+            "quote": "需實際出席實體複賽，始可領取初賽獎項。"
+          },
+          {
+            "url": "https://www.kmsh.km.edu.tw/ischool/news/attached/22180/Sowal%E8%AA%9E%E4%BD%A0%E7%88%AD%E9%9C%B8%EF%BC%81115%E5%B9%B4%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%97%8F%E8%AA%9E%E7%B7%9A%E4%B8%8A%E9%81%8A%E6%88%B2%E9%9B%BB%E7%AB%B6%E8%B3%BD_%E7%B0%A1%E7%AB%A0.pdf",
+            "quote": "第一名（1名）： 獎金新臺幣 8,000 元。"
+          },
+          {
+            "url": "https://www.kmsh.km.edu.tw/ischool/news/attached/22180/Sowal%E8%AA%9E%E4%BD%A0%E7%88%AD%E9%9C%B8%EF%BC%81115%E5%B9%B4%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%97%8F%E8%AA%9E%E7%B7%9A%E4%B8%8A%E9%81%8A%E6%88%B2%E9%9B%BB%E7%AB%B6%E8%B3%BD_%E7%B0%A1%E7%AB%A0.pdf",
+            "quote": "第三名（1名）： 獎金新臺幣 3,000 元。"
+          }
+        ]
+      },
+      "ai_policy": {
+        "value": "not_mentioned",
+        "basis": "absent",
+        "evidence": [
+          {
+            "url": "https://www.kmsh.km.edu.tw/ischool/news/attached/22180/Sowal%E8%AA%9E%E4%BD%A0%E7%88%AD%E9%9C%B8%EF%BC%81115%E5%B9%B4%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%97%8F%E8%AA%9E%E7%B7%9A%E4%B8%8A%E9%81%8A%E6%88%B2%E9%9B%BB%E7%AB%B6%E8%B3%BD_%E7%B0%A1%E7%AB%A0.pdf"
+          },
+          {
+            "url": "https://www.kmsh.km.edu.tw/ischool/news/attached/22180/Sowal%E8%AA%9E%E4%BD%A0%E7%88%AD%E9%9C%B8%EF%BC%81115%E5%B9%B4%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%97%8F%E8%AA%9E%E7%B7%9A%E4%B8%8A%E9%81%8A%E6%88%B2%E9%9B%BB%E7%AB%B6%E8%B3%BD_%E5%A0%B1%E5%90%8D%E6%89%8B%E5%86%8A.pdf"
+          }
+        ]
+      },
+      "links": {
+        "official": "https://esports.pagamo.org/register/2026ilrdf/information",
+        "rules": [
+          {
+            "title": "活動報名簡章",
+            "url": "https://www.kmsh.km.edu.tw/ischool/news/attached/22180/Sowal%E8%AA%9E%E4%BD%A0%E7%88%AD%E9%9C%B8%EF%BC%81115%E5%B9%B4%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%97%8F%E8%AA%9E%E7%B7%9A%E4%B8%8A%E9%81%8A%E6%88%B2%E9%9B%BB%E7%AB%B6%E8%B3%BD_%E7%B0%A1%E7%AB%A0.pdf"
+          },
+          {
+            "title": "報名教學手冊",
+            "url": "https://www.kmsh.km.edu.tw/ischool/news/attached/22180/Sowal%E8%AA%9E%E4%BD%A0%E7%88%AD%E9%9C%B8%EF%BC%81115%E5%B9%B4%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%97%8F%E8%AA%9E%E7%B7%9A%E4%B8%8A%E9%81%8A%E6%88%B2%E9%9B%BB%E7%AB%B6%E8%B3%BD_%E5%A0%B1%E5%90%8D%E6%89%8B%E5%86%8A.pdf"
+          },
+          {
+            "title": "報名延長公文",
+            "url": "http://www.wlsh.tyc.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mek0zTDNCMFlWODJNRFUzT1Y4MU9UZ3hPVGd4WHpRMk1ETXlMbkJrWmc9PQ==&fname=0054YSGHPKQOVXHHGGVWUSWT14PKUW35503435YWXXFDNLNL"
+          }
+        ],
+        "registration": "https://esports.pagamo.org/register/2026ilrdf/information"
+      },
+      "found_via": [
+        {
+          "name": "成功高中 活動競賽",
+          "url": "https://www.cksh.tp.edu.tw/news/%e3%80%90%e8%bd%89%e7%9f%a5%e3%80%91-%e8%b2%a1%e5%9c%98%e6%b3%95%e4%ba%ba%e5%8e%9f%e4%bd%8f%e6%b0%91%e6%97%8f%e8%aa%9e%e8%a8%80%e7%a0%94%e7%a9%b6%e7%99%bc%e5%b1%95%e5%9f%ba%e9%87%91%e6%9c%83%e8%be%a6/"
+        },
+        {
+          "name": "武陵高中 校外競賽",
+          "url": "http://www.wlsh.tyc.edu.tw/p/406-1000-43396,r83.php?Lang=zh-tw"
+        },
+        {
+          "name": "新竹女中 活動研習",
+          "url": "https://www.hgsh.hc.edu.tw/news/%e3%80%8csowal%e8%aa%9e%e4%bd%a0%e7%88%ad%e9%9c%b8%ef%bc%81115%e5%b9%b4%e5%8e%9f%e4%bd%8f%e6%b0%91%e6%97%8f%e8%aa%9e%e7%b7%9a-%e4%b8%8a%e9%81%8a%e6%88%b2%e9%9b%bb%e7%ab%b6%e8%b3%bd/"
+        },
+        {
+          "name": "苗栗高中 學生校外營隊、活動、比賽",
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=28226"
+        },
+        {
+          "name": "武陵高中 校外競賽",
+          "url": "http://www.wlsh.tyc.edu.tw/p/406-1000-43318,r83.php?Lang=zh-tw"
+        },
+        {
+          "name": "南港高工 重要資訊",
+          "url": "https://www.nkhs.tp.edu.tw/ischool/public/news_view/show.php?nid=34654"
+        },
+        {
+          "name": "金門高中 最新消息",
+          "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=22180"
+        },
+        {
+          "name": "新竹高商 消息公佈欄",
+          "url": "https://www.hccvs.hc.edu.tw/ischool/public/news_view/show.php?nid=26340"
+        },
+        {
+          "name": "苗栗農工 處室公告",
+          "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26370"
+        },
+        {
+          "name": "苗栗高中 學生校外營隊、活動、比賽",
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=27946"
+        },
+        {
+          "name": "暨大附中 學生研習與競賽活動",
+          "url": "https://www.pshs.ntct.edu.tw/ischool/public/news_view/show.php?nid=33593"
+        }
+      ],
+      "verification": {
+        "last_verified": "2026-11-25",
+        "method": "single",
+        "unread": [
+          "賽事電子海報"
+        ],
+        "note": null,
+        "readers": [
+          "claude-opus-5-5"
+        ]
+      },
+      "first_seen": "2026-11-24",
+      "updated": "2026-11-25",
+      "conflict": "115年9月9日基金會函寫初賽及決賽前三名指導老師可獲獎金，115年10月2日兩份函寫前15名；活動報名簡章的初賽與複賽教師領隊獎各列前三名。",
+      "level": "checked",
+      "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-sowal-indigenous-language-esports/",
+      "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-sowal-indigenous-language-esports.md"
+    },
+    {
+      "schema": 1,
       "id": "2026-stu-it-innovation",
       "title": "2026資訊科技創新設計暨應用競賽",
       "edition": "2026",
@@ -32410,152 +31898,6 @@
     },
     {
       "schema": 1,
-      "id": "2026-taiwan-healthcare-hs-contest",
-      "title": "高中醫療科技創意競賽",
-      "edition": "2026",
-      "summary": "3 至 5 名高中職生與指導教師組隊，以台灣醫療科技展展出項目為發想，提出醫療問題的創意解法。",
-      "organizers": [
-        {
-          "name": "教育部",
-          "role": "指導"
-        },
-        {
-          "name": "生策會",
-          "role": "主辦"
-        },
-        {
-          "name": "生策中心",
-          "role": "主辦"
-        }
-      ],
-      "categories": [
-        "醫護與照顧",
-        "創業與企劃"
-      ],
-      "eligibility": {
-        "levels": [
-          "高中",
-          "高職"
-        ],
-        "division": "hs_only",
-        "regions": [
-          "全國"
-        ],
-        "nomination": "none",
-        "team_min": 3,
-        "team_max": 5,
-        "teacher": "required",
-        "basis": "quote",
-        "evidence": [
-          {
-            "url": "https://expo-healthcare-taiwan.vercel.app/",
-            "quote": "全國高中職在學學生皆可參加。3–5 名學生＋1–2 名指導教師組隊（可跨校），以台灣醫療科技展展出項目為發想，三大主題擇一提案。"
-          },
-          {
-            "url": "https://expo-healthcare-taiwan.vercel.app/",
-            "quote": "每隊 3–5 名學生＋1–2 名指導教師，可跨校。先在本站「競賽報名頁」確認資格，再由團隊代表人至官方競賽系統完成報名。"
-          }
-        ]
-      },
-      "dates": [
-        {
-          "kind": "registration_deadline",
-          "label": "組隊報名截止",
-          "date": "2026-11-30",
-          "time": null,
-          "original": "11/30 前組隊報名",
-          "basis": "quote",
-          "evidence": [
-            {
-              "url": "https://expo-healthcare-taiwan.vercel.app/",
-              "quote": "11/30 前組隊報名"
-            }
-          ]
-        },
-        {
-          "kind": "submission_deadline",
-          "label": "上傳計畫書與影片截止",
-          "date": "2026-12-25",
-          "time": null,
-          "original": "12/25 前上傳計畫書與影片說明書",
-          "basis": "quote",
-          "evidence": [
-            {
-              "url": "https://expo-healthcare-taiwan.vercel.app/",
-              "quote": "12/25 前上傳計畫書與影片說明書 16:9 ≤15 頁＋影片 ≤3 分鐘"
-            }
-          ]
-        }
-      ],
-      "deliverables": [
-        {
-          "stage": "報名後上傳",
-          "what": "計畫書與影片說明書（16:9，15 頁以內）及 3 分鐘以內影片",
-          "how": "online"
-        }
-      ],
-      "attendance": {
-        "value": "unknown",
-        "where": null,
-        "basis": "unread",
-        "evidence": []
-      },
-      "fee": {
-        "value": "unknown",
-        "amount": null,
-        "basis": "unread",
-        "evidence": []
-      },
-      "prizes": {
-        "text": null,
-        "basis": "unread",
-        "evidence": []
-      },
-      "ai_policy": {
-        "value": "unknown",
-        "basis": "unread",
-        "evidence": []
-      },
-      "links": {
-        "official": "https://innoaward.taiwan-healthcare.org/news_detail.php?REFDOCTYPID=0rhgrh6y6rr0lkfw&REFDOCID=0rhisem0dgzqb2mg",
-        "rules": [
-          {
-            "title": "2026 競賽簡章",
-            "url": "https://innoaward.taiwan-healthcare.org/data/tmp/20260924/20260924led0ju.pdf"
-          }
-        ],
-        "registration": "https://innoaward.taiwan-healthcare.org/high-school/login"
-      },
-      "found_via": [
-        {
-          "name": "教育部國民及學前教育署 公文公告平台",
-          "url": "https://www.k12ea.gov.tw/Tw/Annc/Detail?filter=AC097895-3399-4890-8891-FC005A77CCB3&id=c5ad4efd-03bd-4496-8f8e-818634e31a2d"
-        },
-        {
-          "name": "苗栗高中 學生校外營隊、活動、比賽",
-          "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=28491"
-        }
-      ],
-      "verification": {
-        "last_verified": "2026-11-25",
-        "method": "single",
-        "unread": [
-          "2026 競賽簡章（PDF）",
-          "國教署公告所附函文"
-        ],
-        "note": null,
-        "readers": [
-          "claude-opus-5-5"
-        ]
-      },
-      "first_seen": "2026-11-24",
-      "updated": "2026-11-25",
-      "level": "checked",
-      "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-taiwan-healthcare-hs-contest/",
-      "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-taiwan-healthcare-hs-contest.md"
-    },
-    {
-      "schema": 1,
       "id": "2026-taiwan-tour-bus-video",
       "title": "「台灣觀巴」品牌形象短影音徵選活動",
       "edition": "2026",
@@ -35517,272 +34859,6 @@
       "level": "checked",
       "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-tku-french-reading/",
       "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-tku-french-reading.md"
-    },
-    {
-      "schema": 1,
-      "id": "2026-tnfsh-pop-music",
-      "title": "第23屆竹園岡全國高中職學生流音大賽",
-      "edition": "第 23 屆",
-      "summary": "高中職與五專一至三年級學生組 3 至 10 人樂團，分熱音組、吉他組演出一首流行歌曲或創作曲。",
-      "organizers": [
-        {
-          "name": "國立臺南第一高級中學熱音社",
-          "role": "主辦"
-        },
-        {
-          "name": "國立臺南第一高級中學吉他社",
-          "role": "主辦"
-        },
-        {
-          "name": "國立臺南第一高級中學學務處",
-          "role": "協辦"
-        },
-        {
-          "name": "國立臺南第一高級中學校友總會",
-          "role": "協辦"
-        },
-        {
-          "name": "國立臺南第一高級中學家長會",
-          "role": "協辦"
-        }
-      ],
-      "categories": [
-        "音樂"
-      ],
-      "eligibility": {
-        "levels": [
-          "高中",
-          "高職",
-          "五專"
-        ],
-        "division": "hs_only",
-        "regions": [
-          "全國"
-        ],
-        "nomination": "school",
-        "team_min": 3,
-        "team_max": 10,
-        "teacher": "unknown",
-        "basis": "quote",
-        "evidence": [
-          {
-            "url": "https://drive.google.com/file/d/1nc1sKk3hBwg2mkcSt4qIyI9OciEIMTAj/view?usp=sharing",
-            "quote": "(一) 全國公、私立高中職115 學年度在學學生。"
-          },
-          {
-            "url": "https://drive.google.com/file/d/1nc1sKk3hBwg2mkcSt4qIyI9OciEIMTAj/view?usp=sharing",
-            "quote": "(二) 全國公、私立技專院校五專學制一至三年級115 學年度在學學生。"
-          },
-          {
-            "url": "https://drive.google.com/file/d/1nc1sKk3hBwg2mkcSt4qIyI9OciEIMTAj/view?usp=sharing",
-            "quote": "1. 每校每組只能報名1 隊。"
-          },
-          {
-            "url": "https://drive.google.com/file/d/1nc1sKk3hBwg2mkcSt4qIyI9OciEIMTAj/view?usp=sharing",
-            "quote": "2. 以校為單位報名，單一團隊成員不得跨校組成，每團至少3 人，最多10 人。"
-          }
-        ]
-      },
-      "dates": [
-        {
-          "kind": "registration_deadline",
-          "label": "網路報名截止",
-          "date": "2026-11-07",
-          "time": "18:00",
-          "original": "115 年11 月7 日（星期六）18:00",
-          "basis": "quote",
-          "evidence": [
-            {
-              "url": "https://drive.google.com/file/d/1nc1sKk3hBwg2mkcSt4qIyI9OciEIMTAj/view?usp=sharing",
-              "quote": "1. 報名時間：自 115 年10 月17 日（星期六）8:00 起至115 年11 月7 日（星期六）18:00止（依報名系統時間戳記為憑）。"
-            }
-          ]
-        },
-        {
-          "kind": "submission_deadline",
-          "label": "報名且繳費成功隊伍填寫比賽歌曲表單截止",
-          "date": "2026-12-19",
-          "time": "18:00",
-          "original": "115 年12 月19 日（星期六）18:00",
-          "basis": "quote",
-          "evidence": [
-            {
-              "url": "https://drive.google.com/file/d/1nc1sKk3hBwg2mkcSt4qIyI9OciEIMTAj/view?usp=sharing",
-              "quote": "3. 比賽歌曲：報名且繳費成功後，請於115 年12 月19 日（星期六）18:00 前填寫活動粉專公告之表單"
-            }
-          ]
-        },
-        {
-          "kind": "final_event",
-          "label": "比賽（開幕典禮）",
-          "date": "2027-02-13",
-          "time": "13:30",
-          "original": "116 年2 月13 日（星期六）13:30",
-          "basis": "quote",
-          "evidence": [
-            {
-              "url": "https://drive.google.com/file/d/1nc1sKk3hBwg2mkcSt4qIyI9OciEIMTAj/view?usp=sharing",
-              "quote": "6. 開幕典禮：擬訂於116 年2 月13 日（星期六）13:30，於國立臺南一中群英堂舉行"
-            }
-          ]
-        },
-        {
-          "kind": "result_announcement",
-          "label": "頒獎暨閉幕典禮（比賽結束後）",
-          "date": "2027-02-13",
-          "time": null,
-          "original": "116 年2 月 13 日（星期六）晚上比賽結束後",
-          "basis": "quote",
-          "evidence": [
-            {
-              "url": "https://drive.google.com/file/d/1nc1sKk3hBwg2mkcSt4qIyI9OciEIMTAj/view?usp=sharing",
-              "quote": "7. 頒獎暨閉幕典禮：擬訂於116 年2 月 13 日（星期六）晚上比賽結束後，於國立臺南一中群英堂舉行"
-            }
-          ]
-        }
-      ],
-      "deliverables": [
-        {
-          "stage": "報名",
-          "what": "團隊報名資料，並上傳家長同意書、參賽者名冊 PDF",
-          "how": "online"
-        },
-        {
-          "stage": "報名且繳費成功後",
-          "what": "比賽歌曲表單；表演自創歌曲者另交詞曲資料及音檔",
-          "how": "online"
-        },
-        {
-          "stage": "比賽當天檢錄",
-          "what": "核章後的參賽者名冊（含學生證黏貼聯）紙本與學生證正本",
-          "how": "onsite"
-        },
-        {
-          "stage": "比賽",
-          "what": "自選一首曲子現場演出，準備及演唱以不超過 10 分鐘為原則",
-          "how": "onsite"
-        }
-      ],
-      "attendance": {
-        "value": "all",
-        "where": "國立臺南第一高級中學群英堂（臺南市東區民族路一段1號）",
-        "basis": "quote",
-        "evidence": [
-          {
-            "url": "https://drive.google.com/file/d/1nc1sKk3hBwg2mkcSt4qIyI9OciEIMTAj/view?usp=sharing",
-            "quote": "國立臺南第一高級中學群英堂（臺南市東區民族路一段１號）"
-          },
-          {
-            "url": "https://drive.google.com/file/d/1nc1sKk3hBwg2mkcSt4qIyI9OciEIMTAj/view?usp=sharing",
-            "quote": "5. 比賽順序於報到時抽籤決定。"
-          }
-        ]
-      },
-      "fee": {
-        "value": "required",
-        "amount": "每隊 2,500 元",
-        "basis": "quote",
-        "evidence": [
-          {
-            "url": "https://drive.google.com/file/d/1nc1sKk3hBwg2mkcSt4qIyI9OciEIMTAj/view?usp=sharing",
-            "quote": "2. 報名費：每隊報名費2,500 元整。"
-          }
-        ]
-      },
-      "prizes": {
-        "text": "團體獎（熱音組、吉他組依參賽隊數取冠軍至季軍，未達 8 組則合併組別）：冠軍每隊獎學金 12,000 元、亞軍 7,000 元、季軍 4,000 元，皆頒獎座及獎狀；個人獎錄取 8 人，每位獎狀 1 紙、獎學金 1,000 元。",
-        "basis": "quote",
-        "evidence": [
-          {
-            "url": "https://drive.google.com/file/d/1nc1sKk3hBwg2mkcSt4qIyI9OciEIMTAj/view?usp=sharing",
-            "quote": "I. 冠軍：每隊獎學金12,000 元整，頒發獎座乙座及獎狀乙紙。"
-          },
-          {
-            "url": "https://drive.google.com/file/d/1nc1sKk3hBwg2mkcSt4qIyI9OciEIMTAj/view?usp=sharing",
-            "quote": "II. 亞軍：每隊獎學金 7,000 元整，頒發獎座乙座及獎狀乙紙。"
-          },
-          {
-            "url": "https://drive.google.com/file/d/1nc1sKk3hBwg2mkcSt4qIyI9OciEIMTAj/view?usp=sharing",
-            "quote": "III. 季軍：每隊獎學金 4,000 元整，頒發獎座乙座及獎狀乙紙。"
-          },
-          {
-            "url": "https://drive.google.com/file/d/1nc1sKk3hBwg2mkcSt4qIyI9OciEIMTAj/view?usp=sharing",
-            "quote": "錄取8 人，每位頒發獎狀1 紙，獎學金1,000 元整。"
-          }
-        ]
-      },
-      "ai_policy": {
-        "value": "not_mentioned",
-        "basis": "absent",
-        "evidence": [
-          {
-            "url": "https://drive.google.com/file/d/1nc1sKk3hBwg2mkcSt4qIyI9OciEIMTAj/view?usp=sharing"
-          }
-        ]
-      },
-      "links": {
-        "official": null,
-        "rules": [
-          {
-            "title": "第23屆竹園岡全國高中職學生流音大賽比賽辦法（116 年 2 月 13 日比賽版）",
-            "url": "https://drive.google.com/file/d/1nc1sKk3hBwg2mkcSt4qIyI9OciEIMTAj/view?usp=sharing"
-          }
-        ],
-        "registration": "https://forms.gle/kPe9z8nvLgsQA1ib6"
-      },
-      "found_via": [
-        {
-          "name": "南港高工 重要資訊",
-          "url": "https://www.nkhs.tp.edu.tw/ischool/public/news_view/show.php?nid=35208"
-        },
-        {
-          "name": "高雄高工 競賽公告",
-          "url": "https://www.ksvs.kh.edu.tw/v4/cpsub/article.php?id=12697"
-        },
-        {
-          "name": "苗栗農工 處室公告",
-          "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=27031"
-        },
-        {
-          "name": "三重商工 學生事務公告",
-          "url": "https://www.scvs.ntpc.edu.tw/p/406-1000-15947,r28.php"
-        },
-        {
-          "name": "苗栗農工 處室公告",
-          "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26106"
-        },
-        {
-          "name": "南港高工 重要資訊",
-          "url": "https://www.nkhs.tp.edu.tw/ischool/public/news_view/show.php?nid=34333"
-        },
-        {
-          "name": "高師大附中 校外競賽與活動",
-          "url": "https://www.nknush.kh.edu.tw/announcement/18069/%e5%85%ac%e5%91%8a%e8%a8%93%e8%82%b2%e7%b5%84%e3%80%8c%e7%ac%ac23%e5%b1%86%e7%ab%b9%e5%9c%92%e5%b2%a1%e5%85%a8%e5%9c%8b%e9%ab%98%e4%b8%ad%e8%81%b7%e5%ad%b8%e7%94%9f%e6%b5%81%e9%9f%b3%e5%a4%a7%e8%b3%bd/"
-        },
-        {
-          "name": "臺南女中 學生競賽",
-          "url": "https://www.tngs.tn.edu.tw/2026/08/17/%e3%80%8c%e7%ac%ac23%e5%b1%86%e7%ab%b9%e5%9c%92%e5%b2%a1%e5%85%a8%e5%9c%8b%e9%ab%98%e4%b8%ad%e8%81%b7%e5%ad%b8%e7%94%9f%e6%b5%81%e9%9f%b3%e5%a4%a7%e8%b3%bd%e3%80%8d%e6%af%94%e8%b3%bd%e5%85%ac%e5%91%8a/"
-        },
-        {
-          "name": "大同高中 學生競賽活動",
-          "url": "https://www.ttsh.tp.edu.tw/news/%e3%80%8c%e7%ac%ac23%e5%b1%86%e7%ab%b9%e5%9c%92%e5%b2%a1%e5%85%a8%e5%9c%8b%e9%ab%98%e4%b8%ad%e8%81%b7%e5%ad%b8%e7%94%9f%e6%b5%81%e9%9f%b3%e5%a4%a7%e8%b3%bd%e3%80%8d%e5%8f%8a%e3%80%8c%e7%ac%ac20/"
-        }
-      ],
-      "verification": {
-        "last_verified": "2026-11-25",
-        "method": "single",
-        "unread": [],
-        "note": null,
-        "readers": [
-          "claude-opus-5-5"
-        ]
-      },
-      "first_seen": "2026-11-24",
-      "updated": "2026-11-25",
-      "conflict": "國立臺南女子高級中學 2026-08-17 公告所附比賽辦法（0007894）載比賽日期 115 年 12 月 19 日、報名至 115 年 9 月 23 日，熱音組、吉他組各最多錄取 18 隊；2026 年 11 月各校轉知的比賽辦法改載比賽日期 116 年 2 月 13 日、報名 115 年 10 月 17 日至 11 月 7 日，各最多錄取 20 隊。",
-      "level": "checked",
-      "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-tnfsh-pop-music/",
-      "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-tnfsh-pop-music.md"
     },
     {
       "schema": 1,
@@ -48114,161 +47190,6 @@
     },
     {
       "schema": 1,
-      "id": "2027-metamanga-comic",
-      "title": "漫界 MetaManga 漫畫創作競賽",
-      "edition": "115 年 7 月至 116 年 2 月徵稿",
-      "summary": "學生及社會創作者依作品適讀對象分兒童、少年、青年、成人四組，投稿短篇完結漫畫。",
-      "organizers": [
-        {
-          "name": "搜咖科技股份有限公司",
-          "role": "協辦"
-        },
-        {
-          "name": "弘光科技大學多媒體遊戲發展與應用系",
-          "role": "協辦"
-        }
-      ],
-      "categories": [
-        "美術"
-      ],
-      "eligibility": {
-        "levels": [
-          "國小",
-          "國中",
-          "高中",
-          "高職",
-          "五專",
-          "大專",
-          "社會人士"
-        ],
-        "division": "mixed",
-        "regions": [
-          "全國"
-        ],
-        "nomination": "none",
-        "team_min": null,
-        "team_max": null,
-        "teacher": "optional",
-        "basis": "quote",
-        "evidence": [
-          {
-            "url": "https://dlsh.tc.edu.tw/p/406-1068-641898,r2145.php",
-            "quote": "本競賽透過「漫界 MetaManga」漫畫創作平台，鼓勵學生及社會創作者投入漫畫創作"
-          },
-          {
-            "url": "https://dlsh.tc.edu.tw/p/406-1068-641898,r2145.php",
-            "quote": "競賽分組：分為兒童、少年、青年及成人四組，依作品適讀對象及內容定位選擇投稿組別"
-          },
-          {
-            "url": "https://dlsh.tc.edu.tw/p/406-1068-641898,r2145.php",
-            "quote": "報名方式：參賽者至漫界 MetaManga 平台註冊帳號，依競賽辦法完成作品上傳及報名。"
-          },
-          {
-            "url": "https://dlsh.tc.edu.tw/p/406-1068-641898,r2145.php",
-            "quote": "貴校如有教師帶領學生共同參與，可由帶隊教師聯繫競賽窗口，洽詢投稿流程及相關事宜。"
-          }
-        ]
-      },
-      "dates": [
-        {
-          "kind": "other",
-          "label": "徵稿開始",
-          "date": "2026-07-15",
-          "time": null,
-          "original": "民國115年7月15日",
-          "basis": "quote",
-          "evidence": [
-            {
-              "url": "https://dlsh.tc.edu.tw/p/406-1068-641898,r2145.php",
-              "quote": "徵稿日期：自民國115年7月15日起至民國116年2月15日止"
-            }
-          ]
-        },
-        {
-          "kind": "submission_deadline",
-          "label": "徵稿截止（作品上傳及報名）",
-          "date": "2027-02-15",
-          "time": null,
-          "original": "民國116年2月15日",
-          "basis": "quote",
-          "evidence": [
-            {
-              "url": "https://dlsh.tc.edu.tw/p/406-1068-641898,r2145.php",
-              "quote": "徵稿日期：自民國115年7月15日起至民國116年2月15日止"
-            }
-          ]
-        }
-      ],
-      "deliverables": [
-        {
-          "stage": "投稿",
-          "what": "短篇完結漫畫，32 頁以上（兒童組不受頁數限制），上傳至漫界 MetaManga 平台",
-          "how": "online"
-        }
-      ],
-      "attendance": {
-        "value": "unknown",
-        "where": null,
-        "basis": "unread",
-        "evidence": []
-      },
-      "fee": {
-        "value": "unknown",
-        "amount": null,
-        "basis": "unread",
-        "evidence": []
-      },
-      "prizes": {
-        "text": null,
-        "basis": "unread",
-        "evidence": []
-      },
-      "ai_policy": {
-        "value": "allowed",
-        "basis": "quote",
-        "evidence": [
-          {
-            "url": "https://dlsh.tc.edu.tw/p/406-1068-641898,r2145.php",
-            "quote": "結合故事發想、視覺敘事與 AI 輔助創作，提供作品發表及讀者交流機會，發掘具潛力之漫畫創作人才。"
-          }
-        ]
-      },
-      "links": {
-        "official": "https://www.metamanga.ai/contest",
-        "rules": [],
-        "registration": null
-      },
-      "found_via": [
-        {
-          "name": "南港高工 重要資訊",
-          "url": "https://www.nkhs.tp.edu.tw/ischool/public/news_view/show.php?nid=34965"
-        },
-        {
-          "name": "大里高中 校外活動與競賽",
-          "url": "https://dlsh.tc.edu.tw/p/406-1068-641898,r2145.php"
-        }
-      ],
-      "verification": {
-        "last_verified": "2026-11-25",
-        "method": "dual",
-        "unread": [
-          "官方競賽辦法（賽事網址 https://www.metamanga.ai/contest）",
-          "活動海報（附件）"
-        ],
-        "note": null,
-        "readers": [
-          "claude-opus-5-5",
-          "claude-opus-5-5"
-        ]
-      },
-      "first_seen": "2026-11-24",
-      "updated": "2026-11-25",
-      "level": "verified",
-      "url": "https://yuanaruru.com/tw-hs-contests/contests/2027-metamanga-comic/",
-      "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2027-metamanga-comic.md"
-    },
-    {
-      "schema": 1,
       "id": "2027-miaoli-18-township-english-speech",
       "title": "苗栗縣18鄉鎮市英文演講比賽",
       "edition": "115 學年度",
@@ -49250,16 +48171,20 @@
       "schema": 1,
       "id": "2027-national-skills-competition",
       "title": "116年度全國技能競賽",
-      "edition": "116 年度",
-      "summary": "青年組與青少年組選手依職類以實地技能操作比賽，分區賽優勝者晉級全國賽。",
+      "edition": "第57屆",
+      "summary": "符合年齡的我國國民報名各職類，先在北中南分區賽實地操作技能，各職類前 5 名晉級全國賽。",
       "organizers": [
         {
           "name": "勞動部",
-          "role": "主辦"
+          "role": "指導"
+        },
+        {
+          "name": "勞動部勞動力發展署",
+          "role": "指導"
         },
         {
           "name": "勞動部勞動力發展署技能檢定中心",
-          "role": "承辦"
+          "role": "主辦"
         },
         {
           "name": "勞動部勞動力發展署桃竹苗分署",
@@ -49299,170 +48224,224 @@
         "basis": "quote",
         "evidence": [
           {
-            "url": "https://drive.google.com/file/d/1B5p4Ox1_IMgnntwz5mfPq_rvZ9TI59Tw/view?usp=sharing",
-            "quote": "選手應具有中華民國國籍，青年組限民國95 年1 月1 日以後出生者"
+            "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28149/%E5%A0%B1%E5%90%8D%E7%B0%A1%E7%AB%A0.pdf",
+            "quote": "選手應具有中華民國國籍，青年組限民國95 年1月1 日以後出生者"
           },
           {
-            "url": "https://drive.google.com/file/d/1B5p4Ox1_IMgnntwz5mfPq_rvZ9TI59Tw/view?usp=sharing",
-            "quote": "青少年組限民國100 年1 月1 日至 民國103 年12 月31 日間出生者。"
+            "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28149/%E5%A0%B1%E5%90%8D%E7%B0%A1%E7%AB%A0.pdf",
+            "quote": "青少年組限民國100 年1 月1 日至民國103 年12 月31 日間出生者。"
           },
           {
-            "url": "https://drive.google.com/file/d/1B5p4Ox1_IMgnntwz5mfPq_rvZ9TI59Tw/view?usp=sharing",
-            "quote": "教育部推薦上年度全國高級中等學校學生技藝競賽相關職類之 前3 名參加青年組競賽；教育部（或直轄市、縣（市）政府教 育主管機關）推薦當年度直轄市、縣（市）政府國民中學學生 技藝競賽相關職類之前3 名參加青少年組競賽。"
+            "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28149/%E5%A0%B1%E5%90%8D%E7%B0%A1%E7%AB%A0.pdf",
+            "quote": "教育部推薦上年度全國高級中等學校學生技藝競賽相關職類之前3 名參加青年組競賽"
           },
           {
-            "url": "https://drive.google.com/file/d/1B5p4Ox1_IMgnntwz5mfPq_rvZ9TI59Tw/view?usp=sharing",
-            "quote": "為鼓勵國民學習職業技能，提高國家職業技能水準"
+            "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28149/%E5%A0%B1%E5%90%8D%E7%B0%A1%E7%AB%A0.pdf",
+            "quote": "推薦當年度直轄市、縣（市）政府國民中學學生技藝競賽相關職類之前3 名參加青少年組競賽。"
           }
         ]
       },
       "dates": [
         {
-          "kind": "other",
-          "label": "分區技能競賽（北、中、南3區）",
-          "date": null,
+          "kind": "registration_deadline",
+          "label": "分區技能競賽網路報名截止（11 月 24 日起）",
+          "date": "2026-12-07",
           "time": null,
-          "original": "預計116 年3 月",
+          "original": "115年11月24日至12月7日",
           "basis": "quote",
           "evidence": [
             {
-              "url": "https://drive.google.com/file/d/1B5p4Ox1_IMgnntwz5mfPq_rvZ9TI59Tw/view?usp=sharing",
-              "quote": "實際競賽時間（預計 116 年3 月）"
+              "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28817/%E6%8A%80%E6%AA%A2%E4%B8%AD%E5%BF%83%E3%80%8C%E7%AC%AC57%E5%B1%86%E5%85%A8%E5%9C%8B%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E5%88%86%E5%8D%80%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E3%80%8D%E5%85%AC%E6%96%87.pdf",
+              "quote": "並訂於115年11月24日至12月7日開放網路報名"
+            },
+            {
+              "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28817/%E6%8A%80%E6%AA%A2%E4%B8%AD%E5%BF%83%E3%80%8C%E7%AC%AC57%E5%B1%86%E5%85%A8%E5%9C%8B%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E5%88%86%E5%8D%80%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E3%80%8D%E6%B5%B7%E5%A0%B1.pdf",
+              "quote": "12.07"
+            }
+          ]
+        },
+        {
+          "kind": "other",
+          "label": "分區技能競賽青少年組（3 月 22 日至 23 日）",
+          "date": "2027-03-22",
+          "time": null,
+          "original": "3.22-23",
+          "basis": "quote",
+          "evidence": [
+            {
+              "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28817/%E6%8A%80%E6%AA%A2%E4%B8%AD%E5%BF%83%E3%80%8C%E7%AC%AC57%E5%B1%86%E5%85%A8%E5%9C%8B%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E5%88%86%E5%8D%80%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E3%80%8D%E6%B5%B7%E5%A0%B1.pdf",
+              "quote": "3.22-23"
+            },
+            {
+              "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28817/%E6%8A%80%E6%AA%A2%E4%B8%AD%E5%BF%83%E3%80%8C%E7%AC%AC57%E5%B1%86%E5%85%A8%E5%9C%8B%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E5%88%86%E5%8D%80%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E3%80%8D%E5%85%AC%E6%96%87.pdf",
+              "quote": "分區技能競賽訂於116年3月22日至3月27日於北、中、南三區共同舉辦"
+            }
+          ]
+        },
+        {
+          "kind": "result_announcement",
+          "label": "分區技能競賽青少年組成績公告",
+          "date": "2027-03-24",
+          "time": null,
+          "original": "3.24",
+          "basis": "quote",
+          "evidence": [
+            {
+              "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28817/%E6%8A%80%E6%AA%A2%E4%B8%AD%E5%BF%83%E3%80%8C%E7%AC%AC57%E5%B1%86%E5%85%A8%E5%9C%8B%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E5%88%86%E5%8D%80%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E3%80%8D%E6%B5%B7%E5%A0%B1.pdf",
+              "quote": "青少年组3.24"
+            }
+          ]
+        },
+        {
+          "kind": "other",
+          "label": "分區技能競賽青年組（3 月 25 日至 26 日）",
+          "date": "2027-03-25",
+          "time": null,
+          "original": "3.25-26",
+          "basis": "quote",
+          "evidence": [
+            {
+              "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28817/%E6%8A%80%E6%AA%A2%E4%B8%AD%E5%BF%83%E3%80%8C%E7%AC%AC57%E5%B1%86%E5%85%A8%E5%9C%8B%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E5%88%86%E5%8D%80%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E3%80%8D%E6%B5%B7%E5%A0%B1.pdf",
+              "quote": "3.25-26青年组"
+            }
+          ]
+        },
+        {
+          "kind": "result_announcement",
+          "label": "分區技能競賽青年組成績公告",
+          "date": "2027-03-27",
+          "time": null,
+          "original": "3.27",
+          "basis": "quote",
+          "evidence": [
+            {
+              "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28817/%E6%8A%80%E6%AA%A2%E4%B8%AD%E5%BF%83%E3%80%8C%E7%AC%AC57%E5%B1%86%E5%85%A8%E5%9C%8B%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E5%88%86%E5%8D%80%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E3%80%8D%E6%B5%B7%E5%A0%B1.pdf",
+              "quote": "青年組3.27"
             }
           ]
         },
         {
           "kind": "final_event",
-          "label": "全國技能競賽（預定7月21日至7月25日）",
+          "label": "全國技能競賽（預定 7 月 21 日至 25 日）",
           "date": "2027-07-21",
           "time": null,
-          "original": "116 年7 月21 日至7 月25 日",
+          "original": "預定為116 年7 月21 日至7 月25 日",
           "basis": "quote",
           "evidence": [
             {
-              "url": "https://drive.google.com/file/d/1B5p4Ox1_IMgnntwz5mfPq_rvZ9TI59Tw/view?usp=sharing",
-              "quote": "（預定為116 年7 月21 日至7 月25 日）"
-            }
-          ]
-        },
-        {
-          "kind": "other",
-          "label": "第二階段國手選拔賽（第一階段入圍選手）",
-          "date": null,
-          "time": null,
-          "original": "116 年8 月中下旬至9 月上旬",
-          "basis": "quote",
-          "evidence": [
-            {
-              "url": "https://drive.google.com/file/d/1B5p4Ox1_IMgnntwz5mfPq_rvZ9TI59Tw/view?usp=sharing",
-              "quote": "第二階段國手選拔賽預定116 年8 月中下旬至9 月上旬辦理"
+              "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28149/%E5%A0%B1%E5%90%8D%E7%B0%A1%E7%AB%A0.pdf",
+              "quote": "實際競賽時間（預定為116 年7 月21 日至7 月25 日）"
             }
           ]
         }
       ],
       "deliverables": [
         {
+          "stage": "報名",
+          "what": "分區技能競賽網路報名",
+          "how": "online"
+        },
+        {
           "stage": "分區技能競賽",
-          "what": "依試題規定之材料、機具與量具進行加工、裝配、檢修、製作成品或提供服務",
+          "what": "依試題實地技能操作，進行加工、裝配、檢修、製作成品或提供服務",
           "how": "onsite"
         },
         {
-          "stage": "全國技能競賽（各區每職類前 5 名及教育部推薦選手）",
-          "what": "由全國裁判長命製之試題實地操作，部分試題得以英文命製及作答",
+          "stage": "全國技能競賽",
+          "what": "依試題實地技能操作",
           "how": "onsite"
         }
       ],
       "attendance": {
         "value": "all",
-        "where": null,
+        "where": "北、中、南三區分區賽場",
         "basis": "quote",
         "evidence": [
           {
-            "url": "https://drive.google.com/file/d/1B5p4Ox1_IMgnntwz5mfPq_rvZ9TI59Tw/view?usp=sharing",
+            "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28149/%E5%A0%B1%E5%90%8D%E7%B0%A1%E7%AB%A0.pdf",
             "quote": "競賽方式以實地技能操作進行。"
           },
           {
-            "url": "https://drive.google.com/file/d/1B5p4Ox1_IMgnntwz5mfPq_rvZ9TI59Tw/view?usp=sharing",
-            "quote": "分區技能競賽分為北、中、南3 區辦理"
+            "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28817/%E6%8A%80%E6%AA%A2%E4%B8%AD%E5%BF%83%E3%80%8C%E7%AC%AC57%E5%B1%86%E5%85%A8%E5%9C%8B%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E5%88%86%E5%8D%80%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E3%80%8D%E5%85%AC%E6%96%87.pdf",
+            "quote": "分區技能競賽訂於116年3月22日至3月27日於北、中、南三區共同舉辦"
           }
         ]
       },
       "fee": {
         "value": "unknown",
         "amount": null,
-        "basis": "quote",
-        "evidence": [
-          {
-            "url": "https://drive.google.com/file/d/1B5p4Ox1_IMgnntwz5mfPq_rvZ9TI59Tw/view?usp=sharing",
-            "quote": "地點、選手資格、報名及獎勵等事項詳見分區技能競賽簡章"
-          },
-          {
-            "url": "https://drive.google.com/file/d/1B5p4Ox1_IMgnntwz5mfPq_rvZ9TI59Tw/view?usp=sharing",
-            "quote": "地點、選手資格、報名及獎勵等事項另行以簡章公告。"
-          }
-        ]
+        "basis": "unread",
+        "evidence": []
       },
       "prizes": {
-        "text": "取名次，分區賽各職類前 5 名晉級全國賽；全國賽前 3 名得報名國手選拔賽，選拔參加亞洲技能競賽及國際技能競賽的國手。",
+        "text": "分區技能競賽各職類前 5 名晉級全國技能競賽；全國技能競賽前 3 名得報名國手選拔賽，選拔參加亞洲及國際技能競賽的國手。",
         "basis": "quote",
         "evidence": [
           {
-            "url": "https://drive.google.com/file/d/1B5p4Ox1_IMgnntwz5mfPq_rvZ9TI59Tw/view?usp=sharing",
-            "quote": "當年度分區技能競賽各區承辦單位推薦每一職類之前5 名晉級 全國技能競賽"
+            "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28149/%E5%A0%B1%E5%90%8D%E7%B0%A1%E7%AB%A0.pdf",
+            "quote": "當年度分區技能競賽各區承辦單位推薦每一職類之前5 名晉級全國技能競賽"
           },
           {
-            "url": "https://drive.google.com/file/d/1B5p4Ox1_IMgnntwz5mfPq_rvZ9TI59Tw/view?usp=sharing",
-            "quote": "歷屆獲得全國技能競賽前3 名之選手，年齡須符合國際（或亞 洲）技能組織規定，且未曾代表我國參加國際（或亞洲）技能 競賽者，得報名參加該職類國手選拔賽。"
+            "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28149/%E5%A0%B1%E5%90%8D%E7%B0%A1%E7%AB%A0.pdf",
+            "quote": "歷屆獲得全國技能競賽前3 名之選手，年齡須符合國際（或亞洲）技能組織規定"
           },
           {
-            "url": "https://drive.google.com/file/d/1B5p4Ox1_IMgnntwz5mfPq_rvZ9TI59Tw/view?usp=sharing",
-            "quote": "包括116 年（2027）亞洲技能競賽及117 年（2028）國際技能競賽之國手選 拔"
+            "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28149/%E5%A0%B1%E5%90%8D%E7%B0%A1%E7%AB%A0.pdf",
+            "quote": "包括116年（2027）亞洲技能競賽及117 年（2028）國際技能競賽之國手選拔"
           }
         ]
       },
       "ai_policy": {
         "value": "unknown",
-        "basis": "quote",
-        "evidence": [
-          {
-            "url": "https://drive.google.com/file/d/1B5p4Ox1_IMgnntwz5mfPq_rvZ9TI59Tw/view?usp=sharing",
-            "quote": "上開競賽職類及技能範圍詳見分區及全國技能競賽簡章。"
-          }
-        ]
+        "basis": "unread",
+        "evidence": []
       },
       "links": {
-        "official": null,
+        "official": "https://www.wdasec.gov.tw",
         "rules": [
           {
             "title": "116年度全國技能競賽實施計畫",
-            "url": "https://drive.google.com/file/d/1B5p4Ox1_IMgnntwz5mfPq_rvZ9TI59Tw/view?usp=sharing"
+            "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28149/%E5%A0%B1%E5%90%8D%E7%B0%A1%E7%AB%A0.pdf"
+          },
+          {
+            "title": "第57屆全國技能競賽分區技能競賽海報",
+            "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28817/%E6%8A%80%E6%AA%A2%E4%B8%AD%E5%BF%83%E3%80%8C%E7%AC%AC57%E5%B1%86%E5%85%A8%E5%9C%8B%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E5%88%86%E5%8D%80%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E3%80%8D%E6%B5%B7%E5%A0%B1.pdf"
+          },
+          {
+            "title": "教育部國民及學前教育署函（分區技能競賽報名）",
+            "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28817/%E6%8A%80%E6%AA%A2%E4%B8%AD%E5%BF%83%E3%80%8C%E7%AC%AC57%E5%B1%86%E5%85%A8%E5%9C%8B%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E5%88%86%E5%8D%80%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E3%80%8D%E5%85%AC%E6%96%87.pdf"
           }
         ],
         "registration": null
       },
       "found_via": [
         {
-          "name": "鳳新高中 營隊競賽",
-          "url": "https://www.fhsh.khc.edu.tw/aa/news-aa/20261002/46537"
+          "name": "苗栗高中 學生校外營隊、活動、比賽",
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=28149"
+        },
+        {
+          "name": "苗栗高中 學生校外營隊、活動、比賽",
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=28817"
         }
       ],
       "verification": {
         "last_verified": "2026-11-25",
-        "method": "single",
+        "method": "dual",
         "unread": [
-          "分區技能競賽簡章",
-          "全國技能競賽簡章"
+          "第57屆全國技能競賽分區技能競賽簡章",
+          "116年度全國技能競賽簡章"
         ],
         "note": null,
         "readers": [
+          "claude-opus-5-5",
           "claude-opus-5-5"
         ]
       },
       "first_seen": "2026-11-24",
-      "updated": "2026-11-25",
-      "level": "unverified",
-      "url": null,
-      "markdown": null
+      "updated": "2026-11-24",
+      "level": "verified",
+      "url": "https://yuanaruru.com/tw-hs-contests/contests/2027-national-skills-competition/",
+      "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2027-national-skills-competition.md"
     },
     {
       "schema": 1,

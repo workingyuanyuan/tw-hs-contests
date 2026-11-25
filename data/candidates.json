@@ -3182,7 +3182,7 @@
   "last_seen": "2026-11-24",
   "status": "done",
   "attempts": 1,
-  "record": "2026-national-skills-competition-57",
+  "record": "2027-national-skills-competition",
   "note": "single, checked",
   "tried": "2026-11-24",
   "second": {
@@ -6267,7 +6267,7 @@
   "last_seen": "2026-11-24",
   "status": "done",
   "attempts": 1,
-  "record": "2026-tnfsh-pop-music",
+  "record": "2026-zhuyuangang-music-dance",
   "note": "single, checked",
   "tried": "2026-11-25"
  },
@@ -6387,7 +6387,7 @@
   "last_seen": "2026-11-24",
   "status": "done",
   "attempts": 1,
-  "record": "2026-tnfsh-pop-music",
+  "record": "2026-zhuyuangang-music-dance",
   "note": "single, checked",
   "tried": "2026-11-24"
  },
@@ -7726,7 +7726,7 @@
   "last_seen": "2026-11-24",
   "status": "done",
   "attempts": 1,
-  "record": "2026-taiwan-healthcare-hs-contest",
+  "record": "2026-ibmi-medtech-creative",
   "note": "single, checked",
   "tried": "2026-11-25",
   "searched": "2026-11-25"
@@ -8580,7 +8580,7 @@
   "last_seen": "2026-11-25",
   "status": "done",
   "attempts": 1,
-  "record": "2027-metamanga-comic",
+  "record": "2027-metamanga-ai-manga",
   "note": "single, checked",
   "tried": "2026-11-25",
   "second": {
@@ -9682,10 +9682,10 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "skipped",
+  "status": "done",
   "attempts": 1,
-  "record": null,
-  "note": "這是電競賽：參賽隊伍在 PaGamO 線上遊戲平台以族語答題佔地與挑戰任務，由遊戲對戰結果決定名次，屬目錄不收的電競比賽。",
+  "record": "2026-sowal-indigenous-language-esports",
+  "note": "single, checked",
   "tried": "2026-11-25"
  },
  {
@@ -9853,7 +9853,7 @@
   "last_seen": "2026-11-25",
   "status": "done",
   "attempts": 1,
-  "record": "2026-ocu-stock-plus",
+  "record": "2026-ocu-stock-plus-trading",
   "note": "single, checked",
   "tried": "2026-11-25"
  },
@@ -10658,7 +10658,7 @@
   "last_seen": "2026-11-24",
   "status": "done",
   "attempts": 1,
-  "record": "2026-aerc-robot-sports",
+  "record": "2026-aerc-ksu",
   "note": "single, checked",
   "tried": "2026-11-25"
  },
@@ -10713,7 +10713,7 @@
   "last_seen": "2026-11-24",
   "status": "done",
   "attempts": 1,
-  "record": "2026-aerc-robot-sports-2",
+  "record": "2026-aerc-ksu",
   "note": "single, checked",
   "tried": "2026-11-25"
  },
@@ -10780,7 +10780,7 @@
   "last_seen": "2026-11-24",
   "status": "done",
   "attempts": 1,
-  "record": "2026-aerc-robot-sports-2",
+  "record": "2026-aerc-ksu",
   "note": "single, checked",
   "tried": "2026-11-25"
  },
