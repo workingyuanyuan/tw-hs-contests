@@ -1249,15 +1249,25 @@
    ],
    "merged": [],
    "set_aside": []
+  },
+  {
+   "tasks": [
+    {
+     "task": "c0088-1",
+     "result": "skipped, 2026-hk-valorant-autumn set aside: 此為電競賽：2026弘光盃全國高中職電競大賽秋季賽「特戰英豪」由隊伍以電玩遊戲對戰（線上BO1單淘汰賽、線下決賽），依比賽勝負決定名次，屬目錄不收錄的電競賽。"
+    }
+   ],
+   "merged": [],
+   "set_aside": []
   }
  ],
  "queue": {
-  "done": 210,
-  "skipped": 63,
+  "done": 209,
+  "skipped": 64,
   "search": 5,
   "new": 507,
   "expired": 1
  },
  "announcements_waiting": 0,
- "records": 179
+ "records": 178
 }

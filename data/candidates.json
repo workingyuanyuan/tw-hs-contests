@@ -2548,18 +2548,34 @@
   "deadline": "2026-12-10",
   "urls": [
    {
+    "url": "https://gbase.giger666.com",
+    "role": "rules",
+    "name": ""
+   },
+   {
+    "url": "https://reurl.cc/om2x4v",
+    "role": "rules",
+    "name": ""
+   },
+   {
+    "url": "https://www.taivs.tp.edu.tw/static/webroot/G157187714602169/application/NN179419010014705.pdf",
+    "role": "rules",
+    "name": ""
+   },
+   {
     "url": "https://www.taivs.tp.edu.tw/content?a=T0RESVRYcHJNMDFxUVhsT2FrVTkxY0dWTkJ6YTY1RWUwc0dWaW50ZWx5",
     "role": "announcement",
-    "name": ""
+    "name": "www.taivs.tp.edu.tw"
    }
   ],
   "seen_in": "❌ 已排除 ·【需實體製作】（26 則）",
   "first_seen": "2026-11-20",
   "last_seen": "2026-11-20",
-  "status": "done",
+  "status": "skipped",
   "attempts": 1,
   "record": "2026-hk-valorant-autumn",
-  "note": "single"
+  "note": "此為電競賽：2026弘光盃全國高中職電競大賽秋季賽「特戰英豪」由隊伍以電玩遊戲對戰（線上BO1單淘汰賽、線下決賽），依比賽勝負決定名次，屬目錄不收錄的電競賽。",
+  "tried": "2026-11-25"
  },
  {
   "key": "c0089",
