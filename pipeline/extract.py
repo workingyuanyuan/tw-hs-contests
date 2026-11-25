@@ -369,15 +369,19 @@ def same_edition(a, b) -> bool:
     """Organizers reuse a page for the next edition; a shared link alone does not make two readings one record.
     Readers write one edition in several ways (「第 4 屆」 and 「第 4 屆（115 年度）」, 「2027 第五屆」 and
     「第五屆」): where both name an ordinal, the ordinal decides, unless both name years and no year is shared."""
-    ea, eb = (re.sub(r"\s+", "", x.get("edition") or "") for x in (a, b))
+    ea, eb = (re.sub(r"\s+", "", unicodedata.normalize("NFKC", x.get("edition") or "")) for x in (a, b))
     oa, ob = ordinal(ea), ordinal(eb)
     ya, yb = years(ea), years(eb)
     if oa is not None and ob is not None:
         return oa == ob and not (ya and yb and not ya & yb)
     if (oa is None) != (ob is None):  # 「2027」 and 「2027 年第八屆」: the years decide, when the other names only years
-        plain = eb if oa is not None else ea
-        rest = re.sub(r"(?<!\d)20\d\d(?!\d)|1\d\d(?=學?年)|學|年|度|[-–—~～、，,.．()（）]", "", plain)
-        return bool(ya) and ya == yb and not rest
+        (plain, yp), (ord_side, ord_rec, yo) = ((eb, yb), (ea, a, ya)) if oa is not None else ((ea, ya), (eb, b, yb))
+        only_years = r"(?<!\d)20\d\d(?!\d)|1\d\d(?=學?年)|學|年|度|[-–—~～、，,.．()（）]"
+        if re.sub(only_years, "", re.sub(r"第([0-9]{1,4}|[〇零一二兩三四五六七八九十百]{1,6})[屆届]", "", ord_side)):
+            return False  # 「第 38 屆（秋季）」 is not the whole of 「2026」
+        # an edition that names only its ordinal takes the years of its title: 「第 38 屆」 of 「2026第38屆AERC…」
+        yo = yo or years(re.sub(r"\s+", "", unicodedata.normalize("NFKC", ord_rec.get("title") or "")))
+        return bool(yp) and yp == yo and not re.sub(only_years, "", plain)
     return ea == eb
 
 
@@ -386,16 +390,18 @@ TITLE_PREFIX = re.compile(r"^(?:(?:20[23]\d(?:學?年度?)?|1\d\d學?年度?|第
 # 「台灣經濟學奧林匹亞」 and 「台灣經濟學奧林匹亞競賽」
 TITLE_SUFFIX = re.compile(r"(?:競賽|比賽)$")
 # a school year written inside a title: 「經濟學奧林匹亞(EO)2026-2027年校際回合」
-TITLE_YEARS = re.compile(r"20[23]\d[-–—~～]20[23]\d學?年?度?")
+TITLE_YEARS = re.compile(r"(?<!\d)20[23]\d[-–—~～]20[23]\d(?!\d)學?年?度?")
+# a year anywhere else in a title: 「AERC2026 亞洲機器人運動競技大賽」
+TITLE_YEAR = re.compile(r"(?<!\d)(?:20[23]\d(?!\d)(?:學?年度?)?|1\d\d(?:學年度|學年|年度|年))")
 
 
 def same_contest_by_title(a, b) -> bool:
-    """The same title (spaces aside, a leading year or ordinal aside: 「2027 UKMT-IMC」 and 「UKMT-IMC」,
-    「115 年度綠色化學競賽」 and 「綠色化學競賽」, same_edition compares those; and a closing 「競賽」 or
-    「比賽」 aside) and a shared organizer:
+    """The same title (spaces and letter case aside, a leading year or ordinal and a year anywhere aside:
+    「2027 UKMT-IMC」 and 「UKMT-IMC」, 「115 年度綠色化學競賽」 and 「綠色化學競賽」, 「AERC2026 亞洲…」 and
+    「2026第38屆AERC亞洲…」, same_edition compares those; and a closing 「競賽」 or 「比賽」 aside) and a shared organizer:
     two readings of one contest whose announcements shared no link."""
-    raw = lambda r: re.sub(r"\s+", "", unicodedata.normalize("NFKC", r.get("title") or ""))
-    title = lambda r: TITLE_SUFFIX.sub("", TITLE_PREFIX.sub("", TITLE_YEARS.sub("", raw(r))))
+    raw = lambda r: re.sub(r"\s+", "", unicodedata.normalize("NFKC", r.get("title") or "")).casefold()
+    title = lambda r: TITLE_SUFFIX.sub("", TITLE_YEAR.sub("", TITLE_PREFIX.sub("", TITLE_YEARS.sub("", raw(r)))))
     spans = lambda r: {re.sub(r"\D", "", y)[:8] for y in TITLE_YEARS.findall(raw(r))}
     if spans(a) and spans(b) and not spans(a) & spans(b):
         return False  # 「2026-2027 年」 and 「2027-2028 年」
@@ -404,9 +410,14 @@ def same_contest_by_title(a, b) -> bool:
     pa, pb = (TITLE_PREFIX.match(head(r)).group(0) if TITLE_PREFIX.match(head(r)) else "" for r in (a, b))
     if ordinal(pa) is not None and ordinal(pb) is not None and ordinal(pa) != ordinal(pb):
         return False  # 「第七屆…」 and 「第八屆…」
-    ya, yb = (years(p + "".join(TITLE_YEARS.findall(raw(r)))) for p, r in ((pa, a), (pb, b)))
+    ya, yb = (years("／".join([p, *TITLE_YEARS.findall(raw(r))])) for p, r in ((pa, a), (pb, b)))
     if ya and yb and not ya & yb:
         return False  # 「115 年度…」 and 「116 年度…」, 「2026-2027年…」 and 「2028年…」
+    # a year inside the title: the same years in both (「RX2027」 and 「RX2028」 are models, not years), or in
+    # one only and named in front of the other (「AERC2026 亞洲…」 and 「2026第38屆AERC亞洲…」)
+    ma, mb = (years("／".join(TITLE_YEAR.findall(TITLE_PREFIX.sub("", head(r))))) for r in (a, b))
+    if ma and mb and ma != mb or ma and not mb and not ma <= yb or mb and not ma and not mb <= ya:
+        return False
     return bool(title(a)) and title(a) == title(b) and bool(orgs(a) & orgs(b))
 
 
@@ -465,16 +476,41 @@ def place(rec, cand, readers, method, note):
 
 
 METHOD_RANK = {"dual": 0, "single": 1}
+# Judgements on pairs of records that the rules cannot settle, written by `pnpm daily same` and
+# `pnpm daily distinct`: {"same": [[fuller, other], ...], "distinct": [[a, b], ...]}.
+JUDGED = ROOT / "data/same-contests.json"
+
+
+def load_judged() -> dict:
+    judged = json.loads(JUDGED.read_text(encoding="utf-8")) if JUDGED.exists() else {}
+    return {"same": judged.get("same") or [], "distinct": judged.get("distinct") or []}
+
+
+def save_judged(judged: dict):
+    JUDGED.write_text(json.dumps(judged, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+
+
+def editions_differ(a, b) -> bool:
+    """Two editions for certain: two ordinals that differ, or two sets of years with none shared (in the
+    edition and the title)."""
+    norm = lambda t: re.sub(r"\s+", "", unicodedata.normalize("NFKC", t or "")).casefold()
+    ea, eb = (norm(r.get("edition")) + "／" + norm(r.get("title")) for r in (a, b))
+    oa, ob, ya, yb = ordinal(ea), ordinal(eb), years(ea), years(eb)
+    return oa is not None and ob is not None and oa != ob or bool(ya and yb and not ya & yb)
 
 
 def merge_duplicates(queue) -> list:
-    """Make one record of the records that describe one contest (the same edition, the same title and
-    a shared organizer) written under two ids before place() matched them: the readers wrote the
-    edition differently, or the announcements shared no link. The id seen first stays, so an address
-    already published stays. Its content is the best-verified reading, the newest of equals, with its
-    baselines; the other ids are removed and their candidates name the id kept. The queue is saved
-    before any record changes, so a run stopped halfway finds the same group again. Returns lines for
-    the log."""
+    """Make one record of the records that describe one contest written under two ids before place()
+    matched them: the same edition, the same title and a shared organizer (the readers wrote the
+    edition differently, or the announcements shared no link), or a pair judged the same contest in
+    data/same-contests.json. The id seen first stays, so an address already published stays. Its
+    content is the reading the newest judgement names as the fuller one (when that reading was merged
+    away already, the kept id's, which holds it), else the best-verified reading, the newest of equals,
+    with its baselines; the other ids are removed and their candidates name the id kept. Judgements
+    join through each other (A with B and A with C: B with C, when A is gone) and stay after their
+    merge: a later reading written under a removed id is merged again. A judgement never joins records
+    whose editions differ for certain (editions_differ). The queue is saved before any record changes, so a run stopped halfway finds the same group
+    again. Returns lines for the log."""
     recs = [json.loads(p.read_text(encoding="utf-8")) for p in sorted(CONTESTS.glob("*.json"))]
     recs.sort(key=lambda r: (r.get("first_seen") or "", bool(re.search(r"-\d+$", r["id"])), r.get("updated") or "", r["id"]))
     groups = []
@@ -482,19 +518,42 @@ def merge_duplicates(queue) -> list:
         # every member, not the first only: 「2027」 matches both 「2027 第七屆」 and 「2027 第八屆」
         group = next((g for g in groups if all(same_edition(x, r) and same_contest_by_title(x, r) for x in g)), None)
         group.append(r) if group else groups.append([r])
+    order = {r["id"]: i for i, r in enumerate(recs)}
+    pairs = load_judged()["same"]
+    root = {}  # union-find over every id a judgement names, present or not
+    find = lambda x: x if root.setdefault(x, x) == x else find(root[x])
+    for x, y in pairs:
+        root[find(x)] = find(y)
+    lines, judged_groups = [], []
+    for cls in {find(x) for x in root}:
+        present = [rid for rid in root if find(rid) == cls and rid in order]
+        for rid in present[1:]:
+            ga, gb = (next(g for g in groups if any(x["id"] == i for x in g)) for i in (present[0], rid))
+            if ga is gb:
+                continue
+            if any(editions_differ(x, y) for x in ga for y in gb):
+                lines.append(f"not joined: {present[0]} and {rid} were judged one contest, but their editions differ")
+                continue
+            groups.remove(gb)
+            ga.extend(gb)
+            ga.sort(key=lambda r: order[r["id"]])
+            judged_groups.append(ga)
     groups = [g for g in groups if len(g) > 1]
     if not groups:
-        return []
+        return lines
     gone = {r["id"]: g[0]["id"] for g in groups for r in g[1:]}
     for c in queue:
         if c.get("record") in gone:
             c["record"] = gone[c["record"]]
     cq.save(queue)
     baselines = (up.load_manifest() or {}).get("records") or {}
-    lines, entries = [], {}
+    entries = {}
     for g in groups:
         cid = g[0]["id"]
-        best = min(g, key=lambda r: (METHOD_RANK.get(r["verification"].get("method"), 2),
+        judged = any(g is j for j in judged_groups)
+        best = next((r for fuller, _ in reversed(pairs) for r in g if r["id"] == fuller), None) \
+            or (g[0] if judged else None) \
+            or min(g, key=lambda r: (METHOD_RANK.get(r["verification"].get("method"), 2),
                                      -int((r.get("updated") or "0").replace("-", "") or 0), r["id"] != cid))
         rec = dict(best, id=cid, first_seen=min(r["first_seen"] for r in g))
         (CONTESTS / f"{cid}.json").write_text(json.dumps(rec, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
@@ -505,6 +564,48 @@ def merge_duplicates(queue) -> list:
     up.save_baselines(entries, keep=set(baselines) - set(gone) | set(entries))
     for rid in gone:
         (CONTESTS / f"{rid}.json").unlink(missing_ok=True)
+    return lines
+
+
+def contest_pages(rec) -> set:
+    """The contest's own pages (official, registration, rules), each below a site's root: a site's home
+    page or a school's portal serves many contests."""
+    links = rec["links"]
+    urls = {links.get("official"), links.get("registration"), *(l["url"] for l in links.get("rules") or [])} - {None}
+    return {u for u in map(cq.same_url, urls) if u.partition("/")[2]}
+
+
+def possible_duplicates() -> list:
+    """Pairs of records that may describe one contest edition but that the rules of merge_duplicates
+    leave apart, and that no judgement in data/same-contests.json settles: they share a contest page,
+    or one's title (as same_contest_by_title compares titles) holds the other's and they share an
+    organizer; and their editions do not differ for certain (editions_differ). Several tracks,
+    divisions or stages of a contest share a page, and a stage's title often holds the contest's, so
+    such a pair is judged (`pnpm daily same` or `distinct`), not merged. (Two records with the same
+    title, edition and organizer are merged by merge_duplicates before this list is made, whatever
+    they are.) Returns lines for the log."""
+    recs = [json.loads(p.read_text(encoding="utf-8")) for p in sorted(CONTESTS.glob("*.json"))]
+    judged = load_judged()
+    settled = {frozenset(pair) for pair in judged["same"] + judged["distinct"]}
+    norm = lambda r: re.sub(r"\s+", "", unicodedata.normalize("NFKC", r.get("title") or "")).casefold()
+    title = lambda r: TITLE_SUFFIX.sub("", TITLE_YEAR.sub("", TITLE_PREFIX.sub("", TITLE_YEARS.sub("", norm(r)))))
+    orgs = lambda r: {re.sub(r"\s+", "", o.get("name") or "") for o in r.get("organizers") or []} - {"", "unknown"}
+    lines = []
+    for i, a in enumerate(recs):
+        for b in recs[i + 1:]:
+            if frozenset((a["id"], b["id"])) in settled:
+                continue
+            if editions_differ(a, b):
+                continue
+            shared = sorted(contest_pages(a) & contest_pages(b))
+            ta, tb = sorted((title(a), title(b)), key=len)
+            if shared:
+                why = f"share {shared[0]}"
+            elif len(ta) >= 4 and ta in tb and orgs(a) & orgs(b):
+                why = "one title holds the other, a shared organizer"
+            else:
+                continue
+            lines.append(f"{a['id']} | {b['id']}: {why}")
     return lines
 
 

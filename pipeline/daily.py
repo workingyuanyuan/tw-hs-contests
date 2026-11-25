@@ -3,7 +3,9 @@
 Run: uv run -q --isolated --with pymupdf --with playwright --with jsonschema python -I pipeline/daily.py <step> [options]
   prepare [--limit N] [--second N] [--triage N] [--search N] [--no-discover] [--no-recheck] [--force]
   finish
-  reread <id> [<id> ...]
+  reread <id or candidate key> [...]
+  same <fuller id> <other id> [<other id> ...]
+  distinct <id> <id>
 RUN.md says how an agent runs the whole update with these steps.
 
 prepare
@@ -28,7 +30,9 @@ finish
    records, links that a search found and the script kept join their candidates. A task without out.json changes nothing and comes back in a later round.
 2. Records of one contest (the same edition, title and an organizer, under two ids) become one:
    the id seen first stays, with the best-verified reading, and the candidates of the others follow
-   it (pipeline/extract.py merge_duplicates).
+   it (pipeline/extract.py merge_duplicates). Pairs judged the same contest (same, below) become one
+   as well. Pairs that may be one contest and that no judgement settles are listed as
+   `[duplicate?]` lines (extract.possible_duplicates), for the agent running the update to judge.
    A record that fails the checks is moved to data/stale/ so that it is not published (for
    example when a document it quotes was removed: its server answered 404 or 410).
 3. Write the pages and data files (pipeline/build_pages.py).
@@ -39,6 +43,15 @@ Queue records to be read again under their ids, from all their documents: for wo
 wrote (the summary, a deliverable, the prizes) that the prose review flagged. The next prepare
 gives each a first reading before any other; the new reading replaces the record, and its second
 reading starts over. A record already queued is left as it is.
+A candidate key (c0303) queues a candidate that was skipped as not a contest, once the rules of
+what the catalogue includes have changed: it gets a first reading again.
+
+same, distinct
+Record a judgement on a `[duplicate?]` pair in data/same-contests.json. same: the records are one
+contest edition (venues of one contest included); the first id names the fuller reading, whose content
+the merged record keeps under the id seen first; the merge runs at once and the pages are written
+again. distinct: two contests, or two tracks, divisions or stages of one with their own entry, or two
+editions; the pair is not listed again.
 
 Nothing here commits or publishes; scripts/publish-daily.sh does that.
 """
@@ -292,6 +305,9 @@ def finish(_args):
         merged = [f"error: {type(e).__name__}: {str(e)[:200]}"]
     for line in merged:
         print(f"[merge] {line}", flush=True)
+    possible = extract.possible_duplicates()
+    for line in possible:
+        print(f"[duplicate?] {line}", flush=True)
     stale = set_aside_failing(queue)
     cq.save(queue)
     triage.save_discovered(discovered)
@@ -305,6 +321,7 @@ def finish(_args):
         status[c["status"]] = status.get(c["status"], 0) + 1
     run = load_run()
     run.setdefault("rounds", []).append({"tasks": results, "merged": merged, "set_aside": stale})
+    run["possible_duplicates"] = possible
     run["queue"] = status
     run["announcements_waiting"] = sum(1 for e in discovered.values() if e["outcome"] == "new")
     run["records"] = len(list(CONTESTS.glob("*.json")))
@@ -320,6 +337,15 @@ def finish(_args):
 def reread(args):
     queue = cq.load()
     for rid in args.ids:
+        skipped = next((c for c in queue if c["key"] == rid), None)
+        if skipped:  # a candidate key
+            if skipped["status"] != "skipped":
+                print(f"{rid}: {skipped['status']}, not skipped; reread a record by its id")
+                continue
+            skipped.pop("need", None)
+            skipped.update(status="new", attempts=0, note="重新讀取：收錄範圍已修訂")
+            print(f"{rid}: queued")
+            continue
         path = CONTESTS / f"{rid}.json"
         if not path.exists():
             print(f"{rid}: no such record in data/contests/")
@@ -343,6 +369,42 @@ def reread(args):
     cq.save(queue)
 
 
+def judge_pair(ids, kind) -> bool:
+    missing = [rid for rid in ids if not (CONTESTS / f"{rid}.json").exists()]
+    if missing or len(set(ids)) < len(ids) or len(ids) < 2:
+        print("give two or more ids of records in data/contests/: " + ", ".join(missing or ids))
+        return False
+    if TODO_JSON.exists():
+        print("a round is prepared and not finished; run pnpm daily finish first")
+        return False
+    judged = extract.load_judged()
+    pairs = [[ids[0], other] for other in ids[1:]]
+    for pair in pairs:
+        for k in ("same", "distinct"):  # the newest judgement of a pair replaces an older one
+            judged[k] = [p for p in judged[k] if frozenset(p) != frozenset(pair)]
+        judged[kind].append(pair)
+    extract.save_judged(judged)
+    return True
+
+
+def same(args):
+    if not judge_pair(args.ids, "same"):
+        sys.exit(1)
+    queue = cq.load()
+    for line in extract.merge_duplicates(queue):
+        print(f"[merge] {line}", flush=True)
+    cq.save(queue)
+    build = subprocess.run([sys.executable, "-I", str(ROOT / "pipeline/build_pages.py")], capture_output=True, text=True)
+    print(build.stdout.strip(), build.stderr.strip(), sep="\n")
+    sys.exit(build.returncode)
+
+
+def distinct(args):
+    if not judge_pair(args.ids, "distinct"):
+        sys.exit(1)
+    print(f"{args.ids[0]} and {args.ids[1]}: judged distinct")
+
+
 def main():
     ap = argparse.ArgumentParser()
     steps = ap.add_subparsers(dest="step", required=True)
@@ -355,10 +417,14 @@ def main():
     p.add_argument("--no-recheck", action="store_true", help="do not re-check the watched records")
     p.add_argument("--force", action="store_true", help="drop tasks prepared earlier and not finished")
     steps.add_parser("finish", help="apply the tasks that were done, then write the pages")
-    r = steps.add_parser("reread", help="queue records to be read again under their ids")
-    r.add_argument("ids", nargs="+", help="record ids (data/contests/<id>.json)")
+    r = steps.add_parser("reread", help="queue records, or skipped candidates, to be read again")
+    r.add_argument("ids", nargs="+", help="record ids (data/contests/<id>.json) or candidate keys (c0303)")
+    sm = steps.add_parser("same", help="judge records one contest edition, and merge them")
+    sm.add_argument("ids", nargs="+", help="the fuller reading's id, then the others")
+    d = steps.add_parser("distinct", help="judge two records different contests, tracks or editions")
+    d.add_argument("ids", nargs=2, help="two record ids")
     args = ap.parse_args()
-    {"prepare": prepare, "finish": finish, "reread": reread}[args.step](args)
+    {"prepare": prepare, "finish": finish, "reread": reread, "same": same, "distinct": distinct}[args.step](args)
 
 
 if __name__ == "__main__":
