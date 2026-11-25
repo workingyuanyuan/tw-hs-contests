@@ -28,6 +28,7 @@ RETRY_DAYS, while it may still be open.
 """
 import json
 import re
+import unicodedata
 import shutil
 import sys
 import urllib.parse
@@ -354,8 +355,14 @@ def cn_number(s: str):
 
 def ordinal(edition: str):
     """The N of 「第 N 屆」 in an edition, or None."""
-    m = re.search(r"第\s*([0-9０-９]+|[〇零一二兩三四五六七八九十百]+)\s*[屆届]", edition)
+    m = re.search(r"第\s*([0-9０-９]{1,4}|[〇零一二兩三四五六七八九十百]{1,6})\s*[屆届]", edition)
     return cn_number(m.group(1)) if m else None
+
+
+def years(text: str) -> set:
+    """The years a text names, as western years: 「2027」, and 「115 年」 or 「115 學年度」 as 2026."""
+    found = {int(y) for y in re.findall(r"(?<!\d)20\d\d(?!\d)", text)}
+    return found | {int(y) + 1911 for y in re.findall(r"(?<!\d)1\d\d(?=學?年)", text)}
 
 
 def same_edition(a, b) -> bool:
@@ -364,29 +371,42 @@ def same_edition(a, b) -> bool:
     「第五屆」): where both name an ordinal, the ordinal decides, unless both name years and no year is shared."""
     ea, eb = (re.sub(r"\s+", "", x.get("edition") or "") for x in (a, b))
     oa, ob = ordinal(ea), ordinal(eb)
+    ya, yb = years(ea), years(eb)
     if oa is not None and ob is not None:
-        ya, yb = (set(re.findall(r"20\d\d", e)) for e in (ea, eb))
         return oa == ob and not (ya and yb and not ya & yb)
+    if (oa is None) != (ob is None):  # 「2027」 and 「2027 年第八屆」: the years decide, when the other names only years
+        plain = eb if oa is not None else ea
+        rest = re.sub(r"(?<!\d)20\d\d(?!\d)|1\d\d(?=學?年)|學|年|度|[-–—~～、，,.．()（）]", "", plain)
+        return bool(ya) and ya == yb and not rest
     return ea == eb
 
 
 # a year (2027, 115 年度, 115 學年度) or an ordinal (第七屆) in front of a title, in any order
-TITLE_PREFIX = re.compile(r"^(?:(?:20[23]\d|1\d\d學?年度?|第[0-9一二三四五六七八九十百]+屆)[、，．.]?)+")
+TITLE_PREFIX = re.compile(r"^(?:(?:20[23]\d(?:學?年度?)?|1\d\d學?年度?|第[0-9一二三四五六七八九十百]+屆)[、，,．.]?)+")
+# 「台灣經濟學奧林匹亞」 and 「台灣經濟學奧林匹亞競賽」
+TITLE_SUFFIX = re.compile(r"(?:競賽|比賽)$")
+# a school year written inside a title: 「經濟學奧林匹亞(EO)2026-2027年校際回合」
+TITLE_YEARS = re.compile(r"20[23]\d[-–—~～]20[23]\d學?年?度?")
 
 
 def same_contest_by_title(a, b) -> bool:
-    """The same title (spaces aside, and a leading year or ordinal aside: 「2027 UKMT-IMC」 and 「UKMT-IMC」,
-    「115 年度綠色化學競賽」 and 「綠色化學競賽」; same_edition compares those) and a shared organizer:
+    """The same title (spaces aside, a leading year or ordinal aside: 「2027 UKMT-IMC」 and 「UKMT-IMC」,
+    「115 年度綠色化學競賽」 and 「綠色化學競賽」, same_edition compares those; and a closing 「競賽」 or
+    「比賽」 aside) and a shared organizer:
     two readings of one contest whose announcements shared no link."""
-    raw = lambda r: re.sub(r"\s+", "", r.get("title") or "")
-    title = lambda r: TITLE_PREFIX.sub("", raw(r))
+    raw = lambda r: re.sub(r"\s+", "", unicodedata.normalize("NFKC", r.get("title") or ""))
+    title = lambda r: TITLE_SUFFIX.sub("", TITLE_PREFIX.sub("", TITLE_YEARS.sub("", raw(r))))
+    spans = lambda r: {re.sub(r"\D", "", y)[:8] for y in TITLE_YEARS.findall(raw(r))}
+    if spans(a) and spans(b) and not spans(a) & spans(b):
+        return False  # 「2026-2027 年」 and 「2027-2028 年」
     orgs = lambda r: {re.sub(r"\s+", "", o.get("name") or "") for o in r.get("organizers") or []} - {"", "unknown"}
-    pa, pb = (raw(r)[:len(raw(r)) - len(title(r))] for r in (a, b))
+    head = lambda r: TITLE_YEARS.sub("", raw(r))
+    pa, pb = (TITLE_PREFIX.match(head(r)).group(0) if TITLE_PREFIX.match(head(r)) else "" for r in (a, b))
     if ordinal(pa) is not None and ordinal(pb) is not None and ordinal(pa) != ordinal(pb):
         return False  # 「第七屆…」 and 「第八屆…」
-    ya, yb = (set(re.findall(r"20[23]\d|1\d\d(?=學?年)", p)) for p in (pa, pb))
+    ya, yb = (years(p + "".join(TITLE_YEARS.findall(raw(r)))) for p, r in ((pa, a), (pb, b)))
     if ya and yb and not ya & yb:
-        return False  # 「115 年度…」 and 「116 年度…」
+        return False  # 「115 年度…」 and 「116 年度…」, 「2026-2027年…」 and 「2028年…」
     return bool(title(a)) and title(a) == title(b) and bool(orgs(a) & orgs(b))
 
 
@@ -403,8 +423,9 @@ def place(rec, cand, readers, method, note):
     else:  # a record of the same edition that shares a link with the candidate, or else has its title, is the same contest
         olds = [json.loads(p.read_text(encoding="utf-8")) for p in sorted(CONTESTS.glob("*.json"))]
         olds = [o for o in olds if same_edition(o, rec)]
+        by_title = [o for o in olds if same_contest_by_title(o, rec)]
         match = next((o for o in olds if {cq.same_url(u) for u in cq.record_urls(o)} & cand_urls), None) \
-            or next((o for o in olds if same_contest_by_title(o, rec)), None)
+            or (by_title[0] if len(by_title) == 1 else None)  # two records by title: which one is unclear
         if match:
             rec["id"] = match["id"]
     rid = rec["id"]
@@ -458,7 +479,8 @@ def merge_duplicates(queue) -> list:
     recs.sort(key=lambda r: (r.get("first_seen") or "", bool(re.search(r"-\d+$", r["id"])), r.get("updated") or "", r["id"]))
     groups = []
     for r in recs:
-        group = next((g for g in groups if same_edition(g[0], r) and same_contest_by_title(g[0], r)), None)
+        # every member, not the first only: 「2027」 matches both 「2027 第七屆」 and 「2027 第八屆」
+        group = next((g for g in groups if all(same_edition(x, r) and same_contest_by_title(x, r) for x in g)), None)
         group.append(r) if group else groups.append([r])
     groups = [g for g in groups if len(g) > 1]
     if not groups:
