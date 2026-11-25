@@ -33,6 +33,25 @@ const sections = groups.length > 1 ? groups : [];
 		text-decoration: none;
 		white-space: nowrap;
 	}
+	/* A red square before the name, the end mark of a periodical's articles, in the one red
+	   accent. On arrival it settles in like ink with the title (site.css, Motion). */
+	.site-title::before {
+		content: '';
+		flex: none;
+		width: 0.55em;
+		height: 0.55em;
+		margin-inline-end: 0.55em;
+		background: var(--sl-color-accent);
+	}
+	@media (prefers-reduced-motion: no-preference) {
+		.site-title::before {
+			animation: ink-mark 0.7s cubic-bezier(0.2, 0.7, 0.2, 1) both;
+		}
+	}
+	@keyframes ink-mark {
+		from { opacity: 0; filter: blur(3px); transform: scale(1.35); }
+		to { opacity: 1; filter: none; transform: none; }
+	}
 	.sections {
 		display: none;
 		gap: 1.25rem;
