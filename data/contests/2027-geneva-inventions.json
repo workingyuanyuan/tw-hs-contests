@@ -1,0 +1,207 @@
+{
+  "schema": 1,
+  "id": "2027-geneva-inventions",
+  "title": "2027第52屆瑞士日內瓦國際發明展",
+  "edition": "第 52 屆",
+  "summary": "高中師生以發明作品報名青少年組，隨台灣參展團到瑞士日內瓦國際發明展參展受評。",
+  "organizers": [
+    {
+      "name": "台灣發明協會",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "工程與製造"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中"
+    ],
+    "division": "unknown",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": null,
+    "team_max": null,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.ntsh.ntct.edu.tw/ischool/public/news_view/show.php?nid=22674",
+        "quote": "主旨：敬邀 貴校參加「2027第52屆瑞士日內瓦國際發明展」青少年組，請協助轉知師生踴躍報名參加。"
+      },
+      {
+        "url": "https://www.ntsh.ntct.edu.tw/ischool/public/news_view/show.php?nid=22674",
+        "quote": "敬邀貴校師生參與青少年組，請惠予公告並鼓勵師生踴躍參加，以提倡發明創新風氣，並為國爭取最高榮譽。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "報名、參展資料與全額參展費繳交截止",
+      "date": "2027-02-28",
+      "time": null,
+      "original": "2027 年2 月28 日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/來文附件_0009002A00_ATTCH5.pdf",
+          "quote": "十、即日起接受報名至2027 年2 月28 日截止。"
+        },
+        {
+          "url": "https://www.ntsh.ntct.edu.tw/ischool/public/news_view/show.php?nid=22674",
+          "quote": "三、即日起報名至2027年2月28日截止。"
+        },
+        {
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/來文附件_0009002A00_ATTCH5.pdf",
+          "quote": "參展資料請連同全額參展費於報名截止日前繳交至本會，以完成報名手續。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "日內瓦國際發明展展出（至 5 月 2 日）",
+      "date": "2027-04-28",
+      "time": null,
+      "original": "2027 年4 月28 日 ~ 5 月2 日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/來文附件_0009002A00_ATTCH5.pdf",
+          "quote": "六、展出日期：2027 年4 月28 日 ~ 5 月2 日"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名",
+      "what": "報名表、參展切結書、作品照片（建議二張）與專利證書掃描檔（無專利者免附）等電子檔",
+      "how": "online"
+    },
+    {
+      "stage": "代展（不隨團或自行前往者）",
+      "what": "3 分鐘內作品影片，上傳 YouTube 後提供網址",
+      "how": "online"
+    },
+    {
+      "stage": "展出",
+      "what": "發明作品於日內瓦 Palexpo SA 展館攤位展出",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "unknown",
+    "where": "瑞士日內瓦 Palexpo SA 展館",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/來文附件_0009002A00_ATTCH5.pdf",
+        "quote": "七、展出地點：Palexpo SA / Le Grand-Saconnex / Geneva / Switzerland"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/來文附件_0009002A00_ATTCH5.pdf",
+        "quote": "(代展作品需提供3 分鐘內影片，請上傳YouTube 後提供網址。)"
+      }
+    ]
+  },
+  "fee": {
+    "value": "required",
+    "amount": "參展費每件作品新台幣 105,000 元（含報名費、展位費、評審費、入場證及桌椅費）；另有海報費每件 1,000 元（自理者免繳）、代展費每件 20,000 元，隨團個人旅費預估 16 萬元左右",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/來文附件_0009002A00_ATTCH5.pdf",
+        "quote": "1. 參展費：每件作品台幣105,000 元"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/來文附件_0009002A00_ATTCH5.pdf",
+        "quote": "(包含報名費、展位費、評審費、入場證及桌椅費)"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/來文附件_0009002A00_ATTCH5.pdf",
+        "quote": "2. 海報費：每件台幣1,000 元。(自理者免繳)"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/來文附件_0009002A00_ATTCH5.pdf",
+        "quote": "3. 代展費：每件台幣20,000 元。"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/來文附件_0009002A00_ATTCH5.pdf",
+        "quote": "4. 個人旅費：預估16 萬左右。"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "參展作品評審頒發金、銀、銅牌；作品取得中華民國專利四年內並獲金、銀、銅牌者，可向經濟部智慧財產局申請補助，歐洲地區以新台幣四萬元為限，無專利者可參展但無補助。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/來文附件_0009002A00_ATTCH5.pdf",
+        "quote": "若您的作品擁有中華民國專利(四年內)參展獲金、銀、銅牌之獎項，可得經濟部智慧財產局之來回機票費補助。"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/來文附件_0009002A00_ATTCH5.pdf",
+        "quote": "三、歐洲地區：以新台幣四萬元為限。"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/來文附件_0009002A00_ATTCH5.pdf",
+        "quote": "若無中華民國專利證書也可參展但無補助，需特別注意。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/來文附件_0009002A00_ATTCH5.pdf"
+      },
+      {
+        "url": "https://www.ntsh.ntct.edu.tw/ischool/public/news_view/show.php?nid=22674"
+      }
+    ]
+  },
+  "links": {
+    "official": null,
+    "rules": [
+      {
+        "title": "邀請函與參展辦法（PDF）",
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/來文附件_0009002A00_ATTCH5.pdf"
+      }
+    ],
+    "registration": null
+  },
+  "found_via": [
+    {
+      "name": "高師大附中 校外競賽與活動",
+      "url": "https://www.nknush.kh.edu.tw/announcement/high-school-news/19505/%e5%85%ac%e5%91%8a%e3%80%8c2027%e7%ac%ac52%e5%b1%86%e7%91%9e%e5%a3%ab%e6%97%a5%e5%85%a7%e7%93%a6%e5%9c%8b%e9%9a%9b%e7%99%bc%e6%98%8e%e5%b1%95%e3%80%8d%e9%9d%92%e5%b0%91%e5%b9%b4%e7%b5%84%e8%a8%ad/"
+    },
+    {
+      "name": "暨大附中 學生研習與競賽活動",
+      "url": "https://www.pshs.ntct.edu.tw/ischool/public/news_view/show.php?nid=33563"
+    },
+    {
+      "name": "南投高中 最新消息",
+      "url": "https://www.ntsh.ntct.edu.tw/ischool/public/news_view/show.php?nid=22674"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-26",
+    "method": "dual",
+    "unread": [
+      "來文附件_0009002A00_ATTCH9.doc",
+      "來文附件_0009002A00_ATTCH10.doc",
+      "來文附件_0009002A00_ATTCH11.jpg"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5",
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-26"
+}

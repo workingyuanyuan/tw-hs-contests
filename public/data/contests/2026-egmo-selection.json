@@ -1,0 +1,246 @@
+{
+  "schema": 1,
+  "id": "2026-egmo-selection",
+  "title": "2027年歐洲女子數學奧林匹亞競賽初選考試",
+  "edition": "2027",
+  "summary": "女性中小學在學學生經學校推薦參加數學筆試，選拔 EGMO 我國代表選手。",
+  "organizers": [
+    {
+      "name": "國立臺灣師範大學數學系數學奧林匹亞辦公室",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "數學"
+  ],
+  "eligibility": {
+    "levels": [
+      "國小",
+      "國中",
+      "高中",
+      "高職"
+    ],
+    "division": "mixed",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "school",
+    "team_min": null,
+    "team_max": null,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27797/%E3%80%8C2027%E5%B9%B4%E6%AD%90%E6%B4%B2%E5%A5%B3%E5%AD%90%E6%95%B8%E5%AD%B8%E5%A5%A7%E6%9E%97%E5%8C%B9%E4%BA%9E%E7%AB%B6%E8%B3%BD%E5%88%9D%E9%81%B8%E8%80%83%E8%A9%A6%E3%80%8D%E5%A0%B1%E5%90%8D%E7%B0%A1%E7%AB%A01.pdf",
+        "quote": "限生理性別為女性，且未滿20 歲（計至民國116 年4 月1 日），已在我國設有戶籍且持有國民身分證的高級中等以下學校在學學生或參與非學校型態實驗教育者，由就讀學校或各該主管機關推薦報名。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "網路報名截止",
+      "date": "2026-09-10",
+      "time": "17:00",
+      "original": "115 年9 月10 日下午5 時止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27797/%E3%80%8C2027%E5%B9%B4%E6%AD%90%E6%B4%B2%E5%A5%B3%E5%AD%90%E6%95%B8%E5%AD%B8%E5%A5%A7%E6%9E%97%E5%8C%B9%E4%BA%9E%E7%AB%B6%E8%B3%BD%E5%88%9D%E9%81%B8%E8%80%83%E8%A9%A6%E3%80%8D%E5%A0%B1%E5%90%8D%E7%B0%A1%E7%AB%A01.pdf",
+          "quote": "於115 年9 月1 日10 時起至115 年9 月10 日下午5 時止"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "寄發考生通知單並公布考生名單及准考證號",
+      "date": "2026-09-15",
+      "time": null,
+      "original": "115 年9 月15 日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27797/%E3%80%8C2027%E5%B9%B4%E6%AD%90%E6%B4%B2%E5%A5%B3%E5%AD%90%E6%95%B8%E5%AD%B8%E5%A5%A7%E6%9E%97%E5%8C%B9%E4%BA%9E%E7%AB%B6%E8%B3%BD%E5%88%9D%E9%81%B8%E8%80%83%E8%A9%A6%E3%80%8D%E5%A0%B1%E5%90%8D%E7%B0%A1%E7%AB%A01.pdf",
+          "quote": "報名資料經審核後，預計於115 年9 月15 日寄發考生通知單，同時公布考生名單及准考證號於數學奧林匹亞辦公室網頁。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "初選考試",
+      "date": "2026-09-19",
+      "time": "10:00",
+      "original": "115 年9 月19 日（星期六），上午10 時至12 時",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27797/%E3%80%8C2027%E5%B9%B4%E6%AD%90%E6%B4%B2%E5%A5%B3%E5%AD%90%E6%95%B8%E5%AD%B8%E5%A5%A7%E6%9E%97%E5%8C%B9%E4%BA%9E%E7%AB%B6%E8%B3%BD%E5%88%9D%E9%81%B8%E8%80%83%E8%A9%A6%E3%80%8D%E5%A0%B1%E5%90%8D%E7%B0%A1%E7%AB%A01.pdf",
+          "quote": "時間：115 年9 月19 日（星期六），上午10 時至12 時（共計120 分鐘）。"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "公告初選錄取名單（預定）",
+      "date": "2026-09-30",
+      "time": null,
+      "original": "115 年9 月30 日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27797/%E3%80%8C2027%E5%B9%B4%E6%AD%90%E6%B4%B2%E5%A5%B3%E5%AD%90%E6%95%B8%E5%AD%B8%E5%A5%A7%E6%9E%97%E5%8C%B9%E4%BA%9E%E7%AB%B6%E8%B3%BD%E5%88%9D%E9%81%B8%E8%80%83%E8%A9%A6%E3%80%8D%E5%A0%B1%E5%90%8D%E7%B0%A1%E7%AB%A01.pdf",
+          "quote": "預定於115 年9 月30 日公告錄取名單（惟實際公告日期需視「數學工作小組」會議之決議而定），不另行寄發書面資料。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "EGMO 複選考試（完成臺灣女子數學奧林匹亞培訓班者，至 12 月 27 日）",
+      "date": "2026-12-26",
+      "time": null,
+      "original": "115 年12 月26 日至27 日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27797/%E3%80%8C2027%E5%B9%B4%E6%AD%90%E6%B4%B2%E5%A5%B3%E5%AD%90%E6%95%B8%E5%AD%B8%E5%A5%A7%E6%9E%97%E5%8C%B9%E4%BA%9E%E9%81%B8%E8%A8%93%E5%8F%8A%E5%8F%83%E8%B3%BD%E8%A8%88%E7%95%AB%E3%80%8D.pdf",
+          "quote": "日期：115 年12 月26 日至27 日，時間各為4.5 小時。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "2027 年 EGMO 國際競賽（國家代表隊，至 4 月 17 日，克羅埃西亞史賓尼克）",
+      "date": "2027-04-11",
+      "time": null,
+      "original": "116.04.11~04.17",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27797/%E3%80%8C2027%E5%B9%B4%E6%AD%90%E6%B4%B2%E5%A5%B3%E5%AD%90%E6%95%B8%E5%AD%B8%E5%A5%A7%E6%9E%97%E5%8C%B9%E4%BA%9E%E9%81%B8%E8%A8%93%E5%8F%8A%E5%8F%83%E8%B3%BD%E8%A8%88%E7%95%AB%E3%80%8D.pdf",
+          "quote": "EGMO\n116.04.11~04.17"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名",
+      "what": "由就讀學校或主管機關完成聯絡人認證，寄送報名表",
+      "how": "online"
+    },
+    {
+      "stage": "初選考試",
+      "what": "選填題 16 題筆試（代數、組合、幾何、數論），120 分鐘",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "國立臺灣師範大學（公館校區）、國立清華大學（校本部）、國立彰化師範大學（進德校區）、國立高雄師範大學（和平校區）、國立宜蘭高中",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27797/%E3%80%8C2027%E5%B9%B4%E6%AD%90%E6%B4%B2%E5%A5%B3%E5%AD%90%E6%95%B8%E5%AD%B8%E5%A5%A7%E6%9E%97%E5%8C%B9%E4%BA%9E%E7%AB%B6%E8%B3%BD%E5%88%9D%E9%81%B8%E8%80%83%E8%A9%A6%E3%80%8D%E5%A0%B1%E5%90%8D%E7%B0%A1%E7%AB%A01.pdf",
+        "quote": "考生請憑身分證件（限用中華民國身分證、中華民國駕駛執照、附相片健保IC 卡）入場應試，不須攜帶考生通知單。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27797/%E3%80%8C2027%E5%B9%B4%E6%AD%90%E6%B4%B2%E5%A5%B3%E5%AD%90%E6%95%B8%E5%AD%B8%E5%A5%A7%E6%9E%97%E5%8C%B9%E4%BA%9E%E7%AB%B6%E8%B3%BD%E5%88%9D%E9%81%B8%E8%80%83%E8%A9%A6%E3%80%8D%E5%A0%B1%E5%90%8D%E7%B0%A1%E7%AB%A01.pdf",
+        "quote": "國立臺灣師範大學（公館校區）"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27797/%E3%80%8C2027%E5%B9%B4%E6%AD%90%E6%B4%B2%E5%A5%B3%E5%AD%90%E6%95%B8%E5%AD%B8%E5%A5%A7%E6%9E%97%E5%8C%B9%E4%BA%9E%E7%AB%B6%E8%B3%BD%E5%88%9D%E9%81%B8%E8%80%83%E8%A9%A6%E3%80%8D%E5%A0%B1%E5%90%8D%E7%B0%A1%E7%AB%A01.pdf",
+        "quote": "國立清華大學（校本部）"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27797/%E3%80%8C2027%E5%B9%B4%E6%AD%90%E6%B4%B2%E5%A5%B3%E5%AD%90%E6%95%B8%E5%AD%B8%E5%A5%A7%E6%9E%97%E5%8C%B9%E4%BA%9E%E7%AB%B6%E8%B3%BD%E5%88%9D%E9%81%B8%E8%80%83%E8%A9%A6%E3%80%8D%E5%A0%B1%E5%90%8D%E7%B0%A1%E7%AB%A01.pdf",
+        "quote": "國立彰化師範大學（進德校區）"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27797/%E3%80%8C2027%E5%B9%B4%E6%AD%90%E6%B4%B2%E5%A5%B3%E5%AD%90%E6%95%B8%E5%AD%B8%E5%A5%A7%E6%9E%97%E5%8C%B9%E4%BA%9E%E7%AB%B6%E8%B3%BD%E5%88%9D%E9%81%B8%E8%80%83%E8%A9%A6%E3%80%8D%E5%A0%B1%E5%90%8D%E7%B0%A1%E7%AB%A01.pdf",
+        "quote": "國立高雄師範大學（和平校區）"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27797/%E3%80%8C2027%E5%B9%B4%E6%AD%90%E6%B4%B2%E5%A5%B3%E5%AD%90%E6%95%B8%E5%AD%B8%E5%A5%A7%E6%9E%97%E5%8C%B9%E4%BA%9E%E7%AB%B6%E8%B3%BD%E5%88%9D%E9%81%B8%E8%80%83%E8%A9%A6%E3%80%8D%E5%A0%B1%E5%90%8D%E7%B0%A1%E7%AB%A01.pdf",
+        "quote": "國立宜蘭高中"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27797/%E3%80%8C2027%E5%B9%B4%E6%AD%90%E6%B4%B2%E5%A5%B3%E5%AD%90%E6%95%B8%E5%AD%B8%E5%A5%A7%E6%9E%97%E5%8C%B9%E4%BA%9E%E7%AB%B6%E8%B3%BD%E5%88%9D%E9%81%B8%E8%80%83%E8%A9%A6%E3%80%8D%E5%A0%B1%E5%90%8D%E7%B0%A1%E7%AB%A01.pdf",
+        "quote": "本活動不收取任何費用"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "依成績擇優錄取約 30 名進入 2027 年臺灣女子數學奧林匹亞培訓班；後續合併複選考試、APMO 複選考試及 TMO 等成績，擇優錄取 4 名為 EGMO 國家代表隊。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27797/%E3%80%8C2027%E5%B9%B4%E6%AD%90%E6%B4%B2%E5%A5%B3%E5%AD%90%E6%95%B8%E5%AD%B8%E5%A5%A7%E6%9E%97%E5%8C%B9%E4%BA%9E%E7%AB%B6%E8%B3%BD%E5%88%9D%E9%81%B8%E8%80%83%E8%A9%A6%E3%80%8D%E5%A0%B1%E5%90%8D%E7%B0%A1%E7%AB%A01.pdf",
+        "quote": "錄取人數按到考人成績高低順序，擇優錄取約30 名，錄取者進入當年度臺灣女子數學奧林匹亞培訓班。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27797/%E3%80%8C2027%E5%B9%B4%E6%AD%90%E6%B4%B2%E5%A5%B3%E5%AD%90%E6%95%B8%E5%AD%B8%E5%A5%A7%E6%9E%97%E5%8C%B9%E4%BA%9E%E9%81%B8%E8%A8%93%E5%8F%8A%E5%8F%83%E8%B3%BD%E8%A8%88%E7%95%AB%E3%80%8D.pdf",
+        "quote": "合併採計APMO 複選考試及臺灣數學奧林匹亞競賽（以下簡稱TMO）成績，擇優錄取4名為EGMO 國家代表隊"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27797/%E3%80%8C2027%E5%B9%B4%E6%AD%90%E6%B4%B2%E5%A5%B3%E5%AD%90%E6%95%B8%E5%AD%B8%E5%A5%A7%E6%9E%97%E5%8C%B9%E4%BA%9E%E7%AB%B6%E8%B3%BD%E5%88%9D%E9%81%B8%E8%80%83%E8%A9%A6%E3%80%8D%E5%A0%B1%E5%90%8D%E7%B0%A1%E7%AB%A01.pdf"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27797/%E3%80%8C2027%E5%B9%B4%E6%AD%90%E6%B4%B2%E5%A5%B3%E5%AD%90%E6%95%B8%E5%AD%B8%E5%A5%A7%E6%9E%97%E5%8C%B9%E4%BA%9E%E9%81%B8%E8%A8%93%E5%8F%8A%E5%8F%83%E8%B3%BD%E8%A8%88%E7%95%AB%E3%80%8D.pdf"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://tpmso.org/tmo/",
+    "rules": [
+      {
+        "title": "2027年歐洲女子數學奧林匹亞競賽初選考試報名簡章",
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27797/%E3%80%8C2027%E5%B9%B4%E6%AD%90%E6%B4%B2%E5%A5%B3%E5%AD%90%E6%95%B8%E5%AD%B8%E5%A5%A7%E6%9E%97%E5%8C%B9%E4%BA%9E%E7%AB%B6%E8%B3%BD%E5%88%9D%E9%81%B8%E8%80%83%E8%A9%A6%E3%80%8D%E5%A0%B1%E5%90%8D%E7%B0%A1%E7%AB%A01.pdf"
+      },
+      {
+        "title": "2027年歐洲女子數學奧林匹亞選訓及參賽計畫",
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27797/%E3%80%8C2027%E5%B9%B4%E6%AD%90%E6%B4%B2%E5%A5%B3%E5%AD%90%E6%95%B8%E5%AD%B8%E5%A5%A7%E6%9E%97%E5%8C%B9%E4%BA%9E%E9%81%B8%E8%A8%93%E5%8F%8A%E5%8F%83%E8%B3%BD%E8%A8%88%E7%95%AB%E3%80%8D.pdf"
+      }
+    ],
+    "registration": "https://tpmso.org/tmo/index.php/signup/"
+  },
+  "found_via": [
+    {
+      "name": "苗栗高中 學生校外營隊、活動、比賽",
+      "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=27797"
+    },
+    {
+      "name": "大里高中 校外活動與競賽",
+      "url": "https://dlsh.tc.edu.tw/p/406-1068-628345,r2145.php"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-26",
+    "method": "single",
+    "unread": [
+      "報名表",
+      "聯絡人認證表"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-26",
+  "level": "checked",
+  "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-egmo-selection/",
+  "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-egmo-selection.md"
+}

@@ -1,0 +1,201 @@
+{
+  "schema": 1,
+  "id": "2026-k12ea-career-qa-video",
+  "title": "115年度生涯導航Q&A短影音創作比賽",
+  "edition": "115 年度",
+  "summary": "高中職學生個人或組隊，依學生生涯輔導網指定的生涯導航Q&A選題創作短影音。",
+  "organizers": [
+    {
+      "name": "教育部國民及學前教育署",
+      "role": "主辦"
+    },
+    {
+      "name": "國立中興大學附屬高級中學",
+      "role": "承辦"
+    }
+  ],
+  "categories": [
+    "影音"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職"
+    ],
+    "division": "hs_only",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": 3,
+    "teacher": "optional",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33523/%E3%80%8C115%E5%B9%B4%E5%BA%A6%E7%94%9F%E6%B6%AF%E5%B0%8E%E8%88%AAQ_A%E7%9F%AD%E5%BD%B1%E9%9F%B3%E5%89%B5%E4%BD%9C%E6%AF%94%E8%B3%BD%E3%80%8D.1.pdf",
+        "quote": "報名時為全國高級中等學校具學籍學生，需檢附學籍證明文件（學生證等）。"
+      },
+      {
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33523/%E3%80%8C115%E5%B9%B4%E5%BA%A6%E7%94%9F%E6%B6%AF%E5%B0%8E%E8%88%AAQ_A%E7%9F%AD%E5%BD%B1%E9%9F%B3%E5%89%B5%E4%BD%9C%E6%AF%94%E8%B3%BD%E3%80%8D.1.pdf",
+        "quote": "得以個人或團體名義參賽，團體人數不得超過3 人；以團隊名義參賽，每隊需推派1 名團隊代表人。"
+      },
+      {
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33523/%E3%80%8C115%E5%B9%B4%E5%BA%A6%E7%94%9F%E6%B6%AF%E5%B0%8E%E8%88%AAQ_A%E7%9F%AD%E5%BD%B1%E9%9F%B3%E5%89%B5%E4%BD%9C%E6%AF%94%E8%B3%BD%E3%80%8D.1.pdf",
+        "quote": "每件作品得列指導教師1 名（指導教師不計入成員人數中，無指導教師亦可）。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "線上報名、上傳作品及郵寄紙本報名資料截止（以郵戳為憑）",
+      "date": "2026-11-02",
+      "time": "23:59",
+      "original": "115 年11 月2 日（星期一）23 時59 分前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33523/%E3%80%8C115%E5%B9%B4%E5%BA%A6%E7%94%9F%E6%B6%AF%E5%B0%8E%E8%88%AAQ_A%E7%9F%AD%E5%BD%B1%E9%9F%B3%E5%89%B5%E4%BD%9C%E6%AF%94%E8%B3%BD%E3%80%8D.1.pdf",
+          "quote": "報名方式：請於115 年11 月2 日（星期一）23 時59 分前完成線上報名、上傳參賽作品（採mp4 格式上傳）並郵寄紙本報名資料（以郵戳為憑）。"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "得獎名單公布於學生生涯輔導網（12 月底前）",
+      "date": null,
+      "time": null,
+      "original": "115 年12 月底前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33523/%E3%80%8C115%E5%B9%B4%E5%BA%A6%E7%94%9F%E6%B6%AF%E5%B0%8E%E8%88%AAQ_A%E7%9F%AD%E5%BD%B1%E9%9F%B3%E5%89%B5%E4%BD%9C%E6%AF%94%E8%B3%BD%E3%80%8D.1.pdf",
+          "quote": "得獎名單公布日期：將於115 年12 月底前公告於學生生涯輔導網"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名",
+      "what": "30 至 90 秒 mp4 短影音，解析度 1080P 以上、含繁體中文字幕及配音旁白、500MB 內，就附件一選題擇一類一題",
+      "how": "online"
+    },
+    {
+      "stage": "報名",
+      "what": "紙本報名表（含創作理念說明與生成式 AI 運用揭露）、學籍證明、著作權授權同意書、個人資料同意書、肖像授權同意書等",
+      "how": "mail"
+    }
+  ],
+  "attendance": {
+    "value": "none",
+    "where": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33523/%E3%80%8C115%E5%B9%B4%E5%BA%A6%E7%94%9F%E6%B6%AF%E5%B0%8E%E8%88%AAQ_A%E7%9F%AD%E5%BD%B1%E9%9F%B3%E5%89%B5%E4%BD%9C%E6%AF%94%E8%B3%BD%E3%80%8D.1.pdf"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33523/%E3%80%8C115%E5%B9%B4%E5%BA%A6%E7%94%9F%E6%B6%AF%E5%B0%8E%E8%88%AAQ_A%E7%9F%AD%E5%BD%B1%E9%9F%B3%E5%89%B5%E4%BD%9C%E6%AF%94%E8%B3%BD%E3%80%8D.1.pdf"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "特優 1 件新臺幣 12,000 元、優等 3 件各 6,000 元、佳作 11 件各 2,000 元；得獎者及指導教師各頒獎狀，不另行敘獎。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33523/%E3%80%8C115%E5%B9%B4%E5%BA%A6%E7%94%9F%E6%B6%AF%E5%B0%8E%E8%88%AAQ_A%E7%9F%AD%E5%BD%B1%E9%9F%B3%E5%89%B5%E4%BD%9C%E6%AF%94%E8%B3%BD%E3%80%8D.1.pdf",
+        "quote": "特優：1 件，獲獎作品頒發新臺幣12,000 元。"
+      },
+      {
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33523/%E3%80%8C115%E5%B9%B4%E5%BA%A6%E7%94%9F%E6%B6%AF%E5%B0%8E%E8%88%AAQ_A%E7%9F%AD%E5%BD%B1%E9%9F%B3%E5%89%B5%E4%BD%9C%E6%AF%94%E8%B3%BD%E3%80%8D.1.pdf",
+        "quote": "優等：共3 件，每件作品頒發新臺幣6,000 元。"
+      },
+      {
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33523/%E3%80%8C115%E5%B9%B4%E5%BA%A6%E7%94%9F%E6%B6%AF%E5%B0%8E%E8%88%AAQ_A%E7%9F%AD%E5%BD%B1%E9%9F%B3%E5%89%B5%E4%BD%9C%E6%AF%94%E8%B3%BD%E3%80%8D.1.pdf",
+        "quote": "佳作：共11 件，每件作品頒發新臺幣2,000 元。"
+      },
+      {
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33523/%E3%80%8C115%E5%B9%B4%E5%BA%A6%E7%94%9F%E6%B6%AF%E5%B0%8E%E8%88%AAQ_A%E7%9F%AD%E5%BD%B1%E9%9F%B3%E5%89%B5%E4%BD%9C%E6%AF%94%E8%B3%BD%E3%80%8D.1.pdf",
+        "quote": "各獎項得獎者將頒發每位參賽者（及指導教師）獎狀乙幀，本比賽不另行敘獎。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "restricted",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33523/%E3%80%8C115%E5%B9%B4%E5%BA%A6%E7%94%9F%E6%B6%AF%E5%B0%8E%E8%88%AAQ_A%E7%9F%AD%E5%BD%B1%E9%9F%B3%E5%89%B5%E4%BD%9C%E6%AF%94%E8%B3%BD%E3%80%8D.1.pdf",
+        "quote": "參賽者得運用生成式AI 作為輔助工具，協助生成圖片、插畫、背景、音樂、音效、字型或其他影片素材"
+      },
+      {
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33523/%E3%80%8C115%E5%B9%B4%E5%BA%A6%E7%94%9F%E6%B6%AF%E5%B0%8E%E8%88%AAQ_A%E7%9F%AD%E5%BD%B1%E9%9F%B3%E5%89%B5%E4%BD%9C%E6%AF%94%E8%B3%BD%E3%80%8D.1.pdf",
+        "quote": "劇情設計、分鏡安排、整體影片生成，亦不得使用生成式AI 一鍵式直接完成影片剪輯、畫面編排、動態生成或其他足以大幅取代實際創作歷程之操作。"
+      },
+      {
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33523/%E3%80%8C115%E5%B9%B4%E5%BA%A6%E7%94%9F%E6%B6%AF%E5%B0%8E%E8%88%AAQ_A%E7%9F%AD%E5%BD%B1%E9%9F%B3%E5%89%B5%E4%BD%9C%E6%AF%94%E8%B3%BD%E3%80%8D.1.pdf",
+        "quote": "如於作品創作過程中使用生成式AI 工具，須詳實填寫使用工具名稱、使用用途、應用範圍等，以供主辦/承辦單位審查。"
+      }
+    ]
+  },
+  "links": {
+    "official": null,
+    "rules": [
+      {
+        "title": "實施計畫（含選題與報名表件）",
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33523/%E3%80%8C115%E5%B9%B4%E5%BA%A6%E7%94%9F%E6%B6%AF%E5%B0%8E%E8%88%AAQ_A%E7%9F%AD%E5%BD%B1%E9%9F%B3%E5%89%B5%E4%BD%9C%E6%AF%94%E8%B3%BD%E3%80%8D.1.pdf"
+      },
+      {
+        "title": "國教署公文",
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33523/%E3%80%8C115%E5%B9%B4%E5%BA%A6%E7%94%9F%E6%B6%AF%E5%B0%8E%E8%88%AAQ_A%E7%9F%AD%E5%BD%B1%E9%9F%B3%E5%89%B5%E4%BD%9C%E6%AF%94%E8%B3%BD%E3%80%8D.pdf"
+      }
+    ],
+    "registration": "https://forms.gle/FsBsjfCyvBQCbv7D9"
+  },
+  "found_via": [
+    {
+      "name": "苗栗高中 學生校外營隊、活動、比賽",
+      "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=27864"
+    },
+    {
+      "name": "成功高中 活動競賽",
+      "url": "https://www.cksh.tp.edu.tw/news/%e3%80%90%e8%bd%89%e7%9f%a5%e3%80%91-%e6%95%99%e8%82%b2%e9%83%a8%e5%9c%8b%e6%b0%91%e5%8f%8a%e5%ad%b8%e5%89%8d%e6%95%99%e8%82%b2%e7%bd%b2%e3%80%8c115%e5%b9%b4%e5%ba%a6%e7%94%9f%e6%b6%af%e5%b0%8e/"
+    },
+    {
+      "name": "金門高中 最新消息",
+      "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=22007"
+    },
+    {
+      "name": "暨大附中 學生研習與競賽活動",
+      "url": "https://www.pshs.ntct.edu.tw/ischool/public/news_view/show.php?nid=33523"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-26",
+    "method": "single",
+    "unread": [
+      "附件五個人資料蒐集、處理及利用同意書",
+      "附件六肖像授權同意書",
+      "附件七利用他人著作或權利之授權證明"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-26",
+  "level": "checked",
+  "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-k12ea-career-qa-video/",
+  "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-k12ea-career-qa-video.md"
+}

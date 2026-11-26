@@ -1,0 +1,220 @@
+{
+  "schema": 1,
+  "id": "2026-twicho-preliminary",
+  "title": "中華民國參加2027年第59屆國際化學奧林匹亞競賽初選考試",
+  "edition": "2027 第59屆",
+  "summary": "高級中等學校學生參加化學筆試，作為國際化學奧林匹亞國家代表隊選拔的全國初選。",
+  "organizers": [
+    {
+      "name": "教育部",
+      "role": "主辦"
+    },
+    {
+      "name": "國立臺灣師範大學化學系",
+      "role": "承辦"
+    }
+  ],
+  "categories": [
+    "自然科學"
+  ],
+  "eligibility": {
+    "levels": [
+      "國中",
+      "高中",
+      "高職"
+    ],
+    "division": "mixed",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": null,
+    "team_max": null,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://tpmso.k12ea.gov.tw/twicho/index.php/2026/09/11/8190/",
+        "quote": "民國96年7月1日(含)以後出生(20歲以下)。"
+      },
+      {
+        "url": "https://tpmso.k12ea.gov.tw/twicho/index.php/2026/09/11/8190/",
+        "quote": "為我國高級中等學校在學學生(高中生)。"
+      },
+      {
+        "url": "https://tpmso.k12ea.gov.tw/twicho/index.php/2026/09/11/8190/",
+        "quote": "國中生報名者，除符合上述第１點及第２點資格外，需為我國國民中學在學學生，並錄取國中科奧選訓營且完成選訓"
+      },
+      {
+        "url": "https://dlsh.tc.edu.tw/p/406-1068-633092,r2145.php",
+        "quote": "二、 初選考試報名資格 (符合下述條件者，得向就讀學校自由報名)："
+      },
+      {
+        "url": "https://tpmso.k12ea.gov.tw/twicho/index.php/2026/09/11/8190/",
+        "quote": "三、統一由學校協助集體報名，不接受個人報名。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "全國初選報名截止（由學校統一報名）",
+      "date": "2026-10-12",
+      "time": "17:00",
+      "original": "自115年9月15日(星期二)上午9時起至115年10月12日下午5時止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://tpmso.k12ea.gov.tw/twicho/index.php/2026/09/11/8190/",
+          "quote": "二、報名日期：自115年9月15日(星期二)上午9時起至115年10月12日下午5時止。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "第一階段全國初選筆試",
+      "date": "2026-11-14",
+      "time": "14:00",
+      "original": "115年11月14日(星期六)下午2:00-4:00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://tpmso.k12ea.gov.tw/twicho/index.php/2026/09/11/8190/",
+          "quote": "全國初選日期訂於115年11月14日(星期六)下午2:00-4:00"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "第二階段冬令營（選訓決賽營）開始",
+      "date": "2027-01-25",
+      "time": null,
+      "original": "116年1月25日~2月3日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://tpmso.k12ea.gov.tw/twicho/",
+          "quote": "第二階段冬令營(選訓決賽營)：116年1月25日~2月3日"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "第三階段複選筆試（暫訂）",
+      "date": "2027-04-10",
+      "time": null,
+      "original": "2027年4月10日(暫訂)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://tpmso.k12ea.gov.tw/twicho/index.php/timeline/",
+          "quote": "2027年4月10日(暫訂)"
+        },
+        {
+          "url": "https://tpmso.k12ea.gov.tw/twicho/index.php/timeline/",
+          "quote": "第59屆複選筆試"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "全國初選",
+      "what": "2 小時化學筆試，範圍以高中化學科內容為基礎，選擇題劃記答案卡並另有答案卷",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "全國分區考場（臺北建國中學、桃園武陵高中、臺中一中、嘉義高中、臺南一中、高雄中學、宜蘭高中、花蓮高中、馬公高中等）",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://tpmso.k12ea.gov.tw/twicho/index.php/2026/09/11/8190/",
+        "quote": "全國初選日期訂於115年11月14日(星期六)下午2:00-4:00"
+      },
+      {
+        "url": "https://dlsh.tc.edu.tw/p/406-1068-633092,r2145.php",
+        "quote": "六、 全國分10個考區同時舉行，如列：臺北考區：建國中學及師大公館校區、桃竹苗考區：武陵高中、中彰投考區：臺中一中、雲嘉考區：嘉義高中、臺南考區：臺南一中、高雄考區：高雄中學、宜蘭考區：宜蘭高中、花蓮考區：花蓮高中、澎湖考區：馬公高中。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.hgsh.hc.edu.tw/news/2027%e5%b9%b4%e7%ac%ac59%e5%b1%86%e5%9c%8b%e9%9a%9b%e5%8c%96%e5%ad%b8%e5%a5%a7%e6%9e%97%e5%8c%b9%e4%ba%9e%e7%ab%b6%e8%b3%bd%e5%88%9d%e8%b3%bd-%e6%a0%a1%e5%85%a7%e5%9c%98%e9%ab%94%e5%a0%b1%e5%90%8d/",
+        "quote": "本測驗由教育部全額補助，為避免浪費資源，請報名者，務必自行前往應試。"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "初選成績居前 30% 者頒發成績優良證書；第二階段冬令營錄取 54 人（含化學科能力競賽一、二等獎）。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://dlsh.tc.edu.tw/p/406-1068-633092,r2145.php",
+        "quote": "七、 初選成績居前30%者，將頒發成績優良證書。"
+      },
+      {
+        "url": "https://tpmso.k12ea.gov.tw/twicho/index.php/timeline/",
+        "quote": "錄取54人(含化學科能力競賽一、二等獎)"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://tpmso.k12ea.gov.tw/twicho/index.php/2026/09/11/8190/"
+      },
+      {
+        "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=UmgyZjQzUmFSUERoMGtTaGxBVmlWaDM5TVMwdGF0V2ROQ05SN0tuNjNsTmJ0TzNwYkluTzJoaHV3amhWWnlRcnNFbGltWDFwWUNVSU15SG41amRmcmZPekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=NmVrQXRkNURhYy9lTnhQNmQ0VFBlVExwd1ZWdDFtM3JqZkFuQ1RkeGwxWT0="
+      },
+      {
+        "url": "https://tpmso.k12ea.gov.tw/twicho/index.php/2026/10/06/8269/"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://tpmso.k12ea.gov.tw/twicho/index.php/2026/09/11/8190/",
+    "rules": [
+      {
+        "title": "初選考試相關資訊公文（PDF）",
+        "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=UmgyZjQzUmFSUERoMGtTaGxBVmlWaDM5TVMwdGF0V2ROQ05SN0tuNjNsTmJ0TzNwYkluTzJoaHV3amhWWnlRcnNFbGltWDFwWUNVSU15SG41amRmcmZPekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=NmVrQXRkNURhYy9lTnhQNmQ0VFBlVExwd1ZWdDFtM3JqZkFuQ1RkeGwxWT0="
+      },
+      {
+        "title": "初選考生注意事項",
+        "url": "https://tpmso.k12ea.gov.tw/twicho/index.php/2026/10/06/8269/"
+      }
+    ],
+    "registration": null
+  },
+  "found_via": [
+    {
+      "name": "新竹女中 活動研習",
+      "url": "https://www.hgsh.hc.edu.tw/news/2027%e5%b9%b4%e7%ac%ac59%e5%b1%86%e5%9c%8b%e9%9a%9b%e5%8c%96%e5%ad%b8%e5%a5%a7%e6%9e%97%e5%8c%b9%e4%ba%9e%e7%ab%b6%e8%b3%bd%e5%88%9d%e8%b3%bd-%e6%a0%a1%e5%85%a7%e5%9c%98%e9%ab%94%e5%a0%b1%e5%90%8d/"
+    },
+    {
+      "name": "大里高中 校外活動與競賽",
+      "url": "https://dlsh.tc.edu.tw/p/406-1068-633092,r2145.php"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-26",
+    "method": "single",
+    "unread": [
+      "報名系統的報名表（步驟二）"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-26",
+  "conflict": "化奧官網「重要日程」頁列第三階段複選筆試為 2027 年 4 月 10 日（暫訂），官網首頁則寫「第三階段複選筆試：116年4月17日(暫訂)」。"
+}

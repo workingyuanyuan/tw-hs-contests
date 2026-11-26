@@ -1,0 +1,135 @@
+{
+  "schema": 1,
+  "id": "2026-national-olympiad-math-team",
+  "title": "第64屆全國奧林匹克數學團體競賽",
+  "edition": "第64屆",
+  "summary": "國小、國中至高中學生以團體形式參加數學競賽，比賽數學解題與團隊接力。",
+  "organizers": [
+    {
+      "name": "中華數學協會",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "數學"
+  ],
+  "eligibility": {
+    "levels": [
+      "國小",
+      "國中",
+      "高中"
+    ],
+    "division": "unknown",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "unknown",
+    "team_min": null,
+    "team_max": null,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/來文本文掃描_1150007177.pdf",
+        "quote": "本會為推廣國小、國中至高中之數學教育"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/來文本文掃描_1150007177.pdf",
+        "quote": "並透過團體競賽形式，促進邏輯思維、問題解決能力與團隊合作技巧。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "競賽報名截止",
+      "date": "2026-10-07",
+      "time": null,
+      "original": "115年10月7日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/來文本文掃描_1150007177.pdf",
+          "quote": "競賽報名期間為115年9月1日至115年10月7日"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "競賽",
+      "date": "2026-11-22",
+      "time": null,
+      "original": "115年11月22日(日)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/來文本文掃描_1150007177.pdf",
+          "quote": "謹訂於115年11月22日(日)舉辦「第64屆全國奧林匹克數學團體競賽」"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "競賽",
+      "what": "團體競賽作答，含規則與配分調整後的團隊接力賽",
+      "how": "unknown"
+    }
+  ],
+  "attendance": {
+    "value": "unknown",
+    "where": null,
+    "basis": "unread",
+    "evidence": []
+  },
+  "fee": {
+    "value": "unknown",
+    "amount": null,
+    "basis": "unread",
+    "evidence": []
+  },
+  "prizes": {
+    "text": "設獎學金，頒給表現傑出的學生。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/來文本文掃描_1150007177.pdf",
+        "quote": "本競賽特設獎學金制度，以回饋表現傑出之學生"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "unknown",
+    "basis": "unread",
+    "evidence": []
+  },
+  "links": {
+    "official": null,
+    "rules": [
+      {
+        "title": "中華數學協會競賽公文",
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/來文本文掃描_1150007177.pdf"
+      }
+    ],
+    "registration": null
+  },
+  "found_via": [
+    {
+      "name": "高師大附中 校外競賽與活動",
+      "url": "https://www.nknush.kh.edu.tw/announcement/high-school-news/19427/%e5%85%ac%e5%91%8a%e7%ac%ac-64-%e5%b1%86%e5%85%a8%e5%9c%8b%e5%a5%a7%e6%9e%97%e5%8c%b9%e5%85%8b%e6%95%b8%e5%ad%b8%e5%9c%98%e9%ab%94%e7%ab%b6%e8%b3%bd%e8%a8%ad%e5%82%99%e7%b5%84/"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-26",
+    "method": "single",
+    "unread": [
+      "「第64屆全國奧林匹克數學團體競賽」競賽相關文宣（活動簡章及相關資料）"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-26"
+}

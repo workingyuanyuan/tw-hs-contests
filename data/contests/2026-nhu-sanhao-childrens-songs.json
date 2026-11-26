@@ -1,0 +1,188 @@
+{
+  "schema": 1,
+  "id": "2026-nhu-sanhao-childrens-songs",
+  "title": "2026三好兒歌創作大賽",
+  "edition": "2026",
+  "summary": "高中職與大專學生個人或團體創作適合 3 至 6 歲幼兒演唱、呼應三好精神與生命教育的原創兒歌。",
+  "organizers": [
+    {
+      "name": "南華大學民族音樂學系",
+      "role": "主辦"
+    },
+    {
+      "name": "雲水書車歡樂趴趴走-提升偏鄉幼兒多元感官學習計畫",
+      "role": "協辦"
+    },
+    {
+      "name": "南華大學幼兒教育學系",
+      "role": "協辦"
+    },
+    {
+      "name": "南華大學產品與室內設計學系",
+      "role": "協辦"
+    },
+    {
+      "name": "南華大學生命教育中心",
+      "role": "協辦"
+    },
+    {
+      "name": "南華大學藝術文化研究中心",
+      "role": "協辦"
+    }
+  ],
+  "categories": [
+    "音樂"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職",
+      "大專"
+    ],
+    "division": "mixed",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": null,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://sites.google.com/nhu.edu.tw/child-songs?usp=sharing",
+        "quote": "高中職及大專院校在學學生（報名截止時仍具有此學生身份）"
+      },
+      {
+        "url": "https://sites.google.com/nhu.edu.tw/child-songs?usp=sharing",
+        "quote": "個人或團體皆可參賽"
+      },
+      {
+        "url": "https://sites.google.com/nhu.edu.tw/child-songs?usp=sharing",
+        "quote": "每位／組參賽者最多可提交 2 首作品（但同一參賽者僅能獲得一個獎項）"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "報名及作品收件截止",
+      "date": "2026-09-20",
+      "time": null,
+      "original": "中華民國115年9月20日止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://sites.google.com/nhu.edu.tw/child-songs?usp=sharing",
+          "quote": "報名日期：即日起至中華民國115年9月20日止"
+        },
+        {
+          "url": "https://www.ntsh.ntct.edu.tw/ischool/public/news_view/show.php?nid=22555",
+          "quote": "(二) 收件日期：中華民國115年9月20日止，採網路報名"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名",
+      "what": "線上報名表單",
+      "how": "online"
+    },
+    {
+      "stage": "報名",
+      "what": "音樂檔案（MP3 或 WAV，清唱或伴奏版本，建議 30 秒至 2 分鐘）、含歌詞的樂譜或簡譜、100 至 300 字創作理念說明；非中文歌詞須附中文翻譯，作品依檔名格式上傳雲端",
+      "how": "online"
+    }
+  ],
+  "attendance": {
+    "value": "none",
+    "where": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://sites.google.com/nhu.edu.tw/child-songs?usp=sharing"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://sites.google.com/nhu.edu.tw/child-songs?usp=sharing"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "首獎 1 名獎金 10,000 元、二獎 1 名 8,000 元、三獎 1 名 6,000 元、佳作 10 名各 1,500 元，皆附獎狀；同一參賽者僅能獲得一個獎項。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://sites.google.com/nhu.edu.tw/child-songs?usp=sharing",
+        "quote": "首獎（1名）：獎金 10,000 元 + 獎狀乙紙"
+      },
+      {
+        "url": "https://sites.google.com/nhu.edu.tw/child-songs?usp=sharing",
+        "quote": "二獎（1名）：獎金 8,000 元 + 獎狀乙紙"
+      },
+      {
+        "url": "https://sites.google.com/nhu.edu.tw/child-songs?usp=sharing",
+        "quote": "三獎（1名）：獎金 6,000 元 + 獎狀乙紙"
+      },
+      {
+        "url": "https://sites.google.com/nhu.edu.tw/child-songs?usp=sharing",
+        "quote": "佳作（10名）：獎金 1,500 元 +獎狀乙紙"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "allowed",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://sites.google.com/nhu.edu.tw/child-songs?usp=sharing",
+        "quote": "6、可使用AI協助創作內容，並在報名表欄位內標註說明。"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://sites.google.com/nhu.edu.tw/child-songs?usp=sharing",
+    "rules": [
+      {
+        "title": "簡章 PDF",
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/news/attached/26152/1150006485.pdf"
+      }
+    ],
+    "registration": "https://forms.gle/G4Gn54M7exvZzYEC8"
+  },
+  "found_via": [
+    {
+      "name": "苗栗農工 處室公告",
+      "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26152"
+    },
+    {
+      "name": "南港高工 重要資訊",
+      "url": "https://www.nkhs.tp.edu.tw/ischool/public/news_view/show.php?nid=34376"
+    },
+    {
+      "name": "南投高中 最新消息",
+      "url": "https://www.ntsh.ntct.edu.tw/ischool/public/news_view/show.php?nid=22555"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-26",
+    "method": "single",
+    "unread": [
+      "簡章 PDF（1150006485.pdf）",
+      "文宣圖檔（1150006485_1.png）"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-26"
+}

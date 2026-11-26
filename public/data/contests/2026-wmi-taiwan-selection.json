@@ -1,0 +1,330 @@
+{
+  "schema": 1,
+  "id": "2026-wmi-taiwan-selection",
+  "title": "2027 WMI世界數學邀請賽-臺灣選拔賽",
+  "edition": "2027",
+  "summary": "幼兒園至高三學生依年級分組應考數學試卷，金銀銅獎得主獲邀參加 WMI 世界總決賽。",
+  "organizers": [
+    {
+      "name": "WMI Organizing Committee",
+      "role": "主辦"
+    },
+    {
+      "name": "社團法人中華笑傲學林親職輔導學會",
+      "role": "承辦"
+    },
+    {
+      "name": "中華數學協會",
+      "role": "承辦"
+    },
+    {
+      "name": "奧林匹克資優教育基金會",
+      "role": "承辦"
+    },
+    {
+      "name": "新竹縣政府教育局",
+      "role": "指導"
+    },
+    {
+      "name": "新竹市政府教育處",
+      "role": "指導"
+    }
+  ],
+  "categories": [
+    "數學"
+  ],
+  "eligibility": {
+    "levels": [
+      "國小",
+      "國中",
+      "高中",
+      "高職"
+    ],
+    "division": "separate",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": null,
+    "team_max": null,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26262/%E3%80%8C2027_WMI%E4%B8%96%E7%95%8C%E6%95%B8%E5%AD%B8%E9%82%80%E8%AB%8B%E8%B3%BD-%E8%87%BA%E7%81%A3%E9%81%B8%E6%8B%94%E8%B3%BD%E3%80%8D%E6%B4%BB%E5%8B%95%E8%A8%88%E7%95%AB%E6%9B%B8.pdf",
+        "quote": "全國各縣市之公私立各級學校（幼兒園、國小、國中、高中）及職業學校在學生。"
+      },
+      {
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26334",
+        "quote": "報名對象為全台 公私立幼兒園至高中三年級之我國籍學生。"
+      },
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26262/%E3%80%8C2027_WMI%E4%B8%96%E7%95%8C%E6%95%B8%E5%AD%B8%E9%82%80%E8%AB%8B%E8%B3%BD-%E8%87%BA%E7%81%A3%E9%81%B8%E6%8B%94%E8%B3%BD%E3%80%8D%E6%B4%BB%E5%8B%95%E8%A8%88%E7%95%AB%E6%9B%B8.pdf",
+        "quote": "評獎方式以全國參賽學生共同進行分級評獎"
+      },
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26262/%E3%80%8C2027_WMI%E4%B8%96%E7%95%8C%E6%95%B8%E5%AD%B8%E9%82%80%E8%AB%8B%E8%B3%BD-%E8%87%BA%E7%81%A3%E9%81%B8%E6%8B%94%E8%B3%BD%E3%80%8D%E6%B5%B7%E5%A0%B12.pdf",
+        "quote": "幼兒組～高中三年級組 可越級参加"
+      },
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26262/%E3%80%8C2027_WMI%E4%B8%96%E7%95%8C%E6%95%B8%E5%AD%B8%E9%82%80%E8%AB%8B%E8%B3%BD-%E8%87%BA%E7%81%A3%E9%81%B8%E6%8B%94%E8%B3%BD%E3%80%8D%E6%B4%BB%E5%8B%95%E8%A8%88%E7%95%AB%E6%9B%B8.pdf",
+        "quote": "註冊互聯網→報名競賽(WMI)→繳費→完成報名"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "other",
+      "label": "開放報名",
+      "date": "2026-08-21",
+      "time": null,
+      "original": "8/21",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26262/%E3%80%8C2027_WMI%E4%B8%96%E7%95%8C%E6%95%B8%E5%AD%B8%E9%82%80%E8%AB%8B%E8%B3%BD-%E8%87%BA%E7%81%A3%E9%81%B8%E6%8B%94%E8%B3%BD%E3%80%8D%E6%B4%BB%E5%8B%95%E8%A8%88%E7%95%AB%E6%9B%B8.pdf",
+          "quote": "8/21 開放報名。"
+        }
+      ]
+    },
+    {
+      "kind": "registration_deadline",
+      "label": "報名截止（網路報名或紙本報名）",
+      "date": "2026-12-01",
+      "time": null,
+      "original": "2026 年12 月1 日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26262/%E3%80%8C2027_WMI%E4%B8%96%E7%95%8C%E6%95%B8%E5%AD%B8%E9%82%80%E8%AB%8B%E8%B3%BD-%E8%87%BA%E7%81%A3%E9%81%B8%E6%8B%94%E8%B3%BD%E3%80%8D%E6%B4%BB%E5%8B%95%E8%A8%88%E7%95%AB%E6%9B%B8.pdf",
+          "quote": "務必於2026 年12 月1 日前，完成所有報名手續。"
+        },
+        {
+          "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26262/%E3%80%8C2027_WMI%E4%B8%96%E7%95%8C%E6%95%B8%E5%AD%B8%E9%82%80%E8%AB%8B%E8%B3%BD-%E8%87%BA%E7%81%A3%E9%81%B8%E6%8B%94%E8%B3%BD%E3%80%8D%E6%B4%BB%E5%8B%95%E8%A8%88%E7%95%AB%E6%9B%B8.pdf",
+          "quote": "12/1 報名截止，請於截止日前完成網路報名或紙本報名。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "上網確認報名資料，修改報名資料期限",
+      "date": "2026-12-08",
+      "time": null,
+      "original": "12/8 前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26262/%E3%80%8C2027_WMI%E4%B8%96%E7%95%8C%E6%95%B8%E5%AD%B8%E9%82%80%E8%AB%8B%E8%B3%BD-%E8%87%BA%E7%81%A3%E9%81%B8%E6%8B%94%E8%B3%BD%E3%80%8D%E6%B4%BB%E5%8B%95%E8%A8%88%E7%95%AB%E6%9B%B8.pdf",
+          "quote": "12/8 前 上網確認報名資料。 (欲修改報名資料者，請於時限前提出，逾期恕不受理)"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "開放查詢准考證號及列印准考證",
+      "date": "2026-12-24",
+      "time": "14:00",
+      "original": "12/24 起 下午2 點後",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26262/%E3%80%8C2027_WMI%E4%B8%96%E7%95%8C%E6%95%B8%E5%AD%B8%E9%82%80%E8%AB%8B%E8%B3%BD-%E8%87%BA%E7%81%A3%E9%81%B8%E6%8B%94%E8%B3%BD%E3%80%8D%E6%B4%BB%E5%8B%95%E8%A8%88%E7%95%AB%E6%9B%B8.pdf",
+          "quote": "12/24 起 下午2 點後，可於學習互聯網查詢准考證號及列印准考證"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "臺灣選拔賽（報到）",
+      "date": "2027-01-03",
+      "time": "09:30",
+      "original": "2027 年01 月03 日(日)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26262/%E3%80%8C2027_WMI%E4%B8%96%E7%95%8C%E6%95%B8%E5%AD%B8%E9%82%80%E8%AB%8B%E8%B3%BD-%E8%87%BA%E7%81%A3%E9%81%B8%E6%8B%94%E8%B3%BD%E3%80%8D%E6%B4%BB%E5%8B%95%E8%A8%88%E7%95%AB%E6%9B%B8.pdf",
+          "quote": "2027 年01 月03 日(日)"
+        },
+        {
+          "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26262/%E3%80%8C2027_WMI%E4%B8%96%E7%95%8C%E6%95%B8%E5%AD%B8%E9%82%80%E8%AB%8B%E8%B3%BD-%E8%87%BA%E7%81%A3%E9%81%B8%E6%8B%94%E8%B3%BD%E3%80%8D%E6%B4%BB%E5%8B%95%E8%A8%88%E7%95%AB%E6%9B%B8.pdf",
+          "quote": "9:30-10:00 報到"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "查詢成績、排名及獎項",
+      "date": "2027-02-03",
+      "time": "16:00",
+      "original": "2027/2/3 下午4 點後",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26262/%E3%80%8C2027_WMI%E4%B8%96%E7%95%8C%E6%95%B8%E5%AD%B8%E9%82%80%E8%AB%8B%E8%B3%BD-%E8%87%BA%E7%81%A3%E9%81%B8%E6%8B%94%E8%B3%BD%E3%80%8D%E6%B4%BB%E5%8B%95%E8%A8%88%E7%95%AB%E6%9B%B8.pdf",
+          "quote": "2027/2/3 下午4 點後，查詢成績、排名及獎項。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "陸續寄發獎項",
+      "date": "2027-02-22",
+      "time": null,
+      "original": "2027/2/22 起",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26262/%E3%80%8C2027_WMI%E4%B8%96%E7%95%8C%E6%95%B8%E5%AD%B8%E9%82%80%E8%AB%8B%E8%B3%BD-%E8%87%BA%E7%81%A3%E9%81%B8%E6%8B%94%E8%B3%BD%E3%80%8D%E6%B4%BB%E5%8B%95%E8%A8%88%E7%95%AB%E6%9B%B8.pdf",
+          "quote": "2027/2/22 起 陸續寄發獎項。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "選拔賽",
+      "what": "第一試 Logical Reasoning、第二試 Applications，皆為單選題，各 40 分鐘",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "臺北、新北、桃園、新竹、臺中、彰化、嘉義、雲林、臺南、高雄、屏東、臺東、花蓮各考區，考生到所屬報名考區應考",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26262/%E3%80%8C2027_WMI%E4%B8%96%E7%95%8C%E6%95%B8%E5%AD%B8%E9%82%80%E8%AB%8B%E8%B3%BD-%E8%87%BA%E7%81%A3%E9%81%B8%E6%8B%94%E8%B3%BD%E3%80%8D%E6%B4%BB%E5%8B%95%E8%A8%88%E7%95%AB%E6%9B%B8.pdf",
+        "quote": "臺北(11)、新北(22)、桃園(30)、新竹(31) 臺中(41)、彰化(51) 嘉義(61)、雲林(63)、臺南(71)、高雄(81)、屏東(91) 臺東(95)、花蓮(97)"
+      },
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26262/%E3%80%8C2027_WMI%E4%B8%96%E7%95%8C%E6%95%B8%E5%AD%B8%E9%82%80%E8%AB%8B%E8%B3%BD-%E8%87%BA%E7%81%A3%E9%81%B8%E6%8B%94%E8%B3%BD%E3%80%8D%E6%B5%B7%E5%A0%B12.pdf",
+        "quote": "(3)報名完成後，請考生至所屬報名考區參加考試，不得跨區。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "required",
+    "amount": "1,000 元",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26262/%E3%80%8C2027_WMI%E4%B8%96%E7%95%8C%E6%95%B8%E5%AD%B8%E9%82%80%E8%AB%8B%E8%B3%BD-%E8%87%BA%E7%81%A3%E9%81%B8%E6%8B%94%E8%B3%BD%E3%80%8D%E6%B4%BB%E5%8B%95%E8%A8%88%E7%95%AB%E6%9B%B8.pdf",
+        "quote": "報名費用 1,000 元"
+      },
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26262/%E3%80%8C2027_WMI%E4%B8%96%E7%95%8C%E6%95%B8%E5%AD%B8%E9%82%80%E8%AB%8B%E8%B3%BD-%E8%87%BA%E7%81%A3%E9%81%B8%E6%8B%94%E8%B3%BD%E3%80%8D%E6%B5%B7%E5%A0%B12.pdf",
+        "quote": "完成報名手續後恕不退費"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "依年級分級評獎：各年級前三名加頒獎盃；金獎（10%）頒獎牌及國際證書，銀獎（20%）頒國際證書，另設銅獎（20%）、優異獎（25%）、參加獎（25%）；金、銀、銅獎得主有資格受邀參加 7 月 WMI 世界總決賽。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26262/%E3%80%8C2027_WMI%E4%B8%96%E7%95%8C%E6%95%B8%E5%AD%B8%E9%82%80%E8%AB%8B%E8%B3%BD-%E8%87%BA%E7%81%A3%E9%81%B8%E6%8B%94%E8%B3%BD%E3%80%8D%E6%B4%BB%E5%8B%95%E8%A8%88%E7%95%AB%E6%9B%B8.pdf",
+        "quote": "各年級前三名 加頒獎盃乙座"
+      },
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26262/%E3%80%8C2027_WMI%E4%B8%96%E7%95%8C%E6%95%B8%E5%AD%B8%E9%82%80%E8%AB%8B%E8%B3%BD-%E8%87%BA%E7%81%A3%E9%81%B8%E6%8B%94%E8%B3%BD%E3%80%8D%E6%B4%BB%E5%8B%95%E8%A8%88%E7%95%AB%E6%9B%B8.pdf",
+        "quote": "金獎(10%) 獎牌乙面 國際證書乙張"
+      },
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26262/%E3%80%8C2027_WMI%E4%B8%96%E7%95%8C%E6%95%B8%E5%AD%B8%E9%82%80%E8%AB%8B%E8%B3%BD-%E8%87%BA%E7%81%A3%E9%81%B8%E6%8B%94%E8%B3%BD%E3%80%8D%E6%B4%BB%E5%8B%95%E8%A8%88%E7%95%AB%E6%9B%B8.pdf",
+        "quote": "銀獎(20%) 國際證書乙張 銅獎(20%) 優異獎(25%) 參加獎(25%)"
+      },
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26262/%E3%80%8C2027_WMI%E4%B8%96%E7%95%8C%E6%95%B8%E5%AD%B8%E9%82%80%E8%AB%8B%E8%B3%BD-%E8%87%BA%E7%81%A3%E9%81%B8%E6%8B%94%E8%B3%BD%E3%80%8D%E6%B4%BB%E5%8B%95%E8%A8%88%E7%95%AB%E6%9B%B8.pdf",
+        "quote": "獲金銀銅獎的選手，有資格被邀請於七月參加WMI 世 界數學邀請賽總決賽。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26262/%E3%80%8C2027_WMI%E4%B8%96%E7%95%8C%E6%95%B8%E5%AD%B8%E9%82%80%E8%AB%8B%E8%B3%BD-%E8%87%BA%E7%81%A3%E9%81%B8%E6%8B%94%E8%B3%BD%E3%80%8D%E6%B4%BB%E5%8B%95%E8%A8%88%E7%95%AB%E6%9B%B8.pdf"
+      },
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26262/%E3%80%8C2027_WMI%E4%B8%96%E7%95%8C%E6%95%B8%E5%AD%B8%E9%82%80%E8%AB%8B%E8%B3%BD-%E8%87%BA%E7%81%A3%E9%81%B8%E6%8B%94%E8%B3%BD%E3%80%8D%E6%B5%B7%E5%A0%B1.pdf"
+      },
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26262/%E3%80%8C2027_WMI%E4%B8%96%E7%95%8C%E6%95%B8%E5%AD%B8%E9%82%80%E8%AB%8B%E8%B3%BD-%E8%87%BA%E7%81%A3%E9%81%B8%E6%8B%94%E8%B3%BD%E3%80%8D%E6%B5%B7%E5%A0%B12.pdf"
+      }
+    ]
+  },
+  "links": {
+    "official": null,
+    "rules": [
+      {
+        "title": "活動計畫書",
+        "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26262/%E3%80%8C2027_WMI%E4%B8%96%E7%95%8C%E6%95%B8%E5%AD%B8%E9%82%80%E8%AB%8B%E8%B3%BD-%E8%87%BA%E7%81%A3%E9%81%B8%E6%8B%94%E8%B3%BD%E3%80%8D%E6%B4%BB%E5%8B%95%E8%A8%88%E7%95%AB%E6%9B%B8.pdf"
+      },
+      {
+        "title": "海報",
+        "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26262/%E3%80%8C2027_WMI%E4%B8%96%E7%95%8C%E6%95%B8%E5%AD%B8%E9%82%80%E8%AB%8B%E8%B3%BD-%E8%87%BA%E7%81%A3%E9%81%B8%E6%8B%94%E8%B3%BD%E3%80%8D%E6%B5%B7%E5%A0%B1.pdf"
+      },
+      {
+        "title": "海報2（含紙本報名表）",
+        "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26262/%E3%80%8C2027_WMI%E4%B8%96%E7%95%8C%E6%95%B8%E5%AD%B8%E9%82%80%E8%AB%8B%E8%B3%BD-%E8%87%BA%E7%81%A3%E9%81%B8%E6%8B%94%E8%B3%BD%E3%80%8D%E6%B5%B7%E5%A0%B12.pdf"
+      }
+    ],
+    "registration": "https://www.vipolpcs.com/"
+  },
+  "found_via": [
+    {
+      "name": "斗六高中 營隊研習競賽",
+      "url": "https://www.tlsh.ylc.edu.tw/2026/09/15/66955/"
+    },
+    {
+      "name": "苗栗農工 處室公告",
+      "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26334"
+    },
+    {
+      "name": "新竹高商 消息公佈欄",
+      "url": "https://www.hccvs.hc.edu.tw/ischool/public/news_view/show.php?nid=26262"
+    },
+    {
+      "name": "西松高中 校外競賽公告",
+      "url": "https://www.hssh.tp.edu.tw/p/405-1000-52081,c540.php?Lang=zh-tw"
+    },
+    {
+      "name": "南投高中 最新消息",
+      "url": "https://www.ntsh.ntct.edu.tw/ischool/public/news_view/show.php?nid=22688"
+    },
+    {
+      "name": "武陵高中 校外競賽",
+      "url": "http://www.wlsh.tyc.edu.tw/p/406-1000-43212,r83.php?Lang=zh-tw"
+    },
+    {
+      "name": "苗栗高中 學生校外營隊、活動、比賽",
+      "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=27892"
+    },
+    {
+      "name": "獎金獵人 競賽平台",
+      "url": "https://bhuntr.com/tw/competitions/xmsycqqomr6xyhwk3r"
+    },
+    {
+      "name": "西松高中 校外競賽公告",
+      "url": "https://www.hssh.tp.edu.tw/p/405-1000-52081,c540.php"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-26",
+    "method": "single",
+    "unread": [
+      "團體報名模板 excel"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-26",
+  "conflict": "活動計畫書的競賽時程列第一試 10:00-10:40；海報2的考試流程列 09:50-09:55 規則說明、第一試 09:55-10:35。",
+  "level": "checked",
+  "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-wmi-taiwan-selection/",
+  "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-wmi-taiwan-selection.md"
+}

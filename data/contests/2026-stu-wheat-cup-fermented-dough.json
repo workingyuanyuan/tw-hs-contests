@@ -1,0 +1,158 @@
+{
+  "schema": 1,
+  "id": "2026-stu-wheat-cup-fermented-dough",
+  "title": "2026第二屆美麥盃中式發酵麵食競賽",
+  "edition": "第二屆",
+  "summary": "高中職學生與大專生、社會人士分組製作中式發酵麵食參賽。",
+  "organizers": [
+    {
+      "name": "樹德科技大學餐旅與烘焙管理系",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "餐旅",
+    "技藝與技能"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職",
+      "大專",
+      "社會人士"
+    ],
+    "division": "separate",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "unknown",
+    "team_min": null,
+    "team_max": null,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26297",
+        "quote": "高中(職)學生組：對中式發酵麵食有興趣之高中(職)在學學生。"
+      },
+      {
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26297",
+        "quote": "大專社會組：年滿18歲以上，就讀烘焙、餐飲、食品相關學系之大專在學生，與對中式麵食有興趣之社會人士、麵點師傅等從業人員。"
+      },
+      {
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26297",
+        "quote": "邀請全國餐飲與烘焙相關業者、社會人士、大專校院及高中職學生共同參與"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "線上報名截止",
+      "date": "2026-10-01",
+      "time": null,
+      "original": "115年10月1日（星期四）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26297",
+          "quote": "線上報名：即日起至115年10月1日（星期四）"
+        }
+      ]
+    },
+    {
+      "kind": "registration_deadline",
+      "label": "報名截止",
+      "date": "2026-10-15",
+      "time": null,
+      "original": "115年10月15日（星期四）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26297",
+          "quote": "報名日期：即日起至115年10月15日（星期四）"
+        }
+      ]
+    },
+    {
+      "kind": "shortlist_announcement",
+      "label": "決賽入圍名單公布",
+      "date": "2026-10-22",
+      "time": null,
+      "original": "115年10月22日（星期四）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26297",
+          "quote": "決賽入圍名單公布：115年10月22日（星期四）"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "決賽",
+      "date": "2026-11-07",
+      "time": null,
+      "original": "115年11月7日（星期六）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26297",
+          "quote": "決賽日期：115年11月7日（星期六）"
+        }
+      ]
+    }
+  ],
+  "deliverables": [],
+  "attendance": {
+    "value": "finalists",
+    "where": null,
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26297",
+        "quote": "決賽入圍名單公布：115年10月22日（星期四），決賽日期：115年11月7日（星期六）"
+      }
+    ]
+  },
+  "fee": {
+    "value": "unknown",
+    "amount": null,
+    "basis": "unread",
+    "evidence": []
+  },
+  "prizes": {
+    "text": null,
+    "basis": "unread",
+    "evidence": []
+  },
+  "ai_policy": {
+    "value": "unknown",
+    "basis": "unread",
+    "evidence": []
+  },
+  "links": {
+    "official": null,
+    "rules": [],
+    "registration": null
+  },
+  "found_via": [
+    {
+      "name": "苗栗農工 處室公告",
+      "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26297"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-26",
+    "method": "single",
+    "unread": [
+      "競賽簡章（公告附件）"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-26"
+}

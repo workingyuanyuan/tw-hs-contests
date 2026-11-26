@@ -1,0 +1,265 @@
+{
+  "schema": 1,
+  "id": "2026-frc-taipei-regional",
+  "title": "2027 FRC 機器人區域大賽 Taipei City Regional",
+  "edition": "2027",
+  "summary": "全國高中職以校為單位組隊，依 FRC 2027 賽季任務設計、製作並以程式控制工業規模機器人參賽。",
+  "organizers": [
+    {
+      "name": "臺北市政府教育局",
+      "role": "主辦"
+    },
+    {
+      "name": "臺北市立南港高級工業職業學校",
+      "role": "承辦"
+    },
+    {
+      "name": "臺北市立第一女子高級中學",
+      "role": "協辦"
+    },
+    {
+      "name": "臺北市立建國高級中學",
+      "role": "協辦"
+    }
+  ],
+  "categories": [
+    "工程與製造",
+    "資訊與 AI"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職"
+    ],
+    "division": "hs_only",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "school",
+    "team_min": 10,
+    "team_max": 30,
+    "teacher": "required",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.hgsh.hc.edu.tw/news/2027-frc%e6%a9%9f%e5%99%a8%e4%ba%ba%e5%8d%80%e5%9f%9f%e5%a4%a7%e8%b3%bd-new-taipei-city-regional-%e6%b4%bb%e5%8b%95/",
+        "quote": "１、全國公私立高級中等學校學生。"
+      },
+      {
+        "url": "https://www.hgsh.hc.edu.tw/news/2027-frc%e6%a9%9f%e5%99%a8%e4%ba%ba%e5%8d%80%e5%9f%9f%e5%a4%a7%e8%b3%bd-new-taipei-city-regional-%e6%b4%bb%e5%8b%95/",
+        "quote": "２、以校為單位組隊，每隊至少10位以上至30人不等（含帶隊教師及在學學生為主）。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27900/%E3%80%8C2027FRC%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%8D%80%E5%9F%9F%E5%A4%A7%E8%B3%BDNewTaipeiCityRegional%E5%AF%A6%E6%96%BD%E8%A8%88%E7%95%AB%E3%80%8D%E8%A8%88%E7%95%AB%E5%85%A7%E5%AE%B9.pdf",
+        "quote": "2 名以上指導老師"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "第一階段報名截止",
+      "date": "2026-10-01",
+      "time": null,
+      "original": "115年9月24日至10月1日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.hgsh.hc.edu.tw/news/2027-frc%e6%a9%9f%e5%99%a8%e4%ba%ba%e5%8d%80%e5%9f%9f%e5%a4%a7%e8%b3%bd-new-taipei-city-regional-%e6%b4%bb%e5%8b%95/",
+          "quote": "(１)第一階段報名：115年9月24日至10月1日。"
+        }
+      ]
+    },
+    {
+      "kind": "registration_deadline",
+      "label": "第二階段報名截止（第一階段臺灣隊伍未達 36 隊時）",
+      "date": "2026-10-22",
+      "time": null,
+      "original": "115年10月15日至10月22日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.hgsh.hc.edu.tw/news/2027-frc%e6%a9%9f%e5%99%a8%e4%ba%ba%e5%8d%80%e5%9f%9f%e5%a4%a7%e8%b3%bd-new-taipei-city-regional-%e6%b4%bb%e5%8b%95/",
+          "quote": "(２)第二階段報名：115年10月15日至10月22日。"
+        },
+        {
+          "url": "https://www.hgsh.hc.edu.tw/news/2027-frc%e6%a9%9f%e5%99%a8%e4%ba%ba%e5%8d%80%e5%9f%9f%e5%a4%a7%e8%b3%bd-new-taipei-city-regional-%e6%b4%bb%e5%8b%95/",
+          "quote": "倘第一階段臺灣隊伍報名達36隊，即為額滿，第二階段將不再接受報名（除特殊原因）。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "Kickoff 揭曉 2027 賽季任務、場地、機器人規格及競賽規則",
+      "date": "2027-01-10",
+      "time": "01:00",
+      "original": "臺灣時間1月10日1:00am",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27900/%E3%80%8C2027FRC%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%8D%80%E5%9F%9F%E5%A4%A7%E8%B3%BDNewTaipeiCityRegional%E5%AF%A6%E6%96%BD%E8%A8%88%E7%95%AB%E3%80%8D%E8%A8%88%E7%95%AB%E5%85%A7%E5%AE%B9.pdf",
+          "quote": "12:00pm(臺灣時間1月10日1:00am)舉行 Kickoff 並正式揭曉競賽主題"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "區域賽開始：隊伍代表進場、PIT 區建置",
+      "date": "2027-03-11",
+      "time": null,
+      "original": "116年3月11日（星期四）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27900/%E3%80%8C2027FRC%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%8D%80%E5%9F%9F%E5%A4%A7%E8%B3%BDNewTaipeiCityRegional%E5%AF%A6%E6%96%BD%E8%A8%88%E7%95%AB%E3%80%8D%E8%A8%88%E7%95%AB%E5%85%A7%E5%AE%B9.pdf",
+          "quote": "四、活動日期：116年3月11日（星期四）至3月14日（星期日）。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "聯盟選拔、半決賽及決賽、頒獎及閉幕典禮",
+      "date": "2027-03-14",
+      "time": null,
+      "original": "3月14日（星期日）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27900/%E3%80%8C2027FRC%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%8D%80%E5%9F%9F%E5%A4%A7%E8%B3%BDNewTaipeiCityRegional%E5%AF%A6%E6%96%BD%E8%A8%88%E7%95%AB%E3%80%8D%E8%A8%88%E7%95%AB%E5%85%A7%E5%AE%B9.pdf",
+          "quote": "四、活動日期：116年3月11日（星期四）至3月14日（星期日）。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名",
+      "what": "在 FIRST 官網註冊隊伍，於 DashBoard 選擇 Taipei City Regional 報名並繳費",
+      "how": "online"
+    },
+    {
+      "stage": "區域賽",
+      "what": "機器人檢錄、練習賽、資格賽（每隊 8 至 10 場）、聯盟選拔及淘汰賽，另有評審面談",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "臺北和平籃球館（臺北市敦南街76巷28號）",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27900/%E3%80%8C2027FRC%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%8D%80%E5%9F%9F%E5%A4%A7%E8%B3%BDNewTaipeiCityRegional%E5%AF%A6%E6%96%BD%E8%A8%88%E7%95%AB%E3%80%8D%E8%A8%88%E7%95%AB%E5%85%A7%E5%AE%B9.pdf",
+        "quote": "五、活動地點：臺北和平籃球館（臺北市敦南街76巷28號）。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27900/%E3%80%8C2027FRC%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%8D%80%E5%9F%9F%E5%A4%A7%E8%B3%BDNewTaipeiCityRegional%E5%AF%A6%E6%96%BD%E8%A8%88%E7%95%AB%E3%80%8D%E8%A8%88%E7%95%AB%E5%85%A7%E5%AE%B9.pdf",
+        "quote": "每隊需比8至10場積分賽事"
+      }
+    ]
+  },
+  "fee": {
+    "value": "required",
+    "amount": null,
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.hgsh.hc.edu.tw/news/2027-frc%e6%a9%9f%e5%99%a8%e4%ba%ba%e5%8d%80%e5%9f%9f%e5%a4%a7%e8%b3%bd-new-taipei-city-regional-%e6%b4%bb%e5%8b%95/",
+        "quote": "３、於FRC競賽官方網站規定繳費期限於DashBoard繳交報名費，以完成報名"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "評審獎項依 FIRST 官方分類，包含機器特質獎、團隊特質獎及提報獎項；場上表現獎項包括 Winner、Finalist 等；實際頒發項目依 2027 官方獎項頁面與手冊。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27900/%E3%80%8C2027FRC%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%8D%80%E5%9F%9F%E5%A4%A7%E8%B3%BDNewTaipeiCityRegional%E5%AF%A6%E6%96%BD%E8%A8%88%E7%95%AB%E3%80%8D%E8%A8%88%E7%95%AB%E5%85%A7%E5%AE%B9.pdf",
+        "quote": "評審獎項依FIRST官方分類，包含機器特質"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27900/%E3%80%8C2027FRC%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%8D%80%E5%9F%9F%E5%A4%A7%E8%B3%BDNewTaipeiCityRegional%E5%AF%A6%E6%96%BD%E8%A8%88%E7%95%AB%E3%80%8D%E8%A8%88%E7%95%AB%E5%85%A7%E5%AE%B9.pdf",
+        "quote": "獎、團隊特質獎及提報獎項；各區域賽實際頒發項目依2027官方獎項頁面與手冊辦理。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27900/%E3%80%8C2027FRC%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%8D%80%E5%9F%9F%E5%A4%A7%E8%B3%BDNewTaipeiCityRegional%E5%AF%A6%E6%96%BD%E8%A8%88%E7%95%AB%E3%80%8D%E8%A8%88%E7%95%AB%E5%85%A7%E5%AE%B9.pdf",
+        "quote": "場上表現獎項包括Winner、Finalist等"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27900/%E3%80%8C2027FRC%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%8D%80%E5%9F%9F%E5%A4%A7%E8%B3%BDNewTaipeiCityRegional%E5%AF%A6%E6%96%BD%E8%A8%88%E7%95%AB%E3%80%8D%E8%A8%88%E7%95%AB%E5%85%A7%E5%AE%B9.pdf"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27900/%E3%80%8C2027FRC%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%8D%80%E5%9F%9F%E5%A4%A7%E8%B3%BDNewTaipeiCityRegional%E5%AF%A6%E6%96%BD%E8%A8%88%E7%95%AB%E3%80%8D.pdf"
+      }
+    ]
+  },
+  "links": {
+    "official": null,
+    "rules": [
+      {
+        "title": "2027 FRC 機器人區域大賽 Taipei City Regional 實施計畫",
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27900/%E3%80%8C2027FRC%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%8D%80%E5%9F%9F%E5%A4%A7%E8%B3%BDNewTaipeiCityRegional%E5%AF%A6%E6%96%BD%E8%A8%88%E7%95%AB%E3%80%8D%E8%A8%88%E7%95%AB%E5%85%A7%E5%AE%B9.pdf"
+      },
+      {
+        "title": "教育部國民及學前教育署轉知函",
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27900/%E3%80%8C2027FRC%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%8D%80%E5%9F%9F%E5%A4%A7%E8%B3%BDNewTaipeiCityRegional%E5%AF%A6%E6%96%BD%E8%A8%88%E7%95%AB%E3%80%8D.pdf"
+      }
+    ],
+    "registration": "https://www.firstinspires.org/"
+  },
+  "found_via": [
+    {
+      "name": "高師大附中 校外競賽與活動",
+      "url": "https://www.nknush.kh.edu.tw/announcement/high-school-news/19512/%e5%85%ac%e5%91%8a2027-frc%e6%a9%9f%e5%99%a8%e4%ba%ba%e5%8d%80%e5%9f%9f%e5%a4%a7%e8%b3%bd-new-taipei-city-regional-%e5%af%a6%e6%96%bd%e8%a8%88%e7%95%ab%e8%a8%ad%e5%82%99%e7%b5%84/"
+    },
+    {
+      "name": "新竹女中 活動研習",
+      "url": "https://www.hgsh.hc.edu.tw/news/2027-frc%e6%a9%9f%e5%99%a8%e4%ba%ba%e5%8d%80%e5%9f%9f%e5%a4%a7%e8%b3%bd-new-taipei-city-regional-%e6%b4%bb%e5%8b%95/"
+    },
+    {
+      "name": "潮州高中 學生課外活動",
+      "url": "https://www.ccsh.ptc.edu.tw/data.php?id=18955&tpl=27"
+    },
+    {
+      "name": "鳳新高中 營隊競賽",
+      "url": "https://www.fhsh.khc.edu.tw/aa/news-aa/20260909/45959"
+    },
+    {
+      "name": "暨大附中 學生研習與競賽活動",
+      "url": "https://www.pshs.ntct.edu.tw/ischool/public/news_view/show.php?nid=33575"
+    },
+    {
+      "name": "苗栗農工 處室公告",
+      "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26293"
+    },
+    {
+      "name": "苗栗高中 學生校外營隊、活動、比賽",
+      "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=27900"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-26",
+    "method": "single",
+    "unread": [
+      "2027 Competition Manual（競賽手冊）",
+      "Team Updates",
+      "2027 官方獎項頁面"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-26",
+  "conflict": "教育部國民及學前教育署轉知函主旨稱「2027 FRC機器人區域大賽 New Taipei City Regional」，臺北市政府教育局實施計畫標題稱「Taipei City Regional」，兩份文件的報名說明皆選擇「Taipei City Regional（Regional）」。",
+  "level": "checked",
+  "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-frc-taipei-regional/",
+  "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-frc-taipei-regional.md"
+}

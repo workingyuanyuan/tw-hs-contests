@@ -1,0 +1,317 @@
+{
+  "schema": 1,
+  "id": "2026-teyi-taiwan-selection",
+  "title": "2027 TEYI 世界青少年發明展：臺灣選拔賽",
+  "edition": "2027",
+  "summary": "國小至高中職學生 1 至 3 人一隊，以改善生活的發明作品參賽，爭取 IEYI 世界賽國家代表隊資格。",
+  "organizers": [
+    {
+      "name": "教育部",
+      "role": "指導"
+    },
+    {
+      "name": "國立臺灣師範大學",
+      "role": "主辦"
+    },
+    {
+      "name": "中華創意發展協會",
+      "role": "協辦"
+    },
+    {
+      "name": "新北市政府教育局",
+      "role": "協辦"
+    }
+  ],
+  "categories": [
+    "工程與製造",
+    "設計"
+  ],
+  "eligibility": {
+    "levels": [
+      "國小",
+      "國中",
+      "高中",
+      "高職"
+    ],
+    "division": "separate",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": 3,
+    "teacher": "required",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.sssh.tyc.edu.tw/view-doc/6/2027 TEYI世界青少年發明展：臺灣選拔賽.pdf",
+        "quote": "4.1.1 參加對象為6-19 歲之國小、國中、高中在學學生。"
+      },
+      {
+        "url": "https://www.sssh.tyc.edu.tw/view-doc/6/2027 TEYI世界青少年發明展：臺灣選拔賽.pdf",
+        "quote": "召集人需負責審查該類別中所有學級（國小、國中、高中職）之參賽作品。"
+      },
+      {
+        "url": "https://www.sssh.tyc.edu.tw/view-doc/6/2027 TEYI世界青少年發明展：臺灣選拔賽.pdf",
+        "quote": "6.1 選拔類組依學級分組：依學籍分為國小組、國中組、高中組"
+      },
+      {
+        "url": "https://www.sssh.tyc.edu.tw/view-doc/6/2027 TEYI世界青少年發明展：臺灣選拔賽.pdf",
+        "quote": "4.5 參賽者限制: 每件作品須由1 至3 人組成，每位參賽者最多可參加2 件作品。"
+      },
+      {
+        "url": "https://www.sssh.tyc.edu.tw/view-doc/6/2027 TEYI世界青少年發明展：臺灣選拔賽.pdf",
+        "quote": "4.2.2 指導老師人數：指導老師最多不可超過3 名(包含英文指導老師)，且至少有1 名為學生所屬學校之主管或教師。"
+      },
+      {
+        "url": "https://www.sssh.tyc.edu.tw/view-doc/6/2027 TEYI世界青少年發明展：臺灣選拔賽.pdf",
+        "quote": "4.9.3.1.1 自行報名隊伍須參加初審並繳交審查工本費。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "自行報名隊伍初審報名及繳費截止",
+      "date": "2026-10-30",
+      "time": "17:00",
+      "original": "115年10月1日（星期四）上午9時至10月30日（星期五）下午5時截止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.nkhs.tp.edu.tw/ischool/public/news_view/show.php?nid=34585",
+          "quote": "(一)初審報名日期：115年10月1日（星期四）上午9時至10月30日（星期五）下午5時截止。"
+        }
+      ]
+    },
+    {
+      "kind": "registration_deadline",
+      "label": "臺中市參賽者函報臺中市政府教育局推薦資料截止",
+      "date": "2026-10-16",
+      "time": null,
+      "original": "115年10月16日(星期五)前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://dlsh.tc.edu.tw/p/406-1068-628916,r2145.php?Lang=zh-tw",
+          "quote": "請有意參賽者於115年10月16日(星期五)前依簡章檢附相關資料，函報本局推薦資料名單"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "初審（書面審查）",
+      "date": "2026-11-19",
+      "time": null,
+      "original": "115 年11 月19 日(四)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.sssh.tyc.edu.tw/view-doc/6/2027 TEYI世界青少年發明展：臺灣選拔賽.pdf",
+          "quote": "115 年11 月19 日(四)"
+        }
+      ]
+    },
+    {
+      "kind": "shortlist_announcement",
+      "label": "公告晉級複審名單",
+      "date": "2026-11-27",
+      "time": null,
+      "original": "115年11月27日（星期五）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.nkhs.tp.edu.tw/ischool/public/news_view/show.php?nid=34585",
+          "quote": "(二)公告晉級複審名單：115年11月27日（星期五）。"
+        }
+      ]
+    },
+    {
+      "kind": "registration_deadline",
+      "label": "晉級隊伍及縣市推薦隊伍複審報名及繳費截止",
+      "date": "2026-12-14",
+      "time": "17:00",
+      "original": "115年12月1日（星期二）上午9時至12月14日（星期一）下午5時截止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.nkhs.tp.edu.tw/ischool/public/news_view/show.php?nid=34585",
+          "quote": "(三)複審報名日期：115年12月1日（星期二）上午9時至12月14日（星期一）下午5時截止。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "複審及頒獎典禮第一天",
+      "date": "2027-01-27",
+      "time": null,
+      "original": "116年1月27日（星期三）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.nkhs.tp.edu.tw/ischool/public/news_view/show.php?nid=34585",
+          "quote": "(四)複審時間與地點：116年1月27日（星期三）至1月28日（星期四）於國立臺灣師範大學本部體育館4樓綜合球場舉辦。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "複審及頒獎典禮第二天",
+      "date": "2027-01-28",
+      "time": null,
+      "original": "1月28日（星期四）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.nkhs.tp.edu.tw/ischool/public/news_view/show.php?nid=34585",
+          "quote": "(四)複審時間與地點：116年1月27日（星期三）至1月28日（星期四）於國立臺灣師範大學本部體育館4樓綜合球場舉辦。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "初審報名（自行報名隊伍）",
+      "what": "2 頁內作品摘要說明表 PDF、報名單位總表（學校簽章）、工本費繳費證明、每位學生的知情同意書",
+      "how": "online"
+    },
+    {
+      "stage": "複審報名（晉級及縣市推薦隊伍）",
+      "what": "10 頁內作品完整說明表、國內外專利查詢資料，縣市推薦隊伍另附推薦公文或獎狀",
+      "how": "online"
+    },
+    {
+      "stage": "複審",
+      "what": "實體發明作品（長寬 90×60 公分內、10 公斤內）現場展示，每次 2 分鐘向評審解說及操作",
+      "how": "onsite"
+    },
+    {
+      "stage": "賽後（金牌隊伍）",
+      "what": "約 2 分鐘至 2 分鐘半的作品說明影片",
+      "how": "unknown"
+    }
+  ],
+  "attendance": {
+    "value": "finalists",
+    "where": "國立臺灣師範大學本部體育館4樓綜合球場",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.nkhs.tp.edu.tw/ischool/public/news_view/show.php?nid=34585",
+        "quote": "(四)複審時間與地點：116年1月27日（星期三）至1月28日（星期四）於國立臺灣師範大學本部體育館4樓綜合球場舉辦。"
+      },
+      {
+        "url": "https://www.sssh.tyc.edu.tw/view-doc/6/2027 TEYI世界青少年發明展：臺灣選拔賽.pdf",
+        "quote": "8.2.2.3 無學生解說： 若到達該作品處時無學生解說，評審將依評審標準開始計時，時間到就往下一件作品處評分，作品該項分數將為零分。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "required",
+    "amount": "自行報名隊伍初審每件 500 元、複審每件 1,500 元；縣市推薦隊伍免初審費，複審每件 1,200 元",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.sssh.tyc.edu.tw/view-doc/6/2027 TEYI世界青少年發明展：臺灣選拔賽.pdf",
+        "quote": "3. 初審審查工本費用：新台幣500 元整。"
+      },
+      {
+        "url": "https://www.sssh.tyc.edu.tw/view-doc/6/2027 TEYI世界青少年發明展：臺灣選拔賽.pdf",
+        "quote": "4. 複審審查工本費：縣市推薦隊伍1,200 元，其他一般隊伍需繳交1,500 元。"
+      },
+      {
+        "url": "https://www.sssh.tyc.edu.tw/view-doc/6/2027 TEYI世界青少年發明展：臺灣選拔賽.pdf",
+        "quote": "各縣市推薦隊伍可以直接進入複審，但需在複審報名期限內完成線上報名及繳交審查工本費"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "各學級組分六類評定：總成績前 10% 金牌、11% 至 30% 銀牌、31% 至 60% 銅牌、61% 至 100% 佳作，皆頒獎狀；英文發表特別獎國小、國中、高中各 2 隊。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.sssh.tyc.edu.tw/view-doc/6/2027 TEYI世界青少年發明展：臺灣選拔賽.pdf",
+        "quote": "由總成績前10%之複審隊伍獲得金牌，並由新北市政府教育局製發獎狀乙紙。"
+      },
+      {
+        "url": "https://www.sssh.tyc.edu.tw/view-doc/6/2027 TEYI世界青少年發明展：臺灣選拔賽.pdf",
+        "quote": "由總成績前11%至30%之複審隊伍獲得銀牌"
+      },
+      {
+        "url": "https://www.sssh.tyc.edu.tw/view-doc/6/2027 TEYI世界青少年發明展：臺灣選拔賽.pdf",
+        "quote": "由總成績前31%至60%之複審隊伍獲得銅牌"
+      },
+      {
+        "url": "https://www.sssh.tyc.edu.tw/view-doc/6/2027 TEYI世界青少年發明展：臺灣選拔賽.pdf",
+        "quote": "由總成績前61%至100%之複審隊伍獲得佳作，並由國立臺灣師範大學科技與工程學院製發獎狀乙紙。"
+      },
+      {
+        "url": "https://www.sssh.tyc.edu.tw/view-doc/6/2027 TEYI世界青少年發明展：臺灣選拔賽.pdf",
+        "quote": "以英文發表額外擇優錄取國小，國中，高中各2 隊。"
+      },
+      {
+        "url": "https://www.sssh.tyc.edu.tw/view-doc/6/2027 TEYI世界青少年發明展：臺灣選拔賽.pdf",
+        "quote": "9.2 少件作品類組的處理原則： 各組獎勵分成6 類評定、金、銀、銅牌。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.sssh.tyc.edu.tw/view-doc/6/2027 TEYI世界青少年發明展：臺灣選拔賽.pdf"
+      }
+    ]
+  },
+  "links": {
+    "official": "http://www.teyi.org/",
+    "rules": [
+      {
+        "title": "2027 TEYI 世界青少年發明展：臺灣選拔賽活動簡章（PDF）",
+        "url": "https://www.sssh.tyc.edu.tw/view-doc/6/2027 TEYI世界青少年發明展：臺灣選拔賽.pdf"
+      }
+    ],
+    "registration": "http://www.teyi.org/"
+  },
+  "found_via": [
+    {
+      "name": "南港高工 重要資訊",
+      "url": "https://www.nkhs.tp.edu.tw/ischool/public/news_view/show.php?nid=34585"
+    },
+    {
+      "name": "成功高中 活動競賽",
+      "url": "https://www.cksh.tp.edu.tw/news/%e3%80%90%e8%bd%89%e7%9f%a5%e3%80%91%e5%9c%8b%e7%ab%8b%e8%87%ba%e7%81%a3%e5%b8%ab%e7%af%84%e5%a4%a7%e5%ad%b8%e8%be%a6%e7%90%86%e3%80%8c2027teyi-%e4%b8%96%e7%95%8c%e9%9d%92%e5%b0%91%e5%b9%b4%e7%99%bc/"
+    },
+    {
+      "name": "大里高中 校外活動與競賽",
+      "url": "https://dlsh.tc.edu.tw/p/406-1068-628916,r2145.php?Lang=zh-tw"
+    },
+    {
+      "name": "壽山高中 校外競賽",
+      "url": "https://www.sssh.tyc.edu.tw/news/%e3%80%90%e6%a0%a1%e5%a4%96%e7%ab%b6%e8%b3%bd%e3%80%91%e3%80%8c2027-teyi%e4%b8%96%e7%95%8c%e9%9d%92%e5%b0%91%e5%b9%b4%e7%99%bc%e6%98%8e%e5%b1%95%ef%bc%9a%e8%87%ba%e7%81%a3%e9%81%b8%e6%8b%94%e8%b3%bd/"
+    },
+    {
+      "name": "武陵高中 校外競賽",
+      "url": "http://www.wlsh.tyc.edu.tw/p/406-1000-43148,r83.php?Lang=zh-tw"
+    },
+    {
+      "name": "大里高中 校外活動與競賽",
+      "url": "https://dlsh.tc.edu.tw/p/406-1068-628916,r2145.php"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-26",
+    "method": "single",
+    "unread": [
+      "臺中市推薦申請表（387040000E_1150078302_ATTACH2.ods）",
+      "TEYI 官網的初、複審報名流程"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-26"
+}

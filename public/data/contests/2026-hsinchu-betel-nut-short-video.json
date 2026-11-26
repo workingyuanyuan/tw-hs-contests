@@ -1,0 +1,235 @@
+{
+  "schema": 1,
+  "id": "2026-hsinchu-betel-nut-short-video",
+  "title": "115年新竹市青少年檳榔防制短影音創作競賽",
+  "edition": "115 年",
+  "summary": "新竹市國中、高中職及大專在學學生 2 人以上組隊，創作檳榔防制主題短影音。",
+  "organizers": [
+    {
+      "name": "新竹市衛生局",
+      "role": "主辦"
+    },
+    {
+      "name": "席綸整合行銷有限公司",
+      "role": "承辦"
+    }
+  ],
+  "categories": [
+    "影音",
+    "醫護與照顧"
+  ],
+  "eligibility": {
+    "levels": [
+      "國中",
+      "高中",
+      "高職",
+      "大專"
+    ],
+    "division": "mixed",
+    "regions": [
+      "新竹市"
+    ],
+    "nomination": "none",
+    "team_min": 2,
+    "team_max": null,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26282/%E6%8B%92%E6%AA%B3%E9%9D%92%E6%98%A5%EF%BC%8C%E5%BD%B1_%E9%A0%98%E6%9C%AA%E4%BE%86%E3%80%8B115%E5%B9%B4%E6%96%B0%E7%AB%B9%E5%B8%82%E9%9D%92%E5%B0%91%E5%B9%B4%E6%AA%B3%E6%A6%94%E9%98%B2%E5%88%B6%E7%9F%AD%E5%BD%B1%E9%9F%B3%E5%89%B5%E4%BD%9C%E7%AB%B6%E8%B3%BD.pdf",
+        "quote": "參賽對象：新竹市之國中、高中(職)或大專院校在學學生。"
+      },
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26282/%E6%8B%92%E6%AA%B3%E9%9D%92%E6%98%A5%EF%BC%8C%E5%BD%B1_%E9%A0%98%E6%9C%AA%E4%BE%86%E3%80%8B115%E5%B9%B4%E6%96%B0%E7%AB%B9%E5%B8%82%E9%9D%92%E5%B0%91%E5%B9%B4%E6%AA%B3%E6%A6%94%E9%98%B2%E5%88%B6%E7%9F%AD%E5%BD%B1%E9%9F%B3%E5%89%B5%E4%BD%9C%E7%AB%B6%E8%B3%BD.pdf",
+        "quote": "參賽者採2 人以上團隊方式報名，並須推派1 人為聯絡人"
+      },
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26282/%E6%8B%92%E6%AA%B3%E9%9D%92%E6%98%A5%EF%BC%8C%E5%BD%B1_%E9%A0%98%E6%9C%AA%E4%BE%86%E3%80%8B115%E5%B9%B4%E6%96%B0%E7%AB%B9%E5%B8%82%E9%9D%92%E5%B0%91%E5%B9%B4%E6%AA%B3%E6%A6%94%E9%98%B2%E5%88%B6%E7%9F%AD%E5%BD%B1%E9%9F%B3%E5%89%B5%E4%BD%9C%E7%AB%B6%E8%B3%BD.pdf",
+        "quote": "團隊中之所有成員均須具備在學身份（不得包含非學生身分或其他年齡層成員，"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "submission_deadline",
+      "label": "線上報名及作品繳件截止",
+      "date": "2026-10-05",
+      "time": "18:00",
+      "original": "115 年10 月5 日（一）18:00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26282/%E6%8B%92%E6%AA%B3%E9%9D%92%E6%98%A5%EF%BC%8C%E5%BD%B1_%E9%A0%98%E6%9C%AA%E4%BE%86%E3%80%8B115%E5%B9%B4%E6%96%B0%E7%AB%B9%E5%B8%82%E9%9D%92%E5%B0%91%E5%B9%B4%E6%AA%B3%E6%A6%94%E9%98%B2%E5%88%B6%E7%9F%AD%E5%BD%B1%E9%9F%B3%E5%89%B5%E4%BD%9C%E7%AB%B6%E8%B3%BD.pdf",
+          "quote": "徵件期間：即日起至115 年10 月5 日（一）18:00 止"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "資格審查（初審）結束",
+      "date": "2026-10-08",
+      "time": null,
+      "original": "115 年10 月8 日（四）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26282/%E6%8B%92%E6%AA%B3%E9%9D%92%E6%98%A5%EF%BC%8C%E5%BD%B1_%E9%A0%98%E6%9C%AA%E4%BE%86%E3%80%8B115%E5%B9%B4%E6%96%B0%E7%AB%B9%E5%B8%82%E9%9D%92%E5%B0%91%E5%B9%B4%E6%AA%B3%E6%A6%94%E9%98%B2%E5%88%B6%E7%9F%AD%E5%BD%B1%E9%9F%B3%E5%89%B5%E4%BD%9C%E7%AB%B6%E8%B3%BD.pdf",
+          "quote": "資格審查（初審作業）：115 年10 月6 日（二）至115 年10 月8 日（四）"
+        }
+      ]
+    },
+    {
+      "kind": "shortlist_announcement",
+      "label": "評審會議選出入圍作品",
+      "date": "2026-10-14",
+      "time": null,
+      "original": "115 年10 月14 日（三）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26282/%E6%8B%92%E6%AA%B3%E9%9D%92%E6%98%A5%EF%BC%8C%E5%BD%B1_%E9%A0%98%E6%9C%AA%E4%BE%86%E3%80%8B115%E5%B9%B4%E6%96%B0%E7%AB%B9%E5%B8%82%E9%9D%92%E5%B0%91%E5%B9%B4%E6%AA%B3%E6%A6%94%E9%98%B2%E5%88%B6%E7%9F%AD%E5%BD%B1%E9%9F%B3%E5%89%B5%E4%BD%9C%E7%AB%B6%E8%B3%BD.pdf",
+          "quote": "評審會議（決審入圍）：115 年10 月12 日（一）至115 年10 月14 日（三）"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "入圍作品 YouTube 網路票選截止",
+      "date": "2026-11-04",
+      "time": "18:00",
+      "original": "115 年11 月4 日（三）18:00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26282/%E6%8B%92%E6%AA%B3%E9%9D%92%E6%98%A5%EF%BC%8C%E5%BD%B1_%E9%A0%98%E6%9C%AA%E4%BE%86%E3%80%8B115%E5%B9%B4%E6%96%B0%E7%AB%B9%E5%B8%82%E9%9D%92%E5%B0%91%E5%B9%B4%E6%AA%B3%E6%A6%94%E9%98%B2%E5%88%B6%E7%9F%AD%E5%BD%B1%E9%9F%B3%E5%89%B5%E4%BD%9C%E7%AB%B6%E8%B3%BD.pdf",
+          "quote": "社群票選：115 年10 月16 日（五）至115 年11 月4 日（三）18:00 止"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "得獎公告",
+      "date": null,
+      "time": null,
+      "original": "115 年11 月９日（ㄧ）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26282/%E6%8B%92%E6%AA%B3%E9%9D%92%E6%98%A5%EF%BC%8C%E5%BD%B1_%E9%A0%98%E6%9C%AA%E4%BE%86%E3%80%8B115%E5%B9%B4%E6%96%B0%E7%AB%B9%E5%B8%82%E9%9D%92%E5%B0%91%E5%B9%B4%E6%AA%B3%E6%A6%94%E9%98%B2%E5%88%B6%E7%9F%AD%E5%BD%B1%E9%9F%B3%E5%89%B5%E4%BD%9C%E7%AB%B6%E8%B3%BD.pdf",
+          "quote": "得獎公告：115 年11 月９日（ㄧ）"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名",
+      "what": "線上報名表單（作品名稱、團隊成員、就讀學校、創作理念等）",
+      "how": "online"
+    },
+    {
+      "stage": "報名",
+      "what": "參賽報名表、在學證明、著作財產權授權同意書；未滿 18 歲附法定代理人同意書，使用 AI 附聲明暨切結書，以電子郵件寄送",
+      "how": "online"
+    },
+    {
+      "stage": "繳件",
+      "what": "30 至 90 秒、9:16 直式、至少 1080x1920 的 mp4 或 mov 影片，上傳雲端後寄送下載連結",
+      "how": "online"
+    }
+  ],
+  "attendance": {
+    "value": "none",
+    "where": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26282/%E6%8B%92%E6%AA%B3%E9%9D%92%E6%98%A5%EF%BC%8C%E5%BD%B1_%E9%A0%98%E6%9C%AA%E4%BE%86%E3%80%8B115%E5%B9%B4%E6%96%B0%E7%AB%B9%E5%B8%82%E9%9D%92%E5%B0%91%E5%B9%B4%E6%AA%B3%E6%A6%94%E9%98%B2%E5%88%B6%E7%9F%AD%E5%BD%B1%E9%9F%B3%E5%89%B5%E4%BD%9C%E7%AB%B6%E8%B3%BD.pdf"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26282/%E6%8B%92%E6%AA%B3%E9%9D%92%E6%98%A5%EF%BC%8C%E5%BD%B1_%E9%A0%98%E6%9C%AA%E4%BE%86%E3%80%8B115%E5%B9%B4%E6%96%B0%E7%AB%B9%E5%B8%82%E9%9D%92%E5%B0%91%E5%B9%B4%E6%AA%B3%E6%A6%94%E9%98%B2%E5%88%B6%E7%9F%AD%E5%BD%B1%E9%9F%B3%E5%89%B5%E4%BD%9C%E7%AB%B6%E8%B3%BD.pdf"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "金獎 1 組團隊獎金 12,000 元、銀獎 1 組 10,000 元、銅獎 1 組 8,000 元、最佳人氣獎 1 組 6,000 元，皆附獎牌乙座；總成績含 YouTube 網路票選換算的社群影響力分數 10%。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26282/%E6%8B%92%E6%AA%B3%E9%9D%92%E6%98%A5%EF%BC%8C%E5%BD%B1_%E9%A0%98%E6%9C%AA%E4%BE%86%E3%80%8B115%E5%B9%B4%E6%96%B0%E7%AB%B9%E5%B8%82%E9%9D%92%E5%B0%91%E5%B9%B4%E6%AA%B3%E6%A6%94%E9%98%B2%E5%88%B6%E7%9F%AD%E5%BD%B1%E9%9F%B3%E5%89%B5%E4%BD%9C%E7%AB%B6%E8%B3%BD.pdf",
+        "quote": "團隊獎金12,000 元獎金及獎牌乙座"
+      },
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26282/%E6%8B%92%E6%AA%B3%E9%9D%92%E6%98%A5%EF%BC%8C%E5%BD%B1_%E9%A0%98%E6%9C%AA%E4%BE%86%E3%80%8B115%E5%B9%B4%E6%96%B0%E7%AB%B9%E5%B8%82%E9%9D%92%E5%B0%91%E5%B9%B4%E6%AA%B3%E6%A6%94%E9%98%B2%E5%88%B6%E7%9F%AD%E5%BD%B1%E9%9F%B3%E5%89%B5%E4%BD%9C%E7%AB%B6%E8%B3%BD.pdf",
+        "quote": "團隊獎金10,000 元獎金及獎牌乙座"
+      },
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26282/%E6%8B%92%E6%AA%B3%E9%9D%92%E6%98%A5%EF%BC%8C%E5%BD%B1_%E9%A0%98%E6%9C%AA%E4%BE%86%E3%80%8B115%E5%B9%B4%E6%96%B0%E7%AB%B9%E5%B8%82%E9%9D%92%E5%B0%91%E5%B9%B4%E6%AA%B3%E6%A6%94%E9%98%B2%E5%88%B6%E7%9F%AD%E5%BD%B1%E9%9F%B3%E5%89%B5%E4%BD%9C%E7%AB%B6%E8%B3%BD.pdf",
+        "quote": "團隊獎金8,000 元獎金及獎牌乙座"
+      },
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26282/%E6%8B%92%E6%AA%B3%E9%9D%92%E6%98%A5%EF%BC%8C%E5%BD%B1_%E9%A0%98%E6%9C%AA%E4%BE%86%E3%80%8B115%E5%B9%B4%E6%96%B0%E7%AB%B9%E5%B8%82%E9%9D%92%E5%B0%91%E5%B9%B4%E6%AA%B3%E6%A6%94%E9%98%B2%E5%88%B6%E7%9F%AD%E5%BD%B1%E9%9F%B3%E5%89%B5%E4%BD%9C%E7%AB%B6%E8%B3%BD.pdf",
+        "quote": "團隊獎金6,000 元獎金及獎牌乙座"
+      },
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26282/%E6%8B%92%E6%AA%B3%E9%9D%92%E6%98%A5%EF%BC%8C%E5%BD%B1_%E9%A0%98%E6%9C%AA%E4%BE%86%E3%80%8B115%E5%B9%B4%E6%96%B0%E7%AB%B9%E5%B8%82%E9%9D%92%E5%B0%91%E5%B9%B4%E6%AA%B3%E6%A6%94%E9%98%B2%E5%88%B6%E7%9F%AD%E5%BD%B1%E9%9F%B3%E5%89%B5%E4%BD%9C%E7%AB%B6%E8%B3%BD.pdf",
+        "quote": "依網路票選結果產生團已獲金獎、銀獎或銅獎之作品，不列入最佳人氣"
+      },
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26282/%E6%8B%92%E6%AA%B3%E9%9D%92%E6%98%A5%EF%BC%8C%E5%BD%B1_%E9%A0%98%E6%9C%AA%E4%BE%86%E3%80%8B115%E5%B9%B4%E6%96%B0%E7%AB%B9%E5%B8%82%E9%9D%92%E5%B0%91%E5%B9%B4%E6%AA%B3%E6%A6%94%E9%98%B2%E5%88%B6%E7%9F%AD%E5%BD%B1%E9%9F%B3%E5%89%B5%E4%BD%9C%E7%AB%B6%E8%B3%BD.pdf",
+        "quote": "本項社群\n影響力分數占總成績10%。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "allowed",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26282/%E6%8B%92%E6%AA%B3%E9%9D%92%E6%98%A5%EF%BC%8C%E5%BD%B1_%E9%A0%98%E6%9C%AA%E4%BE%86%E3%80%8B115%E5%B9%B4%E6%96%B0%E7%AB%B9%E5%B8%82%E9%9D%92%E5%B0%91%E5%B9%B4%E6%AA%B3%E6%A6%94%E9%98%B2%E5%88%B6%E7%9F%AD%E5%BD%B1%E9%9F%B3%E5%89%B5%E4%BD%9C%E7%AB%B6%E8%B3%BD.pdf",
+        "quote": "參賽作品得用 生成式AI 工具輔助腳本、圖像、影音、配音、字幕、音樂或其他\n創作，惟作品應以參賽者之創意構思、內容設計及實質創作為核心。"
+      },
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26282/%E6%8B%92%E6%AA%B3%E9%9D%92%E6%98%A5%EF%BC%8C%E5%BD%B1_%E9%A0%98%E6%9C%AA%E4%BE%86%E3%80%8B115%E5%B9%B4%E6%96%B0%E7%AB%B9%E5%B8%82%E9%9D%92%E5%B0%91%E5%B9%B4%E6%AA%B3%E6%A6%94%E9%98%B2%E5%88%B6%E7%9F%AD%E5%BD%B1%E9%9F%B3%E5%89%B5%E4%BD%9C%E7%AB%B6%E8%B3%BD.pdf",
+        "quote": "用 AI 工具者，應於報名時填具「參賽作品AI 用 聲明暨切結書」"
+      }
+    ]
+  },
+  "links": {
+    "official": null,
+    "rules": [
+      {
+        "title": "競賽簡章（含報名表及附件）",
+        "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26282/%E6%8B%92%E6%AA%B3%E9%9D%92%E6%98%A5%EF%BC%8C%E5%BD%B1_%E9%A0%98%E6%9C%AA%E4%BE%86%E3%80%8B115%E5%B9%B4%E6%96%B0%E7%AB%B9%E5%B8%82%E9%9D%92%E5%B0%91%E5%B9%B4%E6%AA%B3%E6%A6%94%E9%98%B2%E5%88%B6%E7%9F%AD%E5%BD%B1%E9%9F%B3%E5%89%B5%E4%BD%9C%E7%AB%B6%E8%B3%BD.pdf"
+      }
+    ],
+    "registration": null
+  },
+  "found_via": [
+    {
+      "name": "新竹高商 消息公佈欄",
+      "url": "https://www.hccvs.hc.edu.tw/ischool/public/news_view/show.php?nid=26282"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-26",
+    "method": "single",
+    "unread": [],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-26",
+  "level": "checked",
+  "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-hsinchu-betel-nut-short-video/",
+  "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-hsinchu-betel-nut-short-video.md"
+}

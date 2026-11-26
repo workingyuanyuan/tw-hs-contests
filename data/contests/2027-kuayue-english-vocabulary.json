@@ -214,12 +214,13 @@
   ],
   "verification": {
     "last_verified": "2026-11-26",
-    "method": "single",
+    "method": "dual",
     "unread": [
       "獎狀及參賽證書樣式圖"
     ],
     "note": null,
     "readers": [
+      "claude-opus-5-5",
       "claude-opus-5-5"
     ]
   },

@@ -1,0 +1,277 @@
+{
+  "schema": 1,
+  "id": "2026-takming-fidelity-investment",
+  "title": "2026 德明×富達投資擂台-全國高中職組模擬投資競賽",
+  "edition": "2026",
+  "summary": "高中職學生 2 至 3 人組隊進行模擬股票投資，並繳交投資競賽心得報告。",
+  "organizers": [
+    {
+      "name": "富達證券投資信託(股)公司",
+      "role": "主辦"
+    },
+    {
+      "name": "德明財經科技大學財務金融系",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "商管與行銷"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職"
+    ],
+    "division": "hs_only",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 2,
+    "team_max": 3,
+    "teacher": "optional",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/「2026-德明×富達投資擂台-全國高中職組模擬投資競賽」2.pdf",
+        "quote": "參加對象：全國高中職在校生，以2 至3 人為一隊報名。"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/「2026-德明×富達投資擂台-全國高中職組模擬投資競賽」2.pdf",
+        "quote": "指導老師(非必要性規定)：指導老師一隊僅限1 位"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/「2026-德明×富達投資擂台-全國高中職組模擬投資競賽」2.pdf",
+        "quote": "參賽隊員：指定1 人為隊長，負責彙整並登錄所有隊員報名資料"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/「2026-德明×富達投資擂台-全國高中職組模擬投資競賽」2.pdf",
+        "quote": "請注意全部隊員須為同校同學"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "報名截止",
+      "date": "2026-09-24",
+      "time": "16:00",
+      "original": "2026/09/24(四)16 時止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/「2026-德明×富達投資擂台-全國高中職組模擬投資競賽」2.pdf",
+          "quote": "報名期間: 2026/08/31(一) ～ 2026/09/24(四)16 時止。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "練習期間結束（練習自 9 月 28 日起）",
+      "date": "2026-10-02",
+      "time": "20:00",
+      "original": "2026/10/02(五) 20 時",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/「2026-德明×富達投資擂台-全國高中職組模擬投資競賽」2.pdf",
+          "quote": "練習期間：2026/09/28(一) ～ 2026/10/02(五)，資料將於2026/10/02(五) 20 時"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "模擬投資競賽開始",
+      "date": "2026-10-05",
+      "time": null,
+      "original": "2026/10/05(一)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/「2026-德明×富達投資擂台-全國高中職組模擬投資競賽」2.pdf",
+          "quote": "競賽時程：2026/10/05(一) ～ 2026/11/27(五)。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "模擬投資競賽結束",
+      "date": "2026-11-27",
+      "time": null,
+      "original": "2026/11/27(五)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/「2026-德明×富達投資擂台-全國高中職組模擬投資競賽」2.pdf",
+          "quote": "競賽時程：2026/10/05(一) ～ 2026/11/27(五)。"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "心得報告上傳截止",
+      "date": "2026-12-09",
+      "time": null,
+      "original": "2026/12/09(三)前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/「2026-德明×富達投資擂台-全國高中職組模擬投資競賽」2.pdf",
+          "quote": "參賽同學須於2026/12/09(三)前，將心得檔案上傳至活動網頁的心"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "頒獎典禮",
+      "date": "2026-12-19",
+      "time": "15:30",
+      "original": "2026/12/19(星期六)，下午15:30 至16:30",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/「2026-德明×富達投資擂台-全國高中職組模擬投資競賽」2.pdf",
+          "quote": "頒獎典禮：2026/12/19(星期六)，下午15:30 至16:30。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "模擬投資競賽",
+      "what": "在 XQ 競賽平台以初始 500 萬元交易上市櫃股票與 ETF，總交易 10 筆以上、至少 5 個標的、持股達總資產 70% 以上",
+      "how": "online"
+    },
+    {
+      "stage": "心得報告",
+      "what": "投資競賽心得報告（限五頁，含資產配置、績效變化與困難、競賽心得、改善方式），排名前 40 名須繳交方可進入決選",
+      "how": "online"
+    }
+  ],
+  "attendance": {
+    "value": "none",
+    "where": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/「2026-德明×富達投資擂台-全國高中職組模擬投資競賽」2.pdf"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/「2026-德明×富達投資擂台-全國高中職組模擬投資競賽」1.pdf"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/「2026-德明×富達投資擂台-全國高中職組模擬投資競賽」2.pdf"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "依模擬交易排名（60%）與心得報告（40%）取前十五名頒獎學金：第一名 30,000 元、第二名 15,000 元、第三名 10,000 元、第四和五名各 5,000 元、第六至十名各 3,000 元、第十一至十五名各 2,000 元；前三十名頒電子獎狀，完成交易門檻者有電子參賽證明。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/「2026-德明×富達投資擂台-全國高中職組模擬投資競賽」2.pdf",
+        "quote": "模擬交易競賽排名成績佔60%，投資競賽心得報告佔40%"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/「2026-德明×富達投資擂台-全國高中職組模擬投資競賽」2.pdf",
+        "quote": "第一名：頒發獎學金新臺幣30,000 元"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/「2026-德明×富達投資擂台-全國高中職組模擬投資競賽」2.pdf",
+        "quote": "第二名：頒發獎學金新臺幣15,000 元"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/「2026-德明×富達投資擂台-全國高中職組模擬投資競賽」2.pdf",
+        "quote": "第三名：頒發獎學金新臺幣10,000 元"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/「2026-德明×富達投資擂台-全國高中職組模擬投資競賽」2.pdf",
+        "quote": "第四和五名：每名頒發獎學金新臺幣5,000 元。"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/「2026-德明×富達投資擂台-全國高中職組模擬投資競賽」2.pdf",
+        "quote": "第六至十名：每名頒發獎學金新臺幣3,000 元。"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/「2026-德明×富達投資擂台-全國高中職組模擬投資競賽」2.pdf",
+        "quote": "第十一至十五名：每名頒發獎學金新臺幣2,000 元。"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/「2026-德明×富達投資擂台-全國高中職組模擬投資競賽」2.pdf",
+        "quote": "◎參賽者完成交易門檻，將提供電子參賽證明，前三十名頒發電子獎狀。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/「2026-德明×富達投資擂台-全國高中職組模擬投資競賽」2.pdf"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://sites.google.com/gs.takming.edu.tw/2026pmcxh",
+    "rules": [
+      {
+        "title": "競賽簡章與辦法",
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/「2026-德明×富達投資擂台-全國高中職組模擬投資競賽」2.pdf"
+      },
+      {
+        "title": "活動海報",
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/「2026-德明×富達投資擂台-全國高中職組模擬投資競賽」1.pdf"
+      }
+    ],
+    "registration": "https://sites.google.com/gs.takming.edu.tw/2026pmcxh"
+  },
+  "found_via": [
+    {
+      "name": "高師大附中 校外競賽與活動",
+      "url": "https://www.nknush.kh.edu.tw/announcement/18806/%e5%85%ac%e5%91%8a%e8%a8%93%e8%82%b2%e7%b5%84%e3%80%8c2026-%e5%be%b7%e6%98%8ex%e5%af%8c%e9%81%94%e6%8a%95%e8%b3%87%e6%93%82%e5%8f%b0-%e5%85%a8%e5%9c%8b%e9%ab%98%e4%b8%ad%e8%81%b7%e7%b5%84/"
+    },
+    {
+      "name": "臺南女中 學生競賽",
+      "url": "https://www.tngs.tn.edu.tw/2026/09/01/%e5%be%b7%e6%98%8e%e8%b2%a1%e7%b6%93%e7%a7%91%e6%8a%80%e5%a4%a7%e5%ad%b8%e3%80%8c2026-%e5%be%b7%e6%98%8ex%e5%af%8c%e9%81%94%e6%8a%95%e8%b3%87%e6%93%82%e5%8f%b0-%e5%85%a8%e5%9c%8b%e9%ab%98/"
+    },
+    {
+      "name": "大同高中 學生競賽活動",
+      "url": "https://www.ttsh.tp.edu.tw/news/%e3%80%8c2026-%e5%be%b7%e6%98%8ex%e5%af%8c%e9%81%94%e6%8a%95%e8%b3%87%e6%93%82%e5%8f%b0-%e5%85%a8%e5%9c%8b%e9%ab%98%e4%b8%ad%e8%81%b7%e7%b5%84%e6%a8%a1%e6%93%ac%e6%8a%95%e8%b3%87%e7%ab%b6/"
+    },
+    {
+      "name": "南港高工 重要資訊",
+      "url": "https://www.nkhs.tp.edu.tw/ischool/public/news_view/show.php?nid=34442"
+    },
+    {
+      "name": "苗栗農工 處室公告",
+      "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26170"
+    },
+    {
+      "name": "苗栗高中 學生校外營隊、活動、比賽",
+      "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=27732"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-26",
+    "method": "single",
+    "unread": [
+      "活動網頁（報名網頁、個人資料告知暨同意事項、教學影片）"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-26",
+  "level": "checked",
+  "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-takming-fidelity-investment/",
+  "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-takming-fidelity-investment.md"
+}

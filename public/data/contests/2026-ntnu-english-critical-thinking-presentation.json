@@ -1,0 +1,239 @@
+{
+  "schema": 1,
+  "id": "2026-ntnu-english-critical-thinking-presentation",
+  "title": "115年全國高級中等學校英語文思辨簡報比賽",
+  "edition": "115 年",
+  "summary": "技術型高中及專業群科學生每校一隊，就爭議性指定題與即席資料判讀題以英文簡報展現思辨。",
+  "organizers": [
+    {
+      "name": "教育部國民及學前教育署",
+      "role": "指導"
+    },
+    {
+      "name": "國立臺灣師範大學英語學系",
+      "role": "主辦"
+    },
+    {
+      "name": "臺中市立沙鹿工業高級中等學校",
+      "role": "承辦"
+    }
+  ],
+  "categories": [
+    "外語"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職"
+    ],
+    "division": "hs_only",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "school",
+    "team_min": 3,
+    "team_max": 6,
+    "teacher": "required",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.sssh.tyc.edu.tw/view-doc/35/國立臺灣師範大學辦理115年「全國高級中等學校英語文思辨簡報比賽」_辦法.pdf",
+        "quote": "公私立技術型、普通型及綜合型高級中等學校專業群科/專門學程學生始具參賽資格"
+      },
+      {
+        "url": "https://www.sssh.tyc.edu.tw/view-doc/35/國立臺灣師範大學辦理115年「全國高級中等學校英語文思辨簡報比賽」_辦法.pdf",
+        "quote": "每校以一隊為限，分應英組及非應英組，每隊包含三位正取選手， 並至多可備取三位選手，即每校可報名三至六人。"
+      },
+      {
+        "url": "https://www.sssh.tyc.edu.tw/view-doc/35/國立臺灣師範大學辦理115年「全國高級中等學校英語文思辨簡報比賽」_辦法.pdf",
+        "quote": "依線上報名填報之指導老師每隊至少一位，最多兩位。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "線上報名截止",
+      "date": "2026-10-16",
+      "time": "12:00",
+      "original": "115年10月16日（五）中午12 點",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.sssh.tyc.edu.tw/view-doc/35/國立臺灣師範大學辦理115年「全國高級中等學校英語文思辨簡報比賽」_辦法.pdf",
+          "quote": "報名期限即日起至 115年10月16日（五）中午12 點止"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "報名資料異動截止（報名系統關閉）",
+      "date": "2026-10-23",
+      "time": "12:00",
+      "original": "115年10月 23日（五）中午12 點",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.sssh.tyc.edu.tw/view-doc/35/國立臺灣師範大學辦理115年「全國高級中等學校英語文思辨簡報比賽」_辦法.pdf",
+          "quote": "任何報名訊息異動，請自行在 115年10月 23日（五）中午12 點報名系統關閉前完成。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "賽前會議（指導教師及學生各至少一位出席）",
+      "date": "2026-11-01",
+      "time": "08:30",
+      "original": "115年11月1日上午8點30分至中午12點",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.sssh.tyc.edu.tw/view-doc/35/國立臺灣師範大學辦理115年「全國高級中等學校英語文思辨簡報比賽」_辦法.pdf",
+          "quote": "賽前會議日期訂於115年11月1日上午8點30分至中午12點。請務必派一位指導教師及一位學生準時並全程參加賽前會議。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "比賽（8:30 報到，9:15 開始比賽）",
+      "date": "2026-11-14",
+      "time": "08:30",
+      "original": "115年11月14日（六）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.sssh.tyc.edu.tw/view-doc/35/國立臺灣師範大學辦理115年「全國高級中等學校英語文思辨簡報比賽」_辦法.pdf",
+          "quote": "115年11月14日（六）——沙鹿高工（433 台中市沙鹿區台灣大道七段 823 號）。"
+        },
+        {
+          "url": "https://www.sssh.tyc.edu.tw/view-doc/35/國立臺灣師範大學辦理115年「全國高級中等學校英語文思辨簡報比賽」_辦法.pdf",
+          "quote": "比賽時間：上午 8:30 開始報到、8:50 賽前說明、9:15 開始比賽，遲到之隊伍視為棄權。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名",
+      "what": "線上表單填報正、備取選手與指導老師資料",
+      "how": "online"
+    },
+    {
+      "stage": "比賽當天：指定題",
+      "what": "三人輪流上台的英文簡報 5 分 30 秒至 6 分鐘（檔案存於自備 USB），之後接受評審至多 4 分鐘問答",
+      "how": "onsite"
+    },
+    {
+      "stage": "比賽當天：即席題",
+      "what": "一小時現場準備後，三人輪流上台的資料判讀英文簡報 3 分鐘至 3 分 30 秒",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "臺中市立沙鹿工業高級中等學校",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26306",
+        "quote": "比賽地點：臺中市立沙鹿工業高級中等學校。"
+      },
+      {
+        "url": "https://www.sssh.tyc.edu.tw/view-doc/35/國立臺灣師範大學辦理115年「全國高級中等學校英語文思辨簡報比賽」_辦法.pdf",
+        "quote": "比賽當天，完成指定題英語簡報之隊伍即刻進入即席題英語簡報。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.sssh.tyc.edu.tw/view-doc/35/國立臺灣師範大學辦理115年「全國高級中等學校英語文思辨簡報比賽」_辦法.pdf"
+      },
+      {
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26347"
+      },
+      {
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26306"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "應英組、非應英組各取總分前一至三名為優勝隊伍，其後一至兩名獲評審團獎；兩組另各取一至三名「最佳簡報發表人獎」、其後一至二名「優良簡報發表人獎」。當天上場選手可獲團體獎項獎狀。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.sssh.tyc.edu.tw/view-doc/35/國立臺灣師範大學辦理115年「全國高級中等學校英語文思辨簡報比賽」_辦法.pdf",
+        "quote": "依照參賽隊伍數量，將分別從應英組及非應英組各取賽事總分最高前一至三名為優勝隊伍，各組排名緊接其後之一至兩名者獲選評審團獎。"
+      },
+      {
+        "url": "https://www.sssh.tyc.edu.tw/view-doc/35/國立臺灣師範大學辦理115年「全國高級中等學校英語文思辨簡報比賽」_辦法.pdf",
+        "quote": "分別從應英組及非應英組各取一至三名獲頒「最佳簡報發表人獎」，其後一至二名獲頒「優良簡報發表人獎」。"
+      },
+      {
+        "url": "https://www.sssh.tyc.edu.tw/view-doc/35/國立臺灣師範大學辦理115年「全國高級中等學校英語文思辨簡報比賽」_辦法.pdf",
+        "quote": "比賽當天實際上場之選手可獲得團體獎項獎狀。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.sssh.tyc.edu.tw/view-doc/35/國立臺灣師範大學辦理115年「全國高級中等學校英語文思辨簡報比賽」_辦法.pdf"
+      },
+      {
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26347"
+      },
+      {
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26306"
+      }
+    ]
+  },
+  "links": {
+    "official": null,
+    "rules": [
+      {
+        "title": "115年全國高級中等學校英語文思辨簡報比賽實施計畫與比賽辦法（PDF）",
+        "url": "https://www.sssh.tyc.edu.tw/view-doc/35/國立臺灣師範大學辦理115年「全國高級中等學校英語文思辨簡報比賽」_辦法.pdf"
+      }
+    ],
+    "registration": "https://forms.gle/4a8vkbT87AhVY93k9"
+  },
+  "found_via": [
+    {
+      "name": "壽山高中 校外競賽",
+      "url": "https://www.sssh.tyc.edu.tw/news/%e5%9c%8b%e7%ab%8b%e8%87%ba%e7%81%a3%e5%b8%ab%e7%af%84%e5%a4%a7%e5%ad%b8%e8%be%a6%e7%90%86115%e5%b9%b4%e3%80%8c%e5%85%a8%e5%9c%8b%e9%ab%98%e7%b4%9a%e4%b8%ad%e7%ad%89%e5%ad%b8%e6%a0%a1%e8%8b%b1/"
+    },
+    {
+      "name": "苗栗農工 處室公告",
+      "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26347"
+    },
+    {
+      "name": "苗栗農工 處室公告",
+      "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26306"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-26",
+    "method": "single",
+    "unread": [
+      "指定題簡報範例（https://shorturl.at/czINT）",
+      "即席題資料判讀示例與簡報模版",
+      "即席題證據評析示例與簡報模版"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-26",
+  "conflict": "比賽辦法（PDF）與 mlaivs.mlc.edu.tw 公告 nid=26347 列出的報名表單為 https://forms.gle/4a8vkbT87AhVY93k9，同站公告 nid=26306 列出的報名表單則為 https://forms.gle/kycXtdbjriqT9rZm6。",
+  "level": "checked",
+  "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-ntnu-english-critical-thinking-presentation/",
+  "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-ntnu-english-critical-thinking-presentation.md"
+}

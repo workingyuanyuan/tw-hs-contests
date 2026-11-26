@@ -1,0 +1,385 @@
+{
+  "schema": 1,
+  "id": "2026-hearing-impaired-mandarin-contest",
+  "title": "第二十四屆全國聽覺障礙國民國語文競賽",
+  "edition": "第 24 屆",
+  "summary": "聽覺障礙學生與社會人士擇一項目參加朗讀、口語或手語演講、作文或書法比賽。",
+  "organizers": [
+    {
+      "name": "教育部國民及學前教育署",
+      "role": "主辦"
+    },
+    {
+      "name": "臺北市政府教育局",
+      "role": "協辦"
+    },
+    {
+      "name": "新北市政府教育局",
+      "role": "協辦"
+    },
+    {
+      "name": "桃園市政府教育局",
+      "role": "協辦"
+    },
+    {
+      "name": "臺中市政府教育局",
+      "role": "協辦"
+    },
+    {
+      "name": "臺南市政府教育局",
+      "role": "協辦"
+    },
+    {
+      "name": "高雄市政府教育局",
+      "role": "協辦"
+    },
+    {
+      "name": "中華民國聲暉聯合會",
+      "role": "協辦"
+    },
+    {
+      "name": "臺北市立啟聰學校",
+      "role": "承辦"
+    },
+    {
+      "name": "臺中市立啟聰學校",
+      "role": "承辦"
+    },
+    {
+      "name": "國立臺南大學附屬啟聰學校",
+      "role": "承辦"
+    }
+  ],
+  "categories": [
+    "語文與寫作"
+  ],
+  "eligibility": {
+    "levels": [
+      "國小",
+      "國中",
+      "高中",
+      "高職",
+      "大專",
+      "社會人士"
+    ],
+    "division": "separate",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "unknown",
+    "team_min": null,
+    "team_max": null,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg215/競賽實施計畫.pdf",
+        "quote": "現就讀於啟聰學校或特教學校高中職部聽覺障礙學生"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg215/競賽實施計畫.pdf",
+        "quote": "現就讀於各高級中等學校之聽覺障礙學生"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg215/競賽實施計畫.pdf",
+        "quote": "現就讀於各國民小學之聽覺障礙學生"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg215/競賽實施計畫.pdf",
+        "quote": "現就讀於各國民中學之聽覺障礙學生"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg215/競賽實施計畫.pdf",
+        "quote": "聽覺障礙之社會人士、大專學生"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg215/競賽實施計畫.pdf",
+        "quote": "聽覺正常並曾研習手語之社會人士及在學學生"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg215/競賽實施計畫.pdf",
+        "quote": "凡中華民國國民符合於本計畫五、競賽組別及對象規定者均可參加。"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg215/競賽實施計畫.pdf",
+        "quote": "參賽人員每人以參加一項目為限，不得跨項、跨組報名，違者取消競賽資格。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "other",
+      "label": "初賽報名開始",
+      "date": "2026-09-07",
+      "time": null,
+      "original": "115年9月7日(星期一)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg215/競賽實施計畫.pdf",
+          "quote": "115年9月7日(星期一)至115年 9月30日"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "初賽朗讀、口語演講及手語演講題目公告",
+      "date": "2026-09-16",
+      "time": null,
+      "original": "115 年 09月 16日(星期三)前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg215/競賽實施計畫.pdf",
+          "quote": "公告命題日期115 年 09月 16日(星期三)前"
+        }
+      ]
+    },
+    {
+      "kind": "registration_deadline",
+      "label": "初賽報名截止",
+      "date": "2026-09-30",
+      "time": null,
+      "original": "115 年9 月30 日（星期三）前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg215/競賽實施計畫.pdf",
+          "quote": "初賽請於 115 年9 月30 日（星期三）前完成報名手續"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "初賽試場服務需求審核會議",
+      "date": "2026-10-07",
+      "time": null,
+      "original": "115 年 10月 7日(星期三)前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg215/競賽實施計畫.pdf",
+          "quote": "115 年 10月 7日(星期三)前"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "初賽口語、手語演講稿上傳截止（口語、手語演講參賽者）",
+      "date": "2026-10-08",
+      "time": null,
+      "original": "115 年10月8 日（星期四）前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg215/競賽實施計畫.pdf",
+          "quote": "初賽稿件於115 年10 月8 日（星期四）前"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "北、中、南三區分區初賽",
+      "date": "2026-10-22",
+      "time": null,
+      "original": "115年10月22日（星期四）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=21985",
+          "quote": "(一)分區初賽：115年10月22日（星期四），由臺北市立啟聰學校、臺中市立啟聰學校、國立臺南大學附屬啟聰學校承辦北、中、南三區初賽。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "決賽朗讀、口語演講及手語演講題目公告",
+      "date": "2026-11-02",
+      "time": null,
+      "original": "115年 11月 02日(星期一)前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg215/競賽實施計畫.pdf",
+          "quote": "115年 11月 02日(星期一)前"
+        }
+      ]
+    },
+    {
+      "kind": "registration_deadline",
+      "label": "決賽報名截止（初賽晉級者）",
+      "date": "2026-11-16",
+      "time": null,
+      "original": "115 年11 月16 日（星期一）止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg215/競賽實施計畫.pdf",
+          "quote": "決賽請於115 年11 月16 日（星期一）止完成報名手續"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "決賽口語、手語演講稿上傳截止（口語、手語演講決賽參賽者）",
+      "date": "2026-12-03",
+      "time": null,
+      "original": "115 年12 月3 日（星期四）前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg215/競賽實施計畫.pdf",
+          "quote": "決賽稿件於115 年12 月3 日（星期四）前"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "全國決賽（12 月 16 至 17 日）",
+      "date": "2026-12-16",
+      "time": null,
+      "original": "115年12月16至17日（星期三、四）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=21985",
+          "quote": "(二)全國決賽：115年12月16至17日（星期三、四），由國立臺南大學附屬啟聰學校承辦全國決賽。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名",
+      "what": "網路報名後列印表件核章（社會組不須核章），掃描上傳；社會組甲組另上傳聽力證明文件",
+      "how": "online"
+    },
+    {
+      "stage": "初賽、決賽（口語、手語演講）",
+      "what": "演講稿（.doc、.docx 或 .odt，A4 直式橫書、標楷體 14 級字）",
+      "how": "online"
+    },
+    {
+      "stage": "分區初賽",
+      "what": "現場朗讀、口語或手語演講、作文或書法比賽",
+      "how": "onsite"
+    },
+    {
+      "stage": "全國決賽（初賽特優、優等為原則）",
+      "what": "現場朗讀、口語或手語演講、作文或書法比賽",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "初賽：臺北市立啟聰學校、臺中市立啟聰學校、國立臺南大學附屬啟聰學校新化校區；決賽：臺南台糖長榮酒店",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg215/競賽實施計畫.pdf",
+        "quote": "競賽地點 北區：臺北市立啟聰學校 中區：臺中市立啟聰學校 南區：國立臺南大學附屬啟聰學校 新化校區 臺南台糖長榮酒店"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg215/競賽實施計畫.pdf",
+        "quote": "作文及書法比賽題目由承辦學校統一命題，比賽時現場公布。"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg215/競賽實施計畫.pdf",
+        "quote": "參賽人員若現場唱名三次未到者，視同棄權。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg215/競賽實施計畫.pdf"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/news/%e7%ac%ac24%e5%b1%86%e5%85%a8%e5%9c%8b%e8%81%bd%e8%a6%ba%e9%9a%9c%e7%a4%99%e5%9c%8b%e6%b0%91%e5%9c%8b%e8%aa%9e%e6%96%87%e7%ab%b6%e8%b3%bd%e5%af%a6%e6%96%bd%e8%a8%88%e7%95%ab/"
+      },
+      {
+        "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=21985"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "初賽各組擇優錄取前三名優勝（依報名人數增額錄取），發予獎狀及獎品；決賽各組擇優錄取前三名優勝者，由主辦單位給予獎狀及獎品。初賽、決賽優勝學生及指導教師 1 人敘獎：特優記功 1 次、優等嘉獎 2 次、甲等嘉獎 1 次。決賽未獲獎者核發參賽證明。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg215/競賽實施計畫.pdf",
+        "quote": "各組擇優錄取前三名優勝，並依報名人數之多寡及成績予以增額錄取，由初賽承辦單位發予獎狀及獎品，以特優及優等參加全國決賽為原則。"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg215/競賽實施計畫.pdf",
+        "quote": "決賽各組擇優錄取前三名優勝者，由主辦單位給予獎狀及獎品，各競賽項目經評審委員討論後，獎項得以從缺。"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg215/競賽實施計畫.pdf",
+        "quote": "參加初賽優勝者及其指導教師1 人，特優者記功1 次，優等者嘉獎2 次，甲等者嘉獎1 次"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg215/競賽實施計畫.pdf",
+        "quote": "參加全國決賽優勝者及其指導教師1 人，特優者記功1 次，優等者嘉獎2 次，甲等者嘉獎1 次。"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg215/競賽實施計畫.pdf",
+        "quote": "參加決賽未獲獎之參賽人員核發參賽證明。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg215/競賽實施計畫.pdf"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/news/%e7%ac%ac24%e5%b1%86%e5%85%a8%e5%9c%8b%e8%81%bd%e8%a6%ba%e9%9a%9c%e7%a4%99%e5%9c%8b%e6%b0%91%e5%9c%8b%e8%aa%9e%e6%96%87%e7%ab%b6%e8%b3%bd%e5%af%a6%e6%96%bd%e8%a8%88%e7%95%ab/"
+      },
+      {
+        "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=21985"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://sencirrev.spc.ntnu.edu.tw/hearing/include/index.php",
+    "rules": [
+      {
+        "title": "第二十四屆全國聽覺障礙國民國語文競賽實施計畫（PDF）",
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg215/競賽實施計畫.pdf"
+      }
+    ],
+    "registration": "https://sencirrev.spc.ntnu.edu.tw/hearing/include/index.php"
+  },
+  "found_via": [
+    {
+      "name": "成功高中 活動競賽",
+      "url": "https://www.cksh.tp.edu.tw/news/%e7%ac%ac24%e5%b1%86%e5%85%a8%e5%9c%8b%e8%81%bd%e8%a6%ba%e9%9a%9c%e7%a4%99%e5%9c%8b%e6%b0%91%e5%9c%8b%e8%aa%9e%e6%96%87%e7%ab%b6%e8%b3%bd%e5%af%a6%e6%96%bd%e8%a8%88%e7%95%ab/"
+    },
+    {
+      "name": "金門高中 最新消息",
+      "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=21985"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-26",
+    "method": "single",
+    "unread": [
+      "參賽者報名時應繳交之同意書"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-26",
+  "level": "checked",
+  "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-hearing-impaired-mandarin-contest/",
+  "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-hearing-impaired-mandarin-contest.md"
+}

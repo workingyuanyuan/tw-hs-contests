@@ -1,0 +1,230 @@
+{
+  "schema": 1,
+  "id": "2026-shs-small-thesis",
+  "title": "115學年度全國高級中等學校小論文寫作比賽",
+  "edition": "115 學年度",
+  "summary": "全國高中職學生個人或至多 3 人小組，擇 21 類主題之一以中文或英文撰寫小論文參賽。",
+  "organizers": [
+    {
+      "name": "教育部國民及學前教育署",
+      "role": "指導"
+    },
+    {
+      "name": "全國高級中等學校圖書館輔導團（國立中興高級中學）",
+      "role": "主辦"
+    },
+    {
+      "name": "國立中興大學附屬高級中學",
+      "role": "承辦"
+    }
+  ],
+  "categories": [
+    "語文與寫作",
+    "自然科學",
+    "社會人文"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職"
+    ],
+    "division": "hs_only",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "school",
+    "team_min": 1,
+    "team_max": 3,
+    "teacher": "required",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/07/來文附件_A09030000E_1155403205_senddoc2_Attach2.pdf",
+        "quote": "全國高級中等學校在學學生（含高級中等教育階段非學校型態實驗教育學生， 註冊事宜請洽全國高級中等學校圖書館輔導團）。"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/07/來文附件_A09030000E_1155403205_senddoc2_Attach2.pdf",
+        "quote": "個人或小組參賽皆可，惟小組成員須同校同年級（可不同班），且最多3人為一小組。"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/07/來文附件_A09030000E_1155403205_senddoc2_Attach2.pdf",
+        "quote": "參賽學校應先辦理校內初賽，再擇優作品參加投稿，投稿至中學生網站之作品須由學生簽立「切結書」（如附件2）才能參賽，未簽立者由原學校刪除作品。"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/07/來文附件_A09030000E_1155403205_senddoc2_Attach2.pdf",
+        "quote": "參賽學校於校內初選階段應透過指導教師與學生討論之方式，確認文章內容並無由AI工具生成。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "submission_deadline",
+      "label": "第一學期投稿截止",
+      "date": "2026-10-15",
+      "time": "12:00",
+      "original": "115年10月15日中午12時",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/07/來文附件_A09030000E_1155403205_senddoc2_Attach2.pdf",
+          "quote": "第一學期自115年9月1日（星期二）起至10月15日（星期四）中午12時止。"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "第一學期公布得獎名單",
+      "date": "2026-11-26",
+      "time": null,
+      "original": "115-11-26前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/07/來文附件_A09030000E_1155403205_senddoc2_Attach2.pdf",
+          "quote": "115-11-26前"
+        },
+        {
+          "url": "https://www.hccvs.hc.edu.tw/ischool/public/news_view/show.php?nid=25989",
+          "quote": "１、第1學期：115年11月26日前。"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "第二學期投稿截止",
+      "date": "2027-03-15",
+      "time": "12:00",
+      "original": "116年3月15日中午12時",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/07/來文附件_A09030000E_1155403205_senddoc2_Attach2.pdf",
+          "quote": "第二學期自116年2月1日（星期一）起至3月15日（星期一）中午12時止。"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "第二學期公布得獎名單",
+      "date": "2027-04-26",
+      "time": null,
+      "original": "116-04-26前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/07/來文附件_A09030000E_1155403205_senddoc2_Attach2.pdf",
+          "quote": "116-04-26 前"
+        },
+        {
+          "url": "https://www.hccvs.hc.edu.tw/ischool/public/news_view/show.php?nid=25989",
+          "quote": "２、第2學期：116年4月26日前。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "投稿（第一學期或第二學期）",
+      "what": "A4 直式 4 至 10 頁 PDF 檔，不含封面，含圖檔不超過 5MB，依前言至參考文獻六大架構撰寫",
+      "how": "online"
+    },
+    {
+      "stage": "投稿時",
+      "what": "作品切結書，每篇（組）一張，交學校留存",
+      "how": "unknown"
+    }
+  ],
+  "attendance": {
+    "value": "none",
+    "where": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/07/來文附件_A09030000E_1155403205_senddoc2_Attach2.pdf"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/07/來文附件_A09030000E_1155403205_senddoc2_Attach2.pdf"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "依年級評分，分特優、優等、甲等三種等第，頒發獎狀；總得獎率不超過 50%。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/07/來文附件_A09030000E_1155403205_senddoc2_Attach2.pdf",
+        "quote": "比賽依年級評分，評審評比分為特優、優等、甲等三種等第，頒發獎狀以資鼓勵。"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/07/來文附件_A09030000E_1155403205_senddoc2_Attach2.pdf",
+        "quote": "總得獎率不超過50%，各獎項依每梯次之分數分布，得獎比例由輔導團依特優<優等<甲等之原則訂定之。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "restricted",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/07/來文附件_A09030000E_1155403205_senddoc2_Attach2.pdf",
+        "quote": "學生可利用AI工具進行主題之發想，但文章內容（含摘要、改寫、圖表等）不得以任何AI工具生成。"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://www.shs.edu.tw/",
+    "rules": [
+      {
+        "title": "115學年度全國高級中等學校小論文寫作比賽實施計畫",
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/07/來文附件_A09030000E_1155403205_senddoc2_Attach2.pdf"
+      }
+    ],
+    "registration": "https://www.shs.edu.tw/"
+  },
+  "found_via": [
+    {
+      "name": "金門高中 最新消息",
+      "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=22156"
+    },
+    {
+      "name": "新竹高商 消息公佈欄",
+      "url": "https://www.hccvs.hc.edu.tw/ischool/public/news_view/show.php?nid=25989"
+    },
+    {
+      "name": "高師大附中 校外競賽與活動",
+      "url": "https://www.nknush.kh.edu.tw/announcement/16550/hot%e3%80%8c115%e5%ad%b8%e5%b9%b4%e5%ba%a6%e5%85%a8%e5%9c%8b%e9%ab%98%e7%b4%9a%e4%b8%ad%e7%ad%89%e5%ad%b8%e6%a0%a1%e9%96%b1%e8%ae%80%e5%bf%83%e5%be%97%e5%af%ab%e4%bd%9c%e6%af%94%e8%b3%bd%e5%af%a6/"
+    },
+    {
+      "name": "武陵高中 校外競賽",
+      "url": "http://www.wlsh.tyc.edu.tw/p/406-1000-42860,r83.php?Lang=zh-tw"
+    },
+    {
+      "name": "暨大附中 學生研習與競賽活動",
+      "url": "https://www.pshs.ntct.edu.tw/ischool/public/news_view/show.php?nid=33143"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-26",
+    "method": "dual",
+    "unread": [
+      "中學生網站常見問題／如何投稿"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5",
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-26",
+  "level": "verified",
+  "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-shs-small-thesis/",
+  "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-shs-small-thesis.md"
+}

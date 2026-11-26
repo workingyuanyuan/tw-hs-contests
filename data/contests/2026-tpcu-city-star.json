@@ -1,0 +1,273 @@
+{
+  "schema": 1,
+  "id": "2026-tpcu-city-star",
+  "title": "2026城市盃CITY STAR 城市餐旅之星挑戰賽",
+  "edition": "2026",
+  "summary": "高中職學生一至二人一組，以原住民族文化為主題，創作蛋糕裝飾、餐點展示、伴手禮或導覽解說影片。",
+  "organizers": [
+    {
+      "name": "教育部",
+      "role": "指導"
+    },
+    {
+      "name": "原住民族委員會",
+      "role": "指導"
+    },
+    {
+      "name": "臺北城市科技大學 原住民族學生資源中心",
+      "role": "主辦"
+    },
+    {
+      "name": "臺北城市科技大學 餐飲事業系",
+      "role": "主辦"
+    },
+    {
+      "name": "臺北城市科技大學 觀光事業系",
+      "role": "主辦"
+    },
+    {
+      "name": "臺北城市科技大學 烘焙學程",
+      "role": "主辦"
+    },
+    {
+      "name": "臺北城市科技大學 課外活動組",
+      "role": "協辦"
+    },
+    {
+      "name": "臺北城市科技大學 原住民樂舞文化社",
+      "role": "協辦"
+    }
+  ],
+  "categories": [
+    "餐旅",
+    "技藝與技能",
+    "影音"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職"
+    ],
+    "division": "hs_only",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": 2,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27827/%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "全國各高中職之在學學生。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27827/%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "1.填寫 QR code 報名表單"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27827/%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "A1. 導覽解說影片設計組-中文組(一組二人)"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27827/%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "A2. 創意蛋糕裝飾組(一組一人)"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "報名截止",
+      "date": "2026-10-03",
+      "time": null,
+      "original": "即日起至115年10月3日(六)止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27827/%E7%B0%A1%E7%AB%A0.pdf",
+          "quote": "即日起至115年10月3日(六)止"
+        },
+        {
+          "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26275",
+          "quote": "二、報名時間：即日起至115年10月3日(六)止。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "現場競賽",
+      "date": "2026-10-17",
+      "time": null,
+      "original": "115年10月17日(六)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27827/%E7%B0%A1%E7%AB%A0.pdf",
+          "quote": "現場競賽 115年10月17日(六)"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名",
+      "what": "報名表單，並將附件表格填妥後以電子郵件寄出",
+      "how": "online"
+    },
+    {
+      "stage": "A1 導覽解說影片設計組（報名時）",
+      "what": "在原鄉地點自行拍攝的 2–3 分鐘影片（MP4/AVI/MOV，至少 1280×960），上傳 YouTube 設為不公開並寄出連結",
+      "how": "online"
+    },
+    {
+      "stage": "A1 導覽解說影片設計組（現場）",
+      "what": "現場播放作品發表，接受評審 2 分鐘提問",
+      "how": "onsite"
+    },
+    {
+      "stage": "A2 創意蛋糕裝飾組（現場）",
+      "what": "120 分鐘內以原民特色食材裝飾 8 吋圓形或 20 公分正方單層蛋糕，附 A4 立牌並分享創作理念約 3 分鐘",
+      "how": "onsite"
+    },
+    {
+      "stage": "B1 原住民果醬畫盤藝術展示",
+      "what": "以可食性材料完成的單一展示盤畫盤作品及說明卡，於指定時間內陳列",
+      "how": "onsite"
+    },
+    {
+      "stage": "B2 原住民果凍花藝術展示",
+      "what": "以透明或半透明果凍為主要媒材的立體作品及說明卡，於指定時間內陳列",
+      "how": "onsite"
+    },
+    {
+      "stage": "B3 原住民伴手禮設計組",
+      "what": "1000 字以內作品簡介及創作理念（含市場推廣評估）與作品照片 3–5 張",
+      "how": "unknown"
+    },
+    {
+      "stage": "B3 原住民伴手禮設計組（現場）",
+      "what": "攤位上 2 分鐘產品口頭介紹及委員問答",
+      "how": "onsite"
+    },
+    {
+      "stage": "B4 翻糖蛋糕裝飾組（現場）",
+      "what": "60 分鐘內完成不低於 25 公分的翻糖蛋糕，附 A4 立牌並分享創作理念約 3 分鐘",
+      "how": "onsite"
+    },
+    {
+      "stage": "B5 原住民手指小食展示",
+      "what": "4 款手指小食各 4 件共 16 件，另備評審檢視盤 1 盤，並布置展台",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "臺北城市科技大學圖資大樓 2 樓藝文中心（導覽解說影片設計組在 10 樓旅運服務教室）",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27827/%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "現場競賽 115年10月17日(六)"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27827/%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "競賽地點：圖資大樓2樓藝文中心(導覽解說影片設計組請至10樓旅運服務教室競賽)"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27827/%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "無故缺席者或競賽開始後20分鐘未到場選手，視同放棄比賽資格。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27827/%E7%B0%A1%E7%AB%A0.pdf"
+      },
+      {
+        "url": "https://drive.google.com/file/d/10opn17vpgT2GjPTdGg7jm7WmTi06l9z1/view?usp=sharing"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "七個組別各設金牌 1 組（獎金 5,000 元）、銀牌 1 組（3,000 元）、銅牌 1 組（2,000 元），皆附獎狀及獎牌；佳作數組，頒獎狀。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27827/%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "獎金新台幣5,000元暨獎狀壹紙、獎牌壹座。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27827/%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "獎金新台幣3,000元暨獎狀壹紙、獎牌壹座。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27827/%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "獎金新台幣2,000元暨獎狀壹紙、獎牌壹座。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27827/%E7%B0%A1%E7%AB%A0.pdf"
+      },
+      {
+        "url": "https://drive.google.com/file/d/10opn17vpgT2GjPTdGg7jm7WmTi06l9z1/view?usp=sharing"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://sao.tpcu.edu.tw/p/406-1017-85910,r884.php?Lang=zh-tw",
+    "rules": [
+      {
+        "title": "簡章",
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27827/%E7%B0%A1%E7%AB%A0.pdf"
+      },
+      {
+        "title": "簡章（Google Drive）",
+        "url": "https://drive.google.com/file/d/10opn17vpgT2GjPTdGg7jm7WmTi06l9z1/view?usp=sharing"
+      }
+    ],
+    "registration": null
+  },
+  "found_via": [
+    {
+      "name": "大同高中 學生競賽活動",
+      "url": "https://www.ttsh.tp.edu.tw/news/%e5%9f%8e%e5%b8%82%e5%ad%b8%e6%a0%a1%e8%b2%a1%e5%9c%98%e6%b3%95%e4%ba%ba%e8%87%ba%e5%8c%97%e5%9f%8e%e5%b8%82%e7%a7%91%e6%8a%80%e5%a4%a7%e5%ad%b8-%e8%be%a6%e7%90%86%e3%80%8c2026%e5%9f%8e%e5%b8%82/"
+    },
+    {
+      "name": "苗栗農工 處室公告",
+      "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26275"
+    },
+    {
+      "name": "斗六高中 營隊研習競賽",
+      "url": "https://www.tlsh.ylc.edu.tw/2026/09/04/66679/"
+    },
+    {
+      "name": "苗栗高中 學生校外營隊、活動、比賽",
+      "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=27827"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-26",
+    "method": "single",
+    "unread": [
+      "報名表（附件表格）",
+      "報名 QR code 表單"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-26"
+}

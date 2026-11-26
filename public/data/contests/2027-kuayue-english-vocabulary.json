@@ -214,19 +214,20 @@
   ],
   "verification": {
     "last_verified": "2026-11-26",
-    "method": "single",
+    "method": "dual",
     "unread": [
       "獎狀及參賽證書樣式圖"
     ],
     "note": null,
     "readers": [
+      "claude-opus-5-5",
       "claude-opus-5-5"
     ]
   },
   "first_seen": "2026-11-24",
   "updated": "2026-11-26",
   "conflict": "簡章「八、競賽時間」寫國小各組上午9:00至10:30（90分鐘）、國中組與高中組上午9:00至11:00（120分鐘）；同一簡章「十三、競賽日程表」與報名頁寫國小組10:00至11:00（60分鐘）、國中組與高中組10:00至11:30（90分鐘），並有09:50起的登入預備時間。",
-  "level": "checked",
+  "level": "verified",
   "url": "https://yuanaruru.com/tw-hs-contests/contests/2027-kuayue-english-vocabulary/",
   "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2027-kuayue-english-vocabulary.md"
 }

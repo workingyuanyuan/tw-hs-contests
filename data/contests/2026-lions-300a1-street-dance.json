@@ -1,0 +1,264 @@
+{
+  "schema": 1,
+  "id": "2026-lions-300a1-street-dance",
+  "title": "「愛在西門—反毒反詐青春熱舞嘉年華」台北市、新北市高中職反毒拒毒反毒駕青春熱舞比賽",
+  "edition": "2026-2027年度",
+  "summary": "台北市、新北市高中職學生組隊，以反毒、反詐騙、反霸凌等為主題演出團體青春熱舞。",
+  "organizers": [
+    {
+      "name": "國際獅子會300A1區",
+      "role": "主辦"
+    },
+    {
+      "name": "內政部警政署刑事警察局",
+      "role": "主辦"
+    },
+    {
+      "name": "台北市政府警察局萬華分局",
+      "role": "主辦"
+    },
+    {
+      "name": "台北市政府",
+      "role": "指導"
+    },
+    {
+      "name": "台北市議員徐立信",
+      "role": "協辦"
+    },
+    {
+      "name": "台北市政府文化局",
+      "role": "協辦"
+    },
+    {
+      "name": "台北市政府社會局",
+      "role": "協辦"
+    },
+    {
+      "name": "台北市政府交通局",
+      "role": "協辦"
+    },
+    {
+      "name": "300A1區各協辦委員會",
+      "role": "協辦"
+    }
+  ],
+  "categories": [
+    "表演藝術"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職"
+    ],
+    "division": "hs_only",
+    "regions": [
+      "台北市",
+      "新北市"
+    ],
+    "nomination": "school",
+    "team_min": 3,
+    "team_max": 8,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.ttsh.tp.edu.tw/view-doc/11/附件29380088_1153094252_ATTCH1.pdf",
+        "quote": "四、參加人員：台北市、新北市公、私立高中職學生，預計20隊。"
+      },
+      {
+        "url": "https://www.ttsh.tp.edu.tw/view-doc/11/附件29380088_1153094252_ATTCH1.pdf",
+        "quote": "（四）參賽者須為高中職在校學生，且未與任何經紀公司簽署合約者。"
+      },
+      {
+        "url": "https://www.ttsh.tp.edu.tw/view-doc/11/附件29380088_1153094252_ATTCH1.pdf",
+        "quote": "一、各校可派出代表，採自由報名參加。"
+      },
+      {
+        "url": "https://www.ttsh.tp.edu.tw/view-doc/11/附件29380088_1153094252_ATTCH1.pdf",
+        "quote": "(每校限定二隊，總數最多二十隊)"
+      },
+      {
+        "url": "https://www.ttsh.tp.edu.tw/view-doc/11/附件29380088_1153094252_ATTCH1.pdf",
+        "quote": "（二）參賽人數3至8人。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "報名截止",
+      "date": "2026-09-30",
+      "time": null,
+      "original": "115年9月30日（星期三）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.ttsh.tp.edu.tw/view-doc/11/附件29380088_1153094252_ATTCH1.pdf",
+          "quote": "報名期間自即日起至115年9月30日（星期三）止，參加隊伍請將報名"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "領隊會議暨出場序抽籤，繳交音樂MP3檔",
+      "date": "2026-10-04",
+      "time": "11:00",
+      "original": "115年10月4日（星期日)上午11:00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.ttsh.tp.edu.tw/view-doc/11/附件29380088_1153094252_ATTCH1.pdf",
+          "quote": "（三）領隊會議召開時間：民國115年10月4日（星期日)上午11:00於本區會館召開。（將於領隊會議中舉行出場序抽籤)"
+        },
+        {
+          "url": "https://www.ttsh.tp.edu.tw/view-doc/11/附件29380088_1153094252_ATTCH1.pdf",
+          "quote": "（一）各校請於115年10月4日上午11:00抽籤並繳交音樂USBMP3檔，並指派專人協助音樂播放。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "熱舞比賽（下午1:30報到，2:45開賽）",
+      "date": "2026-10-24",
+      "time": "14:45",
+      "original": "民國115年10月24日（星期六）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.ttsh.tp.edu.tw/view-doc/11/附件29380088_1153094252_ATTCH1.pdf",
+          "quote": "一、時間：民國115年10月24日（星期六）"
+        },
+        {
+          "url": "https://www.ttsh.tp.edu.tw/view-doc/11/附件29380088_1153094252_ATTCH1.pdf",
+          "quote": "二、參賽隊伍報到及適應場地時間為下午1:30~2:30，2:45比賽正式開始"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名",
+      "what": "報名表（附表1），傳真、寄送或以電子郵件送交",
+      "how": "mail"
+    },
+    {
+      "stage": "領隊會議",
+      "what": "音樂 USB MP3 檔",
+      "how": "onsite"
+    },
+    {
+      "stage": "比賽",
+      "what": "3 至 5 分鐘團體熱舞表演",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "臺北市電影主題公園",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.ttsh.tp.edu.tw/view-doc/11/附件29380088_1153094252_ATTCH1.pdf",
+        "quote": "三、地點：臺北市電影主題公園(臺北市萬華區萬壽里康定路19號)"
+      },
+      {
+        "url": "https://www.ttsh.tp.edu.tw/view-doc/11/附件29380088_1153094252_ATTCH1.pdf",
+        "quote": "（三）表演時間3至5分鐘。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.ttsh.tp.edu.tw/view-doc/11/附件29380088_1153094252_ATTCH1.pdf"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/news/%e3%80%90%e8%bd%89%e7%9f%a5%e3%80%91-%e5%9c%8b%e9%9a%9b%e7%8d%85%e5%ad%90%e6%9c%83300a1%e5%8d%80%ef%bc%88%e4%b8%8b%e7%a8%b1%e8%a9%b2%e5%8d%80%ef%bc%89%e8%be%a6%e7%90%86%e9%ab%98%e4%b8%ad%ef%bc%88/"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "冠軍1名新台幣20,000元、亞軍1名15,000元、季軍1名10,000元、優勝7名5,000元，皆附獎盃；未得獎的報名隊伍每隊車馬費3,000元；參賽者皆獲獎狀及紀念品；冠軍隊伍可受邀於分會授證時演出。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.ttsh.tp.edu.tw/view-doc/11/附件29380088_1153094252_ATTCH1.pdf",
+        "quote": "【冠軍】1名新台幣20,000元+獎盃"
+      },
+      {
+        "url": "https://www.ttsh.tp.edu.tw/view-doc/11/附件29380088_1153094252_ATTCH1.pdf",
+        "quote": "【亞軍】1名新台幣15,000元+獎盃"
+      },
+      {
+        "url": "https://www.ttsh.tp.edu.tw/view-doc/11/附件29380088_1153094252_ATTCH1.pdf",
+        "quote": "【季軍】1名新台幣10,000元+獎盃"
+      },
+      {
+        "url": "https://www.ttsh.tp.edu.tw/view-doc/11/附件29380088_1153094252_ATTCH1.pdf",
+        "quote": "【優勝】7名新台幣5,000元+獎盃"
+      },
+      {
+        "url": "https://www.ttsh.tp.edu.tw/view-doc/11/附件29380088_1153094252_ATTCH1.pdf",
+        "quote": "車馬費：報名隊伍每隊3,000元（有得獎者無車馬費補貼）"
+      },
+      {
+        "url": "https://www.ttsh.tp.edu.tw/view-doc/11/附件29380088_1153094252_ATTCH1.pdf",
+        "quote": "冠軍隊伍可被邀請於本區分會授證時演出"
+      },
+      {
+        "url": "https://www.ttsh.tp.edu.tw/view-doc/11/附件29380088_1153094252_ATTCH1.pdf",
+        "quote": "參賽者本區皆致贈獎狀乙面及紀念品"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.ttsh.tp.edu.tw/view-doc/11/附件29380088_1153094252_ATTCH1.pdf"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/news/%e3%80%90%e8%bd%89%e7%9f%a5%e3%80%91-%e5%9c%8b%e9%9a%9b%e7%8d%85%e5%ad%90%e6%9c%83300a1%e5%8d%80%ef%bc%88%e4%b8%8b%e7%a8%b1%e8%a9%b2%e5%8d%80%ef%bc%89%e8%be%a6%e7%90%86%e9%ab%98%e4%b8%ad%ef%bc%88/"
+      }
+    ]
+  },
+  "links": {
+    "official": null,
+    "rules": [
+      {
+        "title": "比賽辦法（含報名表）",
+        "url": "https://www.ttsh.tp.edu.tw/view-doc/11/附件29380088_1153094252_ATTCH1.pdf"
+      }
+    ],
+    "registration": null
+  },
+  "found_via": [
+    {
+      "name": "大同高中 學生競賽活動",
+      "url": "https://www.ttsh.tp.edu.tw/news/%e5%9c%8b%e9%9a%9b%e7%8d%85%e5%ad%90%e6%9c%83300a1%e5%8d%80%e8%be%a6%e7%90%86%e9%ab%98%e4%b8%ad%ef%bc%88%e8%81%b7%ef%bc%89%e9%9d%92-%e5%b0%91%e5%b9%b4%e7%86%b1%e8%88%9e%e6%af%94%e8%b3%bd%e6%b4%bb/"
+    },
+    {
+      "name": "南港高工 重要資訊",
+      "url": "https://www.nkhs.tp.edu.tw/ischool/public/news_view/show.php?nid=34502"
+    },
+    {
+      "name": "成功高中 活動競賽",
+      "url": "https://www.cksh.tp.edu.tw/news/%e3%80%90%e8%bd%89%e7%9f%a5%e3%80%91-%e5%9c%8b%e9%9a%9b%e7%8d%85%e5%ad%90%e6%9c%83300a1%e5%8d%80%ef%bc%88%e4%b8%8b%e7%a8%b1%e8%a9%b2%e5%8d%80%ef%bc%89%e8%be%a6%e7%90%86%e9%ab%98%e4%b8%ad%ef%bc%88/"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-26",
+    "method": "single",
+    "unread": [],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-26"
+}

@@ -1,0 +1,222 @@
+{
+  "schema": 1,
+  "id": "2026-coolenglish-listening",
+  "title": "115年度「Cool English普技高英聽高手」比賽",
+  "edition": "115 年度",
+  "summary": "高中職與五專一至三年級學生在 Cool English 平臺看臺灣景點影片並作答英語聽力題。",
+  "organizers": [
+    {
+      "name": "教育部國民及學前教育署",
+      "role": "指導"
+    },
+    {
+      "name": "國立臺灣師範大學",
+      "role": "承辦"
+    }
+  ],
+  "categories": [
+    "外語"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職",
+      "五專"
+    ],
+    "division": "separate",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": 1,
+    "teacher": "optional",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=SDdoRUplZUVNT3lLTDg3YlpQQzRBWTB5YXd0Yy83T1NETWEwWnFBMHR0Q1FZVE9BdG1vbXpJRStPOGk1WUxKbWlpYk5zNGRoK1QvYVpnTStZeGpKOVRMcHdWVnQxbTNyamZBbkNUZHhsMVk9&fname=T3hoY3AvbWFMM1FtMFJXZTVuMTJSakxwd1ZWdDFtM3JqZkFuQ1RkeGwxWT0=",
+        "quote": "一、參賽對象：凡就讀於全國公私立高中職，或正在接受高中階段非學校型態實驗教育之學​\n​生，皆可報名參加。"
+      },
+      {
+        "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=SDdoRUplZUVNT3lLTDg3YlpQQzRBWTB5YXd0Yy83T1NETWEwWnFBMHR0Q1FZVE9BdG1vbXpJRStPOGk1WUxKbWlpYk5zNGRoK1QvYVpnTStZeGpKOVRMcHdWVnQxbTNyamZBbkNUZHhsMVk9&fname=T3hoY3AvbWFMM1FtMFJXZTVuMTJSakxwd1ZWdDFtM3JqZkFuQ1RkeGwxWT0=",
+        "quote": "二、報名組別：分為普高組、技高組及五專組，不得跨組參賽。"
+      },
+      {
+        "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=SDdoRUplZUVNT3lLTDg3YlpQQzRBWTB5YXd0Yy83T1NETWEwWnFBMHR0Q1FZVE9BdG1vbXpJRStPOGk1WUxKbWlpYk5zNGRoK1QvYVpnTStZeGpKOVRMcHdWVnQxbTNyamZBbkNUZHhsMVk9&fname=T3hoY3AvbWFMM1FtMFJXZTVuMTJSakxwd1ZWdDFtM3JqZkFuQ1RkeGwxWT0=",
+        "quote": "3​.​​五專組：​限五專一年級至三年級學生，五專四、五年級學生不具參賽資格。"
+      },
+      {
+        "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=SDdoRUplZUVNT3lLTDg3YlpQQzRBWTB5YXd0Yy83T1NETWEwWnFBMHR0Q1FZVE9BdG1vbXpJRStPOGk1WUxKbWlpYk5zNGRoK1QvYVpnTStZeGpKOVRMcHdWVnQxbTNyamZBbkNUZHhsMVk9&fname=T3hoY3AvbWFMM1FtMFJXZTVuMTJSakxwd1ZWdDFtM3JqZkFuQ1RkeGwxWT0=",
+        "quote": "學生帳號個人報名：​參賽者以學生帳號登入平臺後，點選「比賽專區＞普高區/技高區/大​\n​專區＞115年度英聽高手比賽專區＞開始報名」，依畫面指示填妥資料後送出，即完成報​\n​名。"
+      },
+      {
+        "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=SDdoRUplZUVNT3lLTDg3YlpQQzRBWTB5YXd0Yy83T1NETWEwWnFBMHR0Q1FZVE9BdG1vbXpJRStPOGk1WUxKbWlpYk5zNGRoK1QvYVpnTStZeGpKOVRMcHdWVnQxbTNyamZBbkNUZHhsMVk9&fname=T3hoY3AvbWFMM1FtMFJXZTVuMTJSakxwd1ZWdDFtM3JqZkFuQ1RkeGwxWT0=",
+        "quote": "教師帳號團體報名：​老師以酷英教師帳號登入平臺後，點選「班級管理＞欲報名的班級＞​\n​團體報名」，依畫面指示填妥資料後送出，即可協助班級學生團體報名。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "other",
+      "label": "報名與作答開始",
+      "date": "2026-09-07",
+      "time": null,
+      "original": "115年9月7日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://dlsh.tc.edu.tw/p/406-1068-628270,r2145.php?Lang=zh-tw",
+          "quote": "旨揭活動期間自115年9月7日起至115年10月16日止，參賽對象分普高組"
+        },
+        {
+          "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=SDdoRUplZUVNT3lLTDg3YlpQQzRBWTB5YXd0Yy83T1NETWEwWnFBMHR0Q1FZVE9BdG1vbXpJRStPOGk1WUxKbWlpYk5zNGRoK1QvYVpnTStZeGpKOVRMcHdWVnQxbTNyamZBbkNUZHhsMVk9&fname=T3hoY3AvbWFMM1FtMFJXZTVuMTJSakxwd1ZWdDFtM3JqZkFuQ1RkeGwxWT0=",
+          "quote": "報名與作答時間：​115​年​9​月​7​日（一）至​115​年​10​月​16​日（五）​17:00"
+        }
+      ]
+    },
+    {
+      "kind": "registration_deadline",
+      "label": "報名截止",
+      "date": "2026-10-16",
+      "time": "17:00",
+      "original": "115年10月16日（五）17:00止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://dlsh.tc.edu.tw/p/406-1068-628270,r2145.php?Lang=zh-tw",
+          "quote": "旨揭活動期間自115年9月7日起至115年10月16日止，參賽對象分普高組"
+        },
+        {
+          "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=SDdoRUplZUVNT3lLTDg3YlpQQzRBWTB5YXd0Yy83T1NETWEwWnFBMHR0Q1FZVE9BdG1vbXpJRStPOGk1WUxKbWlpYk5zNGRoK1QvYVpnTStZeGpKOVRMcHdWVnQxbTNyamZBbkNUZHhsMVk9&fname=T3hoY3AvbWFMM1FtMFJXZTVuMTJSakxwd1ZWdDFtM3JqZkFuQ1RkeGwxWT0=",
+          "quote": "報名與作答時間：​115​年​9​月​7​日（一）至​115​年​10​月​16​日（五）​17:00"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "作答截止",
+      "date": "2026-10-16",
+      "time": "17:00",
+      "original": "115年10月16日（五）17:00止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://dlsh.tc.edu.tw/p/406-1068-628270,r2145.php?Lang=zh-tw",
+          "quote": "旨揭活動期間自115年9月7日起至115年10月16日止，參賽對象分普高組"
+        },
+        {
+          "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=SDdoRUplZUVNT3lLTDg3YlpQQzRBWTB5YXd0Yy83T1NETWEwWnFBMHR0Q1FZVE9BdG1vbXpJRStPOGk1WUxKbWlpYk5zNGRoK1QvYVpnTStZeGpKOVRMcHdWVnQxbTNyamZBbkNUZHhsMVk9&fname=T3hoY3AvbWFMM1FtMFJXZTVuMTJSakxwd1ZWdDFtM3JqZkFuQ1RkeGwxWT0=",
+          "quote": "報名與作答時間：​115​年​9​月​7​日（一）至​115​年​10​月​16​日（五）​17:00"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "線上作答",
+      "what": "指定練習題組 20 組（20 部影片，每組 5 題，共 100 題），可重複作答，系統記錄最高分",
+      "how": "online"
+    }
+  ],
+  "attendance": {
+    "value": "none",
+    "where": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=SDdoRUplZUVNT3lLTDg3YlpQQzRBWTB5YXd0Yy83T1NETWEwWnFBMHR0Q1FZVE9BdG1vbXpJRStPOGk1WUxKbWlpYk5zNGRoK1QvYVpnTStZeGpKOVRMcHdWVnQxbTNyamZBbkNUZHhsMVk9&fname=T3hoY3AvbWFMM1FtMFJXZTVuMTJSakxwd1ZWdDFtM3JqZkFuQ1RkeGwxWT0="
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=SDdoRUplZUVNT3lLTDg3YlpQQzRBWTB5YXd0Yy83T1NETWEwWnFBMHR0Q1FZVE9BdG1vbXpJRStPOGk1WUxKbWlpYk5zNGRoK1QvYVpnTStZeGpKOVRMcHdWVnQxbTNyamZBbkNUZHhsMVk9&fname=T3hoY3AvbWFMM1FtMFJXZTVuMTJSakxwd1ZWdDFtM3JqZkFuQ1RkeGwxWT0="
+      }
+    ]
+  },
+  "prizes": {
+    "text": "完成所屬組別全部試題且平均分數達 100 分者獲承辦單位獎狀；各組再從得獎者抽出超商商品卡 800 元（普高組、技高組各 50 名，五專組 10 名）與 200 元（普高組、技高組各 310 名，五專組 25 名），每人限獲獎一次。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=SDdoRUplZUVNT3lLTDg3YlpQQzRBWTB5YXd0Yy83T1NETWEwWnFBMHR0Q1FZVE9BdG1vbXpJRStPOGk1WUxKbWlpYk5zNGRoK1QvYVpnTStZeGpKOVRMcHdWVnQxbTNyamZBbkNUZHhsMVk9&fname=T3hoY3AvbWFMM1FtMFJXZTVuMTJSakxwd1ZWdDFtM3JqZkFuQ1RkeGwxWT0=",
+        "quote": "完成參賽組別所有試題且平均分數達​100​分者（可重複答題，系統將紀錄最高分），即通​\n​過比賽，可獲得獎狀乙張。"
+      },
+      {
+        "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=SDdoRUplZUVNT3lLTDg3YlpQQzRBWTB5YXd0Yy83T1NETWEwWnFBMHR0Q1FZVE9BdG1vbXpJRStPOGk1WUxKbWlpYk5zNGRoK1QvYVpnTStZeGpKOVRMcHdWVnQxbTNyamZBbkNUZHhsMVk9&fname=T3hoY3AvbWFMM1FtMFJXZTVuMTJSakxwd1ZWdDFtM3JqZkFuQ1RkeGwxWT0=",
+        "quote": "各組亦將從得獎者中隨機抽選超商商品卡得主，獎勵名額如第​\n​二點所示，每位參賽者僅可獲獎一次，不得重複獲獎。"
+      },
+      {
+        "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=SDdoRUplZUVNT3lLTDg3YlpQQzRBWTB5YXd0Yy83T1NETWEwWnFBMHR0Q1FZVE9BdG1vbXpJRStPOGk1WUxKbWlpYk5zNGRoK1QvYVpnTStZeGpKOVRMcHdWVnQxbTNyamZBbkNUZHhsMVk9&fname=T3hoY3AvbWFMM1FtMFJXZTVuMTJSakxwd1ZWdDFtM3JqZkFuQ1RkeGwxWT0=",
+        "quote": "英聽高手獎​\n​超商商品卡​800​元​\n​普高組​50​名​\n​技高組​50​名​\n​五專組​10​名"
+      },
+      {
+        "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=SDdoRUplZUVNT3lLTDg3YlpQQzRBWTB5YXd0Yy83T1NETWEwWnFBMHR0Q1FZVE9BdG1vbXpJRStPOGk1WUxKbWlpYk5zNGRoK1QvYVpnTStZeGpKOVRMcHdWVnQxbTNyamZBbkNUZHhsMVk9&fname=T3hoY3AvbWFMM1FtMFJXZTVuMTJSakxwd1ZWdDFtM3JqZkFuQ1RkeGwxWT0=",
+        "quote": "超商商品卡​200​元​\n​普高組​310​名​\n​技高組​310​名​\n​五專組​25​名​\n​承辦單位獎狀乙張"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=SDdoRUplZUVNT3lLTDg3YlpQQzRBWTB5YXd0Yy83T1NETWEwWnFBMHR0Q1FZVE9BdG1vbXpJRStPOGk1WUxKbWlpYk5zNGRoK1QvYVpnTStZeGpKOVRMcHdWVnQxbTNyamZBbkNUZHhsMVk9&fname=T3hoY3AvbWFMM1FtMFJXZTVuMTJSakxwd1ZWdDFtM3JqZkFuQ1RkeGwxWT0="
+      }
+    ]
+  },
+  "links": {
+    "official": null,
+    "rules": [
+      {
+        "title": "比賽辦法（PDF）",
+        "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=SDdoRUplZUVNT3lLTDg3YlpQQzRBWTB5YXd0Yy83T1NETWEwWnFBMHR0Q1FZVE9BdG1vbXpJRStPOGk1WUxKbWlpYk5zNGRoK1QvYVpnTStZeGpKOVRMcHdWVnQxbTNyamZBbkNUZHhsMVk9&fname=T3hoY3AvbWFMM1FtMFJXZTVuMTJSakxwd1ZWdDFtM3JqZkFuQ1RkeGwxWT0="
+      }
+    ],
+    "registration": "http://www.coolenglish.edu.tw/"
+  },
+  "found_via": [
+    {
+      "name": "大里高中 校外活動與競賽",
+      "url": "https://dlsh.tc.edu.tw/p/406-1068-628270,r2145.php?Lang=zh-tw"
+    },
+    {
+      "name": "金門高中 最新消息",
+      "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=22027"
+    },
+    {
+      "name": "苗栗農工 處室公告",
+      "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26216"
+    },
+    {
+      "name": "潮州高中 學生課外活動",
+      "url": "https://www.ccsh.ptc.edu.tw/data.php?id=18884&tpl=5"
+    },
+    {
+      "name": "苗栗高中 學生校外營隊、活動、比賽",
+      "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=27751"
+    },
+    {
+      "name": "大里高中 校外活動與競賽",
+      "url": "https://dlsh.tc.edu.tw/p/406-1068-628270,r2145.php"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-26",
+    "method": "single",
+    "unread": [],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-26",
+  "level": "checked",
+  "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-coolenglish-listening/",
+  "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-coolenglish-listening.md"
+}

@@ -1,0 +1,247 @@
+{
+  "schema": 1,
+  "id": "2026-hsinchu-english-elite-cup",
+  "title": "新竹市2026年專業英文聽寫說與詞彙能力大賽",
+  "edition": "第四屆",
+  "summary": "新竹市國小至高中職學生由學校報名，以電腦線上測驗比專業英文聽寫、文法、詞彙或口說能力。",
+  "organizers": [
+    {
+      "name": "新竹市政府教育處",
+      "role": "主辦"
+    },
+    {
+      "name": "國立臺灣師範大學",
+      "role": "主辦"
+    },
+    {
+      "name": "新竹市立三民國中",
+      "role": "承辦"
+    },
+    {
+      "name": "新竹市立光華國民中學",
+      "role": "承辦"
+    },
+    {
+      "name": "國立臺灣師範大學工業教育學系/技術職業教育研究中心",
+      "role": "承辦"
+    },
+    {
+      "name": "國立清華大學教育與學習科技學系",
+      "role": "協辦"
+    },
+    {
+      "name": "新竹市光復高級中學",
+      "role": "協辦"
+    },
+    {
+      "name": "新竹市立光武國民中學",
+      "role": "協辦"
+    }
+  ],
+  "categories": [
+    "外語"
+  ],
+  "eligibility": {
+    "levels": [
+      "國小",
+      "國中",
+      "高中",
+      "高職",
+      "五專"
+    ],
+    "division": "separate",
+    "regions": [
+      "新竹市"
+    ],
+    "nomination": "school",
+    "team_min": null,
+    "team_max": null,
+    "teacher": "optional",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26322/2026%E5%B9%B4%E6%96%B0%E7%AB%B9%E5%B8%82%E7%AC%AC%E5%9B%9B%E5%B1%86%E5%B0%88%E6%A5%AD%E8%8B%B1%E6%96%87%E8%81%BD%E5%AF%AB%E8%88%87%E8%A9%9E%E5%BD%99%E8%83%BD%E5%8A%9B%E5%A4%A7%E8%B3%BD%E5%AF%A6%E6%96%BD%E8%A8%88%E7%95%AB.pdf",
+        "quote": "一、國小組：就讀新竹市各國小之在學五、六年級學生。"
+      },
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26322/2026%E5%B9%B4%E6%96%B0%E7%AB%B9%E5%B8%82%E7%AC%AC%E5%9B%9B%E5%B1%86%E5%B0%88%E6%A5%AD%E8%8B%B1%E6%96%87%E8%81%BD%E5%AF%AB%E8%88%87%E8%A9%9E%E5%BD%99%E8%83%BD%E5%8A%9B%E5%A4%A7%E8%B3%BD%E5%AF%A6%E6%96%BD%E8%A8%88%E7%95%AB.pdf",
+        "quote": "二、國中組：就讀新竹市各國中之在學學生。"
+      },
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26322/2026%E5%B9%B4%E6%96%B0%E7%AB%B9%E5%B8%82%E7%AC%AC%E5%9B%9B%E5%B1%86%E5%B0%88%E6%A5%AD%E8%8B%B1%E6%96%87%E8%81%BD%E5%AF%AB%E8%88%87%E8%A9%9E%E5%BD%99%E8%83%BD%E5%8A%9B%E5%A4%A7%E8%B3%BD%E5%AF%A6%E6%96%BD%E8%A8%88%E7%95%AB.pdf",
+        "quote": "三、高中職組(分高中組與技術型高中(高職)組)：就讀新竹市各高中職校之在學學生。"
+      },
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26322/2026%E5%B9%B4%E6%96%B0%E7%AB%B9%E5%B8%82%E7%AC%AC%E5%9B%9B%E5%B1%86%E5%B0%88%E6%A5%AD%E8%8B%B1%E6%96%87%E8%81%BD%E5%AF%AB%E8%88%87%E8%A9%9E%E5%BD%99%E8%83%BD%E5%8A%9B%E5%A4%A7%E8%B3%BD%E5%AF%A6%E6%96%BD%E8%A8%88%E7%95%AB.pdf",
+        "quote": "[醫護與健康照護]科目開放高中職與五專前三年學生同組競賽。"
+      },
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26322/2026%E5%B9%B4%E6%96%B0%E7%AB%B9%E5%B8%82%E7%AC%AC%E5%9B%9B%E5%B1%86%E5%B0%88%E6%A5%AD%E8%8B%B1%E6%96%87%E8%81%BD%E5%AF%AB%E8%88%87%E8%A9%9E%E5%BD%99%E8%83%BD%E5%8A%9B%E5%A4%A7%E8%B3%BD%E5%AF%A6%E6%96%BD%E8%A8%88%E7%95%AB.pdf",
+        "quote": "※學生不接受個別報名，須以學校(教育機構)為單位報名。"
+      },
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26322/2026%E5%B9%B4%E6%96%B0%E7%AB%B9%E5%B8%82%E7%AC%AC%E5%9B%9B%E5%B1%86%E5%B0%88%E6%A5%AD%E8%8B%B1%E6%96%87%E8%81%BD%E5%AF%AB%E8%88%87%E8%A9%9E%E5%BD%99%E8%83%BD%E5%8A%9B%E5%A4%A7%E8%B3%BD%E5%AF%A6%E6%96%BD%E8%A8%88%E7%95%AB.pdf",
+        "quote": "三、高中職組：以校為單位，每班可薦派至多15 位選手參加，一校不超過40 人。"
+      },
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26322/2026%E5%B9%B4%E6%96%B0%E7%AB%B9%E5%B8%82%E7%AC%AC%E5%9B%9B%E5%B1%86%E5%B0%88%E6%A5%AD%E8%8B%B1%E6%96%87%E8%81%BD%E5%AF%AB%E8%88%87%E8%A9%9E%E5%BD%99%E8%83%BD%E5%8A%9B%E5%A4%A7%E8%B3%BD%E5%AF%A6%E6%96%BD%E8%A8%88%E7%95%AB.pdf",
+        "quote": "（三）教師指導獎：凡所指導學生獲得個人獎前三名或金腦獎，即頒予教師指導獎證書。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "other",
+      "label": "舉辦校內選拔賽之學校電郵報備截止",
+      "date": "2026-09-18",
+      "time": "17:00",
+      "original": "115 年9 月18 日(五)17:00 前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26322/2026%E5%B9%B4%E6%96%B0%E7%AB%B9%E5%B8%82%E7%AC%AC%E5%9B%9B%E5%B1%86%E5%B0%88%E6%A5%AD%E8%8B%B1%E6%96%87%E8%81%BD%E5%AF%AB%E8%88%87%E8%A9%9E%E5%BD%99%E8%83%BD%E5%8A%9B%E5%A4%A7%E8%B3%BD%E5%AF%A6%E6%96%BD%E8%A8%88%E7%95%AB.pdf",
+          "quote": "若事先報備登記舉辦校內英文菁英盃選拔賽學校，須於115 年9 月18 日(五)17:00 前電郵回報大會"
+        }
+      ]
+    },
+    {
+      "kind": "registration_deadline",
+      "label": "報名截止",
+      "date": "2026-09-29",
+      "time": "17:00",
+      "original": "115 年09 月29 日（二）下午5：00 前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26322/2026%E5%B9%B4%E6%96%B0%E7%AB%B9%E5%B8%82%E7%AC%AC%E5%9B%9B%E5%B1%86%E5%B0%88%E6%A5%AD%E8%8B%B1%E6%96%87%E8%81%BD%E5%AF%AB%E8%88%87%E8%A9%9E%E5%BD%99%E8%83%BD%E5%8A%9B%E5%A4%A7%E8%B3%BD%E5%AF%A6%E6%96%BD%E8%A8%88%E7%95%AB.pdf",
+          "quote": "五、 報名截止日期：115 年09 月29 日（二）下午5：00 前，如有變動請參閱活動網站。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "競賽",
+      "date": "2026-10-17",
+      "time": null,
+      "original": "115 年10 月17 日（六）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26322/2026%E5%B9%B4%E6%96%B0%E7%AB%B9%E5%B8%82%E7%AC%AC%E5%9B%9B%E5%B1%86%E5%B0%88%E6%A5%AD%E8%8B%B1%E6%96%87%E8%81%BD%E5%AF%AB%E8%88%87%E8%A9%9E%E5%BD%99%E8%83%BD%E5%8A%9B%E5%A4%A7%E8%B3%BD%E5%AF%A6%E6%96%BD%E8%A8%88%E7%95%AB.pdf",
+          "quote": "二、競賽日期：115 年10 月17 日（六），如有變動則以本活動網站公告為主。"
+        },
+        {
+          "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26322/2026%E5%B9%B4%E6%96%B0%E7%AB%B9%E5%B8%82%E7%AC%AC%E5%9B%9B%E5%B1%86%E5%B0%88%E6%A5%AD%E8%8B%B1%E6%96%87%E8%81%BD%E5%AF%AB%E8%88%87%E8%A9%9E%E5%BD%99%E8%83%BD%E5%8A%9B%E5%A4%A7%E8%B3%BD%E5%AF%A6%E6%96%BD%E8%A8%88%E7%95%AB.pdf",
+          "quote": "【註】競賽日期因報名人數多寡會進行日期分流，由主辦單位統一安排考試日程，無法選擇。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名",
+      "what": "學校填寫大賽申請表（附件一）與參賽學生名單（附件二）寄至大賽信箱",
+      "how": "online"
+    },
+    {
+      "stage": "競賽",
+      "what": "在電腦教室以競賽軟體作答報考科目的各項測驗，系統即測即評",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "新竹市立三民國中、新竹市立光華國民中學",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26322/2026%E5%B9%B4%E6%96%B0%E7%AB%B9%E5%B8%82%E7%AC%AC%E5%9B%9B%E5%B1%86%E5%B0%88%E6%A5%AD%E8%8B%B1%E6%96%87%E8%81%BD%E5%AF%AB%E8%88%87%E8%A9%9E%E5%BD%99%E8%83%BD%E5%8A%9B%E5%A4%A7%E8%B3%BD%E5%AF%A6%E6%96%BD%E8%A8%88%E7%95%AB.pdf",
+        "quote": "一、競賽地點：新竹市立三民國中、新竹市立光華國民中學。"
+      },
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26322/2026%E5%B9%B4%E6%96%B0%E7%AB%B9%E5%B8%82%E7%AC%AC%E5%9B%9B%E5%B1%86%E5%B0%88%E6%A5%AD%E8%8B%B1%E6%96%87%E8%81%BD%E5%AF%AB%E8%88%87%E8%A9%9E%E5%BD%99%E8%83%BD%E5%8A%9B%E5%A4%A7%E8%B3%BD%E5%AF%A6%E6%96%BD%E8%A8%88%E7%95%AB.pdf",
+        "quote": "一、所有科目或職類競賽項目均在電腦教室進行線上測驗"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26322/2026%E5%B9%B4%E6%96%B0%E7%AB%B9%E5%B8%82%E7%AC%AC%E5%9B%9B%E5%B1%86%E5%B0%88%E6%A5%AD%E8%8B%B1%E6%96%87%E8%81%BD%E5%AF%AB%E8%88%87%E8%A9%9E%E5%BD%99%E8%83%BD%E5%8A%9B%E5%A4%A7%E8%B3%BD%E5%AF%A6%E6%96%BD%E8%A8%88%E7%95%AB.pdf",
+        "quote": "本次新竹市2026 年專業英文聽寫說與詞彙能力大賽完全免收報名費用。"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "個人獎：各組前三名（冠軍、亞軍、季軍）及金腦獎若干名（第四名起成績前百分之二十）；團體獎：前三名及團體優勝獎若干名；學生獲個人前三名或金腦獎者，指導教師獲教師指導獎證書。高中職各組冠軍可免費參加 Ivy Cup 國際口語大賽海選初賽。任一應考測驗不及格者不列入獎項排名。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26322/2026%E5%B9%B4%E6%96%B0%E7%AB%B9%E5%B8%82%E7%AC%AC%E5%9B%9B%E5%B1%86%E5%B0%88%E6%A5%AD%E8%8B%B1%E6%96%87%E8%81%BD%E5%AF%AB%E8%88%87%E8%A9%9E%E5%BD%99%E8%83%BD%E5%8A%9B%E5%A4%A7%E8%B3%BD%E5%AF%A6%E6%96%BD%E8%A8%88%E7%95%AB.pdf",
+        "quote": "（一） 團體獎：依照評選規則，取前三名（冠軍、亞軍、季軍）及團體優勝獎若干名"
+      },
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26322/2026%E5%B9%B4%E6%96%B0%E7%AB%B9%E5%B8%82%E7%AC%AC%E5%9B%9B%E5%B1%86%E5%B0%88%E6%A5%AD%E8%8B%B1%E6%96%87%E8%81%BD%E5%AF%AB%E8%88%87%E8%A9%9E%E5%BD%99%E8%83%BD%E5%8A%9B%E5%A4%A7%E8%B3%BD%E5%AF%A6%E6%96%BD%E8%A8%88%E7%95%AB.pdf",
+        "quote": "（二） 個人獎：依照評選規則取前三名（冠軍、亞軍、季軍）及金腦獎若干名。其中金腦獎為各組從第四名開始計算，依成績排名前百分之二十，大會得依參賽人數與表現作調整。"
+      },
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26322/2026%E5%B9%B4%E6%96%B0%E7%AB%B9%E5%B8%82%E7%AC%AC%E5%9B%9B%E5%B1%86%E5%B0%88%E6%A5%AD%E8%8B%B1%E6%96%87%E8%81%BD%E5%AF%AB%E8%88%87%E8%A9%9E%E5%BD%99%E8%83%BD%E5%8A%9B%E5%A4%A7%E8%B3%BD%E5%AF%A6%E6%96%BD%E8%A8%88%E7%95%AB.pdf",
+        "quote": "（三）教師指導獎：凡所指導學生獲得個人獎前三名或金腦獎，即頒予教師指導獎證書。"
+      },
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26322/2026%E5%B9%B4%E6%96%B0%E7%AB%B9%E5%B8%82%E7%AC%AC%E5%9B%9B%E5%B1%86%E5%B0%88%E6%A5%AD%E8%8B%B1%E6%96%87%E8%81%BD%E5%AF%AB%E8%88%87%E8%A9%9E%E5%BD%99%E8%83%BD%E5%8A%9B%E5%A4%A7%E8%B3%BD%E5%AF%A6%E6%96%BD%E8%A8%88%E7%95%AB.pdf",
+        "quote": "國中組、高中一般生組、高職一般生組、高中職外語類科生組等各組冠軍選手，可獲得免費參加Ivy Cup(常春藤大學聯盟)國際口語大賽(該年度)海選初賽"
+      },
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26322/2026%E5%B9%B4%E6%96%B0%E7%AB%B9%E5%B8%82%E7%AC%AC%E5%9B%9B%E5%B1%86%E5%B0%88%E6%A5%AD%E8%8B%B1%E6%96%87%E8%81%BD%E5%AF%AB%E8%88%87%E8%A9%9E%E5%BD%99%E8%83%BD%E5%8A%9B%E5%A4%A7%E8%B3%BD%E5%AF%A6%E6%96%BD%E8%A8%88%E7%95%AB.pdf",
+        "quote": "選手依各組(身分別)規定之所有應考測驗項目，任一測驗項目不及格者，將不列入前三名與金腦獎等任何獎項排名與團體積分。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26322/2026%E5%B9%B4%E6%96%B0%E7%AB%B9%E5%B8%82%E7%AC%AC%E5%9B%9B%E5%B1%86%E5%B0%88%E6%A5%AD%E8%8B%B1%E6%96%87%E8%81%BD%E5%AF%AB%E8%88%87%E8%A9%9E%E5%BD%99%E8%83%BD%E5%8A%9B%E5%A4%A7%E8%B3%BD%E5%AF%A6%E6%96%BD%E8%A8%88%E7%95%AB.pdf"
+      },
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/public/news_view/show.php?nid=26322"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://sites.google.com/view/hccompetition/",
+    "rules": [
+      {
+        "title": "實施計畫（PDF）",
+        "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26322/2026%E5%B9%B4%E6%96%B0%E7%AB%B9%E5%B8%82%E7%AC%AC%E5%9B%9B%E5%B1%86%E5%B0%88%E6%A5%AD%E8%8B%B1%E6%96%87%E8%81%BD%E5%AF%AB%E8%88%87%E8%A9%9E%E5%BD%99%E8%83%BD%E5%8A%9B%E5%A4%A7%E8%B3%BD%E5%AF%A6%E6%96%BD%E8%A8%88%E7%95%AB.pdf"
+      }
+    ],
+    "registration": null
+  },
+  "found_via": [
+    {
+      "name": "新竹高商 消息公佈欄",
+      "url": "https://www.hccvs.hc.edu.tw/ischool/public/news_view/show.php?nid=26322"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-26",
+    "method": "single",
+    "unread": [
+      "附件三 FAQ 說明",
+      "附件四 團體獎計分方式",
+      "附件五 英文國際證書之認列參考清冊"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-26"
+}

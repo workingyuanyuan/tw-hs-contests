@@ -1,0 +1,281 @@
+{
+  "schema": 1,
+  "id": "2026-hdut-luyu-hakka-tea-cuisine",
+  "title": "2026 陸羽盃客家茶飲暨茶餐料理競賽",
+  "edition": "2026",
+  "summary": "國中至大專學生以客家為主題，比賽茶飲調製、中式料理、炒飯、餐桌與客房布置、口布摺疊或綠色餐飲海報。",
+  "organizers": [
+    {
+      "name": "教育部",
+      "role": "指導"
+    },
+    {
+      "name": "新北市政府客家事務局",
+      "role": "指導"
+    },
+    {
+      "name": "宏國德霖科技大學餐旅管理系",
+      "role": "主辦"
+    },
+    {
+      "name": "台灣國際文創推展協會",
+      "role": "主辦"
+    },
+    {
+      "name": "宏國德霖科技大學餐飲廚藝系",
+      "role": "協辦"
+    },
+    {
+      "name": "凱撒飯店連鎖",
+      "role": "協辦"
+    }
+  ],
+  "categories": [
+    "餐旅",
+    "技藝與技能",
+    "設計"
+  ],
+  "eligibility": {
+    "levels": [
+      "國中",
+      "高中",
+      "高職",
+      "五專",
+      "大專"
+    ],
+    "division": "separate",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": null,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/115120000523_1_2026陸羽盃客家茶飲暨茶餐料理競賽_簡章.pdf",
+        "quote": "高中職組 就讀高中職及五專餐飲科、觀光科 一 至三年級在學學生"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/115120000523_1_2026陸羽盃客家茶飲暨茶餐料理競賽_簡章.pdf",
+        "quote": "大專組 就讀技專院校餐旅相關科系或五專 四 年級以上在學學生"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/115120000523_1_2026陸羽盃客家茶飲暨茶餐料理競賽_簡章.pdf",
+        "quote": "國中組 國中一至三年級在學學生"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/115120000523_1_2026陸羽盃客家茶飲暨茶餐料理競賽_簡章.pdf",
+        "quote": "全高中職、大專院校在學學生"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/115120000523_1_2026陸羽盃客家茶飲暨茶餐料理競賽_簡章.pdf",
+        "quote": "每件作品限定一位參賽者"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/115120000523_1_2026陸羽盃客家茶飲暨茶餐料理競賽_簡章.pdf",
+        "quote": "國高中職組:https://forms.gle/9diaXZPrFMoYWUV17"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "報名截止",
+      "date": "2026-09-30",
+      "time": "23:00",
+      "original": "即日起至 115 年 9 月 30 日(週三 )晚間 23 點止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/115120000523_1_2026陸羽盃客家茶飲暨茶餐料理競賽_簡章.pdf",
+          "quote": "即日起至 115 年 9 月 30 日(週三 )晚間 23 點止。"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "綠色餐飲海報設計組作品收件截止",
+      "date": "2026-10-08",
+      "time": "23:00",
+      "original": "2026 年 10 月 8 日（四）23:00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/115120000523_1_2026陸羽盃客家茶飲暨茶餐料理競賽_簡章.pdf",
+          "quote": "收件即日起至 2026 年 10 月 8 日（四）23:00 止，上傳作品電子檔與著作權授權同 意書至"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "公布競賽賽程",
+      "date": "2026-10-10",
+      "time": null,
+      "original": "115 年10 月10 日(週六)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/115120000523_1_2026陸羽盃客家茶飲暨茶餐料理競賽_簡章.pdf",
+          "quote": "公布競賽賽程 115 年10 月10 日(週六)"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "競賽",
+      "date": "2026-10-15",
+      "time": null,
+      "original": "115 年10 月15 日(週四)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/115120000523_1_2026陸羽盃客家茶飲暨茶餐料理競賽_簡章.pdf",
+          "quote": "競賽日程 115 年10 月15 日(週四)"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名",
+      "what": "線上報名表單（國高中職組、大專組各一）",
+      "how": "online"
+    },
+    {
+      "stage": "綠色餐飲海報設計組收件",
+      "what": "A1 尺寸、300 dpi 以上 JPG / PNG 海報電子檔（10 MB 內）與著作權授權同意書；AI 智慧創意設計組另附主要提示詞說明書及 AI 工具名稱",
+      "how": "online"
+    },
+    {
+      "stage": "競賽當日",
+      "what": "現場調製、烹調、摺疊或布置作品；海報組口頭發表 2 分鐘",
+      "how": "onsite"
+    },
+    {
+      "stage": "競賽當日",
+      "what": "切結書一份；飲調組配方表與 A4 說明；中式料理現烹組創意菜說明 200 字內；客房造型組主題與布置說明",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": null,
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/115120000523_1_2026陸羽盃客家茶飲暨茶餐料理競賽_簡章.pdf",
+        "quote": "參與競賽之選手須於比賽前20 分鐘至競賽準備區報到"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/115120000523_1_2026陸羽盃客家茶飲暨茶餐料理競賽_簡章.pdf",
+        "quote": "競賽當日需口頭發表2 分鐘，發表議程及其他未定事項，另行公告之"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/115120000523_1_2026陸羽盃客家茶飲暨茶餐料理競賽_簡章.pdf",
+        "quote": "並於競賽當日繳交切結書一份"
+      }
+    ]
+  },
+  "fee": {
+    "value": "required",
+    "amount": "每組 300 元",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/115120000523_1_2026陸羽盃客家茶飲暨茶餐料理競賽_簡章.pdf",
+        "quote": "本競賽每組報名費300 元整，"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "依分數頒發：90–100 分金牌、80–89 分銀牌、70–79 分銅牌，各頒獎牌 1 面與獎狀 1 張；60–69 分優勝頒獎狀 1 張。各組最高分者獎金 2,000 元，所有選手皆有參賽證明。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/115120000523_1_2026陸羽盃客家茶飲暨茶餐料理競賽_簡章.pdf",
+        "quote": "金牌 90–100 分 獎牌 1 面、獎狀 1 張"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/115120000523_1_2026陸羽盃客家茶飲暨茶餐料理競賽_簡章.pdf",
+        "quote": "銀牌 80–89 分 獎牌 1 面、獎狀 1 張"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/115120000523_1_2026陸羽盃客家茶飲暨茶餐料理競賽_簡章.pdf",
+        "quote": "銅牌 70–79 分 獎牌 1 面、獎狀 1 張"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/115120000523_1_2026陸羽盃客家茶飲暨茶餐料理競賽_簡章.pdf",
+        "quote": "優勝 60–69 分 獎狀 1 張"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/115120000523_1_2026陸羽盃客家茶飲暨茶餐料理競賽_簡章.pdf",
+        "quote": "各組最高分者，可獲得獎金NT$2,000 元整。"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/115120000523_1_2026陸羽盃客家茶飲暨茶餐料理競賽_簡章.pdf",
+        "quote": "所有選手都會有一張參賽證明"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "required",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/115120000523_1_2026陸羽盃客家茶飲暨茶餐料理競賽_簡章.pdf",
+        "quote": "創作工具:必須運用 AI 生成工具進行協作設計，最終以海報形式呈現"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/115120000523_1_2026陸羽盃客家茶飲暨茶餐料理競賽_簡章.pdf",
+        "quote": "需繳交主要提示詞（Prompts）說明書及使用 AI 工具名稱"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://hm.hdut.edu.tw/%E5%AE%A2%E5%AE%B6%E9%99%B8%E7%BE%BD%E7%9B%83%E5%8D%80/",
+    "rules": [
+      {
+        "title": "2026 陸羽盃客家茶飲暨茶餐料理競賽簡章及報名表（PDF）",
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27745/%E7%B0%A1%E7%AB%A0%E5%8F%8A%E5%A0%B1%E5%90%8D%E8%A1%A8.pdf"
+      }
+    ],
+    "registration": "https://forms.gle/9diaXZPrFMoYWUV17"
+  },
+  "found_via": [
+    {
+      "name": "斗六高中 營隊研習競賽",
+      "url": "https://www.tlsh.ylc.edu.tw/2026/09/01/66514/"
+    },
+    {
+      "name": "臺南女中 學生競賽",
+      "url": "https://www.tngs.tn.edu.tw/2026/09/01/%e5%ae%8f%e5%9c%8b%e5%be%b7%e9%9c%96%e7%a7%91%e6%8a%80%e5%a4%a7%e5%ad%b8%e3%80%8c2026-%e9%99%b8%e7%be%bd%e7%9b%83%e5%ae%a2%e5%ae%b6%e8%8c%b6%e9%a3%b2%e6%9a%a8%e8%8c%b6%e9%a4%90%e6%96%99%e7%90%86/"
+    },
+    {
+      "name": "大同高中 學生競賽活動",
+      "url": "https://www.ttsh.tp.edu.tw/news/%e3%80%8c2026-%e9%99%b8%e7%be%bd%e7%9b%83%e5%ae%a2%e5%ae%b6%e8%8c%b6%e9%a3%b2%e6%9a%a8%e8%8c%b6%e9%a4%90%e6%96%99%e7%90%86%e7%ab%b6%e8%b3%bd%e3%80%8d/"
+    },
+    {
+      "name": "苗栗高中 學生校外營隊、活動、比賽",
+      "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=27745"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-26",
+    "method": "single",
+    "unread": [
+      "著作權授權同意書"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-26",
+  "conflict": "簡章的競賽組別與參賽資格一覽表寫創意炒飯組高中職組為高中職一至三年級在學學生、國中組共 30 組，同一簡章的創意炒飯組報名資格則寫高一至高二在學學生、國中組 30 位。",
+  "level": "checked",
+  "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-hdut-luyu-hakka-tea-cuisine/",
+  "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-hdut-luyu-hakka-tea-cuisine.md"
+}

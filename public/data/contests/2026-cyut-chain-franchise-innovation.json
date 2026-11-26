@@ -1,0 +1,300 @@
+{
+  "schema": 1,
+  "id": "2026-cyut-chain-franchise-innovation",
+  "title": "2026 第十五屆全國連鎖加盟產業創新提案競賽暨高中職學校小論文競賽",
+  "edition": "第十五屆",
+  "summary": "大專及高中職學生組隊，以生成式 AI 為自創品牌提出連鎖行銷企劃，高中職另可寫自選題小論文。",
+  "organizers": [
+    {
+      "name": "朝陽科技大學行銷與流通管理系",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "商管與行銷",
+    "創業與企劃"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職",
+      "大專"
+    ],
+    "division": "separate",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 2,
+    "team_max": 6,
+    "teacher": "required",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33492/09012026%E7%AC%AC15%E5%B1%86%E5%85%A8%E5%9C%8B%E9%80%A3%E9%8E%96%E5%8A%A0%E7%9B%9F%E7%94%A2%E6%A5%AD%E5%89%B5%E6%96%B0%E6%8F%90%E6%A1%88%E7%AB%B6%E8%B3%BD%E6%9A%A8%E9%AB%98%E4%B8%AD%E8%81%B7%E5%AD%B8%E6%A0%A1%E5%B0%8F%E8%AB%96%E6%96%87%E7%AB%B6%E8%B3%BD.pdf",
+        "quote": "凡就讀國內各公私立大專校院或各公私立高中職之在籍學生，對產業轉型、AI 應用、連鎖產業經營或行銷等議題具有興趣者，均可報名參加，不限科系及年級。"
+      },
+      {
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33492/09012026%E7%AC%AC15%E5%B1%86%E5%85%A8%E5%9C%8B%E9%80%A3%E9%8E%96%E5%8A%A0%E7%9B%9F%E7%94%A2%E6%A5%AD%E5%89%B5%E6%96%B0%E6%8F%90%E6%A1%88%E7%AB%B6%E8%B3%BD%E6%9A%A8%E9%AB%98%E4%B8%AD%E8%81%B7%E5%AD%B8%E6%A0%A1%E5%B0%8F%E8%AB%96%E6%96%87%E7%AB%B6%E8%B3%BD.pdf",
+        "quote": "（一） 競賽分大專校院組及高中職校組，參賽隊伍依隊員就讀學校層級報名，不得跨組參賽。"
+      },
+      {
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33492/09012026%E7%AC%AC15%E5%B1%86%E5%85%A8%E5%9C%8B%E9%80%A3%E9%8E%96%E5%8A%A0%E7%9B%9F%E7%94%A2%E6%A5%AD%E5%89%B5%E6%96%B0%E6%8F%90%E6%A1%88%E7%AB%B6%E8%B3%BD%E6%9A%A8%E9%AB%98%E4%B8%AD%E8%81%B7%E5%AD%B8%E6%A0%A1%E5%B0%8F%E8%AB%96%E6%96%87%E7%AB%B6%E8%B3%BD.pdf",
+        "quote": "（二） 每隊參賽人數以二人至六人為限，得跨科系、校組隊；惟隊員須屬同一競賽組別，且同一名學生限報名一隊。"
+      },
+      {
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33492/09012026%E7%AC%AC15%E5%B1%86%E5%85%A8%E5%9C%8B%E9%80%A3%E9%8E%96%E5%8A%A0%E7%9B%9F%E7%94%A2%E6%A5%AD%E5%89%B5%E6%96%B0%E6%8F%90%E6%A1%88%E7%AB%B6%E8%B3%BD%E6%9A%A8%E9%AB%98%E4%B8%AD%E8%81%B7%E5%AD%B8%E6%A0%A1%E5%B0%8F%E8%AB%96%E6%96%87%E7%AB%B6%E8%B3%BD.pdf",
+        "quote": "（一） 每隊須至少一名指導老師，至多二名為限。"
+      },
+      {
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33492/09012026%E7%AC%AC15%E5%B1%86%E5%85%A8%E5%9C%8B%E9%80%A3%E9%8E%96%E5%8A%A0%E7%9B%9F%E7%94%A2%E6%A5%AD%E5%89%B5%E6%96%B0%E6%8F%90%E6%A1%88%E7%AB%B6%E8%B3%BD%E6%9A%A8%E9%AB%98%E4%B8%AD%E8%81%B7%E5%AD%B8%E6%A0%A1%E5%B0%8F%E8%AB%96%E6%96%87%E7%AB%B6%E8%B3%BD.pdf",
+        "quote": "（一） 一律採網路報名，請於規定期限內登入本競賽系統完成報名資料填寫及上傳作業，不接受紙本或電子郵件方式報名。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "報名截止",
+      "date": "2026-11-12",
+      "time": "12:00",
+      "original": "115 年11 月12 日（四）中午12:00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33492/09012026%E7%AC%AC15%E5%B1%86%E5%85%A8%E5%9C%8B%E9%80%A3%E9%8E%96%E5%8A%A0%E7%9B%9F%E7%94%A2%E6%A5%AD%E5%89%B5%E6%96%B0%E6%8F%90%E6%A1%88%E7%AB%B6%E8%B3%BD%E6%9A%A8%E9%AB%98%E4%B8%AD%E8%81%B7%E5%AD%B8%E6%A0%A1%E5%B0%8F%E8%AB%96%E6%96%87%E7%AB%B6%E8%B3%BD.pdf",
+          "quote": "（二） 報名日期：即日起至115 年11 月12 日（四）中午12:00 止，逾期概不受理。"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "初賽書面審查資料繳交截止",
+      "date": "2026-11-17",
+      "time": "12:00",
+      "original": "115 年11 月17 日（二）中午12:00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33492/09012026%E7%AC%AC15%E5%B1%86%E5%85%A8%E5%9C%8B%E9%80%A3%E9%8E%96%E5%8A%A0%E7%9B%9F%E7%94%A2%E6%A5%AD%E5%89%B5%E6%96%B0%E6%8F%90%E6%A1%88%E7%AB%B6%E8%B3%BD%E6%9A%A8%E9%AB%98%E4%B8%AD%E8%81%B7%E5%AD%B8%E6%A0%A1%E5%B0%8F%E8%AB%96%E6%96%87%E7%AB%B6%E8%B3%BD.pdf",
+          "quote": "初賽書面審查資料繳交截止 115 年11 月17 日（二）中午12:00 止"
+        }
+      ]
+    },
+    {
+      "kind": "shortlist_announcement",
+      "label": "網站公告初審通過入圍決賽團隊",
+      "date": "2026-12-03",
+      "time": "17:00",
+      "original": "115 年 12 月 03 日（四）17:00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33492/09012026%E7%AC%AC15%E5%B1%86%E5%85%A8%E5%9C%8B%E9%80%A3%E9%8E%96%E5%8A%A0%E7%9B%9F%E7%94%A2%E6%A5%AD%E5%89%B5%E6%96%B0%E6%8F%90%E6%A1%88%E7%AB%B6%E8%B3%BD%E6%9A%A8%E9%AB%98%E4%B8%AD%E8%81%B7%E5%AD%B8%E6%A0%A1%E5%B0%8F%E8%AB%96%E6%96%87%E7%AB%B6%E8%B3%BD.pdf",
+          "quote": "(1) 網站公告初審通過入圍決審團隊：115 年 12 月 03 日（四）17:00 前。"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "入圍決賽團隊上傳決賽簡報截止",
+      "date": "2026-12-10",
+      "time": "17:00",
+      "original": "115 年 12 月 10 日（四）17:00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33492/09012026%E7%AC%AC15%E5%B1%86%E5%85%A8%E5%9C%8B%E9%80%A3%E9%8E%96%E5%8A%A0%E7%9B%9F%E7%94%A2%E6%A5%AD%E5%89%B5%E6%96%B0%E6%8F%90%E6%A1%88%E7%AB%B6%E8%B3%BD%E6%9A%A8%E9%AB%98%E4%B8%AD%E8%81%B7%E5%AD%B8%E6%A0%A1%E5%B0%8F%E8%AB%96%E6%96%87%E7%AB%B6%E8%B3%BD.pdf",
+          "quote": "(2) 進入決審團隊上傳相關資料：115 年 12 月 10 日（四）17:00 前。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "入圍決賽團隊繳交領獎相關資料截止",
+      "date": "2026-12-17",
+      "time": null,
+      "original": "115 年12 月17 日（四）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33492/09012026%E7%AC%AC15%E5%B1%86%E5%85%A8%E5%9C%8B%E9%80%A3%E9%8E%96%E5%8A%A0%E7%9B%9F%E7%94%A2%E6%A5%AD%E5%89%B5%E6%96%B0%E6%8F%90%E6%A1%88%E7%AB%B6%E8%B3%BD%E6%9A%A8%E9%AB%98%E4%B8%AD%E8%81%B7%E5%AD%B8%E6%A0%A1%E5%B0%8F%E8%AB%96%E6%96%87%E7%AB%B6%E8%B3%BD.pdf",
+          "quote": "十一、 所有入圍決賽團隊應於115 年12 月17 日（四）前預先繳交領獎相關資料（如參賽切結書正本、學生證影本、其他授權文件、領據等）"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "決賽暨頒獎典禮，當場公告決賽結果",
+      "date": "2026-12-18",
+      "time": "13:20",
+      "original": "115 年12 月18 日（五）13:20~17:30",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33492/09012026%E7%AC%AC15%E5%B1%86%E5%85%A8%E5%9C%8B%E9%80%A3%E9%8E%96%E5%8A%A0%E7%9B%9F%E7%94%A2%E6%A5%AD%E5%89%B5%E6%96%B0%E6%8F%90%E6%A1%88%E7%AB%B6%E8%B3%BD%E6%9A%A8%E9%AB%98%E4%B8%AD%E8%81%B7%E5%AD%B8%E6%A0%A1%E5%B0%8F%E8%AB%96%E6%96%87%E7%AB%B6%E8%B3%BD.pdf",
+          "quote": "(1) 時間：115 年12 月18 日（五）13:20~17:30"
+        },
+        {
+          "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33492/09012026%E7%AC%AC15%E5%B1%86%E5%85%A8%E5%9C%8B%E9%80%A3%E9%8E%96%E5%8A%A0%E7%9B%9F%E7%94%A2%E6%A5%AD%E5%89%B5%E6%96%B0%E6%8F%90%E6%A1%88%E7%AB%B6%E8%B3%BD%E6%9A%A8%E9%AB%98%E4%B8%AD%E8%81%B7%E5%AD%B8%E6%A0%A1%E5%B0%8F%E8%AB%96%E6%96%87%E7%AB%B6%E8%B3%BD.pdf",
+          "quote": "(4) 成績公告：決賽結果於頒獎典禮上公告，並於次日公布於官方網站。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "得獎團隊無法自系統下載獎狀等文件時之聯繫截止",
+      "date": "2027-01-08",
+      "time": "12:00",
+      "original": "116 年01 月08 日（五）12:00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33492/09012026%E7%AC%AC15%E5%B1%86%E5%85%A8%E5%9C%8B%E9%80%A3%E9%8E%96%E5%8A%A0%E7%9B%9F%E7%94%A2%E6%A5%AD%E5%89%B5%E6%96%B0%E6%8F%90%E6%A1%88%E7%AB%B6%E8%B3%BD%E6%9A%A8%E9%AB%98%E4%B8%AD%E8%81%B7%E5%AD%B8%E6%A0%A1%E5%B0%8F%E8%AB%96%E6%96%87%E7%AB%B6%E8%B3%BD.pdf",
+          "quote": "(6) 得獎團隊若未能於系統下載獎狀、參賽證明及指導老師感謝狀，請於116 年01 月08 日（五）12:00 前和主辦單位聯繫，逾時不予處理。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "初賽書面審查",
+      "what": "15 頁內企劃書（創新企劃須附 AI 共創應用歷程紀錄表）或小論文，及簽名掃描的個資使用同意書與參賽切結書（PDF）",
+      "how": "online"
+    },
+    {
+      "stage": "決賽（入圍團隊）",
+      "what": "決賽簡報檔案",
+      "how": "online"
+    },
+    {
+      "stage": "決賽（入圍團隊）",
+      "what": "現場簡報 10 分鐘（含 4 分鐘評審問答），至少一名學生代表出席",
+      "how": "onsite"
+    },
+    {
+      "stage": "領獎資料（入圍團隊）",
+      "what": "參賽切結書正本、學生證影本、其他授權文件、領據等",
+      "how": "unknown"
+    }
+  ],
+  "attendance": {
+    "value": "finalists",
+    "where": "朝陽科技大學",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33492/09012026%E7%AC%AC15%E5%B1%86%E5%85%A8%E5%9C%8B%E9%80%A3%E9%8E%96%E5%8A%A0%E7%9B%9F%E7%94%A2%E6%A5%AD%E5%89%B5%E6%96%B0%E6%8F%90%E6%A1%88%E7%AB%B6%E8%B3%BD%E6%9A%A8%E9%AB%98%E4%B8%AD%E8%81%B7%E5%AD%B8%E6%A0%A1%E5%B0%8F%E8%AB%96%E6%96%87%E7%AB%B6%E8%B3%BD.pdf",
+        "quote": "各入圍團隊至少應有一名學生代表出席決賽並進行簡報及答詢，簡報人數不限；指導老師不得代為簡報或答詢。"
+      },
+      {
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33492/09012026%E7%AC%AC15%E5%B1%86%E5%85%A8%E5%9C%8B%E9%80%A3%E9%8E%96%E5%8A%A0%E7%9B%9F%E7%94%A2%E6%A5%AD%E5%89%B5%E6%96%B0%E6%8F%90%E6%A1%88%E7%AB%B6%E8%B3%BD%E6%9A%A8%E9%AB%98%E4%B8%AD%E8%81%B7%E5%AD%B8%E6%A0%A1%E5%B0%8F%E8%AB%96%E6%96%87%E7%AB%B6%E8%B3%BD.pdf",
+        "quote": "(2) 地點：朝陽科技大學"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33492/09012026%E7%AC%AC15%E5%B1%86%E5%85%A8%E5%9C%8B%E9%80%A3%E9%8E%96%E5%8A%A0%E7%9B%9F%E7%94%A2%E6%A5%AD%E5%89%B5%E6%96%B0%E6%8F%90%E6%A1%88%E7%AB%B6%E8%B3%BD%E6%9A%A8%E9%AB%98%E4%B8%AD%E8%81%B7%E5%AD%B8%E6%A0%A1%E5%B0%8F%E8%AB%96%E6%96%87%E7%AB%B6%E8%B3%BD.pdf"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "大專校院組：第一名 7,000 元、第二名 5,000 元、第三名 3,000 元、優勝 1,000 元；高中職校組自選與小論文各：第一名 4,000 元、第二名 3,600 元、第三名 3,000 元、優勝 800 元；佳作獎狀乙紙。同名次多組時獎金均分，指導老師頒指導證明。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33492/09012026%E7%AC%AC15%E5%B1%86%E5%85%A8%E5%9C%8B%E9%80%A3%E9%8E%96%E5%8A%A0%E7%9B%9F%E7%94%A2%E6%A5%AD%E5%89%B5%E6%96%B0%E6%8F%90%E6%A1%88%E7%AB%B6%E8%B3%BD%E6%9A%A8%E9%AB%98%E4%B8%AD%E8%81%B7%E5%AD%B8%E6%A0%A1%E5%B0%8F%E8%AB%96%E6%96%87%E7%AB%B6%E8%B3%BD.pdf",
+        "quote": "大專院校組及高中職校組針對「創新企劃提案」分別取前三名及優勝與佳作，獎金如下，同組若有多組同名次，涉及獎金部分則均分；各組指導老師均頒予指導證明。"
+      },
+      {
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33492/09012026%E7%AC%AC15%E5%B1%86%E5%85%A8%E5%9C%8B%E9%80%A3%E9%8E%96%E5%8A%A0%E7%9B%9F%E7%94%A2%E6%A5%AD%E5%89%B5%E6%96%B0%E6%8F%90%E6%A1%88%E7%AB%B6%E8%B3%BD%E6%9A%A8%E9%AB%98%E4%B8%AD%E8%81%B7%E5%AD%B8%E6%A0%A1%E5%B0%8F%E8%AB%96%E6%96%87%E7%AB%B6%E8%B3%BD.pdf",
+        "quote": "第一名 新台幣7,000 元 新台幣4,000 元 新台幣4,000 元"
+      },
+      {
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33492/09012026%E7%AC%AC15%E5%B1%86%E5%85%A8%E5%9C%8B%E9%80%A3%E9%8E%96%E5%8A%A0%E7%9B%9F%E7%94%A2%E6%A5%AD%E5%89%B5%E6%96%B0%E6%8F%90%E6%A1%88%E7%AB%B6%E8%B3%BD%E6%9A%A8%E9%AB%98%E4%B8%AD%E8%81%B7%E5%AD%B8%E6%A0%A1%E5%B0%8F%E8%AB%96%E6%96%87%E7%AB%B6%E8%B3%BD.pdf",
+        "quote": "第二名 新台幣5,000 元 新台幣3,600 元 新台幣3,600 元"
+      },
+      {
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33492/09012026%E7%AC%AC15%E5%B1%86%E5%85%A8%E5%9C%8B%E9%80%A3%E9%8E%96%E5%8A%A0%E7%9B%9F%E7%94%A2%E6%A5%AD%E5%89%B5%E6%96%B0%E6%8F%90%E6%A1%88%E7%AB%B6%E8%B3%BD%E6%9A%A8%E9%AB%98%E4%B8%AD%E8%81%B7%E5%AD%B8%E6%A0%A1%E5%B0%8F%E8%AB%96%E6%96%87%E7%AB%B6%E8%B3%BD.pdf",
+        "quote": "第三名 新台幣3,000 元 新台幣3,000 元 新台幣3,000 元"
+      },
+      {
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33492/09012026%E7%AC%AC15%E5%B1%86%E5%85%A8%E5%9C%8B%E9%80%A3%E9%8E%96%E5%8A%A0%E7%9B%9F%E7%94%A2%E6%A5%AD%E5%89%B5%E6%96%B0%E6%8F%90%E6%A1%88%E7%AB%B6%E8%B3%BD%E6%9A%A8%E9%AB%98%E4%B8%AD%E8%81%B7%E5%AD%B8%E6%A0%A1%E5%B0%8F%E8%AB%96%E6%96%87%E7%AB%B6%E8%B3%BD.pdf",
+        "quote": "優 勝 新台幣1,000 元 新台幣800 元 新台幣800 元"
+      },
+      {
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33492/09012026%E7%AC%AC15%E5%B1%86%E5%85%A8%E5%9C%8B%E9%80%A3%E9%8E%96%E5%8A%A0%E7%9B%9F%E7%94%A2%E6%A5%AD%E5%89%B5%E6%96%B0%E6%8F%90%E6%A1%88%E7%AB%B6%E8%B3%BD%E6%9A%A8%E9%AB%98%E4%B8%AD%E8%81%B7%E5%AD%B8%E6%A0%A1%E5%B0%8F%E8%AB%96%E6%96%87%E7%AB%B6%E8%B3%BD.pdf",
+        "quote": "佳 作 獎狀乙紙 獎狀乙紙 獎狀乙紙"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "required",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33492/09012026%E7%AC%AC15%E5%B1%86%E5%85%A8%E5%9C%8B%E9%80%A3%E9%8E%96%E5%8A%A0%E7%9B%9F%E7%94%A2%E6%A5%AD%E5%89%B5%E6%96%B0%E6%8F%90%E6%A1%88%E7%AB%B6%E8%B3%BD%E6%9A%A8%E9%AB%98%E4%B8%AD%E8%81%B7%E5%AD%B8%E6%A0%A1%E5%B0%8F%E8%AB%96%E6%96%87%E7%AB%B6%E8%B3%BD.pdf",
+        "quote": "2.參賽作品須針對主題提供相關AI 生成之「產品」、「LOGO」、「包裝」、「店舖設計」、「節慶陳列」、「快閃店舖」、「環境場域」等符合主題之圖文說明。"
+      },
+      {
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33492/09012026%E7%AC%AC15%E5%B1%86%E5%85%A8%E5%9C%8B%E9%80%A3%E9%8E%96%E5%8A%A0%E7%9B%9F%E7%94%A2%E6%A5%AD%E5%89%B5%E6%96%B0%E6%8F%90%E6%A1%88%E7%AB%B6%E8%B3%BD%E6%9A%A8%E9%AB%98%E4%B8%AD%E8%81%B7%E5%AD%B8%E6%A0%A1%E5%B0%8F%E8%AB%96%E6%96%87%E7%AB%B6%E8%B3%BD.pdf",
+        "quote": "2.小論文：相關說明與格式，格式請參閱「附件三-3」，提案內容若有涉及使用AI則須提供「AI 共創應用歷程紀錄表」，提案企劃以15 頁限（不含參考文獻及附件）。"
+      },
+      {
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33492/09012026%E7%AC%AC15%E5%B1%86%E5%85%A8%E5%9C%8B%E9%80%A3%E9%8E%96%E5%8A%A0%E7%9B%9F%E7%94%A2%E6%A5%AD%E5%89%B5%E6%96%B0%E6%8F%90%E6%A1%88%E7%AB%B6%E8%B3%BD%E6%9A%A8%E9%AB%98%E4%B8%AD%E8%81%B7%E5%AD%B8%E6%A0%A1%E5%B0%8F%E8%AB%96%E6%96%87%E7%AB%B6%E8%B3%BD.pdf",
+        "quote": "參賽團隊不得僅以AI 生成內容作為作品主體，應展現團隊自身的觀察、分析、創意、判斷及整合能力。"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://www.cyut.edu.tw/~marketing",
+    "rules": [
+      {
+        "title": "競賽簡章",
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33492/09012026%E7%AC%AC15%E5%B1%86%E5%85%A8%E5%9C%8B%E9%80%A3%E9%8E%96%E5%8A%A0%E7%9B%9F%E7%94%A2%E6%A5%AD%E5%89%B5%E6%96%B0%E6%8F%90%E6%A1%88%E7%AB%B6%E8%B3%BD%E6%9A%A8%E9%AB%98%E4%B8%AD%E8%81%B7%E5%AD%B8%E6%A0%A1%E5%B0%8F%E8%AB%96%E6%96%87%E7%AB%B6%E8%B3%BD.pdf"
+      },
+      {
+        "title": "競賽海報",
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33492/09012026%E7%AC%AC15%E5%B1%86%E5%85%A8%E5%9C%8B%E9%80%A3%E9%8E%96%E5%8A%A0%E7%9B%9F%E7%94%A2%E6%A5%AD%E5%89%B5%E6%96%B0%E6%8F%90%E6%A1%88%E7%AB%B6%E8%B3%BD%E6%9A%A8%E9%AB%98%E4%B8%AD%E8%81%B7%E5%AD%B8%E6%A0%A1%E5%B0%8F%E8%AB%96%E6%96%87%E7%AB%B6%E8%B3%BD%E6%B5%B7%E5%A0%B1.pdf"
+      }
+    ],
+    "registration": "https://www.cyut.edu.tw/~marketing/#/register"
+  },
+  "found_via": [
+    {
+      "name": "暨大附中 學生研習與競賽活動",
+      "url": "https://www.pshs.ntct.edu.tw/ischool/public/news_view/show.php?nid=33492"
+    },
+    {
+      "name": "成功高中 活動競賽",
+      "url": "https://www.cksh.tp.edu.tw/news/%e3%80%90%e8%bd%89%e7%9f%a5%e3%80%912026%e7%ac%ac15%e5%b1%86%e5%85%a8%e5%9c%8b%e9%80%a3%e9%8e%96%e5%8a%a0%e7%9b%9f%e7%94%a2%e6%a5%ad%e5%89%b5%e6%96%b0%e6%8f%90%e6%a1%88%e7%ab%b6%e8%b3%bd%e6%9a%a8/"
+    },
+    {
+      "name": "新竹女中 活動研習",
+      "url": "https://www.hgsh.hc.edu.tw/news/2026%e7%ac%ac15%e5%b1%86%e5%85%a8%e5%9c%8b%e9%80%a3%e9%8e%96%e5%8a%a0%e7%9b%9f%e7%94%a2%e6%a5%ad%e5%89%b5%e6%96%b0%e6%8f%90%e6%a1%88%e7%ab%b6%e8%b3%bd%e6%9a%a8%e9%ab%98%e4%b8%ad%e8%81%b7%e5%ad%b8/"
+    },
+    {
+      "name": "苗栗農工 處室公告",
+      "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26184"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-26",
+    "method": "single",
+    "unread": [],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-26",
+  "level": "checked",
+  "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-cyut-chain-franchise-innovation/",
+  "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-cyut-chain-franchise-innovation.md"
+}

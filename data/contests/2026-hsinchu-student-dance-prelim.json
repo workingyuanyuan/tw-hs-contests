@@ -1,0 +1,216 @@
+{
+  "schema": 1,
+  "id": "2026-hsinchu-student-dance-prelim",
+  "title": "115學年度全國學生舞蹈比賽新竹市初賽",
+  "edition": "115 學年度",
+  "summary": "新竹市學生以個人組或團體組報名，於全國學生舞蹈比賽新竹市初賽現場演出舞蹈。",
+  "organizers": [
+    {
+      "name": "教育部師資培育及藝術教育司",
+      "role": "指導"
+    },
+    {
+      "name": "國立臺灣師範大學體育室",
+      "role": "主辦"
+    },
+    {
+      "name": "新竹市教育處",
+      "role": "承辦"
+    },
+    {
+      "name": "新竹市立育賢國中",
+      "role": "承辦"
+    },
+    {
+      "name": "陽光國小",
+      "role": "協辦"
+    },
+    {
+      "name": "竹光國中",
+      "role": "協辦"
+    },
+    {
+      "name": "建功高中",
+      "role": "協辦"
+    }
+  ],
+  "categories": [
+    "表演藝術"
+  ],
+  "eligibility": {
+    "levels": [],
+    "division": "unknown",
+    "regions": [
+      "新竹市"
+    ],
+    "nomination": "none",
+    "team_min": null,
+    "team_max": null,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/public/news_view/show.php?nid=26182",
+        "quote": "「115學年度全國學生舞蹈比賽」新竹市初賽實施計畫乙份"
+      },
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/public/news_view/show.php?nid=26182",
+        "quote": "初賽報名請於全國學生舞蹈比賽資訊網（網址：http://studentdance.perdc.ntnu.edu.tw）登錄報名資料，"
+      },
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/public/news_view/show.php?nid=26182",
+        "quote": "以利活動組協助加蓋學校印信（團體組）或註冊組章戳（個人組及學生證影印本至活動組）"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "other",
+      "label": "新竹高商學生校內報名截止",
+      "date": "2026-09-29",
+      "time": "16:00",
+      "original": "115 年 9 月29日(二)下午 16：00 止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.hccvs.hc.edu.tw/ischool/public/news_view/show.php?nid=26182",
+          "quote": "校內報名日期及方式：115 年 9 月29日(二)下午 16：00 止，完成上述網路報名後並完成下列步驟:"
+        }
+      ]
+    },
+    {
+      "kind": "registration_deadline",
+      "label": "網路報名截止",
+      "date": "2026-09-30",
+      "time": null,
+      "original": "115 年 9 月 30 日（三）止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.hccvs.hc.edu.tw/ischool/public/news_view/show.php?nid=26182",
+          "quote": "網路報名作業：（一）自 115 年 9 月 14 日（一）起至 115 年 9 月 30 日（三）止受理網路報名。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "領隊抽籤會議",
+      "date": "2026-10-13",
+      "time": "14:00",
+      "original": "115年10月13日 (週二)下午2：00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.hccvs.hc.edu.tw/ischool/public/news_view/show.php?nid=26182",
+          "quote": "(四)領隊抽籤會議：１、會議日期：115年10月13日 (週二)下午2：00。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "綵排",
+      "date": "2026-10-31",
+      "time": null,
+      "original": "綵排：10月31日（週六）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.hccvs.hc.edu.tw/ischool/public/news_view/show.php?nid=26182",
+          "quote": "(一)比賽日期：115年11月1日（週日）；場佈：10月30日（週五）；綵排：10月31日（週六）；"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "初賽",
+      "date": "2026-11-01",
+      "time": null,
+      "original": "115年11月1日（週日）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.hccvs.hc.edu.tw/ischool/public/news_view/show.php?nid=26182",
+          "quote": "(一)比賽日期：115年11月1日（週日）；場佈：10月30日（週五）；綵排：10月31日（週六）；"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "初賽成績公告",
+      "date": "2026-11-02",
+      "time": null,
+      "original": "2026/11/02",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.hc.edu.tw/language_art/",
+          "quote": "2026/11/02 新竹市115學年度學生舞蹈比賽成績公告"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名",
+      "what": "在全國學生舞蹈比賽資訊網登錄報名資料",
+      "how": "online"
+    },
+    {
+      "stage": "初賽",
+      "what": "個人組或團體組舞蹈現場演出（前一日綵排）",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "新竹市立建功高中活動中心",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/public/news_view/show.php?nid=26182",
+        "quote": "(二)比賽地點：新竹市立建功高中活動中心。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "unknown",
+    "amount": null,
+    "basis": "unread",
+    "evidence": []
+  },
+  "prizes": {
+    "text": null,
+    "basis": "unread",
+    "evidence": []
+  },
+  "ai_policy": {
+    "value": "unknown",
+    "basis": "unread",
+    "evidence": []
+  },
+  "links": {
+    "official": "https://www.hc.edu.tw/language_art/details.aspx?id=2428",
+    "rules": [],
+    "registration": "http://studentdance.perdc.ntnu.edu.tw"
+  },
+  "found_via": [
+    {
+      "name": "新竹高商 消息公佈欄",
+      "url": "https://www.hccvs.hc.edu.tw/ischool/public/news_view/show.php?nid=26182"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-26",
+    "method": "single",
+    "unread": [
+      "「115學年度全國學生舞蹈比賽」新竹市初賽實施計畫",
+      "「115學年度全國學生舞蹈比賽」實施要點"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-26"
+}

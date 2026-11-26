@@ -1,0 +1,248 @@
+{
+  "schema": 1,
+  "id": "2026-infomonth-ict-skills",
+  "title": "115 資訊月資訊應用技能競賽",
+  "edition": "115",
+  "summary": "高中職與大專學生 1 至 5 人組隊，以程式語言、Office 或會計軟體解答操作題。",
+  "organizers": [
+    {
+      "name": "資訊月活動委員會",
+      "role": "主辦"
+    },
+    {
+      "name": "財團法人中華民國電腦技能基金會",
+      "role": "承辦"
+    }
+  ],
+  "categories": [
+    "資訊與 AI",
+    "技藝與技能",
+    "商管與行銷"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職",
+      "大專"
+    ],
+    "division": "mixed",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "school",
+    "team_min": 1,
+    "team_max": 5,
+    "teacher": "required",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/29/115 資訊月資訊應用技能競賽活動辦法.pdf",
+        "quote": "本競賽限高中職、大專校院在校學生1-5 人組隊參加，如參賽項目需承辦單位證照，每位成員都需事先取得該項目的證照。"
+      },
+      {
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/29/115 資訊月資訊應用技能競賽活動辦法.pdf",
+        "quote": "高中職以校為單位，大專校院以系所為單位組隊參加。每一考科，每單位限報名一隊，每隊需指導老師一名。"
+      },
+      {
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/29/115 資訊月資訊應用技能競賽活動辦法.pdf",
+        "quote": "個人組：全國取前十名，其優勝選手及指導老師頒發優勝獎狀乙紙。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "線上報名及郵寄參賽報名表截止",
+      "date": "2026-09-17",
+      "time": null,
+      "original": "8 月28 日（五）~9 月17 日（四）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.hgsh.hc.edu.tw/view-doc/29/115 資訊月資訊應用技能競賽活動辦法.pdf",
+          "quote": "8 月28 日（五）~9 月17 日（四）"
+        },
+        {
+          "url": "https://www.hgsh.hc.edu.tw/view-doc/29/115 資訊月資訊應用技能競賽活動辦法.pdf",
+          "quote": "指導老師請於9 月17 日(四)前，以掛號郵寄參賽報名表至報名所在區域之電腦技能基金會區推廣中心(郵戳為憑)。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "需另裝會計軟體者寄送軟體光碟截止",
+      "date": "2026-09-17",
+      "time": null,
+      "original": "115 年9 月17 日(四)前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.hgsh.hc.edu.tw/view-doc/29/115 資訊月資訊應用技能競賽活動辦法.pdf",
+          "quote": "選手如因個人使用需求而需另外安裝其他會計軟體，請於115 年9 月17 日(四)前將軟體光碟寄發至團隊所報名之（北、中、南）區推廣中心"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "公告全國競賽須知（競賽地點、場次、座位表）",
+      "date": "2026-10-01",
+      "time": null,
+      "original": "10 月1 日（四）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.hgsh.hc.edu.tw/view-doc/29/115 資訊月資訊應用技能競賽活動辦法.pdf",
+          "quote": "公告全國競賽須知 （競賽地點、場次、座位表） 10 月1 日（四）"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "全國實機競賽",
+      "date": "2026-10-17",
+      "time": null,
+      "original": "10月17日 (六)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.infomonth.com",
+          "quote": "自8月28日開放線上報名，全國實機競賽於10月17日 (六)舉行。"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "得獎名單公佈",
+      "date": "2026-11-02",
+      "time": null,
+      "original": "11 月2 日（一）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.hgsh.hc.edu.tw/view-doc/29/115 資訊月資訊應用技能競賽活動辦法.pdf",
+          "quote": "得獎名單公佈 11 月2 日（一）"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名",
+      "what": "指導老師線上填寫團隊資料後列印的參賽報名表，以掛號寄至所屬區推廣中心",
+      "how": "mail"
+    },
+    {
+      "stage": "全國實機競賽",
+      "what": "40 分鐘內依題目要求完成操作題並存檔（Python、C/C++、Excel、Word、PowerPoint 或會計軟體，依組別而定）",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "北、中、南三區競賽場地",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/29/115 資訊月資訊應用技能競賽活動辦法.pdf",
+        "quote": "於北、中、南三區實地上機競賽。"
+      },
+      {
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/29/115 資訊月資訊應用技能競賽活動辦法.pdf",
+        "quote": "參賽選手須於規定時間內至比賽地點完成報到，遲到者一律以棄權論"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/29/115 資訊月資訊應用技能競賽活動辦法.pdf"
+      },
+      {
+        "url": "https://www.infomonth.com"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "全國排名：個人組前十名頒優勝獎狀；團體組前五名，第一名頒獎盃、第二至五名頒獎牌，並頒獎狀。北、中、南各區另取個人組前十名頒獎狀、團體組前五名頒獎牌及獎狀。團體成績以各隊分數最高的前 3 名加總。全國參賽不足 30 人或 10 隊的項目，僅頒全國團體組前三名及全國個人前十名。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/29/115 資訊月資訊應用技能競賽活動辦法.pdf",
+        "quote": "個人組：全國取前十名，其優勝選手及指導老師頒發優勝獎狀乙紙。"
+      },
+      {
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/29/115 資訊月資訊應用技能競賽活動辦法.pdf",
+        "quote": "團體組：全國取前五名，全國第一名頒發優勝獎盃乙座，全國第二名至第五名頒發優勝獎牌乙面，各優勝選手及其指導老師頒發優勝獎狀乙紙。"
+      },
+      {
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/29/115 資訊月資訊應用技能競賽活動辦法.pdf",
+        "quote": "個人組：北、中、南各區取前十名，其優勝選手及指導老師頒發優勝獎狀乙紙。"
+      },
+      {
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/29/115 資訊月資訊應用技能競賽活動辦法.pdf",
+        "quote": "團體組：北、中、南各區取前五名，頒發優勝獎牌乙面，各優勝選手及其指導老師頒發優勝獎狀乙紙。"
+      },
+      {
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/29/115 資訊月資訊應用技能競賽活動辦法.pdf",
+        "quote": "本競賽團體成績以各組分數最高的前3 名進行加總，個人成績皆併為個人組成績計算。"
+      },
+      {
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/29/115 資訊月資訊應用技能競賽活動辦法.pdf",
+        "quote": "如該項目全國參賽不足30人或10隊時，則僅頒發全國團體組前三名及全國個人前十名之獎項"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/29/115 資訊月資訊應用技能競賽活動辦法.pdf"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://www.infomonth.com",
+    "rules": [
+      {
+        "title": "115 資訊月資訊應用技能競賽活動辦法（PDF）",
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/29/115 資訊月資訊應用技能競賽活動辦法.pdf"
+      }
+    ],
+    "registration": "https://www.infomonth.com/ICTRegister.aspx"
+  },
+  "found_via": [
+    {
+      "name": "南港高工 重要資訊",
+      "url": "https://www.nkhs.tp.edu.tw/ischool/public/news_view/show.php?nid=34514"
+    },
+    {
+      "name": "金門高中 最新消息",
+      "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=22023"
+    },
+    {
+      "name": "新竹女中 活動研習",
+      "url": "https://www.hgsh.hc.edu.tw/news/%e3%80%8c115-%e8%b3%87%e8%a8%8a%e6%9c%88%e8%b3%87%e8%a8%8a%e6%87%89%e7%94%a8%e7%ab%b6%e8%b3%bd%e3%80%8d%e7%9b%b8%e9%97%9c%e8%a8%8a%e6%81%af%ef%bc%8c%e9%bc%93%e5%8b%b5%e5%ad%b8%e7%94%9f%e5%a0%b1/"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-26",
+    "method": "single",
+    "unread": [
+      "活動網站公告之各項比賽進行程序",
+      "全國競賽須知（競賽地點、場次、座位表）"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-26",
+  "level": "checked",
+  "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-infomonth-ict-skills/",
+  "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-infomonth-ict-skills.md"
+}

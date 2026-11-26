@@ -1,0 +1,459 @@
+{
+  "schema": 1,
+  "id": "2026-taipei-student-dance",
+  "title": "臺北市115學年度學生舞蹈比賽",
+  "edition": "115 學年度",
+  "summary": "臺北市各級學校學生以個人或團體報名，演出古典舞、民俗舞、現代舞、兒童舞蹈或芭蕾作品。",
+  "organizers": [
+    {
+      "name": "教育部",
+      "role": "指導"
+    },
+    {
+      "name": "國立臺灣師範大學體育室",
+      "role": "指導"
+    },
+    {
+      "name": "臺北市政府教育局",
+      "role": "主辦"
+    },
+    {
+      "name": "臺北市大同區永樂國民小學",
+      "role": "承辦"
+    },
+    {
+      "name": "臺北市中正區東門國民小學",
+      "role": "協辦"
+    },
+    {
+      "name": "臺北市立中正國民中學",
+      "role": "協辦"
+    },
+    {
+      "name": "臺北市立萬華國民中學",
+      "role": "協辦"
+    },
+    {
+      "name": "臺北市立雙園國民中學",
+      "role": "協辦"
+    },
+    {
+      "name": "臺北市立石牌國民中學",
+      "role": "協辦"
+    },
+    {
+      "name": "臺北市立中山女子高級中學",
+      "role": "協辦"
+    },
+    {
+      "name": "臺北市立中正高級中學",
+      "role": "協辦"
+    },
+    {
+      "name": "臺北市立復興高級中學",
+      "role": "協辦"
+    },
+    {
+      "name": "臺北市立北安國民中學",
+      "role": "協辦"
+    }
+  ],
+  "categories": [
+    "表演藝術"
+  ],
+  "eligibility": {
+    "levels": [
+      "國小",
+      "國中",
+      "高中",
+      "高職",
+      "五專",
+      "大專"
+    ],
+    "division": "separate",
+    "regions": [
+      "臺北市"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": 75,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg225/臺北市115 學年度學生舞蹈比賽實施計畫.pdf",
+        "quote": "（一）國小個人組：公、私立國民小學學生。"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg225/臺北市115 學年度學生舞蹈比賽實施計畫.pdf",
+        "quote": "（二）國中個人組：公、私立國中、國中進修部、高中附設國中部、完全中學國中部學生。"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg225/臺北市115 學年度學生舞蹈比賽實施計畫.pdf",
+        "quote": "（三）高中職個人組：公、私立高中職日夜間部與進修學校、完全中學高中部、五專校院前3 年日夜間部及七年一貫制大學前3 年之學生。"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg225/臺北市115 學年度學生舞蹈比賽實施計畫.pdf",
+        "quote": "（四）大專個人組：除社區大學（學院）外，公、私立大專校院日間部與進修部學生及研究生、五專院校日間部與進修部後2 年學生、七年一貫制大學後4 年之學生。"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg225/臺北市115 學年度學生舞蹈比賽實施計畫.pdf",
+        "quote": "四、凡經中華民國教育行政主管機關核准立案之本市公私立各級學校（含外僑學校及非學校型態實驗教育）具正式學籍學生，皆可依比賽組別報名參加本市初賽評選"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg225/臺北市115 學年度學生舞蹈比賽實施計畫.pdf",
+        "quote": "1. 甲組：以31 人至75 人為限。"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg225/臺北市115 學年度學生舞蹈比賽實施計畫.pdf",
+        "quote": "（二）個人組以1 人為限。"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg225/臺北市115 學年度學生舞蹈比賽實施計畫.pdf",
+        "quote": "1. 參賽學生於本市五項藝術比賽專屬網站登記報名資料，並於登記期限內完成系統送審及列印正式報名表，續由所屬學校進行報名資料審核。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "網路登記報名截止",
+      "date": "2026-09-10",
+      "time": "23:59",
+      "original": "115 年9 月10 日（星期四）23：59",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg225/臺北市115 學年度學生舞蹈比賽實施計畫.pdf",
+          "quote": "（一）報名日期：115 年9 月1 日（星期二）9：00 至115 年9 月10 日（星期四）23：59"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "列印報名表、學校核章後上傳報名系統截止",
+      "date": "2026-09-11",
+      "time": "12:00",
+      "original": "9月11日（星期五）12時",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.cksh.tp.edu.tw/news/%e6%aa%a2%e9%80%81%e8%87%ba%e5%8c%97%e5%b8%82115%e5%ad%b8%e5%b9%b4%e5%ba%a6%e5%ad%b8%e7%94%9f%e8%88%9e%e8%b9%88%e6%af%94%e8%b3%bd%e5%af%a6%e6%96%bd%e8%a8%88%e7%95%ab%e5%8f%8a%e9%87%8d%e8%a6%81/",
+          "quote": "三、列印報名表、學校核章日期：115年9月1日（星期二）9時起至9月11日（星期五）12時止。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "電腦亂數排定出場次序",
+      "date": "2026-09-21",
+      "time": "13:30",
+      "original": "115 年9 月21 日（星期一）13:30",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg225/臺北市115 學年度學生舞蹈比賽實施計畫.pdf",
+          "quote": "二、公告賽程：115 年9 月21 日（星期一）13:30 將以電腦亂數方式排定出場次序"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "上網公告賽程表及參賽人員秩序冊",
+      "date": "2026-09-29",
+      "time": null,
+      "original": "115 年9 月29 日（星期二）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg225/臺北市115 學年度學生舞蹈比賽實施計畫.pdf",
+          "quote": "115 年9 月29 日（星期二）上網公告賽程表及參賽人員秩序冊"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "勘誤申請截止",
+      "date": "2026-09-30",
+      "time": "16:00",
+      "original": "115 年9 月30 日（星期三）16:00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg225/臺北市115 學年度學生舞蹈比賽實施計畫.pdf",
+          "quote": "三、勘誤申請：115 年9 月29 日（星期二）9:00 至115 年9 月30 日（星期三）16:00"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "團體組彩排申請截止",
+      "date": "2026-10-07",
+      "time": null,
+      "original": "10 月7 日（星期三）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg225/臺北市115 學年度學生舞蹈比賽實施計畫.pdf",
+          "quote": "（一）團體組：申請日期自115 年10 月6 日（星期二）至10 月7 日（星期三）二日"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "公告團體組彩排時段",
+      "date": "2026-10-14",
+      "time": null,
+      "original": "115 年10 月14 日（星期三）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg225/臺北市115 學年度學生舞蹈比賽實施計畫.pdf",
+          "quote": "於115 年10 月14 日（星期三）公告彩排時段。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "團體組彩排開始",
+      "date": "2026-10-28",
+      "time": null,
+      "original": "115 年10 月28 日（星期三）起",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg225/臺北市115 學年度學生舞蹈比賽實施計畫.pdf",
+          "quote": "五、彩排時間：115 年10 月28 日（星期三）起。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "比賽開始",
+      "date": "2026-10-29",
+      "time": null,
+      "original": "115 年10 月29 日（星期四）起",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg225/臺北市115 學年度學生舞蹈比賽實施計畫.pdf",
+          "quote": "六、比賽日期：115 年10 月29 日（星期四）起，詳細賽程請參閱賽程表。"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "成績於比賽當日現場公告，並於臺北市五項藝術比賽專屬網站陸續公告",
+      "date": "2026-10-29",
+      "time": null,
+      "original": "115 年10 月29 日（星期四）起",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg225/臺北市115 學年度學生舞蹈比賽實施計畫.pdf",
+          "quote": "九、成績公告：比賽當日成績於比賽場地現場公告，並於115 年10 月29 日（星期四）起自臺北市五項藝術比賽專屬網站陸續公告。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "取得代表權者無法參加全國決賽之函報期限",
+      "date": "2026-11-10",
+      "time": null,
+      "original": "115 年11 月10 日(星期二)前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg225/臺北市115 學年度學生舞蹈比賽實施計畫.pdf",
+          "quote": "應於115 年11 月10 日(星期二)前函報本局同意"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "獎狀領取及換發",
+      "date": "2026-11-11",
+      "time": null,
+      "original": "115 年11 月11 日 (星期三) 9:00-16:00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg225/臺北市115 學年度學生舞蹈比賽實施計畫.pdf",
+          "quote": "獎狀領取及換發115 年11 月11日 (星期三)9:00-16:00"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "遞補順序公告",
+      "date": "2026-11-12",
+      "time": null,
+      "original": "115 年11 月12 日（星期四）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg225/臺北市115 學年度學生舞蹈比賽實施計畫.pdf",
+          "quote": "以不分區擇優排定遞補順序於115 年11 月12 日（星期四）公告。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "取得本市代表權者全國決賽網路報名截止",
+      "date": "2026-11-12",
+      "time": null,
+      "original": "115 年11 月6 日（星期五）至11 月12 日（星期四）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg225/臺北市115 學年度學生舞蹈比賽實施計畫.pdf",
+          "quote": "（一）決賽報名時，一律由獲得本市代表權之參賽者於115 年11 月6 日（星期五）至11 月12 日（星期四）至全國學生舞蹈比賽委員會所設本項比賽專屬網站"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "取得本市代表權者全國決賽書面報名表由學校親送永樂國小截止",
+      "date": "2026-11-13",
+      "time": null,
+      "original": "115 年11 月13 日（星期五）前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg225/臺北市115 學年度學生舞蹈比賽實施計畫.pdf",
+          "quote": "115 年11 月13 日（星期五）前免備文親送本市承辦報名全國決賽學校（臺北市大同區永樂國民小學）審核報名資格"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名",
+      "what": "於臺北市五項藝術比賽專屬網站登記報名資料，列印報名表經學校核章後掃描上傳",
+      "how": "online"
+    },
+    {
+      "stage": "報到",
+      "what": "參賽者名冊、正式報名表、節目說明或故事大綱 7 份、存一首表演用 MP3 曲目的 USB 隨身碟",
+      "how": "onsite"
+    },
+    {
+      "stage": "比賽",
+      "what": "現場舞蹈演出：個人組 6 分鐘內（芭蕾 3 分鐘內）、團體乙丙組 9 分鐘內（芭蕾 8 分鐘內）、團體甲組 10 分鐘內，含場布及復原",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "臺北市立雙園國民中學",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg225/臺北市115 學年度學生舞蹈比賽實施計畫.pdf",
+        "quote": "七、彩排及比賽地點：臺北市立雙園國民中學。"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg225/臺北市115 學年度學生舞蹈比賽實施計畫.pdf",
+        "quote": "一、參賽單位應於各場次比賽開始前30 分鐘到達會場，並派代表至報到處報到"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg225/臺北市115 學年度學生舞蹈比賽實施計畫.pdf"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/news/%e6%aa%a2%e9%80%81%e8%87%ba%e5%8c%97%e5%b8%82115%e5%ad%b8%e5%b9%b4%e5%ba%a6%e5%ad%b8%e7%94%9f%e8%88%9e%e8%b9%88%e6%af%94%e8%b3%bd%e5%af%a6%e6%96%bd%e8%a8%88%e7%95%ab%e5%8f%8a%e9%87%8d%e8%a6%81/"
+      },
+      {
+        "url": "https://www.ttsh.tp.edu.tw/news/%e8%87%ba%e5%8c%97%e5%b8%82115%e5%ad%b8%e5%b9%b4%e5%ba%a6%e5%ad%b8%e7%94%9f%e8%88%9e%e8%b9%88%e6%af%94%e8%b3%bd%e5%af%a6%e6%96%bd%e8%a8%88%e7%95%ab%e5%8f%8a%e9%87%8d%e8%a6%81%e6%97%a5%e7%a8%8b/"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "東、西、南、北各區各組各項目依名次錄取（報名 6 人（隊）以下錄取前 2 名，以上錄取報名數三分之一），總平均 80 分以上依分數評列特優、優等、甲等，由主辦單位頒發獎狀；各區各組各項目第一名代表臺北市參加全國決賽。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg225/臺北市115 學年度學生舞蹈比賽實施計畫.pdf",
+        "quote": "其報名人（隊）數6 人（隊）（含）以下者，錄取前2 名；6 人（隊）以上者，錄取名額為該組報名人（隊）數的三分之一"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg225/臺北市115 學年度學生舞蹈比賽實施計畫.pdf",
+        "quote": "（一）特優：依照評分之高低分別等第，其總平均在90 分（含）以上且有二分之一以上評審委員所給予之成績在90 分（含）以上者。"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg225/臺北市115 學年度學生舞蹈比賽實施計畫.pdf",
+        "quote": "（二）優等：85 分（含）以上未滿90 分者，及90 分以上但未符「特優」規定者。"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg225/臺北市115 學年度學生舞蹈比賽實施計畫.pdf",
+        "quote": "（三）甲等：80 分（含）以上未滿85 分者。"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg225/臺北市115 學年度學生舞蹈比賽實施計畫.pdf",
+        "quote": "二、優勝團體及個人由主辦單位頒發獎狀"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg225/臺北市115 學年度學生舞蹈比賽實施計畫.pdf",
+        "quote": "二、團體組與個人組以各區各組各項目之第一名代表本市參加全國決賽"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg225/臺北市115 學年度學生舞蹈比賽實施計畫.pdf"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/news/%e6%aa%a2%e9%80%81%e8%87%ba%e5%8c%97%e5%b8%82115%e5%ad%b8%e5%b9%b4%e5%ba%a6%e5%ad%b8%e7%94%9f%e8%88%9e%e8%b9%88%e6%af%94%e8%b3%bd%e5%af%a6%e6%96%bd%e8%a8%88%e7%95%ab%e5%8f%8a%e9%87%8d%e8%a6%81/"
+      },
+      {
+        "url": "https://www.ttsh.tp.edu.tw/news/%e8%87%ba%e5%8c%97%e5%b8%82115%e5%ad%b8%e5%b9%b4%e5%ba%a6%e5%ad%b8%e7%94%9f%e8%88%9e%e8%b9%88%e6%af%94%e8%b3%bd%e5%af%a6%e6%96%bd%e8%a8%88%e7%95%ab%e5%8f%8a%e9%87%8d%e8%a6%81%e6%97%a5%e7%a8%8b/"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://www.tpcityart.tp.edu.tw/",
+    "rules": [
+      {
+        "title": "臺北市115學年度學生舞蹈比賽實施計畫（PDF）",
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg225/臺北市115 學年度學生舞蹈比賽實施計畫.pdf"
+      }
+    ],
+    "registration": "https://www.tpcityart.tp.edu.tw/"
+  },
+  "found_via": [
+    {
+      "name": "大同高中 學生競賽活動",
+      "url": "https://www.ttsh.tp.edu.tw/news/%e8%87%ba%e5%8c%97%e5%b8%82115%e5%ad%b8%e5%b9%b4%e5%ba%a6%e5%ad%b8%e7%94%9f%e8%88%9e%e8%b9%88%e6%af%94%e8%b3%bd%e5%af%a6%e6%96%bd%e8%a8%88%e7%95%ab%e5%8f%8a%e9%87%8d%e8%a6%81%e6%97%a5%e7%a8%8b/"
+    },
+    {
+      "name": "成功高中 活動競賽",
+      "url": "https://www.cksh.tp.edu.tw/news/%e6%aa%a2%e9%80%81%e8%87%ba%e5%8c%97%e5%b8%82115%e5%ad%b8%e5%b9%b4%e5%ba%a6%e5%ad%b8%e7%94%9f%e8%88%9e%e8%b9%88%e6%af%94%e8%b3%bd%e5%af%a6%e6%96%bd%e8%a8%88%e7%95%ab%e5%8f%8a%e9%87%8d%e8%a6%81/"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-26",
+    "method": "single",
+    "unread": [
+      "臺北市115學年度學生舞蹈比賽重要日程表",
+      "115 學年度全國學生舞蹈比賽實施要點"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-26",
+  "level": "checked",
+  "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-taipei-student-dance/",
+  "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-taipei-student-dance.md"
+}

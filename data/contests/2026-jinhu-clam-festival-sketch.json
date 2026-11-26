@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "id": "2026-jinhu-clam-festival-sketch",
+  "title": "2026金湖海灘花蛤季寫生比賽-金湖之美",
+  "edition": "2026",
+  "summary": "參賽者參加金湖海灘花蛤季寫生比賽「金湖之美」，繳交完成的寫生畫作。",
+  "organizers": [
+    {
+      "name": "金湖鎮公所",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "美術"
+  ],
+  "eligibility": {
+    "levels": [],
+    "division": "unknown",
+    "regions": [],
+    "nomination": "unknown",
+    "team_min": null,
+    "team_max": null,
+    "teacher": "unknown",
+    "basis": "unread",
+    "evidence": []
+  },
+  "dates": [
+    {
+      "kind": "submission_deadline",
+      "label": "作品送交截止",
+      "date": "2026-09-30",
+      "time": "17:30",
+      "original": "115 年9月30日（星期三）下午17:30",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=22055",
+          "quote": "(一)截止時間：請於115 年9月30日（星期三）下午17:30前送交。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "交件",
+      "what": "畫作，畫紙背面以正楷填寫個人資料；可由學校統一收集轉交、自行送至金湖鎮公所服務台或郵寄",
+      "how": "mail"
+    }
+  ],
+  "attendance": {
+    "value": "unknown",
+    "where": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=22055"
+      }
+    ]
+  },
+  "fee": {
+    "value": "unknown",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=22055"
+      }
+    ]
+  },
+  "prizes": {
+    "text": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=22055"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "unknown",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=22055"
+      }
+    ]
+  },
+  "links": {
+    "official": null,
+    "rules": [],
+    "registration": null
+  },
+  "found_via": [
+    {
+      "name": "金門高中 最新消息",
+      "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=22055"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-26",
+    "method": "single",
+    "unread": [],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-26"
+}

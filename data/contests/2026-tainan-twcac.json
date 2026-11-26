@@ -1,0 +1,275 @@
+{
+  "schema": 1,
+  "id": "2026-tainan-twcac",
+  "title": "2026臺南美食之都世界餐飲藝術挑戰賽",
+  "edition": "2026",
+  "summary": "餐飲職人與大專、高中職學生報名烹調、烘焙、飲調或冷展項目，以料理作品接受評審。",
+  "organizers": [
+    {
+      "name": "臺南市政府觀光旅遊局",
+      "role": "主辦"
+    },
+    {
+      "name": "紐臺國際廚藝文化交流協會",
+      "role": "承辦"
+    },
+    {
+      "name": "臺南市國際觀光美食文化交流協會",
+      "role": "協辦"
+    },
+    {
+      "name": "台南市餐旅教育協會",
+      "role": "協辦"
+    },
+    {
+      "name": "台南市府城文化觀光產業協會",
+      "role": "協辦"
+    },
+    {
+      "name": "台南市福爾摩沙廚藝協會",
+      "role": "協辦"
+    },
+    {
+      "name": "臺南市烹飪商業同業公會",
+      "role": "協辦"
+    },
+    {
+      "name": "長榮大學",
+      "role": "協辦"
+    },
+    {
+      "name": "福爾摩沙遊艇酒店",
+      "role": "協辦"
+    }
+  ],
+  "categories": [
+    "餐旅",
+    "技藝與技能"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職",
+      "五專",
+      "大專",
+      "社會人士"
+    ],
+    "division": "unknown",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": null,
+    "team_max": null,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.tngs.tn.edu.tw/2026/09/10/%e8%87%ba%e5%8d%97%e5%b8%82%e8%a7%80%e5%85%89%e6%97%85%e9%81%8a%e5%b1%80%e3%80%8c2026%e8%87%ba%e5%8d%97%e7%be%8e%e9%a3%9f%e4%b9%8b%e9%83%bd%e4%b8%96%e7%95%8c%e9%a4%90%e9%a3%b2%e8%97%9d%e8%a1%93/",
+        "quote": "請協助轉知所轄大專院校、五專部、高中職學校旨揭競賽訊息"
+      },
+      {
+        "url": "https://www.twtainan.net/zh-tw/event/newsdetail/8020/",
+        "quote": "歡迎各界餐飲職人、烹飪好手踴躍參加、角逐榮耀。"
+      },
+      {
+        "url": "https://reurl.cc/qa18ME",
+        "quote": "邀請來自世界各地的專業廚師參賽"
+      },
+      {
+        "url": "https://reurl.cc/qa18ME",
+        "quote": "本競賽一律採網路報名"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "報名截止",
+      "date": "2026-09-30",
+      "time": null,
+      "original": "2026 年 9 月 30 日(三)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://reurl.cc/qa18ME",
+          "quote": "三、報名期限:即日起至 2026 年 9 月 30 日(三) 截止,逾期恕不受理。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "官網公布參賽名單",
+      "date": "2026-10-12",
+      "time": null,
+      "original": "2026 年 10 月 12 日(一)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://reurl.cc/qa18ME",
+          "quote": "四、參賽名單:統一在 2026 年 10 月 12 日(一)於官網公佈參賽名單。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "現場烹調類比賽（長榮大學）",
+      "date": "2026-10-26",
+      "time": null,
+      "original": "2026/10/26(一)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://reurl.cc/qa18ME",
+          "quote": "比賽日期:2026/10/26(一) 地點:長榮大學"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "烘焙藝術類 A1 至 A12 組比賽（福爾摩沙遊艇酒店）",
+      "date": "2026-10-27",
+      "time": null,
+      "original": "2026/10/27(二)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://reurl.cc/qa18ME",
+          "quote": "比賽日期:2026/10/27(二) 地點:福爾摩沙遊艇酒店"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "烘焙藝術類 A13 至 A20 組、飲調類、靜態冷展類比賽（福爾摩沙遊艇酒店）",
+      "date": "2026-10-28",
+      "time": null,
+      "original": "2026/10/28(三)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://reurl.cc/qa18ME",
+          "quote": "A17 花藝果凍花組/ A18 創意果凍花組、A19 甜點透明杯飾組、A20 藝術麵包展示組 比賽日期: 2026/10/28(三) 地點:福爾摩沙遊艇酒店"
+        },
+        {
+          "url": "https://reurl.cc/qa18ME",
+          "quote": "3、飲調類(2 組):B1 咖啡飲調組/B2 傳統調酒組 比賽日期:2026/10/28(三) 地點:福爾摩沙遊艇酒店"
+        },
+        {
+          "url": "https://reurl.cc/qa18ME",
+          "quote": "原民料理展示組/D5 臺南在地食材靜態展示組 比賽日期:2026/10/28(三) 地點:福爾 摩沙遊艇酒店"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名",
+      "what": "Google 表單，上傳報名資料表、參賽同意授權書與匯款證明",
+      "how": "online"
+    },
+    {
+      "stage": "比賽當天",
+      "what": "依報名組別現場烹調或展示作品，附中英文菜卡與菜單及列印的標準配方表；食材與專業廚服自備",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "長榮大學（現場烹調類）；福爾摩沙遊艇酒店（烘焙藝術類、飲調類、靜態冷展類）",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.2026twcac.com/賽事資訊/賽事規則",
+        "quote": "18、選手需本人到場,並攜帶可辨識之照片證件(如身分證、駕照、護照或學生證)。做報到程序。"
+      },
+      {
+        "url": "https://reurl.cc/qa18ME",
+        "quote": "現場烹調類 - 長榮大學(臺南市歸仁區長大路 1 號)"
+      },
+      {
+        "url": "https://reurl.cc/qa18ME",
+        "quote": "烘焙藝術類/飲調類/靜態冷展類 - 福爾摩沙遊艇酒店(臺南市安平區安平路 988 號)"
+      }
+    ]
+  },
+  "fee": {
+    "value": "required",
+    "amount": "廚藝現烹組每項 2,000 元；靜態展示組、咖啡調酒組每項 1,200 元；報名完成後不退費",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://reurl.cc/qa18ME",
+        "quote": "五、報名費用(經審核報名完成後,一律無法退費):"
+      },
+      {
+        "url": "https://reurl.cc/qa18ME",
+        "quote": "廚藝現烹組$2000/項 靜態展示組$1200/項 咖啡調酒組$1200/項"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "選手個人依成績獲佳作、銅、銀、金獎及 TWCAC 獎（單場最高分）；未達得獎分數者不授獎。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.2026twcac.com/賽事資訊/賽事規則",
+        "quote": "16、勝利之選手個人可分別得到佳作、銅、銀、金獎及 TWCAC 獎(單場最高分),未達得獎分數者不予授獎。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "unknown",
+    "basis": "unread",
+    "evidence": []
+  },
+  "links": {
+    "official": "https://www.2026twcac.com/",
+    "rules": [
+      {
+        "title": "報名簡章",
+        "url": "https://reurl.cc/qa18ME"
+      },
+      {
+        "title": "競賽規則與評分標準",
+        "url": "https://reurl.cc/5Xol6n"
+      }
+    ],
+    "registration": "https://forms.gle/UVJi1H3iziQ8ptnW9"
+  },
+  "found_via": [
+    {
+      "name": "臺南女中 學生競賽",
+      "url": "https://www.tngs.tn.edu.tw/2026/09/10/%e8%87%ba%e5%8d%97%e5%b8%82%e8%a7%80%e5%85%89%e6%97%85%e9%81%8a%e5%b1%80%e3%80%8c2026%e8%87%ba%e5%8d%97%e7%be%8e%e9%a3%9f%e4%b9%8b%e9%83%bd%e4%b8%96%e7%95%8c%e9%a4%90%e9%a3%b2%e8%97%9d%e8%a1%93/"
+    },
+    {
+      "name": "新竹高商 消息公佈欄",
+      "url": "https://www.hccvs.hc.edu.tw/ischool/public/news_view/show.php?nid=26270"
+    },
+    {
+      "name": "苗栗農工 處室公告",
+      "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26273"
+    },
+    {
+      "name": "苗栗高中 學生校外營隊、活動、比賽",
+      "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=27832"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-26",
+    "method": "single",
+    "unread": [
+      "報名簡章第 4 至 16 頁",
+      "競賽規則與評分標準",
+      "報名資料表（附件一）",
+      "參賽同意授權書（附件二）",
+      "歷年 Q&A"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-26"
+}

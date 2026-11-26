@@ -626,13 +626,14 @@
   ],
   "verification": {
     "last_verified": "2026-11-26",
-    "method": "single",
+    "method": "dual",
     "unread": [
       "附件一至附件四報名表與參賽學生名單 Excel 檔",
       "活動網站 2026-09-04 總決賽競賽日期調整公告"
     ],
     "note": null,
     "readers": [
+      "claude-opus-5-5",
       "claude-opus-5-5"
     ]
   },

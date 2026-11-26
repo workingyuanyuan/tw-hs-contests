@@ -1,0 +1,168 @@
+{
+  "schema": 1,
+  "id": "2026-nkust-aseismatic-contest",
+  "title": "第22屆高科大土木系抗震大作戰",
+  "edition": "第22屆",
+  "summary": "國中、高中職及大專學生組隊報名，到高科大建工校區中正堂參加建築物耐震競賽。",
+  "organizers": [
+    {
+      "name": "國立高雄科技大學土木工程系",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "工程與製造"
+  ],
+  "eligibility": {
+    "levels": [
+      "國中",
+      "高中",
+      "高職",
+      "大專"
+    ],
+    "division": "unknown",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "unknown",
+    "team_min": null,
+    "team_max": null,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27842/%E5%9C%8B%E7%AB%8B%E9%AB%98%E9%9B%84%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E3%80%8C%E7%AC%AC22%E5%B1%86%E9%AB%98%E7%A7%91%E5%A4%A7%E5%9C%9F%E6%9C%A8%E7%B3%BB%E6%8A%97%E9%9C%87%E5%A4%A7%E4%BD%9C%E6%88%B0%E3%80%8D.pdf",
+        "quote": "一、為推廣地震工程之防災教育，本活動邀請全國國中、高中\n職及大專院校學生參加，希望提升同學對建築物耐震原理\n的學習興趣。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27842/%E3%80%8C%E7%AC%AC22%E5%B1%86%E9%AB%98%E7%A7%91%E5%A4%A7%E5%9C%9F%E6%9C%A8%E7%B3%BB%E6%8A%97%E9%9C%87%E5%A4%A7%E4%BD%9C%E6%88%B0%E3%80%8D.pdf",
+        "quote": "(一校最多報名六隊)"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "other",
+      "label": "開放線上報名",
+      "date": "2026-09-16",
+      "time": "12:00",
+      "original": "115年9月16日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.fhsh.khc.edu.tw/aa/news-aa/20260904/45858",
+          "quote": "三、本活動自115年9月16日開放線上報名，相關資訊及規則解釋以活動網頁公告為主。"
+        },
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27842/%E3%80%8C%E7%AC%AC22%E5%B1%86%E9%AB%98%E7%A7%91%E5%A4%A7%E5%9C%9F%E6%9C%A8%E7%B3%BB%E6%8A%97%E9%9C%87%E5%A4%A7%E4%BD%9C%E6%88%B0%E3%80%8D.pdf",
+          "quote": "(三)12:00- (二)12:00"
+        }
+      ]
+    },
+    {
+      "kind": "registration_deadline",
+      "label": "報名截止",
+      "date": "2026-10-13",
+      "time": "12:00",
+      "original": "9/16-10/13 (三)12:00- (二)12:00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27842/%E3%80%8C%E7%AC%AC22%E5%B1%86%E9%AB%98%E7%A7%91%E5%A4%A7%E5%9C%9F%E6%9C%A8%E7%B3%BB%E6%8A%97%E9%9C%87%E5%A4%A7%E4%BD%9C%E6%88%B0%E3%80%8D.pdf",
+          "quote": "9/16-10/13"
+        },
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27842/%E3%80%8C%E7%AC%AC22%E5%B1%86%E9%AB%98%E7%A7%91%E5%A4%A7%E5%9C%9F%E6%9C%A8%E7%B3%BB%E6%8A%97%E9%9C%87%E5%A4%A7%E4%BD%9C%E6%88%B0%E3%80%8D.pdf",
+          "quote": "(三)12:00- (二)12:00"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "活動日（競賽）",
+      "date": "2026-12-12",
+      "time": null,
+      "original": "2026 12.12",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27842/%E3%80%8C%E7%AC%AC22%E5%B1%86%E9%AB%98%E7%A7%91%E5%A4%A7%E5%9C%9F%E6%9C%A8%E7%B3%BB%E6%8A%97%E9%9C%87%E5%A4%A7%E4%BD%9C%E6%88%B0%E3%80%8D.pdf",
+          "quote": "活動日期\n12.12"
+        }
+      ]
+    }
+  ],
+  "deliverables": [],
+  "attendance": {
+    "value": "all",
+    "where": "國立高雄科技大學建工校區中正堂",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27842/%E3%80%8C%E7%AC%AC22%E5%B1%86%E9%AB%98%E7%A7%91%E5%A4%A7%E5%9C%9F%E6%9C%A8%E7%B3%BB%E6%8A%97%E9%9C%87%E5%A4%A7%E4%BD%9C%E6%88%B0%E3%80%8D.pdf",
+        "quote": "活動地點\n高科大\n中正堂"
+      }
+    ]
+  },
+  "fee": {
+    "value": "unknown",
+    "amount": null,
+    "basis": "unread",
+    "evidence": []
+  },
+  "prizes": {
+    "text": null,
+    "basis": "unread",
+    "evidence": []
+  },
+  "ai_policy": {
+    "value": "unknown",
+    "basis": "unread",
+    "evidence": []
+  },
+  "links": {
+    "official": "https://sites.google.com/nkust.edu.tw/aseismatic-contest-22th/home",
+    "rules": [
+      {
+        "title": "活動海報",
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27842/%E3%80%8C%E7%AC%AC22%E5%B1%86%E9%AB%98%E7%A7%91%E5%A4%A7%E5%9C%9F%E6%9C%A8%E7%B3%BB%E6%8A%97%E9%9C%87%E5%A4%A7%E4%BD%9C%E6%88%B0%E3%80%8D.pdf"
+      }
+    ],
+    "registration": null
+  },
+  "found_via": [
+    {
+      "name": "新竹女中 活動研習",
+      "url": "https://www.hgsh.hc.edu.tw/news/%e9%ab%98%e7%a7%91%e5%a4%a7-%e7%ac%ac22%e5%b1%86%e9%ab%98-%e7%a7%91%e5%a4%a7%e5%9c%9f%e6%9c%a8%e7%b3%bb%e6%8a%97%e9%9c%87%e5%a4%a7%e4%bd%9c%e6%88%b0/"
+    },
+    {
+      "name": "新竹高商 消息公佈欄",
+      "url": "https://www.hccvs.hc.edu.tw/ischool/public/news_view/show.php?nid=26266"
+    },
+    {
+      "name": "鳳新高中 營隊競賽",
+      "url": "https://www.fhsh.khc.edu.tw/aa/news-aa/20260904/45858"
+    },
+    {
+      "name": "苗栗農工 處室公告",
+      "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26290"
+    },
+    {
+      "name": "苗栗高中 學生校外營隊、活動、比賽",
+      "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=27842"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-26",
+    "method": "single",
+    "unread": [
+      "活動網站的競賽規則、獎勵與報名辦法"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-26"
+}

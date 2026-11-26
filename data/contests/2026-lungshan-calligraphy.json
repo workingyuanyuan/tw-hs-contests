@@ -1,0 +1,168 @@
+{
+  "schema": 1,
+  "id": "2026-lungshan-calligraphy",
+  "title": "第十二屆艋舺龍山寺盃全國書法比賽",
+  "edition": "第十二屆",
+  "summary": "國小、國中、高中學生與成人、銀髮參賽者分組繳交書法作品參賽。",
+  "organizers": [
+    {
+      "name": "財團法人台北市艋舺龍山寺",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "美術"
+  ],
+  "eligibility": {
+    "levels": [
+      "國小",
+      "國中",
+      "高中",
+      "社會人士"
+    ],
+    "division": "separate",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": null,
+    "team_max": null,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.nknush.kh.edu.tw/announcement/19199/%e5%85%ac%e5%91%8a%e8%a8%93%e8%82%b2%e7%b5%84115%e5%b9%b4%e7%ac%ac%e5%8d%81%e4%ba%8c%e5%b1%86%e8%89%8b%e8%88%ba%e9%be%8d%e5%b1%b1%e5%af%ba%e7%9b%83%e5%85%a8%e5%9c%8b%e6%9b%b8%e6%b3%95%e6%af%94/",
+        "quote": "國小組、國中組、高中組（以「115學年度第一學期」就讀年級為準）。"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/announcement/19199/%e5%85%ac%e5%91%8a%e8%a8%93%e8%82%b2%e7%b5%84115%e5%b9%b4%e7%ac%ac%e5%8d%81%e4%ba%8c%e5%b1%86%e8%89%8b%e8%88%ba%e9%be%8d%e5%b1%b1%e5%af%ba%e7%9b%83%e5%85%a8%e5%9c%8b%e6%9b%b8%e6%b3%95%e6%af%94/",
+        "quote": "成人組（年滿 18 歲以上）。"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/announcement/19199/%e5%85%ac%e5%91%8a%e8%a8%93%e8%82%b2%e7%b5%84115%e5%b9%b4%e7%ac%ac%e5%8d%81%e4%ba%8c%e5%b1%86%e8%89%8b%e8%88%ba%e9%be%8d%e5%b1%b1%e5%af%ba%e7%9b%83%e5%85%a8%e5%9c%8b%e6%9b%b8%e6%b3%95%e6%af%94/",
+        "quote": "銀髮組（65 歲以上）。"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/announcement/19199/%e5%85%ac%e5%91%8a%e8%a8%93%e8%82%b2%e7%b5%84115%e5%b9%b4%e7%ac%ac%e5%8d%81%e4%ba%8c%e5%b1%86%e8%89%8b%e8%88%ba%e9%be%8d%e5%b1%b1%e5%af%ba%e7%9b%83%e5%85%a8%e5%9c%8b%e6%9b%b8%e6%b3%95%e6%af%94/",
+        "quote": "各組參賽者請先填寫第十二屆艋舺龍山寺盃線上報名表（或掃描簡章 QRcode）。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "submission_deadline",
+      "label": "作品收件截止（以郵戳為憑）",
+      "date": "2026-10-23",
+      "time": null,
+      "original": "民國 115 年 10 月 23 日（五）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.nknush.kh.edu.tw/announcement/19199/%e5%85%ac%e5%91%8a%e8%a8%93%e8%82%b2%e7%b5%84115%e5%b9%b4%e7%ac%ac%e5%8d%81%e4%ba%8c%e5%b1%86%e8%89%8b%e8%88%ba%e9%be%8d%e5%b1%b1%e5%af%ba%e7%9b%83%e5%85%a8%e5%9c%8b%e6%9b%b8%e6%b3%95%e6%af%94/",
+          "quote": "收件日期：即日起至民國 115 年 10 月 23 日（五）截止（以郵戳為憑）。"
+        }
+      ]
+    },
+    {
+      "kind": "shortlist_announcement",
+      "label": "入選名單公布",
+      "date": "2026-11-16",
+      "time": null,
+      "original": "民國 115 年 11 月 16 日（一）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.nknush.kh.edu.tw/announcement/19199/%e5%85%ac%e5%91%8a%e8%a8%93%e8%82%b2%e7%b5%84115%e5%b9%b4%e7%ac%ac%e5%8d%81%e4%ba%8c%e5%b1%86%e8%89%8b%e8%88%ba%e9%be%8d%e5%b1%b1%e5%af%ba%e7%9b%83%e5%85%a8%e5%9c%8b%e6%9b%b8%e6%b3%95%e6%af%94/",
+          "quote": "入選名單公布：民國 115 年 11 月 16 日（一）於官網公布並以專函通知。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "決賽現場書寫",
+      "date": "2026-12-05",
+      "time": null,
+      "original": "民國 115 年 12 月 5 日（六）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.nknush.kh.edu.tw/announcement/19199/%e5%85%ac%e5%91%8a%e8%a8%93%e8%82%b2%e7%b5%84115%e5%b9%b4%e7%ac%ac%e5%8d%81%e4%ba%8c%e5%b1%86%e8%89%8b%e8%88%ba%e9%be%8d%e5%b1%b1%e5%af%ba%e7%9b%83%e5%85%a8%e5%9c%8b%e6%9b%b8%e6%b3%95%e6%af%94/",
+          "quote": "決賽日期：民國 115 年 12 月 5 日（六）於艋舺龍山寺板橋文化廣場現場書寫。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名",
+      "what": "線上報名表",
+      "how": "online"
+    },
+    {
+      "stage": "初賽",
+      "what": "不落款、不用印的書法作品，背面浮貼以正楷填寫的紙本報名資料表，以掛號寄送",
+      "how": "mail"
+    },
+    {
+      "stage": "決賽（入選者）",
+      "what": "現場書寫",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "finalists",
+    "where": "艋舺龍山寺板橋文化廣場",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.nknush.kh.edu.tw/announcement/19199/%e5%85%ac%e5%91%8a%e8%a8%93%e8%82%b2%e7%b5%84115%e5%b9%b4%e7%ac%ac%e5%8d%81%e4%ba%8c%e5%b1%86%e8%89%8b%e8%88%ba%e9%be%8d%e5%b1%b1%e5%af%ba%e7%9b%83%e5%85%a8%e5%9c%8b%e6%9b%b8%e6%b3%95%e6%af%94/",
+        "quote": "入選名單公布：民國 115 年 11 月 16 日（一）於官網公布並以專函通知。"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/announcement/19199/%e5%85%ac%e5%91%8a%e8%a8%93%e8%82%b2%e7%b5%84115%e5%b9%b4%e7%ac%ac%e5%8d%81%e4%ba%8c%e5%b1%86%e8%89%8b%e8%88%ba%e9%be%8d%e5%b1%b1%e5%af%ba%e7%9b%83%e5%85%a8%e5%9c%8b%e6%9b%b8%e6%b3%95%e6%af%94/",
+        "quote": "決賽日期：民國 115 年 12 月 5 日（六）於艋舺龍山寺板橋文化廣場現場書寫。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "unknown",
+    "amount": null,
+    "basis": "unread",
+    "evidence": []
+  },
+  "prizes": {
+    "text": null,
+    "basis": "unread",
+    "evidence": []
+  },
+  "ai_policy": {
+    "value": "unknown",
+    "basis": "unread",
+    "evidence": []
+  },
+  "links": {
+    "official": null,
+    "rules": [],
+    "registration": null
+  },
+  "found_via": [
+    {
+      "name": "高師大附中 校外競賽與活動",
+      "url": "https://www.nknush.kh.edu.tw/announcement/19199/%e5%85%ac%e5%91%8a%e8%a8%93%e8%82%b2%e7%b5%84115%e5%b9%b4%e7%ac%ac%e5%8d%81%e4%ba%8c%e5%b1%86%e8%89%8b%e8%88%ba%e9%be%8d%e5%b1%b1%e5%af%ba%e7%9b%83%e5%85%a8%e5%9c%8b%e6%9b%b8%e6%b3%95%e6%af%94/"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-26",
+    "method": "single",
+    "unread": [
+      "115 年度第十二屆艋舺龍山寺盃全國書法比賽辦法全文",
+      "第十二屆艋舺龍山寺盃線上報名表"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-26"
+}

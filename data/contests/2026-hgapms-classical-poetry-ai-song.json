@@ -1,0 +1,210 @@
+{
+  "schema": 1,
+  "id": "2026-hgapms-classical-poetry-ai-song",
+  "title": "舊愛新歡─古典詩詞與 AI 共創當代詩詞歌曲競賽",
+  "edition": "第 21 屆",
+  "summary": "高中職學生或教師個人或 3 人內組隊，用 AI 將古典詩詞譜成歌曲並製作成影片。",
+  "organizers": [
+    {
+      "name": "財團法人漢光教育基金會",
+      "role": "主辦"
+    },
+    {
+      "name": "財團法人中華民國電腦技能基金會",
+      "role": "承辦"
+    }
+  ],
+  "categories": [
+    "音樂",
+    "影音",
+    "資訊與 AI"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職",
+      "五專",
+      "社會人士"
+    ],
+    "division": "separate",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": 3,
+    "teacher": "optional",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.hgapms.com/userfiles/files/%E7%AC%AC%2021%20%E5%B1%86%E8%88%8A%E6%84%9B%E6%96%B0%E6%AD%A1_%E9%AB%98%E4%B8%AD%E8%81%B7%E5%AD%B8%E7%94%9F%E7%B5%84%E8%88%87%E6%95%99%E5%B8%AB%E7%B5%84%20%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.pdf",
+        "quote": "就讀國內公私立高中職（含五專前三年）之在學學生。"
+      },
+      {
+        "url": "https://www.hgapms.com/userfiles/files/%E7%AC%AC%2021%20%E5%B1%86%E8%88%8A%E6%84%9B%E6%96%B0%E6%AD%A1_%E9%AB%98%E4%B8%AD%E8%81%B7%E5%AD%B8%E7%94%9F%E7%B5%84%E8%88%87%E6%95%99%E5%B8%AB%E7%B5%84%20%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.pdf",
+        "quote": "國內高中職在職教師。"
+      },
+      {
+        "url": "https://www.hgapms.com/userfiles/files/%E7%AC%AC%2021%20%E5%B1%86%E8%88%8A%E6%84%9B%E6%96%B0%E6%AD%A1_%E9%AB%98%E4%B8%AD%E8%81%B7%E5%AD%B8%E7%94%9F%E7%B5%84%E8%88%87%E6%95%99%E5%B8%AB%E7%B5%84%20%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.pdf",
+        "quote": "可個人獨立報名，亦可組隊參賽（最多3 人）。"
+      },
+      {
+        "url": "https://www.hgapms.com/userfiles/files/%E7%AC%AC%2021%20%E5%B1%86%E8%88%8A%E6%84%9B%E6%96%B0%E6%AD%A1_%E9%AB%98%E4%B8%AD%E8%81%B7%E5%AD%B8%E7%94%9F%E7%B5%84%E8%88%87%E6%95%99%E5%B8%AB%E7%B5%84%20%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.pdf",
+        "quote": "教師可擔任學生組的指導老師，亦可報名教師組的競賽。"
+      },
+      {
+        "url": "https://www.hgapms.com/userfiles/files/%E7%AC%AC%2021%20%E5%B1%86%E8%88%8A%E6%84%9B%E6%96%B0%E6%AD%A1_%E9%AB%98%E4%B8%AD%E8%81%B7%E5%AD%B8%E7%94%9F%E7%B5%84%E8%88%87%E6%95%99%E5%B8%AB%E7%B5%84%20%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.pdf",
+        "quote": "採線上報名與繳件：https://cwtc.im/AD68F"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "submission_deadline",
+      "label": "線上報名與繳件截止",
+      "date": "2026-10-23",
+      "time": "12:00",
+      "original": "2026 年10 月23 日(五)中午12:00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.hgapms.com/userfiles/files/%E7%AC%AC%2021%20%E5%B1%86%E8%88%8A%E6%84%9B%E6%96%B0%E6%AD%A1_%E9%AB%98%E4%B8%AD%E8%81%B7%E5%AD%B8%E7%94%9F%E7%B5%84%E8%88%87%E6%95%99%E5%B8%AB%E7%B5%84%20%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.pdf",
+          "quote": "（一）報名截止：即日起至 2026 年10 月23 日(五)中午12:00 截止"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "得獎公告",
+      "date": "2026-11-16",
+      "time": "12:00",
+      "original": "2026 年11 月16 日(一) 中午12:00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.hgapms.com/userfiles/files/%E7%AC%AC%2021%20%E5%B1%86%E8%88%8A%E6%84%9B%E6%96%B0%E6%AD%A1_%E9%AB%98%E4%B8%AD%E8%81%B7%E5%AD%B8%E7%94%9F%E7%B5%84%E8%88%87%E6%95%99%E5%B8%AB%E7%B5%84%20%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.pdf",
+          "quote": "（二）得獎公告：2026 年11 月16 日(一) 中午12:00"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名與繳件",
+      "what": "以 AI 作曲、編曲或人聲演唱的詩詞歌曲影片，長度 4 分鐘內，上傳 YouTube（不公開）後提供連結",
+      "how": "online"
+    },
+    {
+      "stage": "報名與繳件",
+      "what": "詩詞出處、作品歌詞、創作理念與 AI 使用說明、參賽同意書、團隊或個人照片",
+      "how": "online"
+    }
+  ],
+  "attendance": {
+    "value": "none",
+    "where": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.hgapms.com/userfiles/files/%E7%AC%AC%2021%20%E5%B1%86%E8%88%8A%E6%84%9B%E6%96%B0%E6%AD%A1_%E9%AB%98%E4%B8%AD%E8%81%B7%E5%AD%B8%E7%94%9F%E7%B5%84%E8%88%87%E6%95%99%E5%B8%AB%E7%B5%84%20%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.pdf"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.hgapms.com/userfiles/files/%E7%AC%AC%2021%20%E5%B1%86%E8%88%8A%E6%84%9B%E6%96%B0%E6%AD%A1_%E9%AB%98%E4%B8%AD%E8%81%B7%E5%AD%B8%E7%94%9F%E7%B5%84%E8%88%87%E6%95%99%E5%B8%AB%E7%B5%84%20%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.pdf"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "教師組與學生組各頒：第一名 1 隊 1 萬元、第二名 1 隊 8 千元、第三名 1 隊 6 千元，皆附獎盃與獎狀；優選 5 隊（AI、美學、敘事、編曲、MV 高手獎）各 3 千元與獎狀；佳作 10 隊各 1 千元與獎狀。前三名與優選全程出席頒獎典禮者，每隊另補助交通費 2 千元。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.hgapms.com/userfiles/files/%E7%AC%AC%2021%20%E5%B1%86%E8%88%8A%E6%84%9B%E6%96%B0%E6%AD%A1_%E9%AB%98%E4%B8%AD%E8%81%B7%E5%AD%B8%E7%94%9F%E7%B5%84%E8%88%87%E6%95%99%E5%B8%AB%E7%B5%84%20%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.pdf",
+        "quote": "※教師組與學生組的競賽獎勵均相同。"
+      },
+      {
+        "url": "https://www.hgapms.com/userfiles/files/%E7%AC%AC%2021%20%E5%B1%86%E8%88%8A%E6%84%9B%E6%96%B0%E6%AD%A1_%E9%AB%98%E4%B8%AD%E8%81%B7%E5%AD%B8%E7%94%9F%E7%B5%84%E8%88%87%E6%95%99%E5%B8%AB%E7%B5%84%20%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.pdf",
+        "quote": "第一名 1 隊 1 萬元整 獎盃乙座、獎狀乙紙、"
+      },
+      {
+        "url": "https://www.hgapms.com/userfiles/files/%E7%AC%AC%2021%20%E5%B1%86%E8%88%8A%E6%84%9B%E6%96%B0%E6%AD%A1_%E9%AB%98%E4%B8%AD%E8%81%B7%E5%AD%B8%E7%94%9F%E7%B5%84%E8%88%87%E6%95%99%E5%B8%AB%E7%B5%84%20%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.pdf",
+        "quote": "第二名 1 隊 8 仟元整 獎盃乙座、獎狀乙紙、"
+      },
+      {
+        "url": "https://www.hgapms.com/userfiles/files/%E7%AC%AC%2021%20%E5%B1%86%E8%88%8A%E6%84%9B%E6%96%B0%E6%AD%A1_%E9%AB%98%E4%B8%AD%E8%81%B7%E5%AD%B8%E7%94%9F%E7%B5%84%E8%88%87%E6%95%99%E5%B8%AB%E7%B5%84%20%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.pdf",
+        "quote": "第三名 1 隊 6 仟元整 獎盃乙座、獎狀乙紙、"
+      },
+      {
+        "url": "https://www.hgapms.com/userfiles/files/%E7%AC%AC%2021%20%E5%B1%86%E8%88%8A%E6%84%9B%E6%96%B0%E6%AD%A1_%E9%AB%98%E4%B8%AD%E8%81%B7%E5%AD%B8%E7%94%9F%E7%B5%84%E8%88%87%E6%95%99%E5%B8%AB%E7%B5%84%20%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.pdf",
+        "quote": "優選 AI 高手獎 美學高手獎 敘事高手獎 編曲高手獎 MV 高手獎。 各取1 隊，共 5 隊 3 仟元整 獎狀乙紙"
+      },
+      {
+        "url": "https://www.hgapms.com/userfiles/files/%E7%AC%AC%2021%20%E5%B1%86%E8%88%8A%E6%84%9B%E6%96%B0%E6%AD%A1_%E9%AB%98%E4%B8%AD%E8%81%B7%E5%AD%B8%E7%94%9F%E7%B5%84%E8%88%87%E6%95%99%E5%B8%AB%E7%B5%84%20%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.pdf",
+        "quote": "佳作 10 隊 1 仟元整 獎狀乙紙"
+      },
+      {
+        "url": "https://www.hgapms.com/userfiles/files/%E7%AC%AC%2021%20%E5%B1%86%E8%88%8A%E6%84%9B%E6%96%B0%E6%AD%A1_%E9%AB%98%E4%B8%AD%E8%81%B7%E5%AD%B8%E7%94%9F%E7%B5%84%E8%88%87%E6%95%99%E5%B8%AB%E7%B5%84%20%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.pdf",
+        "quote": "全程出席頒獎典禮 者，另補助每隊交 通費2 仟元整"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "required",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.hgapms.com/userfiles/files/%E7%AC%AC%2021%20%E5%B1%86%E8%88%8A%E6%84%9B%E6%96%B0%E6%AD%A1_%E9%AB%98%E4%B8%AD%E8%81%B7%E5%AD%B8%E7%94%9F%E7%B5%84%E8%88%87%E6%95%99%E5%B8%AB%E7%B5%84%20%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.pdf",
+        "quote": "須使用AI 工具進行作曲、編曲或 AI 人聲演唱。"
+      },
+      {
+        "url": "https://www.hgapms.com/userfiles/files/%E7%AC%AC%2021%20%E5%B1%86%E8%88%8A%E6%84%9B%E6%96%B0%E6%AD%A1_%E9%AB%98%E4%B8%AD%E8%81%B7%E5%AD%B8%E7%94%9F%E7%B5%84%E8%88%87%E6%95%99%E5%B8%AB%E7%B5%84%20%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.pdf",
+        "quote": "作品須以參賽者原創內容為主，並適當揭露 AI 工具使用情形。"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://www.hgapms.com/news/view/34",
+    "rules": [
+      {
+        "title": "第 21 屆競賽辦法（高中職學生組與教師組）",
+        "url": "https://www.hgapms.com/userfiles/files/%E7%AC%AC%2021%20%E5%B1%86%E8%88%8A%E6%84%9B%E6%96%B0%E6%AD%A1_%E9%AB%98%E4%B8%AD%E8%81%B7%E5%AD%B8%E7%94%9F%E7%B5%84%E8%88%87%E6%95%99%E5%B8%AB%E7%B5%84%20%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.pdf"
+      }
+    ],
+    "registration": "https://cwtc.im/AD68F"
+  },
+  "found_via": [
+    {
+      "name": "cwtc.im",
+      "url": "https://cwtc.im/AD68F"
+    },
+    {
+      "name": "大里高中 校外活動與競賽",
+      "url": "https://dlsh.tc.edu.tw/p/406-1068-628648,r2145.php?Lang=zh-tw"
+    },
+    {
+      "name": "成功高中 活動競賽",
+      "url": "https://www.cksh.tp.edu.tw/news/%e3%80%90%e8%bd%89%e7%9f%a5%e3%80%91%e8%b2%a1%e5%9c%98%e6%b3%95%e4%ba%ba%e4%b8%ad%e8%8f%af%e6%b0%91%e5%9c%8b%e9%9b%bb%e8%85%a6%e6%8a%80%e8%83%bd%e5%9f%ba%e9%87%91%e6%9c%83%e8%be%a6%e7%90%86%e3%80%8c/"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-26",
+    "method": "single",
+    "unread": [
+      "詩詞題庫",
+      "創作理念與 AI 使用說明附件",
+      "參賽同意書及個人資料提供同意書"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-26"
+}

@@ -1,0 +1,267 @@
+{
+  "schema": 1,
+  "id": "2026-miaoli-student-dance-prelim",
+  "title": "115學年度全國學生舞蹈比賽苗栗縣初賽",
+  "edition": "115 學年度",
+  "summary": "苗栗縣各級學校學生以個人或團體報名，到場演出古典舞、民俗舞、現代舞等舞蹈作品。",
+  "organizers": [
+    {
+      "name": "苗栗縣政府",
+      "role": "主辦"
+    },
+    {
+      "name": "苗栗縣建功國民小學",
+      "role": "承辦"
+    },
+    {
+      "name": "教育部",
+      "role": "指導"
+    },
+    {
+      "name": "國立台灣師範大學體育室",
+      "role": "指導"
+    }
+  ],
+  "categories": [
+    "表演藝術"
+  ],
+  "eligibility": {
+    "levels": [
+      "國小",
+      "國中",
+      "高中",
+      "高職",
+      "五專",
+      "大專"
+    ],
+    "division": "separate",
+    "regions": [
+      "苗栗縣"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": 75,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/news/attached/26034/1150006116_1.pdf",
+        "quote": "(三) 高中(職)個人組：公、私立高中職日間部與進修部、完全中學高中部、五專校院前3 年日間部與進修部學生、七年一貫制大學前3 年之學生。"
+      },
+      {
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/news/attached/26034/1150006116_1.pdf",
+        "quote": "1. 團體組：凡各該行政轄區之公私立各級學校，均得自由報名參加各類型舞蹈（即古典舞、民俗舞、現代舞及兒童舞蹈）及各分組（甲、乙、丙組）比賽"
+      },
+      {
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/news/attached/26034/1150006116_1.pdf",
+        "quote": "(1) 凡對舞蹈具有素養之學生，均得於上網報名後，列印紙本報名表，經所就讀學校核章，確認為該校學生後，向學校所在縣市(區)主辦單位自由報名參加。"
+      },
+      {
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/news/attached/26034/1150006116_1.pdf",
+        "quote": "(一) 甲組：31 人至75 人為限。"
+      },
+      {
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/news/attached/26034/1150006116_1.pdf",
+        "quote": "二、 個人組以1 人為限。"
+      },
+      {
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/news/attached/26034/1150006116_2.pdf",
+        "quote": "二、目的：為推行本縣舞蹈教育，培養學生舞蹈興趣與能力，以及發揚中華文化，特舉辦本項比賽。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "全國學生舞蹈比賽資訊網線上報名截止",
+      "date": "2026-10-08",
+      "time": null,
+      "original": "115年9月21日起至115年10月8日止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlaivs.mlc.edu.tw/ischool/news/attached/26034/1150006116_2.pdf",
+          "quote": "(一)115年9月21日起至115年10月8日止，至全國學生舞蹈比賽資訊網(網址："
+        }
+      ]
+    },
+    {
+      "kind": "registration_deadline",
+      "label": "紙本報名表寄（送）達建功國民小學截止",
+      "date": "2026-10-16",
+      "time": null,
+      "original": "115年10月16日(星期五)前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlaivs.mlc.edu.tw/ischool/news/attached/26034/1150006116_2.pdf",
+          "quote": "完成後2份報名表於115年10月16日(星期五)前寄(送)達建功國民小學輔導室，始完成報名手續"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "領隊會議，抽籤確定出場序",
+      "date": "2026-10-28",
+      "time": "14:00",
+      "original": "115年10月28日(星期三)下午2時",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlaivs.mlc.edu.tw/ischool/news/attached/26034/1150006116_2.pdf",
+          "quote": "(三) 領隊會議定於115年10月28日(星期三)下午2時於苗栗縣建功國民小學辦理"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "彩排",
+      "date": "2026-11-12",
+      "time": "08:00",
+      "original": "115年11月12日(星期四)上午8時至下午5時",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlaivs.mlc.edu.tw/ischool/news/attached/26034/1150006116_2.pdf",
+          "quote": "(二) 彩排日期及時間：115年11月12日(星期四)上午8時至下午5時。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "苗栗縣初賽",
+      "date": "2026-11-13",
+      "time": "09:00",
+      "original": "115年11月13日(星期五)上午9時起",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlaivs.mlc.edu.tw/ischool/news/attached/26034/1150006116_2.pdf",
+          "quote": "(三) 比賽日期及時間：115年11月13日(星期五)上午9時起。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "全國決賽開始（各類組第一名代表苗栗縣參加）",
+      "date": "2027-02-23",
+      "time": null,
+      "original": "民國116 年2 月23 日起至3 月26 日止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlaivs.mlc.edu.tw/ischool/news/attached/26034/1150006116_1.pdf",
+          "quote": "預定自民國116 年2 月23 日起至3 月26 日止分區舉行"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名",
+      "what": "線上登錄後列印之紙本報名表（含參賽者名冊）2 份，加蓋學校印信或註冊章",
+      "how": "mail"
+    },
+    {
+      "stage": "縣初賽",
+      "what": "舞蹈演出：個人組以 6 分鐘為限（芭蕾 3 分鐘），團體乙、丙組以 9 分鐘為限，團體甲組以 10 分鐘為限",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "苗栗縣巨蛋體育館（苗栗市國華路1121號）",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/news/attached/26034/1150006116_2.pdf",
+        "quote": "五、比賽地點：苗栗縣巨蛋體育館(苗栗市國華路1121號)"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/news/attached/26034/1150006116_2.pdf"
+      },
+      {
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/news/attached/26034/1150006116_1.pdf"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "依總平均評列特優（90 分以上，且二分之一以上評審給 90 分以上）、優等（85 分以上）、甲等（80 分以上），入選優勝之團體及個人頒發獎狀；各類組最優第一名（甲等以上）代表苗栗縣參加全國決賽。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/news/attached/26034/1150006116_2.pdf",
+        "quote": "1.特優：總平均90分以上(包含90分)，且有二分之一以上評審委員所給予之成績在90分以上者。"
+      },
+      {
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/news/attached/26034/1150006116_2.pdf",
+        "quote": "2.優等：總平均85分以上者。"
+      },
+      {
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/news/attached/26034/1150006116_2.pdf",
+        "quote": "3.甲等：總平均80分以上，不滿85分者(成績不滿80分者概不錄取)。"
+      },
+      {
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/news/attached/26034/1150006116_2.pdf",
+        "quote": "(一) 評定為入選優勝之團體及個人由主辦單位頒發獎狀，以資鼓勵。"
+      },
+      {
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/news/attached/26034/1150006116_2.pdf",
+        "quote": "※最優第一名(甲等以上)，代表本縣參加全國決賽。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/news/attached/26034/1150006116_2.pdf"
+      },
+      {
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/news/attached/26034/1150006116_1.pdf"
+      }
+    ]
+  },
+  "links": {
+    "official": null,
+    "rules": [
+      {
+        "title": "115學年度全國學生舞蹈比賽苗栗縣初賽實施計畫",
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/news/attached/26034/1150006116_2.pdf"
+      },
+      {
+        "title": "115學年度全國學生舞蹈比賽實施要點",
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/news/attached/26034/1150006116_1.pdf"
+      }
+    ],
+    "registration": "http://studentdance.perdc.ntnu.edu.tw"
+  },
+  "found_via": [
+    {
+      "name": "苗栗農工 處室公告",
+      "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26034"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-26",
+    "method": "single",
+    "unread": [
+      "獎狀中英文資料填報附件（1150006116_4.doc）",
+      "1150006116_3.xlsx"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-26"
+}

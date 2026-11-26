@@ -1069,18 +1069,588 @@
    ],
    "merged": [],
    "set_aside": []
+  },
+  {
+   "tasks": [
+    {
+     "task": "c0362-1",
+     "result": "done: 2026-aerc-ksu (unverified)"
+    },
+    {
+     "task": "c0383-1",
+     "result": "done: 2027-tzuchi-pagamo-ep-worldcup (checked)"
+    },
+    {
+     "task": "c0388-1",
+     "result": "done: 2026-hsinchu-student-dance-prelim (checked)"
+    },
+    {
+     "task": "c0391-1",
+     "result": "done: 2026-miaoli-student-dance-prelim (checked)"
+    },
+    {
+     "task": "c0397-1",
+     "result": "done: 2026-twicho-preliminary (checked)"
+    },
+    {
+     "task": "c0401-1",
+     "result": "done: 2026-wmi-taiwan-selection (checked)"
+    },
+    {
+     "task": "c0402-1",
+     "result": "done: 2026-ctu-smart-living-product-design (checked)"
+    },
+    {
+     "task": "c0405-1",
+     "result": "joined: 2026-ksu-low-carbon-living (checked), the record kept"
+    },
+    {
+     "task": "c0406-1",
+     "result": "skipped: 此為財政部南區國稅局屏東分局的租稅教育宣導活動：線上解謎拿好禮及現場歌唱表演、市集、捐發票換好禮，作品不經評審，也不頒名次或獎狀，不是競賽。"
+    },
+    {
+     "task": "c0407-1",
+     "result": "done: 2026-chihlee-product-design-marketing (checked)"
+    },
+    {
+     "task": "c0408-1",
+     "result": "joined: 2026-cute-ai-cross-domain (checked), the record kept"
+    },
+    {
+     "task": "c0409-1",
+     "result": "done: 2026-shs-small-thesis (checked)"
+    },
+    {
+     "task": "c0410-1",
+     "result": "done: 2026-hk-smart-baking-green (checked)"
+    },
+    {
+     "task": "c0411-1",
+     "result": "done: 2027-geneva-inventions (checked)"
+    },
+    {
+     "task": "c0412-1",
+     "result": "done: 2026-frc-taipei-regional (checked)"
+    },
+    {
+     "task": "c0413-1",
+     "result": "joined: 2026-frc-taipei-regional (checked), the record kept"
+    },
+    {
+     "task": "c0414-1",
+     "result": "skipped: 此公告為臺北市政府文化局「2026臺北古蹟日」宣傳短片的觀看轉知，影片已放上YouTube，並非徵件或評審的競賽，未提供名次、獎項或獎狀。"
+    },
+    {
+     "task": "c0415-1",
+     "result": "skipped: 參賽資格限臺北市公私立國民中小學一至九年級在籍學生，高中職學生不得參加。"
+    },
+    {
+     "task": "c0416-1",
+     "result": "done: 2026-hsinchu-english-elite-cup (checked)"
+    },
+    {
+     "task": "c0417-1",
+     "result": "asks for 1 more documents"
+    },
+    {
+     "task": "c0418-1",
+     "result": "skipped: 心情明信片徵稿展覽，投稿作品不經評審，凡投稿者皆可參加抽獎，非競賽。"
+    },
+    {
+     "task": "c0419-1",
+     "result": "done: 2026-teyi-taiwan-selection (checked)"
+    },
+    {
+     "task": "c0420-1",
+     "result": "skipped: 文件為台灣發明商品促進協會邀請學校師生於115年11月27日到高雄展覽館參訪展覽的校外教學公文、報名表與學習單，屬參觀展覽活動；文件未載學生報名參展或送件評審的"
+    },
+    {
+     "task": "c0421-1",
+     "result": "skipped: 所給文件僅為臺北市立大同高中轉知教育部修訂「115年度總統盃AI素養爭霸賽競賽細則」的公告，未載參賽資格、賽程日期、評審方式或獎項；競賽細則公告於教育部競賽官網"
+    },
+    {
+     "task": "c0422-1",
+     "result": "done: 2026-infomonth-it-application (checked)"
+    },
+    {
+     "task": "c0423-1",
+     "result": "joined: 2026-ntnu-gosteam-tech-star (checked), the record kept"
+    },
+    {
+     "task": "c0424-1",
+     "result": "skipped: 兩份文件都只是學校轉知的一行公告，只寫了臺北市政府教育局「2027 FRC機器人區域大賽」的活動日期與地點，沒有簡章、參賽資格、評審或獎項說明，也沒有連到主辦單"
+    },
+    {
+     "task": "c0425-1",
+     "result": "done: 2026-hwu-culinary-battle (unverified), to be searched"
+    },
+    {
+     "task": "c0426-1",
+     "result": "joined: 2026-shs-small-thesis (checked), the record kept"
+    },
+    {
+     "task": "c0427-1",
+     "result": "asks for 1 more documents"
+    },
+    {
+     "task": "c0372-2",
+     "result": "asks for 5 more documents"
+    },
+    {
+     "task": "c0373-2",
+     "result": "asks for 1 more documents"
+    },
+    {
+     "task": "c0374-2",
+     "result": "asks for 5 more documents"
+    },
+    {
+     "task": "c0366-s",
+     "result": "3 kept, 1 dropped (https://language115.eduweb.tw/Module/SignupN/CountyLogin.php: does not name the contest)"
+    },
+    {
+     "task": "c0382-s",
+     "result": "0 kept, 2 dropped (https://www.tcesport.org/area_info.php: not the 6th edition)"
+    }
+   ],
+   "merged": [],
+   "set_aside": []
+  },
+  {
+   "tasks": [
+    {
+     "task": "c0366-1",
+     "result": "done: 2026-national-language-contest (checked)"
+    },
+    {
+     "task": "c0417-1",
+     "result": "done: 2026-nkust-aseismatic-contest (checked)"
+    },
+    {
+     "task": "c0421-1",
+     "result": "asks for 1 more documents"
+    },
+    {
+     "task": "c0427-1",
+     "result": "done: 2026-national-olympiad-math-team (checked)"
+    },
+    {
+     "task": "c0428-1",
+     "result": "done: 2026-ntnu-english-critical-thinking-presentation (checked)"
+    },
+    {
+     "task": "c0429-1",
+     "result": "skipped: 此為英語文思辨即席題交流活動及正式賽事之賽前會議：各組依主辦單位安排擔任報告、評論或旁聽，由教師提供協作指導與回饋，所給的僅是完成活動學生的師大電子證書，屬練習"
+    },
+    {
+     "task": "c0430-1",
+     "result": "asks for 2 more documents"
+    },
+    {
+     "task": "c0431-1",
+     "result": "asks for 1 more documents"
+    },
+    {
+     "task": "c0432-1",
+     "result": "done: 2026-coolenglish-listening (checked)"
+    },
+    {
+     "task": "c0433-1",
+     "result": "done: 2026-linantai-sketch (checked)"
+    },
+    {
+     "task": "c0434-1",
+     "result": "done: 2026-lungshan-calligraphy (checked)"
+    },
+    {
+     "task": "c0435-1",
+     "result": "done: 2026-tpcu-city-star (checked)"
+    },
+    {
+     "task": "c0436-1",
+     "result": "joined: 2026-national-tax-master (checked), the record kept"
+    },
+    {
+     "task": "c0437-1",
+     "result": "skipped: 文件僅為學校轉知財政部中區國稅局豐原分局「AI租稅校園巡迴」租稅教育及宣導活動的公告，內容為宣導巡迴活動，未描述評審、名次或獎項，也無簡章或報名連結，不是競賽。"
+    },
+    {
+     "task": "c0438-1",
+     "result": "asks for 3 more documents"
+    },
+    {
+     "task": "c0439-1",
+     "result": "asks for 2 more documents"
+    },
+    {
+     "task": "c0440-1",
+     "result": "joined: 2026-linantai-sketch (checked), the record kept"
+    },
+    {
+     "task": "c0441-1",
+     "result": "done: 2026-hsinchu-betel-nut-short-video (checked)"
+    },
+    {
+     "task": "c0442-1",
+     "result": "done: 2026-stu-wheat-cup-fermented-dough (checked)"
+    },
+    {
+     "task": "c0443-1",
+     "result": "joined: 2026-ntnu-english-critical-thinking-presentation (checked), the record kept"
+    },
+    {
+     "task": "c0444-1",
+     "result": "skipped: 此為正式賽事前的線上即席題交流與賽前會議，學生分為報告、評論、旁聽組練習並接受回饋，完成活動者由師大發放電子證書，文件未載名次、獎項或得獎證書，非評比頒獎的競賽"
+    },
+    {
+     "task": "c0445-1",
+     "result": "done: 2026-fsc-finance-knowledge (checked)"
+    },
+    {
+     "task": "c0446-1",
+     "result": "asks for 5 more documents"
+    },
+    {
+     "task": "c0447-1",
+     "result": "done: 2026-trpec-kuayue-math (checked)"
+    },
+    {
+     "task": "c0449-1",
+     "result": "done: 2026-luyu-hakka-tea (unverified), to be searched"
+    },
+    {
+     "task": "c0450-1",
+     "result": "done: 2026-k12ea-career-qa-video (checked)"
+    },
+    {
+     "task": "c0451-1",
+     "result": "asks for 2 more documents"
+    },
+    {
+     "task": "c0452-1",
+     "result": "done: 2026-infomonth-ict-skills (checked)"
+    },
+    {
+     "task": "c0453-1",
+     "result": "skipped: 新北市政府稅捐稽徵處的網頁互動租稅宣導活動：參與者聆聽稅務歌曲並完成租稅問答與問卷即取得抽獎資格，獎項以抽獎決定，沒有評審作品，不是競賽。"
+    },
+    {
+     "task": "c0401-2",
+     "result": "asks for 6 more documents"
+    },
+    {
+     "task": "c0383-2",
+     "result": "asks for 2 more documents"
+    },
+    {
+     "task": "c0372-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0373-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0411-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0409-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0363-2",
+     "result": "asks for 2 more documents"
+    },
+    {
+     "task": "c0374-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0382-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0425-s",
+     "result": "2 kept, 0 dropped"
+    },
+    {
+     "task": "c0448-s",
+     "result": "2 kept, 0 dropped"
+    }
+   ],
+   "merged": [],
+   "set_aside": []
+  },
+  {
+   "tasks": [
+    {
+     "task": "c0410-1",
+     "result": "skipped, 2026-hk-smart-baking-green set aside: 此為弘光科技大學國際餐旅學院國際研討會的論文徵稿暨海報競賽，論文徵稿暨競賽辦法所列投稿對象為全國大專校院師生、研究人員及產業界人士，未開放高中職學生投稿。"
+    },
+    {
+     "task": "c0425-1",
+     "result": "done: 2026-hwu-culinary-battle (unverified)"
+    },
+    {
+     "task": "c0434-1",
+     "result": "done: 2026-lungshan-calligraphy (checked)"
+    },
+    {
+     "task": "c0421-1",
+     "result": "skipped: 教育部115年度總統盃AI素養爭霸賽以國中小學生為對象（實施計畫公告：「本競賽以提升國中小學生AI素養」），組別為國小、國中一般組與偏鄉組，高中職學生不能參賽。"
+    },
+    {
+     "task": "c0430-1",
+     "result": "done: 2026-tainan-twcac (checked)"
+    },
+    {
+     "task": "c0431-1",
+     "result": "done: 2026-kidwind-asia-league (checked)"
+    },
+    {
+     "task": "c0438-1",
+     "result": "joined: 2026-wmi-taiwan-selection (checked), the record kept"
+    },
+    {
+     "task": "c0439-1",
+     "result": "done: 2026-hgapms-classical-poetry-ai-song (checked)"
+    },
+    {
+     "task": "c0446-1",
+     "result": "done: 2027-trpec-biology-darwin-cup (checked)"
+    },
+    {
+     "task": "c0448-1",
+     "result": "asks for 2 more documents"
+    },
+    {
+     "task": "c0451-1",
+     "result": "done: 2026-nthu-smart-crossdomain-sustainability (checked)"
+    },
+    {
+     "task": "c0454-1",
+     "result": "done: 2026-lions-300a1-street-dance (checked)"
+    },
+    {
+     "task": "c0455-1",
+     "result": "done: 2026-jinhu-clam-festival-sketch (unverified), to be searched"
+    },
+    {
+     "task": "c0456-1",
+     "result": "asks for 1 more documents"
+    },
+    {
+     "task": "c0457-1",
+     "result": "asks for 3 more documents"
+    },
+    {
+     "task": "c0458-1",
+     "result": "asks for 4 more documents"
+    },
+    {
+     "task": "c0459-1",
+     "result": "asks for 1 more documents"
+    },
+    {
+     "task": "c0460-1",
+     "result": "asks for 2 more documents"
+    },
+    {
+     "task": "c0461-1",
+     "result": "done: 2026-coolenglish-reading-master (checked)"
+    },
+    {
+     "task": "c0462-1",
+     "result": "joined: 2026-national-hs-commercial-skills (checked), the record kept"
+    },
+    {
+     "task": "c0463-1",
+     "result": "skipped: 「2026減碳大作戰」為班級或社團進行七日減碳行動紀錄並回傳數據與照片的校園挑戰活動，參加者皆獲減碳小禮與參與證明，未評審作品，亦無名次或獎項，不屬競賽。"
+    },
+    {
+     "task": "c0464-1",
+     "result": "asks for 2 more documents"
+    },
+    {
+     "task": "c0465-1",
+     "result": "done: 2026-shs-essay-1151015 (checked)"
+    },
+    {
+     "task": "c0466-1",
+     "result": "joined: 2026-taoyuan-student-music (checked), the record kept"
+    },
+    {
+     "task": "c0467-1",
+     "result": "asks for 1 more documents"
+    },
+    {
+     "task": "c0468-1",
+     "result": "done: 2026-egmo-selection (checked)"
+    },
+    {
+     "task": "c0469-1",
+     "result": "done: 2026-takming-fidelity-investment (checked)"
+    },
+    {
+     "task": "c0470-1",
+     "result": "done: 2026-cyut-chain-franchise-innovation (checked)"
+    },
+    {
+     "task": "c0471-1",
+     "result": "done: 2026-hdut-luyu-hakka-tea-cuisine (checked)"
+    },
+    {
+     "task": "c0472-1",
+     "result": "asks for 1 more documents"
+    },
+    {
+     "task": "c0473-1",
+     "result": "skipped: 參加對象為國民小學一年級至國中三年級學生，高中職學生不能報名。"
+    },
+    {
+     "task": "c0474-1",
+     "result": "done: 2026-hearing-impaired-mandarin-contest (checked)"
+    },
+    {
+     "task": "c0475-1",
+     "result": "skipped: 參賽對象限全國公私立國民中小學（含完全中學國中部）學生，高中職學生不得參加。"
+    },
+    {
+     "task": "c0476-1",
+     "result": "skipped: 文件為學校轉知金門縣政府彙整報名的校內公告，同時涵蓋全國學生音樂、舞蹈、本土語及新住民語歌謠、創意戲劇四項比賽的縣內初賽報名，只有校內收件期限，未附任何一項比賽"
+    },
+    {
+     "task": "c0477-1",
+     "result": "skipped: 苗栗縣政府交通安全月 PaGamO 線上任務，學生完成兩場任務即具抽獎資格，獎品以抽獎決定，不評審作品、不排名次，屬宣導活動而非競賽。"
+    },
+    {
+     "task": "c0478-1",
+     "result": "asks for 1 more documents"
+    },
+    {
+     "task": "c0479-1",
+     "result": "asks for 1 more documents"
+    },
+    {
+     "task": "c0480-1",
+     "result": "done: 2026-cyut-mainaju-marketing (checked)"
+    },
+    {
+     "task": "c0481-1",
+     "result": "asks for 4 more documents"
+    },
+    {
+     "task": "c0482-1",
+     "result": "asks for 5 more documents"
+    },
+    {
+     "task": "c0483-1",
+     "result": "asks for 2 more documents"
+    },
+    {
+     "task": "c0484-1",
+     "result": "skipped: 金繪獎為文化部辦理的國家級繪本獎項，獎勵已出版的原創繪本，由出版單位報名，另有推舉對繪本產業有貢獻者的特別貢獻獎；文件未描述高中職學生可報名參賽，非學生競賽。"
+    },
+    {
+     "task": "c0485-1",
+     "result": "done: 2026-kinmen-student-solo-singing (checked)"
+    },
+    {
+     "task": "c0486-1",
+     "result": "asks for 4 more documents"
+    },
+    {
+     "task": "c0487-1",
+     "result": "asks for 6 more documents"
+    },
+    {
+     "task": "c0488-1",
+     "result": "asks for 1 more documents"
+    },
+    {
+     "task": "c0489-1",
+     "result": "done: 2026-taipei-student-dance (checked)"
+    },
+    {
+     "task": "c0490-1",
+     "result": "joined: 2026-national-student-dance (verified), the record kept"
+    },
+    {
+     "task": "c0491-1",
+     "result": "done: 2026-feimibuke-rice-food (checked)"
+    },
+    {
+     "task": "c0492-1",
+     "result": "done: 2026-nhu-sanhao-childrens-songs (checked)"
+    },
+    {
+     "task": "c0493-1",
+     "result": "joined: 2026-nantou-pearl-itinerary (verified), the record kept"
+    },
+    {
+     "task": "c0494-1",
+     "result": "asks for 2 more documents"
+    },
+    {
+     "task": "c0495-1",
+     "result": "asks for 3 more documents"
+    },
+    {
+     "task": "c0496-1",
+     "result": "asks for 1 more documents"
+    },
+    {
+     "task": "c0497-1",
+     "result": "done: 2026-aeii-hong-kong (checked)"
+    },
+    {
+     "task": "c0498-1",
+     "result": "skipped: 參賽資格僅限現任國民中學及高級中等學校教師，以及大專校院師資培育學生與教育實習學生，高中職學生不得參加。"
+    },
+    {
+     "task": "c0499-1",
+     "result": "asks for 5 more documents"
+    },
+    {
+     "task": "c0500-1",
+     "result": "asks for 5 more documents"
+    },
+    {
+     "task": "c0501-1",
+     "result": "asks for 2 more documents"
+    },
+    {
+     "task": "c0502-1",
+     "result": "done: 2026-taichung-jingji-cnc-multi-axis (checked)"
+    }
+   ],
+   "merged": [],
+   "set_aside": []
+  },
+  {
+   "tasks": [
+    {
+     "task": "c0434-1",
+     "result": "done: 2026-lungshan-calligraphy (checked)"
+    },
+    {
+     "task": "c0439-1",
+     "result": "done: 2026-hgapms-classical-poetry-ai-song (checked)"
+    }
+   ],
+   "merged": [],
+   "set_aside": []
   }
  ],
- "possible_duplicates": [
-  "2026-kinmen-ai-betel-tobacco-video-2 | 2026-kinmen-ai-betel-tobacco-video: one title holds the other, a shared organizer"
- ],
+ "possible_duplicates": [],
  "queue": {
-  "done": 322,
-  "skipped": 83,
+  "done": 385,
+  "skipped": 102,
   "expired": 1,
-  "new": 382,
+  "new": 300,
   "search": 2
  },
  "announcements_waiting": 0,
- "records": 256
+ "records": 301
 }

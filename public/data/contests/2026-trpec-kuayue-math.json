@@ -1,0 +1,232 @@
+{
+  "schema": 1,
+  "id": "2026-trpec-kuayue-math",
+  "title": "2027第3屆跨越盃全國數學能力競賽",
+  "edition": "第3屆",
+  "summary": "國小至高中學生及學測重考生個人報名，在線上監考下參加限時閉卷數學測驗。",
+  "organizers": [
+    {
+      "name": "臺灣探究與實作教育學會",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "數學"
+  ],
+  "eligibility": {
+    "levels": [
+      "國小",
+      "國中",
+      "高中",
+      "高職"
+    ],
+    "division": "separate",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": 1,
+    "teacher": "none",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg214/2027 第3屆跨越盃數學競賽簡章.pdf",
+        "quote": "凡全國公私立國民小學、國民中學、高級中等學校（普 通高中、綜合高中、技術型高中）在學學生，以及 高中畢業之學測重考生，均可依規定報名參加本競賽。"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg214/2027 第3屆跨越盃數學競賽簡章.pdf",
+        "quote": "高中組（含普通高中、綜合高中及技術型高中、學測重考生）"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/news/%e3%80%90%e8%bd%89%e7%9f%a5%e3%80%91%e8%87%ba%e7%81%a3%e6%8e%a2%e7%a9%b6%e8%88%87%e5%af%a6%e4%bd%9c%e6%95%99%e8%82%b2%e5%ad%b8%e6%9c%83%e8%be%a6%e7%90%86%e3%80%8c2027%e7%ac%ac3%e5%b1%86%e8%b7%a8/",
+        "quote": "採學生個人網路報名方式，不需由學校統一辦理報名作業。"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg214/2027 第3屆跨越盃數學競賽簡章.pdf",
+        "quote": "報名資料請填寫考生本人資訊，不得填寫家長、監護人或指導老師姓名。"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg214/2027 第3屆跨越盃數學競賽簡章.pdf",
+        "quote": "參賽者不得將參賽資格逕行讓予他人，限報名考生本人參賽。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "網路報名及繳費截止",
+      "date": "2026-12-31",
+      "time": null,
+      "original": "即日起～115 年12 月31 日(四)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg214/2027 第3屆跨越盃數學競賽簡章.pdf",
+          "quote": "二、報名日期：即日起～115 年12 月31 日(四)"
+        },
+        {
+          "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg214/2027 第3屆跨越盃數學競賽簡章.pdf",
+          "quote": "須於115 年12 月31 日(日)晚上12 點前，完成網路報名及繳交 報名費即得參賽資格。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "線上競賽",
+      "date": "2027-01-10",
+      "time": "09:00",
+      "original": "116 年1 月10 日（日）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg214/2027 第3屆跨越盃數學競賽簡章.pdf",
+          "quote": "三、競賽日期：116 年1 月10 日（日）"
+        },
+        {
+          "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg214/2027 第3屆跨越盃數學競賽簡章.pdf",
+          "quote": "國小低年級組：上午9:00 至10:30，共計90 分鐘。"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "競賽官網公布前10 位獲獎名單",
+      "date": "2027-01-22",
+      "time": null,
+      "original": "116/1/22(日)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg214/2027 第3屆跨越盃數學競賽簡章.pdf",
+          "quote": "成績公布：將在116/1/22(日)於競賽官網公布前10 位獲獎名單。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "賽前測試",
+      "what": "報名成功後依收到的測試連結完成設備及系統測試流程",
+      "how": "online"
+    },
+    {
+      "stage": "競賽",
+      "what": "40 題測驗（國小、國中組選擇題，高中組單複選題），國小各組 90 分鐘、國中組與高中組 120 分鐘，全程開啟攝影機",
+      "how": "online"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "線上監考（考生自備電腦、手機或 iPad 與攝影機）",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg214/2027 第3屆跨越盃數學競賽簡章.pdf",
+        "quote": "九、競賽方式：線上監考競賽"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg214/2027 第3屆跨越盃數學競賽簡章.pdf",
+        "quote": "請使用電腦、手機、iPad 及穩定網路應試。"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg214/2027 第3屆跨越盃數學競賽簡章.pdf",
+        "quote": "應試期間須全程開啟攝影機。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "required",
+    "amount": "380 元",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg214/2027 第3屆跨越盃數學競賽簡章.pdf",
+        "quote": "六、報名費用：380 元"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg214/2027 第3屆跨越盃數學競賽簡章.pdf",
+        "quote": "繳費方式：線上刷卡、超商繳款"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "依總人數比例頒獎：金牌獎前 5%、銀牌獎前 5.01~10%、銅牌獎前 10.01~20%、優選前 20.01~30%，熱愛數學獎擇優若干，皆頒紙本獎狀 1 張；未得獎者獲參賽證書。獎狀僅寄送台澎金馬地區。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg214/2027 第3屆跨越盃數學競賽簡章.pdf",
+        "quote": "金牌獎：總人數前5%，獎狀1 張。"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg214/2027 第3屆跨越盃數學競賽簡章.pdf",
+        "quote": "銀牌獎：總人數前 5.01~10%，獎狀1 張。"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg214/2027 第3屆跨越盃數學競賽簡章.pdf",
+        "quote": "銅牌獎：總人數前10.01~20%，獎狀1 張。"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg214/2027 第3屆跨越盃數學競賽簡章.pdf",
+        "quote": "優 選：總人數前20.01~30%，獎狀1 張。"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg214/2027 第3屆跨越盃數學競賽簡章.pdf",
+        "quote": "熱愛數學獎：擇優若干，獎狀1 張。"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg214/2027 第3屆跨越盃數學競賽簡章.pdf",
+        "quote": "參賽證書：未得以上獎項者。"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg214/2027 第3屆跨越盃數學競賽簡章.pdf",
+        "quote": "本活動獎項及獎品寄送地區僅限台澎金馬地區"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "banned",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg214/2027 第3屆跨越盃數學競賽簡章.pdf",
+        "quote": "本競賽為閉卷測驗，不得查閱書籍、講義、網路資料或任何電子資訊。"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg214/2027 第3屆跨越盃數學競賽簡章.pdf",
+        "quote": "考生不得使用第二螢幕或其他電子輔助設備。"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://trpec.com.tw/",
+    "rules": [
+      {
+        "title": "2027 第3屆跨越盃數學競賽簡章",
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg214/2027 第3屆跨越盃數學競賽簡章.pdf"
+      }
+    ],
+    "registration": "http://trpec.com.tw"
+  },
+  "found_via": [
+    {
+      "name": "成功高中 活動競賽",
+      "url": "https://www.cksh.tp.edu.tw/news/%e3%80%90%e8%bd%89%e7%9f%a5%e3%80%91%e8%87%ba%e7%81%a3%e6%8e%a2%e7%a9%b6%e8%88%87%e5%af%a6%e4%bd%9c%e6%95%99%e8%82%b2%e5%ad%b8%e6%9c%83%e8%be%a6%e7%90%86%e3%80%8c2027%e7%ac%ac3%e5%b1%86%e8%b7%a8/"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-26",
+    "method": "single",
+    "unread": [],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-26",
+  "conflict": "簡章第二點將報名截止日 115 年 12 月 31 日標為星期四，第十五點標為星期日；第十七點的成績公布日 116/1/22 標為星期日，該日為星期五。",
+  "level": "checked",
+  "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-trpec-kuayue-math/",
+  "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-trpec-kuayue-math.md"
+}

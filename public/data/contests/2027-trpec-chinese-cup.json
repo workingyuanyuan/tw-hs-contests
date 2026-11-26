@@ -160,13 +160,9 @@
     ]
   },
   "ai_policy": {
-    "value": "not_mentioned",
-    "basis": "absent",
-    "evidence": [
-      {
-        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27850/2027%E5%9C%8B%E6%96%87%E8%B7%A8%E8%B6%8A%E7%9B%83%EF%BC%8D%E5%85%A8%E5%9C%8B%E5%9C%8B%E8%AA%9E%E6%96%87%E7%AB%B6%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf"
-      }
-    ]
+    "value": "unknown",
+    "basis": "unread",
+    "evidence": []
   },
   "links": {
     "official": "https://trpec.com.tw/view-reg.php?id=42",
@@ -222,18 +218,19 @@
   ],
   "verification": {
     "last_verified": "2026-11-26",
-    "method": "single",
+    "method": "dual",
     "unread": [
       "獎狀及參賽證書樣式圖"
     ],
-    "note": null,
+    "note": "兩次讀取不一致，未列出：AI 規定：not_mentioned 對 banned",
     "readers": [
+      "claude-opus-5-5",
       "claude-opus-5-5"
     ]
   },
   "first_seen": "2026-11-24",
   "updated": "2026-11-26",
-  "level": "checked",
+  "level": "verified",
   "url": "https://yuanaruru.com/tw-hs-contests/contests/2027-trpec-chinese-cup/",
   "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2027-trpec-chinese-cup.md"
 }

@@ -1,0 +1,202 @@
+{
+  "schema": 1,
+  "id": "2026-hwu-culinary-battle",
+  "title": "2026醒吾盃全國餐飲廚藝爭霸戰",
+  "edition": "2026",
+  "summary": "高中職與大專學生兩人一組，在現場限時完成中餐、西餐、烘焙作品或餐飲服務實作。",
+  "organizers": [
+    {
+      "name": "醒吾科技大學餐旅管理系",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "餐旅",
+    "技藝與技能"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職",
+      "大專"
+    ],
+    "division": "separate",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 2,
+    "team_max": 2,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26367",
+        "quote": "本活動旨在提供高中職及大專校院學生展現餐飲專業技能與創意之競賽平台"
+      },
+      {
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26367",
+        "quote": "１ . 競賽交流：高中職組，包含中餐、烘焙及餐飲服務。"
+      },
+      {
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26367",
+        "quote": "２. 國際競賽：大專組，西餐組。"
+      },
+      {
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26367",
+        "quote": "(一)本競賽採雙人組隊方式進行，每組由2人參賽。"
+      },
+      {
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26367",
+        "quote": "八、報名方式：掃描QR Code報名。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "final_event",
+      "label": "競賽日（原訂；因薔琵颱風延後2天舉行）",
+      "date": "2026-10-24",
+      "time": "08:00",
+      "original": "115年10月24日（星期六）上午8時至下午5時",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26367",
+          "quote": "六、競賽日期：115年10月24日（星期六）上午8時至下午5時。"
+        },
+        {
+          "url": "https://www.hwu.edu.tw/Post?PId=108193",
+          "quote": "薔琵颱風讓賽程延後2天，卻未減選手熱情。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "高中職組中餐",
+      "what": "指定中菜，競賽時間 1.5 小時",
+      "how": "onsite"
+    },
+    {
+      "stage": "高中職組烘焙",
+      "what": "指定烘焙作品，競賽時間 2.5 小時，器材與原料統一提供",
+      "how": "onsite"
+    },
+    {
+      "stage": "高中職組餐飲服務",
+      "what": "餐飲服務操作，競賽時間 2 小時",
+      "how": "onsite"
+    },
+    {
+      "stage": "大專組西餐",
+      "what": "西餐料理，依國際級競賽規格，競賽時間 1.5 小時",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "醒吾科技大學觀光餐旅大樓（新北市林口區）",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26367",
+        "quote": "七、競賽地點：醒吾科技大學觀光餐旅大樓（新北市林口區粉寮路101號）。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26367"
+      },
+      {
+        "url": "https://www.sssh.tyc.edu.tw/view-doc/35/醒吾科技大學餐旅管理系辦理「2026醒吾盃全國餐飲廚藝爭霸戰」_海報.jpg"
+      },
+      {
+        "url": "https://www.sssh.tyc.edu.tw/view-doc/35/醒吾科技大學餐旅管理系辦理「2026醒吾盃全國餐飲廚藝爭霸戰」_活動流程.jpg"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "獎金與獎盃。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.sssh.tyc.edu.tw/view-doc/35/醒吾科技大學餐旅管理系辦理「2026醒吾盃全國餐飲廚藝爭霸戰」_海報.jpg",
+        "quote": "豐富獎金與獎盃"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26367"
+      },
+      {
+        "url": "https://www.sssh.tyc.edu.tw/view-doc/35/醒吾科技大學餐旅管理系辦理「2026醒吾盃全國餐飲廚藝爭霸戰」_海報.jpg"
+      },
+      {
+        "url": "https://www.sssh.tyc.edu.tw/view-doc/35/醒吾科技大學餐旅管理系辦理「2026醒吾盃全國餐飲廚藝爭霸戰」_活動流程.jpg"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://www.hwu.edu.tw/Post?PId=108193",
+    "rules": [
+      {
+        "title": "公文",
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27904/%E5%85%AC%E6%96%87.pdf"
+      },
+      {
+        "title": "海報",
+        "url": "https://www.sssh.tyc.edu.tw/view-doc/35/醒吾科技大學餐旅管理系辦理「2026醒吾盃全國餐飲廚藝爭霸戰」_海報.jpg"
+      },
+      {
+        "title": "活動流程",
+        "url": "https://www.sssh.tyc.edu.tw/view-doc/35/醒吾科技大學餐旅管理系辦理「2026醒吾盃全國餐飲廚藝爭霸戰」_活動流程.jpg"
+      }
+    ],
+    "registration": null
+  },
+  "found_via": [
+    {
+      "name": "苗栗農工 處室公告",
+      "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26367"
+    },
+    {
+      "name": "大同高中 學生競賽活動",
+      "url": "https://www.ttsh.tp.edu.tw/news/%e3%80%8c2026%e9%86%92%e5%90%be%e7%9b%83%e5%85%a8%e5%9c%8b%e9%a4%90%e9%a3%b2%e5%bb%9a%e8%97%9d%e7%88%ad%e9%9c%b8-%e6%88%b0%e3%80%8d/"
+    },
+    {
+      "name": "苗栗高中 學生校外營隊、活動、比賽",
+      "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=27904"
+    },
+    {
+      "name": "壽山高中 校外競賽",
+      "url": "https://www.sssh.tyc.edu.tw/news/%e9%86%92%e5%90%be%e7%a7%91%e6%8a%80%e5%a4%a7%e5%ad%b8%e9%a4%90%e6%97%85%e7%ae%a1%e7%90%86%e7%b3%bb%e8%be%a6%e7%90%86%e3%80%8c2026%e9%86%92%e5%90%be%e7%9b%83%e5%85%a8%e5%9c%8b%e9%a4%90%e9%a3%b2/"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-26",
+    "method": "single",
+    "unread": [
+      "公文.pdf",
+      "報名 QR Code 表單"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-26",
+  "level": "unverified",
+  "url": null,
+  "markdown": null
+}

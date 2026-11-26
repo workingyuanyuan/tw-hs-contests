@@ -1,0 +1,212 @@
+{
+  "schema": 1,
+  "id": "2026-linantai-sketch",
+  "title": "林安泰古厝115年全國各級學校寫生比賽",
+  "edition": "115 年",
+  "summary": "國小至高中職學生以林安泰古厝建築、園林造景或人文活動為題現場寫生，繳交畫作。",
+  "organizers": [
+    {
+      "name": "臺北市政府民政局",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "美術"
+  ],
+  "eligibility": {
+    "levels": [
+      "國小",
+      "國中",
+      "高中",
+      "高職"
+    ],
+    "division": "separate",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": 1,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/林安泰古厝-115-年全國各級學校寫生比賽辦法.pdf",
+        "quote": "比賽分組：分「國小1-2 年級組」、「國小3-4 年級組」、「國小5-6 年級組」「國中組(7-9 年級)」、 「高中／職組」」等5 組。"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/林安泰古厝-115-年全國各級學校寫生比賽辦法.pdf",
+        "quote": "凡於我國境內合法設立之國小、國中、高中.職就學學生皆可參加，每人限參加乙次。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "submission_deadline",
+      "label": "現場繳交作品並完成遞件報名截止",
+      "date": "2026-09-30",
+      "time": "17:00",
+      "original": "115 年7 月１日至09 月30 日，期間之開館日期(週三至週日)14:00-17:00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/林安泰古厝-115-年全國各級學校寫生比賽辦法.pdf",
+          "quote": "並於115 年7 月１日至09 月30 日，期間之開館日期(週三至週日)14:00-17:00 期間，親自至本館「書房」活動服務台繳交並 完成遞件報名"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "得獎作品於林安泰古厝公開展出開始",
+      "date": "2026-11-01",
+      "time": null,
+      "original": "115 年11 月1 日至11 月30 日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/林安泰古厝-115-年全國各級學校寫生比賽辦法.pdf",
+          "quote": "其得獎作品安排於115 年11 月 1 日至11 月30 日於林安泰古厝公開展出。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "頒獎（暫定）",
+      "date": "2026-11-21",
+      "time": null,
+      "original": "11 月21 日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/林安泰古厝-115-年全國各級學校寫生比賽辦法.pdf",
+          "quote": "頒獎日期及地點：頒獎日期暫定於11 月21 日，另行通知得獎者"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "遞件報名",
+      "what": "自備畫材完成的寫生作品（國小組八開、國中及高中職組四開圖畫紙），附報名表、著作財產權授權同意書及獨力完成聲明",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "林安泰古厝園區",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/林安泰古厝-115-年全國各級學校寫生比賽辦法.pdf",
+        "quote": "參賽者得自行擇選適當日期至林安泰古厝園區現場實境寫生"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/林安泰古厝-115-年全國各級學校寫生比賽辦法.pdf",
+        "quote": "恕不接受郵寄遞件報名，參賽者只能擇其中一日現場遞件參賽"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/林安泰古厝-115-年全國各級學校寫生比賽辦法.pdf"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "各組第一、二、三名各 1 名，分別得價值新臺幣 3,000 元、2,000 元、1,000 元禮券；另設佳作 7 名，各得價值新臺幣 500 元禮券；皆附獎狀。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/林安泰古厝-115-年全國各級學校寫生比賽辦法.pdf",
+        "quote": "各參賽分組皆設下列獎項："
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/林安泰古厝-115-年全國各級學校寫生比賽辦法.pdf",
+        "quote": "第一名：價值新臺幣3,000 元禮券、獎狀乙面(共1 名)"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/林安泰古厝-115-年全國各級學校寫生比賽辦法.pdf",
+        "quote": "第二名：價值新臺幣2,000 元禮券、 獎狀乙面(共1 名)"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/林安泰古厝-115-年全國各級學校寫生比賽辦法.pdf",
+        "quote": "第三名：價值新臺幣1,000 元禮券、獎狀乙面(共1 名)"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/林安泰古厝-115-年全國各級學校寫生比賽辦法.pdf",
+        "quote": "佳 作：價值新臺幣500 元禮券、獎狀乙面(共7 名)。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/林安泰古厝-115-年全國各級學校寫生比賽辦法.pdf"
+      }
+    ]
+  },
+  "links": {
+    "official": "http://linantai.taipei/",
+    "rules": [
+      {
+        "title": "林安泰古厝115年全國各級學校寫生比賽辦法（含報名表）",
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/林安泰古厝-115-年全國各級學校寫生比賽辦法.pdf"
+      }
+    ],
+    "registration": null
+  },
+  "found_via": [
+    {
+      "name": "南港高工 重要資訊",
+      "url": "https://www.nkhs.tp.edu.tw/ischool/public/news_view/show.php?nid=34557"
+    },
+    {
+      "name": "高師大附中 校外競賽與活動",
+      "url": "https://www.nknush.kh.edu.tw/announcement/19242/%e5%85%ac%e5%91%8a%e8%a8%93%e8%82%b2%e7%b5%84%e8%87%ba%e5%8c%97%e5%b8%82%e6%94%bf%e5%ba%9c%e6%b0%91%e6%94%bf%e5%b1%80%e8%be%a6%e7%90%86%e3%80%8c115%e5%b9%b4%e5%85%a8%e5%9c%8b%e5%90%84%e7%b4%9a/"
+    },
+    {
+      "name": "成功高中 活動競賽",
+      "url": "https://www.cksh.tp.edu.tw/news/%e3%80%90%e8%bd%89%e7%9f%a5%e3%80%91-%e6%9e%97%e5%ae%89%e6%b3%b0%e5%8f%a4%e5%8e%9d%e6%b0%91%e4%bf%97%e6%96%87%e7%89%a9%e9%a4%a8%e3%80%8c115-%e5%b9%b4%e5%85%a8%e5%9c%8b%e5%90%84%e7%b4%9a%e5%ad%b8/"
+    },
+    {
+      "name": "苗栗農工 處室公告",
+      "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26276"
+    },
+    {
+      "name": "金門高中 最新消息",
+      "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=22034"
+    },
+    {
+      "name": "金門高中 最新消息",
+      "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=22067"
+    },
+    {
+      "name": "西松高中 校外競賽公告",
+      "url": "https://www.hssh.tp.edu.tw/p/405-1000-52058,c540.php?Lang=zh-tw"
+    },
+    {
+      "name": "西松高中 校外競賽公告",
+      "url": "https://www.hssh.tp.edu.tw/p/405-1000-52058,c540.php"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-26",
+    "method": "single",
+    "unread": [],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-26",
+  "level": "checked",
+  "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-linantai-sketch/",
+  "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-linantai-sketch.md"
+}

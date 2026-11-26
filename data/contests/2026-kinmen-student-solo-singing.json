@@ -1,0 +1,177 @@
+{
+  "schema": 1,
+  "id": "2026-kinmen-student-solo-singing",
+  "title": "金門縣115年中小學學生獨唱比賽",
+  "edition": "115 年",
+  "summary": "金門縣國小至高中職學生分五組參加獨唱比賽，演唱指定曲與自選曲。",
+  "organizers": [
+    {
+      "name": "unknown",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "音樂"
+  ],
+  "eligibility": {
+    "levels": [
+      "國小",
+      "國中",
+      "高中",
+      "高職"
+    ],
+    "division": "separate",
+    "regions": [
+      "金門縣"
+    ],
+    "nomination": "school",
+    "team_min": null,
+    "team_max": null,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=21390",
+        "quote": "比賽組別(分5組比賽)：國小低年級組、國小中年級組、國小高年級組、國中組、高中職組。"
+      },
+      {
+        "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=21976",
+        "quote": "高中職組：高中職學生。"
+      },
+      {
+        "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=21976",
+        "quote": "金門縣115年中小學學生獨唱比賽實施計畫及相關資料"
+      },
+      {
+        "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=21976",
+        "quote": "報名方式：以學校為單位報名，並正確選填指定曲和自選曲曲目。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "other",
+      "label": "校內報名資料繳交截止（向學務處訓育組報名的學生）",
+      "date": "2026-09-11",
+      "time": "17:00",
+      "original": "校內收件時間至9/11(五)下午5時",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=21976",
+          "quote": "校內收件時間至9/11(五)下午5時，請欲報名參賽同學準時繳交報名資料至學務處訓育組，逾時不候。"
+        }
+      ]
+    },
+    {
+      "kind": "registration_deadline",
+      "label": "學校報名截止",
+      "date": "2026-09-30",
+      "time": "17:00",
+      "original": "即日起至9月30日(星期三)下午5時止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=21976",
+          "quote": "報名日期：即日起至9月30日(星期三)下午5時止。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "報名資料不完備者補件截止",
+      "date": "2026-10-08",
+      "time": "17:30",
+      "original": "10月8日(星期四)下午5時30分前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=21976",
+          "quote": "注意事項：資料不完備者，請於10月8日(星期四)下午5時30分前完成補件。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "比賽",
+      "date": "2026-11-01",
+      "time": "08:00",
+      "original": "115年11月1日(星期日)上午8時至下午5時",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=21976",
+          "quote": "時間：115年11月1日(星期日)上午8時至下午5時。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名",
+      "what": "報名資料，選填指定曲與自選曲曲目",
+      "how": "unknown"
+    },
+    {
+      "stage": "比賽",
+      "what": "現場演唱",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "金城國中藝文中心",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=21976",
+        "quote": "地點：金城國中藝文中心舉辦。（地點如有更動另函通知）"
+      }
+    ]
+  },
+  "fee": {
+    "value": "unknown",
+    "amount": null,
+    "basis": "unread",
+    "evidence": []
+  },
+  "prizes": {
+    "text": null,
+    "basis": "unread",
+    "evidence": []
+  },
+  "ai_policy": {
+    "value": "unknown",
+    "basis": "unread",
+    "evidence": []
+  },
+  "links": {
+    "official": null,
+    "rules": [],
+    "registration": null
+  },
+  "found_via": [
+    {
+      "name": "金門高中 最新消息",
+      "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=21976"
+    },
+    {
+      "name": "金門高中 最新消息",
+      "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=21390"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-26",
+    "method": "single",
+    "unread": [
+      "金門縣115年中小學學生獨唱比賽實施計畫"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-26",
+  "conflict": "8月10日的公告寫比賽日期為115年10月31日（星期六），8月27日更新的公告寫比賽時間為115年11月1日（星期日）。"
+}

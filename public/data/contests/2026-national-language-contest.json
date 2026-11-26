@@ -1,10 +1,26 @@
 {
   "schema": 1,
   "id": "2026-national-language-contest",
-  "title": "115年全國語文競賽",
+  "title": "中華民國115年全國語文競賽",
   "edition": "115 年",
-  "summary": "國小至高中及社會組競賽員以國語與本土語文比朗讀、演說、作文及讀者劇場。",
+  "summary": "各縣市選出的學生、教師與社會人士，以國語或本土語言比賽演說、朗讀、作文、寫字等語文項目。",
   "organizers": [
+    {
+      "name": "教育部",
+      "role": "主辦"
+    },
+    {
+      "name": "文化部",
+      "role": "協辦"
+    },
+    {
+      "name": "原住民族委員會",
+      "role": "協辦"
+    },
+    {
+      "name": "客家委員會",
+      "role": "協辦"
+    },
     {
       "name": "基隆市政府",
       "role": "承辦"
@@ -18,129 +34,206 @@
       "國小",
       "國中",
       "高中",
+      "高職",
+      "五專",
+      "大專",
       "社會人士"
     ],
     "division": "separate",
     "regions": [
       "全國"
     ],
-    "nomination": "unknown",
-    "team_min": null,
-    "team_max": null,
-    "teacher": "unknown",
+    "nomination": "school",
+    "team_min": 1,
+    "team_max": 4,
+    "teacher": "optional",
     "basis": "quote",
     "evidence": [
       {
-        "url": "https://www.chsh.chc.edu.tw/p/406-1009-195784,r70.php?Lang=zh-tw",
-        "quote": "修正項目包含國語朗讀（高中組）、臺灣客語朗讀及臺灣原住民族語言朗讀（僅包含國小組、國中組及高中組）等"
+        "url": "https://language115.eduweb.tw/Module/Pages/Index.php?ID=2",
+        "quote": "（三）高中學生組：就讀公私立高級中等學校日、夜間部與進修學校且未滿二十歲、五專前三年學生、相當於高中階段之高級中等以下教育階段非學校型態實驗教育學生，無學籍者應由該直轄市、縣（市）主管機關發給學生身分證明。"
       },
       {
-        "url": "https://language115.eduweb.tw/",
-        "quote": "臺灣原住民族語言演說教師組及社會組參賽補助費請領方式、補助標準表及名冊格式"
+        "url": "https://language115.eduweb.tw/Module/Pages/Index.php?ID=2",
+        "quote": "（五）社會組（包括大專校院學生）：除前四目所定各組之身分外，各界人士、大專校院學生均得參加。"
+      },
+      {
+        "url": "https://language115.eduweb.tw/Module/Pages/Index.php?ID=2",
+        "quote": "一、各級學校應於本學期內以班級為單位辦理全校性選拔賽，選出參加校外賽代表，不宜指派學生參加。"
+      },
+      {
+        "url": "https://language115.eduweb.tw/Module/Pages/Index.php?ID=2",
+        "quote": "（一）個人賽：競賽單位參加各有關競賽項目，各語言各項各組直轄市以2人、縣（市）以1人為限；"
+      },
+      {
+        "url": "https://language115.eduweb.tw/Module/Pages/Index.php?ID=2",
+        "quote": "2.臺灣台語、臺灣客語每隊4人；臺灣原住民族語言每隊2至4人，各隊成員須由學校進行本土語文課程同一班級學生組成。"
+      },
+      {
+        "url": "https://language115.eduweb.tw/Module/Pages/Index.php?ID=2",
+        "quote": "二、指導人員部分：個人賽指導人員以1人為限（以實際指導人員為準，不限學校教師）；團體賽（讀者劇場）各隊伍指導人員以1人為限，限該班級本土語文課程之實際授課人員。"
       }
     ]
   },
   "dates": [
     {
-      "kind": "other",
-      "label": "彰化縣學校寄送競賽內容第二次修正建議表截止",
-      "date": "2026-09-29",
-      "time": "17:00",
-      "original": "115年9月29日（星期二）下午5時前",
+      "kind": "registration_deadline",
+      "label": "競賽單位網路報名及掛號寄送報名單截止",
+      "date": "2026-10-20",
+      "time": null,
+      "original": "115年9月23日至10月20日前",
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://www.chsh.chc.edu.tw/p/406-1009-195784,r70.php?Lang=zh-tw",
-          "quote": "請填寫競賽內容修正建議表(如附件)，於115年9月29日（星期二）下午5時前逕寄本府承辦人信箱"
+          "url": "https://language115.eduweb.tw/Module/Pages/Index.php?ID=2",
+          "quote": "一、各競賽單位應於115年9月23日至10月20日前完成網路報名並電話確認，同時將各語言各項各組競賽報名單（格式另訂）及讀者劇場項目所採用文本（格式另訂），掛號寄送「中華民國115年全國語文競賽大會報名組」（以郵戳為憑，逾時不受理報名）"
         }
       ]
     },
     {
       "kind": "other",
-      "label": "競賽單位報到及走位",
-      "date": "2026-12-11",
-      "time": null,
-      "original": "12月11日",
+      "label": "個人賽場地開放參觀與走位練習",
+      "date": "2026-12-12",
+      "time": "12:30",
+      "original": "115年12月12日（星期六）12：30-16：00",
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://language115.eduweb.tw/",
-          "quote": "115年全國語文競賽 12月11日競賽單位報到及走位注意事項"
+          "url": "https://language115.eduweb.tw/Upload/files/115%E5%85%A8%E5%9C%8B%E8%AA%9E%E6%96%87%E7%AB%B6%E8%B3%BD%E5%AF%A6%E6%96%BD%E8%A6%81%E9%BB%9E%E4%BF%AE%E6%AD%A3%E7%89%88-%E6%95%99%E8%82%B2%E9%83%A8%E6%A0%B8%E5%AE%9A.pdf",
+          "quote": "開放時間：115年12月12日（星期六）12：30-16：00。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "個人賽決賽（12 月 12 日至 13 日）",
+      "date": "2026-12-12",
+      "time": null,
+      "original": "115年12月12日至13日（星期六、日）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://language115.eduweb.tw/Module/Pages/Index.php?ID=2",
+          "quote": "一、個人賽：115年12月12日至13日（星期六、日）2天舉行。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "團體賽（讀者劇場）決賽",
+      "date": "2026-12-20",
+      "time": null,
+      "original": "115年12月20日（星期日）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://language115.eduweb.tw/Module/Pages/Index.php?ID=2",
+          "quote": "二、團體賽（讀者劇場）：115年12月20日（星期日）舉行。"
         }
       ]
     }
   ],
   "deliverables": [
     {
-      "stage": "決賽",
-      "what": "國語、臺灣客語、臺灣原住民族語言等朗讀",
+      "stage": "報名（由競賽單位辦理）",
+      "what": "網路報名，並掛號寄送各項各組競賽報名單與讀者劇場所採用文本",
+      "how": "mail"
+    },
+    {
+      "stage": "個人賽決賽",
+      "what": "每人限 1 項：當場抽題演說、情境式演說（含問答）、朗讀，或限時作文、毛筆楷書寫字、字音字形",
       "how": "onsite"
     },
     {
-      "stage": "決賽",
-      "what": "臺灣原住民族語言演說",
+      "stage": "團體賽（讀者劇場）決賽",
+      "what": "以臺灣台語、臺灣客語或臺灣原住民族語言演出自行創作或改編之文本，並回答評判提問",
       "how": "onsite"
-    },
-    {
-      "stage": "決賽",
-      "what": "作文，寫在大會作文稿紙",
-      "how": "onsite"
-    },
-    {
-      "stage": "決賽",
-      "what": "本土語文讀者劇場演出，依規定格式交文本及切結書",
-      "how": "unknown"
     }
   ],
   "attendance": {
     "value": "all",
-    "where": "明德中學、基隆商工、仁愛國小",
+    "where": "基隆市立明德國民中學、國立基隆高級商工職業學校、仁愛國小（原住民語競賽區）",
     "basis": "quote",
     "evidence": [
       {
-        "url": "https://language115.eduweb.tw/",
-        "quote": "明德中學（國台客語動態競賽區暨讀者劇場競賽區）"
+        "url": "https://language115.eduweb.tw/Module/Pages/Index.php?ID=2",
+        "quote": "（一）國語、臺灣台語、臺灣客語動態項目：基隆市立明德國民中學（基隆市七堵區東新街20號）"
       },
       {
-        "url": "https://language115.eduweb.tw/",
-        "quote": "基隆商工（國台客語靜態競賽區暨休息區暨讀者劇場休息區）"
+        "url": "https://language115.eduweb.tw/Module/Pages/Index.php?ID=2",
+        "quote": "（二）國語、臺灣台語、臺灣客語靜態項目：國立基隆高級商工職業學校(基隆市七堵區東新街22號)。"
       },
       {
         "url": "https://language115.eduweb.tw/",
         "quote": "仁愛國小（原住民語競賽區）"
+      },
+      {
+        "url": "https://language115.eduweb.tw/Module/Pages/Index.php?ID=2",
+        "quote": "五、競賽員須遵守各項競賽注意事項，且應準時完成報到手續。競賽員逾報到時間即不受理報到，並以棄權論。"
       }
     ]
   },
   "fee": {
-    "value": "unknown",
+    "value": "none",
     "amount": null,
-    "basis": "unread",
-    "evidence": []
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://language115.eduweb.tw/Module/Pages/Index.php?ID=2"
+      },
+      {
+        "url": "https://language115.eduweb.tw/Upload/files/115%E5%85%A8%E5%9C%8B%E8%AA%9E%E6%96%87%E7%AB%B6%E8%B3%BD%E5%AF%A6%E6%96%BD%E8%A6%81%E9%BB%9E%E4%BF%AE%E6%AD%A3%E7%89%88-%E6%95%99%E8%82%B2%E9%83%A8%E6%A0%B8%E5%AE%9A.pdf"
+      }
+    ]
   },
   "prizes": {
-    "text": null,
-    "basis": "unread",
-    "evidence": []
+    "text": "依參賽人數比例錄取特優（前 25%）、優等（中間 50%）、甲等（後 25%），未滿 70 分不列等第。個人賽特優發給獎座及獎狀，優等、甲等發給獎狀；讀者劇場特優隊伍發給獎座 1 座，得等第隊伍每名競賽員發給獎狀。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://language115.eduweb.tw/Module/Pages/Index.php?ID=2",
+        "quote": "先以該語言該項該組競賽員/各隊分數依序排列，再依參賽人數/隊數之比例，分別錄取特優、優等、甲等三等第，惟分數未滿70分者，不列等第。"
+      },
+      {
+        "url": "https://language115.eduweb.tw/Module/Pages/Index.php?ID=2",
+        "quote": "（一）特優：占參賽人數/隊數前25%。"
+      },
+      {
+        "url": "https://language115.eduweb.tw/Module/Pages/Index.php?ID=2",
+        "quote": "（二）優等：占參賽人數/隊數中間50%。"
+      },
+      {
+        "url": "https://language115.eduweb.tw/Module/Pages/Index.php?ID=2",
+        "quote": "（三）甲等：占參賽人數/隊數後25%。"
+      },
+      {
+        "url": "https://language115.eduweb.tw/Module/Pages/Index.php?ID=2",
+        "quote": "（一）個人賽：獲得特優者發給獎座及獎狀，優等及甲等發給獎狀。未獲得等第者僅發給參賽證明。"
+      },
+      {
+        "url": "https://language115.eduweb.tw/Module/Pages/Index.php?ID=2",
+        "quote": "（二）團體賽（讀者劇場）：獲得特優隊伍發給獎座1座，每名競賽員發給獎狀；優等及甲等隊伍每名競賽員發給獎狀。"
+      }
+    ]
   },
   "ai_policy": {
-    "value": "unknown",
-    "basis": "unread",
-    "evidence": []
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://language115.eduweb.tw/Module/Pages/Index.php?ID=2"
+      },
+      {
+        "url": "https://language115.eduweb.tw/Upload/files/115%E5%85%A8%E5%9C%8B%E8%AA%9E%E6%96%87%E7%AB%B6%E8%B3%BD%E5%AF%A6%E6%96%BD%E8%A6%81%E9%BB%9E%E4%BF%AE%E6%AD%A3%E7%89%88-%E6%95%99%E8%82%B2%E9%83%A8%E6%A0%B8%E5%AE%9A.pdf"
+      }
+    ]
   },
   "links": {
     "official": "https://language115.eduweb.tw/",
     "rules": [
       {
-        "title": "中華民國115全國語文競賽實施要點-修正版",
-        "url": "https://language115.eduweb.tw/Bulletin/Detail.php?ID=13"
-      },
-      {
-        "title": "中華民國115全國語文競賽實施要點",
-        "url": "https://language115.eduweb.tw/Bulletin/Detail.php?ID=6"
-      },
-      {
-        "title": "115年全國語文競賽 競賽員注意事項--公告版",
-        "url": "https://language115.eduweb.tw/Bulletin/Detail.php?ID=8"
+        "title": "中華民國115年全國語文競賽實施要點（修正版）",
+        "url": "https://language115.eduweb.tw/Upload/files/115%E5%85%A8%E5%9C%8B%E8%AA%9E%E6%96%87%E7%AB%B6%E8%B3%BD%E5%AF%A6%E6%96%BD%E8%A6%81%E9%BB%9E%E4%BF%AE%E6%AD%A3%E7%89%88-%E6%95%99%E8%82%B2%E9%83%A8%E6%A0%B8%E5%AE%9A.pdf"
       }
     ],
     "registration": "https://language115.eduweb.tw/SignupN/CountyLogin.php"
@@ -155,9 +248,8 @@
     "last_verified": "2026-11-26",
     "method": "single",
     "unread": [
-      "中華民國115全國語文競賽實施要點-修正版",
-      "115年全國語文競賽 競賽員注意事項--公告版",
-      "競賽內容修正建議表"
+      "各語言各項各組競賽報名單（格式另訂）",
+      "115年本土語文讀者劇場文本格式說明及切結書"
     ],
     "note": null,
     "readers": [
@@ -166,7 +258,8 @@
   },
   "first_seen": "2026-11-24",
   "updated": "2026-11-26",
-  "level": "unverified",
-  "url": null,
-  "markdown": null
+  "conflict": "實施要點寫個人賽於115年12月12日至13日舉行；附件五錄影錄音授權書寫競賽員於115年12月13日/20日參與，附件十二競賽員注意事項則把12月12日下午列為個人賽場地開放參觀與走位練習時間。",
+  "level": "checked",
+  "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-national-language-contest/",
+  "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-national-language-contest.md"
 }

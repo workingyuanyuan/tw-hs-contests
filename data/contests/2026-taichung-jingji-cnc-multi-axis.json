@@ -1,0 +1,477 @@
+{
+  "schema": 1,
+  "id": "2026-taichung-jingji-cnc-multi-axis",
+  "title": "116年台中精機盃CNC多軸機技能競賽",
+  "edition": "116 年",
+  "summary": "大專、高工職學生與職訓學員 2 人一隊，依命題以 CNC 多軸機加工工件。",
+  "organizers": [
+    {
+      "name": "台中精機廠股份有限公司",
+      "role": "主辦"
+    },
+    {
+      "name": "國立虎尾科技大學",
+      "role": "主辦"
+    },
+    {
+      "name": "勞動部勞動力發展署中彰投分署",
+      "role": "主辦"
+    },
+    {
+      "name": "眾宇科技有限公司",
+      "role": "協辦"
+    },
+    {
+      "name": "滙信科技有限公司",
+      "role": "協辦"
+    },
+    {
+      "name": "台灣西門子軟體工業股份有限公司",
+      "role": "協辦"
+    },
+    {
+      "name": "台灣奧奔麥科技股份有限公司",
+      "role": "協辦"
+    },
+    {
+      "name": "晨揚技術研發科技有限公司",
+      "role": "協辦"
+    },
+    {
+      "name": "達康科技國際股份有限公司",
+      "role": "協辦"
+    },
+    {
+      "name": "鉅偉股份有限公司",
+      "role": "協辦"
+    },
+    {
+      "name": "北將機械有限公司",
+      "role": "協辦"
+    },
+    {
+      "name": "治盛科技有限公司",
+      "role": "協辦"
+    },
+    {
+      "name": "安威機具股份有限公司",
+      "role": "協辦"
+    },
+    {
+      "name": "巴索國際有限公司",
+      "role": "協辦"
+    },
+    {
+      "name": "心得科技工業股份有限公司",
+      "role": "協辦"
+    },
+    {
+      "name": "雷尼紹股份有限公司",
+      "role": "協辦"
+    },
+    {
+      "name": "恆佶工業有限公司",
+      "role": "協辦"
+    },
+    {
+      "name": "教育部",
+      "role": "指導"
+    }
+  ],
+  "categories": [
+    "工程與製造",
+    "技藝與技能"
+  ],
+  "eligibility": {
+    "levels": [
+      "高職",
+      "大專",
+      "社會人士"
+    ],
+    "division": "mixed",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "school",
+    "team_min": 2,
+    "team_max": 2,
+    "teacher": "required",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27672/%E3%80%8C116%E5%B9%B4%E5%8F%B0%E4%B8%AD%E7%B2%BE%E6%A9%9F%E7%9B%83CNC%E5%A4%9A%E8%BB%B8%E6%A9%9F%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E3%80%8D%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "選手資格：公私立大專校院在學學生/ 全國高工職學校在學學生/ 職訓單位學員，需具有相 關技能證照或證明等( 請附上證明資料)。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27672/%E3%80%8C116%E5%B9%B4%E5%8F%B0%E4%B8%AD%E7%B2%BE%E6%A9%9F%E7%9B%83CNC%E5%A4%9A%E8%BB%B8%E6%A9%9F%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E3%80%8D%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "參賽隊伍每隊皆需由2 名選手、至多2 名指導老師組成，不限制單位，同一指導老師僅 能帶領一隊參賽，請詳下方報名表單。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27672/%E3%80%8C116%E5%B9%B4%E5%8F%B0%E4%B8%AD%E7%B2%BE%E6%A9%9F%E7%9B%83CNC%E5%A4%9A%E8%BB%B8%E6%A9%9F%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E3%80%8D%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "( 指導老師務必填寫此欄位，不可塗改，如塗改請指導老師核章。)"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27672/%E3%80%8C116%E5%B9%B4%E5%8F%B0%E4%B8%AD%E7%B2%BE%E6%A9%9F%E7%9B%83CNC%E5%A4%9A%E8%BB%B8%E6%A9%9F%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E3%80%8D%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "5. □ 附件五：資格證明書"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27672/%E3%80%8C116%E5%B9%B4%E5%8F%B0%E4%B8%AD%E7%B2%BE%E6%A9%9F%E7%9B%83CNC%E5%A4%9A%E8%BB%B8%E6%A9%9F%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E3%80%8D%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "推薦證明人( 姓名請正楷書寫)"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27672/%E3%80%8C116%E5%B9%B4%E5%8F%B0%E4%B8%AD%E7%B2%BE%E6%A9%9F%E7%9B%83CNC%E5%A4%9A%E8%BB%B8%E6%A9%9F%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E3%80%8D%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "競賽項目：分為【車銑複合組】與【五軸機組】二組"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "網路報名及 PDF 資料收件截止",
+      "date": "2026-11-01",
+      "time": null,
+      "original": "115 年11 月1 日( 日)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27672/%E3%80%8C116%E5%B9%B4%E5%8F%B0%E4%B8%AD%E7%B2%BE%E6%A9%9F%E7%9B%83CNC%E5%A4%9A%E8%BB%B8%E6%A9%9F%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E3%80%8D%E7%B0%A1%E7%AB%A0.pdf",
+          "quote": "網路報名及PDF 資料收件截止日：115 年11 月1 日( 日)"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "書面審查（擇一日期）",
+      "date": "2026-11-13",
+      "time": null,
+      "original": "115 年11 月9 日( 一)~115 年11 月13 日( 五)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27672/%E3%80%8C116%E5%B9%B4%E5%8F%B0%E4%B8%AD%E7%B2%BE%E6%A9%9F%E7%9B%83CNC%E5%A4%9A%E8%BB%B8%E6%A9%9F%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E3%80%8D%E7%B0%A1%E7%AB%A0.pdf",
+          "quote": "書面審查日期：115 年11 月9 日( 一)~115 年11 月13 日( 五) 擇一日期。"
+        }
+      ]
+    },
+    {
+      "kind": "shortlist_announcement",
+      "label": "書面審查結果與初賽試題公告",
+      "date": "2026-11-25",
+      "time": null,
+      "original": "115 年11 月25 日( 三) 起",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27672/%E3%80%8C116%E5%B9%B4%E5%8F%B0%E4%B8%AD%E7%B2%BE%E6%A9%9F%E7%9B%83CNC%E5%A4%9A%E8%BB%B8%E6%A9%9F%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E3%80%8D%E7%B0%A1%E7%AB%A0.pdf",
+          "quote": "書面審查結果/ 試題公告 ( 上網查詢) 115 年11 月25 日( 三) 起"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "初賽准考證寄出",
+      "date": "2027-02-23",
+      "time": null,
+      "original": "116 年2 月23 日( 二) 前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27672/%E3%80%8C116%E5%B9%B4%E5%8F%B0%E4%B8%AD%E7%B2%BE%E6%A9%9F%E7%9B%83CNC%E5%A4%9A%E8%BB%B8%E6%A9%9F%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E3%80%8D%E7%B0%A1%E7%AB%A0.pdf",
+          "quote": "准考證將於116 年2 月23 日( 二) 前以掛號方式寄出【每隊一張，將寄予指導老師】"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "初賽報告簡報檔上傳截止",
+      "date": "2027-03-04",
+      "time": "12:00",
+      "original": "116 年3 月4 日( 四) 中午12：00 前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27672/%E3%80%8C116%E5%B9%B4%E5%8F%B0%E4%B8%AD%E7%B2%BE%E6%A9%9F%E7%9B%83CNC%E5%A4%9A%E8%BB%B8%E6%A9%9F%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E3%80%8D%E7%B0%A1%E7%AB%A0.pdf",
+          "quote": "初賽報告簡報檔請於116 年3 月4 日( 四) 中午12：00 前上傳至以下連結網址"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "初賽（工件簡報）",
+      "date": "2027-03-09",
+      "time": null,
+      "original": "116 年3 月9 日( 二)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27672/%E3%80%8C116%E5%B9%B4%E5%8F%B0%E4%B8%AD%E7%B2%BE%E6%A9%9F%E7%9B%83CNC%E5%A4%9A%E8%BB%B8%E6%A9%9F%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E3%80%8D%E7%B0%A1%E7%AB%A0.pdf",
+          "quote": "初賽日期：116 年3 月9 日( 二)"
+        }
+      ]
+    },
+    {
+      "kind": "shortlist_announcement",
+      "label": "初賽結果公告",
+      "date": "2027-03-16",
+      "time": null,
+      "original": "116 年3 月16 日( 二) 起",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27672/%E3%80%8C116%E5%B9%B4%E5%8F%B0%E4%B8%AD%E7%B2%BE%E6%A9%9F%E7%9B%83CNC%E5%A4%9A%E8%BB%B8%E6%A9%9F%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E3%80%8D%E7%B0%A1%E7%AB%A0.pdf",
+          "quote": "初賽結果公告( 上網查詢) 116 年3 月16 日( 二) 起"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "決賽競賽試題與工具公告",
+      "date": "2027-03-24",
+      "time": null,
+      "original": "116 年3 月24 日( 三)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27672/%E3%80%8C116%E5%B9%B4%E5%8F%B0%E4%B8%AD%E7%B2%BE%E6%A9%9F%E7%9B%83CNC%E5%A4%9A%E8%BB%B8%E6%A9%9F%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E3%80%8D%E7%B0%A1%E7%AB%A0.pdf",
+          "quote": "競賽試題公告 116 年3 月24 日( 三)"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "決賽准考證寄出",
+      "date": "2027-04-28",
+      "time": null,
+      "original": "116 年4 月28 日( 三) 前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27672/%E3%80%8C116%E5%B9%B4%E5%8F%B0%E4%B8%AD%E7%B2%BE%E6%A9%9F%E7%9B%83CNC%E5%A4%9A%E8%BB%B8%E6%A9%9F%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E3%80%8D%E7%B0%A1%E7%AB%A0.pdf",
+          "quote": "准考證將於116 年4 月28 日( 三) 前以掛號方式寄出【每隊一張，將寄予指導老師】"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "決賽機台崗位公告",
+      "date": "2027-05-14",
+      "time": null,
+      "original": "116 年5 月14 日( 五)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27672/%E3%80%8C116%E5%B9%B4%E5%8F%B0%E4%B8%AD%E7%B2%BE%E6%A9%9F%E7%9B%83CNC%E5%A4%9A%E8%BB%B8%E6%A9%9F%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E3%80%8D%E7%B0%A1%E7%AB%A0.pdf",
+          "quote": "機台崗位公告 116 年5 月14 日( 五)"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "決賽選手試機（含抽籤）",
+      "date": "2027-05-15",
+      "time": "09:00",
+      "original": "116 年5 月15 日( 星期六) 9：00 起",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27672/%E3%80%8C116%E5%B9%B4%E5%8F%B0%E4%B8%AD%E7%B2%BE%E6%A9%9F%E7%9B%83CNC%E5%A4%9A%E8%BB%B8%E6%A9%9F%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E3%80%8D%E7%B0%A1%E7%AB%A0.pdf",
+          "quote": "試機日期：116 年5 月15 日( 星期六) 9：00 起"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "實作競賽決賽",
+      "date": "2027-05-16",
+      "time": "08:00",
+      "original": "116 年5 月16 日( 星期日)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27672/%E3%80%8C116%E5%B9%B4%E5%8F%B0%E4%B8%AD%E7%B2%BE%E6%A9%9F%E7%9B%83CNC%E5%A4%9A%E8%BB%B8%E6%A9%9F%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E3%80%8D%E7%B0%A1%E7%AB%A0.pdf",
+          "quote": "競賽日期：116 年5 月16 日( 星期日)"
+        },
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27672/%E3%80%8C116%E5%B9%B4%E5%8F%B0%E4%B8%AD%E7%B2%BE%E6%A9%9F%E7%9B%83CNC%E5%A4%9A%E8%BB%B8%E6%A9%9F%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E3%80%8D%E7%B0%A1%E7%AB%A0.pdf",
+          "quote": "8:00-12:00 競賽( 4 小時)"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "頒獎典禮",
+      "date": "2027-05-16",
+      "time": "16:00",
+      "original": "116 年5 月16 日( 日)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27672/%E3%80%8C116%E5%B9%B4%E5%8F%B0%E4%B8%AD%E7%B2%BE%E6%A9%9F%E7%9B%83CNC%E5%A4%9A%E8%BB%B8%E6%A9%9F%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E3%80%8D%E7%B0%A1%E7%AB%A0.pdf",
+          "quote": "116 年5 月16 日( 日) 決賽- 【車銑複合組】【五軸機組】"
+        },
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27672/%E3%80%8C116%E5%B9%B4%E5%8F%B0%E4%B8%AD%E7%B2%BE%E6%A9%9F%E7%9B%83CNC%E5%A4%9A%E8%BB%B8%E6%A9%9F%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E3%80%8D%E7%B0%A1%E7%AB%A0.pdf",
+          "quote": "16:00-17:00 頒獎典禮"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名",
+      "what": "報名表、在學或職訓學員證明、指導老師評語、資格證明書、證照、實習成績等，掃描成一份 PDF",
+      "how": "online"
+    },
+    {
+      "stage": "初賽",
+      "what": "整理成一份 PDF 的工件製作過程簡報檔",
+      "how": "online"
+    },
+    {
+      "stage": "初賽",
+      "what": "自行加工完成的成品工件，並由兩名選手到場報告（10 分鐘內，含問答）",
+      "how": "onsite"
+    },
+    {
+      "stage": "決賽",
+      "what": "以限定機型現場加工工件（4 小時），自備電腦後處理",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "finalists",
+    "where": "初賽：國立虎尾科技大學高鐵校區（新產學大樓）；決賽：勞動部勞動力發展署中彰投分署精密機械二場（台中市西屯區）",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27672/%E3%80%8C116%E5%B9%B4%E5%8F%B0%E4%B8%AD%E7%B2%BE%E6%A9%9F%E7%9B%83CNC%E5%A4%9A%E8%BB%B8%E6%A9%9F%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E3%80%8D%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "※ 由裁判團進行審查，篩選車銑複合組(30 隊)、五軸機組(30 隊)。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27672/%E3%80%8C116%E5%B9%B4%E5%8F%B0%E4%B8%AD%E7%B2%BE%E6%A9%9F%E7%9B%83CNC%E5%A4%9A%E8%BB%B8%E6%A9%9F%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E3%80%8D%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "5 初賽當天，參賽隊伍之兩名選手皆需到場進行報告。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27672/%E3%80%8C116%E5%B9%B4%E5%8F%B0%E4%B8%AD%E7%B2%BE%E6%A9%9F%E7%9B%83CNC%E5%A4%9A%E8%BB%B8%E6%A9%9F%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E3%80%8D%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "國立虎尾科技大學高鐵校區( 新產學大樓)"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27672/%E3%80%8C116%E5%B9%B4%E5%8F%B0%E4%B8%AD%E7%B2%BE%E6%A9%9F%E7%9B%83CNC%E5%A4%9A%E8%BB%B8%E6%A9%9F%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E3%80%8D%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "競賽地點：勞動部勞動力發展署中彰投分署- 精密機械二場"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27672/%E3%80%8C116%E5%B9%B4%E5%8F%B0%E4%B8%AD%E7%B2%BE%E6%A9%9F%E7%9B%83CNC%E5%A4%9A%E8%BB%B8%E6%A9%9F%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E3%80%8D%E7%B0%A1%E7%AB%A0.pdf"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27672/%E3%80%8C116%E5%B9%B4%E5%8F%B0%E4%B8%AD%E7%B2%BE%E6%A9%9F%E7%9B%83CNC%E5%A4%9A%E8%BB%B8%E6%A9%9F%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E3%80%8D%E5%85%AC%E6%96%87.pdf"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "車銑複合組、五軸機組各別頒發：決賽第一名至第七名各 1 隊，獎金依序 100,000、90,000、80,000、50,000、40,000、30,000、20,000 元，皆附獎盃與獎狀；初賽第 8 至 10 名各 3 隊，各 8,000 元與獎狀；第 11 至 20 名各 10 隊，各 3,000 元。獎金由指導老師分配。所有參賽隊伍可獲參賽證明。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27672/%E3%80%8C116%E5%B9%B4%E5%8F%B0%E4%B8%AD%E7%B2%BE%E6%A9%9F%E7%9B%83CNC%E5%A4%9A%E8%BB%B8%E6%A9%9F%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E3%80%8D%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "競賽獎金如下( 得獎隊伍獎金由指導老師自行分配比例)"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27672/%E3%80%8C116%E5%B9%B4%E5%8F%B0%E4%B8%AD%E7%B2%BE%E6%A9%9F%E7%9B%83CNC%E5%A4%9A%E8%BB%B8%E6%A9%9F%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E3%80%8D%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "第8-10 名：各組3 隊，各隊獎金8,000 元+ 獎狀"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27672/%E3%80%8C116%E5%B9%B4%E5%8F%B0%E4%B8%AD%E7%B2%BE%E6%A9%9F%E7%9B%83CNC%E5%A4%9A%E8%BB%B8%E6%A9%9F%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E3%80%8D%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "第11-20 名：各組10 隊，每隊3,000 元"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27672/%E3%80%8C116%E5%B9%B4%E5%8F%B0%E4%B8%AD%E7%B2%BE%E6%A9%9F%E7%9B%83CNC%E5%A4%9A%E8%BB%B8%E6%A9%9F%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E3%80%8D%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "第一名：各組1 隊，獎金100,000 元+ 獎盃乙座、獎狀"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27672/%E3%80%8C116%E5%B9%B4%E5%8F%B0%E4%B8%AD%E7%B2%BE%E6%A9%9F%E7%9B%83CNC%E5%A4%9A%E8%BB%B8%E6%A9%9F%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E3%80%8D%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "第二名：各組1 隊，獎金90,000 元+ 獎盃乙座、獎狀"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27672/%E3%80%8C116%E5%B9%B4%E5%8F%B0%E4%B8%AD%E7%B2%BE%E6%A9%9F%E7%9B%83CNC%E5%A4%9A%E8%BB%B8%E6%A9%9F%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E3%80%8D%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "第三名：各組1 隊，獎金80,000 元+ 獎盃乙座、獎狀"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27672/%E3%80%8C116%E5%B9%B4%E5%8F%B0%E4%B8%AD%E7%B2%BE%E6%A9%9F%E7%9B%83CNC%E5%A4%9A%E8%BB%B8%E6%A9%9F%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E3%80%8D%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "第四名：各組1 隊，獎金50,000 元+ 獎盃乙座、獎狀"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27672/%E3%80%8C116%E5%B9%B4%E5%8F%B0%E4%B8%AD%E7%B2%BE%E6%A9%9F%E7%9B%83CNC%E5%A4%9A%E8%BB%B8%E6%A9%9F%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E3%80%8D%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "第五名：各組1 隊，獎金40,000 元+ 獎盃乙座、獎狀"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27672/%E3%80%8C116%E5%B9%B4%E5%8F%B0%E4%B8%AD%E7%B2%BE%E6%A9%9F%E7%9B%83CNC%E5%A4%9A%E8%BB%B8%E6%A9%9F%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E3%80%8D%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "第六名：各組1 隊，獎金30,000 元+ 獎盃乙座、獎狀"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27672/%E3%80%8C116%E5%B9%B4%E5%8F%B0%E4%B8%AD%E7%B2%BE%E6%A9%9F%E7%9B%83CNC%E5%A4%9A%E8%BB%B8%E6%A9%9F%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E3%80%8D%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "第七名：各組1 隊，獎金20,000 元+ 獎盃乙座、獎狀"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27672/%E3%80%8C116%E5%B9%B4%E5%8F%B0%E4%B8%AD%E7%B2%BE%E6%A9%9F%E7%9B%83CNC%E5%A4%9A%E8%BB%B8%E6%A9%9F%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E3%80%8D%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "( 五) 所有參賽隊伍皆可獲得參賽證明( 主辦單位核發)。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27672/%E3%80%8C116%E5%B9%B4%E5%8F%B0%E4%B8%AD%E7%B2%BE%E6%A9%9F%E7%9B%83CNC%E5%A4%9A%E8%BB%B8%E6%A9%9F%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E3%80%8D%E7%B0%A1%E7%AB%A0.pdf"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27672/%E3%80%8C116%E5%B9%B4%E5%8F%B0%E4%B8%AD%E7%B2%BE%E6%A9%9F%E7%9B%83CNC%E5%A4%9A%E8%BB%B8%E6%A9%9F%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E3%80%8D%E5%85%AC%E6%96%87.pdf"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://reurl.cc/eQOXDW",
+    "rules": [
+      {
+        "title": "簡章",
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27672/%E3%80%8C116%E5%B9%B4%E5%8F%B0%E4%B8%AD%E7%B2%BE%E6%A9%9F%E7%9B%83CNC%E5%A4%9A%E8%BB%B8%E6%A9%9F%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E3%80%8D%E7%B0%A1%E7%AB%A0.pdf"
+      },
+      {
+        "title": "公文",
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27672/%E3%80%8C116%E5%B9%B4%E5%8F%B0%E4%B8%AD%E7%B2%BE%E6%A9%9F%E7%9B%83CNC%E5%A4%9A%E8%BB%B8%E6%A9%9F%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E3%80%8D%E5%85%AC%E6%96%87.pdf"
+      },
+      {
+        "title": "海報",
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27672/%E3%80%8C116%E5%B9%B4%E5%8F%B0%E4%B8%AD%E7%B2%BE%E6%A9%9F%E7%9B%83CNC%E5%A4%9A%E8%BB%B8%E6%A9%9F%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E3%80%8D%E6%B5%B7%E5%A0%B1.pdf"
+      }
+    ],
+    "registration": "https://forms.gle/ARvj2YyThndu1ByE6"
+  },
+  "found_via": [
+    {
+      "name": "苗栗高中 學生校外營隊、活動、比賽",
+      "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=27672"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-26",
+    "method": "single",
+    "unread": [
+      "競賽活動網頁（https://reurl.cc/eQOXDW）"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-26",
+  "conflict": "初賽報告簡報檔上傳截止，簡章寫116年3月4日（四）中午12:00，公文寫116年3月5日（四）中午12:00。初賽地點，簡章第八點寫台中精機廠，簡章第十六點與公文寫國立虎尾科技大學高鐵校區（新產學大樓）。"
+}

@@ -1,0 +1,340 @@
+{
+  "schema": 1,
+  "id": "2026-kidwind-asia-league",
+  "title": "2026 KidWind 風力能源亞洲聯賽暨分區預賽",
+  "edition": "2026（第七屆）",
+  "summary": "國小至高中職學生 4 人一隊，自製風力渦輪機參加風洞發電量測與工程評比。",
+  "organizers": [
+    {
+      "name": "教育部",
+      "role": "指導"
+    },
+    {
+      "name": "經濟部能源署",
+      "role": "指導"
+    },
+    {
+      "name": "新北市政府教育局",
+      "role": "指導"
+    },
+    {
+      "name": "臺中市政府教育局",
+      "role": "指導"
+    },
+    {
+      "name": "高雄市政府教育局",
+      "role": "指導"
+    },
+    {
+      "name": "苗栗縣政府",
+      "role": "指導"
+    },
+    {
+      "name": "南投縣政府",
+      "role": "指導"
+    },
+    {
+      "name": "新北市政府教育局永續環境教育中心",
+      "role": "主辦"
+    },
+    {
+      "name": "國立自然科學博物館",
+      "role": "主辦"
+    },
+    {
+      "name": "育達科技大學",
+      "role": "主辦"
+    },
+    {
+      "name": "中華民國陸軍軍官學校",
+      "role": "主辦"
+    },
+    {
+      "name": "亞太能源科學教育協會",
+      "role": "主辦"
+    },
+    {
+      "name": "KidWind",
+      "role": "協辦"
+    },
+    {
+      "name": "Vernier Science Education",
+      "role": "協辦"
+    },
+    {
+      "name": "育達科技大學智慧機電工程與應用系",
+      "role": "協辦"
+    },
+    {
+      "name": "台北市電器商業同業公會",
+      "role": "協辦"
+    },
+    {
+      "name": "社團法人臺北市新匠堂公益協會",
+      "role": "協辦"
+    }
+  ],
+  "categories": [
+    "工程與製造",
+    "自然科學"
+  ],
+  "eligibility": {
+    "levels": [
+      "國小",
+      "國中",
+      "高中",
+      "高職"
+    ],
+    "division": "separate",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 4,
+    "team_max": 4,
+    "teacher": "required",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://reurl.cc/dOyGRk",
+        "quote": "對象：國小（四至六年級）、國中（一至三年級）、高中職（一至三年級）學生，每隊 4 人並需指導老師"
+      },
+      {
+        "url": "https://reurl.cc/dOyGRk",
+        "quote": "本競賽分三組，每隊由 4 名隊員 組成（須推選隊長 1 名）。"
+      },
+      {
+        "url": "https://reurl.cc/dOyGRk",
+        "quote": "學校推薦（同校 4 生＋現職教師，每校至多 3 隊）或個人組隊（非同校 4 生＋教師或家長）。"
+      },
+      {
+        "url": "https://reurl.cc/dOyGRk",
+        "quote": "報名隊伍不受地理位置限制，任選北、中、南其中一場分區預賽參加。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "報名截止（隊員及指導老師變更亦同）",
+      "date": "2026-10-02",
+      "time": "17:30",
+      "original": "2026/10/02（五）17:30",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://reurl.cc/dOyGRk",
+          "quote": "報名截止：2026/10/02（五）17:30（隊員及指導老師變更亦同此截止日）"
+        },
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27876/%E4%BA%9E%E5%A4%AA%E8%83%BD%E6%BA%90%E7%A7%91%E5%AD%B8%E6%95%99%E8%82%B2%E5%8D%94%E6%9C%83%E8%BE%A6%E7%90%86%E3%80%8C2026KidWind%E9%A2%A8%E5%8A%9B%E8%83%BD%E6%BA%90%E4%BA%9E%E6%B4%B2%E8%81%AF%E8%B3%BD%E3%80%8D%E6%B5%B7%E5%A0%B1.pdf",
+          "quote": "報名日期：即日起至2026年10月2日（五）17：30止"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "南區預賽（陸軍軍官學校）",
+      "date": "2026-10-17",
+      "time": "08:00",
+      "original": "南區預賽：2026-10-17 · 08:00～17:00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://reurl.cc/dOyGRk",
+          "quote": "南區預賽：2026-10-17 · 08:00～17:00"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "北區預賽（新北市政府）",
+      "date": "2026-10-28",
+      "time": "08:00",
+      "original": "北區預賽：2026-10-28 · 08:00～17:00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://reurl.cc/dOyGRk",
+          "quote": "北區預賽：2026-10-28 · 08:00～17:00"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "中區預賽（國立自然科學博物館）",
+      "date": "2026-11-01",
+      "time": "08:00",
+      "original": "中區預賽：2026-11-01 · 08:00～17:00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://reurl.cc/dOyGRk",
+          "quote": "中區預賽：2026-11-01 · 08:00～17:00"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "高中職組亞洲聯賽（育達科技大學）",
+      "date": "2026-12-12",
+      "time": null,
+      "original": "12/12 高中職組",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://reurl.cc/dOyGRk",
+          "quote": "亞洲聯賽 12/12 高中職組、12/13 國中小組 育達科技大學"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "國小組、國中組亞洲聯賽（育達科技大學）",
+      "date": "2026-12-13",
+      "time": null,
+      "original": "12/13 國中小組",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://reurl.cc/dOyGRk",
+          "quote": "亞洲聯賽 12/12 高中職組、12/13 國中小組 育達科技大學"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "分區預賽（北、中、南擇一）",
+      "what": "自製風力渦輪機風洞量測電能產出、工程筆記本與現場簡報",
+      "how": "onsite"
+    },
+    {
+      "stage": "亞洲聯賽（各組前 15 名晉級）",
+      "what": "風洞 A／B 雙風速量測、工程筆記本、現場簡報與風能知識線上測驗",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "分區預賽：陸軍軍官學校、新北市政府或國立自然科學博物館擇一；亞洲聯賽：育達科技大學",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://reurl.cc/dOyGRk",
+        "quote": "報名隊伍不受地理位置限制，任選北、中、南其中一場分區預賽參加。"
+      },
+      {
+        "url": "https://reurl.cc/dOyGRk",
+        "quote": "※ 分區預賽當日流程：08:00 報到、08:30 開幕、09:00–15:00 開放量測、15:00 公布成績、15:30 頒獎閉幕（亞洲聯賽另含風能知識線上測驗，時間依現場為準）。"
+      },
+      {
+        "url": "https://reurl.cc/dOyGRk",
+        "quote": "自製風力渦輪機，挑戰真實風洞測試（亞洲聯賽設風洞 A／B 雙風速）"
+      },
+      {
+        "url": "https://reurl.cc/dOyGRk",
+        "quote": "結合工程設計、能源教育與實作能力，評比電能產出、工程筆記與現場簡報"
+      }
+    ]
+  },
+  "fee": {
+    "value": "deposit",
+    "amount": "每隊新台幣 2,000 元保證金，全程參與（含閉幕頒獎典禮）後全額退還",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://reurl.cc/dOyGRk",
+        "quote": "保證金：每隊 NT$2,000，含發電機、選手午餐、工程筆記本與活動保險；全程參與（含閉幕頒獎典禮）後依原付款管道全額退還。"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "分區預賽各區各組：金牌獎、銀牌獎、銅牌獎各 1 名、優勝 5 名，前 15 名獲晉級證書。亞洲聯賽各組：金牌獎 1 名獎金 10,000 元、銀牌獎 2 名獎金 6,000 元、銅牌獎 3 名獎金 3,000 元，皆附國際獎狀與獎盃；優勝 5 名國際獎狀；新秀獎、評審團獎、工程筆記本獎各 1 名。各組前 3 名取得 KidWind 世界賽參賽資格，出國費用由隊伍自理。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://reurl.cc/dOyGRk",
+        "quote": "分區預賽（各區、各組分別頒發）"
+      },
+      {
+        "url": "https://reurl.cc/dOyGRk",
+        "quote": "※ 各組前 15 名含晉級證書乙紙，可報名亞洲聯賽。"
+      },
+      {
+        "url": "https://reurl.cc/dOyGRk",
+        "quote": "金牌獎 1 國際獎狀＋獎盃＋獎金 $10,000"
+      },
+      {
+        "url": "https://reurl.cc/dOyGRk",
+        "quote": "銀牌獎 2 國際獎狀＋獎盃＋獎金 $6,000"
+      },
+      {
+        "url": "https://reurl.cc/dOyGRk",
+        "quote": "銅牌獎 3 國際獎狀＋獎盃＋獎金 $3,000"
+      },
+      {
+        "url": "https://reurl.cc/dOyGRk",
+        "quote": "特別獎 各 1 新秀獎・評審團獎・工程筆記本獎"
+      },
+      {
+        "url": "https://reurl.cc/dOyGRk",
+        "quote": "世界賽資格：亞洲聯賽各組依最終排名取前 3 名，取得 KidWind 世界賽參賽資格（出國費用由隊伍自理）。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "unknown",
+    "basis": "unread",
+    "evidence": []
+  },
+  "links": {
+    "official": "https://regmaster-pro.web.app/events/detail.html?id=CHD8XFK",
+    "rules": [
+      {
+        "title": "2026KidWind風力能源亞洲聯賽海報",
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27876/%E4%BA%9E%E5%A4%AA%E8%83%BD%E6%BA%90%E7%A7%91%E5%AD%B8%E6%95%99%E8%82%B2%E5%8D%94%E6%9C%83%E8%BE%A6%E7%90%86%E3%80%8C2026KidWind%E9%A2%A8%E5%8A%9B%E8%83%BD%E6%BA%90%E4%BA%9E%E6%B4%B2%E8%81%AF%E8%B3%BD%E3%80%8D%E6%B5%B7%E5%A0%B1.pdf"
+      }
+    ],
+    "registration": "https://regmaster-pro.web.app/events/detail.html?id=CHD8XFK"
+  },
+  "found_via": [
+    {
+      "name": "成功高中 活動競賽",
+      "url": "https://www.cksh.tp.edu.tw/news/%e3%80%90%e8%bd%89%e7%9f%a5%e3%80%91%e4%ba%9e%e5%a4%aa%e8%83%bd%e6%ba%90%e7%a7%91%e5%ad%b8%e6%95%99%e8%82%b2%e5%8d%94%e6%9c%83%e8%be%a6%e7%90%86%e3%80%8c2026-kidwind%e9%a2%a8%e5%8a%9b%e8%83%bd/"
+    },
+    {
+      "name": "大同高中 學生競賽活動",
+      "url": "https://www.ttsh.tp.edu.tw/news/%e4%ba%9e%e5%a4%aa%e8%83%bd%e6%ba%90%e7%a7%91%e5%ad%b8%e6%95%99%e8%82%b2%e5%8d%94%e6%9c%83%e8%be%a6%e7%90%86%e3%80%8c2026-kidwind%e9%a2%a8%e5%8a%9b%e8%83%bd%e6%ba%90%e4%ba%9e%e6%b4%b2%e8%81%af/"
+    },
+    {
+      "name": "苗栗農工 處室公告",
+      "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26298"
+    },
+    {
+      "name": "苗栗高中 學生校外營隊、活動、比賽",
+      "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=27876"
+    },
+    {
+      "name": "武陵高中 校外競賽",
+      "url": "http://www.wlsh.tyc.edu.tw/p/406-1000-43163,r83.php?Lang=zh-tw"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-26",
+    "method": "single",
+    "unread": [
+      "2026 KidWind 風力能源亞洲聯賽暨分區預賽競賽規章 V2.2（PDF）"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-26",
+  "conflict": "RegMaster 活動頁的活動介紹與海報都寫報名截止 2026/10/02（五）17:30，同一頁側欄的「截止」欄則寫 2026-11-07 23:59。",
+  "level": "checked",
+  "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-kidwind-asia-league/",
+  "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-kidwind-asia-league.md"
+}

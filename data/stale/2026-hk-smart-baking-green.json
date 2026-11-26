@@ -1,0 +1,249 @@
+{
+  "schema": 1,
+  "id": "2026-hk-smart-baking-green",
+  "title": "2026智慧烘焙與綠色創新永續國際研討會論文徵稿暨競賽",
+  "edition": "2026",
+  "summary": "師生與研究人員就智慧烘焙或食品安全主題投稿研究論文，以海報發表參加評比。",
+  "organizers": [
+    {
+      "name": "弘光科技大學國際餐旅學院",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "餐旅",
+    "農業與環境"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職",
+      "大專",
+      "社會人士"
+    ],
+    "division": "mixed",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": null,
+    "team_max": null,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26400",
+        "quote": "弘光科技大學國際餐旅學院訂於115年11月13日辦理「2026智慧烘焙與綠色創新永續國際研討會」，鼓勵師生踴躍報名參加及投稿。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27978/%E8%AB%96%E6%96%87%E5%BE%B5%E7%A8%BF%E6%9A%A8%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.pdf",
+        "quote": "歡迎全國大專校院師生、研究人員及產業界人士踴躍投稿。"
+      },
+      {
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26400",
+        "quote": "六、本研討會採線上報名及投稿方式辦理，相關活動資訊及論文投稿資訊請參閱大會官網。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "submission_deadline",
+      "label": "論文摘要投稿截止（隨到隨審）",
+      "date": "2026-10-30",
+      "time": null,
+      "original": "115年10月30日(星期五)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26400",
+          "quote": "五、論文投稿截止日期為115年10月30日(星期五)，採隨到隨審方式辦理"
+        },
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27978/%E8%AB%96%E6%96%87%E5%BE%B5%E7%A8%BF%E6%9A%A8%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.pdf",
+          "quote": "摘要投稿截止日 2026.10.30(星期五) 隨到隨審"
+        }
+      ]
+    },
+    {
+      "kind": "registration_deadline",
+      "label": "研討會活動報名截止（額滿即截止）",
+      "date": "2026-10-30",
+      "time": null,
+      "original": "115年10月30日(星期五)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26400",
+          "quote": "七、活動報名截止日期為115年10月30日(星期五)額滿即截止報名。"
+        }
+      ]
+    },
+    {
+      "kind": "shortlist_announcement",
+      "label": "審查結果通知",
+      "date": "2026-11-03",
+      "time": null,
+      "original": "115年11月3日(星期二)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26400",
+          "quote": "審查結果預定於115年11月3日(星期二)通知"
+        },
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27978/%E8%AB%96%E6%96%87%E5%BE%B5%E7%A8%BF%E6%9A%A8%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.pdf",
+          "quote": "審查結果通知:2026.11.03(星期二)"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "論文發表競賽（海報發表）",
+      "date": "2026-11-13",
+      "time": "13:30",
+      "original": "2026 年11 月13 日(星期五)13:30~16:30",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27978/%E8%AB%96%E6%96%87%E5%BE%B5%E7%A8%BF%E6%9A%A8%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.pdf",
+          "quote": "2026 年11 月13 日(星期五)13:30~16:30"
+        },
+        {
+          "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26400",
+          "quote": "論文發表競賽訂於115年11月13日(星期五)下午1時30分至4時30分辦理。"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "頒獎",
+      "date": "2026-11-13",
+      "time": "16:30",
+      "original": "2026 年11 月13 日(星期五)；頒獎時間：16:30~17:00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27978/%E8%AB%96%E6%96%87%E5%BE%B5%E7%A8%BF%E6%9A%A8%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.pdf",
+          "quote": "論文發表競賽時間 2026 年11 月13 日(星期五)13:30~16:30"
+        },
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27978/%E8%AB%96%E6%96%87%E5%BE%B5%E7%A8%BF%E6%9A%A8%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.pdf",
+          "quote": "4. 頒獎時間：16:30~17:00"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "投稿",
+      "what": "依大會格式撰寫的論文摘要，須為未曾公開發表之研究成果",
+      "how": "online"
+    },
+    {
+      "stage": "論文發表競賽",
+      "what": "A0 尺寸海報（中、英文皆可）自行列印張貼，每篇報告 5 分鐘",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "弘光科技大學生活應用大樓(L 棟)國際會議廳",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27978/%E8%AB%96%E6%96%87%E5%BE%B5%E7%A8%BF%E6%9A%A8%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.pdf",
+        "quote": "1.投稿者須於研討會當日進行海報展示。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27978/%E8%AB%96%E6%96%87%E5%BE%B5%E7%A8%BF%E6%9A%A8%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.pdf",
+        "quote": "3. 海報論文採實體方式進行，請自行列印張貼"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27978/%E8%AB%96%E6%96%87%E5%BE%B5%E7%A8%BF%E6%9A%A8%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.pdf",
+        "quote": "弘光科技大學生活應用大樓(L 棟)國際會議廳"
+      }
+    ]
+  },
+  "fee": {
+    "value": "unknown",
+    "amount": null,
+    "basis": "unread",
+    "evidence": []
+  },
+  "prizes": {
+    "text": "海報發表組：第一名 3,000 元、第二名 2,000 元、第三名 3 名各 1,000 元、佳作 4 至 6 名各 500 元，得獎者另頒優秀論文獎證書；名額依實際參賽人數酌予調整。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27978/%E8%AB%96%E6%96%87%E5%BE%B5%E7%A8%BF%E6%9A%A8%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.pdf",
+        "quote": "第一名: 3000 元"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27978/%E8%AB%96%E6%96%87%E5%BE%B5%E7%A8%BF%E6%9A%A8%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.pdf",
+        "quote": "第二名: 2000 元"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27978/%E8%AB%96%E6%96%87%E5%BE%B5%E7%A8%BF%E6%9A%A8%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.pdf",
+        "quote": "第三名: 1000 元(3 名)"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27978/%E8%AB%96%E6%96%87%E5%BE%B5%E7%A8%BF%E6%9A%A8%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.pdf",
+        "quote": "佳作:500 元(4~6 名)"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27978/%E8%AB%96%E6%96%87%E5%BE%B5%E7%A8%BF%E6%9A%A8%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.pdf",
+        "quote": "榮獲海報發表組各項獎項者，另頒發優秀論文獎證書及獎金。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27978/%E8%AB%96%E6%96%87%E5%BE%B5%E7%A8%BF%E6%9A%A8%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.pdf",
+        "quote": "得獎名額由大會參考評審委員之建議，並依實際參賽人數酌予調整"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26400"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27978/%E8%AB%96%E6%96%87%E5%BE%B5%E7%A8%BF%E6%9A%A8%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.pdf"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://sbgis.hk.edu.tw/",
+    "rules": [
+      {
+        "title": "論文徵稿暨競賽辦法",
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27978/%E8%AB%96%E6%96%87%E5%BE%B5%E7%A8%BF%E6%9A%A8%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.pdf"
+      }
+    ],
+    "registration": "https://forms.gle/TcuhpBMmPGwBewjy5"
+  },
+  "found_via": [
+    {
+      "name": "苗栗農工 處室公告",
+      "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26400"
+    },
+    {
+      "name": "苗栗高中 學生校外營隊、活動、比賽",
+      "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=27978"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-26",
+    "method": "single",
+    "unread": [
+      "大會官網的論文摘要格式規定與投稿資訊"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-26",
+  "conflict": "論文徵稿暨競賽辦法第二點規定上午9:00前完成海報張貼，第八點寫張貼時間08:00~10:00，第九點寫08:00~09:00。"
+}

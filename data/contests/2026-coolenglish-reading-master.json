@@ -1,0 +1,246 @@
+{
+  "schema": 1,
+  "id": "2026-coolenglish-reading-master",
+  "title": "115 年度「Cool English 普技高英閱大師」比賽",
+  "edition": "115 年度",
+  "summary": "高中職與五專一至三年級學生在 Cool English 平臺作答英文新聞閱讀理解題組。",
+  "organizers": [
+    {
+      "name": "教育部國民及學前教育署",
+      "role": "指導"
+    },
+    {
+      "name": "國立臺灣師範大學",
+      "role": "承辦"
+    }
+  ],
+  "categories": [
+    "外語"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職",
+      "五專"
+    ],
+    "division": "separate",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": 1,
+    "teacher": "optional",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/05/比賽辦法-115年度CoolEnglish-普技高英閱大師比賽.pdf",
+        "quote": "一、參賽對象：凡就讀於全國公私立高中職，或正在接受高中階段非學校型態實驗教育之學 生，皆可報名參加。"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/05/比賽辦法-115年度CoolEnglish-普技高英閱大師比賽.pdf",
+        "quote": "二、報名組別：分為普高組、技高組及五專組，不得跨組參賽。"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/05/比賽辦法-115年度CoolEnglish-普技高英閱大師比賽.pdf",
+        "quote": "3. 五專組：限五專一年級至三年級學生，五專四、五年級學生不具參賽資格。"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/05/比賽辦法-115年度CoolEnglish-普技高英閱大師比賽.pdf",
+        "quote": "一、一律採線上報名，分為「學生帳號個人報名」及「教師帳號團體報名」："
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/05/比賽辦法-115年度CoolEnglish-普技高英閱大師比賽.pdf",
+        "quote": "教師帳號團體報名：老師以酷英教師帳號登入平臺後，點選「班級管理＞欲報名的班級 ＞團體報名」，依畫面指示填妥資料後送出，即可協助班級學生團體報名。"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/05/比賽辦法-115年度CoolEnglish-普技高英閱大師比賽.pdf",
+        "quote": "2. 跨組參賽或用多個帳號重複報名。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "報名截止",
+      "date": "2026-07-31",
+      "time": "17:00",
+      "original": "115 年6 月15 日（一）至115 年7 月31 日（五）17:00 止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/05/比賽辦法-115年度CoolEnglish-普技高英閱大師比賽.pdf",
+          "quote": "一、報名與作答時間：115 年6 月15 日（一）至115 年7 月31 日（五）17:00 止。"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "作答截止",
+      "date": "2026-07-31",
+      "time": "17:00",
+      "original": "115 年6 月15 日（一）至115 年7 月31 日（五）17:00 止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/05/比賽辦法-115年度CoolEnglish-普技高英閱大師比賽.pdf",
+          "quote": "一、報名與作答時間：115 年6 月15 日（一）至115 年7 月31 日（五）17:00 止。"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "通過名單公告",
+      "date": "2026-08-07",
+      "time": "17:00",
+      "original": "115 年8 月7 日（五）17:00 前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/05/比賽辦法-115年度CoolEnglish-普技高英閱大師比賽.pdf",
+          "quote": "二、通過名單公告：115 年8 月7 日（五）17:00 前公告於平臺及臉書粉專。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "成績複查與資料修改截止",
+      "date": "2026-08-31",
+      "time": "17:00",
+      "original": "115 年8 月7 日（五）至115 年8 月31 日（一）17:00 止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/05/比賽辦法-115年度CoolEnglish-普技高英閱大師比賽.pdf",
+          "quote": "三、成績複查與資料修改：115 年8 月7 日（五）至115 年8 月31 日（一）17:00 止。"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "最終得獎名單（商品卡抽獎）公告",
+      "date": "2026-09-04",
+      "time": "17:00",
+      "original": "115 年9 月4 日（五）17:00 前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/05/比賽辦法-115年度CoolEnglish-普技高英閱大師比賽.pdf",
+          "quote": "四、最終得獎名單公告：115 年9 月4 日（五）17:00 前於平臺及臉書粉專公吿抽獎得獎名 單。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "獎勵品預計寄送",
+      "date": "2026-09-24",
+      "time": null,
+      "original": "115 年9 月21 日（一）至115 年9 月24 日（四）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/05/比賽辦法-115年度CoolEnglish-普技高英閱大師比賽.pdf",
+          "quote": "五、獎勵品寄送：預計於115 年9 月21 日（一）至115 年9 月24 日（四），實際寄送時程依 作業情形為準。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "線上作答",
+      "what": "指定練習題組 10 組（10 篇文章，每組 8 至 12 題，共 100 題），先報名後作答",
+      "how": "online"
+    }
+  ],
+  "attendance": {
+    "value": "none",
+    "where": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/05/比賽辦法-115年度CoolEnglish-普技高英閱大師比賽.pdf"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/05/來文-115年度CoolEnglish-普技高英閱大師比賽.pdf"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/05/比賽辦法-115年度CoolEnglish-普技高英閱大師比賽.pdf"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/05/來文-115年度CoolEnglish-普技高英閱大師比賽.pdf"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "完成所屬組別所有試題且平均分數達 100 分者通過比賽，獲承辦單位獎狀乙張；各組再從得獎者中隨機抽出超商商品卡：800 元（普高組 50 名、技高組 50 名、五專組 10 名）、200 元（普高組 310 名、技高組 310 名、五專組 25 名），每人限得一次。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/05/比賽辦法-115年度CoolEnglish-普技高英閱大師比賽.pdf",
+        "quote": "完成參賽組別所有試題且平均分數達100 分者，即通過比賽，可獲得獎狀乙張。"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/05/比賽辦法-115年度CoolEnglish-普技高英閱大師比賽.pdf",
+        "quote": "各組亦將 從得獎者中隨機抽選超商商品卡得主，獎勵名額如第二點所示，每位參賽者僅可獲獎一 次，不得重複獲獎。"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/05/比賽辦法-115年度CoolEnglish-普技高英閱大師比賽.pdf",
+        "quote": "超商商品卡800 元 普高組50 名 技高組50 名 五專組10 名"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/05/比賽辦法-115年度CoolEnglish-普技高英閱大師比賽.pdf",
+        "quote": "超商商品卡200 元 普高組310 名 技高組310 名 五專組25 名 承辦單位獎狀乙張"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/05/比賽辦法-115年度CoolEnglish-普技高英閱大師比賽.pdf"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/05/來文-115年度CoolEnglish-普技高英閱大師比賽.pdf"
+      }
+    ]
+  },
+  "links": {
+    "official": null,
+    "rules": [
+      {
+        "title": "比賽辦法",
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/05/比賽辦法-115年度CoolEnglish-普技高英閱大師比賽.pdf"
+      },
+      {
+        "title": "國教署來文",
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/05/來文-115年度CoolEnglish-普技高英閱大師比賽.pdf"
+      }
+    ],
+    "registration": "http://www.coolenglish.edu.tw/"
+  },
+  "found_via": [
+    {
+      "name": "臺南女中 學生競賽",
+      "url": "https://www.tngs.tn.edu.tw/2026/05/29/115%e5%b9%b4%e5%ba%a6%e9%85%b7%e8%8b%b1cool-english%e6%99%ae%e6%8a%80%e9%ab%98%e8%8b%b1%e9%96%b1%e5%a4%a7%e5%b8%ab%e6%af%94%e8%b3%bd%e8%b3%87%e8%a8%8a/"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-26",
+    "method": "single",
+    "unread": [],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-26"
+}

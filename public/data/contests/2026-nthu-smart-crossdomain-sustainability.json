@@ -1,0 +1,214 @@
+{
+  "schema": 1,
+  "id": "2026-nthu-smart-crossdomain-sustainability",
+  "title": "2026 智慧跨域永續創新實作競賽",
+  "edition": "2026",
+  "summary": "國小至高中學生 2 至 4 人組隊，運用新興科技就四大主題提出創新方案並製作可運作的應用或實體原型。",
+  "organizers": [
+    {
+      "name": "國立清華大學師資培育中心",
+      "role": "主辦"
+    },
+    {
+      "name": "國立清華大學苗栗縣STEAM教育中心",
+      "role": "主辦"
+    },
+    {
+      "name": "苗栗縣政府",
+      "role": "指導"
+    }
+  ],
+  "categories": [
+    "資訊與 AI",
+    "工程與製造"
+  ],
+  "eligibility": {
+    "levels": [
+      "國小",
+      "國中",
+      "高中",
+      "高職",
+      "五專"
+    ],
+    "division": "mixed",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 2,
+    "team_max": 4,
+    "teacher": "required",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://steam-miaoli.site.nthu.edu.tw/p/406-1616-313373,r11470.php",
+        "quote": "國高中組（7-12年級）：國民中學七至九年級，且未滿十八歲之學生，或具同等學力之非學校型態實驗教育學生；高級中等學校或五專前三年級學生，且未滿二十歲，或具相當年級之非學校型態實驗教育學生。"
+      },
+      {
+        "url": "https://steam-miaoli.site.nthu.edu.tw/p/406-1616-313373,r11470.php",
+        "quote": "國高中組採自由組隊方式，不限制參賽者之學校、年級及學制，國中生與高中生得混合組隊，並得跨校組隊參賽。"
+      },
+      {
+        "url": "https://steam-miaoli.site.nthu.edu.tw/p/406-1616-313373,r11470.php",
+        "quote": "國小組（4-6年級）：國民小學四至六年級，且未滿十五歲之學生，或相當年級之非學校型態實驗教育學生，皆可參加。"
+      },
+      {
+        "url": "https://steam-miaoli.site.nthu.edu.tw/p/406-1616-313373,r11470.php",
+        "quote": "符合參賽組別條件之學生皆可報名。"
+      },
+      {
+        "url": "https://steam-miaoli.site.nthu.edu.tw/p/406-1616-313373,r11470.php",
+        "quote": "每隊以2-4人為單位報名，須選定1名隊長並應有1名指導教師，可跨校組隊但隊內學生必須隸屬相同年齡組別。"
+      },
+      {
+        "url": "https://steam-miaoli.site.nthu.edu.tw/p/406-1616-313373,r11470.php",
+        "quote": "報名流程：填寫線上報名表單（表單中須勾選參賽組別、參賽賽道及參賽主題），並上傳下列文件："
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "報名與提案書繳交截止",
+      "date": "2026-09-19",
+      "time": null,
+      "original": "115年9月19日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26246",
+          "quote": "(一)報名與提案書繳交截止日期：115年9月19日。"
+        }
+      ]
+    },
+    {
+      "kind": "shortlist_announcement",
+      "label": "初賽結果公告",
+      "date": "2026-09-30",
+      "time": null,
+      "original": "115年9月30日前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26246",
+          "quote": "(二)初賽結果公告：115年9月30日前。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "決賽與頒獎",
+      "date": "2026-10-31",
+      "time": null,
+      "original": "115年10月31日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26246",
+          "quote": "(三)決賽與頒獎典禮：預定於115年10月31日（詳細場地資訊另行公告）。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名（初賽）",
+      "what": "創新提案書，及著作權、個人資料、肖像權授權同意書與參賽報名表",
+      "how": "online"
+    },
+    {
+      "stage": "決賽（入圍隊伍）",
+      "what": "簡報與原型作品現場展示，接受評審試用與提問",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "finalists",
+    "where": "苗栗縣立苑裡高級中學國中部",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://steam-miaoli.site.nthu.edu.tw/p/406-1616-313373,r11470.php",
+        "quote": "進入決賽之隊伍需準備簡報與原型作品展示，決賽採現場評審制，由專家學者及業界人士評分。"
+      },
+      {
+        "url": "https://steam-miaoli.site.nthu.edu.tw/p/406-1616-313373,r11470.php",
+        "quote": "苗栗縣立苑裡高級中學國中部"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://steam-miaoli.site.nthu.edu.tw/p/406-1616-313373,r11470.php"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "國小組、國高中組各分數位應用、智慧實作賽道共四份榜單，每榜金獎、銀獎、銅獎各 1 組及佳作數組；均頒獎狀，金、銀、銅獎另發獎品。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://steam-miaoli.site.nthu.edu.tw/p/406-1616-313373,r11470.php",
+        "quote": "獎項依「組別×賽道」之四份榜單分別設置，各榜單獎項如下："
+      },
+      {
+        "url": "https://steam-miaoli.site.nthu.edu.tw/p/406-1616-313373,r11470.php",
+        "quote": "國高中組—數位應用賽道\n1 組\n1 組\n1 組\n數組"
+      },
+      {
+        "url": "https://steam-miaoli.site.nthu.edu.tw/p/406-1616-313373,r11470.php",
+        "quote": "各獎項均頒發獎狀，金獎、銀獎、銅獎另發放獎品。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "allowed",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://steam-miaoli.site.nthu.edu.tw/p/406-1616-313373,r11470.php",
+        "quote": "團隊得於作品設計、程式協作及功能實現等各階段合理運用人工智慧或生成式人工智慧，視為人與科技共同參與的成果，並將科技工具視為創作的合作夥伴。"
+      },
+      {
+        "url": "https://steam-miaoli.site.nthu.edu.tw/p/406-1616-313373,r11470.php",
+        "quote": "惟應於提案書中揭露下列三項：（1）所使用之工具名稱；（2）用於哪些環節、如何使用；（3）作品中由學生自行完成之部分為何。"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://steam-miaoli.site.nthu.edu.tw/p/406-1616-313373,r11470.php",
+    "rules": [],
+    "registration": "https://forms.gle/igFdNwtgJnWCVPcS8"
+  },
+  "found_via": [
+    {
+      "name": "苗栗高中 學生校外營隊、活動、比賽",
+      "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=27884"
+    },
+    {
+      "name": "苗栗農工 處室公告",
+      "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26246"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-26",
+    "method": "single",
+    "unread": [
+      "附件一至附件五（創新提案書、著作權授權同意書、個人資料使用同意書、肖像權授權同意書、參賽報名表）",
+      "比賽宣傳海報"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-26",
+  "level": "checked",
+  "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-nthu-smart-crossdomain-sustainability/",
+  "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-nthu-smart-crossdomain-sustainability.md"
+}

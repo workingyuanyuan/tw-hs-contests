@@ -1,0 +1,291 @@
+{
+  "schema": 1,
+  "id": "2026-fsc-finance-knowledge",
+  "title": "115年金融知識線上競賽",
+  "edition": "115 年",
+  "summary": "國中與高中職學生以個人或 3 人團隊作答金融生活、法規與理財等金融知識題目。",
+  "organizers": [
+    {
+      "name": "金融監督管理委員會",
+      "role": "主辦"
+    },
+    {
+      "name": "台灣金融研訓院",
+      "role": "承辦"
+    }
+  ],
+  "categories": [
+    "商管與行銷"
+  ],
+  "eligibility": {
+    "levels": [
+      "國小",
+      "國中",
+      "高中",
+      "高職"
+    ],
+    "division": "separate",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": 3,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/1OA6_19brFS4GgAB5edV_bVCh-059nCUt/view?usp=sharing",
+        "quote": "具中華民國國籍之在學國小四~六年級學生及國、高中職學生。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1OA6_19brFS4GgAB5edV_bVCh-059nCUt/view?usp=sharing",
+        "quote": "分四組進行競賽，各組皆以線上初賽及決賽兩階段進行；"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1OA6_19brFS4GgAB5edV_bVCh-059nCUt/view?usp=sharing",
+        "quote": "：參賽對象為具中華民國國籍之在學高中職學生。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1OA6_19brFS4GgAB5edV_bVCh-059nCUt/view?usp=sharing",
+        "quote": "2.國中及高中職團體組(B、D 組) (3 人組隊，以隊為報名單位)："
+      },
+      {
+        "url": "https://drive.google.com/file/d/1OA6_19brFS4GgAB5edV_bVCh-059nCUt/view?usp=sharing",
+        "quote": "1.先至活動網站https://financeknowledge.tabf.org.tw 完成線上報名註冊程序"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "submission_deadline",
+      "label": "國中組、高中職組線上初賽截止",
+      "date": "2026-10-12",
+      "time": null,
+      "original": "115 年8 月10 日（星期一）至10 月12 日（星期一）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://drive.google.com/file/d/1OA6_19brFS4GgAB5edV_bVCh-059nCUt/view?usp=sharing",
+          "quote": "115 年8 月10 日（星期一）至10 月12 日（星期一）"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "國小四至六年級組記帳本寄回截止（郵戳為憑）",
+      "date": "2026-10-12",
+      "time": null,
+      "original": "115 年10 月12 日（星期一）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://drive.google.com/file/d/1OA6_19brFS4GgAB5edV_bVCh-059nCUt/view?usp=sharing",
+          "quote": "在收件截止日115 年10 月12 日（星期一）前寄回收件"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "國小四至六年級組推廣專區得獎名單公告",
+      "date": "2026-10-27",
+      "time": null,
+      "original": "115 年10 月27 日（星期二）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://drive.google.com/file/d/1OA6_19brFS4GgAB5edV_bVCh-059nCUt/view?usp=sharing",
+          "quote": "(3)得獎名單將於115 年10 月27 日（星期二）公告於活動官網"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "國中組實體決賽暨頒獎典禮（下午）",
+      "date": "2026-11-07",
+      "time": null,
+      "original": "115 年11 月7 日（星期六）下午",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://drive.google.com/file/d/1OA6_19brFS4GgAB5edV_bVCh-059nCUt/view?usp=sharing",
+          "quote": "115 年11 月7 日（星期六）下午"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "高中職組實體決賽暨頒獎典禮（上午）",
+      "date": "2026-11-08",
+      "time": null,
+      "original": "115 年11 月8 日（星期日）上午",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://drive.google.com/file/d/1OA6_19brFS4GgAB5edV_bVCh-059nCUt/view?usp=sharing",
+          "quote": "115 年11 月8 日（星期日）上午"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "線上初賽",
+      "what": "於活動網站最多 3 次作答，每次 20 題、每題 40 秒，取最佳成績；團體組 3 名隊員各自作答後平均",
+      "how": "online"
+    },
+    {
+      "stage": "實體決賽（各組前 25 名／隊）",
+      "what": "現場即席答題 20 題，每題 20 秒",
+      "how": "onsite"
+    },
+    {
+      "stage": "實體決賽第二輪（團體組五強）",
+      "what": "依事先通知的主題上台簡報 10 分鐘",
+      "how": "onsite"
+    },
+    {
+      "stage": "國小四至六年級組持之以恆獎",
+      "what": "完成 21 天記帳的記帳本",
+      "how": "mail"
+    }
+  ],
+  "attendance": {
+    "value": "finalists",
+    "where": "台灣金融研訓院（台北市羅斯福路三段62 號2 樓菁業堂）",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/1OA6_19brFS4GgAB5edV_bVCh-059nCUt/view?usp=sharing",
+        "quote": "7.晉級實體決賽名單將以各組線上初賽成績排名前25 名（隊）為原則"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1OA6_19brFS4GgAB5edV_bVCh-059nCUt/view?usp=sharing",
+        "quote": "晉級者若無法於實體決賽當天準時出席，則視同放棄"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1OA6_19brFS4GgAB5edV_bVCh-059nCUt/view?usp=sharing",
+        "quote": "台灣金融研訓院（台北市羅斯福路三段62 號2 樓菁業堂）"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/1OA6_19brFS4GgAB5edV_bVCh-059nCUt/view?usp=sharing"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "國中組、高中職組的個人組第一至五名各得獎金 13,000 元至 4,000 元及獎狀，團體組第一至五名得獎金 48,000 元至 15,000 元及獎狀，兩組第六至二十五名各得獎狀；另有參加獎抽獎、學校推動成效獎與最佳領隊獎，實體決賽參賽者依學校所在地獲交通補助。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/1OA6_19brFS4GgAB5edV_bVCh-059nCUt/view?usp=sharing",
+        "quote": "獎金13,000 元及獎狀乙紙"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1OA6_19brFS4GgAB5edV_bVCh-059nCUt/view?usp=sharing",
+        "quote": "獎金4,000 元及獎狀乙紙"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1OA6_19brFS4GgAB5edV_bVCh-059nCUt/view?usp=sharing",
+        "quote": "獎金48,000 元及獎狀乙紙"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1OA6_19brFS4GgAB5edV_bVCh-059nCUt/view?usp=sharing",
+        "quote": "獎金15,000 元及獎狀乙紙"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1OA6_19brFS4GgAB5edV_bVCh-059nCUt/view?usp=sharing",
+        "quote": "第六~二十五名"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1OA6_19brFS4GgAB5edV_bVCh-059nCUt/view?usp=sharing",
+        "quote": "凡參與競賽者皆有抽獎機會。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1OA6_19brFS4GgAB5edV_bVCh-059nCUt/view?usp=sharing",
+        "quote": "依參賽學校所在地支付交通補助。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1OA6_19brFS4GgAB5edV_bVCh-059nCUt/view?usp=sharing",
+        "quote": "三、學校推動成效獎：分別以國中組及高中職組「參賽學生人數最多」及「參賽學生比例最高」各依序取前三名為得獎學校"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1OA6_19brFS4GgAB5edV_bVCh-059nCUt/view?usp=sharing",
+        "quote": "四、最佳領隊獎：入圍實體決賽前二十五隊之領隊老師，依其初賽期間所帶領之隊數，由多至少取前五名。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/1OA6_19brFS4GgAB5edV_bVCh-059nCUt/view?usp=sharing"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://financeknowledge.tabf.org.tw/",
+    "rules": [
+      {
+        "title": "115 年金融知識線上競賽活動辦法",
+        "url": "https://drive.google.com/file/d/1OA6_19brFS4GgAB5edV_bVCh-059nCUt/view?usp=sharing"
+      }
+    ],
+    "registration": "https://financeknowledge.tabf.org.tw"
+  },
+  "found_via": [
+    {
+      "name": "大同高中 學生競賽活動",
+      "url": "https://www.ttsh.tp.edu.tw/news/%e9%87%91%e8%9e%8d%e7%9b%a3%e7%9d%a3%e7%ae%a1%e7%90%86%e5%a7%94%e5%93%a1%e6%9c%83%e5%8f%8a%e5%8f%b0%e7%81%a3%e9%87%91%e8%9e%8d%e7%a0%94%e8%a8%93%e9%99%a2115%e5%b9%b4%e9%87%91%e8%9e%8d%e7%9f%a5/"
+    },
+    {
+      "name": "苗栗高中 學生校外營隊、活動、比賽",
+      "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=27739"
+    },
+    {
+      "name": "潮州高中 學生課外活動",
+      "url": "https://www.ccsh.ptc.edu.tw/data.php?id=18810&tpl=28"
+    },
+    {
+      "name": "南港高工 重要資訊",
+      "url": "https://www.nkhs.tp.edu.tw/ischool/public/news_view/show.php?nid=34290"
+    },
+    {
+      "name": "成功高中 活動競賽",
+      "url": "https://www.cksh.tp.edu.tw/news/%e3%80%90%e8%bd%89%e7%9f%a5%e3%80%91-%e8%b2%a1%e5%9c%98%e6%b3%95%e4%ba%ba%e5%8f%b0%e7%81%a3%e9%87%91%e8%9e%8d%e7%a0%94%e8%a8%93%e9%99%a2%e3%80%8c115%e5%b9%b4%e9%87%91%e8%9e%8d%e7%9f%a5%e8%ad%98/"
+    },
+    {
+      "name": "新竹高商 消息公佈欄",
+      "url": "https://www.hccvs.hc.edu.tw/ischool/public/news_view/show.php?nid=26088"
+    },
+    {
+      "name": "斗六高中 營隊研習競賽",
+      "url": "https://www.tlsh.ylc.edu.tw/2026/08/06/65673/"
+    },
+    {
+      "name": "南投高中 最新消息",
+      "url": "https://www.ntsh.ntct.edu.tw/ischool/public/news_view/show.php?nid=22447"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-26",
+    "method": "single",
+    "unread": [],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-26",
+  "level": "checked",
+  "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-fsc-finance-knowledge/",
+  "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-fsc-finance-knowledge.md"
+}
