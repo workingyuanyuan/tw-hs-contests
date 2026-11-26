@@ -382,6 +382,9 @@ def same_edition(a, b) -> bool:
         # an edition that names only its ordinal takes the years of its title: 「第 38 屆」 of 「2026第38屆AERC…」
         yo = yo or years(re.sub(r"\s+", "", unicodedata.normalize("NFKC", ord_rec.get("title") or "")))
         return bool(yp) and yp == yo and not re.sub(only_years, "", plain)
+    only_years = r"(?<!\d)20\d\d(?!\d)|1\d\d(?=學?年)|學|年|度|[-–—~～、，,.．()（）]"
+    if ya and yb and not re.sub(only_years, "", ea) and not re.sub(only_years, "", eb):
+        return ya == yb  # 「2026」 and 「115 年」
     return ea == eb
 
 
