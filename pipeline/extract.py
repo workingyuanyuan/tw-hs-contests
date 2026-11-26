@@ -110,6 +110,31 @@ def attachment_score(link, title_grams) -> int:
     return score
 
 
+URL_IN_TEXT = re.compile(r"https?://[^\s<>\"'，。、；：！？（）「」『』【】《》〈〉｜／]+", re.I)
+
+
+def printed_urls(text: str, links: list) -> list:
+    """Addresses the text gives without a link, as links: an announcement often names the contest's
+    site in a sentence (「同步公告於……（https://…）」). They are offered to the reader and never
+    followed on their own, so a page that prints many addresses cannot crowd out its attachments."""
+    have = {l["url"] for l in links}
+    found = []
+    for m in URL_IN_TEXT.finditer(text):
+        for url in re.split(r",(?=https?://)", m.group(0), flags=re.I):
+            url = url.rstrip(".,;:!?'")
+            while url.endswith(")") and url.count("(") < url.count(")"):
+                url = url[:-1]
+            try:
+                parsed = urlparse(url)
+                host, _ = parsed.hostname or "", parsed.port  # a port no URL can have raises
+            except ValueError:
+                continue
+            if "." in host and url not in have:
+                have.add(url)
+                found.append({"text": "", "url": url})
+    return found
+
+
 def gather(cand, extra=()):
     """Fetch the candidate's links, then the links in them most likely to be its rules, HOPS deep,
     best first at each hop. Returns ([doc], [problem])."""
@@ -127,7 +152,8 @@ def gather(cand, extra=()):
             return []
         text, links = got
         entry = load_index()[url]
-        docs.append({"url": url, "text": text, "links": links, "kind": entry.get("kind", ""), "file": entry.get("file"),
+        docs.append({"url": url, "text": text, "links": links, "printed": printed_urls(text, links),
+                     "kind": entry.get("kind", ""), "file": entry.get("file"),
                      "pages_unread": entry.get("pages_unread")})
         return [(attachment_score(l, title_grams), len(docs), i, l["url"]) for i, l in enumerate(links)]
 
@@ -144,6 +170,11 @@ def gather(cand, extra=()):
                 later += add(url)
         found = later if hop + 1 < HOPS else []
     return docs, problems
+
+
+def offer(doc) -> list:
+    """The links a reader may ask for: the document's first 150, then the addresses its text prints."""
+    return doc["links"][:150] + doc.get("printed", [])
 
 
 def write_task(folder: Path, cand, reading: int, record=None):
@@ -164,7 +195,7 @@ def write_task(folder: Path, cand, reading: int, record=None):
         name = f"docs/{i:02d}.txt"
         body = d["text"] or "(this document gave no text: an image, a scanned PDF or an old .doc file)"
         (folder / name).write_text(f"URL: {d['url']}\nKIND: {d['kind']}\n---\n{body}\n", encoding="utf-8")
-        links = "\n".join(f"- [{l.get('text') or ''}]({l['url']})" for l in d["links"][:150])
+        links = "\n".join(f"- [{l.get('text') or ''}]({l['url']})" for l in offer(d))
         (folder / f"docs/{i:02d}.links.txt").write_text(links + "\n", encoding="utf-8")
         line = f"- `{name}`: {d['url']} ({d['kind']}, {len(d['text'])} characters, {len(d['links'])} links)"
         if d.get("pages_unread"):
@@ -179,7 +210,7 @@ def write_task(folder: Path, cand, reading: int, record=None):
     shutil.copy(ROOT / "data/schema/contest.schema.json", folder / "schema.json")
     shutil.copy(PIPELINE / "example.json", folder / "example.json")  # a fixed copy: a live record can be set aside
     shutil.copy(PIPELINE / "check_out.py", folder / "check.py")
-    offered = sorted({l["url"] for d in docs for l in d["links"][:150]})
+    offered = sorted({l["url"] for d in docs for l in offer(d)})
     task = {"kind": "read", "key": cand["key"], "reading": reading, "record": record, "asked": bool(need),
             "docs": [d["url"] for d in docs], "offered": offered}
     (folder / "task.json").write_text(json.dumps(task, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
