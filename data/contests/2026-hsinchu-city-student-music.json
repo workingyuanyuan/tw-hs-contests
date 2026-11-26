@@ -1,13 +1,29 @@
 {
   "schema": 1,
   "id": "2026-hsinchu-city-student-music",
-  "title": "115學年度全國學生音樂比賽新竹市初賽",
+  "title": "115 學年度全國學生音樂比賽新竹市初賽",
   "edition": "115 學年度",
-  "summary": "新竹市國中、高中職及大專學生依個人或團體類組參加音樂演奏比賽。",
+  "summary": "新竹市國小至大專學生以個人或團隊參加合唱、器樂合奏、獨奏與創作比賽，爭取全國決賽代表權。",
   "organizers": [
     {
-      "name": "國立臺灣藝術教育館",
+      "name": "新竹市政府",
       "role": "主辦"
+    },
+    {
+      "name": "新竹市文化局",
+      "role": "協辦"
+    },
+    {
+      "name": "新竹市立光華國民中學",
+      "role": "承辦"
+    },
+    {
+      "name": "新竹市東區東園國民小學",
+      "role": "協辦"
+    },
+    {
+      "name": "新竹市東區三民國民小學",
+      "role": "協辦"
     }
   ],
   "categories": [
@@ -15,132 +31,316 @@
   ],
   "eligibility": {
     "levels": [
+      "國小",
       "國中",
       "高中",
       "高職",
+      "五專",
       "大專"
     ],
     "division": "separate",
     "regions": [
       "新竹市"
     ],
-    "nomination": "unknown",
-    "team_min": null,
-    "team_max": null,
+    "nomination": "school",
+    "team_min": 1,
+    "team_max": 150,
     "teacher": "unknown",
     "basis": "quote",
     "evidence": [
       {
-        "url": "https://www.hccvs.hc.edu.tw/ischool/public/news_view/show.php?nid=26101",
-        "quote": "個人項目新增「上低音號」獨奏國中及高中職AB組，以及大專組。"
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/14/115實施計畫.pdf",
+        "quote": "1.經政府立案公、私立高中職之學生"
       },
       {
-        "url": "https://www.hccvs.hc.edu.tw/ischool/public/news_view/show.php?nid=26101",
-        "quote": "旨揭音樂比賽本市初賽訂於115年11月29日至115年12月6日，假新竹市立文化局演藝廳、國際會議室等地辦理。"
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/14/115實施計畫.pdf",
+        "quote": "4.經政府立案五專一、二、三年級之學生"
+      },
+      {
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/14/115實施計畫.pdf",
+        "quote": "1.經政府立案公、私立大專院校之學生及研究生"
+      },
+      {
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/14/115實施計畫.pdf",
+        "quote": "一、各學程之A 組為就讀音樂班、科、系、所者，Ｂ組為就讀非音樂班、科、系、所者。"
+      },
+      {
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/14/115實施計畫.pdf",
+        "quote": "1.報名國小組、國中組及高中職組之學生，應填具報名表經就讀學校核章後，報名表由就讀學校送至承辦學校(光華國中學務處)報名參賽。"
+      },
+      {
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/14/115實施計畫.pdf",
+        "quote": "(二)團體項目：各類組每校報名以1 隊為限，由學校填具報名表並完成核章後，報名表由學校送至初賽承辦學校(光華國中)報名參賽。"
+      },
+      {
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/14/115實施計畫.pdf",
+        "quote": "其設有分部或校園遼闊者(不在同一郵遞區號範圍者)，得就近向本市承辦學校(光華國中學務處)報名參賽。"
+      },
+      {
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/14/115實施計畫.pdf",
+        "quote": "「71 人以上」隊伍之參賽學生人數及學生身分之指揮，上限為150 人。"
+      },
+      {
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/14/115實施計畫.pdf",
+        "quote": "六、團體項目不得跨校組隊。"
       }
     ]
   },
   "dates": [
     {
-      "kind": "other",
-      "label": "新商學生繳交報名表及學生證影印本至活動組截止",
-      "date": "2026-09-23",
-      "time": "12:00",
-      "original": "115 年 9 月23 日(三) 中午 12:00 前",
+      "kind": "registration_deadline",
+      "label": "網路報名截止",
+      "date": "2026-09-24",
+      "time": "17:00",
+      "original": "115 年9 月24 日下午17：00",
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://www.hccvs.hc.edu.tw/ischool/public/news_view/show.php?nid=26101",
-          "quote": "並於 115 年 9 月23 日(三) 中午 12:00 前繳交報名表及學生證影印本至活動組"
+          "url": "https://www.hgsh.hc.edu.tw/view-doc/14/115實施計畫.pdf",
+          "quote": "(一)報名日期及方式：115 年9 月10 日上午8：00 起至115 年9 月24 日下午17：00 止，於"
         }
       ]
     },
     {
-      "kind": "registration_deadline",
-      "label": "全國網路報名系統報名截止",
-      "date": "2026-09-24",
-      "time": "17:00",
-      "original": "115 年 9 月 10 日上午 8：00 起至 115 年 9 月 24 日下午 17：00 止",
+      "kind": "other",
+      "label": "報名書面資料親送承辦學校截止",
+      "date": "2026-09-30",
+      "time": "16:00",
+      "original": "115 年9 月30 日(三)下午16:00",
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://www.hccvs.hc.edu.tw/ischool/public/news_view/show.php?nid=26101",
-          "quote": "報名日期及方式：115 年 9 月 10 日上午 8：00 起至 115 年 9 月 24 日下午 17：00 止，"
+          "url": "https://www.hgsh.hc.edu.tw/view-doc/14/115實施計畫.pdf",
+          "quote": "並於115 年9 月30 日(三)下午16:00 前「親送」報名書面資料至承辦學校(光華國中)學務處。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "抽籤會議",
+      "date": "2026-10-21",
+      "time": "13:30",
+      "original": "115 年10 月21 日（星期三）下午1 時30 分",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.hgsh.hc.edu.tw/view-doc/14/115實施計畫.pdf",
+          "quote": "115 年10 月21 日（星期三）下午1 時30 分假光華國中綜合大樓1 樓會議室辦理。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "領隊會議",
+      "date": "2026-10-21",
+      "time": "13:50",
+      "original": "115 年10 月21 日（星期三）下午1 時50 分",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.hgsh.hc.edu.tw/view-doc/14/115實施計畫.pdf",
+          "quote": "115 年10 月21 日（星期三）下午1 時50 分假光華國中綜合大樓1 樓會議室辦理，請各校領隊參加，不另行通知。"
         }
       ]
     },
     {
       "kind": "final_event",
-      "label": "新竹市初賽（至 12 月 6 日）",
+      "label": "初賽比賽開始",
       "date": "2026-11-29",
       "time": null,
-      "original": "115年11月29日至115年12月6日",
+      "original": "115 年11 月29 日至12 月6 日",
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://www.hccvs.hc.edu.tw/ischool/public/news_view/show.php?nid=26101",
-          "quote": "旨揭音樂比賽本市初賽訂於115年11月29日至115年12月6日，假新竹市立文化局演藝廳、國際會議室等地辦理。"
+          "url": "https://www.hgsh.hc.edu.tw/view-doc/14/115實施計畫.pdf",
+          "quote": "訂於115 年11 月29 日至12 月6 日在文化局演藝廳、國際會議室等場地舉行，賽程表於報名截止後編排，並於抽籤會議確定賽程。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "初賽比賽結束",
+      "date": "2026-12-06",
+      "time": null,
+      "original": "115 年11 月29 日至12 月6 日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.hgsh.hc.edu.tw/view-doc/14/115實施計畫.pdf",
+          "quote": "訂於115 年11 月29 日至12 月6 日在文化局演藝廳、國際會議室等場地舉行，賽程表於報名截止後編排，並於抽籤會議確定賽程。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "取得決賽代表權者於決賽網站報名截止",
+      "date": "2026-12-10",
+      "time": null,
+      "original": "115 年12 月10 日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.hgsh.hc.edu.tw/view-doc/14/115實施計畫.pdf",
+          "quote": "四、取得本市決賽代表權者，應於115 年11 月30 日至115 年12 月10 日前至決賽主辦大會所設本項比賽專屬網站完成決賽報名事宜。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "公告遞補決賽代表權類別及名單",
+      "date": "2026-12-15",
+      "time": null,
+      "original": "115 年12 月15 日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.hgsh.hc.edu.tw/view-doc/14/115實施計畫.pdf",
+          "quote": "遞補類別及名單將於115 年12 月15 日公告於「新竹市學生藝文競賽」，不另行通知。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "遞補團隊於決賽網站報名截止",
+      "date": "2026-12-16",
+      "time": null,
+      "original": "115 年12 月16 日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.hgsh.hc.edu.tw/view-doc/14/115實施計畫.pdf",
+          "quote": "六、遞補團隊應於115 年12 月15 日至115 年12 月16 日前至決賽主辦大會所設本項比賽專屬網站完成決賽報名事宜。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "決賽書面報名表親送光華國中學務處截止",
+      "date": "2026-12-17",
+      "time": "12:00",
+      "original": "115 年12 月17 日中午12：00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.hgsh.hc.edu.tw/view-doc/14/115實施計畫.pdf",
+          "quote": "由學校免備文於115 年12 月17 日中午12：00 前親送光華國中學務處彙整轉請市政府審核報名資格，列印格式不符合決賽主辦大會要求者概不受理。"
         }
       ]
     }
   ],
   "deliverables": [
     {
+      "stage": "報名",
+      "what": "網路報名後列印報名表，經就讀學校核章（團體項目附參賽者名冊）",
+      "how": "onsite"
+    },
+    {
       "stage": "初賽",
-      "what": "依類組比賽曲目規則現場演奏",
+      "what": "現場演出指定曲及自選曲各一曲；個人項目背譜，團體 20 分鐘、個人 10 分鐘內",
+      "how": "onsite"
+    },
+    {
+      "stage": "初賽（樂曲或歌曲創作類）",
+      "what": "依現場公布主題臨場寫譜創作，3 小時 30 分鐘",
       "how": "onsite"
     }
   ],
   "attendance": {
     "value": "all",
-    "where": "新竹市立文化局演藝廳、國際會議室等地",
+    "where": "新竹市文化局演藝廳、國際會議室等場地",
     "basis": "quote",
     "evidence": [
       {
-        "url": "https://www.hccvs.hc.edu.tw/ischool/public/news_view/show.php?nid=26101",
-        "quote": "旨揭音樂比賽本市初賽訂於115年11月29日至115年12月6日，假新竹市立文化局演藝廳、國際會議室等地辦理。"
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/14/115實施計畫.pdf",
+        "quote": "訂於115 年11 月29 日至12 月6 日在文化局演藝廳、國際會議室等場地舉行，賽程表於報名截止後編排，並於抽籤會議確定賽程。"
+      },
+      {
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/14/115實施計畫.pdf",
+        "quote": "(四)參賽者應於司儀唱名時立即進入舞臺開始表演，若唱名三次(每次間隔約10 秒)不到者，以棄權論"
       }
     ]
   },
   "fee": {
-    "value": "unknown",
+    "value": "none",
     "amount": null,
-    "basis": "unread",
-    "evidence": []
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.hgsh.hc.edu.tw/news/115-%e5%ad%b8%e5%b9%b4%e5%ba%a6%e5%85%a8%e5%9c%8b%e5%ad%b8%e7%94%9f%e9%9f%b3%e6%a8%82%e6%af%94%e8%b3%bd%e6%96%b0%e7%ab%b9%e5%b8%82%e5%88%9d%e8%b3%bd%e5%a0%b1%e5%90%8d%e8%be%a6%e6%b3%95%e8%88%87/"
+      },
+      {
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/14/115實施計畫.pdf"
+      }
+    ]
   },
   "prizes": {
-    "text": null,
-    "basis": "unread",
-    "evidence": []
+    "text": "平均分數 90 分以上特優、85 分以上優等、80 分以上甲等，甲等以上發給獎狀；初賽第一名代表新竹市參加全國決賽。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/14/115實施計畫.pdf",
+        "quote": "一、特優：平均分數90 分以上者。"
+      },
+      {
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/14/115實施計畫.pdf",
+        "quote": "二、優等：平均分數85 分以上未滿90 分者。"
+      },
+      {
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/14/115實施計畫.pdf",
+        "quote": "三、甲等：平均分數在80 分以上未滿85 分者。"
+      },
+      {
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/14/115實施計畫.pdf",
+        "quote": "(一)團體項目：獲評甲等(含)以上者發給團體獲獎獎狀，團體獲獎學生由主辦單位發予空白獎狀並由學校自行列印後轉頒學生。"
+      },
+      {
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/14/115實施計畫.pdf",
+        "quote": "(二)個人項目：獲評甲等(含)以上者發給獎狀。"
+      },
+      {
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/14/115實施計畫.pdf",
+        "quote": "一、由初賽第一名團隊(個人)取得代表本市參加全國決賽，除不可抗力因素，不得無故棄賽。"
+      }
+    ]
   },
   "ai_policy": {
-    "value": "unknown",
-    "basis": "unread",
-    "evidence": []
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.hgsh.hc.edu.tw/news/115-%e5%ad%b8%e5%b9%b4%e5%ba%a6%e5%85%a8%e5%9c%8b%e5%ad%b8%e7%94%9f%e9%9f%b3%e6%a8%82%e6%af%94%e8%b3%bd%e6%96%b0%e7%ab%b9%e5%b8%82%e5%88%9d%e8%b3%bd%e5%a0%b1%e5%90%8d%e8%be%a6%e6%b3%95%e8%88%87/"
+      },
+      {
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/14/115實施計畫.pdf"
+      }
+    ]
   },
   "links": {
-    "official": null,
+    "official": "https://www.hc.edu.tw/language_art/",
     "rules": [
       {
-        "title": "新竹市初賽實施計畫（學校公告附件）",
-        "url": "https://www.hccvs.hc.edu.tw/ischool/public/news_view/show.php?nid=26101"
+        "title": "115 學年度全國學生音樂比賽新竹市初賽實施計畫",
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/14/115實施計畫.pdf"
+      },
+      {
+        "title": "115 日程表",
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/14/115日程表.pdf"
       }
     ],
-    "registration": null
+    "registration": "https://web.arte.gov.tw/Music/"
   },
   "found_via": [
     {
-      "name": "新竹高商 消息公佈欄",
-      "url": "https://www.hccvs.hc.edu.tw/ischool/public/news_view/show.php?nid=26101"
+      "name": "新竹女中 活動研習",
+      "url": "https://www.hgsh.hc.edu.tw/news/115-%e5%ad%b8%e5%b9%b4%e5%ba%a6%e5%85%a8%e5%9c%8b%e5%ad%b8%e7%94%9f%e9%9f%b3%e6%a8%82%e6%af%94%e8%b3%bd%e6%96%b0%e7%ab%b9%e5%b8%82%e5%88%9d%e8%b3%bd%e5%a0%b1%e5%90%8d%e8%be%a6%e6%b3%95%e8%88%87/"
     }
   ],
   "verification": {
-    "last_verified": "2026-11-25",
+    "last_verified": "2026-11-26",
     "method": "single",
     "unread": [
-      "115學年度全國學生音樂比賽新竹市初賽實施計畫",
-      "國立臺灣藝術教育館115年7月16日藝演字第1150001684號函(附件1)",
-      "115學年度全國學生音樂比賽實施要點"
+      "115日程表",
+      "115 學年度全國學生音樂比賽實施要點"
     ],
     "note": null,
     "readers": [
@@ -148,5 +348,5 @@
     ]
   },
   "first_seen": "2026-11-24",
-  "updated": "2026-11-25"
+  "updated": "2026-11-26"
 }

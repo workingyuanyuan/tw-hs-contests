@@ -3,10 +3,10 @@
   "id": "2027-bahamut-acg-award",
   "title": "2027 ACG 創作大賽",
   "edition": "2027",
-  "summary": "業餘、學生創作者或獨立團隊個人或組隊，線上繳交原創動畫、漫畫或遊戲作品參賽。",
+  "summary": "業餘及學生創作者以個人或團體參賽，繳交一件原創動畫、漫畫或遊戲作品。",
   "organizers": [
     {
-      "name": "巴哈姆特",
+      "name": "巴哈姆特電玩資訊站",
       "role": "主辦"
     }
   ],
@@ -40,6 +40,10 @@
         "quote": "對象為業餘、學生創作者、獨立開發者團隊。"
       },
       {
+        "url": "https://prj.gamer.com.tw/acgaward/2027/manga_rule/",
+        "quote": "對象為無商業簽約之業餘、學生創作者。"
+      },
+      {
         "url": "https://prj.gamer.com.tw/acgaward/2027/anime_rule/",
         "quote": "個人或團體，均可報名參加。(團體需派出一位主要聯絡人)"
       },
@@ -48,8 +52,8 @@
         "quote": "不限年齡、性別、國籍。"
       },
       {
-        "url": "https://prj.gamer.com.tw/acgaward/2027/manga_rule/",
-        "quote": "對象為無商業簽約之業餘、學生創作者。"
+        "url": "https://prj.gamer.com.tw/acgaward/2027/game_rule/",
+        "quote": "團隊人數 10 人以下（含外包人力）"
       }
     ]
   },
@@ -64,55 +68,87 @@
       "evidence": [
         {
           "url": "https://prj.gamer.com.tw/acgaward/2027/anime_rule/",
-          "quote": "報名交件 即日起 ~ 2027 / 5 / 20 (四)"
+          "quote": "即日起 ~ 2027 / 5 / 20 (四)"
+        },
+        {
+          "url": "https://prj.gamer.com.tw/acgaward/2027/manga_rule/",
+          "quote": "即日起 ~ 2027 / 5 / 20 (四)"
+        },
+        {
+          "url": "https://prj.gamer.com.tw/acgaward/2027/game_rule/",
+          "quote": "即日起 ~ 2027 / 5 / 20 (四)"
         }
       ]
     },
     {
       "kind": "other",
-      "label": "作品初審",
+      "label": "作品初審結束",
       "date": "2027-06-18",
       "time": null,
-      "original": "2027 / 5 / 21 (五) ~ 2027 / 6 / 18 (五)",
+      "original": "2027 / 6 / 18 (五)",
       "basis": "quote",
       "evidence": [
         {
           "url": "https://prj.gamer.com.tw/acgaward/2027/anime_rule/",
-          "quote": "作品初審 2027 / 5 / 21 (五) ~ 2027 / 6 / 18 (五)"
+          "quote": "2027 / 5 / 21 (五) ~ 2027 / 6 / 18 (五)"
+        },
+        {
+          "url": "https://prj.gamer.com.tw/acgaward/2027/manga_rule/",
+          "quote": "2027 / 5 / 21 (五) ~ 2027 / 6 / 18 (五)"
+        },
+        {
+          "url": "https://prj.gamer.com.tw/acgaward/2027/game_rule/",
+          "quote": "2027 / 5 / 21 (五) ~ 2027 / 6 / 18 (五)"
         }
       ]
     },
     {
       "kind": "other",
-      "label": "線上投票",
+      "label": "網友線上投票截止",
       "date": "2027-07-05",
       "time": null,
-      "original": "2027 / 6 / 21 (一) ~ 2027 / 7 / 5 (一)",
+      "original": "2027 / 7 / 5 (一)",
       "basis": "quote",
       "evidence": [
         {
           "url": "https://prj.gamer.com.tw/acgaward/2027/anime_rule/",
-          "quote": "線上投票 2027 / 6 / 21 (一) ~ 2027 / 7 / 5 (一)"
+          "quote": "2027 / 6 / 21 (一) ~ 2027 / 7 / 5 (一)"
+        },
+        {
+          "url": "https://prj.gamer.com.tw/acgaward/2027/manga_rule/",
+          "quote": "2027 / 6 / 21 (一) ~ 2027 / 7 / 5 (一)"
+        },
+        {
+          "url": "https://prj.gamer.com.tw/acgaward/2027/game_rule/",
+          "quote": "2027 / 6 / 21 (一) ~ 2027 / 7 / 5 (一)"
         }
       ]
     },
     {
       "kind": "other",
-      "label": "評審複審",
+      "label": "評審複審結束",
       "date": "2027-07-16",
       "time": null,
-      "original": "2027 / 6 / 21 (一) ~ 2027 / 7 / 16 (五)",
+      "original": "2027 / 7 / 16 (五)",
       "basis": "quote",
       "evidence": [
         {
           "url": "https://prj.gamer.com.tw/acgaward/2027/anime_rule/",
-          "quote": "評審複審 2027 / 6 / 21 (一) ~ 2027 / 7 / 16 (五)"
+          "quote": "2027 / 6 / 21 (一) ~ 2027 / 7 / 16 (五)"
+        },
+        {
+          "url": "https://prj.gamer.com.tw/acgaward/2027/manga_rule/",
+          "quote": "2027 / 6 / 21 (一) ~ 2027 / 7 / 16 (五)"
+        },
+        {
+          "url": "https://prj.gamer.com.tw/acgaward/2027/game_rule/",
+          "quote": "2027 / 6 / 21 (一) ~ 2027 / 7 / 16 (五)"
         }
       ]
     },
     {
       "kind": "result_announcement",
-      "label": "頒獎典禮（當天公布得獎者）",
+      "label": "頒獎典禮，當天公布得獎者",
       "date": "2027-08-21",
       "time": null,
       "original": "2027 / 8 / 21 (六)",
@@ -120,29 +156,38 @@
       "evidence": [
         {
           "url": "https://prj.gamer.com.tw/acgaward/2027/anime_rule/",
-          "quote": "頒獎典禮 2027 / 8 / 21 (六)"
+          "quote": "2027 / 8 / 21 (六)"
         },
         {
-          "url": "https://prj.gamer.com.tw/acgaward/2027/anime_rule/",
-          "quote": "複審：由 評審委員 針對入圍作品進行討論，評選出得獎者，並在頒獎典禮當天公布。"
+          "url": "https://prj.gamer.com.tw/acgaward/2027/manga_rule/",
+          "quote": "2027 / 8 / 21 (六)"
+        },
+        {
+          "url": "https://prj.gamer.com.tw/acgaward/2027/game_rule/",
+          "quote": "2027 / 8 / 21 (六)"
         }
       ]
     }
   ],
   "deliverables": [
     {
-      "stage": "報名交件（動畫組）",
-      "what": "完整動畫影片原始檔，2D、3D 或停格/偶動畫，20 分鐘以內，MP4 或 MOV、1920 x 1080 以上",
+      "stage": "動畫組",
+      "what": "20 分鐘以內的 2D、3D 或停格／偶動畫完整影片原始檔（MP4、MOV，1920 x 1080 以上）",
       "how": "online"
     },
     {
-      "stage": "報名交件（漫畫組）",
-      "what": "原創單篇完整漫畫 JPG 檔：頁漫 17 - 46 頁（含封面）黑白稿，或條漫總格數 40 格以上",
+      "stage": "漫畫組（頁漫）",
+      "what": "17 至 46 頁（含封面）黑白單篇完整漫畫，A4 尺寸 300dpi JPG",
       "how": "online"
     },
     {
-      "stage": "報名交件（遊戲組）",
-      "what": "APP 遊戲（APK 或 Google Play 下載連結）或 PC 遊戲（Windows 主程式或 Steam 下載連結）",
+      "stage": "漫畫組（條漫）",
+      "what": "總格數 40 格以上、寬 800 px 的單篇完整條漫，300dpi JPG",
+      "how": "online"
+    },
+    {
+      "stage": "遊戲組",
+      "what": "Android 12 可玩的 APK 或 Google Play 連結，或 Windows 主程式或 Steam 連結，支援繁體中文或英文",
       "how": "online"
     }
   ],
@@ -185,40 +230,44 @@
     ]
   },
   "prizes": {
-    "text": "動畫組、漫畫組、遊戲組各設：金賞 50,000 元、銀賞 30,000 元、銅賞 10,000 元，皆附獎盃一座與巴哈姆特 GNN 專訪；優選賞紀念獎章一只；人氣賞（網友投票）5,000 元與紀念獎章一只；各組特別賞 4,000 元與獎盃一座。",
+    "text": "各組金賞獎金 50,000 元、銀賞 30,000 元、銅賞 10,000 元，皆附獎盃一座與巴哈姆特 GNN 專訪；優選賞紀念獎章；網友投票最高票者得人氣賞 5,000 元與紀念獎章；特別賞各 4,000 元與獎盃（動畫組最佳劇情、3D最佳美術、2D最佳美術、最佳動畫表演；漫畫組特別潛力獎、最佳美術、最佳劇情；遊戲組最佳創意、最佳3D美術、最佳2D美術）。獎項得由評審團決議從缺。",
     "basis": "quote",
     "evidence": [
       {
         "url": "https://prj.gamer.com.tw/acgaward/2027/anime_rule/",
-        "quote": "金賞 獎金 50,000 元整、獎盃一座、巴哈姆特 GNN 專訪"
+        "quote": "獎金 50,000 元整、獎盃一座、巴哈姆特 GNN 專訪"
       },
       {
         "url": "https://prj.gamer.com.tw/acgaward/2027/anime_rule/",
-        "quote": "銀賞 獎金 30,000 元整、獎盃一座、巴哈姆特 GNN 專訪"
+        "quote": "獎金 30,000 元整、獎盃一座、巴哈姆特 GNN 專訪"
       },
       {
         "url": "https://prj.gamer.com.tw/acgaward/2027/anime_rule/",
-        "quote": "銅賞 獎金 10,000 元整、獎盃一座、巴哈姆特 GNN 專訪"
+        "quote": "獎金 10,000 元整、獎盃一座、巴哈姆特 GNN 專訪"
       },
       {
         "url": "https://prj.gamer.com.tw/acgaward/2027/anime_rule/",
-        "quote": "優選賞 紀念獎章一只"
+        "quote": "獎金 5,000 元整、紀念獎章一只"
       },
       {
         "url": "https://prj.gamer.com.tw/acgaward/2027/anime_rule/",
-        "quote": "人氣賞 獎金 5,000 元整、紀念獎章一只"
-      },
-      {
-        "url": "https://prj.gamer.com.tw/acgaward/2027/anime_rule/",
-        "quote": "特別賞 - 最佳劇情/3D最佳美術/2D最佳美術/最佳動畫表演 獎金 4,000 元整、獎盃一座"
+        "quote": "特別賞 - 最佳劇情/3D最佳美術/2D最佳美術/最佳動畫表演"
       },
       {
         "url": "https://prj.gamer.com.tw/acgaward/2027/manga_rule/",
-        "quote": "特別賞 - 特別潛力獎/最佳美術/最佳劇情 獎金 4,000 元整、獎盃一座"
+        "quote": "特別賞 - 特別潛力獎/最佳美術/最佳劇情"
       },
       {
         "url": "https://prj.gamer.com.tw/acgaward/2027/game_rule/",
-        "quote": "特別賞 - 最佳創意/最佳3D美術/最佳2D美術 獎金 4,000 元整、獎盃一座"
+        "quote": "特別賞 - 最佳創意/最佳3D美術/最佳2D美術"
+      },
+      {
+        "url": "https://prj.gamer.com.tw/acgaward/2027/anime_rule/",
+        "quote": "獎金 4,000 元整、獎盃一座"
+      },
+      {
+        "url": "https://prj.gamer.com.tw/acgaward/2027/anime_rule/",
+        "quote": "以上獎項在特殊情況下，可由評審團決議從缺。"
       }
     ]
   },
@@ -232,11 +281,15 @@
       },
       {
         "url": "https://forum.gamer.com.tw/C.php?bsn=60550&snA=96&tnum=1",
-        "quote": "A：為維護賽事公平性及作品原創性，參賽作品禁止使用生成式 AI 產出美術、動畫、音樂、音效、劇情、對白、文字等創作素材。"
+        "quote": "參賽作品禁止使用生成式 AI 產出美術、動畫、音樂、音效、劇情、對白、文字等創作素材。"
       },
       {
         "url": "https://forum.gamer.com.tw/C.php?bsn=60550&snA=96&tnum=1",
-        "quote": "A：遊戲組允許使用 AI 輔助程式開發，包括程式除錯、技術諮詢、效能優化及部分程式碼撰寫等用途。"
+        "quote": "惟不涉及作品內容生成之輔助用途，如創意諮詢、劇情分析及作品評論等，不在此限，作品的實際創作內容仍須由參賽者自行完成。"
+      },
+      {
+        "url": "https://forum.gamer.com.tw/C.php?bsn=60550&snA=96&tnum=1",
+        "quote": "遊戲組允許使用 AI 輔助程式開發，包括程式除錯、技術諮詢、效能優化及部分程式碼撰寫等用途。"
       },
       {
         "url": "https://forum.gamer.com.tw/C.php?bsn=60550&snA=96&tnum=1",
@@ -266,8 +319,11 @@
     ],
     "registration": null
   },
-  "conflict": "三組參賽規則頁寫「禁止生成式 AI 技術之使用」；常見問題（2026/11/19 更新）則寫遊戲組允許使用 AI 輔助程式開發，須於報名時揭露。",
   "found_via": [
+    {
+      "name": "prj.gamer.com.tw",
+      "url": "https://prj.gamer.com.tw/acgaward/2027/"
+    },
     {
       "name": "forum.gamer.com.tw",
       "url": "https://forum.gamer.com.tw/C.php?bsn=60550&snA=96&tnum=1"
@@ -278,7 +334,7 @@
     }
   ],
   "verification": {
-    "last_verified": "2026-11-25",
+    "last_verified": "2026-11-26",
     "method": "dual",
     "unread": [],
     "note": null,
@@ -288,7 +344,8 @@
     ]
   },
   "first_seen": "2026-11-20",
-  "updated": "2026-11-24",
+  "updated": "2026-11-26",
+  "conflict": "三組參賽規則頁寫「禁止生成式 AI 技術之使用」；常見問題公告（2026/11/25 更新）則准許不涉及作品內容生成的輔助用途，並開放遊戲組使用 AI 輔助程式開發，須於報名時揭露。",
   "level": "verified",
   "url": "https://yuanaruru.com/tw-hs-contests/contests/2027-bahamut-acg-award/",
   "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2027-bahamut-acg-award.md"

@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "id": "2026-nfu-student-project",
-  "title": "2026 全國大專暨高中職學生專題製作競賽",
+  "title": "2026全國大專暨高中職學生專題製作競賽暨成果展示",
   "edition": "2026",
-  "summary": "經學校推薦的高中職、大學與研究所學生，以原創的實務專題研究作品參賽。",
+  "summary": "全國高中職與大專校院學生經學校推薦，以實務專題研究成果參賽，分組分類評選名次。",
   "organizers": [
     {
       "name": "國立虎尾科技大學",
@@ -32,20 +32,16 @@
     "basis": "quote",
     "evidence": [
       {
-        "url": "https://www.hccvs.hc.edu.tw/ischool/wr/file/2/26252/d71ffe71fd2b665466b8ec41ed77ef05.pdf",
-        "quote": "（一）專題製作成果展，分為高中職組、大學組及研究所組。"
+        "url": "https://www.hgsh.hc.edu.tw/news/2026%e5%85%a8%e5%9c%8b%e5%a4%a7%e5%b0%88%e6%9a%a8%e9%ab%98%e4%b8%ad%e8%81%b7%e5%ad%b8%e7%94%9f%e5%b0%88%e9%a1%8c%e8%a3%bd%e4%bd%9c%e7%ab%b6%e8%b3%bd-%e6%9a%a8%e6%88%90%e6%9e%9c%e5%b1%95%e7%a4%ba/",
+        "quote": "二、參賽對象：全國公私立大專校院及高中職之全職在學學生。"
       },
       {
-        "url": "https://www.hccvs.hc.edu.tw/ischool/wr/file/2/26252/d71ffe71fd2b665466b8ec41ed77ef05.pdf",
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/6/競賽實施辦法.pdf",
         "quote": "1. 高中職各校自行擇優3件優良專題作品參加(不可跨校組隊)，需由統一單位核章確認，未核章送件者，主辦單位得拒絕收件。"
       },
       {
-        "url": "https://www.hccvs.hc.edu.tw/ischool/wr/file/2/26252/d71ffe71fd2b665466b8ec41ed77ef05.pdf",
-        "quote": "2. 校外參加作品：由各校自行篩選擇優推薦大學部及研究所至多2件優良專題作品參加(不可跨校組隊)。"
-      },
-      {
-        "url": "https://www.hccvs.hc.edu.tw/ischool/wr/file/2/26252/d71ffe71fd2b665466b8ec41ed77ef05.pdf",
-        "quote": "3. 參賽組員必需具有學籍之學生，已畢業學生不得參賽或為參賽組員。"
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/6/競賽實施辦法.pdf",
+        "quote": "（一）專題製作成果展，分為高中職組、大學組及研究所組。"
       }
     ]
   },
@@ -59,39 +55,49 @@
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://www.hccvs.hc.edu.tw/ischool/wr/file/2/26252/d71ffe71fd2b665466b8ec41ed77ef05.pdf",
+          "url": "https://www.hgsh.hc.edu.tw/view-doc/6/競賽實施辦法.pdf",
           "quote": "1. 請於115年10月07日13:00前填寫並備妥相關報名文件，依序排列後，掃描於同一份檔案(PDF 檔)，於報名系統-線上繳交。"
         }
       ]
     },
     {
       "kind": "shortlist_announcement",
-      "label": "初審結果於此日後公告於國立虎尾科技大學研發處網站",
+      "label": "初審結果公告（10月28日後）",
       "date": "2026-10-28",
       "time": null,
       "original": "10月28日後",
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://www.hccvs.hc.edu.tw/ischool/wr/file/2/26252/d71ffe71fd2b665466b8ec41ed77ef05.pdf",
-          "quote": "(初審結果於10月28日後公告於國立虎尾科技大學研發處網站-證照競賽區)"
+          "url": "https://www.hgsh.hc.edu.tw/view-doc/6/競賽實施辦法.pdf",
+          "quote": "1. 初賽報名截止：115年10月07日13:00前。(初審結果於10月28日後公告於國立虎尾科技大學研發處網站-證照競賽區)。"
         }
       ]
     },
     {
       "kind": "final_event",
-      "label": "決賽實體作品現場展示、評審與頒獎",
+      "label": "決賽：實體作品現場展示與評審",
       "date": "2026-11-19",
       "time": "09:00",
       "original": "115年11月19日(星期四) 上午9時至下午16時",
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://www.hccvs.hc.edu.tw/ischool/wr/file/2/26252/d71ffe71fd2b665466b8ec41ed77ef05.pdf",
+          "url": "https://www.hgsh.hc.edu.tw/view-doc/6/競賽實施辦法.pdf",
           "quote": "二、決賽期程：115年11月19日(星期四) 上午9時至下午16時"
-        },
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "評審後頒獎",
+      "date": "2026-11-19",
+      "time": null,
+      "original": "115年11月19日",
+      "basis": "quote",
+      "evidence": [
         {
-          "url": "https://www.hccvs.hc.edu.tw/ischool/wr/file/2/26252/d71ffe71fd2b665466b8ec41ed77ef05.pdf",
+          "url": "https://www.hgsh.hc.edu.tw/view-doc/6/競賽實施辦法.pdf",
           "quote": "本次競賽決賽於115年11月19日上午9時至下午16時舉辦實體作品現場展示與評審後頒獎"
         }
       ]
@@ -100,12 +106,12 @@
   "deliverables": [
     {
       "stage": "初賽",
-      "what": "報名文件（附件一至五）與研究報告書（封面 1 頁、摘要 1 頁、內文 10 頁內）掃描合併為一份 PDF",
+      "what": "報名文件（封面、推薦總表、參賽同意書、個資同意書、學術倫理切結書）與研究報告書（封面1頁、摘要1頁、內文10頁以內），合併為一份 PDF",
       "how": "online"
     },
     {
       "stage": "決賽",
-      "what": "實體作品現場展示、海報與現場訪談",
+      "what": "實體作品現場展示（攤位與海報），接受評審現場訪談",
       "how": "onsite"
     }
   ],
@@ -115,11 +121,11 @@
     "basis": "quote",
     "evidence": [
       {
-        "url": "https://www.hccvs.hc.edu.tw/ischool/wr/file/2/26252/d71ffe71fd2b665466b8ec41ed77ef05.pdf",
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/6/競賽實施辦法.pdf",
         "quote": "2. 決賽：於115年11月19日在本校舉辦實體作品現場展示。競賽採報告書電子檔案審查、實物展示與現場訪談，綜合評選方式進行。"
       },
       {
-        "url": "https://www.hccvs.hc.edu.tw/ischool/wr/file/2/26252/d71ffe71fd2b665466b8ec41ed77ef05.pdf",
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/6/競賽實施辦法.pdf",
         "quote": "三、參展地點：四期草坪"
       }
     ]
@@ -130,33 +136,40 @@
     "basis": "absent",
     "evidence": [
       {
-        "url": "https://www.hccvs.hc.edu.tw/ischool/wr/file/2/26252/d71ffe71fd2b665466b8ec41ed77ef05.pdf"
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/6/競賽實施辦法.pdf"
+      },
+      {
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/6/獎金分配表.pdf"
       }
     ]
   },
   "prizes": {
-    "text": "高中職組各類別第一、二、三名各一組，頒發獎金及獎狀，佳作若干組頒發獎狀；大學組各類別第一名一組、第二名與第三名各兩組，頒發獎金及獎狀，佳作若干組頒發獎狀；研究所組各類別優等一組，頒發獎金及獎狀。",
+    "text": "高中職組各類別（工程、電資及AI應用、管理、文理）：第一名、第二名、第三名各 1 組，獎金每組 6,000 元、5,000 元、3,000 元，並頒獎狀；佳作頒獎狀，校外作品不發獎金。大學組各類別第一名 8,000 元、第二名 6,000 元、第三名 4,000 元；研究所組各類別優等 7,000 元。",
     "basis": "quote",
     "evidence": [
       {
-        "url": "https://www.hccvs.hc.edu.tw/ischool/wr/file/2/26252/d71ffe71fd2b665466b8ec41ed77ef05.pdf",
-        "quote": "（一）專題製作成果展，分為高中職組、大學組及研究所組。"
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/6/競賽實施辦法.pdf",
+        "quote": "各類別遴選一組頒發獎金及獎狀"
       },
       {
-        "url": "https://www.hccvs.hc.edu.tw/ischool/wr/file/2/26252/d71ffe71fd2b665466b8ec41ed77ef05.pdf",
-        "quote": "第一名 \n各類別遴選一組頒發獎金及獎狀"
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/6/獎金分配表.pdf",
+        "quote": "高中職組 工程 電資及AI 應用 管理 文理 組數 獎金 第一名 1 1 1 1 4 6000/組"
       },
       {
-        "url": "https://www.hccvs.hc.edu.tw/ischool/wr/file/2/26252/d71ffe71fd2b665466b8ec41ed77ef05.pdf",
-        "quote": "第二名 \n各類別遴選兩組頒發獎金及獎狀"
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/6/獎金分配表.pdf",
+        "quote": "第二名 1 1 1 1 4 5000/組 第三名 1 1 1 1 4 3000/組"
       },
       {
-        "url": "https://www.hccvs.hc.edu.tw/ischool/wr/file/2/26252/d71ffe71fd2b665466b8ec41ed77ef05.pdf",
-        "quote": "佳作 \n若干組頒發獎狀"
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/6/獎金分配表.pdf",
+        "quote": "*本校參賽作品獲選佳作，酌予核發獎金。校外參賽作品獲選佳作，僅頒發獎狀，不予以獎金補助。"
       },
       {
-        "url": "https://www.hccvs.hc.edu.tw/ischool/wr/file/2/26252/d71ffe71fd2b665466b8ec41ed77ef05.pdf",
-        "quote": "優等 \n各類別遴選一組頒發獎金及獎狀"
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/6/獎金分配表.pdf",
+        "quote": "大學組 工程 電資及AI 應用 管理 文理 組數 獎金 第一名 1 1 1 1 4 8000/組 第二名 2 2 2 2 8 6000/組 第三名 2 2 2 2 8 4000/組"
+      },
+      {
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/6/獎金分配表.pdf",
+        "quote": "研究所組 工程 電資及AI 應用 管理 文理 組數 獎金 優等 1 1 1 1 4 7000/組"
       }
     ]
   },
@@ -165,40 +178,74 @@
     "basis": "absent",
     "evidence": [
       {
-        "url": "https://www.hccvs.hc.edu.tw/ischool/wr/file/2/26252/d71ffe71fd2b665466b8ec41ed77ef05.pdf"
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/6/競賽實施辦法.pdf"
+      },
+      {
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/6/獎金分配表.pdf"
       }
     ]
   },
   "links": {
-    "official": null,
+    "official": "https://ord.nfu.edu.tw/zh_tw/researchprojects/keyrdtalentproject/%F0%9F%93%A2%E6%9B%B8%E5%AF%A9%E7%B5%90%E6%9E%9C%E9%80%9A%E7%9F%A5-%E5%9C%8B%E7%AB%8B%E8%99%8E%E5%B0%BE%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8-2026-%E5%B9%B4%E5%85%A8%E5%9C%8B%E5%A4%A7%E5%B0%88%E5%8F%8A%E9%AB%98%E4%B8%AD%E8%81%B7%E5%AD%B8%E7%94%9F%E5%B0%88%E9%A1%8C%E7%AB%B6%E8%B3%BD-51245885",
     "rules": [
       {
-        "title": "2026 全國大專暨高中職學生專題製作競賽實施方法",
-        "url": "https://www.hccvs.hc.edu.tw/ischool/wr/file/2/26252/d71ffe71fd2b665466b8ec41ed77ef05.pdf"
+        "title": "競賽實施辦法",
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/6/競賽實施辦法.pdf"
+      },
+      {
+        "title": "獎金分配表",
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/6/獎金分配表.pdf"
       }
     ],
     "registration": "https://forms.gle/uusf7zUsoRu26RLv6"
   },
   "found_via": [
     {
-      "name": "新竹高商 消息公佈欄",
-      "url": "https://www.hccvs.hc.edu.tw/ischool/public/news_view/show.php?nid=26252"
+      "name": "forms.gle",
+      "url": "https://forms.gle/uusf7zUsoRu26RLv6"
+    },
+    {
+      "name": "潮州高中 學生課外活動",
+      "url": "https://www.ccsh.ptc.edu.tw/data.php?id=19010&tpl=5"
+    },
+    {
+      "name": "新竹女中 活動研習",
+      "url": "https://www.hgsh.hc.edu.tw/news/2026%e5%85%a8%e5%9c%8b%e5%a4%a7%e5%b0%88%e6%9a%a8%e9%ab%98%e4%b8%ad%e8%81%b7%e5%ad%b8%e7%94%9f%e5%b0%88%e9%a1%8c%e8%a3%bd%e4%bd%9c%e7%ab%b6%e8%b3%bd-%e6%9a%a8%e6%88%90%e6%9e%9c%e5%b1%95%e7%a4%ba/"
+    },
+    {
+      "name": "南投高中 最新消息",
+      "url": "https://www.ntsh.ntct.edu.tw/ischool/public/news_view/show.php?nid=22722"
+    },
+    {
+      "name": "大同高中 學生競賽活動",
+      "url": "https://www.ttsh.tp.edu.tw/news/%e5%9c%8b%e7%ab%8b%e8%99%8e%e5%b0%be%e7%a7%91%e6%8a%80%e5%a4%a7%e5%ad%b8%e8%be%a6%e7%90%86%e3%80%8c2026%e5%85%a8%e5%9c%8b%e5%a4%a7%e5%b0%88%e6%9a%a8%e9%ab%98%e4%b8%ad%e8%81%b7%e5%ad%b8%e7%94%9f/"
+    },
+    {
+      "name": "大里高中 校外活動與競賽",
+      "url": "https://dlsh.tc.edu.tw/p/406-1068-629077,r2145.php?Lang=zh-tw"
+    },
+    {
+      "name": "武陵高中 校外競賽",
+      "url": "http://www.wlsh.tyc.edu.tw/p/406-1000-43194,r83.php?Lang=zh-tw"
+    },
+    {
+      "name": "苗栗高中 學生校外營隊、活動、比賽",
+      "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=27890"
+    },
+    {
+      "name": "大里高中 校外活動與競賽",
+      "url": "https://dlsh.tc.edu.tw/p/406-1068-629077,r2145.php"
     }
   ],
   "verification": {
-    "last_verified": "2026-11-25",
+    "last_verified": "2026-11-26",
     "method": "single",
     "unread": [
-      "報名資料封面（附件一）",
-      "報名資料推薦總表（附件二）",
-      "參賽同意書（附件三）",
-      "個資同意書（附件四）",
-      "學術倫理切結書（附件五）",
-      "研究報告書格式（附件六、附件七）",
-      "展示攤位佈置示意圖及海報規格（附件八）",
-      "場地佈置要點（附件九）",
-      "參展地點配置圖（附件十）",
-      "議程表（附件十一）"
+      "報名表件（附件一至附件七）",
+      "附件八 攤位佈置示意圖及海報規格",
+      "附件九 場地佈置要點",
+      "附件十 參展地點配置圖",
+      "附件十一 議程表"
     ],
     "note": null,
     "readers": [
@@ -206,7 +253,7 @@
     ]
   },
   "first_seen": "2026-11-24",
-  "updated": "2026-11-25",
+  "updated": "2026-11-26",
   "level": "checked",
   "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-nfu-student-project/",
   "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-nfu-student-project.md"

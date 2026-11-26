@@ -3,7 +3,7 @@ title: "AI+P煉戰素養Challenge挑戰賽"
 description: "新北市專業群科高中生個人應試國語文、英語文或數學素養題，依成績錄取名次。"
 appliesTo: "115 學年度 這一屆"
 caveat: "須由學校推薦或薦送，學生不能自行報名。實施計畫限本市（新北市）學校之專業群科學生參賽；鶯歌工商最新消息頁另寫「其他縣市欲報名的學生請至所屬學校單位報名參加」。"
-lastVerified: 2026-11-25
+lastVerified: 2026-11-26
 kind: "contest"
 deadline: "2027-01-04"
 sources:

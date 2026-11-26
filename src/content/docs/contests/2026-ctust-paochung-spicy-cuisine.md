@@ -3,7 +3,7 @@ title: "2026寶之川－麻辣創意健康料理大賽"
 description: "廚師、學生或美食愛好者以寶川甜辣醬與豆酥球設計西式熱菜或即食包，書審入圍者到中臺科大現場評審。"
 appliesTo: "2026 第 11 屆 這一屆"
 caveat: "高中職學生與大專生或社會人士同組評比。中臺科技大學函（115年10月7日）的報名網址為 https://reurl.cc/EYD9YR，競賽簡章活動期程表的線上報名網址為 https://reurl.cc/MW9O4k。競賽簡章海報的決賽日期寫「2025年12月26日」，簡章活動期程表與函皆寫115年12月26日。"
-lastVerified: 2026-11-25
+lastVerified: 2026-11-26
 kind: "contest"
 deadline: "2026-12-04"
 sources:

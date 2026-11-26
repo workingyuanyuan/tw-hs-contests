@@ -1,0 +1,198 @@
+{
+  "schema": 1,
+  "id": "2027-dyu-cg-future-star",
+  "title": "2027葉總繪盃全國高中職電腦繪圖競賽之未來之星",
+  "edition": "2027",
+  "summary": "高中職學生個人創作主題不限的電腦繪圖插畫，每人最多投稿兩件。",
+  "organizers": [
+    {
+      "name": "大葉大學多媒體數位內容學士學位學程",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "美術",
+    "設計"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職"
+    ],
+    "division": "hs_only",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": 1,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28840/%E3%80%8C2027%E8%91%89%E7%B8%BD%E7%B9%AA%E7%9B%83%E5%85%A8%E5%9C%8B%E9%AB%98%E4%B8%AD%E8%81%B7%E9%9B%BB%E8%85%A6%E7%B9%AA%E5%9C%96%E7%AB%B6%E8%B3%BD%E4%B9%8B%E6%9C%AA%E4%BE%86%E4%B9%8B%E6%98%9F%E3%80%8D%E7%AB%B6%E8%B3%BD%E6%B5%B7%E5%A0%B1.pdf",
+        "quote": "1.限高中職學生報名參加，一人一組，創作主題不限。"
+      },
+      {
+        "url": "https://www.tlsh.ylc.edu.tw/2026/11/25/69555/",
+        "quote": "本校多媒體數位內容學士學位學程與國內眾多廠商，針對全國高中職舉辦旨揭CG繪圖大賽"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "other",
+      "label": "開始收件",
+      "date": "2026-12-01",
+      "time": null,
+      "original": "115年12月1日(星期二)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.ttsh.tp.edu.tw/news/%e5%a4%a7%e8%91%89%e5%a4%a7%e5%ad%b8%e8%88%89%e8%be%a6%e3%80%8c2027%e8%91%89%e7%b8%bd%e7%b9%aa%e7%9b%83%e5%85%a8%e5%9c%8b%e9%ab%98%e4%b8%ad%e8%81%b7%e9%9b%bb%e8%85%a6%e7%b9%aa%e5%9c%96%e7%ab%b6/",
+          "quote": "(一)收件期間：115年12月1日(星期二)至116年3月18日(星期四)下午4時止。"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "收件截止",
+      "date": "2027-03-18",
+      "time": "16:00",
+      "original": "116年3月18日(星期四)下午4時止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.ttsh.tp.edu.tw/news/%e5%a4%a7%e8%91%89%e5%a4%a7%e5%ad%b8%e8%88%89%e8%be%a6%e3%80%8c2027%e8%91%89%e7%b8%bd%e7%b9%aa%e7%9b%83%e5%85%a8%e5%9c%8b%e9%ab%98%e4%b8%ad%e8%81%b7%e9%9b%bb%e8%85%a6%e7%b9%aa%e5%9c%96%e7%ab%b6/",
+          "quote": "(一)收件期間：115年12月1日(星期二)至116年3月18日(星期四)下午4時止。"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "公布得獎結果",
+      "date": "2027-03-25",
+      "time": null,
+      "original": "116年3月25日(星期四)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.ttsh.tp.edu.tw/news/%e5%a4%a7%e8%91%89%e5%a4%a7%e5%ad%b8%e8%88%89%e8%be%a6%e3%80%8c2027%e8%91%89%e7%b8%bd%e7%b9%aa%e7%9b%83%e5%85%a8%e5%9c%8b%e9%ab%98%e4%b8%ad%e8%81%b7%e9%9b%bb%e8%85%a6%e7%b9%aa%e5%9c%96%e7%ab%b6/",
+          "quote": "(二)公布日期：116年3月25日(星期四)。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "投稿",
+      "what": "A4（210×297mm，300dpi）JPG 圖檔，橫直不拘；須為國內外未曾發表過之個人作品",
+      "how": "online"
+    }
+  ],
+  "attendance": {
+    "value": "unknown",
+    "where": null,
+    "basis": "unread",
+    "evidence": []
+  },
+  "fee": {
+    "value": "unknown",
+    "amount": null,
+    "basis": "unread",
+    "evidence": []
+  },
+  "prizes": {
+    "text": "第一名獎金 8,000 元、第二名獎金 5,000 元、第三名獎金 3,000 元；佳作二名，獎品 Wacom CTL-4100（或同等值之物品）。得獎者未出席頒獎活動且未委託代理人出席者，得取消得獎資格。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28840/%E3%80%8C2027%E8%91%89%E7%B8%BD%E7%B9%AA%E7%9B%83%E5%85%A8%E5%9C%8B%E9%AB%98%E4%B8%AD%E8%81%B7%E9%9B%BB%E8%85%A6%E7%B9%AA%E5%9C%96%E7%AB%B6%E8%B3%BD%E4%B9%8B%E6%9C%AA%E4%BE%86%E4%B9%8B%E6%98%9F%E3%80%8D%E7%AB%B6%E8%B3%BD%E6%B5%B7%E5%A0%B1.pdf",
+        "quote": "獎金 8,000元"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28840/%E3%80%8C2027%E8%91%89%E7%B8%BD%E7%B9%AA%E7%9B%83%E5%85%A8%E5%9C%8B%E9%AB%98%E4%B8%AD%E8%81%B7%E9%9B%BB%E8%85%A6%E7%B9%AA%E5%9C%96%E7%AB%B6%E8%B3%BD%E4%B9%8B%E6%9C%AA%E4%BE%86%E4%B9%8B%E6%98%9F%E3%80%8D%E7%AB%B6%E8%B3%BD%E6%B5%B7%E5%A0%B1.pdf",
+        "quote": "獎金 5,000 元"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28840/%E3%80%8C2027%E8%91%89%E7%B8%BD%E7%B9%AA%E7%9B%83%E5%85%A8%E5%9C%8B%E9%AB%98%E4%B8%AD%E8%81%B7%E9%9B%BB%E8%85%A6%E7%B9%AA%E5%9C%96%E7%AB%B6%E8%B3%BD%E4%B9%8B%E6%9C%AA%E4%BE%86%E4%B9%8B%E6%98%9F%E3%80%8D%E7%AB%B6%E8%B3%BD%E6%B5%B7%E5%A0%B1.pdf",
+        "quote": "獎金 3,000 元"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28840/%E3%80%8C2027%E8%91%89%E7%B8%BD%E7%B9%AA%E7%9B%83%E5%85%A8%E5%9C%8B%E9%AB%98%E4%B8%AD%E8%81%B7%E9%9B%BB%E8%85%A6%E7%B9%AA%E5%9C%96%E7%AB%B6%E8%B3%BD%E4%B9%8B%E6%9C%AA%E4%BE%86%E4%B9%8B%E6%98%9F%E3%80%8D%E7%AB%B6%E8%B3%BD%E6%B5%B7%E5%A0%B1.pdf",
+        "quote": "二名Wacom CTL-4100(或同等值之物品)"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28840/%E3%80%8C2027%E8%91%89%E7%B8%BD%E7%B9%AA%E7%9B%83%E5%85%A8%E5%9C%8B%E9%AB%98%E4%B8%AD%E8%81%B7%E9%9B%BB%E8%85%A6%E7%B9%AA%E5%9C%96%E7%AB%B6%E8%B3%BD%E4%B9%8B%E6%9C%AA%E4%BE%86%E4%B9%8B%E6%98%9F%E3%80%8D%E7%AB%B6%E8%B3%BD%E6%B5%B7%E5%A0%B1.pdf",
+        "quote": "4.得獎者未出席主辦單位舉辦之頒獎活動且未委託代理人出席者，得取消得獎資格。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "banned",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28840/%E3%80%8C2027%E8%91%89%E7%B8%BD%E7%B9%AA%E7%9B%83%E5%85%A8%E5%9C%8B%E9%AB%98%E4%B8%AD%E8%81%B7%E9%9B%BB%E8%85%A6%E7%B9%AA%E5%9C%96%E7%AB%B6%E8%B3%BD%E4%B9%8B%E6%9C%AA%E4%BE%86%E4%B9%8B%E6%98%9F%E3%80%8D%E7%AB%B6%E8%B3%BD%E6%B5%B7%E5%A0%B1.pdf",
+        "quote": "不得使用AI相關技術輔助設計，"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://cg.dyu.edu.tw/",
+    "rules": [
+      {
+        "title": "競賽海報",
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28840/%E3%80%8C2027%E8%91%89%E7%B8%BD%E7%B9%AA%E7%9B%83%E5%85%A8%E5%9C%8B%E9%AB%98%E4%B8%AD%E8%81%B7%E9%9B%BB%E8%85%A6%E7%B9%AA%E5%9C%96%E7%AB%B6%E8%B3%BD%E4%B9%8B%E6%9C%AA%E4%BE%86%E4%B9%8B%E6%98%9F%E3%80%8D%E7%AB%B6%E8%B3%BD%E6%B5%B7%E5%A0%B1.pdf"
+      },
+      {
+        "title": "大葉大學競賽公文",
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28840/%E3%80%8C2027%E8%91%89%E7%B8%BD%E7%B9%AA%E7%9B%83%E5%85%A8%E5%9C%8B%E9%AB%98%E4%B8%AD%E8%81%B7%E9%9B%BB%E8%85%A6%E7%B9%AA%E5%9C%96%E7%AB%B6%E8%B3%BD%E4%B9%8B%E6%9C%AA%E4%BE%86%E4%B9%8B%E6%98%9F%E3%80%8D%E7%AB%B6%E8%B3%BD%E5%85%AC%E6%96%87.pdf"
+      }
+    ],
+    "registration": null
+  },
+  "found_via": [
+    {
+      "name": "大同高中 學生競賽活動",
+      "url": "https://www.ttsh.tp.edu.tw/news/%e5%a4%a7%e8%91%89%e5%a4%a7%e5%ad%b8%e8%88%89%e8%be%a6%e3%80%8c2027%e8%91%89%e7%b8%bd%e7%b9%aa%e7%9b%83%e5%85%a8%e5%9c%8b%e9%ab%98%e4%b8%ad%e8%81%b7%e9%9b%bb%e8%85%a6%e7%b9%aa%e5%9c%96%e7%ab%b6/"
+    },
+    {
+      "name": "苗栗高中 學生校外營隊、活動、比賽",
+      "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=28840"
+    },
+    {
+      "name": "三重商工 學生事務公告",
+      "url": "https://www.scvs.ntpc.edu.tw/p/406-1000-16092,r28.php"
+    },
+    {
+      "name": "新竹高商 消息公佈欄",
+      "url": "https://www.hccvs.hc.edu.tw/ischool/public/news_view/show.php?nid=26781"
+    },
+    {
+      "name": "斗六高中 營隊研習競賽",
+      "url": "https://www.tlsh.ylc.edu.tw/2026/11/25/69555/"
+    },
+    {
+      "name": "臺南女中 學生競賽",
+      "url": "https://www.tngs.tn.edu.tw/2026/11/25/%e5%a4%a7%e8%91%89%e5%a4%a7%e5%ad%b8%e8%88%89%e8%be%a6%e3%80%8c2027%e8%91%89%e7%b8%bd%e7%b9%aa%e7%9b%83%e5%85%a8%e5%9c%8b%e9%ab%98%e4%b8%ad%e8%81%b7%e9%9b%bb%e8%85%a6%e7%b9%aa%e5%9c%96%e7%ab%b6/"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-26",
+    "method": "dual",
+    "unread": [
+      "大葉大學競賽活動頁面 https://cg.dyu.edu.tw/（報名資格、競賽規則及比賽獎項）"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5",
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-25",
+  "updated": "2026-11-26",
+  "level": "verified",
+  "url": "https://yuanaruru.com/tw-hs-contests/contests/2027-dyu-cg-future-star/",
+  "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2027-dyu-cg-future-star.md"
+}

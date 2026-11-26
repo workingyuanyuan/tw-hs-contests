@@ -1,0 +1,260 @@
+{
+  "schema": 1,
+  "id": "2026-ntnu-gosteam-tech-star",
+  "title": "2026 GoSTEAM科技之星競賽",
+  "edition": "2026",
+  "summary": "全國高中職學生同校組隊，設計製作以智慧啟動的多結構滾珠機械作品參賽。",
+  "organizers": [
+    {
+      "name": "國立臺灣師範大學",
+      "role": "主辦"
+    },
+    {
+      "name": "中華創意發展協會",
+      "role": "協辦"
+    },
+    {
+      "name": "教育部國民及學前教育署",
+      "role": "指導"
+    }
+  ],
+  "categories": [
+    "工程與製造",
+    "資訊與 AI"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職"
+    ],
+    "division": "hs_only",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": null,
+    "team_max": 8,
+    "teacher": "optional",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27956/%E3%80%8C2026GoSTEAM%E7%A7%91%E6%8A%80%E4%B9%8B%E6%98%9F%E7%AB%B6%E8%B3%BD%E3%80%8D1.pdf",
+        "quote": "參賽資格：參賽學生須為臺灣高級中等學校在學學生。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27956/%E3%80%8C2026GoSTEAM%E7%A7%91%E6%8A%80%E4%B9%8B%E6%98%9F%E7%AB%B6%E8%B3%BD%E3%80%8D1.pdf",
+        "quote": "報名組別：普高組、技高組。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27956/%E3%80%8C2026GoSTEAM%E7%A7%91%E6%8A%80%E4%B9%8B%E6%98%9F%E7%AB%B6%E8%B3%BD%E3%80%8D1.pdf",
+        "quote": "本競賽採分組分隊競賽方式（每隊最多8 人），可混合組隊（不分年級及科別），所組團隊其參賽者需就讀同所學校"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27956/%E3%80%8C2026GoSTEAM%E7%A7%91%E6%8A%80%E4%B9%8B%E6%98%9F%E7%AB%B6%E8%B3%BD%E3%80%8D1.pdf",
+        "quote": "指導教師：本競賽單一隊伍至多可有3 位指導教師(可跨校)"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27956/%E3%80%8C2026GoSTEAM%E7%A7%91%E6%8A%80%E4%B9%8B%E6%98%9F%E7%AB%B6%E8%B3%BD%E3%80%8D1.pdf",
+        "quote": "參賽者須於活動官網(http://isteam.ccda.org.tw/Client/Home)申請會員後步驟如下："
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "網路報名截止",
+      "date": "2026-10-12",
+      "time": "17:00",
+      "original": "2026 年10 月12 日(星期一)下午5 時止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27956/%E3%80%8C2026GoSTEAM%E7%A7%91%E6%8A%80%E4%B9%8B%E6%98%9F%E7%AB%B6%E8%B3%BD%E3%80%8D1.pdf",
+          "quote": "報名期間：自2026 年09 月14 日(星期一)至2026 年10 月12 日(星期一)下午5 時止。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "報名資料審核開始",
+      "date": "2026-10-13",
+      "time": null,
+      "original": "10/13 開始",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27956/%E3%80%8C2026GoSTEAM%E7%A7%91%E6%8A%80%E4%B9%8B%E6%98%9F%E7%AB%B6%E8%B3%BD%E3%80%8D1.pdf",
+          "quote": "資料審核 10/13 開始"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "公告參賽隊伍名單",
+      "date": "2026-10-15",
+      "time": null,
+      "original": "10/15(四)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27956/%E3%80%8C2026GoSTEAM%E7%A7%91%E6%8A%80%E4%B9%8B%E6%98%9F%E7%AB%B6%E8%B3%BD%E3%80%8D1.pdf",
+          "quote": "公告名單 10/15(四) 公告隊伍名單"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "競賽與頒獎典禮",
+      "date": "2026-11-21",
+      "time": null,
+      "original": "2026年11月21日(星期六)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27956/%E3%80%8C2026GoSTEAM%E7%A7%91%E6%8A%80%E4%B9%8B%E6%98%9F%E7%AB%B6%E8%B3%BD%E3%80%8D1.pdf",
+          "quote": "競賽日期與地點：2026年11月21日(星期六)於新北市立三民高級中學逸仙堂活動中心辦理。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名",
+      "what": "網路報名，上傳知情同意書、作品授權書、作品創意說明書與得獎作品之著作財產授權書",
+      "how": "online"
+    },
+    {
+      "stage": "賽前 7 日前",
+      "what": "創新歷程檔案（1080p 影片）及機構製圖檔案（PDF），寄至活動信箱",
+      "how": "online"
+    },
+    {
+      "stage": "競賽當天",
+      "what": "攜帶預先雷切、3D 列印或手鋸之零件現場組裝作品，90 秒作動展演，每隊 2 分鐘解說與 1 分鐘評審問答，並繳交自評表",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "新北市立三民高級中學逸仙堂活動中心",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27956/%E3%80%8C2026GoSTEAM%E7%A7%91%E6%8A%80%E4%B9%8B%E6%98%9F%E7%AB%B6%E8%B3%BD%E3%80%8D1.pdf",
+        "quote": "宗旨：透過團隊合作，各隊伍須當場組裝一組多結構滾珠機械作品進行競賽與評比。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27956/%E3%80%8C2026GoSTEAM%E7%A7%91%E6%8A%80%E4%B9%8B%E6%98%9F%E7%AB%B6%E8%B3%BD%E3%80%8D1.pdf",
+        "quote": "競賽日期與地點：2026年11月21日(星期六)於新北市立三民高級中學逸仙堂活動中心辦理。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27956/%E3%80%8C2026GoSTEAM%E7%A7%91%E6%8A%80%E4%B9%8B%E6%98%9F%E7%AB%B6%E8%B3%BD%E3%80%8D1.pdf",
+        "quote": "報名費：本賽事免繳報名費。"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "普高組、技高組總積分冠軍 1 隊獎金新臺幣 20,000 元、亞軍 2 隊獎金新臺幣 10,000 元、季軍 3 隊獎金新臺幣 5,000 元，皆附國民及學前教育署獎狀；另有創新歷程檔案創作第 1 至 3 名、科學原理創新應用獎、AI 應用創意獎、優勝各 6 隊及佳作，頒國立臺灣師範大學科技與工程學院獎狀（申請中）；未得獎者獲頒參賽證明。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27956/%E3%80%8C2026GoSTEAM%E7%A7%91%E6%8A%80%E4%B9%8B%E6%98%9F%E7%AB%B6%E8%B3%BD%E3%80%8D1.pdf",
+        "quote": "冠軍 1 隊 國民及學前教育署獎狀 新臺幣20,000 元整(學生領取)"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27956/%E3%80%8C2026GoSTEAM%E7%A7%91%E6%8A%80%E4%B9%8B%E6%98%9F%E7%AB%B6%E8%B3%BD%E3%80%8D1.pdf",
+        "quote": "亞軍 2 隊 國民及學前教育署獎狀 新臺幣10,000 元整(學生領取)"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27956/%E3%80%8C2026GoSTEAM%E7%A7%91%E6%8A%80%E4%B9%8B%E6%98%9F%E7%AB%B6%E8%B3%BD%E3%80%8D1.pdf",
+        "quote": "季軍 3 隊 國民及學前教育署獎狀 新臺幣5,000 元整(學生領取)"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27956/%E3%80%8C2026GoSTEAM%E7%A7%91%E6%8A%80%E4%B9%8B%E6%98%9F%E7%AB%B6%E8%B3%BD%E3%80%8D1.pdf",
+        "quote": "公布各級各組冠、亞、季軍得獎作品。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27956/%E3%80%8C2026GoSTEAM%E7%A7%91%E6%8A%80%E4%B9%8B%E6%98%9F%E7%AB%B6%E8%B3%BD%E3%80%8D1.pdf",
+        "quote": "AI 應用創意獎 特別獎 各組各1 隊"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27956/%E3%80%8C2026GoSTEAM%E7%A7%91%E6%8A%80%E4%B9%8B%E6%98%9F%E7%AB%B6%E8%B3%BD%E3%80%8D1.pdf",
+        "quote": "參賽證明：未得到以上獎項或未晉級之參賽者與指導老師，皆將獲頒國立臺灣師範大學參賽證明(個人)。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "allowed",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27956/%E3%80%8C2026GoSTEAM%E7%A7%91%E6%8A%80%E4%B9%8B%E6%98%9F%E7%AB%B6%E8%B3%BD%E3%80%8D1.pdf",
+        "quote": "AI 應用 0%(無成功) 5%(有成功) 成績計算：加分項目。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27956/%E3%80%8C2026GoSTEAM%E7%A7%91%E6%8A%80%E4%B9%8B%E6%98%9F%E7%AB%B6%E8%B3%BD%E3%80%8D1.pdf",
+        "quote": "2.1 圖像辨識及學習等。"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://isteam.ccda.org.tw/Client/news_detail/109",
+    "rules": [
+      {
+        "title": "2026 GoSTEAM科技之星競賽簡章（附臺師大函）",
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27956/%E3%80%8C2026GoSTEAM%E7%A7%91%E6%8A%80%E4%B9%8B%E6%98%9F%E7%AB%B6%E8%B3%BD%E3%80%8D1.pdf"
+      }
+    ],
+    "registration": "http://isteam.ccda.org.tw/Client/Home"
+  },
+  "found_via": [
+    {
+      "name": "南投高中 最新消息",
+      "url": "https://www.ntsh.ntct.edu.tw/ischool/public/news_view/show.php?nid=22810"
+    },
+    {
+      "name": "潮州高中 學生課外活動",
+      "url": "https://www.ccsh.ptc.edu.tw/data.php?id=18970&tpl=5"
+    },
+    {
+      "name": "新竹女中 活動研習",
+      "url": "https://www.hgsh.hc.edu.tw/news/2026-gosteam%e7%a7%91%e6%8a%80%e4%b9%8b%e6%98%9f%e7%ab%b6%e8%b3%bd/"
+    },
+    {
+      "name": "鳳新高中 營隊競賽",
+      "url": "https://www.fhsh.khc.edu.tw/aa/news-aa/20260911/46023"
+    },
+    {
+      "name": "苗栗農工 處室公告",
+      "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26381"
+    },
+    {
+      "name": "成功高中 活動競賽",
+      "url": "https://www.cksh.tp.edu.tw/news/%e3%80%90%e8%bd%89%e7%9f%a5%e3%80%91%e5%9c%8b%e7%ab%8b%e8%87%ba%e7%81%a3%e5%b8%ab%e7%af%84%e5%a4%a7%e5%ad%b8%e8%be%a6%e7%90%86%e3%80%8c2026-gosteam%e7%a7%91%e6%8a%80%e4%b9%8b%e6%98%9f%e7%ab%b6/"
+    },
+    {
+      "name": "苗栗高中 學生校外營隊、活動、比賽",
+      "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=27956"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-26",
+    "method": "single",
+    "unread": [
+      "競賽官網公告（詳細比賽規則、場地圖說明）"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-26"
+}

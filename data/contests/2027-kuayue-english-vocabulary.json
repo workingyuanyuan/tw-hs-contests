@@ -1,0 +1,229 @@
+{
+  "schema": 1,
+  "id": "2027-kuayue-english-vocabulary",
+  "title": "2027英文跨越盃 全國英文單字競賽",
+  "edition": "2027",
+  "summary": "國小至高中學生個人報名，在線上監考下應考英文單字測驗，依總分排名頒獎狀。",
+  "organizers": [
+    {
+      "name": "臺灣探究與實作教育學會",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "外語"
+  ],
+  "eligibility": {
+    "levels": [
+      "國小",
+      "國中",
+      "高中",
+      "高職"
+    ],
+    "division": "separate",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": 1,
+    "teacher": "none",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://trpec.com.tw/upload/files/20260901_025344.pdf",
+        "quote": "凡全國公私立國民小學、國民中學、高級中等學校（普 通高中、綜合高中、技術型高中）在學學生，以及 高中畢業之學測重考生，均可依規定報名參加本競賽。"
+      },
+      {
+        "url": "https://trpec.com.tw/upload/files/20260901_025344.pdf",
+        "quote": "高中組（含普通高中、綜合高中及技術型高中、學測重考生）"
+      },
+      {
+        "url": "https://trpec.com.tw/upload/files/20260901_025344.pdf",
+        "quote": "1. 報名資料請填寫考生本人資訊，不得填寫家長、監護人或指導老師姓名。"
+      },
+      {
+        "url": "https://trpec.com.tw/upload/files/20260901_025344.pdf",
+        "quote": "2. 每位考生限報名一個組別。"
+      },
+      {
+        "url": "https://trpec.com.tw/upload/files/20260901_025344.pdf",
+        "quote": "(三)參賽者不得將參賽資格逕行讓予他人，限報名考生本人參賽。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "網路報名及繳交報名費截止",
+      "date": "2027-02-18",
+      "time": null,
+      "original": "116 年2 月18 日(四)晚上12 點前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://trpec.com.tw/upload/files/20260901_025344.pdf",
+          "quote": "(一)須於116 年2 月18 日(四)晚上12 點前，完成網路報名及繳交 報名費即得參賽資格。"
+        },
+        {
+          "url": "https://trpec.com.tw/view-reg.php?id=43",
+          "quote": "報名開始：即日起~ 116年02月18日(星期四)截止。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "線上監考競賽",
+      "date": "2027-02-28",
+      "time": "10:00",
+      "original": "116年02月28日（星期日)上午10：00至11：30（國小組到11：00）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://trpec.com.tw/view-reg.php?id=43",
+          "quote": "競賽日期：116年02月28日（星期日)上午10：00至11：30（國小組到11：00）"
+        },
+        {
+          "url": "https://trpec.com.tw/upload/files/20260901_025344.pdf",
+          "quote": "三、競賽日期：116 年2 月28 日（日）"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "競賽官網公布前 10 位獲獎名單",
+      "date": "2027-03-12",
+      "time": null,
+      "original": "116/3/12(五)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://trpec.com.tw/upload/files/20260901_025344.pdf",
+          "quote": "(一) 成績公布：將在116/3/12(五)於競賽官網公布前10 位獲獎名單。"
+        },
+        {
+          "url": "https://trpec.com.tw/view-reg.php?id=43",
+          "quote": "將於116年03月12日公布競賽前10位獲獎名單。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "考前測試",
+      "what": "依報名後收到的測試連結完成設備及系統測試流程",
+      "how": "online"
+    },
+    {
+      "stage": "競賽",
+      "what": "閉卷英文單字選擇題：國小組 50 題（低年級附注音），國中組與高中組 70 題，滿分 100 分，全程開攝影機",
+      "how": "online"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "線上（全程開攝影機監考）",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://trpec.com.tw/upload/files/20260901_025344.pdf",
+        "quote": "九、競賽方式：線上監考競賽"
+      },
+      {
+        "url": "https://trpec.com.tw/upload/files/20260901_025344.pdf",
+        "quote": "2. 應試期間須全程開啟攝影機。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "required",
+    "amount": "580 元",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://trpec.com.tw/upload/files/20260901_025344.pdf",
+        "quote": "六、報名費用：580 元"
+      },
+      {
+        "url": "https://trpec.com.tw/upload/files/20260901_025344.pdf",
+        "quote": "4.報名完成之後，如改變心意或是當日因故無法參加考試，不予退費。"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "依總人數比例頒發：金牌獎前 5%、銀牌獎前 5.01~10%、銅牌獎前 10.01~20%、優選前 20.01~30%，各獎狀 1 張；單字挑戰獎擇優若干，獎狀 1 張；未得以上獎項者獲參賽證書。獎狀為紙本，由主辦單位寄發，寄送地區限台澎金馬。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://trpec.com.tw/upload/files/20260901_025344.pdf",
+        "quote": "金牌獎：總人數前5%，獎狀1 張。"
+      },
+      {
+        "url": "https://trpec.com.tw/upload/files/20260901_025344.pdf",
+        "quote": "銀牌獎：總人數前 5.01~10%，獎狀1 張。"
+      },
+      {
+        "url": "https://trpec.com.tw/upload/files/20260901_025344.pdf",
+        "quote": "銅牌獎：總人數前10.01~20%，獎狀1 張。"
+      },
+      {
+        "url": "https://trpec.com.tw/upload/files/20260901_025344.pdf",
+        "quote": "優 選：總人數前20.01~30%，獎狀1 張。"
+      },
+      {
+        "url": "https://trpec.com.tw/upload/files/20260901_025344.pdf",
+        "quote": "單字挑戰獎：擇優若干，獎狀1 張。"
+      },
+      {
+        "url": "https://trpec.com.tw/upload/files/20260901_025344.pdf",
+        "quote": "參賽證書：未得以上獎項者。"
+      },
+      {
+        "url": "https://trpec.com.tw/upload/files/20260901_025344.pdf",
+        "quote": "˙本活動獎項及獎品寄送地區僅限台澎金馬地區"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://trpec.com.tw/upload/files/20260901_025344.pdf"
+      },
+      {
+        "url": "https://trpec.com.tw/view-reg.php?id=43"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://trpec.com.tw/view-reg.php?id=43",
+    "rules": [
+      {
+        "title": "2027 英文跨越盃全國英文單字競賽簡章",
+        "url": "https://trpec.com.tw/upload/files/20260901_025344.pdf"
+      }
+    ],
+    "registration": "https://trpec.com.tw/sign-up.php?id=43"
+  },
+  "found_via": [
+    {
+      "name": "獎金獵人 競賽平台",
+      "url": "https://bhuntr.com/tw/competitions/rhc8lbdfnblrx78aak"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-26",
+    "method": "single",
+    "unread": [
+      "獎狀及參賽證書樣式圖"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-26",
+  "conflict": "簡章「八、競賽時間」寫國小各組上午9:00至10:30（90分鐘）、國中組與高中組上午9:00至11:00（120分鐘）；同一簡章「十三、競賽日程表」與報名頁寫國小組10:00至11:00（60分鐘）、國中組與高中組10:00至11:30（90分鐘），並有09:50起的登入預備時間。"
+}

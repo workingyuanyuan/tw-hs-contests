@@ -1,9 +1,9 @@
 ---
 title: "截止日未定的比賽"
-description: "截止日未定的比賽 4 則，主辦單位尚未公布截止日。"
-appliesTo: "資料更新至 2026-11-25"
+description: "截止日未定的比賽 5 則，主辦單位尚未公布截止日。"
+appliesTo: "資料更新至 2026-11-26"
 caveat: "截止日指新參賽者報名的最後一天，以臺灣時間計。"
-lastVerified: 2026-11-25
+lastVerified: 2026-11-26
 kind: "index"
 sidebar:
   label: "截止日未定"
@@ -18,3 +18,4 @@ sources:
 |  | [115學年度全國學生創意戲劇比賽](/contests/2026-national-student-creative-drama/) 國小至高中職學校團隊以偶戲或舞臺劇參加縣市初賽，代表隊到決賽現場演出15至20分鐘。 | 國小、國中、高中職、五專 |
 |  | [115學年度全國學生舞蹈比賽](/contests/2026-national-student-dance/) 學生團隊參加各縣市初賽與全國決賽，在決賽現場演出舞蹈作品。 |  |
 |  | [115 學年度全國師生本土語及新住民語歌謠比賽](/contests/2026-native-new-immigrant-language-song/) 各級學校師生組成合唱團，以本土語或新住民語演唱歌謠，由評審評定等第。 | 國小、國中、高中職、五專 |
+|  | [2026年第七屆科學與科普專業英文(ESP)能力大賽](/contests/2026-ntsec-science-esp/) 高中職學生經學校薦派，任選一科科學或科普專業英文詞彙，應考電腦線上詞彙與聽力測驗。 | 高中職、大專 |

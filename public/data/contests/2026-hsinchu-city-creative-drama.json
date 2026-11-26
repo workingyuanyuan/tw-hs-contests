@@ -1,0 +1,273 @@
+{
+  "schema": 1,
+  "id": "2026-hsinchu-city-creative-drama",
+  "title": "115學年度全國學生創意戲劇比賽新竹市初賽",
+  "edition": "115 學年度",
+  "summary": "新竹市國小至高中職學生組隊創作劇本，以現代偶戲、傳統偶戲或舞臺劇現場演出。",
+  "organizers": [
+    {
+      "name": "新竹市政府",
+      "role": "主辦"
+    },
+    {
+      "name": "新竹市香山區大庄國民小學",
+      "role": "承辦"
+    },
+    {
+      "name": "新竹市北區南寮國小",
+      "role": "協辦"
+    },
+    {
+      "name": "新竹市東區竹蓮國民小學",
+      "role": "協辦"
+    },
+    {
+      "name": "新竹市立光武國民中學",
+      "role": "協辦"
+    }
+  ],
+  "categories": [
+    "表演藝術"
+  ],
+  "eligibility": {
+    "levels": [
+      "國小",
+      "國中",
+      "高中",
+      "高職"
+    ],
+    "division": "separate",
+    "regions": [
+      "新竹市"
+    ],
+    "nomination": "school",
+    "team_min": null,
+    "team_max": 20,
+    "teacher": "required",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.sggs.hc.edu.tw/wp-content/uploads/doc/gogoge520/檢送「115學年度全國學生創意戲劇比賽新竹市初賽實施計畫」(實施計畫).pdf",
+        "quote": "參、比賽組別：高中職組、國中組、國小組"
+      },
+      {
+        "url": "https://www.sggs.hc.edu.tw/wp-content/uploads/doc/gogoge520/檢送「115學年度全國學生創意戲劇比賽新竹市初賽實施計畫」(實施計畫).pdf",
+        "quote": "初賽最優第一名，得代表本市參加全國決賽"
+      },
+      {
+        "url": "https://www.sggs.hc.edu.tw/wp-content/uploads/doc/gogoge520/檢送「115學年度全國學生創意戲劇比賽新竹市初賽實施計畫」(實施計畫).pdf",
+        "quote": "拾、凡由學校指派參加本項比賽(含初賽、全國賽)之人員（領隊、指導教師、競賽員）及擔任賽務之工作人員，參賽期間核給公假登記。"
+      },
+      {
+        "url": "https://www.sggs.hc.edu.tw/wp-content/uploads/doc/gogoge520/檢送「115學年度全國學生創意戲劇比賽新竹市初賽實施計畫」(實施計畫).pdf",
+        "quote": "參賽學生人數 (以20人為限)"
+      },
+      {
+        "url": "https://www.sggs.hc.edu.tw/wp-content/uploads/doc/gogoge520/檢送「115學年度全國學生創意戲劇比賽新竹市初賽實施計畫」(實施計畫).pdf",
+        "quote": "領隊老師姓名"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "網路報名截止",
+      "date": "2026-09-24",
+      "time": "16:00",
+      "original": "115年9月24日（四）下午16：00止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.sggs.hc.edu.tw/wp-content/uploads/doc/gogoge520/檢送「115學年度全國學生創意戲劇比賽新竹市初賽實施計畫」(實施計畫).pdf",
+          "quote": "自115年9月16日（三）上午8：00起至115年9月24日（四）下午16：00止受理網路報名。"
+        }
+      ]
+    },
+    {
+      "kind": "registration_deadline",
+      "label": "書面報名資料送達截止",
+      "date": "2026-09-30",
+      "time": "16:00",
+      "original": "115年9月30日(三)下午16:00前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.sggs.hc.edu.tw/wp-content/uploads/doc/gogoge520/檢送「115學年度全國學生創意戲劇比賽新竹市初賽實施計畫」(實施計畫).pdf",
+          "quote": "於115年9月30日(三)下午16:00前親送報名資料紙本至承辦學校大庄國小學務處彙整。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "領隊會議",
+      "date": "2026-10-14",
+      "time": "14:00",
+      "original": "115年10月14日（三）下午2：00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.sggs.hc.edu.tw/wp-content/uploads/doc/gogoge520/檢送「115學年度全國學生創意戲劇比賽新竹市初賽實施計畫」(實施計畫).pdf",
+          "quote": "玖、領隊會議：訂於115年10月14日（三）下午2：00，在大庄國小會議室召開"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "劇本、語譯及大綱電子檔上傳截止",
+      "date": "2026-10-23",
+      "time": null,
+      "original": "115年10月23日(五)前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.sggs.hc.edu.tw/wp-content/uploads/doc/gogoge520/檢送「115學年度全國學生創意戲劇比賽新竹市初賽實施計畫」(實施計畫).pdf",
+          "quote": "請於115年10月23日(五)前至網路報名系統上傳劇本、語譯及大綱合為一個檔名"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "初賽比賽",
+      "date": "2026-11-20",
+      "time": null,
+      "original": "115年11月20日(五)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.sggs.hc.edu.tw/wp-content/uploads/doc/gogoge520/檢送「115學年度全國學生創意戲劇比賽新竹市初賽實施計畫」(實施計畫).pdf",
+          "quote": "伍、比賽時間：115年11月20日(五)（11月19日下午廠商場地佈置）"
+        }
+      ]
+    },
+    {
+      "kind": "registration_deadline",
+      "label": "初賽最優第一名全國決賽報名截止",
+      "date": "2026-12-25",
+      "time": "17:00",
+      "original": "115年12月25日17時止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.sggs.hc.edu.tw/wp-content/uploads/doc/gogoge520/檢送「115學年度全國學生創意戲劇比賽新竹市初賽實施計畫」(實施計畫).pdf",
+          "quote": "自 115年11月20日上午9時起開始受理網路報名，開放至115年12月25日17時止。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "網路報名",
+      "what": "於報名系統輸入團隊資料並列印報名表",
+      "how": "online"
+    },
+    {
+      "stage": "書面報名",
+      "what": "加蓋學校印信的報名表、劇本封面、授權書、參賽劇本切結書、場務需求表、領隊聯絡表",
+      "how": "onsite"
+    },
+    {
+      "stage": "劇本上傳",
+      "what": "劇本、語譯及大綱合為一檔的電子檔",
+      "how": "online"
+    },
+    {
+      "stage": "比賽當天",
+      "what": "現場演出；報到時繳交參賽者名冊 2 份及劇本 6 份",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "新竹市立光武國中綜合大樓3樓",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.sggs.hc.edu.tw/wp-content/uploads/doc/gogoge520/檢送「115學年度全國學生創意戲劇比賽新竹市初賽實施計畫」(實施計畫).pdf",
+        "quote": "陸、比賽地點：新竹市立光武國中綜合大樓3樓"
+      },
+      {
+        "url": "https://www.sggs.hc.edu.tw/wp-content/uploads/doc/gogoge520/檢送「115學年度全國學生創意戲劇比賽新竹市初賽實施計畫」(實施計畫).pdf",
+        "quote": "所有演出學生應於演出前上臺，不得於賽程進行中更換演出人員。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "unknown",
+    "amount": null,
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.sggs.hc.edu.tw/wp-content/uploads/doc/gogoge520/檢送「115學年度全國學生創意戲劇比賽新竹市初賽實施計畫」(實施計畫).pdf",
+        "quote": "柒、初賽各項規定均參照115學年度全國學生創意戲劇比賽實施要點辦理。"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "依等第發給獎狀及獎盃或獎牌；初賽最優第一名代表新竹市參加全國決賽；獲優等以上者之編導老師、助理指導老師及行政人員依新竹市規定敘獎。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.sggs.hc.edu.tw/wp-content/uploads/doc/gogoge520/檢送「115學年度全國學生創意戲劇比賽新竹市初賽實施計畫」(實施計畫).pdf",
+        "quote": "未能補正者，取消其等第，不發給獎狀及獎盃或獎牌"
+      },
+      {
+        "url": "https://www.sggs.hc.edu.tw/wp-content/uploads/doc/gogoge520/檢送「115學年度全國學生創意戲劇比賽新竹市初賽實施計畫」(實施計畫).pdf",
+        "quote": "初賽最優第一名，得代表本市參加全國決賽"
+      },
+      {
+        "url": "https://www.sggs.hc.edu.tw/wp-content/uploads/doc/gogoge520/檢送「115學年度全國學生創意戲劇比賽新竹市初賽實施計畫」(實施計畫).pdf",
+        "quote": "拾壹、獲評優等(含)以上(不受參加隊數多寡之限制)，編導老師、助理指導老師、行政人員(含校長以3名為限)，請依「新竹市教育專業人員獎懲規定」敘獎"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.sggs.hc.edu.tw/wp-content/uploads/doc/gogoge520/檢送「115學年度全國學生創意戲劇比賽新竹市初賽實施計畫」(實施計畫).pdf",
+        "quote": "柒、初賽各項規定均參照115學年度全國學生創意戲劇比賽實施要點辦理。"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://www.hc.edu.tw/language_art/main.aspx",
+    "rules": [
+      {
+        "title": "新竹市初賽實施計畫（PDF）",
+        "url": "https://www.sggs.hc.edu.tw/wp-content/uploads/doc/gogoge520/檢送「115學年度全國學生創意戲劇比賽新竹市初賽實施計畫」(實施計畫).pdf"
+      },
+      {
+        "title": "新竹市政府公文（PDF）",
+        "url": "https://www.sggs.hc.edu.tw/wp-content/uploads/doc/gogoge520/檢送「115學年度全國學生創意戲劇比賽新竹市初賽實施計畫」(公文).pdf"
+      },
+      {
+        "title": "在學證明與參賽者名冊（PDF）",
+        "url": "https://www.sggs.hc.edu.tw/wp-content/uploads/doc/gogoge520/檢送「115學年度全國學生創意戲劇比賽新竹市初賽實施計畫」(在學證明與名冊).pdf"
+      }
+    ],
+    "registration": "https://www4.hc.edu.tw/drama/"
+  },
+  "found_via": [
+    {
+      "name": "新竹高商 消息公佈欄",
+      "url": "https://www.hccvs.hc.edu.tw/ischool/public/news_view/show.php?nid=26177"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-26",
+    "method": "single",
+    "unread": [
+      "115學年度全國學生創意戲劇比賽實施要點"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-26",
+  "level": "checked",
+  "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-hsinchu-city-creative-drama/",
+  "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-hsinchu-city-creative-drama.md"
+}

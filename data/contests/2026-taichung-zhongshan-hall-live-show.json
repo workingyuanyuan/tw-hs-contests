@@ -1,0 +1,225 @@
+{
+  "schema": 1,
+  "id": "2026-taichung-zhongshan-hall-live-show",
+  "title": "2026第8屆中山堂青春競藝LIVE秀",
+  "edition": "第 8 屆",
+  "summary": "高中職以上學生以個人、組合或團體參加音樂類或舞蹈類表演競賽，初選入選者到中山堂決賽演出。",
+  "organizers": [
+    {
+      "name": "臺中市政府",
+      "role": "主辦"
+    },
+    {
+      "name": "臺中市政府文化局",
+      "role": "承辦"
+    }
+  ],
+  "categories": [
+    "音樂",
+    "表演藝術"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職",
+      "五專",
+      "大專"
+    ],
+    "division": "mixed",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": null,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/1p38KKGMNbVRbueiokLo1J7rlmB6LgcW0/view?usp=sharing",
+        "quote": "(1) 全國高中職以上在學學生(含應屆畢業生)。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1p38KKGMNbVRbueiokLo1J7rlmB6LgcW0/view?usp=sharing",
+        "quote": "(2) 參賽類別：音樂類及舞蹈類；同一演出團體，以報名一類組為限。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1p38KKGMNbVRbueiokLo1J7rlmB6LgcW0/view?usp=sharing",
+        "quote": "(1) 音樂類(得由個人或組合或樂團等形式參賽)。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1p38KKGMNbVRbueiokLo1J7rlmB6LgcW0/view?usp=sharing",
+        "quote": "(2) 舞蹈類(以多人流行舞蹈或各類型街舞為限)。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1p38KKGMNbVRbueiokLo1J7rlmB6LgcW0/view?usp=sharing",
+        "quote": "✦報名方式：採線上報名，填寫報名表單+上傳參賽影片"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "線上報名及上傳參賽影片截止",
+      "date": "2026-10-04",
+      "time": "23:59",
+      "original": "115年10月 4日(日)23:59",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://drive.google.com/file/d/1p38KKGMNbVRbueiokLo1J7rlmB6LgcW0/view?usp=sharing",
+          "quote": "(1) 報名期間：即日起至115年10月 4日(日)23:59止。"
+        },
+        {
+          "url": "https://www.tlsh.ylc.edu.tw/2026/09/11/67066/",
+          "quote": "(三)報名期間：即日起至本(115)年10月4日(星期日)23時59分止。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "決賽暨現場LIVE秀演出",
+      "date": "2026-11-07",
+      "time": "17:00",
+      "original": "2026/11/7(六)17:00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://drive.google.com/file/d/1p38KKGMNbVRbueiokLo1J7rlmB6LgcW0/view?usp=sharing",
+          "quote": "決賽暨現場LIVE秀演出：2026/11/7(六)17:00 於臺中市中山堂藝文廣場辦理(採現場評審)。"
+        },
+        {
+          "url": "https://www.tlsh.ylc.edu.tw/2026/09/11/67066/",
+          "quote": "(六)決賽日期：本(115)年11月7日(星期六)17時至20時。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名（初選）",
+      "what": "報名表單及 3 分鐘內的參賽影片（可剪輯精華片段）",
+      "how": "online"
+    },
+    {
+      "stage": "初選入選",
+      "what": "每位團員的在學學生證",
+      "how": "unknown"
+    },
+    {
+      "stage": "決賽",
+      "what": "現場 LIVE 演出，現場評審",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "finalists",
+    "where": "臺中市中山堂藝文廣場（臺中市北區學士路98號）",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/1p38KKGMNbVRbueiokLo1J7rlmB6LgcW0/view?usp=sharing",
+        "quote": "決賽暨現場LIVE秀演出：2026/11/7(六)17:00 於臺中市中山堂藝文廣場辦理(採現場評審)。"
+      },
+      {
+        "url": "https://www.tlsh.ylc.edu.tw/2026/09/11/67066/",
+        "quote": "(七)決賽地點：臺中市中山堂藝文廣場(臺中市北區學士路98號)。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/1p38KKGMNbVRbueiokLo1J7rlmB6LgcW0/view?usp=sharing"
+      },
+      {
+        "url": "https://www.tlsh.ylc.edu.tw/2026/09/11/67066/"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "參與決賽各組均得演出獎金 10,000 元。音樂類與舞蹈類各取：首獎 1 名 30,000 元及獎盃、評審團獎 1 名 20,000 元及獎盃、最佳人氣獎、最佳造型獎、最佳創意獎各 1 名 2,000 元及獎牌。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/1p38KKGMNbVRbueiokLo1J7rlmB6LgcW0/view?usp=sharing",
+        "quote": "(1) 參與決賽演出各組，均頒予演出獎金新臺幣$10,000 元整。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1p38KKGMNbVRbueiokLo1J7rlmB6LgcW0/view?usp=sharing",
+        "quote": "(2) 決賽獎項：(音樂類與舞蹈類各取乙名)"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1p38KKGMNbVRbueiokLo1J7rlmB6LgcW0/view?usp=sharing",
+        "quote": "★「首獎」乙名，頒發獎金新臺幣$30,000 元整及獎盃乙座。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1p38KKGMNbVRbueiokLo1J7rlmB6LgcW0/view?usp=sharing",
+        "quote": "★「評審團獎」乙名，頒發獎金新臺幣$20,000 元整及獎盃乙座。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1p38KKGMNbVRbueiokLo1J7rlmB6LgcW0/view?usp=sharing",
+        "quote": "★「最佳人氣獎」乙名，頒發獎金新臺幣$2,000 元整及獎牌乙面。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1p38KKGMNbVRbueiokLo1J7rlmB6LgcW0/view?usp=sharing",
+        "quote": "★「最佳造型獎」乙名，頒發獎金新臺幣$2,000 元整及獎牌乙面。"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1p38KKGMNbVRbueiokLo1J7rlmB6LgcW0/view?usp=sharing",
+        "quote": "★「最佳創意獎」乙名，頒發獎金新臺幣$2,000 元整及獎牌乙面。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://drive.google.com/file/d/1p38KKGMNbVRbueiokLo1J7rlmB6LgcW0/view?usp=sharing"
+      },
+      {
+        "url": "https://www.tlsh.ylc.edu.tw/2026/09/11/67066/"
+      }
+    ]
+  },
+  "links": {
+    "official": null,
+    "rules": [
+      {
+        "title": "報名簡章",
+        "url": "https://drive.google.com/file/d/1p38KKGMNbVRbueiokLo1J7rlmB6LgcW0/view?usp=sharing"
+      }
+    ],
+    "registration": "https://reurl.cc/be6vmd"
+  },
+  "found_via": [
+    {
+      "name": "苗栗農工 處室公告",
+      "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26507"
+    },
+    {
+      "name": "斗六高中 營隊研習競賽",
+      "url": "https://www.tlsh.ylc.edu.tw/2026/09/11/67066/"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-26",
+    "method": "single",
+    "unread": [
+      "徵件海報",
+      "徵件新聞稿",
+      "建議刊登訊息文字稿"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-26",
+  "conflict": "臺中市政府文化局的徵件函（斗六高中公告轉載）寫報名網址為 https://reurl.cc/NOQvW9，報名簡章寫 https://reurl.cc/be6vmd；徵件函寫音樂類以流行音樂為限、舞蹈類以多人流行街舞為限，簡章寫音樂類得由個人或組合或樂團等形式參賽、舞蹈類以多人流行舞蹈或各類型街舞為限。"
+}

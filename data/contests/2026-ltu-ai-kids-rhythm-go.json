@@ -1,0 +1,255 @@
+{
+  "schema": 1,
+  "id": "2026-ltu-ai-kids-rhythm-go",
+  "title": "全國AI幼兒律動GO健康創意競賽",
+  "edition": "2026",
+  "summary": "幼保相關科系學生 3～5 人一隊，以 AI 音樂生成器創作幼兒健康促進歌曲並設計律動。",
+  "organizers": [
+    {
+      "name": "嶺東科技大學幼兒保育系",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "資訊與 AI",
+    "音樂",
+    "醫護與照顧"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職",
+      "大專"
+    ],
+    "division": "separate",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 3,
+    "team_max": 5,
+    "teacher": "optional",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.sssh.tyc.edu.tw/view-doc/35/1150001036_全國AI幼兒律動GO健康創意競賽計畫書.pdf",
+        "quote": "(一) 高中職組：全國高中職幼保、家政或相關科學生。"
+      },
+      {
+        "url": "https://www.sssh.tyc.edu.tw/view-doc/35/1150001036_全國AI幼兒律動GO健康創意競賽計畫書.pdf",
+        "quote": "(二) 大專組： 大專校院幼保、幼教等相關科系學生。"
+      },
+      {
+        "url": "https://www.sssh.tyc.edu.tw/view-doc/35/1150001036_全國AI幼兒律動GO健康創意競賽計畫書.pdf",
+        "quote": "(三) 採團隊方式參賽，每隊3～5 人。"
+      },
+      {
+        "url": "https://www.sssh.tyc.edu.tw/view-doc/35/1150001036_全國AI幼兒律動GO健康創意競賽計畫書.pdf",
+        "quote": "指導教師姓名 (若無指導老師則免填)"
+      },
+      {
+        "url": "https://www.sssh.tyc.edu.tw/view-doc/35/1150001036_全國AI幼兒律動GO健康創意競賽計畫書.pdf",
+        "quote": "填寫附件1 參賽報名表後拍照上傳。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "線上報名截止",
+      "date": "2026-09-30",
+      "time": "17:00",
+      "original": "115 年 9 月30 日（三） 下午17:00 止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.sssh.tyc.edu.tw/view-doc/35/1150001036_全國AI幼兒律動GO健康創意競賽計畫書.pdf",
+          "quote": "報名截止日期: 115 年 9 月30 日（三） 下午17:00 止"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "線上教學課程（Google Meet）",
+      "date": "2026-10-04",
+      "time": "14:00",
+      "original": "115 年 10 月4 日（日） 下午14:00~16:00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.sssh.tyc.edu.tw/view-doc/35/1150001036_全國AI幼兒律動GO健康創意競賽計畫書.pdf",
+          "quote": "線上教學課程日期: 115 年 10 月4 日（日） 下午14:00~16:00"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "初賽影片提交截止",
+      "date": "2026-11-10",
+      "time": "17:00",
+      "original": "115 年 11 月 10 日（二） 下午17:00 止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.sssh.tyc.edu.tw/view-doc/35/1150001036_全國AI幼兒律動GO健康創意競賽計畫書.pdf",
+          "quote": "初賽影片提交期限日期: 115 年 11 月 10 日（二） 下午17:00 止。"
+        }
+      ]
+    },
+    {
+      "kind": "shortlist_announcement",
+      "label": "入選決賽名單公布",
+      "date": "2026-11-24",
+      "time": "10:00",
+      "original": "115 年 11 月 24 日(二) 上午10:00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.sssh.tyc.edu.tw/view-doc/35/1150001036_全國AI幼兒律動GO健康創意競賽計畫書.pdf",
+          "quote": "入選決賽名單公布日期: 115 年 11 月 24 日(二) 上午10:00。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "決賽",
+      "date": "2026-12-20",
+      "time": "13:30",
+      "original": "115 年12 月20 日（日） 下午13:30~15:30",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.sssh.tyc.edu.tw/view-doc/35/1150001036_全國AI幼兒律動GO健康創意競賽計畫書.pdf",
+          "quote": "決賽日期: 115 年12 月20 日（日） 下午13:30~15:30。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名",
+      "what": "參賽報名表（附件1）拍照上傳",
+      "how": "online"
+    },
+    {
+      "stage": "初賽",
+      "what": "初賽作品資料表（附件2，含歌詞與 AI 提示詞）及 3～5 分鐘作品影片的下載連結",
+      "how": "online"
+    },
+    {
+      "stage": "決賽（入選隊伍）",
+      "what": "每隊 5 分鐘內現場演出，音樂、服裝及道具自備",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "finalists",
+    "where": "嶺東科技大學仙庭樓幼兒保育系創思講堂",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.sssh.tyc.edu.tw/view-doc/35/1150001036_全國AI幼兒律動GO健康創意競賽計畫書.pdf",
+        "quote": "依據委員評審結果擇優遴選隊伍進入決賽。"
+      },
+      {
+        "url": "https://www.sssh.tyc.edu.tw/view-doc/35/1150001036_全國AI幼兒律動GO健康創意競賽計畫書.pdf",
+        "quote": "決賽地點: 嶺東科技大學仙庭樓 幼兒保育系創思講堂"
+      },
+      {
+        "url": "https://www.sssh.tyc.edu.tw/view-doc/35/1150001036_全國AI幼兒律動GO健康創意競賽計畫書.pdf",
+        "quote": "決賽當日請提前30 分鐘時間到達現場準備自備音檔撥放等事宜。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.sssh.tyc.edu.tw/view-doc/35/1150001036_全國AI幼兒律動GO健康創意競賽計畫書.pdf"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/「全國AI幼兒律動GO健康創意競賽」.pdf"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "決賽各選出前七名，另依表現選出其他獎項若干名，皆頒發電子獎狀；所有參賽隊伍皆可獲參加證明。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.sssh.tyc.edu.tw/view-doc/35/1150001036_全國AI幼兒律動GO健康創意競賽計畫書.pdf",
+        "quote": "(一) 決賽結果擇優各選出前七名，頒發獎狀（電子檔案）。"
+      },
+      {
+        "url": "https://www.sssh.tyc.edu.tw/view-doc/35/1150001036_全國AI幼兒律動GO健康創意競賽計畫書.pdf",
+        "quote": "(二) 依實際表現另選出其他獎項若干名，頒發獎狀（電子檔案）。"
+      },
+      {
+        "url": "https://www.sssh.tyc.edu.tw/view-doc/35/1150001036_全國AI幼兒律動GO健康創意競賽計畫書.pdf",
+        "quote": "(一) 所有參賽隊伍不論得名與否，皆可獲得主辦單位提供之參加證明。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "required",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.sssh.tyc.edu.tw/view-doc/35/1150001036_全國AI幼兒律動GO健康創意競賽計畫書.pdf",
+        "quote": "(一) 參賽歌曲使用AI 音樂生成器協助生成歌曲、音樂風格設定、創作發想及作品修正。"
+      },
+      {
+        "url": "https://www.sssh.tyc.edu.tw/view-doc/35/1150001036_全國AI幼兒律動GO健康創意競賽計畫書.pdf",
+        "quote": "(三) 參賽者須提交AI 提示詞(Prompt)。"
+      }
+    ]
+  },
+  "links": {
+    "official": null,
+    "rules": [
+      {
+        "title": "競賽計畫書（PDF）",
+        "url": "https://www.sssh.tyc.edu.tw/view-doc/35/1150001036_全國AI幼兒律動GO健康創意競賽計畫書.pdf"
+      },
+      {
+        "title": "嶺東科技大學函（PDF）",
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/「全國AI幼兒律動GO健康創意競賽」.pdf"
+      }
+    ],
+    "registration": "https://forms.gle/c5SVa2eMQjFBG5cX8"
+  },
+  "found_via": [
+    {
+      "name": "南港高工 重要資訊",
+      "url": "https://www.nkhs.tp.edu.tw/ischool/public/news_view/show.php?nid=34746"
+    },
+    {
+      "name": "高師大附中 校外競賽與活動",
+      "url": "https://www.nknush.kh.edu.tw/announcement/19963/%e5%85%ac%e5%91%8a%e8%a8%93%e8%82%b2%e7%b5%84%e5%b6%ba%e6%9d%b1%e7%a7%91%e6%8a%80%e5%a4%a7%e5%ad%b8%e3%80%8c%e5%85%a8%e5%9c%8bai%e5%b9%bc%e5%85%92%e5%be%8b%e5%8b%95go%e5%81%a5%e5%ba%b7%e5%89%b5/"
+    },
+    {
+      "name": "苗栗農工 處室公告",
+      "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26436"
+    },
+    {
+      "name": "壽山高中 校外競賽",
+      "url": "https://www.sssh.tyc.edu.tw/news/%e5%b6%ba%e6%9d%b1%e7%a7%91%e6%8a%80%e5%a4%a7%e5%ad%b8%e3%80%8c%e5%85%a8%e5%9c%8bai%e5%b9%bc%e5%85%92%e5%be%8b%e5%8b%95go%e5%81%a5%e5%ba%b7%e5%89%b5%e6%84%8f%e7%ab%b6%e8%b3%bd%e3%80%8d/"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-26",
+    "method": "single",
+    "unread": [
+      "初賽作品資料表繳交網址（QR-CODE）",
+      "校園平面圖（QR-CODE）"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-26"
+}

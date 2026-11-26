@@ -3,7 +3,7 @@ title: "第二屆無障礙大使選拔活動"
 description: "身心障礙者繳交介紹自我與專長的報名表及才藝表演影片，角逐無障礙大使。"
 appliesTo: "第二屆 這一屆"
 caveat: "報名已於 2026-11-15 截止。"
-lastVerified: 2026-11-25
+lastVerified: 2026-11-26
 kind: "contest"
 deadline: "2026-11-15"
 sources:

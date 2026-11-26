@@ -1,0 +1,277 @@
+{
+  "schema": 1,
+  "id": "2026-amc-10-12",
+  "title": "2026年全美中學數學分級能力測驗 AMC 10A/12A 及 AMC 10B/12B",
+  "edition": "2026",
+  "summary": "高中職三年級以下在學學生依年級報考 AMC 10 或 AMC 12 數學測驗。",
+  "organizers": [
+    {
+      "name": "美國數學協會(The Mathematical Association of America, MAA)所屬AMC 測驗中心",
+      "role": "主辦"
+    },
+    {
+      "name": "財團法人九九文教基金會",
+      "role": "承辦"
+    },
+    {
+      "name": "學習成就測驗協會",
+      "role": "承辦"
+    },
+    {
+      "name": "臺北市南華高中",
+      "role": "協辦"
+    },
+    {
+      "name": "臺北市信義社區大學",
+      "role": "協辦"
+    }
+  ],
+  "categories": [
+    "數學"
+  ],
+  "eligibility": {
+    "levels": [
+      "國小",
+      "國中",
+      "高中",
+      "高職"
+    ],
+    "division": "mixed",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": 1,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26319/2026%E5%B9%B4%E5%85%A8%E7%BE%8E%E4%B8%AD%E5%AD%B8%E6%95%B8%E5%AD%B8%E5%88%86%E7%B4%9A%E8%83%BD%E5%8A%9B%E6%B8%AC%E9%A9%97%E6%B4%BB%E5%8B%95%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "AMC10A/10B：全國高中職一年級(10 年級)以下(含)在學學生"
+      },
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26319/2026%E5%B9%B4%E5%85%A8%E7%BE%8E%E4%B8%AD%E5%AD%B8%E6%95%B8%E5%AD%B8%E5%88%86%E7%B4%9A%E8%83%BD%E5%8A%9B%E6%B8%AC%E9%A9%97%E6%B4%BB%E5%8B%95%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "AMC12A/12B：全國高中職三年級(12 年級)以下(含)在學學生"
+      },
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26319/2026%E5%B9%B4%E5%85%A8%E7%BE%8E%E4%B8%AD%E5%AD%B8%E6%95%B8%E5%AD%B8%E5%88%86%E7%B4%9A%E8%83%BD%E5%8A%9B%E6%B8%AC%E9%A9%97%E6%B4%BB%E5%8B%95%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "報名方式：分(一) 團體報名 及 (二) 個別報名 二種方式"
+      },
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26319/2026%E5%B9%B4%E5%85%A8%E7%BE%8E%E4%B8%AD%E5%AD%B8%E6%95%B8%E5%AD%B8%E5%88%86%E7%B4%9A%E8%83%BD%E5%8A%9B%E6%B8%AC%E9%A9%97%E6%B4%BB%E5%8B%95%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "線上報名 → 列印繳費單 → 繳費(繳費期限至10 月1 日) → 完成報名"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "報名截止",
+      "date": "2026-09-30",
+      "time": null,
+      "original": "2026 年9 月18 日(星期五) 〜 9 月30 日(星期三)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26319/2026%E5%B9%B4%E5%85%A8%E7%BE%8E%E4%B8%AD%E5%AD%B8%E6%95%B8%E5%AD%B8%E5%88%86%E7%B4%9A%E8%83%BD%E5%8A%9B%E6%B8%AC%E9%A9%97%E6%B4%BB%E5%8B%95%E7%B0%A1%E7%AB%A0.pdf",
+          "quote": "報名日期：2026 年9 月18 日(星期五) 〜 9 月30 日(星期三)，逾期恕不受理報名"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "繳費截止",
+      "date": "2026-10-01",
+      "time": null,
+      "original": "10 月1 日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26319/2026%E5%B9%B4%E5%85%A8%E7%BE%8E%E4%B8%AD%E5%AD%B8%E6%95%B8%E5%AD%B8%E5%88%86%E7%B4%9A%E8%83%BD%E5%8A%9B%E6%B8%AC%E9%A9%97%E6%B4%BB%E5%8B%95%E7%B0%A1%E7%AB%A0.pdf",
+          "quote": "線上報名 → 列印繳費單 → 繳費(繳費期限至10 月1 日) → 完成報名"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "開放上網查詢考場、試場、准考號碼與應考須知",
+      "date": "2026-10-27",
+      "time": null,
+      "original": "2026 年10 月27 日(星期二)後",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26319/2026%E5%B9%B4%E5%85%A8%E7%BE%8E%E4%B8%AD%E5%AD%B8%E6%95%B8%E5%AD%B8%E5%88%86%E7%B4%9A%E8%83%BD%E5%8A%9B%E6%B8%AC%E9%A9%97%E6%B4%BB%E5%8B%95%E7%B0%A1%E7%AB%A0.pdf",
+          "quote": "請所有考生務必於2026 年10 月27 日(星期二)後，自行至本會網站"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "AMC10A/12A 測驗（A 卷）",
+      "date": "2026-11-06",
+      "time": "19:00",
+      "original": "2026 年11 月6 日(星期五)晚上 填卡時間：19：00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26319/2026%E5%B9%B4%E5%85%A8%E7%BE%8E%E4%B8%AD%E5%AD%B8%E6%95%B8%E5%AD%B8%E5%88%86%E7%B4%9A%E8%83%BD%E5%8A%9B%E6%B8%AC%E9%A9%97%E6%B4%BB%E5%8B%95%E7%B0%A1%E7%AB%A0.pdf",
+          "quote": "AMC10A/12A：2026 年11 月6 日(星期五)晚上"
+        },
+        {
+          "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26319/2026%E5%B9%B4%E5%85%A8%E7%BE%8E%E4%B8%AD%E5%AD%B8%E6%95%B8%E5%AD%B8%E5%88%86%E7%B4%9A%E8%83%BD%E5%8A%9B%E6%B8%AC%E9%A9%97%E6%B4%BB%E5%8B%95%E7%B0%A1%E7%AB%A0.pdf",
+          "quote": "填卡時間：19：00 〜 19：15 (填寫答案卡上考生基本資料)"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "AMC10B/12B 測驗（B 卷）",
+      "date": "2026-11-14",
+      "time": "10:00",
+      "original": "2026 年11 月14 日(星期六)上午 填卡時間：10：00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26319/2026%E5%B9%B4%E5%85%A8%E7%BE%8E%E4%B8%AD%E5%AD%B8%E6%95%B8%E5%AD%B8%E5%88%86%E7%B4%9A%E8%83%BD%E5%8A%9B%E6%B8%AC%E9%A9%97%E6%B4%BB%E5%8B%95%E7%B0%A1%E7%AB%A0.pdf",
+          "quote": "AMC10B/12B：2026 年11 月14 日(星期六)上午"
+        },
+        {
+          "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26319/2026%E5%B9%B4%E5%85%A8%E7%BE%8E%E4%B8%AD%E5%AD%B8%E6%95%B8%E5%AD%B8%E5%88%86%E7%B4%9A%E8%83%BD%E5%8A%9B%E6%B8%AC%E9%A9%97%E6%B4%BB%E5%8B%95%E7%B0%A1%E7%AB%A0.pdf",
+          "quote": "填卡時間：10：00 〜 10：15 (填寫答案卡上考生基本資料)"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "測驗（A 卷 AMC10A/12A 或 B 卷 AMC10B/12B）",
+      "what": "75 分鐘試卷作答並劃記答案卡，可選中文或英文試卷",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "台北、新竹、台中、嘉義、台南、高雄、花蓮各考區考場（報名時選定）",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26319/2026%E5%B9%B4%E5%85%A8%E7%BE%8E%E4%B8%AD%E5%AD%B8%E6%95%B8%E5%AD%B8%E5%88%86%E7%B4%9A%E8%83%BD%E5%8A%9B%E6%B8%AC%E9%A9%97%E6%B4%BB%E5%8B%95%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "測驗日期、時間：所有參加測驗之學生，應於填卡時間前進場"
+      },
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26319/2026%E5%B9%B4%E5%85%A8%E7%BE%8E%E4%B8%AD%E5%AD%B8%E6%95%B8%E5%AD%B8%E5%88%86%E7%B4%9A%E8%83%BD%E5%8A%9B%E6%B8%AC%E9%A9%97%E6%B4%BB%E5%8B%95%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "測驗地區：報名時請註明測驗考場，報名後恕不接受更改"
+      }
+    ]
+  },
+  "fee": {
+    "value": "required",
+    "amount": "每項測驗新台幣 750 元；(中)低收入戶學生 300 名免費",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26319/2026%E5%B9%B4%E5%85%A8%E7%BE%8E%E4%B8%AD%E5%AD%B8%E6%95%B8%E5%AD%B8%E5%88%86%E7%B4%9A%E8%83%BD%E5%8A%9B%E6%B8%AC%E9%A9%97%E6%B4%BB%E5%8B%95%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "報名費用：每項測驗新台幣750 元整"
+      },
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26319/2026%E5%B9%B4%E5%85%A8%E7%BE%8E%E4%B8%AD%E5%AD%B8%E6%95%B8%E5%AD%B8%E5%88%86%E7%B4%9A%E8%83%BD%E5%8A%9B%E6%B8%AC%E9%A9%97%E6%B4%BB%E5%8B%95%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "為幫助 (中)低收入戶學生，本會將提供300 個 (中)低收入戶學生免收測驗工本費參加本次測驗。"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "每位參加測驗之考生獲英文參加證書與中文成績單；其他獎勵以美方交寄之實際獎勵為準。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26319/2026%E5%B9%B4%E5%85%A8%E7%BE%8E%E4%B8%AD%E5%AD%B8%E6%95%B8%E5%AD%B8%E5%88%86%E7%B4%9A%E8%83%BD%E5%8A%9B%E6%B8%AC%E9%A9%97%E6%B4%BB%E5%8B%95%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "每位參加測驗之考生皆可獲得英文參加證書(Certificate)及中文成績單乙份。"
+      },
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26319/2026%E5%B9%B4%E5%85%A8%E7%BE%8E%E4%B8%AD%E5%AD%B8%E6%95%B8%E5%AD%B8%E5%88%86%E7%B4%9A%E8%83%BD%E5%8A%9B%E6%B8%AC%E9%A9%97%E6%B4%BB%E5%8B%95%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "其他獎勵方式：以美方交寄本會之實際獎勵為準"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26319/2026%E5%B9%B4%E5%85%A8%E7%BE%8E%E4%B8%AD%E5%AD%B8%E6%95%B8%E5%AD%B8%E5%88%86%E7%B4%9A%E8%83%BD%E5%8A%9B%E6%B8%AC%E9%A9%97%E6%B4%BB%E5%8B%95%E7%B0%A1%E7%AB%A0.pdf"
+      },
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26319/2026%E5%B9%B4%E5%85%A8%E7%BE%8E%E4%B8%AD%E5%AD%B8%E6%95%B8%E5%AD%B8%E5%88%86%E7%B4%9A%E8%83%BD%E5%8A%9B%E6%B8%AC%E9%A9%97%E5%87%BD.pdf"
+      }
+    ]
+  },
+  "links": {
+    "official": null,
+    "rules": [
+      {
+        "title": "2026 全美中學數學分級能力測驗活動簡章",
+        "url": "https://www.hccvs.hc.edu.tw/ischool/news/attached/26319/2026%E5%B9%B4%E5%85%A8%E7%BE%8E%E4%B8%AD%E5%AD%B8%E6%95%B8%E5%AD%B8%E5%88%86%E7%B4%9A%E8%83%BD%E5%8A%9B%E6%B8%AC%E9%A9%97%E6%B4%BB%E5%8B%95%E7%B0%A1%E7%AB%A0.pdf"
+      }
+    ],
+    "registration": null
+  },
+  "found_via": [
+    {
+      "name": "彰化高中 競賽公告",
+      "url": "https://www.chsh.chc.edu.tw/p/406-1009-195558,r70.php?Lang=zh-tw"
+    },
+    {
+      "name": "大里高中 校外活動與競賽",
+      "url": "https://dlsh.tc.edu.tw/p/406-1068-633080,r2145.php?Lang=zh-tw"
+    },
+    {
+      "name": "成功高中 活動競賽",
+      "url": "https://www.cksh.tp.edu.tw/news/%e3%80%90%e8%bd%89%e7%9f%a5%e3%80%91amc%e6%b8%ac%e9%a9%97%e4%b8%ad%e5%bf%83%e3%80%8c2026%e5%b9%b4%e5%85%a8%e7%be%8e%e4%b8%ad%e5%ad%b8%e6%95%b8%e5%ad%b8%e5%88%86%e7%b4%9a%e8%83%bd%e5%8a%9b%e6%b8%ac/"
+    },
+    {
+      "name": "新竹高商 消息公佈欄",
+      "url": "https://www.hccvs.hc.edu.tw/ischool/public/news_view/show.php?nid=26319"
+    },
+    {
+      "name": "新竹女中 活動研習",
+      "url": "https://www.hgsh.hc.edu.tw/news/2026%e5%b9%b4%e5%85%a8%e7%be%8e%e4%b8%ad%e5%ad%b8%e6%95%b8%e5%ad%b8%e5%88%86%e7%b4%9a%e8%83%bd%e5%8a%9b%e6%b8%ac%e9%a9%97-amc-10a-12a-%e5%8f%8a-amc-10b-12b-%e8%87%ba%e7%81%a3%e5%8d%80%e6%b8%ac/"
+    },
+    {
+      "name": "苗栗農工 處室公告",
+      "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26373"
+    },
+    {
+      "name": "苗栗高中 學生校外營隊、活動、比賽",
+      "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=27957"
+    },
+    {
+      "name": "南投高中 最新消息",
+      "url": "https://www.ntsh.ntct.edu.tw/ischool/public/news_view/show.php?nid=22728"
+    },
+    {
+      "name": "武陵高中 校外競賽",
+      "url": "http://www.wlsh.tyc.edu.tw/p/406-1000-43227,r83.php?Lang=zh-tw"
+    },
+    {
+      "name": "大里高中 校外活動與競賽",
+      "url": "https://dlsh.tc.edu.tw/p/406-1068-633080,r2145.php"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-26",
+    "method": "single",
+    "unread": [
+      "AMC 團體報名電子檔（EXCEL）",
+      "活動海報",
+      "九九文教基金會網站之成績複查與證書補發說明"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-26"
+}

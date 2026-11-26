@@ -1,0 +1,171 @@
+{
+  "schema": 1,
+  "id": "2026-ivy-cup-fall",
+  "title": "IVY CUP常春藤大學聯盟國際口語大賽",
+  "edition": "2026 秋季賽",
+  "summary": "國小至高中職學生以英語口語表達參賽，提交才藝表演或學術能力展示等英語口說作品。",
+  "organizers": [
+    {
+      "name": "美國常春藤大學聯盟國際組委會",
+      "role": "主辦"
+    },
+    {
+      "name": "國立臺灣師範大學工業教育學系（技術職業教育研究發展中心）",
+      "role": "承辦"
+    },
+    {
+      "name": "新北市政府教育局",
+      "role": "協辦"
+    },
+    {
+      "name": "國立臺灣科學教育館",
+      "role": "協辦"
+    }
+  ],
+  "categories": [
+    "外語"
+  ],
+  "eligibility": {
+    "levels": [
+      "國小",
+      "國中",
+      "高中",
+      "高職"
+    ],
+    "division": "separate",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "unknown",
+    "team_min": null,
+    "team_max": null,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.hgsh.hc.edu.tw/news/ivy-cup%e5%b8%b8%e6%98%a5%e8%97%a4%e5%a4%a7%e5%ad%b8%e8%81%af%e7%9b%9f%e5%9c%8b%e9%9a%9b%e5%8f%a3%e8%aa%9e%e5%a4%a7%e8%b3%bd/",
+        "quote": "五、為協助有意參與本活動之高中（職）、國中、國小及幼兒園教師及學生瞭解活動內容與參賽方式"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28049/%E5%85%AC%E6%96%87.pdf",
+        "quote": "高中職組選手報名參賽時，需具高中職生資格。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28049/%E5%85%AC%E6%96%87.pdf",
+        "quote": "臺南市私立寶仁國民小學蔡姓學生晉級國小A組總決賽榮獲金獎"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "秋季賽註冊截止",
+      "date": "2026-11-18",
+      "time": "23:59",
+      "original": "2026年11月18日(星期三)晚上23時59分截止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.hgsh.hc.edu.tw/news/ivy-cup%e5%b8%b8%e6%98%a5%e8%97%a4%e5%a4%a7%e5%ad%b8%e8%81%af%e7%9b%9f%e5%9c%8b%e9%9a%9b%e5%8f%a3%e8%aa%9e%e5%a4%a7%e8%b3%bd/",
+          "quote": "(六)本次秋季賽報名截止日：註冊及作品提交截止時間：2026年11月18日(星期三)晚上23時59分截止。"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "秋季賽作品提交截止",
+      "date": "2026-11-18",
+      "time": "23:59",
+      "original": "2026年11月18日(星期三)晚上23時59分截止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.hgsh.hc.edu.tw/news/ivy-cup%e5%b8%b8%e6%98%a5%e8%97%a4%e5%a4%a7%e5%ad%b8%e8%81%af%e7%9b%9f%e5%9c%8b%e9%9a%9b%e5%8f%a3%e8%aa%9e%e5%a4%a7%e8%b3%bd/",
+          "quote": "(六)本次秋季賽報名截止日：註冊及作品提交截止時間：2026年11月18日(星期三)晚上23時59分截止。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "秋季賽全球海選",
+      "what": "英語口說作品，項目包含才藝表演（Talent Show）、學術能力展示（Convince Me）等",
+      "how": "unknown"
+    }
+  ],
+  "attendance": {
+    "value": "unknown",
+    "where": null,
+    "basis": "unread",
+    "evidence": []
+  },
+  "fee": {
+    "value": "required",
+    "amount": null,
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28049/%E5%85%AC%E6%96%87.pdf",
+        "quote": "「高中職、國中小各組決賽冠軍學生，得免費報名參加同屆(2026或2027年) IVY CUP常春藤國際口語大賽全球海選秋季賽或春季賽乙次"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28049/%E5%85%AC%E6%96%87.pdf",
+        "quote": "(由本校工業教育系請相關單位處理冠軍同學免報名費用)"
+      }
+    ]
+  },
+  "prizes": {
+    "text": null,
+    "basis": "unread",
+    "evidence": []
+  },
+  "ai_policy": {
+    "value": "unknown",
+    "basis": "unread",
+    "evidence": []
+  },
+  "links": {
+    "official": "https://sites.google.com/view/ivycup-tw/",
+    "rules": [
+      {
+        "title": "國立臺灣師範大學函：活動說明及教師增能研習活動計畫",
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28049/%E5%85%AC%E6%96%87.pdf"
+      }
+    ],
+    "registration": null
+  },
+  "found_via": [
+    {
+      "name": "新竹女中 活動研習",
+      "url": "https://www.hgsh.hc.edu.tw/news/ivy-cup%e5%b8%b8%e6%98%a5%e8%97%a4%e5%a4%a7%e5%ad%b8%e8%81%af%e7%9b%9f%e5%9c%8b%e9%9a%9b%e5%8f%a3%e8%aa%9e%e5%a4%a7%e8%b3%bd/"
+    },
+    {
+      "name": "金門高中 最新消息",
+      "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=22218"
+    },
+    {
+      "name": "苗栗農工 處室公告",
+      "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26473"
+    },
+    {
+      "name": "苗栗高中 學生校外營隊、活動、比賽",
+      "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=28049"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-26",
+    "method": "single",
+    "unread": [
+      "IVY CUP臺灣地區活動資訊網站（https://sites.google.com/view/ivycup-tw/）"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-26",
+  "level": "checked",
+  "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-ivy-cup-fall/",
+  "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-ivy-cup-fall.md"
+}

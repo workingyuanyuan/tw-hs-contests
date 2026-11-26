@@ -3,7 +3,7 @@ title: "2026天廚盃全國航空創意廚藝競賽"
 description: "大專與高中職學生個人設計航空餐，以實作料理或彩色手繪呈現餐點與菜單參賽。"
 appliesTo: "2026 這一屆"
 caveat: "報名已於 2026-11-20 12:00 截止。"
-lastVerified: 2026-11-25
+lastVerified: 2026-11-26
 kind: "contest"
 deadline: "2026-11-20"
 sources:

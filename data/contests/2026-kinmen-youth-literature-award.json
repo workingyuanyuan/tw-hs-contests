@@ -1,0 +1,134 @@
+{
+  "schema": 1,
+  "id": "2026-kinmen-youth-literature-award",
+  "title": "115年第七屆金門青少年文學獎徵文比賽",
+  "edition": "第七屆",
+  "summary": "金門縣高中職、國中小在校學生以本縣人、事、景、物為題材寫作，投稿參加徵文比賽。",
+  "organizers": [
+    {
+      "name": "金門縣政府",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "語文與寫作"
+  ],
+  "eligibility": {
+    "levels": [
+      "國小",
+      "國中",
+      "高中",
+      "高職"
+    ],
+    "division": "unknown",
+    "regions": [
+      "金門縣"
+    ],
+    "nomination": "none",
+    "team_min": null,
+    "team_max": null,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=21854",
+        "quote": "為落實政策延續性並持續鼓勵本縣高中職、國中小在校學生養成寫作之興趣與習慣，本府賡續辦理金門青少年文學獎徵 文比賽。"
+      },
+      {
+        "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=21854",
+        "quote": "採學校團體投稿或學生個人投稿。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "submission_deadline",
+      "label": "收件截止",
+      "date": "2026-09-30",
+      "time": null,
+      "original": "115年9月1日至9月30日止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=21854",
+          "quote": "三、收件日期：115年9月1日至9月30日止，逾期恕不受理。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "個人投稿",
+      "what": "報名表可編輯之 word 檔，及貼上縣民卡或在學證明之 PDF 檔",
+      "how": "online"
+    },
+    {
+      "stage": "個人投稿",
+      "what": "word 直式橫打作文，新細明體 12 級字，稿件不得署名或附任何註記",
+      "how": "online"
+    }
+  ],
+  "attendance": {
+    "value": "unknown",
+    "where": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=21854"
+      }
+    ]
+  },
+  "fee": {
+    "value": "unknown",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=21854"
+      }
+    ]
+  },
+  "prizes": {
+    "text": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=21854"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "unknown",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=21854"
+      }
+    ]
+  },
+  "links": {
+    "official": null,
+    "rules": [],
+    "registration": "https://forms.gle/Jwii59TLQczUUoZr6"
+  },
+  "found_via": [
+    {
+      "name": "金門高中 最新消息",
+      "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=21854"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-26",
+    "method": "single",
+    "unread": [
+      "115年第七屆金門青少年文學獎徵文比賽實施計畫",
+      "報名表（金門縣政府教育處網站下載）"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-26"
+}

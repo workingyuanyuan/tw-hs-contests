@@ -3,7 +3,7 @@
   "id": "2026-vnu-cosmetics-formulation",
   "title": "2026全國新穎化妝品調製競賽",
   "edition": "2026",
-  "summary": "大專與高中職/五專學生分組競賽，調製創意香水、精油、手工皂或乳液作品。",
+  "summary": "大專及高中職學生調製創意香水、精油、手工皂等化妝品作品參賽。",
   "organizers": [
     {
       "name": "萬能科技大學",
@@ -83,34 +83,34 @@
     "basis": "quote",
     "evidence": [
       {
-        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/「2026全國新穎化妝品調製競賽」1.pdf",
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/「2026全國新穎化妝品調製競賽」.pdf",
+        "quote": "邀請全國大專校院及高中職/五專三年級以下(含)在校生報名參加，請查照。"
+      },
+      {
+        "url": "https://www.sssh.tyc.edu.tw/view-doc/35/1151200783_1_全國新穎化妝品調製競賽海報.pdf",
         "quote": "全國大專院校,高中職/五專三年級以下(含)在校生"
       },
       {
-        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/「2026全國新穎化妝品調製競賽」1.pdf",
-        "quote": "大專組 高中職組"
-      },
-      {
-        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/「2026全國新穎化妝品調製競賽」1.pdf",
-        "quote": "一律採網路報名(免報名費)"
+        "url": "https://www.sssh.tyc.edu.tw/view-doc/35/1151200783_1_全國新穎化妝品調製競賽海報.pdf",
+        "quote": "高中職組"
       }
     ]
   },
   "dates": [
     {
       "kind": "final_event",
-      "label": "現場競賽",
+      "label": "競賽",
       "date": "2026-12-11",
       "time": "09:00",
       "original": "115年12月11日(星期五)；12/11(五)09:00~17:00",
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26596",
+          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/「2026全國新穎化妝品調製競賽」.pdf",
           "quote": "二、活動時間：115年12月11日(星期五)。"
         },
         {
-          "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/「2026全國新穎化妝品調製競賽」1.pdf",
+          "url": "https://www.sssh.tyc.edu.tw/view-doc/35/1151200783_1_全國新穎化妝品調製競賽海報.pdf",
           "quote": "12/11(五)09:00~17:00"
         }
       ]
@@ -119,7 +119,7 @@
   "deliverables": [
     {
       "stage": "競賽當日",
-      "what": "依報名組別在指定時段（各 2 小時）製作作品：創意香水、創意精油調配、冷製或熱製創意手工皂；創意乳液調配組只設於大專組",
+      "what": "依報名組別限時兩小時製作：高中職組為創意香水、創意精油調配、冷製創意手工皂或熱製創意手工皂；大專組另有創意乳液調配",
       "how": "onsite"
     }
   ],
@@ -129,11 +129,11 @@
     "basis": "quote",
     "evidence": [
       {
-        "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26596",
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/「2026全國新穎化妝品調製競賽」.pdf",
         "quote": "三、活動地點：本校化妝品應用與管理系暨研究所。"
       },
       {
-        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/「2026全國新穎化妝品調製競賽」1.pdf",
+        "url": "https://www.sssh.tyc.edu.tw/view-doc/35/1151200783_1_全國新穎化妝品調製競賽海報.pdf",
         "quote": "09:00-09:30 評審,監評人員,選手報到"
       }
     ]
@@ -144,17 +144,17 @@
     "basis": "quote",
     "evidence": [
       {
-        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/「2026全國新穎化妝品調製競賽」1.pdf",
+        "url": "https://www.sssh.tyc.edu.tw/view-doc/35/1151200783_1_全國新穎化妝品調製競賽海報.pdf",
         "quote": "一律採網路報名(免報名費)"
       }
     ]
   },
   "prizes": {
-    "text": "前三名有獎學金和獎品。",
+    "text": "前三名頒發獎學金和獎品。",
     "basis": "quote",
     "evidence": [
       {
-        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/「2026全國新穎化妝品調製競賽」1.pdf",
+        "url": "https://www.sssh.tyc.edu.tw/view-doc/35/1151200783_1_全國新穎化妝品調製競賽海報.pdf",
         "quote": "前三名有優渥的獎學金和獎品喔！"
       }
     ]
@@ -168,12 +168,12 @@
     "official": null,
     "rules": [
       {
-        "title": "活動海報",
-        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/「2026全國新穎化妝品調製競賽」1.pdf"
+        "title": "萬能科技大學競賽公文",
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/「2026全國新穎化妝品調製競賽」.pdf"
       },
       {
-        "title": "萬能科技大學函",
-        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/「2026全國新穎化妝品調製競賽」.pdf"
+        "title": "競賽海報",
+        "url": "https://www.sssh.tyc.edu.tw/view-doc/35/1151200783_1_全國新穎化妝品調製競賽海報.pdf"
       }
     ],
     "registration": "https://docs.google.com/forms/d/1PcRHuUqjKcdg_9A_wuafB3Ub0MyEKe93L9VHcucDoE8/viewform?edit_requested=true"
@@ -209,18 +209,19 @@
     }
   ],
   "verification": {
-    "last_verified": "2026-11-25",
-    "method": "single",
+    "last_verified": "2026-11-26",
+    "method": "dual",
     "unread": [
-      "海報「活動報名詳情」QR code 所連頁面"
+      "海報「活動報名詳情」QR code 所連文件"
     ],
     "note": null,
     "readers": [
+      "claude-opus-5-5",
       "claude-opus-5-5"
     ]
   },
   "first_seen": "2026-11-24",
-  "updated": "2026-11-25",
+  "updated": "2026-11-26",
   "level": "unverified",
   "url": null,
   "markdown": null

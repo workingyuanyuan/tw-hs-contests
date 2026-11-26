@@ -1,0 +1,1086 @@
+{
+ "date": "2026-11-26",
+ "discover": {
+  "taivs": {
+   "name": "大安高工 競賽資訊",
+   "pages": 1,
+   "seen": 25,
+   "new": 2,
+   "oldest": "2026-11-09",
+   "stop": "end",
+   "status": "ok",
+   "first_page": 25
+  },
+  "ksvs": {
+   "name": "高雄高工 競賽公告",
+   "pages": 1,
+   "seen": 60,
+   "new": 0,
+   "oldest": "2026-10-16",
+   "stop": "seen",
+   "status": "ok",
+   "first_page": 60
+  },
+  "fhsh": {
+   "name": "鳳新高中 營隊競賽",
+   "pages": 1,
+   "seen": 16,
+   "new": 0,
+   "oldest": "2026-11-03",
+   "stop": "seen",
+   "status": "ok",
+   "first_page": 16
+  },
+  "nknush": {
+   "name": "高師大附中 校外競賽與活動",
+   "pages": 1,
+   "seen": 22,
+   "new": 0,
+   "oldest": "2026-11-18",
+   "stop": "seen",
+   "status": "ok",
+   "first_page": 22
+  },
+  "tngs": {
+   "name": "臺南女中 學生競賽",
+   "pages": 2,
+   "seen": 20,
+   "new": 1,
+   "oldest": "2026-11-05",
+   "stop": "seen",
+   "status": "ok",
+   "first_page": 10
+  },
+  "tlsh": {
+   "name": "斗六高中 營隊研習競賽",
+   "pages": 2,
+   "seen": 130,
+   "new": 3,
+   "oldest": "2026-09-23",
+   "stop": "seen",
+   "status": "ok",
+   "first_page": 100
+  },
+  "chsh": {
+   "name": "彰化高中 競賽公告",
+   "pages": 2,
+   "seen": 100,
+   "new": 2,
+   "oldest": "2025-09-19",
+   "stop": "old",
+   "status": "ok",
+   "first_page": 50
+  },
+  "hssh": {
+   "name": "西松高中 校外競賽公告",
+   "pages": 1,
+   "seen": 10,
+   "new": 0,
+   "oldest": "2026-11-02",
+   "stop": "seen",
+   "status": "ok",
+   "first_page": 10
+  },
+  "dlsh": {
+   "name": "大里高中 校外活動與競賽",
+   "pages": 1,
+   "seen": 20,
+   "new": 1,
+   "oldest": "2026-11-16",
+   "stop": "error",
+   "status": "partial",
+   "first_page": 20,
+   "error": "page 2: IncompleteRead: IncompleteRead(0 bytes read)"
+  },
+  "scime": {
+   "name": "全國技藝競賽資訊平臺 商業類",
+   "pages": 1,
+   "seen": 30,
+   "new": 0,
+   "oldest": "2025-12-08",
+   "stop": "seen",
+   "status": "ok",
+   "first_page": 30
+  },
+  "ntunhs": {
+   "name": "臺北護理健康大學 學生專題競賽",
+   "pages": 1,
+   "seen": 1,
+   "new": 0,
+   "oldest": null,
+   "stop": "seen",
+   "status": "ok",
+   "first_page": 1
+  },
+  "ewant": {
+   "name": "ewant 育網自主學習競賽",
+   "pages": 1,
+   "seen": 7,
+   "new": 0,
+   "oldest": "2021-03-01",
+   "stop": "seen",
+   "status": "ok",
+   "first_page": 7
+  },
+  "bhuntr": {
+   "name": "獎金獵人 競賽平台",
+   "pages": 1,
+   "seen": 215,
+   "new": 4,
+   "oldest": null,
+   "stop": "end",
+   "status": "ok",
+   "first_page": 215
+  },
+  "shs": {
+   "name": "中學生網站",
+   "pages": 1,
+   "seen": 10,
+   "new": 0,
+   "oldest": "2026-07-21",
+   "stop": "end",
+   "status": "ok",
+   "first_page": 10
+  },
+  "mxeduc": {
+   "name": "旺宏教育基金會",
+   "pages": 1,
+   "seen": 9,
+   "new": 0,
+   "oldest": "2025-11-02",
+   "stop": "seen",
+   "status": "ok",
+   "first_page": 9
+  },
+  "fg": {
+   "name": "北一女中 最新消息",
+   "pages": 2,
+   "seen": 53,
+   "new": 4,
+   "oldest": "2026-10-22",
+   "stop": "seen",
+   "status": "ok",
+   "first_page": 33
+  },
+  "csghs": {
+   "name": "中山女高 最新消息",
+   "pages": 2,
+   "seen": 56,
+   "new": 7,
+   "oldest": "2026-08-03",
+   "stop": "seen",
+   "status": "ok",
+   "first_page": 41
+  },
+  "aicup": {
+   "name": "AI CUP",
+   "pages": 1,
+   "seen": 20,
+   "new": 0,
+   "oldest": "2025-07-15",
+   "stop": "seen",
+   "status": "ok",
+   "first_page": 20
+  },
+  "mediatek": {
+   "name": "聯發科技 智在家鄉",
+   "pages": 1,
+   "seen": 5,
+   "new": 0,
+   "oldest": "2025-08-13",
+   "stop": "seen",
+   "status": "ok",
+   "first_page": 5
+  },
+  "twsf": {
+   "name": "臺灣國際科學展覽會 TISF",
+   "pages": 1,
+   "seen": 8,
+   "new": 0,
+   "oldest": "2025-08-28",
+   "stop": "seen",
+   "status": "ok",
+   "first_page": 8
+  },
+  "jhsh": {
+   "name": "錦和高中 學生競賽",
+   "pages": 1,
+   "seen": 34,
+   "new": 0,
+   "oldest": "2026-08-04",
+   "stop": "seen",
+   "status": "ok",
+   "first_page": 34
+  },
+  "scvs": {
+   "name": "三重商工 學生事務公告",
+   "pages": 2,
+   "seen": 24,
+   "new": 4,
+   "oldest": "2026-01-05",
+   "stop": "seen",
+   "status": "ok",
+   "first_page": 12
+  },
+  "ykvs": {
+   "name": "鶯歌工商 最新消息",
+   "pages": 2,
+   "seen": 39,
+   "new": 1,
+   "oldest": "2026-08-03",
+   "stop": "seen",
+   "status": "ok",
+   "first_page": 20
+  },
+  "ltivs": {
+   "name": "羅東高工 最新消息",
+   "pages": 2,
+   "seen": 40,
+   "new": 5,
+   "oldest": "2026-06-30",
+   "stop": "seen",
+   "status": "ok",
+   "first_page": 20
+  },
+  "sssh": {
+   "name": "壽山高中 校外競賽",
+   "pages": 1,
+   "seen": 23,
+   "new": 0,
+   "oldest": "2026-09-21",
+   "stop": "seen",
+   "status": "ok",
+   "first_page": 23
+  },
+  "k12ea": {
+   "name": "教育部國民及學前教育署 公文公告平台",
+   "pages": 2,
+   "seen": 20,
+   "new": 2,
+   "oldest": "2026-11-04",
+   "stop": "seen",
+   "status": "ok",
+   "first_page": 10
+  },
+  "aidea": {
+   "name": "AIdea 人工智慧共創平台 競賽議題",
+   "pages": 1,
+   "seen": 10,
+   "new": 0,
+   "oldest": "2026-09-08",
+   "stop": "seen",
+   "status": "ok",
+   "first_page": 10
+  },
+  "wlsh": {
+   "name": "武陵高中 校外競賽",
+   "pages": 2,
+   "seen": 40,
+   "new": 1,
+   "oldest": "2026-08-12",
+   "stop": "seen",
+   "status": "ok",
+   "first_page": 20
+  },
+  "cksh": {
+   "name": "成功高中 活動競賽",
+   "pages": 2,
+   "seen": 30,
+   "new": 4,
+   "oldest": "2026-11-16",
+   "stop": "seen",
+   "status": "ok",
+   "first_page": 15
+  },
+  "ttsh": {
+   "name": "大同高中 學生競賽活動",
+   "pages": 1,
+   "seen": 25,
+   "new": 0,
+   "oldest": "2026-10-22",
+   "stop": "seen",
+   "status": "ok",
+   "first_page": 25
+  },
+  "hshs": {
+   "name": "海山高中 學生競賽活動",
+   "pages": 1,
+   "seen": 12,
+   "new": 0,
+   "oldest": null,
+   "stop": "seen",
+   "status": "ok",
+   "first_page": 12
+  },
+  "cygsh": {
+   "name": "嘉義女中 競賽與投稿",
+   "pages": 1,
+   "seen": 75,
+   "new": 0,
+   "oldest": "2025-08-01",
+   "stop": "seen",
+   "status": "ok",
+   "first_page": 75
+  },
+  "tcfsh": {
+   "name": "臺中一中 校外活動",
+   "pages": 2,
+   "seen": 40,
+   "new": 2,
+   "oldest": "2026-11-02",
+   "stop": "seen",
+   "status": "ok",
+   "first_page": 20
+  },
+  "hgsh": {
+   "name": "新竹女中 活動研習",
+   "pages": 2,
+   "seen": 40,
+   "new": 1,
+   "oldest": "2026-11-04",
+   "stop": "seen",
+   "status": "ok",
+   "first_page": 20
+  },
+  "ccshpt": {
+   "name": "潮州高中 學生課外活動",
+   "pages": 2,
+   "seen": 20,
+   "new": 2,
+   "oldest": "2026-11-06",
+   "stop": "seen",
+   "status": "ok",
+   "first_page": 10
+  },
+  "mlaivs": {
+   "name": "苗栗農工 處室公告",
+   "pages": 2,
+   "seen": 200,
+   "new": 14,
+   "oldest": "2022-10-05",
+   "stop": "seen",
+   "status": "ok",
+   "first_page": 100
+  },
+  "nkhs": {
+   "name": "南港高工 重要資訊",
+   "pages": 2,
+   "seen": 200,
+   "new": 3,
+   "oldest": "2026-08-05",
+   "stop": "seen",
+   "status": "ok",
+   "first_page": 100
+  },
+  "kmsh": {
+   "name": "金門高中 最新消息",
+   "pages": 2,
+   "seen": 200,
+   "new": 6,
+   "oldest": "2026-06-24",
+   "stop": "seen",
+   "status": "ok",
+   "first_page": 100
+  },
+  "hccvs": {
+   "name": "新竹高商 消息公佈欄",
+   "pages": 2,
+   "seen": 200,
+   "new": 18,
+   "oldest": "2026-09-21",
+   "stop": "seen",
+   "status": "ok",
+   "first_page": 100
+  },
+  "pshs": {
+   "name": "暨大附中 學生研習與競賽活動",
+   "pages": 2,
+   "seen": 200,
+   "new": 4,
+   "oldest": "2026-09-01",
+   "stop": "seen",
+   "status": "ok",
+   "first_page": 100
+  },
+  "ntsh": {
+   "name": "南投高中 最新消息",
+   "pages": 2,
+   "seen": 200,
+   "new": 3,
+   "oldest": "2026-10-07",
+   "stop": "seen",
+   "status": "ok",
+   "first_page": 100
+  },
+  "mlsh": {
+   "name": "苗栗高中 學生校外營隊、活動、比賽",
+   "pages": 2,
+   "seen": 200,
+   "new": 6,
+   "oldest": "2026-10-05",
+   "stop": "seen",
+   "status": "ok",
+   "first_page": 100
+  }
+ },
+ "recheck": {
+  "confirmed": [
+   "2026-100spotlights-video",
+   "2026-aicup-solar-defect",
+   "2026-bangkok-intl-invention-fair",
+   "2026-changde-veggie-painting",
+   "2026-changhua-rotary-english-speech",
+   "2026-chiayi-3min-video",
+   "2026-chsmr-disability-week-arts",
+   "2026-cnu-kinder-elder-colearning",
+   "2026-ctust-paochung-spicy-cuisine",
+   "2026-cufa-next-idol",
+   "2026-cute-ai-japanese-marketing",
+   "2026-dajiamazu-original-music",
+   "2026-deglobalart-red-envelope",
+   "2026-disability-ambassador",
+   "2026-economics-olympiad-school-round",
+   "2026-epilepsy-essay",
+   "2026-fgu-3goodai",
+   "2026-fy-h-inno",
+   "2026-genai-algorithm-cert",
+   "2026-gzg-template-design",
+   "2026-hl-smart-robot-challenge",
+   "2026-hochi-calligraphy",
+   "2026-hsinchu-photography-award",
+   "2026-hsinyi-children-literature-award",
+   "2026-hwu-high-school-band",
+   "2026-ia-camera",
+   "2026-icdl-infosec",
+   "2026-ideax-star-challenge",
+   "2026-igd-ninth-creation",
+   "2026-iifme-kuwait",
+   "2026-indigenous-oral-history-comic",
+   "2026-indigenous-science-fair",
+   "2026-justshow-napkin-folding",
+   "2026-kouhu-photography",
+   "2026-ksu-smart-maker",
+   "2026-lhu-2050-short-video",
+   "2026-lhu-terroir-cup",
+   "2026-miaoli-lantern",
+   "2026-nantou-pearl-itinerary",
+   "2026-national-skills-central",
+   "2026-national-skills-north",
+   "2026-national-student-art",
+   "2026-national-student-creative-drama",
+   "2026-national-student-dance",
+   "2026-national-student-music",
+   "2026-native-new-immigrant-language-song",
+   "2026-nkust-h2gp-taiwan",
+   "2026-nkust-ship-model",
+   "2026-nkut-elderly-lohas-lifestory",
+   "2026-nkut-innovative-marketing",
+   "2026-ntbsa-xinying-tax-ai-comic",
+   "2026-nthu-giwas-showdown",
+   "2026-ntnu-biped-robot",
+   "2026-ntpc-lions-english-speech",
+   "2026-ntpc-tree-planting-film",
+   "2026-nutn-ai-project",
+   "2026-ocu-agri-marketing",
+   "2026-ocu-stock-plus-trading",
+   "2026-paochung-cup-spicy-cuisine",
+   "2026-phyedu-science-measurement",
+   "2026-pingtung-drone",
+   "2026-presidential-education-award",
+   "2026-provoice-podcast",
+   "2026-qiuzhen-cup",
+   "2026-see-think-wonder",
+   "2026-sju-icec",
+   "2026-skm-photo-analog",
+   "2026-smartreading-science-reading",
+   "2026-stu-it-innovation",
+   "2026-sym-design",
+   "2026-taipei-cinunan-language-hunter",
+   "2026-taipei-five-senses-video",
+   "2026-taipei-literature-award",
+   "2026-taiwan-economics-olympiad",
+   "2026-taiwan-tour-bus-video",
+   "2026-tasa-asian-try-zero-g",
+   "2026-tccs-little-influencer",
+   "2026-tfc-youth-factcheck",
+   "2026-thu-smart-sustainability",
+   "2026-tku-chung-ling-chemistry",
+   "2026-tpcu-ba-stock-king",
+   "2026-tpcu-en-ja-newscaster-reading",
+   "2026-tpcu-english-dubbing",
+   "2026-uch-new-retail",
+   "2026-ud-award",
+   "2026-vnu-beauty-next",
+   "2026-vnu-cosmetics-formulation",
+   "2026-vnu-tianchu-cup-airline-cuisine",
+   "2026-wlcef-literature-award",
+   "2026-yda-youth-volunteer",
+   "2026-ys-award",
+   "2026-yuntech-mini4wd",
+   "2027-agongdianxi-literature",
+   "2027-blia-three-acts-song",
+   "2027-cacet-creation-ai",
+   "2027-coolenglish-presentation",
+   "2027-csu-wooden-bridge",
+   "2027-ctsp-photography",
+   "2027-cyberangel-meme-pics",
+   "2027-cycu-cash-flow",
+   "2027-cyut-ae-short-film",
+   "2027-cyut-english-picture-book",
+   "2027-cyut-smart-care-essay",
+   "2027-danjiang-bridge-photo-painting",
+   "2027-geopark-landscape-reading",
+   "2027-hakka-choir",
+   "2027-hfu-a4-illustration",
+   "2027-hfu-design",
+   "2027-iol-taiwan-selection",
+   "2027-just-hs-project",
+   "2027-k12-tobacco-betel-video",
+   "2027-kw-design-award",
+   "2027-lhu-traffic-safety-ai-hackathon",
+   "2027-mcu-crime-fiction",
+   "2027-mcu-literary-prose",
+   "2027-metamanga-ai-manga",
+   "2027-miaoli-18-township-english-speech",
+   "2027-mingdao-global-chinese-literary-award",
+   "2027-moe-mata-award",
+   "2027-moenv-efdesign",
+   "2027-ncue-homerun-science",
+   "2027-ndhu-qilai-literature",
+   "2027-nownews-crossroad-resilience",
+   "2027-ntpc-ai-p-literacy-challenge",
+   "2027-ntpc-self-learning-goai",
+   "2027-ocu-mdm-marketing",
+   "2027-popular-science-ai-poster",
+   "2027-real-beat-dance",
+   "2027-shoutian-visual",
+   "2027-shs-reading-reflection",
+   "2027-stust-kamishibai",
+   "2027-topkey-youth-forum",
+   "2027-ukmt-imc",
+   "2027-ydu-tourism-leisure-cup",
+   "2027-yt-3mintalk4science"
+  ],
+  "changed": [
+   "2026-chtiia-creative-entrepreneurship",
+   "2026-national-skills-south-57",
+   "2026-new-immigrants-dream-plan",
+   "2027-bahamut-acg-award",
+   "2027-ganjingworld-kindness-tw",
+   "2027-national-skills-competition"
+  ],
+  "unreachable": [
+   "2026-ibmi-medtech-creative"
+  ]
+ },
+ "rounds": [
+  {
+   "tasks": [
+    {
+     "task": "triage-01",
+     "result": "4 new candidates, 10 joined a candidate, 9 of a record, 77 not contests"
+    },
+    {
+     "task": "c0042-1",
+     "result": "done: 2026-chtiia-creative-entrepreneurship (checked)"
+    },
+    {
+     "task": "c0066-1",
+     "result": "done: 2027-ganjingworld-kindness-tw (checked)"
+    },
+    {
+     "task": "c0070-1",
+     "result": "done: 2027-bahamut-acg-award (checked)"
+    },
+    {
+     "task": "c0100-1",
+     "result": "done: 2026-national-skills-south-57 (checked)"
+    },
+    {
+     "task": "c0107-1",
+     "result": "asks for 6 more documents"
+    },
+    {
+     "task": "c0199-1",
+     "result": "done: 2026-new-immigrants-dream-plan (checked)"
+    },
+    {
+     "task": "c0314-1",
+     "result": "done: 2026-ltu-taiwan-hidden-spots (checked)"
+    },
+    {
+     "task": "c0315-1",
+     "result": "done: 2027-cyut-ae-short-film-2 (checked)"
+    },
+    {
+     "task": "c0319-1",
+     "result": "done: 2026-ukn-children-literature-award (checked)"
+    },
+    {
+     "task": "c0328-1",
+     "result": "done: 2026-hsinchu-youth-video-city-art (checked)"
+    },
+    {
+     "task": "c0333-1",
+     "result": "done: 2026-aerc-ksu (checked)"
+    },
+    {
+     "task": "c0337-1",
+     "result": "done: 2026-aerc-ksu (checked)"
+    },
+    {
+     "task": "c0342-1",
+     "result": "done: 2026-kinmen-youth-literature-award (checked)"
+    },
+    {
+     "task": "c0343-1",
+     "result": "skipped: 高雄市女童軍會辦理的國際女孩日活動，為各女童軍團報名參加的半日活動（115年10月18日於陽明國中），旨在透過活動參與喚起女童軍自我意識；文件未載評審、名次或獎"
+    },
+    {
+     "task": "c0344-1",
+     "result": "skipped: 活動對象限全國公私立小學三年級到六年級學生，高中職學生不能報名。"
+    },
+    {
+     "task": "c0345-1",
+     "result": "skipped: 「2027創意畢業季」是中原文創園區徵求學校畢業展、成果展進駐展出的場地申請，審查只決定獲選展出單位，未設名次、獎項或獎狀，屬展覽而非競賽。"
+    },
+    {
+     "task": "c0346-1",
+     "result": "done: 2026-hk-hongyi-innovation (checked)"
+    },
+    {
+     "task": "c0347-1",
+     "result": "done: 2026-ltu-ai-kids-rhythm-go (checked)"
+    },
+    {
+     "task": "c0348-1",
+     "result": "asks for 2 more documents"
+    },
+    {
+     "task": "c0349-1",
+     "result": "skipped: 文件為承辦學校公告的「更換選手與指導教師作業說明」，內容只有更換程序與期限，不是競賽的實施計畫或簡章，也沒有連結可取得實施計畫，無法據以寫出競賽內容、報名方式與"
+    },
+    {
+     "task": "c0350-1",
+     "result": "done: 2026-fy-sdl-presentation (checked)"
+    },
+    {
+     "task": "c0352-1",
+     "result": "done: 2026-takming-smart-sustainable-tour (checked)"
+    },
+    {
+     "task": "c0353-1",
+     "result": "asks for 5 more documents"
+    },
+    {
+     "task": "c0354-1",
+     "result": "skipped: 臺北市立成功高級中學校內海報甄選，參賽對象限現具本校學籍之學生，屬單一學校校內比賽，不收錄。"
+    },
+    {
+     "task": "c0355-1",
+     "result": "asks for 2 more documents"
+    },
+    {
+     "task": "c0356-1",
+     "result": "asks for 1 more documents"
+    },
+    {
+     "task": "c0357-1",
+     "result": "done: 2026-grandvision-character-ambassador (checked)"
+    },
+    {
+     "task": "c0358-1",
+     "result": "done: 2026-moc-youth-comics-award (checked)"
+    },
+    {
+     "task": "c0359-1",
+     "result": "done: 2026-digital-storytelling-film-festival (checked)"
+    },
+    {
+     "task": "c0293-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0300-2",
+     "result": "asks for 3 more documents"
+    },
+    {
+     "task": "c0329-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0326-2",
+     "result": "asks for 1 more documents"
+    },
+    {
+     "task": "c0320-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0322-s",
+     "result": "5 kept, 0 dropped"
+    },
+    {
+     "task": "c0330-s",
+     "result": "3 kept, 0 dropped"
+    },
+    {
+     "task": "c0351-s",
+     "result": "1 kept, 0 dropped"
+    }
+   ],
+   "merged": [],
+   "set_aside": []
+  },
+  {
+   "tasks": [
+    {
+     "task": "c0107-1",
+     "result": "done: 2027-national-skills-competition (checked)"
+    },
+    {
+     "task": "c0322-1",
+     "result": "done: 2027-national-skills-competition (checked)"
+    },
+    {
+     "task": "c0330-1",
+     "result": "done: 2026-vnu-cosmetics-formulation (unverified)"
+    },
+    {
+     "task": "c0758-1",
+     "result": "done: 2027-dyu-cg-future-star (checked)"
+    },
+    {
+     "task": "c0348-1",
+     "result": "done: 2026-disability-skills-competition (unverified), to be searched"
+    },
+    {
+     "task": "c0351-1",
+     "result": "done: 2026-tpcu-indigenous-character-design (checked)"
+    },
+    {
+     "task": "c0353-1",
+     "result": "done: 2026-amc-10-12 (checked)"
+    },
+    {
+     "task": "c0355-1",
+     "result": "done: 2026-chihlee-trade-ecommerce-quiz (checked)"
+    },
+    {
+     "task": "c0356-1",
+     "result": "done: 2026-ivy-cup-fall (checked)"
+    },
+    {
+     "task": "c0360-1",
+     "result": "done: 2026-taichung-zhongshan-hall-live-show (checked)"
+    },
+    {
+     "task": "c0361-1",
+     "result": "done: 2026-hk-smart-green-baking (checked)"
+    },
+    {
+     "task": "c0362-1",
+     "result": "done: 2026-aerc-robot (unverified), to be searched"
+    },
+    {
+     "task": "c0363-1",
+     "result": "done: 2026-aerc-ksu-2 (checked)"
+    },
+    {
+     "task": "c0364-1",
+     "result": "done: 2026-tut-dreamer-culinary-invitational (checked)"
+    },
+    {
+     "task": "c0365-1",
+     "result": "asks for 5 more documents"
+    },
+    {
+     "task": "c0366-1",
+     "result": "asks for 2 more documents"
+    },
+    {
+     "task": "c0367-1",
+     "result": "done: 2026-national-tax-master (checked)"
+    },
+    {
+     "task": "c0368-1",
+     "result": "joined: 2026-national-tax-master (checked), the record kept"
+    },
+    {
+     "task": "c0369-1",
+     "result": "done: 2026-kinmen-ai-betel-tobacco-video (unverified), to be searched"
+    },
+    {
+     "task": "c0370-1",
+     "result": "done: 2026-apcys-taiwan-selection (checked)"
+    },
+    {
+     "task": "c0371-1",
+     "result": "done: 2026-nfu-project-competition (checked)"
+    },
+    {
+     "task": "c0372-1",
+     "result": "asks for 5 more documents"
+    },
+    {
+     "task": "c0373-1",
+     "result": "asks for 1 more documents"
+    },
+    {
+     "task": "c0374-1",
+     "result": "asks for 6 more documents"
+    },
+    {
+     "task": "c0375-1",
+     "result": "done: 2026-sustainable-light-environment (checked)"
+    },
+    {
+     "task": "c0376-1",
+     "result": "done: 2026-nsysu-biweekly-math-problem (checked)"
+    },
+    {
+     "task": "c0377-1",
+     "result": "asks for 6 more documents"
+    },
+    {
+     "task": "c0378-1",
+     "result": "done: 2026-mcu-fintech-etf (checked)"
+    },
+    {
+     "task": "c0379-1",
+     "result": "skipped: 文件僅為學校轉知教育部增列芭蕾賽事的公告，只有縣市初賽與決賽的月份；所附「115學年度全國學生舞蹈比賽實施要點」未附連結，文件未載參賽資格、報名方式與期限，也無"
+    },
+    {
+     "task": "c0380-1",
+     "result": "joined: 2026-ukmt-smc (checked), the record kept"
+    },
+    {
+     "task": "c0100-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0300-2",
+     "result": "second reading: disputed"
+    },
+    {
+     "task": "c0199-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0042-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0326-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0066-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0070-2",
+     "result": "second reading: dual"
+    }
+   ],
+   "merged": [],
+   "set_aside": []
+  },
+  {
+   "tasks": [
+    {
+     "task": "c0365-1",
+     "result": "done: 2026-nptu-i-am-the-successor (checked)"
+    },
+    {
+     "task": "c0366-1",
+     "result": "done: 2026-national-language-contest (unverified), to be searched"
+    },
+    {
+     "task": "c0372-1",
+     "result": "done: 2027-trpec-chinese-cup (checked)"
+    },
+    {
+     "task": "c0373-1",
+     "result": "done: 2027-kuayue-english-vocabulary (checked)"
+    },
+    {
+     "task": "c0374-1",
+     "result": "done: 2026-ntsec-science-esp (checked)"
+    },
+    {
+     "task": "c0377-1",
+     "result": "joined: 2026-mcu-fintech-etf (checked), the record kept"
+    },
+    {
+     "task": "c0381-1",
+     "result": "asks for 4 more documents"
+    },
+    {
+     "task": "c0382-1",
+     "result": "done: 2027-tzuchi-pagamo-taipei-pk (unverified), to be searched"
+    },
+    {
+     "task": "c0383-1",
+     "result": "asks for 2 more documents"
+    },
+    {
+     "task": "c0384-1",
+     "result": "done: 2026-subject-competition-region2-semifinal (checked)"
+    },
+    {
+     "task": "c0385-1",
+     "result": "done: 2026-ntnu-gosteam-tech-star (checked)"
+    },
+    {
+     "task": "c0386-1",
+     "result": "done: 2026-guanyin-cup-calligraphy (checked)"
+    },
+    {
+     "task": "c0387-1",
+     "result": "skipped: 文件僅為武陵高中公告校內學生報名數、物、化、生奧林匹亞競賽初選考試的名單與搭車事項，未含主辦單位的競賽簡章或規則，且連結中沒有簡章文件。"
+    },
+    {
+     "task": "c0388-1",
+     "result": "asks for 2 more documents"
+    },
+    {
+     "task": "c0389-1",
+     "result": "done: 2026-hsinchu-student-music (checked)"
+    },
+    {
+     "task": "c0390-1",
+     "result": "done: 2026-hsinchu-city-creative-drama (checked)"
+    },
+    {
+     "task": "c0391-1",
+     "result": "asks for 4 more documents"
+    },
+    {
+     "task": "c0392-1",
+     "result": "done: 2026-hsinchu-city-student-art-prelim (checked)"
+    },
+    {
+     "task": "c0393-1",
+     "result": "joined: 2026-national-student-dance (verified), the record kept"
+    },
+    {
+     "task": "c0394-1",
+     "result": "done: 2026-taichung-student-dance-prelim (checked)"
+    },
+    {
+     "task": "c0395-1",
+     "result": "done: 2026-tainan-student-dance (checked)"
+    },
+    {
+     "task": "c0396-1",
+     "result": "done: 2026-moa-pet-grooming (checked)"
+    },
+    {
+     "task": "c0397-1",
+     "result": "asks for 4 more documents"
+    },
+    {
+     "task": "c0398-1",
+     "result": "done: 2026-tw-biology-olympiad-prelim (checked)"
+    },
+    {
+     "task": "c0399-1",
+     "result": "done: 2026-ipho-apho-preliminary (checked)"
+    },
+    {
+     "task": "c0400-1",
+     "result": "done: 2026-apcys-taiwan-team (checked)"
+    },
+    {
+     "task": "c0401-1",
+     "result": "asks for 6 more documents"
+    },
+    {
+     "task": "c0402-1",
+     "result": "asks for 4 more documents"
+    },
+    {
+     "task": "c0403-1",
+     "result": "done: 2026-ksu-low-carbon-living (checked)"
+    },
+    {
+     "task": "c0404-1",
+     "result": "joined: 2026-ksu-low-carbon-living (checked), the record kept"
+    },
+    {
+     "task": "c0376-2",
+     "result": "second reading: disputed"
+    },
+    {
+     "task": "c0322-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0758-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0330-2",
+     "result": "second reading: dual"
+    },
+    {
+     "task": "c0348-s",
+     "result": "5 kept, 0 dropped"
+    },
+    {
+     "task": "c0362-s",
+     "result": "4 kept, 1 dropped (https://www.aerc1988.com.tw/upload_attach/1788323048.pdf: FetchError: HTTP 403; the browser failed t)"
+    },
+    {
+     "task": "c0369-s",
+     "result": "1 kept, 0 dropped"
+    }
+   ],
+   "merged": [],
+   "set_aside": []
+  },
+  {
+   "tasks": [
+    {
+     "task": "c0348-1",
+     "result": "done: 2026-disability-skills-competition (checked)"
+    },
+    {
+     "task": "c0362-1",
+     "result": "asks for 5 more documents"
+    },
+    {
+     "task": "c0369-1",
+     "result": "done: 2026-kinmen-ai-betel-tobacco-video-2 (checked)"
+    },
+    {
+     "task": "c0371-1",
+     "result": "done: 2026-nfu-student-project (checked)"
+    },
+    {
+     "task": "c0378-1",
+     "result": "done: 2026-mcu-fintech-etf (checked)"
+    },
+    {
+     "task": "c0381-1",
+     "result": "done: 2026-golden-shield-cybersecurity (checked)"
+    }
+   ],
+   "merged": [],
+   "set_aside": []
+  }
+ ],
+ "possible_duplicates": [
+  "2026-kinmen-ai-betel-tobacco-video-2 | 2026-kinmen-ai-betel-tobacco-video: one title holds the other, a shared organizer"
+ ],
+ "queue": {
+  "done": 322,
+  "skipped": 83,
+  "expired": 1,
+  "new": 382,
+  "search": 2
+ },
+ "announcements_waiting": 0,
+ "records": 256
+}

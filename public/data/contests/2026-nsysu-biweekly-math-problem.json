@@ -1,0 +1,299 @@
+{
+  "schema": 1,
+  "id": "2026-nsysu-biweekly-math-problem",
+  "title": "雙週一題網路數學問題徵答",
+  "edition": "115 學年度第一學期",
+  "summary": "國、高中生至社會人士個人解答中山應數系每兩週公佈的一道挑戰性數學題，寄交解答。",
+  "organizers": [
+    {
+      "name": "國立中山大學應用數學系",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "數學"
+  ],
+  "eligibility": {
+    "levels": [
+      "國中",
+      "高中",
+      "大專",
+      "社會人士"
+    ],
+    "division": "separate",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": 1,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "http://www.wlsh.tyc.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9MemsxTDNCMFlWODJNRE01TWw4ek5qUXlPRFV6WHpRek1qUTVMbkJrWmc9PQ==&fname=14GGRPQKYW4441YXHCPOSWMOMK3025JGYSB0CCYSQP05DC40QK20FDEG0054FGSSZTCCCDOOVS04MOKKIGNKTS34B0MOXSNKIHMPXWA0LKA450DGUSSSWXFCMKPOCDNLDGA0EGGDVWB4DCYSDG34OKNK21GDQPA4SW30STA4GGLKCDUS4400XTJH44LKEGICKOJGVXLOQOROXSNP01VX04B5ROB4JGPPDG54VWWXYWCCFD15GGJCIGGDOO30JD25PKUWGG3500GDQP4434TS0154SS54PKSW",
+        "quote": "歡迎國、高中生、大學生、研究生及社會人士參加問題的徵答。個人作答為主，不接受團體參加作答。"
+      },
+      {
+        "url": "http://www.wlsh.tyc.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9MemsxTDNCMFlWODJNRE01TWw4ek5qUXlPRFV6WHpRek1qUTVMbkJrWmc9PQ==&fname=14GGRPQKYW4441YXHCPOSWMOMK3025JGYSB0CCYSQP05DC40QK20FDEG0054FGSSZTCCCDOOVS04MOKKIGNKTS34B0MOXSNKIHMPXWA0LKA450DGUSSSWXFCMKPOCDNLDGA0EGGDVWB4DCYSDG34OKNK21GDQPA4SW30STA4GGLKCDUS4400XTJH44LKEGICKOJGVXLOQOROXSNP01VX04B5ROB4JGPPDG54VWWXYWCCFD15GGJCIGGDOO30JD25PKUWGG3500GDQP4434TS0154SS54PKSW",
+        "quote": "本系於學期內每隔兩週公佈一題具有挑戰性的數學題目，邀請全國同學作答。"
+      },
+      {
+        "url": "http://www.wlsh.tyc.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9MemsxTDNCMFlWODJNRE01TWw4ek5qUXlPRFV6WHpRek1qUTVMbkJrWmc9PQ==&fname=14GGRPQKYW4441YXHCPOSWMOMK3025JGYSB0CCYSQP05DC40QK20FDEG0054FGSSZTCCCDOOVS04MOKKIGNKTS34B0MOXSNKIHMPXWA0LKA450DGUSSSWXFCMKPOCDNLDGA0EGGDVWB4DCYSDG34OKNK21GDQPA4SW30STA4GGLKCDUS4400XTJH44LKEGICKOJGVXLOQOROXSNP01VX04B5ROB4JGPPDG54VWWXYWCCFD15GGJCIGGDOO30JD25PKUWGG3500GDQP4434TS0154SS54PKSW",
+        "quote": "並於期末分高中組、大專組及社會組共挑選數名學期內答題最優者，將獲頒獎狀一張，以資鼓勵。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "submission_deadline",
+      "label": "第一題（09/18 公佈）解答截止",
+      "date": "2026-10-02",
+      "time": "12:00",
+      "original": "115.10.02中午12點截止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "http://www.wlsh.tyc.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9MemsxTDNCMFlWODJNRE01TWw4ek5qUXlPRFV6WHpRek1qUTVMbkJrWmc9PQ==&fname=14GGRPQKYW4441YXHCPOSWMOMK3025JGYSB0CCYSQP05DC40QK20FDEG0054FGSSZTCCCDOOVS04MOKKIGNKTS34B0MOXSNKIHMPXWA0LKA450DGUSSSWXFCMKPOCDNLDGA0EGGDVWB4DCYSDG34OKNK21GDQPA4SW30STA4GGLKCDUS4400XTJH44LKEGICKOJGVXLOQOROXSNP01VX04B5ROB4JGPPDG54VWWXYWCCFD15GGJCIGGDOO30JD25PKUWGG3500GDQP4434TS0154SS54PKSW",
+          "quote": "第一題 115.09.18公佈，115.10.02中午12點截止"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "第二題（10/02 公佈）解答截止",
+      "date": "2026-10-16",
+      "time": "12:00",
+      "original": "10/16",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "http://www.wlsh.tyc.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9MemsxTDNCMFlWODJNRE01TWw4ek5qUXlPRFV6WHpRek1qUTVMbkJrWmc9PQ==&fname=14GGRPQKYW4441YXHCPOSWMOMK3025JGYSB0CCYSQP05DC40QK20FDEG0054FGSSZTCCCDOOVS04MOKKIGNKTS34B0MOXSNKIHMPXWA0LKA450DGUSSSWXFCMKPOCDNLDGA0EGGDVWB4DCYSDG34OKNK21GDQPA4SW30STA4GGLKCDUS4400XTJH44LKEGICKOJGVXLOQOROXSNP01VX04B5ROB4JGPPDG54VWWXYWCCFD15GGJCIGGDOO30JD25PKUWGG3500GDQP4434TS0154SS54PKSW",
+          "quote": "我們將於本學期每隔週的星期五(中午)將徵答題目公佈在中山應數系圖書館和中山應數系WWW網址上(推廣服務內)，徵答期限從公佈日期起兩週內。"
+        },
+        {
+          "url": "http://www.wlsh.tyc.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9MemsxTDNCMFlWODJNRE01TWw4ek5qUXlPRFV6WHpRek1qUTVMbkJrWmc9PQ==&fname=14GGRPQKYW4441YXHCPOSWMOMK3025JGYSB0CCYSQP05DC40QK20FDEG0054FGSSZTCCCDOOVS04MOKKIGNKTS34B0MOXSNKIHMPXWA0LKA450DGUSSSWXFCMKPOCDNLDGA0EGGDVWB4DCYSDG34OKNK21GDQPA4SW30STA4GGLKCDUS4400XTJH44LKEGICKOJGVXLOQOROXSNP01VX04B5ROB4JGPPDG54VWWXYWCCFD15GGJCIGGDOO30JD25PKUWGG3500GDQP4434TS0154SS54PKSW",
+          "quote": "115學年度第一學期徵答題目公佈日期 : 09/18, 10/02, 10/16, 10/30, 11/13, 11/27, 12/11, 12/25"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "第三題（10/16 公佈）解答截止",
+      "date": "2026-10-30",
+      "time": "12:00",
+      "original": "10/30",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "http://www.wlsh.tyc.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9MemsxTDNCMFlWODJNRE01TWw4ek5qUXlPRFV6WHpRek1qUTVMbkJrWmc9PQ==&fname=14GGRPQKYW4441YXHCPOSWMOMK3025JGYSB0CCYSQP05DC40QK20FDEG0054FGSSZTCCCDOOVS04MOKKIGNKTS34B0MOXSNKIHMPXWA0LKA450DGUSSSWXFCMKPOCDNLDGA0EGGDVWB4DCYSDG34OKNK21GDQPA4SW30STA4GGLKCDUS4400XTJH44LKEGICKOJGVXLOQOROXSNP01VX04B5ROB4JGPPDG54VWWXYWCCFD15GGJCIGGDOO30JD25PKUWGG3500GDQP4434TS0154SS54PKSW",
+          "quote": "我們將於本學期每隔週的星期五(中午)將徵答題目公佈在中山應數系圖書館和中山應數系WWW網址上(推廣服務內)，徵答期限從公佈日期起兩週內。"
+        },
+        {
+          "url": "http://www.wlsh.tyc.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9MemsxTDNCMFlWODJNRE01TWw4ek5qUXlPRFV6WHpRek1qUTVMbkJrWmc9PQ==&fname=14GGRPQKYW4441YXHCPOSWMOMK3025JGYSB0CCYSQP05DC40QK20FDEG0054FGSSZTCCCDOOVS04MOKKIGNKTS34B0MOXSNKIHMPXWA0LKA450DGUSSSWXFCMKPOCDNLDGA0EGGDVWB4DCYSDG34OKNK21GDQPA4SW30STA4GGLKCDUS4400XTJH44LKEGICKOJGVXLOQOROXSNP01VX04B5ROB4JGPPDG54VWWXYWCCFD15GGJCIGGDOO30JD25PKUWGG3500GDQP4434TS0154SS54PKSW",
+          "quote": "115學年度第一學期徵答題目公佈日期 : 09/18, 10/02, 10/16, 10/30, 11/13, 11/27, 12/11, 12/25"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "第四題（10/30 公佈）解答截止",
+      "date": "2026-11-13",
+      "time": "12:00",
+      "original": "11/13",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "http://www.wlsh.tyc.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9MemsxTDNCMFlWODJNRE01TWw4ek5qUXlPRFV6WHpRek1qUTVMbkJrWmc9PQ==&fname=14GGRPQKYW4441YXHCPOSWMOMK3025JGYSB0CCYSQP05DC40QK20FDEG0054FGSSZTCCCDOOVS04MOKKIGNKTS34B0MOXSNKIHMPXWA0LKA450DGUSSSWXFCMKPOCDNLDGA0EGGDVWB4DCYSDG34OKNK21GDQPA4SW30STA4GGLKCDUS4400XTJH44LKEGICKOJGVXLOQOROXSNP01VX04B5ROB4JGPPDG54VWWXYWCCFD15GGJCIGGDOO30JD25PKUWGG3500GDQP4434TS0154SS54PKSW",
+          "quote": "我們將於本學期每隔週的星期五(中午)將徵答題目公佈在中山應數系圖書館和中山應數系WWW網址上(推廣服務內)，徵答期限從公佈日期起兩週內。"
+        },
+        {
+          "url": "http://www.wlsh.tyc.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9MemsxTDNCMFlWODJNRE01TWw4ek5qUXlPRFV6WHpRek1qUTVMbkJrWmc9PQ==&fname=14GGRPQKYW4441YXHCPOSWMOMK3025JGYSB0CCYSQP05DC40QK20FDEG0054FGSSZTCCCDOOVS04MOKKIGNKTS34B0MOXSNKIHMPXWA0LKA450DGUSSSWXFCMKPOCDNLDGA0EGGDVWB4DCYSDG34OKNK21GDQPA4SW30STA4GGLKCDUS4400XTJH44LKEGICKOJGVXLOQOROXSNP01VX04B5ROB4JGPPDG54VWWXYWCCFD15GGJCIGGDOO30JD25PKUWGG3500GDQP4434TS0154SS54PKSW",
+          "quote": "115學年度第一學期徵答題目公佈日期 : 09/18, 10/02, 10/16, 10/30, 11/13, 11/27, 12/11, 12/25"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "第五題（11/13 公佈）解答截止",
+      "date": "2026-11-27",
+      "time": "12:00",
+      "original": "11/27",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "http://www.wlsh.tyc.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9MemsxTDNCMFlWODJNRE01TWw4ek5qUXlPRFV6WHpRek1qUTVMbkJrWmc9PQ==&fname=14GGRPQKYW4441YXHCPOSWMOMK3025JGYSB0CCYSQP05DC40QK20FDEG0054FGSSZTCCCDOOVS04MOKKIGNKTS34B0MOXSNKIHMPXWA0LKA450DGUSSSWXFCMKPOCDNLDGA0EGGDVWB4DCYSDG34OKNK21GDQPA4SW30STA4GGLKCDUS4400XTJH44LKEGICKOJGVXLOQOROXSNP01VX04B5ROB4JGPPDG54VWWXYWCCFD15GGJCIGGDOO30JD25PKUWGG3500GDQP4434TS0154SS54PKSW",
+          "quote": "我們將於本學期每隔週的星期五(中午)將徵答題目公佈在中山應數系圖書館和中山應數系WWW網址上(推廣服務內)，徵答期限從公佈日期起兩週內。"
+        },
+        {
+          "url": "http://www.wlsh.tyc.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9MemsxTDNCMFlWODJNRE01TWw4ek5qUXlPRFV6WHpRek1qUTVMbkJrWmc9PQ==&fname=14GGRPQKYW4441YXHCPOSWMOMK3025JGYSB0CCYSQP05DC40QK20FDEG0054FGSSZTCCCDOOVS04MOKKIGNKTS34B0MOXSNKIHMPXWA0LKA450DGUSSSWXFCMKPOCDNLDGA0EGGDVWB4DCYSDG34OKNK21GDQPA4SW30STA4GGLKCDUS4400XTJH44LKEGICKOJGVXLOQOROXSNP01VX04B5ROB4JGPPDG54VWWXYWCCFD15GGJCIGGDOO30JD25PKUWGG3500GDQP4434TS0154SS54PKSW",
+          "quote": "115學年度第一學期徵答題目公佈日期 : 09/18, 10/02, 10/16, 10/30, 11/13, 11/27, 12/11, 12/25"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "第六題（11/27 公佈）解答截止",
+      "date": "2026-12-11",
+      "time": "12:00",
+      "original": "12/11",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "http://www.wlsh.tyc.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9MemsxTDNCMFlWODJNRE01TWw4ek5qUXlPRFV6WHpRek1qUTVMbkJrWmc9PQ==&fname=14GGRPQKYW4441YXHCPOSWMOMK3025JGYSB0CCYSQP05DC40QK20FDEG0054FGSSZTCCCDOOVS04MOKKIGNKTS34B0MOXSNKIHMPXWA0LKA450DGUSSSWXFCMKPOCDNLDGA0EGGDVWB4DCYSDG34OKNK21GDQPA4SW30STA4GGLKCDUS4400XTJH44LKEGICKOJGVXLOQOROXSNP01VX04B5ROB4JGPPDG54VWWXYWCCFD15GGJCIGGDOO30JD25PKUWGG3500GDQP4434TS0154SS54PKSW",
+          "quote": "我們將於本學期每隔週的星期五(中午)將徵答題目公佈在中山應數系圖書館和中山應數系WWW網址上(推廣服務內)，徵答期限從公佈日期起兩週內。"
+        },
+        {
+          "url": "http://www.wlsh.tyc.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9MemsxTDNCMFlWODJNRE01TWw4ek5qUXlPRFV6WHpRek1qUTVMbkJrWmc9PQ==&fname=14GGRPQKYW4441YXHCPOSWMOMK3025JGYSB0CCYSQP05DC40QK20FDEG0054FGSSZTCCCDOOVS04MOKKIGNKTS34B0MOXSNKIHMPXWA0LKA450DGUSSSWXFCMKPOCDNLDGA0EGGDVWB4DCYSDG34OKNK21GDQPA4SW30STA4GGLKCDUS4400XTJH44LKEGICKOJGVXLOQOROXSNP01VX04B5ROB4JGPPDG54VWWXYWCCFD15GGJCIGGDOO30JD25PKUWGG3500GDQP4434TS0154SS54PKSW",
+          "quote": "115學年度第一學期徵答題目公佈日期 : 09/18, 10/02, 10/16, 10/30, 11/13, 11/27, 12/11, 12/25"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "第七題（12/11 公佈）解答截止",
+      "date": "2026-12-25",
+      "time": "12:00",
+      "original": "12/25",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "http://www.wlsh.tyc.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9MemsxTDNCMFlWODJNRE01TWw4ek5qUXlPRFV6WHpRek1qUTVMbkJrWmc9PQ==&fname=14GGRPQKYW4441YXHCPOSWMOMK3025JGYSB0CCYSQP05DC40QK20FDEG0054FGSSZTCCCDOOVS04MOKKIGNKTS34B0MOXSNKIHMPXWA0LKA450DGUSSSWXFCMKPOCDNLDGA0EGGDVWB4DCYSDG34OKNK21GDQPA4SW30STA4GGLKCDUS4400XTJH44LKEGICKOJGVXLOQOROXSNP01VX04B5ROB4JGPPDG54VWWXYWCCFD15GGJCIGGDOO30JD25PKUWGG3500GDQP4434TS0154SS54PKSW",
+          "quote": "我們將於本學期每隔週的星期五(中午)將徵答題目公佈在中山應數系圖書館和中山應數系WWW網址上(推廣服務內)，徵答期限從公佈日期起兩週內。"
+        },
+        {
+          "url": "http://www.wlsh.tyc.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9MemsxTDNCMFlWODJNRE01TWw4ek5qUXlPRFV6WHpRek1qUTVMbkJrWmc9PQ==&fname=14GGRPQKYW4441YXHCPOSWMOMK3025JGYSB0CCYSQP05DC40QK20FDEG0054FGSSZTCCCDOOVS04MOKKIGNKTS34B0MOXSNKIHMPXWA0LKA450DGUSSSWXFCMKPOCDNLDGA0EGGDVWB4DCYSDG34OKNK21GDQPA4SW30STA4GGLKCDUS4400XTJH44LKEGICKOJGVXLOQOROXSNP01VX04B5ROB4JGPPDG54VWWXYWCCFD15GGJCIGGDOO30JD25PKUWGG3500GDQP4434TS0154SS54PKSW",
+          "quote": "115學年度第一學期徵答題目公佈日期 : 09/18, 10/02, 10/16, 10/30, 11/13, 11/27, 12/11, 12/25"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "第八題公佈",
+      "date": "2026-12-25",
+      "time": "12:00",
+      "original": "12/25",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "http://www.wlsh.tyc.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9MemsxTDNCMFlWODJNRE01TWw4ek5qUXlPRFV6WHpRek1qUTVMbkJrWmc9PQ==&fname=14GGRPQKYW4441YXHCPOSWMOMK3025JGYSB0CCYSQP05DC40QK20FDEG0054FGSSZTCCCDOOVS04MOKKIGNKTS34B0MOXSNKIHMPXWA0LKA450DGUSSSWXFCMKPOCDNLDGA0EGGDVWB4DCYSDG34OKNK21GDQPA4SW30STA4GGLKCDUS4400XTJH44LKEGICKOJGVXLOQOROXSNP01VX04B5ROB4JGPPDG54VWWXYWCCFD15GGJCIGGDOO30JD25PKUWGG3500GDQP4434TS0154SS54PKSW",
+          "quote": "我們將於本學期每隔週的星期五(中午)將徵答題目公佈在中山應數系圖書館和中山應數系WWW網址上(推廣服務內)，徵答期限從公佈日期起兩週內。"
+        },
+        {
+          "url": "http://www.wlsh.tyc.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9MemsxTDNCMFlWODJNRE01TWw4ek5qUXlPRFV6WHpRek1qUTVMbkJrWmc9PQ==&fname=14GGRPQKYW4441YXHCPOSWMOMK3025JGYSB0CCYSQP05DC40QK20FDEG0054FGSSZTCCCDOOVS04MOKKIGNKTS34B0MOXSNKIHMPXWA0LKA450DGUSSSWXFCMKPOCDNLDGA0EGGDVWB4DCYSDG34OKNK21GDQPA4SW30STA4GGLKCDUS4400XTJH44LKEGICKOJGVXLOQOROXSNP01VX04B5ROB4JGPPDG54VWWXYWCCFD15GGJCIGGDOO30JD25PKUWGG3500GDQP4434TS0154SS54PKSW",
+          "quote": "115學年度第一學期徵答題目公佈日期 : 09/18, 10/02, 10/16, 10/30, 11/13, 11/27, 12/11, 12/25"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "各題徵答（公佈起兩週內）",
+      "what": "以電子郵件寄送解答，主旨註明「115 年秋季第 X 題解答」，並打字註明姓名、校名、校址縣市、系所、年級、班級、學號和 E-mail",
+      "how": "online"
+    },
+    {
+      "stage": "各題徵答（公佈起兩週內）",
+      "what": "或將解答寄至中山大學應數系圖書館「雙週一題」信箱或傳真，寄出後以 E-mail 通知",
+      "how": "mail"
+    }
+  ],
+  "attendance": {
+    "value": "none",
+    "where": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "http://www.wlsh.tyc.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9MemsxTDNCMFlWODJNRE01TWw4ek5qUXlPRFV6WHpRek1qUTVMbkJrWmc9PQ==&fname=14GGRPQKYW4441YXHCPOSWMOMK3025JGYSB0CCYSQP05DC40QK20FDEG0054FGSSZTCCCDOOVS04MOKKIGNKTS34B0MOXSNKIHMPXWA0LKA450DGUSSSWXFCMKPOCDNLDGA0EGGDVWB4DCYSDG34OKNK21GDQPA4SW30STA4GGLKCDUS4400XTJH44LKEGICKOJGVXLOQOROXSNP01VX04B5ROB4JGPPDG54VWWXYWCCFD15GGJCIGGDOO30JD25PKUWGG3500GDQP4434TS0154SS54PKSW"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "http://www.wlsh.tyc.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9MemsxTDNCMFlWODJNRE01TWw4ek5qUXlPRFV6WHpRek1qUTVMbkJrWmc9PQ==&fname=14GGRPQKYW4441YXHCPOSWMOMK3025JGYSB0CCYSQP05DC40QK20FDEG0054FGSSZTCCCDOOVS04MOKKIGNKTS34B0MOXSNKIHMPXWA0LKA450DGUSSSWXFCMKPOCDNLDGA0EGGDVWB4DCYSDG34OKNK21GDQPA4SW30STA4GGLKCDUS4400XTJH44LKEGICKOJGVXLOQOROXSNP01VX04B5ROB4JGPPDG54VWWXYWCCFD15GGJCIGGDOO30JD25PKUWGG3500GDQP4434TS0154SS54PKSW"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "期末分高中組、大專組及社會組挑選數名學期內答題最優者，各頒獎狀一張；每題公佈解答與答對者姓名。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "http://www.wlsh.tyc.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9MemsxTDNCMFlWODJNRE01TWw4ek5qUXlPRFV6WHpRek1qUTVMbkJrWmc9PQ==&fname=14GGRPQKYW4441YXHCPOSWMOMK3025JGYSB0CCYSQP05DC40QK20FDEG0054FGSSZTCCCDOOVS04MOKKIGNKTS34B0MOXSNKIHMPXWA0LKA450DGUSSSWXFCMKPOCDNLDGA0EGGDVWB4DCYSDG34OKNK21GDQPA4SW30STA4GGLKCDUS4400XTJH44LKEGICKOJGVXLOQOROXSNP01VX04B5ROB4JGPPDG54VWWXYWCCFD15GGJCIGGDOO30JD25PKUWGG3500GDQP4434TS0154SS54PKSW",
+        "quote": "並於期末分高中組、大專組及社會組共挑選數名學期內答題最優者，將獲頒獎狀一張，以資鼓勵。"
+      },
+      {
+        "url": "http://www.wlsh.tyc.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9MemsxTDNCMFlWODJNRE01TWw4ek5qUXlPRFV6WHpRek1qUTVMbkJrWmc9PQ==&fname=14GGRPQKYW4441YXHCPOSWMOMK3025JGYSB0CCYSQP05DC40QK20FDEG0054FGSSZTCCCDOOVS04MOKKIGNKTS34B0MOXSNKIHMPXWA0LKA450DGUSSSWXFCMKPOCDNLDGA0EGGDVWB4DCYSDG34OKNK21GDQPA4SW30STA4GGLKCDUS4400XTJH44LKEGICKOJGVXLOQOROXSNP01VX04B5ROB4JGPPDG54VWWXYWCCFD15GGJCIGGDOO30JD25PKUWGG3500GDQP4434TS0154SS54PKSW",
+        "quote": "我們將會公佈每一題的解答和答對者的姓名"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "http://www.wlsh.tyc.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9MemsxTDNCMFlWODJNRE01TWw4ek5qUXlPRFV6WHpRek1qUTVMbkJrWmc9PQ==&fname=14GGRPQKYW4441YXHCPOSWMOMK3025JGYSB0CCYSQP05DC40QK20FDEG0054FGSSZTCCCDOOVS04MOKKIGNKTS34B0MOXSNKIHMPXWA0LKA450DGUSSSWXFCMKPOCDNLDGA0EGGDVWB4DCYSDG34OKNK21GDQPA4SW30STA4GGLKCDUS4400XTJH44LKEGICKOJGVXLOQOROXSNP01VX04B5ROB4JGPPDG54VWWXYWCCFD15GGJCIGGDOO30JD25PKUWGG3500GDQP4434TS0154SS54PKSW"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://www-math.nsysu.edu.tw/~problem/",
+    "rules": [
+      {
+        "title": "雙週一題網路數學問題徵答活動簡章",
+        "url": "http://www.wlsh.tyc.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9MemsxTDNCMFlWODJNRE01TWw4ek5qUXlPRFV6WHpRek1qUTVMbkJrWmc9PQ==&fname=14GGRPQKYW4441YXHCPOSWMOMK3025JGYSB0CCYSQP05DC40QK20FDEG0054FGSSZTCCCDOOVS04MOKKIGNKTS34B0MOXSNKIHMPXWA0LKA450DGUSSSWXFCMKPOCDNLDGA0EGGDVWB4DCYSDG34OKNK21GDQPA4SW30STA4GGLKCDUS4400XTJH44LKEGICKOJGVXLOQOROXSNP01VX04B5ROB4JGPPDG54VWWXYWCCFD15GGJCIGGDOO30JD25PKUWGG3500GDQP4434TS0154SS54PKSW"
+      }
+    ],
+    "registration": null
+  },
+  "found_via": [
+    {
+      "name": "大里高中 校外活動與競賽",
+      "url": "https://dlsh.tc.edu.tw/p/406-1068-633081,r2145.php?Lang=zh-tw"
+    },
+    {
+      "name": "潮州高中 學生課外活動",
+      "url": "https://www.ccsh.ptc.edu.tw/data.php?id=18983&tpl=27"
+    },
+    {
+      "name": "斗六高中 營隊研習競賽",
+      "url": "https://www.tlsh.ylc.edu.tw/2026/09/15/67154/"
+    },
+    {
+      "name": "苗栗高中 學生校外營隊、活動、比賽",
+      "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=27974"
+    },
+    {
+      "name": "南投高中 最新消息",
+      "url": "https://www.ntsh.ntct.edu.tw/ischool/public/news_view/show.php?nid=22784"
+    },
+    {
+      "name": "武陵高中 校外競賽",
+      "url": "http://www.wlsh.tyc.edu.tw/p/406-1000-43260,r83.php?Lang=zh-tw"
+    },
+    {
+      "name": "大里高中 校外活動與競賽",
+      "url": "https://dlsh.tc.edu.tw/p/406-1068-633081,r2145.php"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-26",
+    "method": "disputed",
+    "unread": [],
+    "note": "兩次讀取的關鍵事實不一致：截止日：2026-11-27 對 2026-10-02",
+    "readers": [
+      "claude-opus-5-5",
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-26",
+  "level": "unverified",
+  "url": null,
+  "markdown": null
+}

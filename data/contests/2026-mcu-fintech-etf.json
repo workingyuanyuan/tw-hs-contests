@@ -1,0 +1,256 @@
+{
+  "schema": 1,
+  "id": "2026-mcu-fintech-etf",
+  "title": "銘傳金融科技盃－ETF模擬交易實戰競賽",
+  "edition": "第二屆",
+  "summary": "高中職與大專在學學生組隊，以虛擬資金操作臺灣上市櫃 ETF 近 6 個月，比總報酬率與投資策略。",
+  "organizers": [
+    {
+      "name": "銘傳大學金融科技學院",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "商管與行銷"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職",
+      "大專"
+    ],
+    "division": "separate",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": 5,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://etf.mcu.edu.tw/rules.html",
+        "quote": "高中高職組：全國高中高職在學學生"
+      },
+      {
+        "url": "https://etf.mcu.edu.tw/rules.html",
+        "quote": "大專院校組：全國大專院校在學學生"
+      },
+      {
+        "url": "https://etf.mcu.edu.tw/rules.html",
+        "quote": "兩組別分別進行競賽、評比與排名"
+      },
+      {
+        "url": "https://etf.mcu.edu.tw/rules.html",
+        "quote": "每隊人數限定為 1 至 5 人，打造小而強的戰鬥編制"
+      },
+      {
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33617/0914%E7%AC%AC%E4%BA%8C%E5%B1%86%E9%8A%98%E5%82%B3%E9%87%91%E8%9E%8D%E7%A7%91%E6%8A%80%E7%9B%83ETF%E6%A8%A1%E6%93%AC%E4%BA%A4%E6%98%93%E5%AF%A6%E6%88%B0%E7%AB%B6%E8%B3%BD%E6%B5%B7%E5%A0%B1-%E9%AB%98%E4%B8%AD%E8%81%B7.pdf",
+        "quote": "每隊指定一位代表至報名系統統一填報"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "報名截止",
+      "date": "2026-09-18",
+      "time": "17:00",
+      "original": "115/8/17(一) – 115/9/18(五)17:00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33617/0914%E7%AC%AC%E4%BA%8C%E5%B1%86%E9%8A%98%E5%82%B3%E9%87%91%E8%9E%8D%E7%A7%91%E6%8A%80%E7%9B%83ETF%E6%A8%A1%E6%93%AC%E4%BA%A4%E6%98%93%E5%AF%A6%E6%88%B0%E7%AB%B6%E8%B3%BD%E6%B5%B7%E5%A0%B1-%E9%AB%98%E4%B8%AD%E8%81%B7.pdf",
+          "quote": "115/8/17(一) – 115/9/18(五)17:00"
+        },
+        {
+          "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33617/0914%E7%AC%AC%E4%BA%8C%E5%B1%86%E9%8A%98%E5%82%B3%E9%87%91%E8%9E%8D%E7%A7%91%E6%8A%80%E7%9B%83ETF%E6%A8%A1%E6%93%AC%E4%BA%A4%E6%98%93%E5%AF%A6%E6%88%B0%E7%AB%B6%E8%B3%BD%E4%BE%86%E6%96%87.pdf",
+          "quote": "報名日期：115年8月17日至9月18日17時"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "操作說明會（線上）",
+      "date": "2026-09-19",
+      "time": "13:00",
+      "original": "115/9/19(六)13:00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33617/0914%E7%AC%AC%E4%BA%8C%E5%B1%86%E9%8A%98%E5%82%B3%E9%87%91%E8%9E%8D%E7%A7%91%E6%8A%80%E7%9B%83ETF%E6%A8%A1%E6%93%AC%E4%BA%A4%E6%98%93%E5%AF%A6%E6%88%B0%E7%AB%B6%E8%B3%BD%E6%B5%B7%E5%A0%B1-%E9%AB%98%E4%B8%AD%E8%81%B7.pdf",
+          "quote": "115/9/19(六)13:00"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "正式比賽（模擬交易）結束",
+      "date": "2027-03-19",
+      "time": null,
+      "original": "115/9/21(一) – 116/3/19(五)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33617/0914%E7%AC%AC%E4%BA%8C%E5%B1%86%E9%8A%98%E5%82%B3%E9%87%91%E8%9E%8D%E7%A7%91%E6%8A%80%E7%9B%83ETF%E6%A8%A1%E6%93%AC%E4%BA%A4%E6%98%93%E5%AF%A6%E6%88%B0%E7%AB%B6%E8%B3%BD%E6%B5%B7%E5%A0%B1-%E9%AB%98%E4%B8%AD%E8%81%B7.pdf",
+          "quote": "115/9/21(一) – 116/3/19(五)"
+        }
+      ]
+    },
+    {
+      "kind": "shortlist_announcement",
+      "label": "晉級名單公布",
+      "date": "2027-03-26",
+      "time": null,
+      "original": "116/3/26(五)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33617/0914%E7%AC%AC%E4%BA%8C%E5%B1%86%E9%8A%98%E5%82%B3%E9%87%91%E8%9E%8D%E7%A7%91%E6%8A%80%E7%9B%83ETF%E6%A8%A1%E6%93%AC%E4%BA%A4%E6%98%93%E5%AF%A6%E6%88%B0%E7%AB%B6%E8%B3%BD%E6%B5%B7%E5%A0%B1-%E9%AB%98%E4%B8%AD%E8%81%B7.pdf",
+          "quote": "116/3/26(五)\n晉級名單公布"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "決賽及頒獎典禮",
+      "date": "2027-04-10",
+      "time": null,
+      "original": "116/4/10(六)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33617/0914%E7%AC%AC%E4%BA%8C%E5%B1%86%E9%8A%98%E5%82%B3%E9%87%91%E8%9E%8D%E7%A7%91%E6%8A%80%E7%9B%83ETF%E6%A8%A1%E6%93%AC%E4%BA%A4%E6%98%93%E5%AF%A6%E6%88%B0%E7%AB%B6%E8%B3%BD%E6%B5%B7%E5%A0%B1-%E9%AB%98%E4%B8%AD%E8%81%B7.pdf",
+          "quote": "116/4/10(六)\n決賽及頒獎典禮"
+        },
+        {
+          "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33617/0914%E7%AC%AC%E4%BA%8C%E5%B1%86%E9%8A%98%E5%82%B3%E9%87%91%E8%9E%8D%E7%A7%91%E6%8A%80%E7%9B%83ETF%E6%A8%A1%E6%93%AC%E4%BA%A4%E6%98%93%E5%AF%A6%E6%88%B0%E7%AB%B6%E8%B3%BD%E4%BE%86%E6%96%87.pdf",
+          "quote": "決賽日期：116年4月10日"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "正式比賽",
+      "what": "每隊以新台幣 1,000 萬元虛擬資金在競賽交易平台買賣 ETF，依總報酬率每日排名",
+      "how": "online"
+    },
+    {
+      "stage": "決賽（各組總報酬率前 5 強）",
+      "what": "投資策略簡報：說明 ETF 資產配置邏輯、風險控管策略等交易策略與投資邏輯",
+      "how": "unknown"
+    }
+  ],
+  "attendance": {
+    "value": "finalists",
+    "where": null,
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://etf.mcu.edu.tw/rules.html",
+        "quote": "高中高職組前 5 強與大專院校組前 5 強隊伍將獲邀參加【投資策略說明會】"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://etf.mcu.edu.tw/"
+      },
+      {
+        "url": "https://etf.mcu.edu.tw/rules.html"
+      },
+      {
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33617/0914%E7%AC%AC%E4%BA%8C%E5%B1%86%E9%8A%98%E5%82%B3%E9%87%91%E8%9E%8D%E7%A7%91%E6%8A%80%E7%9B%83ETF%E6%A8%A1%E6%93%AC%E4%BA%A4%E6%98%93%E5%AF%A6%E6%88%B0%E7%AB%B6%E8%B3%BD%E4%BE%86%E6%96%87.pdf"
+      },
+      {
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33617/0914%E7%AC%AC%E4%BA%8C%E5%B1%86%E9%8A%98%E5%82%B3%E9%87%91%E8%9E%8D%E7%A7%91%E6%8A%80%E7%9B%83ETF%E6%A8%A1%E6%93%AC%E4%BA%A4%E6%98%93%E5%AF%A6%E6%88%B0%E7%AB%B6%E8%B3%BD%E6%B5%B7%E5%A0%B1-%E9%AB%98%E4%B8%AD%E8%81%B7.pdf"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "高中高職組與大專院校組各取前三名：第一名 60,000 元、第二名 40,000 元、第三名 20,000 元，另設知識獎（依觀看微影片及測驗排名）；優勝隊伍獲頒獎金與獎狀，總獎金 240,000 元。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://etf.mcu.edu.tw/rules.html",
+        "quote": "每組取前三名，得獎隊伍須配合主辦單位填寫並提供相關書面文件。"
+      },
+      {
+        "url": "https://etf.mcu.edu.tw/rules.html",
+        "quote": "🥇第一名NT$ 60,000"
+      },
+      {
+        "url": "https://etf.mcu.edu.tw/rules.html",
+        "quote": "🥈第二名NT$ 40,000"
+      },
+      {
+        "url": "https://etf.mcu.edu.tw/rules.html",
+        "quote": "🥉第三名NT$ 20,000"
+      },
+      {
+        "url": "https://etf.mcu.edu.tw/rules.html",
+        "quote": "🏅知識獎觀看微影片及測驗排名"
+      },
+      {
+        "url": "https://etf.mcu.edu.tw/rules.html",
+        "quote": "NT$ 240,000"
+      },
+      {
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33617/0914%E7%AC%AC%E4%BA%8C%E5%B1%86%E9%8A%98%E5%82%B3%E9%87%91%E8%9E%8D%E7%A7%91%E6%8A%80%E7%9B%83ETF%E6%A8%A1%E6%93%AC%E4%BA%A4%E6%98%93%E5%AF%A6%E6%88%B0%E7%AB%B6%E8%B3%BD%E4%BE%86%E6%96%87.pdf",
+        "quote": "優勝隊伍將獲頒獎金與獎狀，總獎金高達新臺幣24萬元。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://etf.mcu.edu.tw/"
+      },
+      {
+        "url": "https://etf.mcu.edu.tw/rules.html"
+      },
+      {
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33617/0914%E7%AC%AC%E4%BA%8C%E5%B1%86%E9%8A%98%E5%82%B3%E9%87%91%E8%9E%8D%E7%A7%91%E6%8A%80%E7%9B%83ETF%E6%A8%A1%E6%93%AC%E4%BA%A4%E6%98%93%E5%AF%A6%E6%88%B0%E7%AB%B6%E8%B3%BD%E4%BE%86%E6%96%87.pdf"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://etf.mcu.edu.tw/",
+    "rules": [
+      {
+        "title": "競賽規則",
+        "url": "https://etf.mcu.edu.tw/rules.html"
+      }
+    ],
+    "registration": null
+  },
+  "found_via": [
+    {
+      "name": "etf.mcu.edu.tw",
+      "url": "https://etf.mcu.edu.tw/"
+    },
+    {
+      "name": "暨大附中 學生研習與競賽活動",
+      "url": "https://www.pshs.ntct.edu.tw/ischool/public/news_view/show.php?nid=33617"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-26",
+    "method": "single",
+    "unread": [],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-26"
+}

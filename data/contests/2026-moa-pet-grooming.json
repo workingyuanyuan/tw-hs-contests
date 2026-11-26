@@ -1,0 +1,208 @@
+{
+  "schema": 1,
+  "id": "2026-moa-pet-grooming",
+  "title": "寵物美容競技比賽",
+  "edition": "2026",
+  "summary": "高中職、五專及大專寵物美容相關科系學生自備模特兒犬，到場比賽犬隻毛髮修剪美容。",
+  "organizers": [
+    {
+      "name": "農業部",
+      "role": "指導"
+    },
+    {
+      "name": "社團法人台灣畜犬協會",
+      "role": "承辦"
+    }
+  ],
+  "categories": [
+    "技藝與技能",
+    "農業與環境"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職",
+      "五專",
+      "大專"
+    ],
+    "division": "separate",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": 1,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/「農業部寵物美容競技比賽」活動簡章.pdf",
+        "quote": "（一） 教育部立案之高級中等學校或大專校院寵物美容相關科系在學學生，持有勞動部「寵物美容丙級技術士證照」者(報名請附證照及有效學生證影本)"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/「農業部寵物美容競技比賽」活動簡章.pdf",
+        "quote": "證照」，由學校統一報名推薦，每校至多4 名"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/「農業部寵物美容競技比賽」活動簡章.pdf",
+        "quote": "① 高中職/五專：特優1 名(6,000 元)、優等2 名(5,000 元)、佳作3 名(3,000 元)、特別獎1 名(3,000 元)"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/「農業部寵物美容競技比賽」活動簡章.pdf",
+        "quote": "② 大學/研究所：特優1 名(6,000 元)、優等2 名(5,000 元)、佳作3 名(3,000 元)、特別獎1 名(3,000 元)"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "郵寄報名截止（以郵戳為憑）",
+      "date": "2026-10-30",
+      "time": null,
+      "original": "即日起至10 月30 日(星期五)止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/「農業部寵物美容競技比賽」活動簡章.pdf",
+          "quote": "報名日期：即日起至10 月30 日(星期五)止 (僅接受郵寄信件報名，以郵戳為憑，請同時提供證照影本)"
+        },
+        {
+          "url": "https://www.tngs.tn.edu.tw/2026/09/10/%e3%80%8c%e8%be%b2%e6%a5%ad%e9%83%a8%e5%af%b5%e7%89%a9%e7%be%8e%e5%ae%b9%e7%ab%b6%e6%8a%80%e6%af%94%e8%b3%bd%e3%80%8d%e6%b4%bb%e5%8b%95%e7%b0%a1%e7%ab%a0/",
+          "quote": "(一)報名時間：即日起至115年10月30日止。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "比賽",
+      "date": "2026-12-05",
+      "time": null,
+      "original": "2026 年12 月5 日(星期六)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/「農業部寵物美容競技比賽」活動簡章.pdf",
+          "quote": "比賽日期：2026 年12 月5 日(星期六)"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名",
+      "what": "報名表、2 吋相片 1 張，持證者附丙級技術士證照及學生證影本",
+      "how": "mail"
+    },
+    {
+      "stage": "比賽",
+      "what": "120 分鐘內為自備模特兒犬（貴賓、比熊、博美、西施或瑪爾濟斯）完成毛髮修剪美容",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "財團法人台中世界貿易中心一館（臺中市西屯區）",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/「農業部寵物美容競技比賽」活動簡章.pdf",
+        "quote": "（一） 現場進行毛髮修剪美容，比賽時間120 分鐘。"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/「農業部寵物美容競技比賽」活動簡章.pdf",
+        "quote": "比賽地點：財團法人台中世界貿易中心一館(臺中市西屯區福和里天保街60 號)"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/「農業部寵物美容競技比賽」活動簡章.pdf",
+        "quote": "六、報名手續：免報名費，請詳填報名表，參加者請附上1 張2 吋相片 (相片背後請寫上名字)"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "分丙級技術士組與非丙級技術士組（學校推薦），各組再分高中職/五專與大學/研究所，獲獎者頒給獎狀及獎金。丙級技術士組各級：特優 1 名 6,000 元、優等 2 名 5,000 元、佳作 3 名 3,000 元、特別獎 1 名 3,000 元（取得丙級證照 2 年內之參賽者）；非丙級技術士組各級：特優、優等、佳作各 1 名，分別 6,000 元、5,000 元、3,000 元。另依參賽者人數及獲獎者人數各取前 3 所學校頒發獎狀。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/「農業部寵物美容競技比賽」活動簡章.pdf",
+        "quote": "本競賽分成「丙級技術士組」與「非丙級技術士組」，獲獎者頒給獎狀及獎金，獎項如下："
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/「農業部寵物美容競技比賽」活動簡章.pdf",
+        "quote": "① 高中職/五專：特優1 名(6,000 元)、優等2 名(5,000 元)、佳作3 名(3,000 元)、特別獎1 名(3,000 元)"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/「農業部寵物美容競技比賽」活動簡章.pdf",
+        "quote": "※ 特別獎取得丙級證照2 年內之參賽者"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/「農業部寵物美容競技比賽」活動簡章.pdf",
+        "quote": "① 高中職/五專：特優1 名(6,000 元)、優等1 名(5,000 元)、佳作1 名(3,000 元)"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/「農業部寵物美容競技比賽」活動簡章.pdf",
+        "quote": "① 依參賽者人數排序，取前3 所學校頒發獎狀"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/「農業部寵物美容競技比賽」活動簡章.pdf",
+        "quote": "② 依獲獎者人數排序，取前3 所學校頒發獎狀"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/「農業部寵物美容競技比賽」活動簡章.pdf"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/2026/09/10/%e3%80%8c%e8%be%b2%e6%a5%ad%e9%83%a8%e5%af%b5%e7%89%a9%e7%be%8e%e5%ae%b9%e7%ab%b6%e6%8a%80%e6%af%94%e8%b3%bd%e3%80%8d%e6%b4%bb%e5%8b%95%e7%b0%a1%e7%ab%a0/"
+      }
+    ]
+  },
+  "links": {
+    "official": null,
+    "rules": [
+      {
+        "title": "農業部寵物美容競技比賽大會簡章（臺南女中公告附件）",
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/「農業部寵物美容競技比賽」活動簡章.pdf"
+      },
+      {
+        "title": "農業部寵物美容競技比賽大會簡章（苗栗高中公告附件）",
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27945/%E7%B0%A1%E7%AB%A0.pdf"
+      }
+    ],
+    "registration": null
+  },
+  "found_via": [
+    {
+      "name": "苗栗高中 學生校外營隊、活動、比賽",
+      "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=27945"
+    },
+    {
+      "name": "臺南女中 學生競賽",
+      "url": "https://www.tngs.tn.edu.tw/2026/09/10/%e3%80%8c%e8%be%b2%e6%a5%ad%e9%83%a8%e5%af%b5%e7%89%a9%e7%be%8e%e5%ae%b9%e7%ab%b6%e6%8a%80%e6%af%94%e8%b3%bd%e3%80%8d%e6%b4%bb%e5%8b%95%e7%b0%a1%e7%ab%a0/"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-26",
+    "method": "single",
+    "unread": [
+      "公文.pdf"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-26",
+  "conflict": "大會簡章第五點寫比賽地點為財團法人台中世界貿易中心一館，同一份簡章報名表上方則寫二館；臺南女中公告亦寫一館。"
+}

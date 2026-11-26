@@ -1,0 +1,172 @@
+{
+  "schema": 1,
+  "id": "2026-national-language-contest",
+  "title": "115年全國語文競賽",
+  "edition": "115 年",
+  "summary": "國小至高中及社會組競賽員以國語與本土語文比朗讀、演說、作文及讀者劇場。",
+  "organizers": [
+    {
+      "name": "基隆市政府",
+      "role": "承辦"
+    }
+  ],
+  "categories": [
+    "語文與寫作"
+  ],
+  "eligibility": {
+    "levels": [
+      "國小",
+      "國中",
+      "高中",
+      "社會人士"
+    ],
+    "division": "separate",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "unknown",
+    "team_min": null,
+    "team_max": null,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.chsh.chc.edu.tw/p/406-1009-195784,r70.php?Lang=zh-tw",
+        "quote": "修正項目包含國語朗讀（高中組）、臺灣客語朗讀及臺灣原住民族語言朗讀（僅包含國小組、國中組及高中組）等"
+      },
+      {
+        "url": "https://language115.eduweb.tw/",
+        "quote": "臺灣原住民族語言演說教師組及社會組參賽補助費請領方式、補助標準表及名冊格式"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "other",
+      "label": "彰化縣學校寄送競賽內容第二次修正建議表截止",
+      "date": "2026-09-29",
+      "time": "17:00",
+      "original": "115年9月29日（星期二）下午5時前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.chsh.chc.edu.tw/p/406-1009-195784,r70.php?Lang=zh-tw",
+          "quote": "請填寫競賽內容修正建議表(如附件)，於115年9月29日（星期二）下午5時前逕寄本府承辦人信箱"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "競賽單位報到及走位",
+      "date": "2026-12-11",
+      "time": null,
+      "original": "12月11日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://language115.eduweb.tw/",
+          "quote": "115年全國語文競賽 12月11日競賽單位報到及走位注意事項"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "決賽",
+      "what": "國語、臺灣客語、臺灣原住民族語言等朗讀",
+      "how": "onsite"
+    },
+    {
+      "stage": "決賽",
+      "what": "臺灣原住民族語言演說",
+      "how": "onsite"
+    },
+    {
+      "stage": "決賽",
+      "what": "作文，寫在大會作文稿紙",
+      "how": "onsite"
+    },
+    {
+      "stage": "決賽",
+      "what": "本土語文讀者劇場演出，依規定格式交文本及切結書",
+      "how": "unknown"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "明德中學、基隆商工、仁愛國小",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://language115.eduweb.tw/",
+        "quote": "明德中學（國台客語動態競賽區暨讀者劇場競賽區）"
+      },
+      {
+        "url": "https://language115.eduweb.tw/",
+        "quote": "基隆商工（國台客語靜態競賽區暨休息區暨讀者劇場休息區）"
+      },
+      {
+        "url": "https://language115.eduweb.tw/",
+        "quote": "仁愛國小（原住民語競賽區）"
+      }
+    ]
+  },
+  "fee": {
+    "value": "unknown",
+    "amount": null,
+    "basis": "unread",
+    "evidence": []
+  },
+  "prizes": {
+    "text": null,
+    "basis": "unread",
+    "evidence": []
+  },
+  "ai_policy": {
+    "value": "unknown",
+    "basis": "unread",
+    "evidence": []
+  },
+  "links": {
+    "official": "https://language115.eduweb.tw/",
+    "rules": [
+      {
+        "title": "中華民國115全國語文競賽實施要點-修正版",
+        "url": "https://language115.eduweb.tw/Bulletin/Detail.php?ID=13"
+      },
+      {
+        "title": "中華民國115全國語文競賽實施要點",
+        "url": "https://language115.eduweb.tw/Bulletin/Detail.php?ID=6"
+      },
+      {
+        "title": "115年全國語文競賽 競賽員注意事項--公告版",
+        "url": "https://language115.eduweb.tw/Bulletin/Detail.php?ID=8"
+      }
+    ],
+    "registration": "https://language115.eduweb.tw/SignupN/CountyLogin.php"
+  },
+  "found_via": [
+    {
+      "name": "彰化高中 競賽公告",
+      "url": "https://www.chsh.chc.edu.tw/p/406-1009-195784,r70.php?Lang=zh-tw"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-26",
+    "method": "single",
+    "unread": [
+      "中華民國115全國語文競賽實施要點-修正版",
+      "115年全國語文競賽 競賽員注意事項--公告版",
+      "競賽內容修正建議表"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-26",
+  "level": "unverified",
+  "url": null,
+  "markdown": null
+}

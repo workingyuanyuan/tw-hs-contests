@@ -3,7 +3,7 @@ title: "2027 年第八屆台灣經濟學奧林匹亞競賽"
 description: "未滿 20 歲、未曾就讀大專的學生以英文應考經濟學與財務金融，晉級者以英語發表商業案例分析。"
 appliesTo: "2027 年第八屆 這一屆"
 caveat: "高中職學生與國中學生同組評比。"
-lastVerified: 2026-11-25
+lastVerified: 2026-11-26
 kind: "contest"
 deadline: "2026-12-07"
 sources:

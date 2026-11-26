@@ -1,0 +1,238 @@
+{
+  "schema": 1,
+  "id": "2026-hsinchu-city-student-art-prelim",
+  "title": "115學年度全國學生美術比賽新竹市初賽",
+  "edition": "115 學年度",
+  "summary": "新竹市國小至高中職學生經學校選送，以繪畫、書法、平面設計、漫畫、水墨畫或版畫作品參賽。",
+  "organizers": [
+    {
+      "name": "教育部",
+      "role": "指導"
+    },
+    {
+      "name": "國立臺灣藝術教育館",
+      "role": "指導"
+    },
+    {
+      "name": "新竹市政府教育處",
+      "role": "主辦"
+    },
+    {
+      "name": "新竹市立虎林國民中學",
+      "role": "承辦"
+    }
+  ],
+  "categories": [
+    "美術",
+    "設計"
+  ],
+  "eligibility": {
+    "levels": [
+      "國小",
+      "國中",
+      "高中",
+      "高職"
+    ],
+    "division": "separate",
+    "regions": [
+      "新竹市"
+    ],
+    "nomination": "school",
+    "team_min": 1,
+    "team_max": 1,
+    "teacher": "optional",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/wr/file/2/26104/fbc19e8c760082961fffcd7b1bcfa3be.pdf",
+        "quote": "肆、比賽組別：國小組、國中組、高中（職）組。"
+      },
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/wr/file/2/26104/fbc19e8c760082961fffcd7b1bcfa3be.pdf",
+        "quote": "國中組及高中（職）組：每校應選送西畫類、水墨畫類、書法類、版畫類、平面設計類、漫畫類各組各1 至5 件"
+      },
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/wr/file/2/26104/fbc19e8c760082961fffcd7b1bcfa3be.pdf",
+        "quote": "個別報名或私自送件概不受理。"
+      },
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/wr/file/2/26104/fbc19e8c760082961fffcd7b1bcfa3be.pdf",
+        "quote": "同一類組每人限送作品一件，且每件作品之創作者為一人，每人至多參加二類。"
+      },
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/wr/file/2/26104/fbc19e8c760082961fffcd7b1bcfa3be.pdf",
+        "quote": "報名表之指導老師欄，限填一位就學學校老師（含經學校聘任之代理、代課教師，並須具指導事實），若無校內指導老師，則填「無」。"
+      },
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/wr/file/2/26104/fbc19e8c760082961fffcd7b1bcfa3be.pdf",
+        "quote": "各組參加學生之年齡，國小組以不超過 14 足歲為限，國中組以不超過 17 足歲為限，高中（職）組以不超過 20 足歲為限。（以 115 年12 月31 日為計算標準）。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "submission_deadline",
+      "label": "各校作品送件截止",
+      "date": "2026-09-11",
+      "time": "15:00",
+      "original": "115 年9 月10 日、11 日（星期四、五）上午9：00 起至下午3：00 止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.hccvs.hc.edu.tw/ischool/wr/file/2/26104/fbc19e8c760082961fffcd7b1bcfa3be.pdf",
+          "quote": "收件日期：115 年9 月10 日、11 日（星期四、五）上午9：00 起至下午3：00 止。"
+        },
+        {
+          "url": "https://www.hccvs.hc.edu.tw/ischool/wr/file/2/26104/fbc19e8c760082961fffcd7b1bcfa3be.pdf",
+          "quote": "09 月11 日（五）國中組高中職組"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "評選",
+      "date": "2026-10-02",
+      "time": null,
+      "original": "115 年9 月29 日(二)-10月2 日(五)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.hccvs.hc.edu.tw/ischool/wr/file/2/26104/fbc19e8c760082961fffcd7b1bcfa3be.pdf",
+          "quote": "於115 年9 月29 日(二)-10月2 日(五)辦理評選事宜。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "初賽作品退件",
+      "date": "2026-10-16",
+      "time": "15:00",
+      "original": "115 年10 月15 日、16 日（星期四、五）上午9：00 起至下午3：00 止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.hccvs.hc.edu.tw/ischool/wr/file/2/26104/fbc19e8c760082961fffcd7b1bcfa3be.pdf",
+          "quote": "115 年10 月15 日、16 日（星期四、五）上午9：00 起至下午3：00 止，於新竹市立虎林國民中學4 樓樂活教室辦理退件"
+        },
+        {
+          "url": "https://www.hccvs.hc.edu.tw/ischool/wr/file/2/26104/fbc19e8c760082961fffcd7b1bcfa3be.pdf",
+          "quote": "10 月16 日（五） 國中組 高中職組"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "送全國賽未獲甲等以上作品退件",
+      "date": "2026-11-25",
+      "time": "15:00",
+      "original": "115 年11月25 日（星期三）上午9：00 起至下午3：00 止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.hccvs.hc.edu.tw/ischool/wr/file/2/26104/fbc19e8c760082961fffcd7b1bcfa3be.pdf",
+          "quote": "本市選送全國學生美術比賽未獲甲等以上之作品，由各校派員於115 年11月25 日（星期三）上午9：00 起至下午3：00 止"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "初賽送件",
+      "what": "每類組每人一件作品，背面貼報名表標籤兩份；高中職組書法類以外另附 100-200 字作品介紹",
+      "how": "onsite"
+    },
+    {
+      "stage": "初賽送件（學校）",
+      "what": "作品清冊、已核章之保證書及作品清冊電子檔",
+      "how": "onsite"
+    },
+    {
+      "stage": "全國決賽（書法類取得決賽代表權者）",
+      "what": "現場書寫作品",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "finalists",
+    "where": null,
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/wr/file/2/26104/fbc19e8c760082961fffcd7b1bcfa3be.pdf",
+        "quote": "書法類取得決賽代表權同學，須依市賽主辦單位通知參加現場書寫（現場書寫簡章另行發送），將現場書寫作品送達全國賽主辦單位進行決賽。"
+      },
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/wr/file/2/26104/fbc19e8c760082961fffcd7b1bcfa3be.pdf",
+        "quote": "評審委員如對參賽作品有疑義，得要求參賽者至現場作畫。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/wr/file/2/26104/fbc19e8c760082961fffcd7b1bcfa3be.pdf"
+      },
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/public/news_view/show.php?nid=26104"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "初賽各類組錄取前三名（第一名 1 件、第二名 2 件、第三名 3 件）及佳作若干名，頒發獎狀；前三名作品送國立臺灣藝術教育館參加全國學生美術比賽。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/wr/file/2/26104/fbc19e8c760082961fffcd7b1bcfa3be.pdf",
+        "quote": "評選作品各類組錄取前六名（第一名壹件、第二名貳件、第三名叁件）佳作若干名；前六名作品將由承辦單位送到國立臺灣藝術教育館"
+      },
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/wr/file/2/26104/fbc19e8c760082961fffcd7b1bcfa3be.pdf",
+        "quote": "初賽各類組前三名及佳作學生頒發獎狀"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "banned",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/wr/file/2/26104/fbc19e8c760082961fffcd7b1bcfa3be.pdf",
+        "quote": "參賽作品應為學生之個人創作，非著作權保護之標的(如生成式人工智慧產生之成果)不得參賽。"
+      }
+    ]
+  },
+  "links": {
+    "official": null,
+    "rules": [
+      {
+        "title": "115學年度全國學生美術比賽【新竹市初賽】實施計畫",
+        "url": "https://www.hccvs.hc.edu.tw/ischool/wr/file/2/26104/fbc19e8c760082961fffcd7b1bcfa3be.pdf"
+      }
+    ],
+    "registration": null
+  },
+  "found_via": [
+    {
+      "name": "新竹高商 消息公佈欄",
+      "url": "https://www.hccvs.hc.edu.tw/ischool/public/news_view/show.php?nid=26104"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-26",
+    "method": "single",
+    "unread": [
+      "115 學年度全國學生美術比賽實施要點",
+      "書法類現場書寫簡章",
+      "附表三報名表黏貼方式圖"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-26"
+}

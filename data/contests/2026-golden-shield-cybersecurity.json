@@ -1,0 +1,281 @@
+{
+  "schema": 1,
+  "id": "2026-golden-shield-cybersecurity",
+  "title": "資安技能金盾獎競賽",
+  "edition": "115 年度第 21 屆",
+  "summary": "國中至大專學生 1 至 3 人組隊，解答資安實務題目比賽解題能力。",
+  "organizers": [
+    {
+      "name": "數位發展部",
+      "role": "指導"
+    },
+    {
+      "name": "教育部",
+      "role": "指導"
+    },
+    {
+      "name": "數位發展部資通安全署",
+      "role": "主辦"
+    },
+    {
+      "name": "國家資通安全研究院",
+      "role": "承辦"
+    }
+  ],
+  "categories": [
+    "資訊與 AI"
+  ],
+  "eligibility": {
+    "levels": [
+      "國中",
+      "高中",
+      "高職",
+      "大專"
+    ],
+    "division": "mixed",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": 3,
+    "teacher": "optional",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27895/1150001051_1.pdf",
+        "quote": "以隊伍為報名單位，每隊人數1 至3 人，並指定1 名擔任隊長及主要聯絡人"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27895/1150001051_1.pdf",
+        "quote": "大專校院組：參賽者須為大專校院在學且同校學生，隊員可跨年級或科系組隊。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27895/1150001051_1.pdf",
+        "quote": "國高中組：參賽者須為國高中(職)在學學生，隊員可跨校、年級或科系組隊。每校不限報名隊數。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27895/1150001051_1.pdf",
+        "quote": "每一參賽隊伍可邀請1 名指導老師，資格不限為學校任職之教職員，產業界人士亦可。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27895/1150001051_1.pdf",
+        "quote": "採網路報名，請於報名截止日前至活動網站 https://csc.nics.nat.gov.tw/，完成報名表件上傳。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "報名（含報名表上傳）截止",
+      "date": "2026-09-30",
+      "time": "17:00",
+      "original": "115 年9 月1 日(二)9:00~9 月30 日(三)17:00 止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27895/1150001051_1.pdf",
+          "quote": "自115 年9 月1 日(二)9:00 起至9 月30 日(三)17:00 止。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "初賽",
+      "date": "2026-10-17",
+      "time": null,
+      "original": "115 年10 月17 日 (六)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27895/1150001051_1.pdf",
+          "quote": "初賽日期：115 年10 月17 日 (六)"
+        }
+      ]
+    },
+    {
+      "kind": "shortlist_announcement",
+      "label": "公告入圍決賽隊伍",
+      "date": "2026-10-30",
+      "time": null,
+      "original": "115 年10 月30 日(五)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.nkhs.tp.edu.tw/ischool/public/news_view/show.php?nid=34584",
+          "quote": "公告入圍決賽隊伍：115年10月30日（週五）。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "決賽暨頒獎典禮",
+      "date": "2026-11-27",
+      "time": null,
+      "original": "115 年11 月27 日(五)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.nkhs.tp.edu.tw/ischool/public/news_view/show.php?nid=34584",
+          "quote": "決賽暨頒獎典禮：115年11月27日（週五）。"
+        },
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27895/1150001051_1.pdf",
+          "quote": "競賽日期：115 年11 月27 日(五)"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名",
+      "what": "報名表、加蓋註冊章之學生證影本（或在學證明聲明書）、個人資料提供同意書及肖像權使用同意書",
+      "how": "online"
+    },
+    {
+      "stage": "初賽",
+      "what": "1.5 小時單選題作答，範圍含逆向工程、網站、Pwn、加解密、鑑識等，使用主辦單位提供之電腦",
+      "how": "onsite"
+    },
+    {
+      "stage": "決賽（入圍隊伍）",
+      "what": "5 小時解謎式（Jeopardy）解題，取得試題金鑰填答於競賽系統，自備電腦與解題工具",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "初賽於北區、中區、南區各一處場地；決賽於台北矽谷國際會議中心（新北市新店區）",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27895/1150001051_1.pdf",
+        "quote": "符合競賽資格之報名參賽隊伍均須參加初賽"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27895/1150001051_1.pdf",
+        "quote": "初賽地點於北區、中區、南區各設置一處競賽場地並同時舉行，實際初賽地點依報到通知為主，參賽者於報名時可勾選初賽地點。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27895/1150001051_1.pdf",
+        "quote": "競賽地點：台北矽谷國際會議中心(新北市新店區北新路三段223 號2F)。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27895/1150001051_1.pdf"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "國高中組：第 1 名團隊獎牌（每人乙枚）、價值 3 萬元獎品及個人獎狀，第 2 名 2 萬元獎品，第 3 名 1 萬元獎品，鋒芒畢露獎 2 名價值 5 仟元獎品及個人獎狀。大專校院組：第 1 名 12 萬元、第 2 名 7 萬元、第 3 名 5 萬元獎品，鋒芒畢露獎 2 名 3 萬元、嶄露頭角獎 5 名 1 萬 2 仟元獎品。得獎隊伍指導老師獲個人獎狀；獎品價值超過 2 萬元者代扣 10% 稅額。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27895/1150001051_1.pdf",
+        "quote": "第1 名：頒發團隊獎牌（每人乙枚）、價值新臺幣3 萬元獎品及個人獎狀。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27895/1150001051_1.pdf",
+        "quote": "第2 名：頒發團隊獎牌（每人乙枚）、價值新臺幣2 萬元獎品及個人獎狀。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27895/1150001051_1.pdf",
+        "quote": "第3 名：頒發團隊獎牌（每人乙枚）、價值新臺幣1 萬元獎品及個人獎狀。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27895/1150001051_1.pdf",
+        "quote": "鋒芒畢露獎2 名：頒發團隊價值新臺幣5 仟元獎品及個人獎狀。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27895/1150001051_1.pdf",
+        "quote": "第1 名：頒發團隊獎牌（每人乙枚）、價值新臺幣 12 萬元獎品及個人獎狀。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27895/1150001051_1.pdf",
+        "quote": "第2 名：頒發團隊獎牌（每人乙枚）、價值新臺幣 7 萬元獎品及個人獎狀。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27895/1150001051_1.pdf",
+        "quote": "第3 名：頒發團隊獎牌（每人乙枚）、價值新臺幣 5 萬元獎品及個人獎狀。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27895/1150001051_1.pdf",
+        "quote": "鋒芒畢露獎2 名：頒發團隊價值新臺幣 3 萬元獎品及個人獎狀。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27895/1150001051_1.pdf",
+        "quote": "嶄露頭角獎5 名：頒發團隊價值新臺幣 1 萬 2 仟元獎品及個人獎狀。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27895/1150001051_1.pdf",
+        "quote": "得獎隊伍指導老師可獲得個人獎狀乙紙。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27895/1150001051_1.pdf",
+        "quote": "依所得稅法規定得獎獎品價值超過新臺幣2 萬元者，活動小組依法先行代扣繳10%稅額。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27895/1150001051_1.pdf"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://csc.nics.nat.gov.tw/",
+    "rules": [
+      {
+        "title": "資安技能金盾獎競賽要點（PDF）",
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27895/1150001051_1.pdf"
+      }
+    ],
+    "registration": "https://csc.nics.nat.gov.tw/"
+  },
+  "found_via": [
+    {
+      "name": "金門高中 最新消息",
+      "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=22194"
+    },
+    {
+      "name": "南港高工 重要資訊",
+      "url": "https://www.nkhs.tp.edu.tw/ischool/public/news_view/show.php?nid=34584"
+    },
+    {
+      "name": "大里高中 校外活動與競賽",
+      "url": "https://dlsh.tc.edu.tw/p/406-1068-629139,r2145.php?Lang=zh-tw"
+    },
+    {
+      "name": "苗栗農工 處室公告",
+      "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26303"
+    },
+    {
+      "name": "苗栗高中 學生校外營隊、活動、比賽",
+      "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=27895"
+    },
+    {
+      "name": "大里高中 校外活動與競賽",
+      "url": "https://dlsh.tc.edu.tw/p/406-1068-629139,r2145.php"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-26",
+    "method": "single",
+    "unread": [],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-26"
+}

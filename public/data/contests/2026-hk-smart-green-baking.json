@@ -1,0 +1,233 @@
+{
+  "schema": 1,
+  "id": "2026-hk-smart-green-baking",
+  "title": "2026智慧烘焙與綠色創新永續烘焙競賽弘光盃",
+  "edition": "2026",
+  "summary": "高中職生兩人一隊、大專生與社會人士個人，創作融入永續理念的麵包與伴手禮烘焙作品。",
+  "organizers": [
+    {
+      "name": "弘光科技大學國際餐旅學院",
+      "role": "主辦"
+    },
+    {
+      "name": "弘光科技大學食品科技系",
+      "role": "承辦"
+    },
+    {
+      "name": "聯華製粉食品公司",
+      "role": "協辦"
+    }
+  ],
+  "categories": [
+    "餐旅",
+    "技藝與技能"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職",
+      "大專",
+      "社會人士"
+    ],
+    "division": "separate",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "school",
+    "team_min": 1,
+    "team_max": 2,
+    "teacher": "required",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28027/%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "一、全國高中職組，參賽者2人為一組"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28027/%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "二、全國大專院校、社會組，參賽者1人為一組。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28027/%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "三、指導教師最多2名且須為指導學生該校編制內或代理教師。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28027/%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "推薦學校、單位全稱請填寫正確以利後期證書等資料製作推薦單位用印(印信)"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28027/%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "1.指導老師身分證影本社會組可選擇免填"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "報名資料寄送截止（郵戳為憑）",
+      "date": "2026-10-12",
+      "time": null,
+      "original": "即日起至115年10月12日(星期一) 郵戳為憑",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28027/%E7%B0%A1%E7%AB%A0.pdf",
+          "quote": "一、報名資料繳交時間: 即日起至115年10月12日(星期一) 郵戳為憑。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "競賽（弘光科技大學現場展示評審）",
+      "date": "2026-11-13",
+      "time": null,
+      "original": "115年11月13日（星期五）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28027/%E7%B0%A1%E7%AB%A0.pdf",
+          "quote": "一、競賽日期：115年11月13日（星期五）"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名",
+      "what": "報名表、身分證與學生證影本、個人資料提供同意書、原創切結書、著作權及肖像權授權書與文件檢核表",
+      "how": "mail"
+    },
+    {
+      "stage": "競賽前",
+      "what": "每款產品的製作配方表與一頁主題與永續發展敘述表，寄至大會信箱",
+      "how": "online"
+    },
+    {
+      "stage": "競賽當天",
+      "what": "2 款麵包（每款 3 個）與 2 款禮盒包裝伴手禮（每款至少 6 個），另備評審試吃份，90 分鐘內完成展台布置",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "弘光科技大學 L棟生活應用大樓 B2 國際會議廳長廊",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28027/%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "二、競賽地點：弘光科技大學。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28027/%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "三、活動場地: L棟生活應用大樓-B2國際會議廳長廊。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28027/%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "（11） 需於 90分鐘內完成展台布置，逾時予以扣分。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28027/%E7%B0%A1%E7%AB%A0.pdf"
+      },
+      {
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26514"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=28027"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "依總分頒發獎牌與證書：金獎 90–100 分、銀牌 80–89 分、銅獎 70–79 分、佳作 60–69 分。高中職組及大專、社會組各組前三名另獲冠軍獎盃與獎金 12,000 元、亞軍獎盃與 8,000 元、季軍獎盃與 4,000 元；各組最佳主題與永續發展敘述者獲最佳永續獎獎盃與 2,000 元；佳作獲獎狀。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28027/%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "達到以下評判標準的參賽者將獲得相應的獎牌和證書："
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28027/%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "• 金獎：90 – 100 分"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28027/%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "二、高中職組及大專、社會組，各組總分數排名前三名的組別將額外獲得"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28027/%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "• 冠軍：獎盃和獎金12,000元整 。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28027/%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "• 亞軍：獎盃和獎金8,000元整。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28027/%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "• 季軍：獎盃和獎金4,000元整。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28027/%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "•最佳永續獎：獎盃和獎金2,000元整"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28027/%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "• 佳作:獎狀。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28027/%E7%B0%A1%E7%AB%A0.pdf"
+      },
+      {
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26514"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=28027"
+      }
+    ]
+  },
+  "links": {
+    "official": null,
+    "rules": [
+      {
+        "title": "競賽簡章",
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28027/%E7%B0%A1%E7%AB%A0.pdf"
+      }
+    ],
+    "registration": null
+  },
+  "found_via": [
+    {
+      "name": "苗栗農工 處室公告",
+      "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26514"
+    },
+    {
+      "name": "苗栗高中 學生校外營隊、活動、比賽",
+      "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=28027"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-26",
+    "method": "single",
+    "unread": [],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-26",
+  "level": "checked",
+  "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-hk-smart-green-baking/",
+  "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-hk-smart-green-baking.md"
+}

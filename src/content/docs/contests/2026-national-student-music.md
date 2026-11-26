@@ -3,7 +3,7 @@ title: "115學年度全國學生音樂比賽"
 description: "國小至大專學生以個人或學校團隊參加器樂、合唱及音樂創作比賽，經縣市初賽晉級全國決賽。"
 appliesTo: "115 學年度 這一屆"
 caveat: "日期與時間都是臺灣時間。"
-lastVerified: 2026-11-25
+lastVerified: 2026-11-26
 kind: "contest"
 deadline: "2026-12-25"
 sources:

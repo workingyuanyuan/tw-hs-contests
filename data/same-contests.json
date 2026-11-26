@@ -19,6 +19,38 @@
   [
    "2026-zhuyuangang-music-dance",
    "2026-tnfsh-pop-music"
+  ],
+  [
+   "2027-cyut-ae-short-film-2",
+   "2027-cyut-ae-short-film"
+  ],
+  [
+   "2026-aerc-ksu",
+   "2026-aerc-ksu-2"
+  ],
+  [
+   "2026-aerc-ksu",
+   "2026-aerc-robot"
+  ],
+  [
+   "2026-nfu-project-competition",
+   "2026-nfu-student-project"
+  ],
+  [
+   "2026-hsinchu-student-music",
+   "2026-hsinchu-city-student-music"
+  ],
+  [
+   "2026-tw-biology-olympiad-prelim",
+   "2026-tw-biology-olympiad"
+  ],
+  [
+   "2026-apcys-taiwan-selection",
+   "2026-apcys-taiwan-team"
+  ],
+  [
+   "2026-kinmen-ai-betel-tobacco-video-2",
+   "2026-kinmen-ai-betel-tobacco-video"
   ]
  ],
  "distinct": [
@@ -53,6 +85,10 @@
   [
    "2027-national-skills-competition",
    "2026-national-skills-south-57"
+  ],
+  [
+   "2026-hsinchu-city-student-art-prelim",
+   "2026-national-student-art"
   ]
  ]
 }

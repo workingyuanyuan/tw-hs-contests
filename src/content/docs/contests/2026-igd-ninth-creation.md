@@ -3,7 +3,7 @@ title: "《第九造物》遊戲狂潮設計"
 description: "在學學生組隊創作數位遊戲，線上繳交展示影片連結與 PDF 企劃文件，入選者須到場實機展示與簡報。"
 appliesTo: "2026 這一屆"
 caveat: "高中職學生與大專生或社會人士同組評比。"
-lastVerified: 2026-11-25
+lastVerified: 2026-11-26
 kind: "contest"
 deadline: "2026-12-18"
 sources:

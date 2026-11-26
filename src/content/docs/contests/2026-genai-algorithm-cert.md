@@ -3,7 +3,7 @@ title: "115年度生成式AI演算法認證暨競賽"
 description: "全國高中職學生就生成式 AI 演算法原理接受電腦化測驗，合格者再參加實機操作競賽。"
 appliesTo: "115 年度 這一屆"
 caveat: "中華民國資訊聯盟協進會 115年11月4日函寫 L1 合格者須於11月30日前報名L2認證暨競賽；活動網站的認證說明表則寫 L2 競賽符合資格者無需另外報名。"
-lastVerified: 2026-11-25
+lastVerified: 2026-11-26
 kind: "contest"
 deadline: "2026-11-30"
 sources:

@@ -3,7 +3,7 @@ title: "115年度彰化縣高中職暨國中英語演講比賽"
 description: "彰化縣各高中職、國中遴派學生，以自訂題目上台發表英語演講。"
 appliesTo: "115 年度（第 66 屆） 這一屆"
 caveat: "報名已於 2026-11-15 截止。"
-lastVerified: 2026-11-25
+lastVerified: 2026-11-26
 kind: "contest"
 deadline: "2026-11-15"
 sources:

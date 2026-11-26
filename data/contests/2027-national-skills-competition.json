@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "id": "2027-national-skills-competition",
-  "title": "116年度全國技能競賽",
-  "edition": "第57屆",
-  "summary": "符合年齡的我國國民報名各職類，先在北中南分區賽實地操作技能，各職類前 5 名晉級全國賽。",
+  "title": "第57屆全國技能競賽",
+  "edition": "第 57 屆（116 年度）",
+  "summary": "經學校、機關或企業提名的青年與青少年選手，依職類試題實地操作技能，分區賽優勝者晉級全國賽。",
   "organizers": [
     {
       "name": "勞動部",
@@ -48,120 +48,148 @@
     "regions": [
       "全國"
     ],
-    "nomination": "unknown",
-    "team_min": null,
-    "team_max": null,
+    "nomination": "school",
+    "team_min": 1,
+    "team_max": 2,
     "teacher": "unknown",
     "basis": "quote",
     "evidence": [
       {
-        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28149/%E5%A0%B1%E5%90%8D%E7%B0%A1%E7%AB%A0.pdf",
-        "quote": "選手應具有中華民國國籍，青年組限民國95 年1月1 日以後出生者"
+        "url": "https://ws.wda.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMzMxL3JlbGZpbGUvMTAyNDgvMTk2NTQyLzMxZGJiMDc5LTgyMTAtNGRiYi04MGNkLTMxZjQ4ZGE4YWRmNi5wZGY%3d&n=56ysNTflsYblhajlnIvmioDog73nq7bos73kuK3ljYDliIbljYDmioDog73nq7bos73nsKHnq6AucGRm",
+        "quote": "選手應具有中華民國國籍，青年組限民國95 年1 月1 日以後出生者(資通訊網路建置、集體創作、機電整合、飛機修護、工業4.0、雲端運算、網路安全、數位建設BIM、工業設計技術及機器人系統整合等10 職類選手限民國92 年1 月1 日以後出生者)；青少年組限民國100 年1 月1 日至民國103 年12 月31 日間出生者"
       },
       {
-        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28149/%E5%A0%B1%E5%90%8D%E7%B0%A1%E7%AB%A0.pdf",
-        "quote": "青少年組限民國100 年1 月1 日至民國103 年12 月31 日間出生者。"
+        "url": "https://ws.wda.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMzMxL3JlbGZpbGUvMTAyNDgvMTk2NTQyLzMxZGJiMDc5LTgyMTAtNGRiYi04MGNkLTMxZjQ4ZGE4YWRmNi5wZGY%3d&n=56ysNTflsYblhajlnIvmioDog73nq7bos73kuK3ljYDliIbljYDmioDog73nq7bos73nsKHnq6AucGRm",
+        "quote": "經有關機關、學校、團體、公司行號、廠商及訓練機構推薦者，得報名參加。"
       },
       {
-        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28149/%E5%A0%B1%E5%90%8D%E7%B0%A1%E7%AB%A0.pdf",
-        "quote": "教育部推薦上年度全國高級中等學校學生技藝競賽相關職類之前3 名參加青年組競賽"
+        "url": "https://ws.wda.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMzMxL3JlbGZpbGUvMTAyNDgvMTk2NTQyLzMxZGJiMDc5LTgyMTAtNGRiYi04MGNkLTMxZjQ4ZGE4YWRmNi5wZGY%3d&n=56ysNTflsYblhajlnIvmioDog73nq7bos73kuK3ljYDliIbljYDmioDog73nq7bos73nsKHnq6AucGRm",
+        "quote": "選手具學籍者，除下列情形之外，應以就讀學校為提名單位。"
       },
       {
-        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28149/%E5%A0%B1%E5%90%8D%E7%B0%A1%E7%AB%A0.pdf",
-        "quote": "推薦當年度直轄市、縣（市）政府國民中學學生技藝競賽相關職類之前3 名參加青少年組競賽。"
+        "url": "https://drive.google.com/file/d/1B5p4Ox1_IMgnntwz5mfPq_rvZ9TI59Tw/view?usp=sharing",
+        "quote": "教育部推薦上年度全國高級中等學校學生技藝競賽相關職類之前3 名參加青年組競賽；教育部（或直轄市、縣（市）政府教育主管機關）推薦當年度直轄市、縣（市）政府國民中學學生技藝競賽相關職類之前3 名參加青少年組競賽。"
+      },
+      {
+        "url": "https://ws.wda.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMzMxL3JlbGZpbGUvMTAyNDgvMTk2NTQyLzMxZGJiMDc5LTgyMTAtNGRiYi04MGNkLTMxZjQ4ZGE4YWRmNi5wZGY%3d&n=56ysNTflsYblhajlnIvmioDog73nq7bos73kuK3ljYDliIbljYDmioDog73nq7bos73nsKHnq6AucGRm",
+        "quote": "二、青年組共計辦理工業機械、資通訊網路建置、集體創作(2 人1 組)、機電整合(2 人1 組)、"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1B5p4Ox1_IMgnntwz5mfPq_rvZ9TI59Tw/view?usp=sharing",
+        "quote": "1.北區：轄區包括臺北市、新北市、桃園市、基隆市、宜蘭縣、花蓮縣、金門縣及連江縣等8 縣市。"
       }
     ]
   },
   "dates": [
     {
       "kind": "registration_deadline",
-      "label": "分區技能競賽網路報名截止（11 月 24 日起）",
+      "label": "分區技能競賽網路報名截止",
       "date": "2026-12-07",
-      "time": null,
-      "original": "115年11月24日至12月7日",
+      "time": "24:00",
+      "original": "115 年11 月24 日（星期二）上午9 時起至115 年12 月7 日（星期一）24 時止",
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28817/%E6%8A%80%E6%AA%A2%E4%B8%AD%E5%BF%83%E3%80%8C%E7%AC%AC57%E5%B1%86%E5%85%A8%E5%9C%8B%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E5%88%86%E5%8D%80%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E3%80%8D%E5%85%AC%E6%96%87.pdf",
-          "quote": "並訂於115年11月24日至12月7日開放網路報名"
-        },
+          "url": "https://ws.wda.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMzMxL3JlbGZpbGUvMTAyNDgvMTk2NTQyLzMxZGJiMDc5LTgyMTAtNGRiYi04MGNkLTMxZjQ4ZGE4YWRmNi5wZGY%3d&n=56ysNTflsYblhajlnIvmioDog73nq7bos73kuK3ljYDliIbljYDmioDog73nq7bos73nsKHnq6AucGRm",
+          "quote": "115 年11 月24 日（星期二）上午9 時起至115 年12 月7 日（星期一）24 時止。"
+        }
+      ]
+    },
+    {
+      "kind": "registration_deadline",
+      "label": "書面報名表件與報名費匯票掛號寄出截止（郵戳為憑）",
+      "date": "2026-12-08",
+      "time": null,
+      "original": "115 年12 月8 日(星期二)前(含當日，郵戳為憑)",
+      "basis": "quote",
+      "evidence": [
         {
-          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28817/%E6%8A%80%E6%AA%A2%E4%B8%AD%E5%BF%83%E3%80%8C%E7%AC%AC57%E5%B1%86%E5%85%A8%E5%9C%8B%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E5%88%86%E5%8D%80%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E3%80%8D%E6%B5%B7%E5%A0%B1.pdf",
-          "quote": "12.07"
+          "url": "https://ws.wda.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMzMxL3JlbGZpbGUvMTAyNDgvMTk2NTQyLzMxZGJiMDc5LTgyMTAtNGRiYi04MGNkLTMxZjQ4ZGE4YWRmNi5wZGY%3d&n=56ysNTflsYblhajlnIvmioDog73nq7bos73kuK3ljYDliIbljYDmioDog73nq7bos73nsKHnq6AucGRm",
+          "quote": "並於115 年12 月8 日(星期二)前(含當日，郵戳為憑)，以掛號郵寄『勞動部勞動力發展署中彰投分署-自辦訓練科』收"
         }
       ]
     },
     {
       "kind": "other",
-      "label": "分區技能競賽青少年組（3 月 22 日至 23 日）",
+      "label": "青年組中餐烹飪、西點製作、麵包製作職類技術士證影本補正截止",
+      "date": "2026-12-15",
+      "time": null,
+      "original": "115 年12 月15 日(星期二)前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://ws.wda.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMzMxL3JlbGZpbGUvMTAyNDgvMTk2NTQyLzMxZGJiMDc5LTgyMTAtNGRiYi04MGNkLTMxZjQ4ZGE4YWRmNi5wZGY%3d&n=56ysNTflsYblhajlnIvmioDog73nq7bos73kuK3ljYDliIbljYDmioDog73nq7bos73nsKHnq6AucGRm",
+          "quote": "技術士證影本至遲應於115 年12 月15 日(星期二)前補正。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "青少年組分區技能競賽報到與競賽",
       "date": "2027-03-22",
       "time": null,
-      "original": "3.22-23",
+      "original": "116 年3 月22 日(星期一)",
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28817/%E6%8A%80%E6%AA%A2%E4%B8%AD%E5%BF%83%E3%80%8C%E7%AC%AC57%E5%B1%86%E5%85%A8%E5%9C%8B%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E5%88%86%E5%8D%80%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E3%80%8D%E6%B5%B7%E5%A0%B1.pdf",
-          "quote": "3.22-23"
-        },
-        {
-          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28817/%E6%8A%80%E6%AA%A2%E4%B8%AD%E5%BF%83%E3%80%8C%E7%AC%AC57%E5%B1%86%E5%85%A8%E5%9C%8B%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E5%88%86%E5%8D%80%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E3%80%8D%E5%85%AC%E6%96%87.pdf",
-          "quote": "分區技能競賽訂於116年3月22日至3月27日於北、中、南三區共同舉辦"
+          "url": "https://ws.wda.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMzMxL3JlbGZpbGUvMTAyNDgvMTk2NTQyLzMxZGJiMDc5LTgyMTAtNGRiYi04MGNkLTMxZjQ4ZGE4YWRmNi5wZGY%3d&n=56ysNTflsYblhajlnIvmioDog73nq7bos73kuK3ljYDliIbljYDmioDog73nq7bos73nsKHnq6AucGRm",
+          "quote": "116 年3 月22 日(星期一)報到、熟悉場地、競賽；3 月23 日(星期二)競賽及評分，3 月24 日(星期三)上午10 時30 分公告英雄榜"
         }
       ]
     },
     {
       "kind": "result_announcement",
-      "label": "分區技能競賽青少年組成績公告",
+      "label": "青少年組分區技能競賽公告英雄榜",
       "date": "2027-03-24",
-      "time": null,
-      "original": "3.24",
+      "time": "10:30",
+      "original": "3 月24 日(星期三)上午10 時30 分",
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28817/%E6%8A%80%E6%AA%A2%E4%B8%AD%E5%BF%83%E3%80%8C%E7%AC%AC57%E5%B1%86%E5%85%A8%E5%9C%8B%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E5%88%86%E5%8D%80%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E3%80%8D%E6%B5%B7%E5%A0%B1.pdf",
-          "quote": "青少年组3.24"
+          "url": "https://ws.wda.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMzMxL3JlbGZpbGUvMTAyNDgvMTk2NTQyLzMxZGJiMDc5LTgyMTAtNGRiYi04MGNkLTMxZjQ4ZGE4YWRmNi5wZGY%3d&n=56ysNTflsYblhajlnIvmioDog73nq7bos73kuK3ljYDliIbljYDmioDog73nq7bos73nsKHnq6AucGRm",
+          "quote": "116 年3 月22 日(星期一)報到、熟悉場地、競賽；3 月23 日(星期二)競賽及評分，3 月24 日(星期三)上午10 時30 分公告英雄榜"
         }
       ]
     },
     {
       "kind": "other",
-      "label": "分區技能競賽青年組（3 月 25 日至 26 日）",
+      "label": "青年組分區技能競賽報到與競賽",
       "date": "2027-03-25",
       "time": null,
-      "original": "3.25-26",
+      "original": "116 年3 月25 日(星期四)",
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28817/%E6%8A%80%E6%AA%A2%E4%B8%AD%E5%BF%83%E3%80%8C%E7%AC%AC57%E5%B1%86%E5%85%A8%E5%9C%8B%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E5%88%86%E5%8D%80%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E3%80%8D%E6%B5%B7%E5%A0%B1.pdf",
-          "quote": "3.25-26青年组"
+          "url": "https://ws.wda.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMzMxL3JlbGZpbGUvMTAyNDgvMTk2NTQyLzMxZGJiMDc5LTgyMTAtNGRiYi04MGNkLTMxZjQ4ZGE4YWRmNi5wZGY%3d&n=56ysNTflsYblhajlnIvmioDog73nq7bos73kuK3ljYDliIbljYDmioDog73nq7bos73nsKHnq6AucGRm",
+          "quote": "116 年3 月25 日(星期四)報到、熟悉場地、競賽；3 月26 日(星期五)競賽及評分，3 月27 日(星期六)上午10 時30 分公告英雄榜"
         }
       ]
     },
     {
       "kind": "result_announcement",
-      "label": "分區技能競賽青年組成績公告",
+      "label": "青年組分區技能競賽公告英雄榜",
       "date": "2027-03-27",
-      "time": null,
-      "original": "3.27",
+      "time": "10:30",
+      "original": "3 月27 日(星期六)上午10 時30 分",
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28817/%E6%8A%80%E6%AA%A2%E4%B8%AD%E5%BF%83%E3%80%8C%E7%AC%AC57%E5%B1%86%E5%85%A8%E5%9C%8B%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E5%88%86%E5%8D%80%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E3%80%8D%E6%B5%B7%E5%A0%B1.pdf",
-          "quote": "青年組3.27"
+          "url": "https://ws.wda.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMzMxL3JlbGZpbGUvMTAyNDgvMTk2NTQyLzMxZGJiMDc5LTgyMTAtNGRiYi04MGNkLTMxZjQ4ZGE4YWRmNi5wZGY%3d&n=56ysNTflsYblhajlnIvmioDog73nq7bos73kuK3ljYDliIbljYDmioDog73nq7bos73nsKHnq6AucGRm",
+          "quote": "116 年3 月25 日(星期四)報到、熟悉場地、競賽；3 月26 日(星期五)競賽及評分，3 月27 日(星期六)上午10 時30 分公告英雄榜"
         }
       ]
     },
     {
       "kind": "final_event",
-      "label": "全國技能競賽（預定 7 月 21 日至 25 日）",
+      "label": "全國技能競賽（預定，南港展覽館）",
       "date": "2027-07-21",
       "time": null,
-      "original": "預定為116 年7 月21 日至7 月25 日",
+      "original": "116年7月21日至7月25日",
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28149/%E5%A0%B1%E5%90%8D%E7%B0%A1%E7%AB%A0.pdf",
-          "quote": "實際競賽時間（預定為116 年7 月21 日至7 月25 日）"
+          "url": "https://www.wdasec.gov.tw/News_Content.aspx?n=BD34663BD4EC9F4C&sms=535E01AC52EFB5A7&s=AEBA0907E929B76D",
+          "quote": "第57屆全國技能競賽預計於116年7月21日至7月25日於南港展覽館辦理"
         }
       ]
     }
@@ -169,56 +197,89 @@
   "deliverables": [
     {
       "stage": "報名",
-      "what": "分區技能競賽網路報名",
-      "how": "online"
+      "what": "網路登錄後列印的報名表、身分與學籍或勞保證明影本、每人 400 元郵政匯票",
+      "how": "mail"
     },
     {
       "stage": "分區技能競賽",
-      "what": "依試題實地技能操作，進行加工、裝配、檢修、製作成品或提供服務",
+      "what": "依職類試題以規定材料、機具進行加工、裝配、檢修、製作成品或提供服務；報名人數過多的職類可能先辦筆試或技能測驗",
       "how": "onsite"
     },
     {
-      "stage": "全國技能競賽",
-      "what": "依試題實地技能操作",
+      "stage": "全國技能競賽（分區賽晉級者）",
+      "what": "實地技能操作，第一階段國手選拔賽併同舉辦",
       "how": "onsite"
     }
   ],
   "attendance": {
     "value": "all",
-    "where": "北、中、南三區分區賽場",
+    "where": "北、中、南區分區賽場地（如中區於勞動部勞動力發展署中彰投分署等處）；全國賽預計於南港展覽館",
     "basis": "quote",
     "evidence": [
       {
-        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28149/%E5%A0%B1%E5%90%8D%E7%B0%A1%E7%AB%A0.pdf",
-        "quote": "競賽方式以實地技能操作進行。"
+        "url": "https://ws.wda.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMzMxL3JlbGZpbGUvMTAyNDgvMTk2NTQyLzMxZGJiMDc5LTgyMTAtNGRiYi04MGNkLTMxZjQ4ZGE4YWRmNi5wZGY%3d&n=56ysNTflsYblhajlnIvmioDog73nq7bos73kuK3ljYDliIbljYDmioDog73nq7bos73nsKHnq6AucGRm",
+        "quote": "第57 屆全國技能競賽分區技能競賽分別於北、中、南區辦理，競賽方式以實地技能操作進行。"
       },
       {
-        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28817/%E6%8A%80%E6%AA%A2%E4%B8%AD%E5%BF%83%E3%80%8C%E7%AC%AC57%E5%B1%86%E5%85%A8%E5%9C%8B%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E5%88%86%E5%8D%80%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E3%80%8D%E5%85%AC%E6%96%87.pdf",
-        "quote": "分區技能競賽訂於116年3月22日至3月27日於北、中、南三區共同舉辦"
+        "url": "https://www.wdasec.gov.tw/News_Content.aspx?n=BD34663BD4EC9F4C&sms=535E01AC52EFB5A7&s=AEBA0907E929B76D",
+        "quote": "第57屆全國技能競賽預計於116年7月21日至7月25日於南港展覽館辦理"
       }
     ]
   },
   "fee": {
-    "value": "unknown",
-    "amount": null,
-    "basis": "unread",
-    "evidence": []
-  },
-  "prizes": {
-    "text": "分區技能競賽各職類前 5 名晉級全國技能競賽；全國技能競賽前 3 名得報名國手選拔賽，選拔參加亞洲及國際技能競賽的國手。",
+    "value": "required",
+    "amount": "每人新台幣 400 元（分區賽報名費，以郵政匯票繳交）",
     "basis": "quote",
     "evidence": [
       {
-        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28149/%E5%A0%B1%E5%90%8D%E7%B0%A1%E7%AB%A0.pdf",
+        "url": "https://ws.wda.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMzMxL3JlbGZpbGUvMTAyNDgvMTk2NTQyLzMxZGJiMDc5LTgyMTAtNGRiYi04MGNkLTMxZjQ4ZGE4YWRmNi5wZGY%3d&n=56ysNTflsYblhajlnIvmioDog73nq7bos73kuK3ljYDliIbljYDmioDog73nq7bos73nsKHnq6AucGRm",
+        "quote": "每1 人報名費新台幣400 元整（請購買郵政匯票，匯票受款人：『勞動部勞動力發展署中彰投分署』）。"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "分區賽每職類取前 5 名優勝（參賽不足 10 人或組時取半數），另可取佳作。青年組第 1 名獎金 12,000 元、第 2 名 6,000 元、第 3 名 4,000 元，青少年組依序為 3,000 元、1,500 元、1,000 元，前 3 名另頒金、銀、銅牌，皆附獎狀；第 4、5 名及佳作頒獎狀。各職類前 5 名晉級全國技能競賽；分區賽前 3 名 3 年內參加相關職類丙級或單一級技能檢定可申請免術科測試。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://ws.wda.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMzMxL3JlbGZpbGUvMTAyNDgvMTk2NTQyLzMxZGJiMDc5LTgyMTAtNGRiYi04MGNkLTMxZjQ4ZGE4YWRmNi5wZGY%3d&n=56ysNTflsYblhajlnIvmioDog73nq7bos73kuK3ljYDliIbljYDmioDog73nq7bos73nsKHnq6AucGRm",
+        "quote": "每1 職類取前5 名優勝選手，參賽人數不足10 人或10 組時，優勝人數取參賽人數二分之一比例"
+      },
+      {
+        "url": "https://ws.wda.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMzMxL3JlbGZpbGUvMTAyNDgvMTk2NTQyLzMxZGJiMDc5LTgyMTAtNGRiYi04MGNkLTMxZjQ4ZGE4YWRmNi5wZGY%3d&n=56ysNTflsYblhajlnIvmioDog73nq7bos73kuK3ljYDliIbljYDmioDog73nq7bos73nsKHnq6AucGRm",
+        "quote": "1. 第1 名：獎金新臺幣1 萬2 仟元、金牌1 面、獎狀乙幀。"
+      },
+      {
+        "url": "https://ws.wda.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMzMxL3JlbGZpbGUvMTAyNDgvMTk2NTQyLzMxZGJiMDc5LTgyMTAtNGRiYi04MGNkLTMxZjQ4ZGE4YWRmNi5wZGY%3d&n=56ysNTflsYblhajlnIvmioDog73nq7bos73kuK3ljYDliIbljYDmioDog73nq7bos73nsKHnq6AucGRm",
+        "quote": "2. 第2 名：獎金新臺幣6 仟元、銀牌1 面、獎狀乙幀。"
+      },
+      {
+        "url": "https://ws.wda.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMzMxL3JlbGZpbGUvMTAyNDgvMTk2NTQyLzMxZGJiMDc5LTgyMTAtNGRiYi04MGNkLTMxZjQ4ZGE4YWRmNi5wZGY%3d&n=56ysNTflsYblhajlnIvmioDog73nq7bos73kuK3ljYDliIbljYDmioDog73nq7bos73nsKHnq6AucGRm",
+        "quote": "3. 第3 名：獎金新臺幣4 仟元、銅牌1 面、獎狀乙幀。"
+      },
+      {
+        "url": "https://ws.wda.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMzMxL3JlbGZpbGUvMTAyNDgvMTk2NTQyLzMxZGJiMDc5LTgyMTAtNGRiYi04MGNkLTMxZjQ4ZGE4YWRmNi5wZGY%3d&n=56ysNTflsYblhajlnIvmioDog73nq7bos73kuK3ljYDliIbljYDmioDog73nq7bos73nsKHnq6AucGRm",
+        "quote": "1. 第1 名：獎金新臺幣3 仟元、金牌1 面、獎狀乙幀。"
+      },
+      {
+        "url": "https://ws.wda.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMzMxL3JlbGZpbGUvMTAyNDgvMTk2NTQyLzMxZGJiMDc5LTgyMTAtNGRiYi04MGNkLTMxZjQ4ZGE4YWRmNi5wZGY%3d&n=56ysNTflsYblhajlnIvmioDog73nq7bos73kuK3ljYDliIbljYDmioDog73nq7bos73nsKHnq6AucGRm",
+        "quote": "2. 第2 名：獎金新臺幣1 仟5 佰元、銀牌1 面、獎狀乙幀。"
+      },
+      {
+        "url": "https://ws.wda.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMzMxL3JlbGZpbGUvMTAyNDgvMTk2NTQyLzMxZGJiMDc5LTgyMTAtNGRiYi04MGNkLTMxZjQ4ZGE4YWRmNi5wZGY%3d&n=56ysNTflsYblhajlnIvmioDog73nq7bos73kuK3ljYDliIbljYDmioDog73nq7bos73nsKHnq6AucGRm",
+        "quote": "3. 第3 名：獎金新臺幣1 仟元、銅牌1 面、獎狀乙幀。"
+      },
+      {
+        "url": "https://ws.wda.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMzMxL3JlbGZpbGUvMTAyNDgvMTk2NTQyLzMxZGJiMDc5LTgyMTAtNGRiYi04MGNkLTMxZjQ4ZGE4YWRmNi5wZGY%3d&n=56ysNTflsYblhajlnIvmioDog73nq7bos73kuK3ljYDliIbljYDmioDog73nq7bos73nsKHnq6AucGRm",
+        "quote": "4. 第4 名、第5 名、佳作：獎狀乙幀。"
+      },
+      {
+        "url": "https://ws.wda.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMzMxL3JlbGZpbGUvMTAyNDgvMTk2NTQyLzMxZGJiMDc5LTgyMTAtNGRiYi04MGNkLTMxZjQ4ZGE4YWRmNi5wZGY%3d&n=56ysNTflsYblhajlnIvmioDog73nq7bos73kuK3ljYDliIbljYDmioDog73nq7bos73nsKHnq6AucGRm",
         "quote": "當年度分區技能競賽各區承辦單位推薦每一職類之前5 名晉級全國技能競賽"
       },
       {
-        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28149/%E5%A0%B1%E5%90%8D%E7%B0%A1%E7%AB%A0.pdf",
-        "quote": "歷屆獲得全國技能競賽前3 名之選手，年齡須符合國際（或亞洲）技能組織規定"
-      },
-      {
-        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28149/%E5%A0%B1%E5%90%8D%E7%B0%A1%E7%AB%A0.pdf",
-        "quote": "包括116年（2027）亞洲技能競賽及117 年（2028）國際技能競賽之國手選拔"
+        "url": "https://ws.wda.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMzMxL3JlbGZpbGUvMTAyNDgvMTk2NTQyLzMxZGJiMDc5LTgyMTAtNGRiYi04MGNkLTMxZjQ4ZGE4YWRmNi5wZGY%3d&n=56ysNTflsYblhajlnIvmioDog73nq7bos73kuK3ljYDliIbljYDmioDog73nq7bos73nsKHnq6AucGRm",
+        "quote": "分區技能競賽獲得前3 名選手，自獲獎日起3 年內，參加相關職類丙級或單一級技能檢定時，得向主辦單位申請技能檢定免術科測試證明。"
       }
     ]
   },
@@ -228,46 +289,45 @@
     "evidence": []
   },
   "links": {
-    "official": "https://www.wdasec.gov.tw",
+    "official": "https://www.wdasec.gov.tw/News_Content.aspx?n=BD34663BD4EC9F4C&sms=535E01AC52EFB5A7&s=AEBA0907E929B76D",
     "rules": [
       {
         "title": "116年度全國技能競賽實施計畫",
-        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28149/%E5%A0%B1%E5%90%8D%E7%B0%A1%E7%AB%A0.pdf"
+        "url": "https://ws.wda.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMzMxL3JlbGZpbGUvOTc2Ny8xOTQ5NDMvMTg3MTMyZDMtMDkwYS00NWYxLTk3YTAtYTEyYWE2NWUxYjQ5LnBkZg%3d%3d&n=MTE25bm05bqm5YWo5ZyL5oqA6IO956u26LO95a%2bm5pa96KiI55WrLnBkZg%3d%3d"
       },
       {
-        "title": "第57屆全國技能競賽分區技能競賽海報",
-        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28817/%E6%8A%80%E6%AA%A2%E4%B8%AD%E5%BF%83%E3%80%8C%E7%AC%AC57%E5%B1%86%E5%85%A8%E5%9C%8B%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E5%88%86%E5%8D%80%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E3%80%8D%E6%B5%B7%E5%A0%B1.pdf"
+        "title": "第57屆全國技能競賽北區分區技能競賽簡章",
+        "url": "https://ws.wda.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMzMxL3JlbGZpbGUvMTAyNDgvMTk2NTQyL2VjMDBmOGZmLTAxMGUtNGQzNy05ZDFjLWExYjU1YTAzNDM3ZC5wZGY%3d&n=56ysNTflsYblhajlnIvmioDog73nq7bos73ljJfljYDliIbljYDmioDog73nq7bos73nsKHnq6AucGRm"
       },
       {
-        "title": "教育部國民及學前教育署函（分區技能競賽報名）",
-        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28817/%E6%8A%80%E6%AA%A2%E4%B8%AD%E5%BF%83%E3%80%8C%E7%AC%AC57%E5%B1%86%E5%85%A8%E5%9C%8B%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E5%88%86%E5%8D%80%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E3%80%8D%E5%85%AC%E6%96%87.pdf"
+        "title": "第57屆全國技能競賽中區分區技能競賽簡章",
+        "url": "https://ws.wda.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMzMxL3JlbGZpbGUvMTAyNDgvMTk2NTQyLzMxZGJiMDc5LTgyMTAtNGRiYi04MGNkLTMxZjQ4ZGE4YWRmNi5wZGY%3d&n=56ysNTflsYblhajlnIvmioDog73nq7bos73kuK3ljYDliIbljYDmioDog73nq7bos73nsKHnq6AucGRm"
+      },
+      {
+        "title": "第57屆全國技能競賽南區分區技能競賽簡章",
+        "url": "https://ws.wda.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMzMxL3JlbGZpbGUvMTAyNDgvMTk2NTQyL2YzODY0NTFkLTEzZTMtNGJmMS1iYTA4LTU1OGVhZTE1ZmZhMC5wZGY%3d&n=56ysNTflsYblhajlnIvmioDog73nq7bos73ljZfljYDliIbljYDmioDog73nq7bos73nsKHnq6AucGRm"
       }
     ],
     "registration": null
   },
   "found_via": [
     {
-      "name": "苗栗高中 學生校外營隊、活動、比賽",
-      "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=28149"
-    },
-    {
-      "name": "苗栗高中 學生校外營隊、活動、比賽",
-      "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=28817"
+      "name": "鳳新高中 營隊競賽",
+      "url": "https://www.fhsh.khc.edu.tw/aa/news-aa/20261002/46537"
     }
   ],
   "verification": {
-    "last_verified": "2026-11-25",
+    "last_verified": "2026-11-26",
     "method": "dual",
     "unread": [
-      "第57屆全國技能競賽分區技能競賽簡章",
-      "116年度全國技能競賽簡章"
+      "全國技能競賽簡章（另行公告）"
     ],
-    "note": null,
+    "note": "兩次讀取不一致，未列出：AI 規定：allowed 對 not_mentioned",
     "readers": [
       "claude-opus-5-5",
       "claude-opus-5-5"
     ]
   },
   "first_seen": "2026-11-24",
-  "updated": "2026-11-24"
+  "updated": "2026-11-26"
 }

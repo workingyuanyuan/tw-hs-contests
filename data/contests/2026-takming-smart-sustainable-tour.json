@@ -1,0 +1,239 @@
+{
+  "schema": 1,
+  "id": "2026-takming-smart-sustainable-tour",
+  "title": "2026 全國高中職【智慧永續創新遊程】競賽",
+  "edition": "2026",
+  "summary": "高中職學生 2 至 5 人組隊，規劃融入科技與永續觀光的北台灣三天二夜遊程企劃。",
+  "organizers": [
+    {
+      "name": "德明財經科技大學行銷管理系暨觀光與會展組",
+      "role": "主辦"
+    },
+    {
+      "name": "教育部",
+      "role": "指導"
+    }
+  ],
+  "categories": [
+    "餐旅",
+    "創業與企劃"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職"
+    ],
+    "division": "hs_only",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 2,
+    "team_max": 5,
+    "teacher": "required",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.ttsh.tp.edu.tw/view-doc/11/簡章29546656_1150009224_ATTCH1.pdf",
+        "quote": "三、參加對象：全國各高中職在學學生。"
+      },
+      {
+        "url": "https://www.ttsh.tp.edu.tw/view-doc/11/簡章29546656_1150009224_ATTCH1.pdf",
+        "quote": "（三）每隊以2~5名為限，參賽過程不得更換成員或重複報名，違者取消參賽資格。"
+      },
+      {
+        "url": "https://www.ttsh.tp.edu.tw/view-doc/11/簡章29546656_1150009224_ATTCH1.pdf",
+        "quote": "（四）可跨科系或跨校組隊，每隊需至少有一位指導老師，至多不超過二位。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "線上報名截止",
+      "date": "2026-10-20",
+      "time": "17:00",
+      "original": "115 年10 月20 日(星期二)17:00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.ttsh.tp.edu.tw/view-doc/11/簡章29546656_1150009224_ATTCH1.pdf",
+          "quote": "(一) 線上報名及文件繳交：即日起至115 年10 月20 日(星期二)17:00 截止。"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "初賽企劃書繳交截止",
+      "date": "2026-10-20",
+      "time": "17:00",
+      "original": "115 年10 月20 日(星期二)17:00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.ttsh.tp.edu.tw/view-doc/11/簡章29546656_1150009224_ATTCH1.pdf",
+          "quote": "(一) 線上報名及文件繳交：即日起至115 年10 月20 日(星期二)17:00 截止。"
+        }
+      ]
+    },
+    {
+      "kind": "shortlist_announcement",
+      "label": "決賽入選名單公告",
+      "date": "2026-10-23",
+      "time": null,
+      "original": "115年10月23日(星期五)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.ttsh.tp.edu.tw/view-doc/11/簡章29546656_1150009224_ATTCH1.pdf",
+          "quote": "(二) 決賽入選名單公告:115年10月23日(星期五)於本校行銷系網站公布。"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "決賽隊伍簡報檔（PPT）繳交截止",
+      "date": "2026-11-04",
+      "time": "17:00",
+      "original": "115年11月4日(星期三)17:00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.ttsh.tp.edu.tw/view-doc/11/簡章29546656_1150009224_ATTCH1.pdf",
+          "quote": "(四) 決賽簡報檔(PPT)繳交:115年11月4日(星期三)17:00截止。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "決賽",
+      "date": "2026-11-06",
+      "time": "09:00",
+      "original": "115年11月6日(星期五) 9:00~13:00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.ttsh.tp.edu.tw/view-doc/11/簡章29546656_1150009224_ATTCH1.pdf",
+          "quote": "(五) 決賽日期:115年11月6日(星期五) 9:00~13:00"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "初賽",
+      "what": "企劃書 PDF，20 頁以內（含封面、目錄及附錄），不得出現校名、指導老師及學生姓名",
+      "how": "online"
+    },
+    {
+      "stage": "決賽（入選隊伍）",
+      "what": "簡報檔（PPT），繳交後不得更換或修改",
+      "how": "online"
+    },
+    {
+      "stage": "決賽（入選隊伍）",
+      "what": "現場口頭簡報，每組以 7 分鐘為限",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "finalists",
+    "where": "德明財經科技大學（台北市內湖區）",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.ttsh.tp.edu.tw/view-doc/11/簡章29546656_1150009224_ATTCH1.pdf",
+        "quote": "2.決賽以PPT 進行現場口頭簡報，簡報檔繳交截止後不得更換或修改。"
+      },
+      {
+        "url": "https://www.ttsh.tp.edu.tw/view-doc/11/簡章29546656_1150009224_ATTCH1.pdf",
+        "quote": "決賽地點:德明財經科技大學-台北市內湖區環山路一段56號"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.ttsh.tp.edu.tw/view-doc/11/簡章29546656_1150009224_ATTCH1.pdf"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "決賽第一名 1 組獎金 3,000 元、第二名 2 組各 2,000 元、第三名 3 組各 1,000 元，皆附電子獎狀；佳作數組各電子獎狀乙紙。得獎組數視報名組數與成績調整，必要時可從缺。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.ttsh.tp.edu.tw/view-doc/11/簡章29546656_1150009224_ATTCH1.pdf",
+        "quote": "各組決賽優勝獎項：第一名：1 組，每組獎金3,000 元，電子獎狀乙紙。"
+      },
+      {
+        "url": "https://www.ttsh.tp.edu.tw/view-doc/11/簡章29546656_1150009224_ATTCH1.pdf",
+        "quote": "第二名：2 組，每組獎金2,000 元，電子獎狀乙紙。"
+      },
+      {
+        "url": "https://www.ttsh.tp.edu.tw/view-doc/11/簡章29546656_1150009224_ATTCH1.pdf",
+        "quote": "第三名：3 組，每組獎金1,000 元，電子獎狀乙紙。"
+      },
+      {
+        "url": "https://www.ttsh.tp.edu.tw/view-doc/11/簡章29546656_1150009224_ATTCH1.pdf",
+        "quote": "佳 作 ：數組，每組電子獎狀乙紙。"
+      },
+      {
+        "url": "https://www.ttsh.tp.edu.tw/view-doc/11/簡章29546656_1150009224_ATTCH1.pdf",
+        "quote": "註：得獎的組數須視實際報名組數與成績狀況做調整，必要時可從缺。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "restricted",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.ttsh.tp.edu.tw/view-doc/11/簡章29546656_1150009224_ATTCH1.pdf",
+        "quote": "參賽者應以自主創作為主， AI 僅得作為輔助工具。若經評審認定 AI 生成或輔助程度"
+      }
+    ]
+  },
+  "links": {
+    "official": null,
+    "rules": [
+      {
+        "title": "競賽簡章（PDF）",
+        "url": "https://www.ttsh.tp.edu.tw/view-doc/11/簡章29546656_1150009224_ATTCH1.pdf"
+      }
+    ],
+    "registration": "https://forms.gle/xDCB4ss6CKo2m1M56"
+  },
+  "found_via": [
+    {
+      "name": "大同高中 學生競賽活動",
+      "url": "https://www.ttsh.tp.edu.tw/news/%e5%be%b7%e6%98%8e%e8%b2%a1%e7%b6%93%e7%a7%91%e6%8a%80%e5%a4%a7%e5%ad%b8%e8%a1%8c%e9%8a%b7%e7%ae%a1%e7%90%86%e7%b3%bb%e8%88%89%e8%be%a6%e3%80%8c2026%e5%85%a8%e5%9c%8b%e9%ab%98%e4%b8%ad%e8%81%b7/"
+    },
+    {
+      "name": "苗栗農工 處室公告",
+      "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26527"
+    },
+    {
+      "name": "斗六高中 營隊研習競賽",
+      "url": "https://www.tlsh.ylc.edu.tw/2026/09/22/67437/"
+    },
+    {
+      "name": "苗栗高中 學生校外營隊、活動、比賽",
+      "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=28068"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-26",
+    "method": "single",
+    "unread": [],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-26"
+}

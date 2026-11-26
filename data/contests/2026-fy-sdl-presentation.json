@@ -1,0 +1,218 @@
+{
+  "schema": 1,
+  "id": "2026-fy-sdl-presentation",
+  "title": "全國自主學習(SDL)成果簡報競賽",
+  "edition": "115學年度第1學期",
+  "summary": "高中職與大專學生 2 至 6 人組隊，以當學期自主學習課程成果錄製口頭簡報影片參賽。",
+  "organizers": [
+    {
+      "name": "輔英科技大學教務處通識教育中心",
+      "role": "主辦"
+    },
+    {
+      "name": "輔英科技大學護理學院",
+      "role": "協辦"
+    },
+    {
+      "name": "輔英科技大學醫學與健康學院",
+      "role": "協辦"
+    },
+    {
+      "name": "輔英科技大學環境與生命學院",
+      "role": "協辦"
+    },
+    {
+      "name": "輔英科技大學人文與管理學院",
+      "role": "協辦"
+    }
+  ],
+  "categories": [
+    "其他"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職",
+      "五專",
+      "大專"
+    ],
+    "division": "separate",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 2,
+    "team_max": 6,
+    "teacher": "required",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28069/%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "2.凡本校及他校學生，於該學期修習自主學習課程經由老師推薦指導，均可組隊(2-6人)報名參賽，每隊限投乙件，每位老師至多指導2組參賽。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28069/%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "3.分為高中(職)組(含高中與五專一至三年級在校生)、大專組(含二技、四技及五專四、五年級在校生)二組。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28069/%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "參賽內容須結合該學期自主學習課程"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "報名及繳件截止",
+      "date": "2026-11-04",
+      "time": "17:00",
+      "original": "115年11月4日(星期三)17:00截止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28069/%E7%B0%A1%E7%AB%A0.pdf",
+          "quote": "1.報名繳件期限：115年11月4日(星期三)17:00截止。(逾時繳交即喪失參賽資格)"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "公布得獎名單",
+      "date": "2026-11-18",
+      "time": null,
+      "original": "115年11月18日(星期三)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28069/%E7%B0%A1%E7%AB%A0.pdf",
+          "quote": "得獎名單(作品)於115年11月18日(星期三)公佈於本校通識教育中心網頁http://egec.fy.edu.tw/。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名繳件",
+      "what": "報名表、肖像授權同意書、著作財產權授權使用同意書，親筆簽名後拍照或掃描（jpg 或 pdf）",
+      "how": "online"
+    },
+    {
+      "stage": "報名繳件",
+      "what": "PPT 電子檔，30 張以內，首頁顯示課程名稱與競賽題目",
+      "how": "online"
+    },
+    {
+      "stage": "報名繳件",
+      "what": "12 至 15 分鐘成果解說影片，簡報畫面與報告人同框並親自口頭說明，以雲端硬碟下載連結寄送",
+      "how": "online"
+    }
+  ],
+  "attendance": {
+    "value": "none",
+    "where": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28069/%E7%B0%A1%E7%AB%A0.pdf"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28069/%E7%B0%A1%E7%AB%A0.pdf"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "高中(職)組、大專組分別頒獎：第一名 1 隊獎金 3,500 元、第二名 1 隊 3,000 元、第三名 1 隊 2,500 元、佳作若干隊各 800 元，皆附獎狀；特別獎若干隊頒獎狀。獎項必要時得從缺。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28069/%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "各組分別擇優取前三名及佳作，獎項必要時得從缺。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28069/%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "第一名(1隊)：獎金3500元及獎狀乙紙。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28069/%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "第二名(1隊)：獎金3000元及獎狀乙紙。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28069/%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "第三名(1隊)：獎金2500元及獎狀乙紙。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28069/%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "佳 作(若干隊)：各得獎金800元及獎狀乙紙。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28069/%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "特別獎(若干隊)：獎狀乙紙。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28069/%E7%B0%A1%E7%AB%A0.pdf"
+      }
+    ]
+  },
+  "links": {
+    "official": "http://egec.fy.edu.tw/",
+    "rules": [
+      {
+        "title": "競賽簡章",
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28069/%E7%B0%A1%E7%AB%A0.pdf"
+      }
+    ],
+    "registration": null
+  },
+  "found_via": [
+    {
+      "name": "南投高中 最新消息",
+      "url": "https://www.ntsh.ntct.edu.tw/ischool/public/news_view/show.php?nid=22870"
+    },
+    {
+      "name": "臺中一中 校外活動",
+      "url": "https://tcfsh.tc.edu.tw/p/406-1076-634256,r4385.php"
+    },
+    {
+      "name": "潮州高中 學生課外活動",
+      "url": "https://www.ccsh.ptc.edu.tw/data.php?id=19039&tpl=5"
+    },
+    {
+      "name": "金門高中 最新消息",
+      "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=22232"
+    },
+    {
+      "name": "成功高中 活動競賽",
+      "url": "https://www.cksh.tp.edu.tw/news/%e3%80%90%e8%bd%89%e7%9f%a5%e3%80%91%e8%bc%94%e8%8b%b1%e7%a7%91%e6%8a%80%e5%a4%a7%e5%ad%b8%e5%85%a8%e5%9c%8b%e8%87%aa%e4%b8%bb%e5%ad%b8%e7%bf%92sdl-%e6%88%90%e6%9e%9c%e7%b0%a1%e5%a0%b1%e7%ab%b6/"
+    },
+    {
+      "name": "苗栗高中 學生校外營隊、活動、比賽",
+      "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=28069"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-26",
+    "method": "single",
+    "unread": [
+      "競賽海報"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-26"
+}

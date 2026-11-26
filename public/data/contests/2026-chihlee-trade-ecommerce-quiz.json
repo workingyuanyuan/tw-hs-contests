@@ -1,0 +1,210 @@
+{
+  "schema": 1,
+  "id": "2026-chihlee-trade-ecommerce-quiz",
+  "title": "第8屆國貿暨電商知識大賽",
+  "edition": "第8屆",
+  "summary": "高中職與大專學生 2 至 3 人組隊，比賽國際貿易與跨境電商知識，爭取名次與獎金。",
+  "organizers": [
+    {
+      "name": "致理科技大學國際貿易系",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "商管與行銷"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職",
+      "五專",
+      "大專"
+    ],
+    "division": "separate",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 2,
+    "team_max": 3,
+    "teacher": "required",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26517",
+        "quote": "二、參加資格：本競賽分大學校院組、及高中職組。"
+      },
+      {
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26517",
+        "quote": "1.大專校院不限科系之大學生(含五專部4-5年級學生)。"
+      },
+      {
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26517",
+        "quote": "1.全國高中職不限科系(含五專部1-3年級學生)。 2.每隊2~3位學生，1位指導老師。"
+      },
+      {
+        "url": "https://www.hccvs.hc.edu.tw/ischool/public/news_view/show.php?nid=26406",
+        "quote": "致理科技大學國際貿易系辦理「第8屆國貿暨電商知識大賽」，鼓勵同學踴躍報名參加"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "報名截止",
+      "date": "2026-10-09",
+      "time": null,
+      "original": "115年10月9日(星期五)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26517",
+          "quote": "四、報名截止日：115年10月9日(星期五)"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "競賽",
+      "date": "2026-10-20",
+      "time": null,
+      "original": "115年10月20日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28037/%E6%B5%B7%E5%A0%B1(%E9%AB%98%E4%B8%AD%E8%81%B7%E7%B5%84).pdf",
+          "quote": "一、日期: 115年10月20日(星期二)"
+        },
+        {
+          "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26517",
+          "quote": "五、競賽日期：115年10月20日(星期四)"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "競賽",
+      "what": "以現場即時系統作答 30 題選擇題，同分者以按鈴搶答 PK 賽決定晉級；題目取自「國際貿易大會考」題庫 70%、「跨境電商題庫」20%、時事題 10%",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": null,
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26517",
+        "quote": "三、競賽方式：以30題選擇題透過現場即時系統答題，分數前三名者獲勝。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "unknown",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28037/%E5%85%AC%E6%96%87.pdf"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28037/%E6%B5%B7%E5%A0%B1(%E9%AB%98%E4%B8%AD%E8%81%B7%E7%B5%84).pdf"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "獎金由系友會及學校提供：冠軍每組 6,000 元（學生每人 2,000 元）、亞軍每組 4,500 元（每人 1,500 元）、季軍每組 3,000 元（每人 1,000 元）、佳作 3 組各 1,050 元（每人 350 元），活動結束後憑領據領取現金。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28037/%E6%B5%B7%E5%A0%B1(%E9%AB%98%E4%B8%AD%E8%81%B7%E7%B5%84).pdf",
+        "quote": "(系友會及學校提供)"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28037/%E6%B5%B7%E5%A0%B1(%E9%AB%98%E4%B8%AD%E8%81%B7%E7%B5%84).pdf",
+        "quote": "=6000元/組；學生1人2000元"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28037/%E6%B5%B7%E5%A0%B1(%E9%AB%98%E4%B8%AD%E8%81%B7%E7%B5%84).pdf",
+        "quote": "=4500元/組；學生1人1500元"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28037/%E6%B5%B7%E5%A0%B1(%E9%AB%98%E4%B8%AD%E8%81%B7%E7%B5%84).pdf",
+        "quote": "=3000元/組；學生1人1000元"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28037/%E6%B5%B7%E5%A0%B1(%E9%AB%98%E4%B8%AD%E8%81%B7%E7%B5%84).pdf",
+        "quote": "=1050元/組(取3組)；學生1人350元"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28037/%E6%B5%B7%E5%A0%B1(%E9%AB%98%E4%B8%AD%E8%81%B7%E7%B5%84).pdf",
+        "quote": "活動結束後，憑領據至報到處找工作人員領去現金。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "unknown",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28037/%E5%85%AC%E6%96%87.pdf"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28037/%E6%B5%B7%E5%A0%B1(%E9%AB%98%E4%B8%AD%E8%81%B7%E7%B5%84).pdf"
+      }
+    ]
+  },
+  "links": {
+    "official": null,
+    "rules": [
+      {
+        "title": "致理科技大學公文",
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28037/%E5%85%AC%E6%96%87.pdf"
+      },
+      {
+        "title": "海報（高中職組）",
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28037/%E6%B5%B7%E5%A0%B1(%E9%AB%98%E4%B8%AD%E8%81%B7%E7%B5%84).pdf"
+      },
+      {
+        "title": "海報（四技組）",
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28037/%E6%B5%B7%E5%A0%B1(%E5%9B%9B%E6%8A%80%E7%B5%84).pdf"
+      }
+    ],
+    "registration": "https://reurl.cc/yWAYQy"
+  },
+  "found_via": [
+    {
+      "name": "新竹高商 消息公佈欄",
+      "url": "https://www.hccvs.hc.edu.tw/ischool/public/news_view/show.php?nid=26406"
+    },
+    {
+      "name": "苗栗農工 處室公告",
+      "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26517"
+    },
+    {
+      "name": "苗栗高中 學生校外營隊、活動、比賽",
+      "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=28037"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-26",
+    "method": "single",
+    "unread": [
+      "第8屆國貿暨電商知識大賽(四技組)海報",
+      "活動報名網址",
+      "大會公告之「跨境電商題庫」",
+      "活動網站"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-26",
+  "conflict": "致理科技大學公文寫競賽日期為「115年10月20日(星期四)」，高中職組海報寫「115年10月20日(星期二)」，兩者日期相同而星期不同。",
+  "level": "checked",
+  "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-chihlee-trade-ecommerce-quiz/",
+  "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-chihlee-trade-ecommerce-quiz.md"
+}

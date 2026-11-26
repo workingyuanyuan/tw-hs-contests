@@ -3,7 +3,7 @@ title: "2026全國幼老共學教案設計暨教學成果競賽"
 description: "大專及高中職學生 2 至 6 人組隊設計全學期幼老共學教案，幼兒園教師組隊提出幼老共學教學成果。"
 appliesTo: "2026 這一屆"
 caveat: "報名已於 2026-11-13 截止。徵案規章訂線上報名期間至 10/15、作品繳件至 11/6，報名表單為 https://forms.gle/sev2eqrfQgNSoWEM9；嘉南藥理大學 10 月轉發的公告則將徵件期限延長至 115 年 11 月 13 日，報名網址為 https://forms.gle/ChYLjaFLAa37irJB7。"
-lastVerified: 2026-11-25
+lastVerified: 2026-11-26
 kind: "contest"
 deadline: "2026-11-13"
 sources:

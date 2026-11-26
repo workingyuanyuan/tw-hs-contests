@@ -1,0 +1,109 @@
+{
+  "schema": 1,
+  "id": "2027-tzuchi-pagamo-taipei-pk",
+  "title": "【臺北市】縣市盃環保防災勇士PK賽",
+  "edition": "第六屆",
+  "summary": "臺北市轄屬學校師生參加 PaGamO 環保電競賽，比拚環保與防災知識。",
+  "organizers": [
+    {
+      "name": "慈濟",
+      "role": "主辦"
+    },
+    {
+      "name": "PaGamO",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "農業與環境",
+    "其他"
+  ],
+  "eligibility": {
+    "levels": [],
+    "division": "unknown",
+    "regions": [
+      "臺北市"
+    ],
+    "nomination": "unknown",
+    "team_min": null,
+    "team_max": null,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.nkhs.tp.edu.tw/ischool/public/news_view/show.php?nid=34653",
+        "quote": "第六屆「慈濟x PaGamO【臺北市】縣市盃環保防災勇士PK賽」"
+      },
+      {
+        "url": "https://www.nkhs.tp.edu.tw/ischool/public/news_view/show.php?nid=34653",
+        "quote": "對象：鼓勵轄屬學校師生踴躍參與，前十名可晉級國際盃"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "final_event",
+      "label": "縣市盃環保電競賽",
+      "date": "2027-03-21",
+      "time": null,
+      "original": "116年3月21日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.nkhs.tp.edu.tw/ischool/public/news_view/show.php?nid=34653",
+          "quote": "時間：116年3月21日。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [],
+  "attendance": {
+    "value": "unknown",
+    "where": null,
+    "basis": "unread",
+    "evidence": []
+  },
+  "fee": {
+    "value": "unknown",
+    "amount": null,
+    "basis": "unread",
+    "evidence": []
+  },
+  "prizes": {
+    "text": "前十名可晉級國際盃。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.nkhs.tp.edu.tw/ischool/public/news_view/show.php?nid=34653",
+        "quote": "對象：鼓勵轄屬學校師生踴躍參與，前十名可晉級國際盃"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "unknown",
+    "basis": "unread",
+    "evidence": []
+  },
+  "links": {
+    "official": null,
+    "rules": [],
+    "registration": null
+  },
+  "found_via": [
+    {
+      "name": "南港高工 重要資訊",
+      "url": "https://www.nkhs.tp.edu.tw/ischool/public/news_view/show.php?nid=34653"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-26",
+    "method": "single",
+    "unread": [],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-26"
+}

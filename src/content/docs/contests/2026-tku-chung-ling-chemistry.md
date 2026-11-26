@@ -3,7 +3,7 @@ title: "2026 第二十一屆鍾靈化學創意競賽"
 description: "全國高中職生 3 人組隊，至淡江大學參加化學闖關與實驗實作並繳交書面報告。"
 appliesTo: "第 21 屆 這一屆"
 caveat: "報名須繳費：每組 2,400 元。"
-lastVerified: 2026-11-25
+lastVerified: 2026-11-26
 kind: "contest"
 deadline: "2026-12-10"
 sources:

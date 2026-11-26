@@ -3,7 +3,7 @@ title: "2026智慧永續循環技術論文暨專題競賽"
 description: "高中職與大專學生 1 至 5 人組隊，提出以智慧科技解決永續發展問題的專題。"
 appliesTo: "2026 這一屆"
 caveat: "報名已於 2026-11-22 截止。"
-lastVerified: 2026-11-25
+lastVerified: 2026-11-26
 kind: "contest"
 deadline: "2026-11-22"
 sources:

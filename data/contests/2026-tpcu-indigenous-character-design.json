@@ -1,0 +1,208 @@
+{
+  "schema": 1,
+  "id": "2026-tpcu-indigenous-character-design",
+  "title": "2026 原住民文化角色設計全國競賽",
+  "edition": "2026",
+  "summary": "高中職與大專學生以鄒族戰神亞伐霏歐為主題，設計並繪製含背景的 2D 原住民文化角色概念圖。",
+  "organizers": [
+    {
+      "name": "臺北城市科技大學數位多媒體設計系",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "設計",
+    "美術"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職",
+      "大專"
+    ],
+    "division": "mixed",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": null,
+    "team_max": null,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://dmd.tpcu.edu.tw/p/406-1034-89561,r776.php?Lang=zh-tw",
+        "quote": "報名資格：全國高中職、大專院校混齡參賽"
+      },
+      {
+        "url": "https://dmd.tpcu.edu.tw/p/406-1034-89561,r776.php?Lang=zh-tw",
+        "quote": "可先填寫表單報名，稍後在截止日前完成檔案上傳 。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "線上報名截止",
+      "date": "2026-10-12",
+      "time": "12:00",
+      "original": "115年10月12日(一)中午12：00止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.ntsh.ntct.edu.tw/ischool/public/news_view/show.php?nid=22876",
+          "quote": "(三)報名方式：採線上報名，即日起至115年10月12日(一)中午12：00止。"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "初賽作品繳交截止",
+      "date": "2026-10-12",
+      "time": "12:00",
+      "original": "115年10月12日(一)12:00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://dmd.tpcu.edu.tw/p/406-1034-89561,r776.php?Lang=zh-tw",
+          "quote": "115年10月12日(一)12:00 逾時報名系統將自動關閉，不予受理。"
+        }
+      ]
+    },
+    {
+      "kind": "shortlist_announcement",
+      "label": "公告入圍名單",
+      "date": "2026-10-16",
+      "time": "12:00",
+      "original": "115年10月16日(五)12:00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://dmd.tpcu.edu.tw/p/406-1034-89561,r776.php?Lang=zh-tw",
+          "quote": "115年10月16日(五)12:00公告入圍名單。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "現場決賽與頒獎",
+      "date": "2026-10-30",
+      "time": "09:00",
+      "original": "115年10月30日(五)09:00~16:00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://dmd.tpcu.edu.tw/p/406-1034-89561,r776.php?Lang=zh-tw",
+          "quote": "115年10月30日(五)09:00~16:00"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "初賽",
+      "what": "一張含背景設計的 2D 角色概念圖精稿（A4 橫式、300dpi 以上），以及含 10 層以上圖層的原始 PSD 檔",
+      "how": "online"
+    },
+    {
+      "stage": "初賽",
+      "what": "繪圖過程的 YouTube 直播錄影連結（1080P、每秒 30 格、顯示系統時間戳記、加上指定浮水印），存成 .url 捷徑上傳至雲端資料夾",
+      "how": "online"
+    },
+    {
+      "stage": "決賽（入圍者）",
+      "what": "現場競賽，依同一作品規格繪製",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "finalists",
+    "where": "臺北城市科技大學財經大樓四樓財四特教室",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://dmd.tpcu.edu.tw/p/406-1034-89561,r776.php?Lang=zh-tw",
+        "quote": "115年10月16日(五)12:00公告入圍名單。"
+      },
+      {
+        "url": "https://www.ntsh.ntct.edu.tw/ischool/public/news_view/show.php?nid=22876",
+        "quote": "２、決賽：定於115年10月30日(五)假本校臺北城市科技大學財經大樓四樓財四特教室舉辦現場競賽。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://dmd.tpcu.edu.tw/p/406-1034-89561,r776.php?Lang=zh-tw"
+      },
+      {
+        "url": "https://www.ntsh.ntct.edu.tw/ischool/public/news_view/show.php?nid=22876"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "第一名新台幣 6,000 元、第二名新台幣 3,000 元、第三名新台幣 1,000 元、佳作 10 名；完成初賽者可取得參賽證明。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://dmd.tpcu.edu.tw/p/406-1034-89561,r776.php?Lang=zh-tw",
+        "quote": "第一名：新台幣6000元"
+      },
+      {
+        "url": "https://dmd.tpcu.edu.tw/p/406-1034-89561,r776.php?Lang=zh-tw",
+        "quote": "第二名：新台幣3000元"
+      },
+      {
+        "url": "https://dmd.tpcu.edu.tw/p/406-1034-89561,r776.php?Lang=zh-tw",
+        "quote": "第三名：新台幣1000元。"
+      },
+      {
+        "url": "https://dmd.tpcu.edu.tw/p/406-1034-89561,r776.php?Lang=zh-tw",
+        "quote": "佳作：10名"
+      },
+      {
+        "url": "https://dmd.tpcu.edu.tw/p/406-1034-89561,r776.php?Lang=zh-tw",
+        "quote": "完成初賽資格可取得參賽證明。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://dmd.tpcu.edu.tw/p/406-1034-89561,r776.php?Lang=zh-tw"
+      },
+      {
+        "url": "https://www.ntsh.ntct.edu.tw/ischool/public/news_view/show.php?nid=22876"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://dmd.tpcu.edu.tw/p/406-1034-89561,r776.php?Lang=zh-tw",
+    "rules": [],
+    "registration": "https://forms.gle/fpfeoM8ppduKB17G8"
+  },
+  "found_via": [
+    {
+      "name": "南投高中 最新消息",
+      "url": "https://www.ntsh.ntct.edu.tw/ischool/public/news_view/show.php?nid=22876"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-26",
+    "method": "single",
+    "unread": [
+      "轉知公告所附的競賽簡章"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-26"
+}

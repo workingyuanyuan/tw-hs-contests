@@ -1,9 +1,9 @@
 ---
 title: "類別：農業與環境"
 description: "農業與環境類的比賽 5 則，最早在 2026-12-17 截止。"
-appliesTo: "資料更新至 2026-11-25"
+appliesTo: "資料更新至 2026-11-26"
 caveat: "截止日指新參賽者報名的最後一天，以臺灣時間計。"
-lastVerified: 2026-11-25
+lastVerified: 2026-11-26
 kind: "index"
 sidebar:
   label: "農業與環境"

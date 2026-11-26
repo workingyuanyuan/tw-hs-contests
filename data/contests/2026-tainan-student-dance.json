@@ -1,0 +1,359 @@
+{
+  "schema": 1,
+  "id": "2026-tainan-student-dance",
+  "title": "臺南市115學年度學生舞蹈比賽",
+  "edition": "115 學年度",
+  "summary": "臺南市國小至大專學生以個人或團體參賽，演出古典舞、民俗舞、現代舞、兒童舞蹈或芭蕾作品。",
+  "organizers": [
+    {
+      "name": "臺南市政府教育局",
+      "role": "主辦"
+    },
+    {
+      "name": "歸仁區紅瓦厝國小",
+      "role": "承辦"
+    },
+    {
+      "name": "市立中山國中",
+      "role": "協辦"
+    },
+    {
+      "name": "中西區進學國小",
+      "role": "協辦"
+    },
+    {
+      "name": "永康區復興國小",
+      "role": "協辦"
+    },
+    {
+      "name": "市立永仁高級中學",
+      "role": "協辦"
+    },
+    {
+      "name": "歸仁區文化國小",
+      "role": "協辦"
+    },
+    {
+      "name": "歸仁文化中心",
+      "role": "協辦"
+    }
+  ],
+  "categories": [
+    "表演藝術"
+  ],
+  "eligibility": {
+    "levels": [
+      "國小",
+      "國中",
+      "高中",
+      "高職",
+      "五專",
+      "大專"
+    ],
+    "division": "separate",
+    "regions": [
+      "臺南市"
+    ],
+    "nomination": "school",
+    "team_min": 1,
+    "team_max": 75,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/07/來文附件_0978847A00_ATTCH5.pdf",
+        "quote": "本市公、私立國民小學學生"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/07/來文附件_0978847A00_ATTCH5.pdf",
+        "quote": "本市公、私立國中、國中進修部、高中附設國中部、完全中學國中部學生。"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/07/來文附件_0978847A00_ATTCH5.pdf",
+        "quote": "本市公、私立高中職日間部與進修部、完全中學高中部、五專校院前3年日間部與進修部學生，七年一貫制大學前3年之學生。"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/07/來文附件_0978847A00_ATTCH5.pdf",
+        "quote": "除本市社區大學（學院）外，本市公、私立大專校院日間部與進修部學生及研究生、五專校院日間部與進修部後2年學生，七年一貫制大學後4年之學生。"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/07/來文附件_0978847A00_ATTCH5.pdf",
+        "quote": "參賽人數以1 人為限"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/07/來文附件_0978847A00_ATTCH5.pdf",
+        "quote": "甲組：31 人至75 人。"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/07/來文附件_0978847A00_ATTCH5.pdf",
+        "quote": "1.不論團體組或個人組，皆採網路報名，且一律由各校負責審核校內報名資料，並負報名之責"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/07/來文附件_0978847A00_ATTCH5.pdf",
+        "quote": "（採學校統一寄送書面報名表及切結書，不接受個人寄送書面報名表及切結書）"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "網路報名截止",
+      "date": "2026-09-11",
+      "time": "17:00",
+      "original": "115 年8 月31 日（星期一）上午8 時起至9 月11 日（星期五）下午5 時止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/07/來文附件_0978847A00_ATTCH5.pdf",
+          "quote": "（一）網路報名日期：自115 年8 月31 日（星期一）上午8 時起至9 月11 日（星期五）下午5 時止。"
+        }
+      ]
+    },
+    {
+      "kind": "registration_deadline",
+      "label": "學校掛號郵寄書面報名表及切結書截止（郵戳為憑）",
+      "date": "2026-09-14",
+      "time": null,
+      "original": "115 年9 月14 日（星期一）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/07/來文附件_0978847A00_ATTCH5.pdf",
+          "quote": "書面報名表及切結書至遲應於115 年9 月14 日（星期一）止以掛號郵寄至歸仁區紅瓦厝國小學務處"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "參賽學校全銜及參賽者中英文姓名填報截止",
+      "date": "2026-09-14",
+      "time": "17:00",
+      "original": "115 年8月31 日（星期一）上午8 時起至9 月14 日（星期一）下午5 時",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/07/來文附件_0978847A00_ATTCH5.pdf",
+          "quote": "請各參賽隊伍於115 年8月31 日（星期一）上午8 時起至9 月14 日（星期一）下午5 時至本局資訊中心填報系統"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "領隊會議及抽出場序",
+      "date": "2026-09-24",
+      "time": "09:30",
+      "original": "115 年9 月24 日（星期四）上午9 時30 分",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/07/來文附件_0978847A00_ATTCH5.pdf",
+          "quote": "115 年9 月24 日（星期四）上午9 時30 分，假歸仁區紅瓦厝國小"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "使用特殊道具或非舞者自行手持道具者郵寄申請使用單截止（郵戳為憑）",
+      "date": "2026-10-06",
+      "time": null,
+      "original": "115 年10 月6 日(星期二)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/07/來文附件_0978847A00_ATTCH5.pdf",
+          "quote": "至遲應於115 年10 月6 日(星期二)以雙掛號郵寄至歸仁區紅瓦厝國小學務處，以郵戳為憑。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "團體乙、丙組及個人組比賽開始（歸仁文化中心）",
+      "date": "2026-11-03",
+      "time": null,
+      "original": "115年11月3日（星期二）至11月13日（星期五）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/07/來文附件_0978847A00_ATTCH5.pdf",
+          "quote": "1.時間：115年11月3日（星期二）至11月13日（星期五）"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "團體乙、丙組及個人組比賽結束（歸仁文化中心）",
+      "date": "2026-11-13",
+      "time": null,
+      "original": "115年11月3日（星期二）至11月13日（星期五）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/07/來文附件_0978847A00_ATTCH5.pdf",
+          "quote": "1.時間：115年11月3日（星期二）至11月13日（星期五）"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "團體甲組比賽（中山國中中山館）",
+      "date": "2026-11-17",
+      "time": null,
+      "original": "115年11月17日（星期二）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/07/來文附件_0978847A00_ATTCH5.pdf",
+          "quote": "1.時間：115年11月17日（星期二）"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "獎狀及團體組光碟領取截止",
+      "date": "2026-12-31",
+      "time": null,
+      "original": "115 年12 月14 日至12 月31 日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/07/來文附件_0978847A00_ATTCH5.pdf",
+          "quote": "領取時間：自115 年12 月14 日至12 月31 日止，逾期恕不負保管之責。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "網路報名",
+      "what": "報名資料，含編舞教師及助理指導教師姓名",
+      "how": "online"
+    },
+    {
+      "stage": "書面報名",
+      "what": "加蓋學校戳章的報名表（含參賽者名冊）及切結書各 2 份，由學校統一掛號寄送",
+      "how": "mail"
+    },
+    {
+      "stage": "領隊會議後（使用特殊道具者）",
+      "what": "特殊及非舞者自行手持道具申請使用單",
+      "how": "mail"
+    },
+    {
+      "stage": "比賽",
+      "what": "舞蹈演出：個人組 6 分鐘內（芭蕾 3 分鐘內），團體乙、丙組 9 分鐘內（芭蕾 8 分鐘內），團體甲組 10 分鐘內；自備 MP3 音樂 USB",
+      "how": "onsite"
+    },
+    {
+      "stage": "比賽報到（自由繳交）",
+      "what": "節目說明或故事大綱 5 份，轉交評審參考",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "歸仁文化中心（團體乙、丙組及個人組）、中西區中山國中中山館（團體甲組）",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/07/來文附件_0978847A00_ATTCH5.pdf",
+        "quote": "2.地點：中西區中山國中中山館"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/07/來文附件_0978847A00_ATTCH5.pdf",
+        "quote": "2.地點：歸仁文化中心"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/07/來文附件_0978847A00_ATTCH5.pdf",
+        "quote": "參賽單位應於比賽開始前30 分鐘，到達會場向大會報到處辦理報到手續"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/07/來文附件_0978847A00_ATTCH5.pdf"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/2026/07/09/%e8%87%ba%e5%8d%97%e5%b8%82115%e5%ad%b8%e5%b9%b4%e5%ba%a6%e5%ad%b8%e7%94%9f%e8%88%9e%e8%b9%88%e6%af%94%e8%b3%bd%e5%af%a6%e6%96%bd%e8%a8%88%e7%95%ab/"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "依分數評列特優（89 分以上）、優等（85 分以上）、甲等（80 分以上），均發給獎狀；個人項目另依參賽人數列第一名至最多第六名；南、北兩區各項各組各類第一名（須達 80 分）代表臺南市參加 115 學年度全國學生舞蹈比賽。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/07/來文附件_0978847A00_ATTCH5.pdf",
+        "quote": "（一）比賽獎勵：獲特優、優等及甲等者均發給獎狀乙幀。"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/07/來文附件_0978847A00_ATTCH5.pdf",
+        "quote": "89 分（含）以上"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/07/來文附件_0978847A00_ATTCH5.pdf",
+        "quote": "（三）個人項目除依上開分數評定等第予以獎勵外，依參賽人數另列名次如下："
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/07/來文附件_0978847A00_ATTCH5.pdf",
+        "quote": "第一名至第六名各1 人"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/07/來文附件_0978847A00_ATTCH5.pdf",
+        "quote": "並以各區各項各組各類第一名（評分須達80 分以上）代表本市參加115學年度全國學生舞蹈比賽。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/07/來文附件_0978847A00_ATTCH5.pdf"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/2026/07/09/%e8%87%ba%e5%8d%97%e5%b8%82115%e5%ad%b8%e5%b9%b4%e5%ba%a6%e5%ad%b8%e7%94%9f%e8%88%9e%e8%b9%88%e6%af%94%e8%b3%bd%e5%af%a6%e6%96%bd%e8%a8%88%e7%95%ab/"
+      }
+    ]
+  },
+  "links": {
+    "official": null,
+    "rules": [
+      {
+        "title": "臺南市115學年度學生舞蹈比賽實施計畫（含附件）",
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/07/來文附件_0978847A00_ATTCH5.pdf"
+      },
+      {
+        "title": "團體甲組場地圖（中山國中中山館）",
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/07/來文附件_0978847A00_ATTCH9.pdf"
+      },
+      {
+        "title": "中山國中交通位置圖",
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/07/來文附件_0978847A00_ATTCH10.pdf"
+      }
+    ],
+    "registration": "https://studentdance.perdc.ntnu.edu.tw"
+  },
+  "found_via": [
+    {
+      "name": "臺南女中 學生競賽",
+      "url": "https://www.tngs.tn.edu.tw/2026/07/09/%e8%87%ba%e5%8d%97%e5%b8%82115%e5%ad%b8%e5%b9%b4%e5%ba%a6%e5%ad%b8%e7%94%9f%e8%88%9e%e8%b9%88%e6%af%94%e8%b3%bd%e5%af%a6%e6%96%bd%e8%a8%88%e7%95%ab/"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-26",
+    "method": "single",
+    "unread": [
+      "全國學生舞蹈比賽資訊網「報名之操作注意事項及手冊」"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-26"
+}

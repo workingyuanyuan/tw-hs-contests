@@ -1,0 +1,162 @@
+{
+  "schema": 1,
+  "id": "2026-subject-competition-region2-semifinal",
+  "title": "115學年度普通型高級中等學校數理及資訊學科能力競賽國教署負責區(第二區)複賽",
+  "edition": "115 學年度",
+  "summary": "普通型高中學生經學校報名，參加生物、數學、地科、化學、資訊、物理學科能力競賽複賽作答。",
+  "organizers": [
+    {
+      "name": "國教署",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "數學",
+    "自然科學",
+    "資訊與 AI"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中"
+    ],
+    "division": "hs_only",
+    "regions": [
+      "國教署負責區(第二區)"
+    ],
+    "nomination": "school",
+    "team_min": null,
+    "team_max": null,
+    "teacher": "required",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26426",
+        "quote": "請詳閱「115學年度普通型高級中等學校數理及資訊學科能 力競賽國教署負責區(第二區)複賽實施計畫」(如附件)"
+      },
+      {
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26426",
+        "quote": "請於115年10月2日(星期五)17時前將學生報名表及領隊教 師報名表excel檔傳至"
+      },
+      {
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26426",
+        "quote": "並將核章正 本郵寄至本校設備組。"
+      },
+      {
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26426",
+        "quote": "為建立各參賽學校與主辦單位間即時、雙向之溝通管道"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "學生報名表及領隊教師報名表傳送截止",
+      "date": "2026-10-02",
+      "time": "17:00",
+      "original": "115年10月2日(星期五)17時前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26426",
+          "quote": "請於115年10月2日(星期五)17時前將學生報名表及領隊教 師報名表excel檔傳至"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "複賽：生物、數學、地科",
+      "date": "2026-11-10",
+      "time": null,
+      "original": "11月10日星期二",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26426",
+          "quote": "(一)11月10日星期二：生物、數學、地科。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "複賽：化學、資訊、物理",
+      "date": "2026-11-12",
+      "time": null,
+      "original": "11月12日星期四",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26426",
+          "quote": "(二)11月12日星期四：化學、資訊、物理。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "複賽",
+      "what": "依報名科目（生物、數學、地科、化學、資訊、物理）於指定日期應試",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": null,
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26426",
+        "quote": "(一)11月10日星期二：生物、數學、地科。"
+      },
+      {
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26426",
+        "quote": "(二)11月12日星期四：化學、資訊、物理。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "unknown",
+    "amount": null,
+    "basis": "unread",
+    "evidence": []
+  },
+  "prizes": {
+    "text": null,
+    "basis": "unread",
+    "evidence": []
+  },
+  "ai_policy": {
+    "value": "unknown",
+    "basis": "unread",
+    "evidence": []
+  },
+  "links": {
+    "official": null,
+    "rules": [
+      {
+        "title": "實施計畫公告（附件）",
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26426"
+      }
+    ],
+    "registration": null
+  },
+  "found_via": [
+    {
+      "name": "苗栗農工 處室公告",
+      "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26426"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-26",
+    "method": "single",
+    "unread": [
+      "115學年度普通型高級中等學校數理及資訊學科能力競賽國教署負責區(第二區)複賽實施計畫（附件）",
+      "學生報名表及領隊教師報名表"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-26"
+}

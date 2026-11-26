@@ -3,7 +3,7 @@ title: "2026《NEXT IDOL》KPOP偶像舞蹈大賽"
 description: "2008 至 2011 年出生之青少年報名參加，依官方舞蹈版本進行 KPOP 完整舞蹈還原演出並現場評選。"
 appliesTo: "2026 這一屆"
 caveat: "日期與時間都是臺灣時間。"
-lastVerified: 2026-11-25
+lastVerified: 2026-11-26
 kind: "contest"
 deadline: "2026-12-06"
 sources:

@@ -3,7 +3,7 @@ title: "新北市115學年度技術型高中自主學習Go AI成果競賽"
 description: "新北市技術型高中專業群科學生撰寫技能專書閱讀心得，或以 AI 工具輔助自主學習並提交成果報告。"
 appliesTo: "115 學年度 這一屆"
 caveat: "須由學校推薦或薦送，學生不能自行報名。"
-lastVerified: 2026-11-25
+lastVerified: 2026-11-26
 kind: "contest"
 deadline: "2027-01-12"
 sources:

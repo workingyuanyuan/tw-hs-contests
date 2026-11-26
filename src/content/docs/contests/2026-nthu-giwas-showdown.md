@@ -3,7 +3,7 @@ title: "「吉娃斯愛科學決戰」體驗賽"
 description: "各級學校師生個人上線作答《吉娃斯愛科學》動畫相關的科學與原住民族文化題目。"
 appliesTo: "2026 這一屆"
 caveat: "報名已於 2026-11-14 12:00 截止。"
-lastVerified: 2026-11-25
+lastVerified: 2026-11-26
 kind: "contest"
 deadline: "2026-11-14"
 sources:

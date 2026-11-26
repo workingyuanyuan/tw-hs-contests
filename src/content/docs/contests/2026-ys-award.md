@@ -3,7 +3,7 @@ title: "第24屆育秀盃創意獎"
 description: "大專與高中職學生組隊，以「玩轉AI．智創未來」為題提交數位應用、工業設計或品牌形象作品。"
 appliesTo: "第 24 屆 這一屆"
 caveat: "獎金獵人競賽頁寫數位應用類與工業設計類複賽影片解析度為720*480dpi以上，競賽辦法PDF寫1920X1080Pixel以上。"
-lastVerified: 2026-11-25
+lastVerified: 2026-11-26
 kind: "contest"
 deadline: "2026-12-31"
 sources:

@@ -3,7 +3,7 @@ title: "全國創新行銷暨小論文競賽"
 description: "高中職與大專學生 2 至 6 人組隊，以行銷主題的小論文、專題或企劃作品參賽。"
 appliesTo: "2026 這一屆"
 caveat: "日期與時間都是臺灣時間。"
-lastVerified: 2026-11-25
+lastVerified: 2026-11-26
 kind: "contest"
 deadline: "2026-12-04"
 sources:

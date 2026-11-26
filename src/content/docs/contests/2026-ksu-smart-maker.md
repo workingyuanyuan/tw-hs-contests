@@ -3,7 +3,7 @@ title: "2026全國智慧科技創客挑戰賽"
 description: "大專院校以下在校生報名參加迷宮競速、AI 智慧小車遙控競速或旋翼式無人機競賽，於崑山科技大學體育館現場實作競技。"
 appliesTo: "2026 這一屆"
 caveat: "日期與時間都是臺灣時間。"
-lastVerified: 2026-11-25
+lastVerified: 2026-11-26
 kind: "contest"
 deadline: "2026-11-30"
 sources:

@@ -2,8 +2,8 @@
   "schema": 1,
   "id": "2026-new-immigrants-dream-plan",
   "title": "第13屆新住民及子女築夢計畫",
-  "edition": "第13屆",
-  "summary": "新住民或其子女2至5人組隊，依五大主題組別撰寫築夢計畫書參加甄選。",
+  "edition": "第 13 屆",
+  "summary": "新住民及8歲以上在臺子女組隊，依5大主題自訂題目撰寫築夢計畫書參加甄選。",
   "organizers": [
     {
       "name": "內政部移民署",
@@ -44,7 +44,7 @@
       },
       {
         "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs271/內政部移民署辦理「第13屆新住民及子女築夢計畫」報名簡章.pdf",
-        "quote": "一、報名組別：共5類組別擇一參加"
+        "quote": "一、報名組別：共5類組別擇一參加，另同一家庭成員及其配偶（具直系血親）僅能擇一報名"
       },
       {
         "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs271/內政部移民署辦理「第13屆新住民及子女築夢計畫」報名簡章.pdf",
@@ -55,7 +55,7 @@
   "dates": [
     {
       "kind": "registration_deadline",
-      "label": "報名截止（紙本以收件郵戳日期為憑）",
+      "label": "報名截止（線上報名及書面資料掛號郵寄，以收件郵戳日期為憑）",
       "date": "2026-12-15",
       "time": null,
       "original": "115年12月15日",
@@ -102,14 +102,19 @@
   ],
   "deliverables": [
     {
-      "stage": "報名",
-      "what": "線上報名系統填寫報名資訊",
+      "stage": "線上報名",
+      "what": "於線上報名系統登打報名相關資訊",
       "how": "online"
     },
     {
-      "stage": "報名",
-      "what": "報名表、個人資料使用授權同意書、築夢計畫書，附3個月內全戶戶籍謄本或身分證明文件，以掛號寄送",
+      "stage": "書面報名",
+      "what": "報名表、個人資料使用授權同意書、築夢計畫書，併同 3 個月內全戶戶籍謄本或身分證明文件及佐證資料，以掛號郵寄",
       "how": "mail"
+    },
+    {
+      "stage": "獲獎後",
+      "what": "接受業師輔導並修改計畫，依期限完成築夢計畫，交付費用支出明細、成果報告、影音紀錄及心得",
+      "how": "unknown"
     }
   ],
   "attendance": {
@@ -119,18 +124,6 @@
     "evidence": [
       {
         "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs271/內政部移民署辦理「第13屆新住民及子女築夢計畫」報名簡章.pdf"
-      },
-      {
-        "url": "https://www.fg.tp.edu.tw/view-doc/23/(教育局)轉知內政部移民署辦理「第13屆新住民及子女築夢計畫」02.pdf"
-      },
-      {
-        "url": "https://www.fg.tp.edu.tw/view-doc/23/(教育局)轉知內政部移民署辦理「第13屆新住民及子女築夢計畫」01.pdf"
-      },
-      {
-        "url": "https://www.csghs.tp.edu.tw/news/%e5%85%a7%e6%94%bf%e9%83%a8%e7%a7%bb%e6%b0%91%e7%bd%b2%e8%be%a6%e7%90%86%e3%80%8c%e7%ac%ac13%e5%b1%86%e6%96%b0%e4%bd%8f%e6%b0%91%e5%8f%8a%e5%ad%90%e5%a5%b3%e7%af%89%e5%a4%a2%e8%a8%88%e7%95%ab%e3%80%8d/"
-      },
-      {
-        "url": "https://www.fg.tp.edu.tw/news/%e5%85%a7%e6%94%bf%e9%83%a8%e7%a7%bb%e6%b0%91%e7%bd%b2%e8%be%a6%e7%90%86%e3%80%8c%e7%ac%ac13%e5%b1%86%e6%96%b0%e4%bd%8f%e6%b0%91%e5%8f%8a%e5%ad%90%e5%a5%b3%e7%af%89%e5%a4%a2%e8%a8%88%e7%95%ab%e3%80%8d/"
       }
     ]
   },
@@ -141,23 +134,11 @@
     "evidence": [
       {
         "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs271/內政部移民署辦理「第13屆新住民及子女築夢計畫」報名簡章.pdf"
-      },
-      {
-        "url": "https://www.fg.tp.edu.tw/view-doc/23/(教育局)轉知內政部移民署辦理「第13屆新住民及子女築夢計畫」02.pdf"
-      },
-      {
-        "url": "https://www.fg.tp.edu.tw/view-doc/23/(教育局)轉知內政部移民署辦理「第13屆新住民及子女築夢計畫」01.pdf"
-      },
-      {
-        "url": "https://www.csghs.tp.edu.tw/news/%e5%85%a7%e6%94%bf%e9%83%a8%e7%a7%bb%e6%b0%91%e7%bd%b2%e8%be%a6%e7%90%86%e3%80%8c%e7%ac%ac13%e5%b1%86%e6%96%b0%e4%bd%8f%e6%b0%91%e5%8f%8a%e5%ad%90%e5%a5%b3%e7%af%89%e5%a4%a2%e8%a8%88%e7%95%ab%e3%80%8d/"
-      },
-      {
-        "url": "https://www.fg.tp.edu.tw/news/%e5%85%a7%e6%94%bf%e9%83%a8%e7%a7%bb%e6%b0%91%e7%bd%b2%e8%be%a6%e7%90%86%e3%80%8c%e7%ac%ac13%e5%b1%86%e6%96%b0%e4%bd%8f%e6%b0%91%e5%8f%8a%e5%ad%90%e5%a5%b3%e7%af%89%e5%a4%a2%e8%a8%88%e7%95%ab%e3%80%8d/"
       }
     ]
   },
   "prizes": {
-    "text": "五組各預計 8 組、共 40 組獲獎團隊，依夢想內容每組築夢獎金最高新臺幣 10 萬元；甄選委員得增減各組獲獎組數及金額，獎金於獲獎者接受業師第 1 次輔導並修改計畫後核撥。",
+    "text": "5 個組別各預計 8 組、共 40 組獲獎團隊，依夢想內容每組築夢獎金最高新臺幣 10 萬元；獎金於獲獎者接受業師第 1 次輔導並修改計畫後一次全額核撥，須全額用於築夢計畫。",
     "basis": "quote",
     "evidence": [
       {
@@ -166,11 +147,11 @@
       },
       {
         "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs271/內政部移民署辦理「第13屆新住民及子女築夢計畫」報名簡章.pdf",
-        "quote": "並由本署及甄審委員於本計畫獎金總額度內，增減調整各組獲獎組數及金額。"
+        "quote": "三、獎金核發方式：獲獎名單公布後，獲獎者應接受業師第1次輔導，並配合業師指導建議計畫內容修改，始核撥1次全額獎金。"
       },
       {
         "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs271/內政部移民署辦理「第13屆新住民及子女築夢計畫」報名簡章.pdf",
-        "quote": "三、獎金核發方式：獲獎名單公布後，獲獎者應接受業師第1次輔導，並配合業師指導建議計畫內容修改，始核撥1次全額獎金。"
+        "quote": "且獎金金額需全額用於築夢計畫實踐過程中，不得挪作他用"
       }
     ]
   },
@@ -180,18 +161,6 @@
     "evidence": [
       {
         "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs271/內政部移民署辦理「第13屆新住民及子女築夢計畫」報名簡章.pdf"
-      },
-      {
-        "url": "https://www.fg.tp.edu.tw/view-doc/23/(教育局)轉知內政部移民署辦理「第13屆新住民及子女築夢計畫」02.pdf"
-      },
-      {
-        "url": "https://www.fg.tp.edu.tw/view-doc/23/(教育局)轉知內政部移民署辦理「第13屆新住民及子女築夢計畫」01.pdf"
-      },
-      {
-        "url": "https://www.csghs.tp.edu.tw/news/%e5%85%a7%e6%94%bf%e9%83%a8%e7%a7%bb%e6%b0%91%e7%bd%b2%e8%be%a6%e7%90%86%e3%80%8c%e7%ac%ac13%e5%b1%86%e6%96%b0%e4%bd%8f%e6%b0%91%e5%8f%8a%e5%ad%90%e5%a5%b3%e7%af%89%e5%a4%a2%e8%a8%88%e7%95%ab%e3%80%8d/"
-      },
-      {
-        "url": "https://www.fg.tp.edu.tw/news/%e5%85%a7%e6%94%bf%e9%83%a8%e7%a7%bb%e6%b0%91%e7%bd%b2%e8%be%a6%e7%90%86%e3%80%8c%e7%ac%ac13%e5%b1%86%e6%96%b0%e4%bd%8f%e6%b0%91%e5%8f%8a%e5%ad%90%e5%a5%b3%e7%af%89%e5%a4%a2%e8%a8%88%e7%95%ab%e3%80%8d/"
       }
     ]
   },
@@ -207,6 +176,10 @@
   },
   "found_via": [
     {
+      "name": "forms.gle",
+      "url": "https://forms.gle/KzEZsd77tKg2AWN48"
+    },
+    {
       "name": "中山女高 最新消息",
       "url": "https://www.csghs.tp.edu.tw/news/%e5%85%a7%e6%94%bf%e9%83%a8%e7%a7%bb%e6%b0%91%e7%bd%b2%e8%be%a6%e7%90%86%e3%80%8c%e7%ac%ac13%e5%b1%86%e6%96%b0%e4%bd%8f%e6%b0%91%e5%8f%8a%e5%ad%90%e5%a5%b3%e7%af%89%e5%a4%a2%e8%a8%88%e7%95%ab%e3%80%8d/"
     },
@@ -216,7 +189,7 @@
     }
   ],
   "verification": {
-    "last_verified": "2026-11-25",
+    "last_verified": "2026-11-26",
     "method": "dual",
     "unread": [],
     "note": null,
@@ -226,7 +199,7 @@
     ]
   },
   "first_seen": "2026-11-24",
-  "updated": "2026-11-24",
+  "updated": "2026-11-26",
   "level": "verified",
   "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-new-immigrants-dream-plan/",
   "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-new-immigrants-dream-plan.md"

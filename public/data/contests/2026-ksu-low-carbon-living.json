@@ -1,0 +1,240 @@
+{
+  "schema": 1,
+  "id": "2026-ksu-low-carbon-living",
+  "title": "2026全國低碳生活企劃專題競賽",
+  "edition": "2026",
+  "summary": "高中職與大學部學生 3 至 6 人組隊，就低碳生活主題提出低碳創意專題或綠色行銷企劃。",
+  "organizers": [
+    {
+      "name": "崑山科技大學智慧生活管理學院企業管理系",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "創業與企劃",
+    "商管與行銷",
+    "農業與環境"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職",
+      "大專"
+    ],
+    "division": "mixed",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 3,
+    "team_max": 6,
+    "teacher": "required",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33618/09142026%E5%85%A8%E5%9C%8B%E4%BD%8E%E7%A2%B3%E7%94%9F%E6%B4%BB%E4%BC%81%E5%8A%83%E5%B0%88%E9%A1%8C%E7%AB%B6%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "(一)分組：高中職在學學生或大學部在學學生。每隊 3-6 人為限，指導老師 1 人。"
+      },
+      {
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33618/09142026%E5%85%A8%E5%9C%8B%E4%BD%8E%E7%A2%B3%E7%94%9F%E6%B4%BB%E4%BC%81%E5%8A%83%E5%B0%88%E9%A1%8C%E7%AB%B6%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "(1) 決賽六名(獎項名額將依高中職組與大學組之報名件數比例進行權衡分配)。"
+      },
+      {
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33618/09142026%E5%85%A8%E5%9C%8B%E4%BD%8E%E7%A2%B3%E7%94%9F%E6%B4%BB%E4%BC%81%E5%8A%83%E5%B0%88%E9%A1%8C%E7%AB%B6%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "報名與繳件，報名截止日前至下列連結進行報名與繳件:"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "報名暨繳件截止",
+      "date": "2026-10-28",
+      "time": null,
+      "original": "2026 年 10 月 28 日(三)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33618/09142026%E5%85%A8%E5%9C%8B%E4%BD%8E%E7%A2%B3%E7%94%9F%E6%B4%BB%E4%BC%81%E5%8A%83%E5%B0%88%E9%A1%8C%E7%AB%B6%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf",
+          "quote": "報名暨繳件截止 2026 年 10 月 28 日(三)"
+        },
+        {
+          "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33618/09142026%E5%85%A8%E5%9C%8B%E4%BD%8E%E7%A2%B3%E7%94%9F%E6%B4%BB%E4%BC%81%E5%8A%83%E5%B0%88%E9%A1%8C%E7%AB%B6%E8%B3%BD%E4%BE%86%E6%96%87.pdf",
+          "quote": "(一)報名日期：即日起~115年10月28日(星期三)。"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "初賽作品繳件截止",
+      "date": "2026-10-28",
+      "time": null,
+      "original": "2026 年 10 月 28 日(三)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33618/09142026%E5%85%A8%E5%9C%8B%E4%BD%8E%E7%A2%B3%E7%94%9F%E6%B4%BB%E4%BC%81%E5%8A%83%E5%B0%88%E9%A1%8C%E7%AB%B6%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf",
+          "quote": "報名暨繳件截止 2026 年 10 月 28 日(三)"
+        }
+      ]
+    },
+    {
+      "kind": "shortlist_announcement",
+      "label": "入圍決賽名單公布",
+      "date": "2026-11-04",
+      "time": null,
+      "original": "2026 年 11 月 04 日(三)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33618/09142026%E5%85%A8%E5%9C%8B%E4%BD%8E%E7%A2%B3%E7%94%9F%E6%B4%BB%E4%BC%81%E5%8A%83%E5%B0%88%E9%A1%8C%E7%AB%B6%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf",
+          "quote": "入圍決賽名單公布 2026 年 11 月 04 日(三)"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "決賽暨頒獎典禮",
+      "date": "2026-11-20",
+      "time": null,
+      "original": "2026 年11 月20 日(五)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33618/09142026%E5%85%A8%E5%9C%8B%E4%BD%8E%E7%A2%B3%E7%94%9F%E6%B4%BB%E4%BC%81%E5%8A%83%E5%B0%88%E9%A1%8C%E7%AB%B6%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf",
+          "quote": "(二) 決賽與頒獎:2026 年11 月20 日(五)/ B1-506 教室"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "初賽（書審）",
+      "what": "低碳創意專題或綠色行銷企劃書面資料，PDF 檔，字數不限",
+      "how": "online"
+    },
+    {
+      "stage": "決賽（入圍六隊）",
+      "what": "簡報，每隊報告與提問合計 20 分鐘，大會僅提供 PowerPoint 2013 播放；多媒體影像得以 AVI、MPEG、WMV 電子檔繳交",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "finalists",
+    "where": "B1-506 教室",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33618/09142026%E5%85%A8%E5%9C%8B%E4%BD%8E%E7%A2%B3%E7%94%9F%E6%B4%BB%E4%BC%81%E5%8A%83%E5%B0%88%E9%A1%8C%E7%AB%B6%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "(3) 入圍決賽隊伍若無法參與第二階段決賽及頒獎，主辦單位保留調整入圍名次"
+      },
+      {
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33618/09142026%E5%85%A8%E5%9C%8B%E4%BD%8E%E7%A2%B3%E7%94%9F%E6%B4%BB%E4%BC%81%E5%8A%83%E5%B0%88%E9%A1%8C%E7%AB%B6%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "(二) 決賽與頒獎:2026 年11 月20 日(五)/ B1-506 教室"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33618/09142026%E5%85%A8%E5%9C%8B%E4%BD%8E%E7%A2%B3%E7%94%9F%E6%B4%BB%E4%BC%81%E5%8A%83%E5%B0%88%E9%A1%8C%E7%AB%B6%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "(三)報名費用：毋須繳交任何費用。"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "決賽：冠軍 1 名 12,000 元、亞軍 1 名 8,000 元、季軍 1 名 4,000 元、優勝 3 名 2,000 元，皆附團體獎狀（組員、指導老師每人 1 張）。初賽另選佳作若干名，頒佳作獎狀；參賽者皆給予參賽證明。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33618/09142026%E5%85%A8%E5%9C%8B%E4%BD%8E%E7%A2%B3%E7%94%9F%E6%B4%BB%E4%BC%81%E5%8A%83%E5%B0%88%E9%A1%8C%E7%AB%B6%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "1. 冠軍1 名：獎金新台幣12,000 元及團體獎狀(組員、指導老師每人1 張)"
+      },
+      {
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33618/09142026%E5%85%A8%E5%9C%8B%E4%BD%8E%E7%A2%B3%E7%94%9F%E6%B4%BB%E4%BC%81%E5%8A%83%E5%B0%88%E9%A1%8C%E7%AB%B6%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "2. 亞軍1 名：獎金新台幣8,000 元及團體獎狀(組員、指導老師每人1 張)"
+      },
+      {
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33618/09142026%E5%85%A8%E5%9C%8B%E4%BD%8E%E7%A2%B3%E7%94%9F%E6%B4%BB%E4%BC%81%E5%8A%83%E5%B0%88%E9%A1%8C%E7%AB%B6%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "3. 季軍1 名：獎金新台幣4,000 元及團體獎狀(組員、指導老師每人1 張)"
+      },
+      {
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33618/09142026%E5%85%A8%E5%9C%8B%E4%BD%8E%E7%A2%B3%E7%94%9F%E6%B4%BB%E4%BC%81%E5%8A%83%E5%B0%88%E9%A1%8C%E7%AB%B6%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "4. 優勝3 名：獎金新台幣2,000 元及團體獎狀(組員、指導老師每人1 張)"
+      },
+      {
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33618/09142026%E5%85%A8%E5%9C%8B%E4%BD%8E%E7%A2%B3%E7%94%9F%E6%B4%BB%E4%BC%81%E5%8A%83%E5%B0%88%E9%A1%8C%E7%AB%B6%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "(2) 佳作若干名(獎項名額將依高中職組與大學組之報名件數比例進行權衡分配)，給予佳作獎狀，以電子郵件寄發。"
+      },
+      {
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33618/09142026%E5%85%A8%E5%9C%8B%E4%BD%8E%E7%A2%B3%E7%94%9F%E6%B4%BB%E4%BC%81%E5%8A%83%E5%B0%88%E9%A1%8C%E7%AB%B6%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "1.參賽者給予參賽證明，以電子郵件寄發。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33618/09142026%E5%85%A8%E5%9C%8B%E4%BD%8E%E7%A2%B3%E7%94%9F%E6%B4%BB%E4%BC%81%E5%8A%83%E5%B0%88%E9%A1%8C%E7%AB%B6%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf"
+      },
+      {
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33618/09142026%E5%85%A8%E5%9C%8B%E4%BD%8E%E7%A2%B3%E7%94%9F%E6%B4%BB%E4%BC%81%E5%8A%83%E5%B0%88%E9%A1%8C%E7%AB%B6%E8%B3%BD%E4%BE%86%E6%96%87.pdf"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://web.ksu.edu.tw/DTCHBAD/bulletin/detail/13730",
+    "rules": [
+      {
+        "title": "競賽簡章（PDF）",
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33618/09142026%E5%85%A8%E5%9C%8B%E4%BD%8E%E7%A2%B3%E7%94%9F%E6%B4%BB%E4%BC%81%E5%8A%83%E5%B0%88%E9%A1%8C%E7%AB%B6%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf"
+      },
+      {
+        "title": "崑山科技大學來文（PDF）",
+        "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33618/09142026%E5%85%A8%E5%9C%8B%E4%BD%8E%E7%A2%B3%E7%94%9F%E6%B4%BB%E4%BC%81%E5%8A%83%E5%B0%88%E9%A1%8C%E7%AB%B6%E8%B3%BD%E4%BE%86%E6%96%87.pdf"
+      }
+    ],
+    "registration": "https://forms.gle/KJnmtvJyVyhGy1329"
+  },
+  "found_via": [
+    {
+      "name": "大同高中 學生競賽活動",
+      "url": "https://www.ttsh.tp.edu.tw/news/%e5%b4%91%e5%b1%b1%e7%a7%91%e6%8a%80%e5%a4%a7%e5%ad%b8%e4%bc%81%e6%a5%ad%e7%ae%a1%e7%90%86%e7%b3%bb%e8%88%89%e8%be%a6%e3%80%8c2026%e5%85%a8%e5%9c%8b%e4%bd%8e%e7%a2%b3%e7%94%9f%e6%b4%bb%e4%bc%81-2/"
+    },
+    {
+      "name": "暨大附中 學生研習與競賽活動",
+      "url": "https://www.pshs.ntct.edu.tw/ischool/public/news_view/show.php?nid=33618"
+    },
+    {
+      "name": "苗栗農工 處室公告",
+      "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26385"
+    },
+    {
+      "name": "苗栗高中 學生校外營隊、活動、比賽",
+      "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=27963"
+    },
+    {
+      "name": "壽山高中 校外競賽",
+      "url": "https://www.sssh.tyc.edu.tw/news/%e5%b4%91%e5%b1%b1%e7%a7%91%e6%8a%80%e5%a4%a7%e5%ad%b8%e4%bc%81%e6%a5%ad%e7%ae%a1%e7%90%86%e7%b3%bb%e8%88%89%e8%be%a6%e3%80%8c2026%e5%85%a8%e5%9c%8b%e4%bd%8e%e7%a2%b3%e7%94%9f%e6%b4%bb%e4%bc%81-2/"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-26",
+    "method": "single",
+    "unread": [],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-26",
+  "level": "checked",
+  "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-ksu-low-carbon-living/",
+  "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-ksu-low-carbon-living.md"
+}

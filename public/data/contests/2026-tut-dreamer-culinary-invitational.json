@@ -1,0 +1,136 @@
+{
+  "schema": 1,
+  "id": "2026-tut-dreamer-culinary-invitational",
+  "title": "2026南應大 Dreamer 餐旅技藝金質盃家事類餐旅群技藝邀請賽",
+  "edition": "2026",
+  "summary": "全國家事類技藝競賽中餐烹飪及烘焙職種選手，以中餐烹飪或烘焙技藝參賽。",
+  "organizers": [
+    {
+      "name": "台南應用科技大學民生暨管理學院旅館管理系",
+      "role": "主辦"
+    },
+    {
+      "name": "台南應用科技大學民生暨管理學院餐飲系",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "餐旅",
+    "技藝與技能"
+  ],
+  "eligibility": {
+    "levels": [
+      "高職"
+    ],
+    "division": "hs_only",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "unknown",
+    "team_min": null,
+    "team_max": null,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26525",
+        "quote": "二、競賽參加對象：全國家事類技藝競賽中餐烹飪及烘焙職種選手(其他活動參與者與報名規則詳見附件活動簡章資訊)。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "報名截止",
+      "date": "2026-10-16",
+      "time": "17:00",
+      "original": "115 年10月16日(五)下午17:00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26525",
+          "quote": "三、報名時間：115年10月08日(四)中午12:30起至115 年10月16日(五)下午17:00報名截止。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "競賽",
+      "date": "2026-10-31",
+      "time": null,
+      "original": "115年10月31日(星期六)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26525",
+          "quote": "一、競賽日期：115年10月31日(星期六)。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "競賽當日",
+      "what": "中餐烹飪或烘焙職種的現場實作",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": null,
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26525",
+        "quote": "一、競賽日期：115年10月31日(星期六)。"
+      },
+      {
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26525",
+        "quote": "五、競賽當日全程參與之師生將提供8小時「餐旅技能精進研習」證明。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "unknown",
+    "amount": null,
+    "basis": "unread",
+    "evidence": []
+  },
+  "prizes": {
+    "text": null,
+    "basis": "unread",
+    "evidence": []
+  },
+  "ai_policy": {
+    "value": "unknown",
+    "basis": "unread",
+    "evidence": []
+  },
+  "links": {
+    "official": "https://tuthm.tut.edu.tw/",
+    "rules": [],
+    "registration": "https://forms.gle/JGamwXNvtifR2BYQ6"
+  },
+  "found_via": [
+    {
+      "name": "苗栗農工 處室公告",
+      "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26525"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-26",
+    "method": "single",
+    "unread": [
+      "附件活動簡章"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-26",
+  "level": "checked",
+  "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-tut-dreamer-culinary-invitational/",
+  "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-tut-dreamer-culinary-invitational.md"
+}

@@ -1,0 +1,217 @@
+{
+  "schema": 1,
+  "id": "2026-digital-storytelling-film-festival",
+  "title": "2026 Digital Storytelling 影展徵件",
+  "edition": "2026",
+  "summary": "高中職學生個人或組隊，在指導教師帶領下以 Journey(s) 為主題拍攝含英語的雙語或多語數位故事影片。",
+  "organizers": [
+    {
+      "name": "普通型高級中等學校英語文學科中心",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "外語",
+    "影音"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職"
+    ],
+    "division": "hs_only",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": null,
+    "teacher": "required",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.chsh.chc.edu.tw/p/406-1009-188190,r70.php?Lang=zh-tw",
+        "quote": "(一)徵件對象：全國公私立高級中等學校（含普通型高中及技術型高中）教師（含正式教師、代理教師、代課教師及實習教師）及在學學生。"
+      },
+      {
+        "url": "https://www.chsh.chc.edu.tw/p/406-1009-188190,r70.php?Lang=zh-tw",
+        "quote": "１、參賽者得以個人或組隊方式報名參賽。"
+      },
+      {
+        "url": "https://www.chsh.chc.edu.tw/p/406-1009-188190,r70.php?Lang=zh-tw",
+        "quote": "２、每件參賽作品均須有1名指導教師。"
+      },
+      {
+        "url": "https://www.chsh.chc.edu.tw/p/406-1009-188190,r70.php?Lang=zh-tw",
+        "quote": "３、組隊人數以授課班級實際人數為上限。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "submission_deadline",
+      "label": "徵件截止（線上報名並上傳影片、授權書）",
+      "date": "2026-05-03",
+      "time": "23:59",
+      "original": "2026年5月3日（星期日）；5月3日23:59 前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.chsh.chc.edu.tw/p/406-1009-188190,r70.php?Lang=zh-tw",
+          "quote": "１、徵件期限：2026年4月20日起至2026年5月3日（星期日）。"
+        },
+        {
+          "url": "https://www.chsh.chc.edu.tw/p/406-1009-188190,r70.php?Lang=zh-tw",
+          "quote": "(二）繳件方式：請於5月3日23:59 前填寫線上報名表(含影片 簡介文字，並上傳影片、授權書)"
+        }
+      ]
+    },
+    {
+      "kind": "shortlist_announcement",
+      "label": "入選公告（至多 20 件）",
+      "date": "2026-05-11",
+      "time": null,
+      "original": "2026年5月11日（星期一）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.chsh.chc.edu.tw/p/406-1009-188190,r70.php?Lang=zh-tw",
+          "quote": "２、入選公告日期：2026年5月11日（星期一），入選件數至多20件。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "2026 Digital Storytelling 影展",
+      "date": "2026-05-23",
+      "time": null,
+      "original": "2026年5月23日(星期六)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.chsh.chc.edu.tw/p/406-1009-188190,r70.php?Lang=zh-tw",
+          "quote": "３、2026 Digital Storytelling 影展日期：2026年5月23日(星期六)(獲獎名單於影展當天公布)。"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "獲獎名單於影展當天公布",
+      "date": "2026-05-23",
+      "time": null,
+      "original": "2026年5月23日(星期六)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.chsh.chc.edu.tw/p/406-1009-188190,r70.php?Lang=zh-tw",
+          "quote": "３、2026 Digital Storytelling 影展日期：2026年5月23日(星期六)(獲獎名單於影展當天公布)。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "徵件",
+      "what": "線上報名表（含影片簡介文字）",
+      "how": "online"
+    },
+    {
+      "stage": "徵件",
+      "what": "MP4 影片介紹（約 1 分鐘）與 MP4 數位故事正片（3 至 5 分鐘），至少兩種語言且其一為英語（配音或字幕）",
+      "how": "online"
+    },
+    {
+      "stage": "徵件",
+      "what": "影片著作授權同意書、影像與聲音使用同意書",
+      "how": "online"
+    }
+  ],
+  "attendance": {
+    "value": "unknown",
+    "where": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.chsh.chc.edu.tw/p/406-1009-188190,r70.php?Lang=zh-tw"
+      },
+      {
+        "url": "https://www.chsh.chc.edu.tw/p/406-1009-188190,r70.php"
+      }
+    ]
+  },
+  "fee": {
+    "value": "unknown",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.chsh.chc.edu.tw/p/406-1009-188190,r70.php?Lang=zh-tw"
+      },
+      {
+        "url": "https://www.chsh.chc.edu.tw/p/406-1009-188190,r70.php"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "白金獎 3 件（英國發表會現場頒獎及線上影展播放）、金獎 2 件（英國線上影展播放）、銀獎若干。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.chsh.chc.edu.tw/p/406-1009-188190,r70.php?Lang=zh-tw",
+        "quote": "(一)白金獎：3件(英國發表會現場頒獎放及線上影展播放)"
+      },
+      {
+        "url": "https://www.chsh.chc.edu.tw/p/406-1009-188190,r70.php?Lang=zh-tw",
+        "quote": "(二)金獎：2件 （英國線上影展播放）"
+      },
+      {
+        "url": "https://www.chsh.chc.edu.tw/p/406-1009-188190,r70.php?Lang=zh-tw",
+        "quote": "(三)銀獎：若干"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "unknown",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.chsh.chc.edu.tw/p/406-1009-188190,r70.php?Lang=zh-tw"
+      },
+      {
+        "url": "https://www.chsh.chc.edu.tw/p/406-1009-188190,r70.php"
+      }
+    ]
+  },
+  "links": {
+    "official": null,
+    "rules": [],
+    "registration": "https://reurl.cc/Ebk0zn"
+  },
+  "found_via": [
+    {
+      "name": "彰化高中 競賽公告",
+      "url": "https://www.chsh.chc.edu.tw/p/406-1009-188190,r70.php?Lang=zh-tw"
+    },
+    {
+      "name": "彰化高中 競賽公告",
+      "url": "https://www.chsh.chc.edu.tw/p/406-1009-188190,r70.php"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-26",
+    "method": "single",
+    "unread": [
+      "影片著作授權同意書",
+      "影像、聲音使用同意書"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-26",
+  "level": "checked",
+  "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-digital-storytelling-film-festival/",
+  "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-digital-storytelling-film-festival.md"
+}

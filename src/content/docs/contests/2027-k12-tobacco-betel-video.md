@@ -3,7 +3,7 @@ title: "115 學年度校園菸檳危害防制教育「影爆倡議」短片競�
 description: "國小、國中、高中同校學生在指導師長帶領下，拍攝倡議拒菸無檳的創意短片參賽。"
 appliesTo: "115 學年度 這一屆"
 caveat: "實施計畫第玖點（一）稱各組第三名為「佳作」，同點（四）則稱「優良」，獎金 3,000 元。"
-lastVerified: 2026-11-25
+lastVerified: 2026-11-26
 kind: "contest"
 deadline: "2027-04-20"
 sources:

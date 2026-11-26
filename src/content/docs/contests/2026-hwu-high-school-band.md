@@ -3,7 +3,7 @@ title: "醒聲而起，吾樂不止｜全國高中熱音大賽"
 description: "全國高中生報名參加熱音比賽，經選拔入選者參加決賽演出。"
 appliesTo: "2026 這一屆"
 caveat: "日期與時間都是臺灣時間。"
-lastVerified: 2026-11-25
+lastVerified: 2026-11-26
 kind: "contest"
 deadline: "2026-11-30"
 sources:

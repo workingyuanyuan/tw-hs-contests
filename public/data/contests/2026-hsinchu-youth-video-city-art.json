@@ -1,0 +1,261 @@
+{
+  "schema": 1,
+  "id": "2026-hsinchu-youth-video-city-art",
+  "title": "2026年新竹市青年短影音競賽及青年城市徵圖競賽",
+  "edition": "2026",
+  "summary": "16 至 40 歲個人或團體以新竹美食拍攝短影音，或以新竹城市意象繪製徵圖作品。",
+  "organizers": [
+    {
+      "name": "新竹市政府",
+      "role": "指導"
+    },
+    {
+      "name": "新竹市青年發展中心",
+      "role": "主辦"
+    },
+    {
+      "name": "波希整合行銷股份有限公司",
+      "role": "承辦"
+    }
+  ],
+  "categories": [
+    "影音",
+    "美術"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職",
+      "五專",
+      "大專",
+      "社會人士"
+    ],
+    "division": "mixed",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": null,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://hsinchuyouthdream.com/faq",
+        "quote": "年滿 16 歲至 40 歲者皆可報名，不限居住城市與國家。"
+      },
+      {
+        "url": "https://hsinchuyouthdream.com/faq",
+        "quote": "基準日當天未滿 18 歲者，須另附法定代理人同意書"
+      },
+      {
+        "url": "https://hsinchuyouthdream.com/faq",
+        "quote": "個人或團體皆可報名。團體報名時，由符合年齡資格者推派一人為代表人，以代表人的帳號完成報名投件。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "other",
+      "label": "線上徵件開始",
+      "date": "2026-08-24",
+      "time": "12:00",
+      "original": "2026 年 8 月 24 日（一）12:00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://hsinchuyouthdream.com/faq",
+          "quote": "線上徵件期間：2026 年 8 月 24 日（一）12:00 起至 10 月 15 日（四）23:59 止。"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "線上報名及作品上傳截止",
+      "date": "2026-10-15",
+      "time": "23:59",
+      "original": "10 月 15 日（四）23:59",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://hsinchuyouthdream.com/faq",
+          "quote": "線上徵件期間：2026 年 8 月 24 日（一）12:00 起至 10 月 15 日（四）23:59 止。"
+        },
+        {
+          "url": "https://www.hccvs.hc.edu.tw/ischool/public/news_view/show.php?nid=26449",
+          "quote": "即日起至115年10月15日"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "資格審查",
+      "date": "2026-10-22",
+      "time": null,
+      "original": "10/18（日）— 10/22（四）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://hsinchuyouthdream.com/",
+          "quote": "10/18（日）— 10/22（四）"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "評選作業",
+      "date": "2026-10-29",
+      "time": null,
+      "original": "10/25（日）— 10/29（四）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://hsinchuyouthdream.com/",
+          "quote": "10/25（日）— 10/29（四）"
+        }
+      ]
+    },
+    {
+      "kind": "shortlist_announcement",
+      "label": "入圍公告",
+      "date": "2026-11-23",
+      "time": null,
+      "original": "11/23（一）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://hsinchuyouthdream.com/",
+          "quote": "入圍公告\n11/23（一）"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "頒獎典禮",
+      "date": "2026-12-01",
+      "time": "13:30",
+      "original": "12/1（二）13:30-16:30",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://hsinchuyouthdream.com/",
+          "quote": "頒獎典禮\n12/1（二）13:30-16:30"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名",
+      "what": "報名表單、身分證明，以及親筆簽署後掃描或拍照的附件；未滿 18 歲者另附法定代理人同意書",
+      "how": "online"
+    },
+    {
+      "stage": "青年短影音競賽",
+      "what": "3 分鐘內 9:16 直式影片（1080×1920 以上），正片版與無字幕版各一份，並上傳至 YouTube Shorts 公開帳號、文案加五個指定 Hashtag",
+      "how": "online"
+    },
+    {
+      "stage": "青年城市徵圖競賽",
+      "what": "A3 橫式、300dpi、CMYK 的繪畫類作品，附 AI、PSD 或 SVG 可編輯原始檔",
+      "how": "online"
+    },
+    {
+      "stage": "使用生成式 AI 者",
+      "what": "【附件 3】AI 生成內容使用聲明書",
+      "how": "online"
+    }
+  ],
+  "attendance": {
+    "value": "unknown",
+    "where": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://hsinchuyouthdream.com/"
+      },
+      {
+        "url": "https://hsinchuyouthdream.com/faq"
+      }
+    ]
+  },
+  "fee": {
+    "value": "unknown",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://hsinchuyouthdream.com/"
+      },
+      {
+        "url": "https://hsinchuyouthdream.com/faq"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "兩項競賽總獎金 50 萬元；短影音競賽另設 YouTube、Instagram、Threads 人氣獎，與主評選獎獨立評選，可同時獲獎並累加獎金。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://hsinchuyouthdream.com/",
+        "quote": "兩項競賽總獎金高達 50 萬元，各獎項內容將於簡章公布。"
+      },
+      {
+        "url": "https://hsinchuyouthdream.com/faq",
+        "quote": "可以，兩者為獨立評選、獨立頒獎，得同時獲獎並累加獎金"
+      },
+      {
+        "url": "https://hsinchuyouthdream.com/faq",
+        "quote": "YouTube 人氣獎 ＋ Instagram 人氣獎"
+      },
+      {
+        "url": "https://hsinchuyouthdream.com/faq",
+        "quote": "YouTube 人氣獎 ＋ Threads 人氣獎"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "allowed",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://hsinchuyouthdream.com/faq",
+        "quote": "如有使用生成式 AI 輔助創作，須另繳【附件 3】AI 生成內容使用聲明書，詳細規定請見各競賽簡章。"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://hsinchuyouthdream.com/",
+    "rules": [],
+    "registration": "https://hsinchuyouthdream.com/apply"
+  },
+  "found_via": [
+    {
+      "name": "新竹高商 消息公佈欄",
+      "url": "https://www.hccvs.hc.edu.tw/ischool/public/news_view/show.php?nid=26449"
+    },
+    {
+      "name": "新竹高商 消息公佈欄",
+      "url": "https://www.hccvs.hc.edu.tw/ischool/public/news_view/show.php?nid=26213"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-26",
+    "method": "single",
+    "unread": [
+      "青年短影音競賽簡章",
+      "青年城市徵圖競賽簡章",
+      "【附件 3】AI 生成內容使用聲明書",
+      "法定代理人同意書"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-26",
+  "level": "checked",
+  "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-hsinchu-youth-video-city-art/",
+  "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-hsinchu-youth-video-city-art.md"
+}

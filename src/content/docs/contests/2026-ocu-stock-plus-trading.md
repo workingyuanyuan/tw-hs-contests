@@ -3,7 +3,7 @@ title: "2026股市Plus虛擬交易競賽"
 description: "高中職學生組隊以虛擬資金買賣台灣上市櫃股票，依總報酬率排名。"
 appliesTo: "2026 這一屆"
 caveat: "報名已於 2026-11-12 截止。"
-lastVerified: 2026-11-25
+lastVerified: 2026-11-26
 kind: "contest"
 deadline: "2026-11-12"
 sources:

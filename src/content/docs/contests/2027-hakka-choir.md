@@ -3,7 +3,7 @@ title: "2027客家合唱比賽"
 description: "16 至 60 人的合唱團以客家歌曲參賽，演唱指定曲與自選曲各一首。"
 appliesTo: "2027 這一屆"
 caveat: "活動網頁寫報名截止日 116年4月16日為星期一，客家委員會來函寫同日為星期五。"
-lastVerified: 2026-11-25
+lastVerified: 2026-11-26
 kind: "contest"
 deadline: "2027-04-16"
 sources:

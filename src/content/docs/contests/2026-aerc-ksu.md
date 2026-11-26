@@ -1,18 +1,22 @@
 ---
 title: "2026第38屆AERC亞洲機器人運動競技大賽"
-description: "各級學生與社會人士最多 4 人組隊，以機器人參加循跡、避障、帶球跑等競賽項目。"
+description: "各級學生與社會人士組隊，以自備機器人參加循跡、避障、迷宮等項目競賽。"
 appliesTo: "第 38 屆 這一屆"
 caveat: "報名已於 2026-11-09 截止。"
-lastVerified: 2026-11-25
+lastVerified: 2026-11-26
 kind: "contest"
 deadline: "2026-11-09"
 sources:
   - title: "官方頁面"
     url: "http://www.aerc1988.com.tw/"
-  - title: "競賽辦法（2026.08.31 修訂版）"
-    url: "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28026/%E3%80%8C2026%E7%AC%AC38%E5%B1%86AERC%E4%BA%9E%E6%B4%B2%E6%A9%9F%E5%99%A8%E4%BA%BA%E9%81%8B%E5%8B%95%E7%AB%B6%E6%8A%80%E5%A4%A7%E8%B3%BD%E3%80%8D.pdf"
-  - title: "轉發公告：苗栗高中 學生校外營隊、活動、比賽"
-    url: "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=28026"
+  - title: "報名頁面"
+    url: "http://www.aerc1988.com.tw"
+  - title: "2026第38屆AERC競賽辦法（2026.08.31.修訂版）"
+    url: "https://drive.google.com/file/d/1ijegHA_062EIRJij7ikNZWqIWieD_lyl/view?usp=sharing"
+  - title: "轉發公告：鳳新高中 營隊競賽"
+    url: "https://www.fhsh.khc.edu.tw/aa/news-aa/20260917/46177"
+  - title: "轉發公告：暨大附中 學生研習與競賽活動"
+    url: "https://www.pshs.ntct.edu.tw/ischool/public/news_view/show.php?nid=33666"
 ---
 
 ## 重點
@@ -22,18 +26,19 @@ sources:
 | 報名截止 | 2026-11-09（已截止） |
 | 參賽對象 | 國小、國中、高中職、大專、社會人士；高中職自成一組 |
 | 地區 | 全國 |
+| 報名方式 | 須由學校推薦或薦送 |
 | 費用 | 常規項目每隊新台幣 1,000 元 |
 | 主辦 | 台灣創新自造者學會、國立勤益科技大學、德明財經科技大學、崑山科技大學 |
 | 類別 | [工程與製造](/subjects/engineering/)、[資訊與 AI](/subjects/ai-and-computing/) |
 
 ## 要交什麼
 
-- 報名：大賽官網線上報名表單，並於匯款截止日前匯入報名費（線上繳交）
-- 賽場競賽：符合所報機器組別（A、B、C、D 組）規定的機器人，經報到、練習、檢錄後下場競賽（現場）
+- 報名：線上報名表單，選定競賽項目、級別與機器組別（線上繳交）
+- 賽場：自備符合機器組別規定的機器人，報到、檢錄後依各項目規則下場競賽（現場）
 
 ## 獎項
 
-各競賽項目以機器組別為單位，依參賽隊數錄取排列名次最多 6 隊及佳作若干隊；名次與佳作隊伍的指導老師及選手獲發獎狀電子檔，排列名次隊伍另獲獎盃一座。
+各競賽項目以機器組別為單位，依參賽隊數錄取排列名次最多 6 隊及佳作若干隊；名次與佳作隊伍的指導老師及選手獲獎狀電子檔，排列名次隊伍另獲獎盃一座。
 
 ## 時程
 

@@ -1,0 +1,216 @@
+{
+  "schema": 1,
+  "id": "2026-kinmen-ai-betel-tobacco-video",
+  "title": "「AI 創意說健康，校園家庭零檳榔」暨「AI 創意拒菸害，校園家庭更健康」短影音競賽",
+  "edition": "115 年",
+  "summary": "金門縣國中小及高中職學生 3 至 10 人組隊，運用 AI 製作拒檳榔或拒菸害主題的宣導短影音。",
+  "organizers": [
+    {
+      "name": "金門縣衛生局",
+      "role": "主辦"
+    },
+    {
+      "name": "金門縣政府教育處",
+      "role": "協辦"
+    }
+  ],
+  "categories": [
+    "影音",
+    "醫護與照顧",
+    "資訊與 AI"
+  ],
+  "eligibility": {
+    "levels": [
+      "國小",
+      "國中",
+      "高中",
+      "高職"
+    ],
+    "division": "separate",
+    "regions": [
+      "金門縣"
+    ],
+    "nomination": "none",
+    "team_min": 3,
+    "team_max": 10,
+    "teacher": "optional",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.kmsh.km.edu.tw/ischool/news/attached/22227/%E8%8F%B8%E5%AE%B3%E5%8F%8A%E6%AA%B3%E6%A6%94%E9%98%B2%E6%B2%BBAI%E5%BD%B1%E7%89%87%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.pdf",
+        "quote": "以本縣所屬國民中小學及高中職在籍學生為參賽對象，採團體組隊方式參賽，每隊以3 至10 人為限，每組不同主題限投稿1 件作品。"
+      },
+      {
+        "url": "https://www.kmsh.km.edu.tw/ischool/news/attached/22227/%E8%8F%B8%E5%AE%B3%E5%8F%8A%E6%AA%B3%E6%A6%94%E9%98%B2%E6%B2%BBAI%E5%BD%B1%E7%89%87%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.pdf",
+        "quote": "（三） 高中組：由高中職在籍學生組隊參加，每隊3 至10 人，可由教師或家長指導。"
+      },
+      {
+        "url": "https://www.kmsh.km.edu.tw/ischool/news/attached/22227/%E8%8F%B8%E5%AE%B3%E5%8F%8A%E6%AA%B3%E6%A6%94%E9%98%B2%E6%B2%BBAI%E5%BD%B1%E7%89%87%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.pdf",
+        "quote": "(一) 報名日期：採線上報名方式辦理，自公告日起至115 年10 月6 日止，請於期限內完成線上報名表單填寫："
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "線上報名截止",
+      "date": "2026-10-06",
+      "time": null,
+      "original": "115 年10 月6 日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.kmsh.km.edu.tw/ischool/news/attached/22227/%E8%8F%B8%E5%AE%B3%E5%8F%8A%E6%AA%B3%E6%A6%94%E9%98%B2%E6%B2%BBAI%E5%BD%B1%E7%89%87%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.pdf",
+          "quote": "採線上報名方式辦理，自公告日起至115 年10 月6 日止"
+        }
+      ]
+    },
+    {
+      "kind": "submission_deadline",
+      "label": "資料上傳及作品繳交截止",
+      "date": "2026-11-06",
+      "time": null,
+      "original": "115 年11 月6 日前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.kmsh.km.edu.tw/ischool/news/attached/22227/%E8%8F%B8%E5%AE%B3%E5%8F%8A%E6%AA%B3%E6%A6%94%E9%98%B2%E6%B2%BBAI%E5%BD%B1%E7%89%87%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.pdf",
+          "quote": "參賽者完成報名後，請於115 年11 月6 日前，至線上表單"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "預定召開徵選審查會議期間的最後一日",
+      "date": "2026-11-20",
+      "time": null,
+      "original": "115 年11 月9 日至11 月20 日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.kmsh.km.edu.tw/ischool/news/attached/22227/%E8%8F%B8%E5%AE%B3%E5%8F%8A%E6%AA%B3%E6%A6%94%E9%98%B2%E6%B2%BBAI%E5%BD%B1%E7%89%87%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.pdf",
+          "quote": "評選期間：預定於115 年11 月9 日至11 月20 日期間擇期召開徵選審查會議。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名",
+      "what": "線上報名表單",
+      "how": "online"
+    },
+    {
+      "stage": "作品繳交",
+      "what": "120 至 300 秒 MP4 影片（1920×1080 以上，橫式或直式，須有中文字幕），附作品名稱與約 300 字創作說明（含所用 AI 工具及應用方式）",
+      "how": "online"
+    },
+    {
+      "stage": "作品繳交",
+      "what": "著作財產權授權暨個人資料蒐集、處理及利用同意書",
+      "how": "online"
+    }
+  ],
+  "attendance": {
+    "value": "none",
+    "where": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.kmsh.km.edu.tw/ischool/news/attached/22227/%E8%8F%B8%E5%AE%B3%E5%8F%8A%E6%AA%B3%E6%A6%94%E9%98%B2%E6%B2%BBAI%E5%BD%B1%E7%89%87%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.pdf"
+      },
+      {
+        "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=22227"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.kmsh.km.edu.tw/ischool/news/attached/22227/%E8%8F%B8%E5%AE%B3%E5%8F%8A%E6%AA%B3%E6%A6%94%E9%98%B2%E6%B2%BBAI%E5%BD%B1%E7%89%87%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.pdf"
+      },
+      {
+        "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=22227"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "兩項主題各組分別錄取：第一名 1 名禮券 6,000 元、第二名 1 名禮券 5,000 元、第三名 1 名禮券 4,000 元、佳作 3 名禮券各 3,000 元，皆附獎狀；名額得視作品水準從缺、減額或增額。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.kmsh.km.edu.tw/ischool/news/attached/22227/%E8%8F%B8%E5%AE%B3%E5%8F%8A%E6%AA%B3%E6%A6%94%E9%98%B2%E6%B2%BBAI%E5%BD%B1%E7%89%87%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.pdf",
+        "quote": "兩項主題各組分別錄取前三名各1 名，佳作3 名，頒發獎狀及禮劵。"
+      },
+      {
+        "url": "https://www.kmsh.km.edu.tw/ischool/news/attached/22227/%E8%8F%B8%E5%AE%B3%E5%8F%8A%E6%AA%B3%E6%A6%94%E9%98%B2%E6%B2%BBAI%E5%BD%B1%E7%89%87%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.pdf",
+        "quote": "獎狀1 幀及禮劵6,000 元"
+      },
+      {
+        "url": "https://www.kmsh.km.edu.tw/ischool/news/attached/22227/%E8%8F%B8%E5%AE%B3%E5%8F%8A%E6%AA%B3%E6%A6%94%E9%98%B2%E6%B2%BBAI%E5%BD%B1%E7%89%87%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.pdf",
+        "quote": "獎狀1 幀及禮劵5,000 元"
+      },
+      {
+        "url": "https://www.kmsh.km.edu.tw/ischool/news/attached/22227/%E8%8F%B8%E5%AE%B3%E5%8F%8A%E6%AA%B3%E6%A6%94%E9%98%B2%E6%B2%BBAI%E5%BD%B1%E7%89%87%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.pdf",
+        "quote": "獎狀1 幀及禮劵4,000 元"
+      },
+      {
+        "url": "https://www.kmsh.km.edu.tw/ischool/news/attached/22227/%E8%8F%B8%E5%AE%B3%E5%8F%8A%E6%AA%B3%E6%A6%94%E9%98%B2%E6%B2%BBAI%E5%BD%B1%E7%89%87%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.pdf",
+        "quote": "獎狀1 幀及禮劵3,000 元"
+      },
+      {
+        "url": "https://www.kmsh.km.edu.tw/ischool/news/attached/22227/%E8%8F%B8%E5%AE%B3%E5%8F%8A%E6%AA%B3%E6%A6%94%E9%98%B2%E6%B2%BBAI%E5%BD%B1%E7%89%87%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.pdf",
+        "quote": "本局得視各組別之實際參賽作品水準，以從缺、減額或增額方式，彈性調整各組別之實際獎項名額。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "required",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.kmsh.km.edu.tw/ischool/news/attached/22227/%E8%8F%B8%E5%AE%B3%E5%8F%8A%E6%AA%B3%E6%A6%94%E9%98%B2%E6%B2%BBAI%E5%BD%B1%E7%89%87%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.pdf",
+        "quote": "作品須運用AI 工具輔助創作，例如：AI 影片生成、AI 動畫、AI 配音AI 角色設計、AI 音樂（須符合授權規範）其他AI 輔助創作工具，並簡述使用之AI 工具及創作方式。"
+      },
+      {
+        "url": "https://www.kmsh.km.edu.tw/ischool/news/attached/22227/%E8%8F%B8%E5%AE%B3%E5%8F%8A%E6%AA%B3%E6%A6%94%E9%98%B2%E6%B2%BBAI%E5%BD%B1%E7%89%87%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.pdf",
+        "quote": "AI 生成素材如涉及第三方著作，應符合授權規範，由參賽者自行負責。"
+      }
+    ]
+  },
+  "links": {
+    "official": null,
+    "rules": [
+      {
+        "title": "短影音競賽活動計畫書（PDF）",
+        "url": "https://www.kmsh.km.edu.tw/ischool/news/attached/22227/%E8%8F%B8%E5%AE%B3%E5%8F%8A%E6%AA%B3%E6%A6%94%E9%98%B2%E6%B2%BBAI%E5%BD%B1%E7%89%87%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.pdf"
+      }
+    ],
+    "registration": "https://forms.gle/d68dozA4uxzdCCSW6"
+  },
+  "found_via": [
+    {
+      "name": "金門高中 最新消息",
+      "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=22227"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-26",
+    "method": "single",
+    "unread": [
+      "著作財產權授權暨個人資料蒐集、處理及利用同意書"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-26",
+  "level": "checked",
+  "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-kinmen-ai-betel-tobacco-video/",
+  "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-kinmen-ai-betel-tobacco-video.md"
+}

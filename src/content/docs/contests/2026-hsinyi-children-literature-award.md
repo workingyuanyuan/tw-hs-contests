@@ -3,7 +3,7 @@ title: "第39屆信誼幼兒文學獎"
 description: "個人或團體以華文創作幼兒圖畫書或五千字以上兒童文學作品，線上報名並郵寄作品。"
 appliesTo: "第 39 屆 這一屆"
 caveat: "高中職學生與大專生或社會人士同組評比。"
-lastVerified: 2026-11-25
+lastVerified: 2026-11-26
 kind: "contest"
 deadline: "2026-12-15"
 sources:

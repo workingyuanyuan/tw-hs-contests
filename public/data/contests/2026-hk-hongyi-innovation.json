@@ -1,0 +1,144 @@
+{
+  "schema": 1,
+  "id": "2026-hk-hongyi-innovation",
+  "title": "2026弘藝新創獎全國高中職專題設計成果競賽",
+  "edition": "2026",
+  "summary": "高中職學生以結合生成式AI、文化創意與永續理念的專題設計成果參賽。",
+  "organizers": [
+    {
+      "name": "弘光科技大學文化設計與行銷系",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "設計"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職"
+    ],
+    "division": "hs_only",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "unknown",
+    "team_min": null,
+    "team_max": null,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26562",
+        "quote": "提供高中職學生展現創意與實作能力之競賽平台"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "submission_deadline",
+      "label": "徵件報名與作品資料上傳截止",
+      "date": "2026-11-06",
+      "time": "24:00",
+      "original": "115年11月06日(五)24：00",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26562",
+          "quote": "(一)徵件報名與作品資料上傳截止日：即日起至115年11月06日(五)24：00止"
+        }
+      ]
+    },
+    {
+      "kind": "shortlist_announcement",
+      "label": "公布書面審查入選名單",
+      "date": "2026-11-16",
+      "time": null,
+      "original": "115年11月16日(一)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26562",
+          "quote": "(二)公布與通知入選名單：115年11月16日(一)於本校「2026 弘藝新創獎」最新消息公布書面審查結果"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "頒獎典禮暨成果展",
+      "date": "2026-12-04",
+      "time": null,
+      "original": "115年12月04日(五)上午",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26562",
+          "quote": "(三)頒獎典禮暨成果展：115年12月04日(五)上午於本校L棟生活應用大樓B2國際會議廳舉行。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "徵件",
+      "what": "報名表與作品資料",
+      "how": "online"
+    }
+  ],
+  "attendance": {
+    "value": "unknown",
+    "where": null,
+    "basis": "unread",
+    "evidence": []
+  },
+  "fee": {
+    "value": "unknown",
+    "amount": null,
+    "basis": "unread",
+    "evidence": []
+  },
+  "prizes": {
+    "text": null,
+    "basis": "unread",
+    "evidence": []
+  },
+  "ai_policy": {
+    "value": "allowed",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26562",
+        "quote": "鼓勵學生結合生成式AI、文化創意與永續理念，發揮創新設計思維、跨域整合及實作能力"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://reurl.cc/eQpbnQ",
+    "rules": [],
+    "registration": null
+  },
+  "found_via": [
+    {
+      "name": "苗栗農工 處室公告",
+      "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26562"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-26",
+    "method": "single",
+    "unread": [
+      "「2026弘藝新創獎」全國高中職專題設計成果競賽簡章",
+      "授權書",
+      "海報"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-26",
+  "level": "checked",
+  "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-hk-hongyi-innovation/",
+  "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-hk-hongyi-innovation.md"
+}

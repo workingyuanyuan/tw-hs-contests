@@ -3,7 +3,7 @@
   "id": "2026-chtiia-creative-entrepreneurship",
   "title": "2026全國大專院校暨高中職創意創新創業管理個案專題競賽",
   "edition": "2026",
-  "summary": "大專院校與高中職學生 2 至 6 人組隊，就創意創新創業管理個案撰寫專題提案報告。",
+  "summary": "大專院校暨高中職學生與指導老師組隊，以創意創新創業管理個案撰寫專題提案報告參賽。",
   "organizers": [
     {
       "name": "中華人文科技創新國際學會",
@@ -40,14 +40,14 @@
       },
       {
         "url": "https://sites.google.com/site/ciipcertificate/2026全國大專院校暨高中職創意創新創業管理個案專題競賽",
-        "quote": "競賽結束後，以隊為單位，競賽取學生團隊前三名及佳作數名"
+        "quote": "競賽結束後，以隊為單位，競賽取學生團隊前三名及佳作數名，予以每隊完整參與決賽同學、指導老師："
       }
     ]
   },
   "dates": [
     {
       "kind": "registration_deadline",
-      "label": "網路報名與上傳報名繳交資料截止",
+      "label": "網路報名及繳交資料截止",
       "date": "2026-12-25",
       "time": null,
       "original": "2026 年 12 月 25 日(星期五)",
@@ -61,7 +61,7 @@
     },
     {
       "kind": "result_announcement",
-      "label": "公布審查結果與得獎名單",
+      "label": "公布審查結果及得獎名單",
       "date": "2026-12-29",
       "time": null,
       "original": "2026 年 12 月 29 日(星期二)",
@@ -77,17 +77,12 @@
   "deliverables": [
     {
       "stage": "報名",
-      "what": "BeClass 網路報名表（基本資料、參賽主題、學校科系、指導老師與組員姓名）",
+      "what": "網路報名表，及參賽組別全員親筆簽名的著作授權同意書掃描檔",
       "how": "online"
     },
     {
       "stage": "報名",
-      "what": "全員親筆簽名的著作授權同意書掃描檔",
-      "how": "online"
-    },
-    {
-      "stage": "報名",
-      "what": "創意創新與創業提案報告 Word 與 PDF 電子檔，至少 10 頁，依附件二大綱與格式",
+      "what": "創意創新與創業提案報告，至少 10 頁，依附件二大綱與格式，Word 與 PDF 檔各一份",
       "how": "online"
     }
   ],
@@ -102,13 +97,13 @@
       },
       {
         "url": "https://sites.google.com/site/ciipcertificate/2026全國大專院校暨高中職創意創新創業管理個案專題競賽",
-        "quote": "資料符合規定才可參加競賽、經入圍組別得以繼續進入決賽。"
+        "quote": "競賽結束後，以隊為單位，競賽取學生團隊前三名及佳作數名，予以每隊完整參與決賽同學、指導老師："
       }
     ]
   },
   "fee": {
     "value": "required",
-    "amount": "1千元",
+    "amount": "報名費 1千元",
     "basis": "quote",
     "evidence": [
       {
@@ -118,7 +113,7 @@
     ]
   },
   "prizes": {
-    "text": "第一名獎金 3 千元、第二名 2 千元、第三名 1 千元，各附隊員團體獎狀；佳作數名頒團體獎狀。主辦單位得增加並列前三名，並列者只有獎狀、無獎金。",
+    "text": "學生團隊第一名獎金 3 千元、第二名 2 千元、第三名 1 千元，皆附團體獎狀；佳作數名頒團體獎狀。主辦單位得增加並列前三名，並列者僅有獎狀。",
     "basis": "quote",
     "evidence": [
       {
@@ -162,7 +157,7 @@
     "official": "https://sites.google.com/site/ciipcertificate/2026全國大專院校暨高中職創意創新創業管理個案專題競賽",
     "rules": [
       {
-        "title": "附件（參賽注意事項、著作授權同意書、內容參考大綱，docx）",
+        "title": "附件（著作授權同意書、提案內容參考大綱與稿件格式）",
         "url": "https://www.beclass.com/share/202609/1001890050391fmf_0.docx"
       }
     ],
@@ -191,7 +186,7 @@
     }
   ],
   "verification": {
-    "last_verified": "2026-11-25",
+    "last_verified": "2026-11-26",
     "method": "dual",
     "unread": [],
     "note": null,
@@ -201,7 +196,7 @@
     ]
   },
   "first_seen": "2026-11-20",
-  "updated": "2026-11-25",
+  "updated": "2026-11-26",
   "level": "verified",
   "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-chtiia-creative-entrepreneurship/",
   "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-chtiia-creative-entrepreneurship.md"

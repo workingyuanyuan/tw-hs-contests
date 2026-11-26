@@ -3,7 +3,7 @@ title: "2026 年第 11 屆全國高中職銀髮族樂活創意設計與生命故
 description: "最多 5 名高中職生組隊，依組別繳交 3 頁內銀髮族活動、生活用品或生命故事構想書，入圍決賽者須赴南開科大現場簡報或展演。"
 appliesTo: "第 11 屆 這一屆"
 caveat: "日期與時間都是臺灣時間。"
-lastVerified: 2026-11-25
+lastVerified: 2026-11-26
 kind: "contest"
 deadline: "2026-11-27"
 sources:

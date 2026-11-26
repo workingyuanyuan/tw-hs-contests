@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "id": "2026-tw-biology-olympiad",
-  "title": "2027年第38屆中華民國生物奧林匹亞競賽",
+  "title": "2027年第38屆中華民國生物奧林匹亞競賽初賽",
   "edition": "第 38 屆",
-  "summary": "國中及高中職學生經教師推薦、以學校團體報名，參加生物學科競試爭取錄取證書。",
+  "summary": "未滿 20 歲的國中及高中職學生經學校團體報名，參加生物奧林匹亞初賽筆試。",
   "organizers": [
     {
       "name": "教育部國民及學前教育署",
@@ -32,21 +32,25 @@
       "全國"
     ],
     "nomination": "school",
-    "team_min": 1,
-    "team_max": 1,
+    "team_min": null,
+    "team_max": null,
     "teacher": "required",
     "basis": "quote",
     "evidence": [
       {
-        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg214/2027生物奧林匹亞_簡章.pdf",
-        "quote": "具中華民國國籍之高級中等以下學校在學中學生且年齡未滿 20 歲者，得由生物科任課教師或導師推薦，並以學校團體方式報名。"
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/6/生物奧匹報名簡章.pdf",
+        "quote": "(一)具中華民國國籍之高級中等以下學校在學中學生且年齡未滿 20 歲者，得由生物科任課教師或導師推薦，並以學校團體方式報名。"
       },
       {
-        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg214/2027生物奧林匹亞_簡章.pdf",
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/6/生物奧匹報名簡章.pdf",
+        "quote": "(二)參與高級中等教育階段非學校型態實驗教育且未取得學籍學生且年齡未滿 20 歲者，應經由各該直轄市、縣（市）主管機關報名。"
+      },
+      {
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/6/生物奧匹報名簡章.pdf",
         "quote": "年級：07 國一，08 國二，09 國三"
       },
       {
-        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg214/2027生物奧林匹亞_簡章.pdf",
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/6/生物奧匹報名簡章.pdf",
         "quote": "指導老師：填寫老師姓名，不可空白"
       }
     ]
@@ -61,53 +65,53 @@
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg214/2027生物奧林匹亞_簡章.pdf",
+          "url": "https://www.hgsh.hc.edu.tw/view-doc/6/生物奧匹報名簡章.pdf",
           "quote": "報名日期：即日起～115 年9 月22 日(二)下午5 時截止。"
         }
       ]
     },
     {
       "kind": "other",
-      "label": "初賽",
+      "label": "初賽考試",
       "date": "2026-11-07",
       "time": "09:30",
       "original": "115 年11 月7 日(星期六) 上午9:30～11:30",
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg214/2027生物奧林匹亞_簡章.pdf",
-          "quote": "初賽日期：115 年11 月7 日(星期六)"
+          "url": "https://www.hgsh.hc.edu.tw/view-doc/6/生物奧匹報名簡章.pdf",
+          "quote": "一、初賽日期：115 年11 月7 日(星期六)"
         },
         {
-          "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg214/2027生物奧林匹亞_簡章.pdf",
+          "url": "https://www.hgsh.hc.edu.tw/view-doc/6/生物奧匹報名簡章.pdf",
           "quote": "考試時間：上午9:30～11:30"
         }
       ]
     },
     {
       "kind": "other",
-      "label": "學校提出試題疑義截止",
+      "label": "試題疑義受理截止（以學校為單位，由高中生物科教師提出）",
       "date": "2026-11-09",
       "time": null,
       "original": "11 月9 日(一)",
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg214/2027生物奧林匹亞_簡章.pdf",
-          "quote": "考試結束後三天11 月9 日(一)內，受理全國試題疑義"
+          "url": "https://www.hgsh.hc.edu.tw/view-doc/6/生物奧匹報名簡章.pdf",
+          "quote": "考試結束後三天11 月9 日(一)內，受理全國試題疑義，提出者以學校為單位，並由高中生物科教師具名提出，且每校限提出一次"
         }
       ]
     },
     {
       "kind": "shortlist_announcement",
-      "label": "公布初賽正確答案與錄取名單",
+      "label": "公布初賽正確答案及錄取名單（預計）",
       "date": "2026-11-26",
       "time": null,
       "original": "11 月26 日(四)",
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg214/2027生物奧林匹亞_簡章.pdf",
+          "url": "https://www.hgsh.hc.edu.tw/view-doc/6/生物奧匹報名簡章.pdf",
           "quote": "本會預計11 月26 日(四)將於網站公佈初賽正確答案、公佈錄取名單"
         }
       ]
@@ -121,21 +125,21 @@
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg214/2027生物奧林匹亞_簡章.pdf",
+          "url": "https://www.hgsh.hc.edu.tw/view-doc/6/生物奧匹報名簡章.pdf",
           "quote": "並於12 月2 日(三)前提出複查申請，逾期恕不受理。"
         }
       ]
     },
     {
       "kind": "other",
-      "label": "複賽",
+      "label": "複賽（預計，分北區、中區、南區）",
       "date": "2027-01-31",
       "time": null,
       "original": "116 年1 月31 日(日)",
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg214/2027生物奧林匹亞_簡章.pdf",
+          "url": "https://www.hgsh.hc.edu.tw/view-doc/6/生物奧匹報名簡章.pdf",
           "quote": "複賽預計116 年1 月31 日(日)分北區(台灣師大理學院校區)、中區(台中一中)及南區(中山大學)舉行。"
         }
       ]
@@ -144,21 +148,29 @@
   "deliverables": [
     {
       "stage": "初賽",
-      "what": "2 小時筆試，電腦閱卷",
+      "what": "生物學科筆試 2 小時，電腦閱卷",
       "how": "onsite"
     }
   ],
   "attendance": {
     "value": "all",
-    "where": "全國 11 個考區（北一女中或台師大理學院校區、新竹高中、台中一中等）",
+    "where": "全國 11 個考區：北一女中或台師大理學院校區、新竹高中、台中一中、彰化高中、嘉義高中、台南一中、高雄中學、台東高中、花蓮高中、金城國中、馬公高中",
     "basis": "quote",
     "evidence": [
       {
-        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg214/2027生物奧林匹亞_簡章.pdf",
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/6/生物奧匹報名簡章.pdf",
         "quote": "考區代碼：一共11 區，數字格式需兩碼(如01)"
       },
       {
-        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg214/2027生物奧林匹亞_簡章.pdf",
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/6/生物奧匹報名簡章.pdf",
+        "quote": "01 台北區-北一女中 或台師大理學院校區 02 新竹區-新竹高中 03 台中區-台中一中 04 彰化區-彰化高中 05 嘉義區-嘉義高中 06 台南區-台南一中"
+      },
+      {
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/6/生物奧匹報名簡章.pdf",
+        "quote": "07 高雄區-高雄中學 08 台東區-台東高中 09 花蓮區-花蓮高中 10 金門區-金城國中 11 澎湖區-馬公高中"
+      },
+      {
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/6/生物奧匹報名簡章.pdf",
         "quote": "考生請攜帶「中華民國國民身份證件、有照片健保卡、護照正本」應考。"
       }
     ]
@@ -169,21 +181,21 @@
     "basis": "quote",
     "evidence": [
       {
-        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg214/2027生物奧林匹亞_簡章.pdf",
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/6/生物奧匹報名簡章.pdf",
         "quote": "本考試教育部全額補助，考生無需負擔任何費用，請多多鼓勵考生參加。"
       }
     ]
   },
   "prizes": {
-    "text": "初賽錄取到考人數前 5%（不少於 200 位）；前 200 名頒特優錄取證書，201～400 名頒優良證書，401～600 名頒嘉獎證書。",
+    "text": "錄取到考人數前 5%（不少於 200 位）；前 200 名頒特優錄取證書，201 至 400 名頒優良證書，401 至 600 名頒嘉獎證書。",
     "basis": "quote",
     "evidence": [
       {
-        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg214/2027生物奧林匹亞_簡章.pdf",
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/6/生物奧匹報名簡章.pdf",
         "quote": "錄取名額：到考人數錄取前5%，不少於200 位。"
       },
       {
-        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg214/2027生物奧林匹亞_簡章.pdf",
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/6/生物奧匹報名簡章.pdf",
         "quote": "頒發證書：為鼓勵考生除頒發特優錄取證書(前200 名)外，將另頒201~400 名優良證書及401~600 名嘉獎證書。"
       }
     ]
@@ -193,7 +205,13 @@
     "basis": "absent",
     "evidence": [
       {
-        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg214/2027生物奧林匹亞_簡章.pdf"
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/6/生物奧匹報名簡章.pdf"
+      },
+      {
+        "url": "https://www.hgsh.hc.edu.tw/news/2027%e5%b9%b4%e7%ac%ac38%e5%b1%86%e5%9c%8b%e9%9a%9b%e7%94%9f%e7%89%a9%e5%a5%a7%e6%9e%97%e5%8c%b9%e4%ba%9e%e7%ab%b6%e8%b3%bd%e5%88%9d%e8%b3%bd-%e6%a0%a1%e5%85%a7%e5%9c%98%e9%ab%94%e5%a0%b1%e5%90%8d/"
+      },
+      {
+        "url": "https://dlsh.tc.edu.tw/p/406-1068-632968,r2145.php"
       }
     ]
   },
@@ -201,26 +219,30 @@
     "official": "https://tpmso.org/ibo/",
     "rules": [
       {
-        "title": "2027 生物奧林匹亞初賽報名簡章",
-        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg214/2027生物奧林匹亞_簡章.pdf"
+        "title": "初賽報名簡章",
+        "url": "https://www.hgsh.hc.edu.tw/view-doc/6/生物奧匹報名簡章.pdf"
       }
     ],
     "registration": null
   },
   "found_via": [
     {
-      "name": "成功高中 活動競賽",
-      "url": "https://www.cksh.tp.edu.tw/news/%e3%80%90%e9%87%8d%e8%a6%81%e7%ab%b6%e8%b3%bd%e3%80%91%e6%9c%ac%e6%a0%a1115%e5%ad%b8%e5%b9%b4%e5%ba%a6%e5%a5%a7%e6%9e%97%e5%8c%b9%e4%ba%9e%e6%a0%a1%e5%85%a7%e5%9c%98%e9%ab%94%e5%a0%b1%e5%90%8d/"
+      "name": "新竹女中 活動研習",
+      "url": "https://www.hgsh.hc.edu.tw/news/2027%e5%b9%b4%e7%ac%ac38%e5%b1%86%e5%9c%8b%e9%9a%9b%e7%94%9f%e7%89%a9%e5%a5%a7%e6%9e%97%e5%8c%b9%e4%ba%9e%e7%ab%b6%e8%b3%bd%e5%88%9d%e8%b3%bd-%e6%a0%a1%e5%85%a7%e5%9c%98%e9%ab%94%e5%a0%b1%e5%90%8d/"
+    },
+    {
+      "name": "大里高中 校外活動與競賽",
+      "url": "https://dlsh.tc.edu.tw/p/406-1068-632968,r2145.php"
     }
   ],
   "verification": {
-    "last_verified": "2026-11-25",
+    "last_verified": "2026-11-26",
     "method": "single",
     "unread": [
       "附件1 聯絡人註冊及報名流程說明",
-      "附件2 聯絡人註冊檔",
-      "附件3 學校認證表",
-      "附件4 報名檔",
+      "附件2_聯絡人註冊檔.xlsx",
+      "附件3_學校認證表.doc",
+      "附件4_報名檔.xlsx",
       "附件5 試題疑義反映意見表"
     ],
     "note": null,
@@ -229,5 +251,5 @@
     ]
   },
   "first_seen": "2026-11-24",
-  "updated": "2026-11-25"
+  "updated": "2026-11-26"
 }

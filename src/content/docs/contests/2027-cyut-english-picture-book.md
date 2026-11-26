@@ -3,7 +3,7 @@ title: "第6屆全國高中職暨大專校院英語繪本創意教學競賽"
 description: "1 至 6 名同校高中職或大專學生選擇市面英語繪本，錄製 5 至 15 分鐘全英文創意教學影片並上傳雲端硬碟報名評選。"
 appliesTo: "第 6 屆 這一屆"
 caveat: "日期與時間都是臺灣時間。"
-lastVerified: 2026-11-21
+lastVerified: 2026-11-26
 kind: "contest"
 deadline: "2027-01-15"
 sources:

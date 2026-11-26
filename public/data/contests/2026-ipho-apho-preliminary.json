@@ -1,0 +1,271 @@
+{
+  "schema": 1,
+  "id": "2026-ipho-apho-preliminary",
+  "title": "2027年第27屆亞洲物理及第57屆國際物理奧林匹亞競賽初選考試",
+  "edition": "2027年第27屆亞洲物理及第57屆國際物理奧林匹亞競賽",
+  "summary": "國中至高中職在學學生參加物理考試，爭取亞洲及國際物理奧林匹亞國家代表隊選訓資格。",
+  "organizers": [
+    {
+      "name": "教育部",
+      "role": "主辦"
+    },
+    {
+      "name": "國立臺灣師範大學物理學系",
+      "role": "承辦"
+    }
+  ],
+  "categories": [
+    "自然科學"
+  ],
+  "eligibility": {
+    "levels": [
+      "國中",
+      "高中",
+      "高職"
+    ],
+    "division": "mixed",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": 1,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=c3Q4dExYeGU3YzhZc0ltUnVITDVUczFmUUFPM0xvei9CcVBRQlZlcFFDUXdNME9pT1haY2M3RDlPVVFwem13dmIxTWZxN2NscEhmQk81WnpGSTQrKy9Pekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=NnlHV0NqdWRpRnAyR2Z6SEFhZG5pakxwd1ZWdDFtM3JqZkFuQ1RkeGwxWT0=",
+        "quote": "一、報名資格：符合下列二條件的我國高級中等以下學校在學學生(不含國民小學)"
+      },
+      {
+        "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=c3Q4dExYeGU3YzhZc0ltUnVITDVUczFmUUFPM0xvei9CcVBRQlZlcFFDUXdNME9pT1haY2M3RDlPVVFwem13dmIxTWZxN2NscEhmQk81WnpGSTQrKy9Pekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=NnlHV0NqdWRpRnAyR2Z6SEFhZG5pakxwd1ZWdDFtM3JqZkFuQ1RkeGwxWT0=",
+        "quote": "(1) 具有中華民國國籍；"
+      },
+      {
+        "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=c3Q4dExYeGU3YzhZc0ltUnVITDVUczFmUUFPM0xvei9CcVBRQlZlcFFDUXdNME9pT1haY2M3RDlPVVFwem13dmIxTWZxN2NscEhmQk81WnpGSTQrKy9Pekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=NnlHV0NqdWRpRnAyR2Z6SEFhZG5pakxwd1ZWdDFtM3JqZkFuQ1RkeGwxWT0=",
+        "quote": "(2) 在2027年6月30日前，年齡不超過20歲。"
+      },
+      {
+        "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=c3Q4dExYeGU3YzhZc0ltUnVITDVUczFmUUFPM0xvei9CcVBRQlZlcFFDUXdNME9pT1haY2M3RDlPVVFwem13dmIxTWZxN2NscEhmQk81WnpGSTQrKy9Pekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=NnlHV0NqdWRpRnAyR2Z6SEFhZG5pakxwd1ZWdDFtM3JqZkFuQ1RkeGwxWT0=",
+        "quote": "凡對物理有興趣之在學學生，均可向所就讀學校"
+      },
+      {
+        "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=c3Q4dExYeGU3YzhZc0ltUnVITDVUczFmUUFPM0xvei9CcVBRQlZlcFFDUXdNME9pT1haY2M3RDlPVVFwem13dmIxTWZxN2NscEhmQk81WnpGSTQrKy9Pekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=NnlHV0NqdWRpRnAyR2Z6SEFhZG5pakxwd1ZWdDFtM3JqZkFuQ1RkeGwxWT0=",
+        "quote": "自由報名，各校報名人數不限制，由就讀學校彙整名單。"
+      },
+      {
+        "url": "https://dlsh.tc.edu.tw/p/406-1068-631048,r2145.php",
+        "quote": "考生一律向所就讀學校報名，非學校型態實驗教育者，由各該直轄市、縣(市)主管機關報名。不接受學生個人報名。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "初選考試報名截止（向就讀學校報名）",
+      "date": "2026-09-30",
+      "time": null,
+      "original": "115年9月30日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=c3Q4dExYeGU3YzhZc0ltUnVITDVUczFmUUFPM0xvei9CcVBRQlZlcFFDUXdNME9pT1haY2M3RDlPVVFwem13dmIxTWZxN2NscEhmQk81WnpGSTQrKy9Pekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=NnlHV0NqdWRpRnAyR2Z6SEFhZG5pakxwd1ZWdDFtM3JqZkFuQ1RkeGwxWT0=",
+          "quote": "二、報名日期：自即日起至115年9月30日止"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "開放學生上網查詢報名結果截止",
+      "date": "2026-09-30",
+      "time": null,
+      "original": "115年9月25日至9月30日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://dlsh.tc.edu.tw/p/406-1068-631048,r2145.php",
+          "quote": "七、 115年9月25日至9月30日開放學生自行上網查詢報名結果。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "因非可歸責於自身之因素未報名成功者，由就讀學校辦理補救報名截止",
+      "date": "2026-10-02",
+      "time": null,
+      "original": "115年10月1日至10月2日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://dlsh.tc.edu.tw/p/406-1068-631048,r2145.php",
+          "quote": "請務必於115年10月1日至10月2日期間，由就讀學校協助辦理補救報名，逾期概不受理。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "開放至官網查詢考生應試號碼及考生注意事項",
+      "date": "2026-10-19",
+      "time": null,
+      "original": "115年10月19日起",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://dlsh.tc.edu.tw/p/406-1068-631048,r2145.php",
+          "quote": "八、 考生請於115年10月19日起至官網查詢考生應試號碼及考生注意事項，並留意個人電子信箱通知。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "初選考試",
+      "date": "2026-11-07",
+      "time": "13:30",
+      "original": "民國115年11月7日(星期六) 下午1時30分至4時30分",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=c3Q4dExYeGU3YzhZc0ltUnVITDVUczFmUUFPM0xvei9CcVBRQlZlcFFDUXdNME9pT1haY2M3RDlPVVFwem13dmIxTWZxN2NscEhmQk81WnpGSTQrKy9Pekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=NnlHV0NqdWRpRnAyR2Z6SEFhZG5pakxwd1ZWdDFtM3JqZkFuQ1RkeGwxWT0=",
+          "quote": "四、考試時間：民國115年11月7日(星期六) 下午1時30分至4時30分"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "初選錄取和成績優良名單公布",
+      "date": "2026-11-23",
+      "time": null,
+      "original": "2026 年 11 月 23 日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://tpmso.k12ea.gov.tw/ipho/",
+          "quote": "2027年初選錄取和成績優良名單"
+        },
+        {
+          "url": "https://tpmso.k12ea.gov.tw/ipho/",
+          "quote": "2026 年 11 月 23 日"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "初選錄取者複選考試",
+      "date": "2027-02-20",
+      "time": "13:30",
+      "original": "116年2月20日 下午13:30-16:30",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://tpmso.k12ea.gov.tw/ipho/",
+          "quote": "複選考試：116年2月20日 下午13:30-16:30"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "初選考試",
+      "what": "物理試題作答，範圍為99課綱高一基礎物理、高中物理「力學」（含流體）及「熱學」",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "全國分區試場，考生報名時任選考區",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=c3Q4dExYeGU3YzhZc0ltUnVITDVUczFmUUFPM0xvei9CcVBRQlZlcFFDUXdNME9pT1haY2M3RDlPVVFwem13dmIxTWZxN2NscEhmQk81WnpGSTQrKy9Pekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=NnlHV0NqdWRpRnAyR2Z6SEFhZG5pakxwd1ZWdDFtM3JqZkFuQ1RkeGwxWT0=",
+        "quote": "五、考試地點：(考生可任選考區，9月30日報名截止後不受理變更考區。)"
+      },
+      {
+        "url": "https://www.hgsh.hc.edu.tw/news/2027%e5%b9%b4%e7%ac%ac57%e5%b1%86%e5%9c%8b%e9%9a%9b%e7%89%a9%e7%90%86%e5%a5%a7%e6%9e%97%e5%8c%b9%e4%ba%9e%e7%ab%b6%e8%b3%bd%e5%88%9d%e8%b3%bd-%e6%a0%a1%e5%85%a7%e5%9c%98%e9%ab%94%e5%a0%b1%e5%90%8d/",
+        "quote": "全國分區測驗，考生可任選考區，請在線上報名時選定考區，報名截止後不受理變更考區。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.hgsh.hc.edu.tw/news/2027%e5%b9%b4%e7%ac%ac57%e5%b1%86%e5%9c%8b%e9%9a%9b%e7%89%a9%e7%90%86%e5%a5%a7%e6%9e%97%e5%8c%b9%e4%ba%9e%e7%ab%b6%e8%b3%bd%e5%88%9d%e8%b3%bd-%e6%a0%a1%e5%85%a7%e5%9c%98%e9%ab%94%e5%a0%b1%e5%90%8d/",
+        "quote": "本測驗由教育部全額補助，為避免浪費資源，請報名者，務必自行前往應試。"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "參賽者發給參賽證明；依成績擇優錄取約400名（任一性別比例不低於10%），錄取者發給初選考試錄取證書及訓練教材第一、二冊，並得報名複選考試；成績居前25%者發給成績優良證書，已領錄取證書者不重複發給。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=c3Q4dExYeGU3YzhZc0ltUnVITDVUczFmUUFPM0xvei9CcVBRQlZlcFFDUXdNME9pT1haY2M3RDlPVVFwem13dmIxTWZxN2NscEhmQk81WnpGSTQrKy9Pekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=NnlHV0NqdWRpRnAyR2Z6SEFhZG5pakxwd1ZWdDFtM3JqZkFuQ1RkeGwxWT0=",
+        "quote": "七、錄取人數：依成績擇優錄取約400名，且任一性別比例不低於10%。"
+      },
+      {
+        "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=c3Q4dExYeGU3YzhZc0ltUnVITDVUczFmUUFPM0xvei9CcVBRQlZlcFFDUXdNME9pT1haY2M3RDlPVVFwem13dmIxTWZxN2NscEhmQk81WnpGSTQrKy9Pekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=NnlHV0NqdWRpRnAyR2Z6SEFhZG5pakxwd1ZWdDFtM3JqZkFuQ1RkeGwxWT0=",
+        "quote": "(1)凡參賽者，發給參賽證明；錄取者，發給初選考試錄取證書及訓練教材第一、二冊。"
+      },
+      {
+        "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=c3Q4dExYeGU3YzhZc0ltUnVITDVUczFmUUFPM0xvei9CcVBRQlZlcFFDUXdNME9pT1haY2M3RDlPVVFwem13dmIxTWZxN2NscEhmQk81WnpGSTQrKy9Pekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=NnlHV0NqdWRpRnAyR2Z6SEFhZG5pakxwd1ZWdDFtM3JqZkFuQ1RkeGwxWT0=",
+        "quote": "(2)錄取者得報名參加複選考試；"
+      },
+      {
+        "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=c3Q4dExYeGU3YzhZc0ltUnVITDVUczFmUUFPM0xvei9CcVBRQlZlcFFDUXdNME9pT1haY2M3RDlPVVFwem13dmIxTWZxN2NscEhmQk81WnpGSTQrKy9Pekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=NnlHV0NqdWRpRnAyR2Z6SEFhZG5pakxwd1ZWdDFtM3JqZkFuQ1RkeGwxWT0=",
+        "quote": "(3)成績居前25%者，發給成績優良證書。但已領有初選考試錄取證書者，不重複發給。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=c3Q4dExYeGU3YzhZc0ltUnVITDVUczFmUUFPM0xvei9CcVBRQlZlcFFDUXdNME9pT1haY2M3RDlPVVFwem13dmIxTWZxN2NscEhmQk81WnpGSTQrKy9Pekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=NnlHV0NqdWRpRnAyR2Z6SEFhZG5pakxwd1ZWdDFtM3JqZkFuQ1RkeGwxWT0="
+      }
+    ]
+  },
+  "links": {
+    "official": "https://tpmso.k12ea.gov.tw/ipho/",
+    "rules": [
+      {
+        "title": "初選考試報名簡章（1150917 修正）",
+        "url": "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=c3Q4dExYeGU3YzhZc0ltUnVITDVUczFmUUFPM0xvei9CcVBRQlZlcFFDUXdNME9pT1haY2M3RDlPVVFwem13dmIxTWZxN2NscEhmQk81WnpGSTQrKy9Pekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=NnlHV0NqdWRpRnAyR2Z6SEFhZG5pakxwd1ZWdDFtM3JqZkFuQ1RkeGwxWT0="
+      }
+    ],
+    "registration": null
+  },
+  "found_via": [
+    {
+      "name": "新竹女中 活動研習",
+      "url": "https://www.hgsh.hc.edu.tw/news/2027%e5%b9%b4%e7%ac%ac57%e5%b1%86%e5%9c%8b%e9%9a%9b%e7%89%a9%e7%90%86%e5%a5%a7%e6%9e%97%e5%8c%b9%e4%ba%9e%e7%ab%b6%e8%b3%bd%e5%88%9d%e8%b3%bd-%e6%a0%a1%e5%85%a7%e5%9c%98%e9%ab%94%e5%a0%b1%e5%90%8d/"
+    },
+    {
+      "name": "大里高中 校外活動與競賽",
+      "url": "https://dlsh.tc.edu.tw/p/406-1068-635635,r2145.php"
+    },
+    {
+      "name": "大里高中 校外活動與競賽",
+      "url": "https://dlsh.tc.edu.tw/p/406-1068-631048,r2145.php"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-26",
+    "method": "single",
+    "unread": [
+      "報名流程說明（附件二）"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-26",
+  "conflict": "初選考試報名簡章原版（大里高中公告附件）的報名資格為「具有中華民國身分證者」，1150917 修正版改為「具有中華民國國籍」，依國教署115年9月15日函修正。",
+  "level": "checked",
+  "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-ipho-apho-preliminary/",
+  "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-ipho-apho-preliminary.md"
+}

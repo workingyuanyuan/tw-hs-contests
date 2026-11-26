@@ -1,0 +1,229 @@
+{
+  "schema": 1,
+  "id": "2026-ltu-taiwan-hidden-spots",
+  "title": "2026全國高中職暨大專院校台灣私房景點介紹英／日文簡報比賽",
+  "edition": "2026",
+  "summary": "4 至 6 人隊伍以英語或日語介紹臺灣私房景點，繳交簡報影片。",
+  "organizers": [
+    {
+      "name": "嶺東科技大學應用外語系",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "外語",
+    "影音"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職",
+      "大專"
+    ],
+    "division": "separate",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 4,
+    "team_max": 6,
+    "teacher": "required",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.chsh.chc.edu.tw/p/406-1009-195902,r70.php?Lang=zh-tw",
+        "quote": "一、參加對象為全國高中職暨七年一貫一至三年級之本國籍在校生，以及大專校院學生；每隊由4至6名學生組成，指導教師1至2名，可跨系科組隊。"
+      },
+      {
+        "url": "https://www.chsh.chc.edu.tw/p/406-1009-195902,r70.php?Lang=zh-tw",
+        "quote": "競賽分為「高中職英文組」、「高中職日文組」、「大專英文組」及「大專日文組」。"
+      },
+      {
+        "url": "https://www.chsh.chc.edu.tw/p/406-1009-195902,r70.php?Lang=zh-tw",
+        "quote": "二、參賽隊伍須以英語或日語製作臺灣私房景點介紹簡報，錄製4至5分鐘簡報影片，並上傳至YouTube設定為「不公開」，完成線上報名及提供影片連結。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "報名及影片上傳截止",
+      "date": "2026-10-30",
+      "time": "17:00",
+      "original": "115年10月30日（星期五）下午5時",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.chsh.chc.edu.tw/p/406-1009-195902,r70.php?Lang=zh-tw",
+          "quote": "(一)報名及影片上傳截止：115年10月30日（星期五）下午5時。"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "得獎公告",
+      "date": "2026-11-20",
+      "time": "17:00",
+      "original": "115年11月20日（星期五）下午5時",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.chsh.chc.edu.tw/p/406-1009-195902,r70.php?Lang=zh-tw",
+          "quote": "(二)得獎公告：115年11月20日（星期五）下午5時。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "頒獎典禮",
+      "date": "2026-11-27",
+      "time": "13:00",
+      "original": "115年11月27日（星期五）下午1時至3時",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.chsh.chc.edu.tw/p/406-1009-195902,r70.php?Lang=zh-tw",
+          "quote": "(三)頒獎典禮：115年11月27日（星期五）下午1時至3時。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名",
+      "what": "4 至 5 分鐘英語或日語簡報影片，上傳 YouTube 設為「不公開」，於線上報名時提供連結",
+      "how": "online"
+    }
+  ],
+  "attendance": {
+    "value": "unknown",
+    "where": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.ccsh.ptc.edu.tw/data.php?id=19080&tpl=5"
+      },
+      {
+        "url": "https://www.chsh.chc.edu.tw/p/406-1009-195902,r70.php?Lang=zh-tw"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg317/「2026全國高中職暨大專院校台灣私房景點介紹英／日文簡報比賽」2.png"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/「2026全國高中職暨大專院校台灣私房景點介紹英／日文簡報比賽」.pdf"
+      }
+    ]
+  },
+  "fee": {
+    "value": "unknown",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.ccsh.ptc.edu.tw/data.php?id=19080&tpl=5"
+      },
+      {
+        "url": "https://www.chsh.chc.edu.tw/p/406-1009-195902,r70.php?Lang=zh-tw"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg317/「2026全國高中職暨大專院校台灣私房景點介紹英／日文簡報比賽」2.png"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/「2026全國高中職暨大專院校台灣私房景點介紹英／日文簡報比賽」.pdf"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "各組設第一名、第二名、第三名及佳作，高中職組另設潛力獎；獎勵最高 3,000 元禮券並有獎狀；高中職參賽者均核發參賽證書。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.chsh.chc.edu.tw/p/406-1009-195902,r70.php?Lang=zh-tw",
+        "quote": "四、各組設置第一名、第二名、第三名及佳作等獎項，高中職組另設潛力獎；高中職參賽者均核發參賽證書。"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg317/「2026全國高中職暨大專院校台灣私房景點介紹英／日文簡報比賽」2.png",
+        "quote": "最高3,000元禮券"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg317/「2026全國高中職暨大專院校台灣私房景點介紹英／日文簡報比賽」2.png",
+        "quote": "獎狀+参賽證書"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "unknown",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.ccsh.ptc.edu.tw/data.php?id=19080&tpl=5"
+      },
+      {
+        "url": "https://www.chsh.chc.edu.tw/p/406-1009-195902,r70.php?Lang=zh-tw"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg317/「2026全國高中職暨大專院校台灣私房景點介紹英／日文簡報比賽」2.png"
+      },
+      {
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/「2026全國高中職暨大專院校台灣私房景點介紹英／日文簡報比賽」.pdf"
+      }
+    ]
+  },
+  "links": {
+    "official": null,
+    "rules": [
+      {
+        "title": "嶺東科技大學函（競賽公文）",
+        "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/「2026全國高中職暨大專院校台灣私房景點介紹英／日文簡報比賽」.pdf"
+      }
+    ],
+    "registration": "https://forms.gle/HiRDqAHimJZSQony7"
+  },
+  "found_via": [
+    {
+      "name": "苗栗農工 處室公告",
+      "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26650"
+    },
+    {
+      "name": "潮州高中 學生課外活動",
+      "url": "https://www.ccsh.ptc.edu.tw/data.php?id=19080&tpl=5"
+    },
+    {
+      "name": "成功高中 活動競賽",
+      "url": "https://www.cksh.tp.edu.tw/news/%e3%80%90%e8%bd%89%e7%9f%a5%e3%80%91%e5%b6%ba%e6%9d%b1%e7%a7%91%e6%8a%80%e5%a4%a7%e5%ad%b8%e6%87%89%e7%94%a8%e5%a4%96%e8%aa%9e%e7%b3%bb%e8%be%a6%e7%90%86%e3%80%8c2026%e5%85%a8%e5%9c%8b%e9%ab%98/"
+    },
+    {
+      "name": "新竹高商 消息公佈欄",
+      "url": "https://www.hccvs.hc.edu.tw/ischool/public/news_view/show.php?nid=26427"
+    },
+    {
+      "name": "彰化高中 競賽公告",
+      "url": "https://www.chsh.chc.edu.tw/p/406-1009-195902,r70.php?Lang=zh-tw"
+    },
+    {
+      "name": "苗栗高中 學生校外營隊、活動、比賽",
+      "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=28151"
+    },
+    {
+      "name": "高師大附中 校外競賽與活動",
+      "url": "https://www.nknush.kh.edu.tw/announcement/20304/%e5%85%ac%e5%91%8a%e8%a8%93%e8%82%b2%e7%b5%84%e5%b6%ba%e6%9d%b1%e7%a7%91%e6%8a%80%e5%a4%a7%e5%ad%b8%e3%80%8c2026%e5%85%a8%e5%9c%8b%e9%ab%98%e4%b8%ad%e8%81%b7%e6%9a%a8%e5%a4%a7%e5%b0%88%e9%99%a2/"
+    },
+    {
+      "name": "壽山高中 校外競賽",
+      "url": "https://www.sssh.tyc.edu.tw/news/%e5%b6%ba%e6%9d%b1%e7%a7%91%e6%8a%80%e5%a4%a7%e5%ad%b8%e6%87%89%e7%94%a8%e5%a4%96%e8%aa%9e%e7%b3%bb%e8%be%a6%e7%90%86%e3%80%8c2026%e5%85%a8%e5%9c%8b%e9%ab%98%e4%b8%ad%e8%81%b7%e6%9a%a8%e5%a4%a7/"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-26",
+    "method": "single",
+    "unread": [
+      "競賽活動辦法"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-26"
+}

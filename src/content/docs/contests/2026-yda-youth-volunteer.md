@@ -3,7 +3,7 @@ title: "青年志工行動競賽表揚計畫（青志獎）"
 description: "15 至 35 歲青年 6 人以上組隊，上傳當年度志願服務成果文件，入圍決選者到現場簡報。"
 appliesTo: "第 4 屆（115 年度） 這一屆"
 caveat: "日期與時間都是臺灣時間。"
-lastVerified: 2026-11-24
+lastVerified: 2026-11-26
 kind: "contest"
 deadline: "2026-12-21"
 sources:

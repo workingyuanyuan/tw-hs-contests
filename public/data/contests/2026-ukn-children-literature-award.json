@@ -1,0 +1,212 @@
+{
+  "schema": 1,
+  "id": "2026-ukn-children-literature-award",
+  "title": "第九屆康寧兒童文藝獎徵文",
+  "edition": "第九屆",
+  "summary": "高中職、五專前三年學生創作適合兒童的繪本或童詩投稿參賽。",
+  "organizers": [
+    {
+      "name": "康寧大學嬰幼兒保育學系",
+      "role": "主辦"
+    },
+    {
+      "name": "康寧大學通識教育中心",
+      "role": "協辦"
+    }
+  ],
+  "categories": [
+    "語文與寫作",
+    "美術"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職",
+      "五專",
+      "大專"
+    ],
+    "division": "mixed",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": 2,
+    "teacher": "optional",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.kmsh.km.edu.tw/ischool/news/attached/22272/A10130000U0000000_%E9%99%84%E4%BB%B62-%E5%85%92%E7%AB%A5%E7%B9%AA%E6%9C%AC%E5%89%B5%E4%BD%9C%EF%BC%88%E5%90%AB%E5%A0%B1%E5%90%8D%E8%A1%A8%EF%BC%89007851.pdf",
+        "quote": "全國高級中等學校、五專前三年以及本校之在學學生。"
+      },
+      {
+        "url": "https://www.kmsh.km.edu.tw/ischool/news/attached/22272/A10130000U0000000_%E9%99%84%E4%BB%B62-%E5%85%92%E7%AB%A5%E7%B9%AA%E6%9C%AC%E5%89%B5%E4%BD%9C%EF%BC%88%E5%90%AB%E5%A0%B1%E5%90%8D%E8%A1%A8%EF%BC%89007851.pdf",
+        "quote": "每人限投稿作品一件，每件最多2 位共同作者（得獎之獎金仍為一份）。"
+      },
+      {
+        "url": "https://www.kmsh.km.edu.tw/ischool/news/attached/22272/A10130000U0000000_%E9%99%84%E4%BB%B62-%E5%85%92%E7%AB%A5%E7%B9%AA%E6%9C%AC%E5%89%B5%E4%BD%9C%EF%BC%88%E5%90%AB%E5%A0%B1%E5%90%8D%E8%A1%A8%EF%BC%89007851.pdf",
+        "quote": "（1）需填妥報名表，黏貼證件影本並親筆簽名。"
+      },
+      {
+        "url": "https://www.kmsh.km.edu.tw/ischool/news/attached/22272/A10130000U0000000_%E9%99%84%E4%BB%B62-%E5%85%92%E7%AB%A5%E7%B9%AA%E6%9C%AC%E5%89%B5%E4%BD%9C%EF%BC%88%E5%90%AB%E5%A0%B1%E5%90%8D%E8%A1%A8%EF%BC%89007851.pdf",
+        "quote": "3.上述得獎作品另頒贈指導老師證書乙幀。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "submission_deadline",
+      "label": "報名及作品寄達或送達截止（郵寄以郵戳為憑）",
+      "date": "2026-11-13",
+      "time": "17:00",
+      "original": "即日起至115.11.13（五）17：00止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.ntsh.ntct.edu.tw/ischool/public/news_view/show.php?nid=22930",
+          "quote": "(二)報名截止日期：即日起至115.11.13（五）17：00止。(需於截止前掛號寄達或送達；以掛號郵件投稿者，日期以郵戳為憑。)"
+        },
+        {
+          "url": "https://www.kmsh.km.edu.tw/ischool/news/attached/22272/A10130000U0000000_%E9%99%84%E4%BB%B62-%E5%85%92%E7%AB%A5%E7%B9%AA%E6%9C%AC%E5%89%B5%E4%BD%9C%EF%BC%88%E5%90%AB%E5%A0%B1%E5%90%8D%E8%A1%A8%EF%BC%89007851.pdf",
+          "quote": "陸、徵稿時間：即日起至115/11/13（五）17：00 止。"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "兒童繪本創作比賽得獎公告於康寧大學嬰幼兒保育學系網頁（預計）",
+      "date": "2026-12-15",
+      "time": null,
+      "original": "預計於115/12/15 日前公告",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.kmsh.km.edu.tw/ischool/news/attached/22272/A10130000U0000000_%E9%99%84%E4%BB%B62-%E5%85%92%E7%AB%A5%E7%B9%AA%E6%9C%AC%E5%89%B5%E4%BD%9C%EF%BC%88%E5%90%AB%E5%A0%B1%E5%90%8D%E8%A1%A8%EF%BC%89007851.pdf",
+          "quote": "五、 預計於115/12/15 日前公告於康寧大學嬰幼兒保育學系網頁"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "兒童繪本作品親自領回期限",
+      "date": "2027-01-15",
+      "time": null,
+      "original": "116/01/15 前可親自領回",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.kmsh.km.edu.tw/ischool/news/attached/22272/A10130000U0000000_%E9%99%84%E4%BB%B62-%E5%85%92%E7%AB%A5%E7%B9%AA%E6%9C%AC%E5%89%B5%E4%BD%9C%EF%BC%88%E5%90%AB%E5%A0%B1%E5%90%8D%E8%A1%A8%EF%BC%89007851.pdf",
+          "quote": "（3）比賽結束後，作品恕不寄回。（116/01/15 前可親自領回）"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "兒童繪本創作",
+      "what": "紙本彩色輸出裝訂成書的繪本（2～12 歲適讀，0 至 2000 字，A4 或 A5，20～32 頁，匿名），附報名表與證件影本",
+      "how": "mail"
+    },
+    {
+      "stage": "童詩創作",
+      "what": "童詩作品及報名表，掛號寄達或送達",
+      "how": "mail"
+    }
+  ],
+  "attendance": {
+    "value": "unknown",
+    "where": null,
+    "basis": "unread",
+    "evidence": []
+  },
+  "fee": {
+    "value": "unknown",
+    "amount": null,
+    "basis": "unread",
+    "evidence": []
+  },
+  "prizes": {
+    "text": "兒童繪本創作：第一名 5,000 元及獎狀、第二名 3,000 元及獎狀、第三名 1,000 元及獎狀、佳作若干名頒獎狀，得獎作品另頒指導老師證書。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.kmsh.km.edu.tw/ischool/news/attached/22272/A10130000U0000000_%E9%99%84%E4%BB%B62-%E5%85%92%E7%AB%A5%E7%B9%AA%E6%9C%AC%E5%89%B5%E4%BD%9C%EF%BC%88%E5%90%AB%E5%A0%B1%E5%90%8D%E8%A1%A8%EF%BC%89007851.pdf",
+        "quote": "2.獎勵方式：第一名5,000元及獎狀、第二名3,000元及獎狀、第三名1,000元及獎狀，佳作若干名，頒贈獎狀乙幀。"
+      },
+      {
+        "url": "https://www.kmsh.km.edu.tw/ischool/news/attached/22272/A10130000U0000000_%E9%99%84%E4%BB%B62-%E5%85%92%E7%AB%A5%E7%B9%AA%E6%9C%AC%E5%89%B5%E4%BD%9C%EF%BC%88%E5%90%AB%E5%A0%B1%E5%90%8D%E8%A1%A8%EF%BC%89007851.pdf",
+        "quote": "3.上述得獎作品另頒贈指導老師證書乙幀。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "unknown",
+    "basis": "unread",
+    "evidence": []
+  },
+  "links": {
+    "official": "https://ecce.ukn.edu.tw/p/405-1026-43219,c2059.php?Lang=zh-tw",
+    "rules": [
+      {
+        "title": "附件一 兒童文藝獎全國徵稿海報",
+        "url": "https://www.kmsh.km.edu.tw/ischool/news/attached/22272/A10130000U0000000_%E9%99%84%E4%BB%B61-%E5%85%92%E7%AB%A5%E6%96%87%E8%97%9D%E7%8D%8E%E5%85%A8%E5%9C%8B%E5%BE%B5%E7%A8%BF%E6%B5%B7%E5%A0%B1007851.pdf"
+      },
+      {
+        "title": "附件二 兒童繪本創作比賽辦法（含報名表）",
+        "url": "https://www.kmsh.km.edu.tw/ischool/news/attached/22272/A10130000U0000000_%E9%99%84%E4%BB%B62-%E5%85%92%E7%AB%A5%E7%B9%AA%E6%9C%AC%E5%89%B5%E4%BD%9C%EF%BC%88%E5%90%AB%E5%A0%B1%E5%90%8D%E8%A1%A8%EF%BC%89007851.pdf"
+      },
+      {
+        "title": "附件三 童詩創作比賽辦法（含報名表）",
+        "url": "https://www.kmsh.km.edu.tw/ischool/news/attached/22272/A10130000U0000000_%E9%99%84%E4%BB%B63-%E7%AB%A5%E8%A9%A9%E5%89%B5%E4%BD%9C%EF%BC%88%E5%90%AB%E5%A0%B1%E5%90%8D%E8%A1%A8%EF%BC%89007851.pdf"
+      }
+    ],
+    "registration": null
+  },
+  "found_via": [
+    {
+      "name": "潮州高中 學生課外活動",
+      "url": "https://www.ccsh.ptc.edu.tw/data.php?id=19079&tpl=5"
+    },
+    {
+      "name": "南投高中 最新消息",
+      "url": "https://www.ntsh.ntct.edu.tw/ischool/public/news_view/show.php?nid=22930"
+    },
+    {
+      "name": "大里高中 校外活動與競賽",
+      "url": "https://dlsh.tc.edu.tw/p/406-1068-635672,r2145.php?Lang=zh-tw"
+    },
+    {
+      "name": "金門高中 最新消息",
+      "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=22272"
+    },
+    {
+      "name": "斗六高中 營隊研習競賽",
+      "url": "https://www.tlsh.ylc.edu.tw/2026/09/29/67570/"
+    },
+    {
+      "name": "新竹女中 活動研習",
+      "url": "https://www.hgsh.hc.edu.tw/news/%e7%ac%ac%e4%b9%9d%e5%b1%86%e5%ba%b7%e5%af%a7%e5%85%92%e7%ab%a5%e6%96%87%e8%97%9d%e7%8d%8e%e5%be%b5%e6%96%87%e5%af%a6%e6%96%bd%e8%be%a6%e6%b3%95/"
+    },
+    {
+      "name": "大里高中 校外活動與競賽",
+      "url": "https://dlsh.tc.edu.tw/p/406-1068-635672,r2145.php"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-26",
+    "method": "single",
+    "unread": [
+      "附件一 兒童文藝獎全國徵稿海報",
+      "附件三 童詩創作比賽辦法（含報名表）"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-26",
+  "level": "checked",
+  "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-ukn-children-literature-award/",
+  "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-ukn-children-literature-award.md"
+}

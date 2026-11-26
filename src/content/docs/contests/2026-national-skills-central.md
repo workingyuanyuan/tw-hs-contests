@@ -3,7 +3,7 @@ title: "第57屆全國技能競賽中區分區技能競賽"
 description: "經中區 7 縣市單位推薦的青年與青少年選手，依所報職類的試題進行實地技能操作競賽。"
 appliesTo: "第 57 屆 這一屆"
 caveat: "須由學校推薦或薦送，學生不能自行報名。"
-lastVerified: 2026-11-25
+lastVerified: 2026-11-26
 kind: "contest"
 deadline: "2026-12-07"
 sources:

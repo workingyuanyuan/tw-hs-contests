@@ -3,7 +3,7 @@ title: "2026 全國二足機器人競賽"
 description: "由教師指導的學生隊伍帶二足機器人到臺師大，參加足球、擂台與氣球擊破等項目比賽。"
 appliesTo: "2026 這一屆"
 caveat: "報名已於 2026-11-20 17:00 截止。"
-lastVerified: 2026-11-25
+lastVerified: 2026-11-26
 kind: "contest"
 deadline: "2026-11-20"
 sources:

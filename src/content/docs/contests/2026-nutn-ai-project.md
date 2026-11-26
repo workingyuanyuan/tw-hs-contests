@@ -3,7 +3,7 @@ title: "2026 全國 AI 專題創意競賽"
 description: "高中職或大專學生 2 至 6 人組隊報名 AI 等專題，繳交作品說明書與影片連結，入圍者到場決賽展示。"
 appliesTo: "2026 這一屆"
 caveat: "競賽頁「競賽資格」寫高中職組不分競賽類別、所有參賽作品統一評選；同頁常見問題第 4 題寫 AI 微電影不另依高中職、大專院校或科系背景細分參賽組別。"
-lastVerified: 2026-11-25
+lastVerified: 2026-11-26
 kind: "contest"
 deadline: "2026-12-01"
 sources:

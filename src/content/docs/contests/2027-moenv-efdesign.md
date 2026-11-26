@@ -3,7 +3,7 @@ title: "2026-2027環境關懷友善設計競賽"
 description: "具中華民國國籍者個人或組隊提交環境關懷友善設計看板，決審入圍者須製作模型與說明影片並現場簡報。"
 appliesTo: "2026-2027 這一屆"
 caveat: "高中職學生與大專生或社會人士同組評比。"
-lastVerified: 2026-11-25
+lastVerified: 2026-11-26
 kind: "contest"
 deadline: "2027-01-15"
 sources:

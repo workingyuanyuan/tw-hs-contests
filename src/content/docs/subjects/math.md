@@ -1,9 +1,9 @@
 ---
 title: "類別：數學"
 description: "數學類的比賽 2 則，最早在 2027-01-04 12:00 截止。"
-appliesTo: "資料更新至 2026-11-25"
+appliesTo: "資料更新至 2026-11-26"
 caveat: "截止日指新參賽者報名的最後一天，以臺灣時間計。"
-lastVerified: 2026-11-25
+lastVerified: 2026-11-26
 kind: "index"
 sidebar:
   label: "數學"

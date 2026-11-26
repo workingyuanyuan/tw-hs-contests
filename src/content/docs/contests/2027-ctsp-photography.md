@@ -3,7 +3,7 @@ title: "「中科拾光－精采一瞬四生共榮」中部科學園區攝影比
 description: "各界攝影愛好者拍攝中部科學園區照片，線上繳交單張或組圖數位檔參賽。"
 appliesTo: "2026 這一屆"
 caveat: "高中職學生與大專生或社會人士同組評比。"
-lastVerified: 2026-11-25
+lastVerified: 2026-11-26
 kind: "contest"
 deadline: "2027-02-28"
 sources:

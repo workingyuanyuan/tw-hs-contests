@@ -1,0 +1,224 @@
+{
+  "schema": 1,
+  "id": "2026-moc-youth-comics-award",
+  "title": "青漫獎",
+  "edition": "115 年第 2 屆",
+  "summary": "高級中等學校學生組隊或個人、97 至 99 年次國民個人，創作原創單篇漫畫參賽。",
+  "organizers": [
+    {
+      "name": "文化部",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "美術"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職",
+      "五專",
+      "社會人士"
+    ],
+    "division": "separate",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": null,
+    "teacher": "optional",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27902/%E5%A0%B1%E5%90%8D%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "參賽者應為具中華民國國籍之各縣市高級中等學校在學學生，包括公、私立高中職日夜間部與進修學校、完全中學高中部、五專及七技前三年、非學校型態實驗教育學生。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27902/%E5%A0%B1%E5%90%8D%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "應以學校（含實驗教育機構，以下同）為單位進行團體報名，每組應有2 名以上參賽學生，並至少有1 名指導教師。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27902/%E5%A0%B1%E5%90%8D%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "出生日期為中華民國97 年1 月1 日至99 年12 月31 日(含當日)之中華民國國民。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27902/%E5%A0%B1%E5%90%8D%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "一律採網路報名，團體組由學校代表報名、個人組由參賽者自行報名"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "other",
+      "label": "報名開始",
+      "date": "2026-04-27",
+      "time": null,
+      "original": "115 年4 月27 日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27902/%E5%A0%B1%E5%90%8D%E7%B0%A1%E7%AB%A0.pdf",
+          "quote": "報名日期：115 年4 月27 日至同年10 月2 日止。"
+        }
+      ]
+    },
+    {
+      "kind": "registration_deadline",
+      "label": "網路報名及作品上傳截止",
+      "date": "2026-10-02",
+      "time": null,
+      "original": "同年10 月2 日止",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27902/%E5%A0%B1%E5%90%8D%E7%B0%A1%E7%AB%A0.pdf",
+          "quote": "報名日期：115 年4 月27 日至同年10 月2 日止。"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "公告獲獎名單（暫定）",
+      "date": null,
+      "time": null,
+      "original": "115 年12 月",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27902/%E5%A0%B1%E5%90%8D%E7%B0%A1%E7%AB%A0.pdf",
+          "quote": "本部暫定115 年12 月公告獲獎名單，並於116 年1 月辦理頒獎典禮"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "頒獎典禮（暫定）",
+      "date": null,
+      "time": null,
+      "original": "116 年1 月",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27902/%E5%A0%B1%E5%90%8D%E7%B0%A1%E7%AB%A0.pdf",
+          "quote": "本部暫定115 年12 月公告獲獎名單，並於116 年1 月辦理頒獎典禮"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名（團體組）",
+      "what": "頁漫 16 至 48 頁（A4），或條漫 50 格以上（寬 800px），RGB、300dpi 以上 PDF",
+      "how": "online"
+    },
+    {
+      "stage": "報名（個人組）",
+      "what": "頁漫 1 至 4 頁（A4），或條漫 20 格以內（寬 800px），RGB、300dpi 以上 PDF",
+      "how": "online"
+    },
+    {
+      "stage": "報名",
+      "what": "報名表、參賽切結書暨著作財產權授權及個人資料使用同意書、身分證及學生證掃描檔",
+      "how": "online"
+    }
+  ],
+  "attendance": {
+    "value": "none",
+    "where": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27902/%E5%A0%B1%E5%90%8D%E7%B0%A1%E7%AB%A0.pdf"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27902/%E5%A0%B1%E5%90%8D%E7%B0%A1%E7%AB%A0.pdf"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "總獎金 123 萬元。團體組：金獎 1 組 15 萬元、銀獎 3 組各 10 萬元、銅獎 6 組各 5 萬元、優選 10 組各 2 萬元，每組另頒學校獎牌及指導教師、學生獎狀。個人組：金獎 1 名 5 萬元、銀獎 3 名各 3 萬元、銅獎 6 名各 1 萬 5,000 元、優選 10 名各 5,000 元，並頒獎狀。報名成功者皆獲參賽證明。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27902/%E5%A0%B1%E5%90%8D%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "團體組計20 個獎項、個人組計20 個獎項，總獎金123 萬元"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27902/%E5%A0%B1%E5%90%8D%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "每組頒給學校獎牌1 面、 \n指導教師及學生獎狀各1 紙"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27902/%E5%A0%B1%E5%90%8D%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "頒給每名學生獎狀各1 紙"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27902/%E5%A0%B1%E5%90%8D%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "每位報名參賽成功之參賽者皆可獲本部頒發之參賽證明。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "banned",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27902/%E5%A0%B1%E5%90%8D%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "禁止使用生成式AI 創作或以二次創作作品參賽"
+      }
+    ]
+  },
+  "links": {
+    "official": null,
+    "rules": [
+      {
+        "title": "文化部115 年「青漫獎」報名簡章",
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27902/%E5%A0%B1%E5%90%8D%E7%B0%A1%E7%AB%A0.pdf"
+      }
+    ],
+    "registration": "https://grants.moc.gov.tw"
+  },
+  "found_via": [
+    {
+      "name": "苗栗農工 處室公告",
+      "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26500"
+    },
+    {
+      "name": "南港高工 重要資訊",
+      "url": "https://www.nkhs.tp.edu.tw/ischool/public/news_view/show.php?nid=34717"
+    },
+    {
+      "name": "潮州高中 學生課外活動",
+      "url": "https://www.ccsh.ptc.edu.tw/data.php?id=19012&tpl=5"
+    },
+    {
+      "name": "金門高中 最新消息",
+      "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=22106"
+    },
+    {
+      "name": "苗栗高中 學生校外營隊、活動、比賽",
+      "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=27902"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-26",
+    "method": "single",
+    "unread": [
+      "團體組報名表",
+      "個人組報名表"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-26"
+}

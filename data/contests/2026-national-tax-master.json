@@ -1,0 +1,200 @@
+{
+  "schema": 1,
+  "id": "2026-national-tax-master",
+  "title": "全國租稅達人爭霸賽",
+  "edition": "115年度",
+  "summary": "高中職以上學生3人一隊，以Kahoot!作答租稅知識問答，經分區初賽晉級全國總決賽。",
+  "organizers": [
+    {
+      "name": "財政部北區國稅局",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "社會人文",
+    "商管與行銷"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職",
+      "大專"
+    ],
+    "division": "mixed",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 3,
+    "team_max": 3,
+    "teacher": "unknown",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.cksh.tp.edu.tw/news/%e3%80%90%e8%bd%89%e7%9f%a5%e3%80%91-%e8%b2%a1%e6%94%bf%e9%83%a8%e8%87%ba%e5%8c%97%e5%9c%8b%e7%a8%85%e5%b1%80%e4%b8%ad%e6%ad%a3%e5%88%86%e5%b1%80115%e5%b9%b4%e5%ba%a6%e3%80%8c%e5%85%a8%e5%9c%8b/",
+        "quote": "參賽對象為全國高中(職)以上在籍學生(含115年畢業者)，以學校為單位組隊參加，每隊3人，每人限報名1隊，每校不限1隊。"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/news/%e3%80%90%e8%bd%89%e7%9f%a5%e3%80%91-%e8%b2%a1%e6%94%bf%e9%83%a8%e8%87%ba%e5%8c%97%e5%9c%8b%e7%a8%85%e5%b1%80115%e5%b9%b4%e5%ba%a6%e7%b5%b1%e4%b8%80%e7%99%bc%e7%a5%a8%e6%8e%a8%e8%a1%8c%e7%a7%9f/",
+        "quote": "(四)報名方式：一律採網路報名，以校為單位組隊報名參加【不得跨校，可跨科（系、所）】，每校不限1隊，採團隊報名方式，每隊3人，每人限報名1隊。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "臺北區第1場初賽報名截止",
+      "date": "2026-09-29",
+      "time": null,
+      "original": "115年9月29日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.cksh.tp.edu.tw/news/%e3%80%90%e8%bd%89%e7%9f%a5%e3%80%91-%e8%b2%a1%e6%94%bf%e9%83%a8%e8%87%ba%e5%8c%97%e5%9c%8b%e7%a8%85%e5%b1%80%e4%b8%ad%e6%ad%a3%e5%88%86%e5%b1%80115%e5%b9%b4%e5%ba%a6%e3%80%8c%e5%85%a8%e5%9c%8b/",
+          "quote": "報名期間自115年9月7日起至9月29日止或額滿為止"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "臺北區第1場初賽（國立臺北商業大學）",
+      "date": "2026-10-03",
+      "time": "14:00",
+      "original": "115年10月3日（星期六）14：00至15：30",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.cksh.tp.edu.tw/news/%e3%80%90%e8%bd%89%e7%9f%a5%e3%80%91-%e8%b2%a1%e6%94%bf%e9%83%a8%e8%87%ba%e5%8c%97%e5%9c%8b%e7%a8%85%e5%b1%80115%e5%b9%b4%e5%ba%a6%e7%b5%b1%e4%b8%80%e7%99%bc%e7%a5%a8%e6%8e%a8%e8%a1%8c%e7%a7%9f/",
+          "quote": "第1場：115年10月3日（星期六）14：00至15：30，假臺北商業大學【臺北校區】承曦樓-國際會議廳(10樓)舉辦。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "臺北區第2場初賽（德明財經科技大學）",
+      "date": "2026-10-04",
+      "time": "14:00",
+      "original": "115年10月4日（星期日）14：00至15：30",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.cksh.tp.edu.tw/news/%e3%80%90%e8%bd%89%e7%9f%a5%e3%80%91-%e8%b2%a1%e6%94%bf%e9%83%a8%e8%87%ba%e5%8c%97%e5%9c%8b%e7%a8%85%e5%b1%80115%e5%b9%b4%e5%ba%a6%e7%b5%b1%e4%b8%80%e7%99%bc%e7%a5%a8%e6%8e%a8%e8%a1%8c%e7%a7%9f/",
+          "quote": "第2場：115年10月4日（星期日）14：00至15：30，假德明財經科技大學 綜合大樓-國際會議廳(5樓)。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "臺北區第3場初賽（臺灣師範大學）",
+      "date": "2026-10-17",
+      "time": "14:00",
+      "original": "115年10月17日（星期六）14：00至15：30",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.cksh.tp.edu.tw/news/%e3%80%90%e8%bd%89%e7%9f%a5%e3%80%91-%e8%b2%a1%e6%94%bf%e9%83%a8%e8%87%ba%e5%8c%97%e5%9c%8b%e7%a8%85%e5%b1%80115%e5%b9%b4%e5%ba%a6%e7%b5%b1%e4%b8%80%e7%99%bc%e7%a5%a8%e6%8e%a8%e8%a1%8c%e7%a7%9f/",
+          "quote": "第3場：115年10月17日（星期六）14：00至15：30，假臺灣師範大學【和平校區II】綜合大樓-綜202演講廳(2樓)。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "全國總決賽",
+      "date": "2026-11-21",
+      "time": "14:00",
+      "original": "115年11月21日（星期六）14：00至16：30",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.cksh.tp.edu.tw/news/%e3%80%90%e8%bd%89%e7%9f%a5%e3%80%91-%e8%b2%a1%e6%94%bf%e9%83%a8%e8%87%ba%e5%8c%97%e5%9c%8b%e7%a8%85%e5%b1%80115%e5%b9%b4%e5%ba%a6%e7%b5%b1%e4%b8%80%e7%99%bc%e7%a5%a8%e6%8e%a8%e8%a1%8c%e7%a7%9f/",
+          "quote": "全國總決賽：115年11月21日（星期六）14：00至16：30，假致理科技大學 綜合教學大樓-演講廳(地下1樓)。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "報名",
+      "what": "學生證正反面或畢業證書，以及登入「財政部統一發票兌獎APP」並捐贈1張尚未開獎雲端發票之螢幕截圖（亦可於初賽報到時出示）；未滿18歲者附法定代理人同意書",
+      "how": "online"
+    },
+    {
+      "stage": "分區初賽",
+      "what": "每隊以1支自備手機或平板電腦，透過Kahoot!現場作答租稅問答",
+      "how": "onsite"
+    },
+    {
+      "stage": "全國總決賽",
+      "what": "晉級隊伍於致理科技大學以Kahoot!現場作答租稅問答",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "15場分區初賽場地（臺北區、高雄區、北區、中區、南區各3場）；全國總決賽於致理科技大學",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.cksh.tp.edu.tw/news/%e3%80%90%e8%bd%89%e7%9f%a5%e3%80%91-%e8%b2%a1%e6%94%bf%e9%83%a8%e8%87%ba%e5%8c%97%e5%9c%8b%e7%a8%85%e5%b1%80115%e5%b9%b4%e5%ba%a6%e7%b5%b1%e4%b8%80%e7%99%bc%e7%a5%a8%e6%8e%a8%e8%a1%8c%e7%a7%9f/",
+        "quote": "於115年10月至11月共舉辦15場分區初賽（臺北區、高雄區、北區、中區及南區，每區各3場）及1場全國總決賽"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg225/全國租稅達人爭霸賽.jpg",
+        "quote": "初賽及決賽皆由參賽者以自有手機或平板電腦透過「Kahoot!」軟體進行租稅"
+      }
+    ]
+  },
+  "fee": {
+    "value": "unknown",
+    "amount": null,
+    "basis": "unread",
+    "evidence": []
+  },
+  "prizes": {
+    "text": "租稅問答競賽前6名獎金依序為36,000元、24,000元、18,000元、15,000元、12,000元及9,000元；另設參加獎、晉級獎及「儲存雲端發票競賽」等獎項，總獎金36萬7,400元。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.cksh.tp.edu.tw/news/%e3%80%90%e8%bd%89%e7%9f%a5%e3%80%91-%e8%b2%a1%e6%94%bf%e9%83%a8%e8%87%ba%e5%8c%97%e5%9c%8b%e7%a8%85%e5%b1%80%e4%b8%ad%e6%ad%a3%e5%88%86%e5%b1%80115%e5%b9%b4%e5%ba%a6%e3%80%8c%e5%85%a8%e5%9c%8b/",
+        "quote": "租稅問答競賽前6名分別可獲得新臺幣(下同)36,000元、24,000元、18,000元、15,000元、12,000元及9,000元獎金"
+      },
+      {
+        "url": "https://www.cksh.tp.edu.tw/news/%e3%80%90%e8%bd%89%e7%9f%a5%e3%80%91-%e8%b2%a1%e6%94%bf%e9%83%a8%e8%87%ba%e5%8c%97%e5%9c%8b%e7%a8%85%e5%b1%80%e4%b8%ad%e6%ad%a3%e5%88%86%e5%b1%80115%e5%b9%b4%e5%ba%a6%e3%80%8c%e5%85%a8%e5%9c%8b/",
+        "quote": "另設有參加獎、晉級獎及「儲存雲端發票競賽」等獎項，活動總獎金達36萬7,400元"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "unknown",
+    "basis": "unread",
+    "evidence": []
+  },
+  "links": {
+    "official": "https://2026taxcontest.com",
+    "rules": [],
+    "registration": null
+  },
+  "found_via": [
+    {
+      "name": "成功高中 活動競賽",
+      "url": "https://www.cksh.tp.edu.tw/news/%e3%80%90%e8%bd%89%e7%9f%a5%e3%80%91-%e8%b2%a1%e6%94%bf%e9%83%a8%e8%87%ba%e5%8c%97%e5%9c%8b%e7%a8%85%e5%b1%80%e4%b8%ad%e6%ad%a3%e5%88%86%e5%b1%80115%e5%b9%b4%e5%ba%a6%e3%80%8c%e5%85%a8%e5%9c%8b/"
+    },
+    {
+      "name": "成功高中 活動競賽",
+      "url": "https://www.cksh.tp.edu.tw/news/%e3%80%90%e8%bd%89%e7%9f%a5%e3%80%91-%e8%b2%a1%e6%94%bf%e9%83%a8%e8%87%ba%e5%8c%97%e5%9c%8b%e7%a8%85%e5%b1%80115%e5%b9%b4%e5%ba%a6%e7%b5%b1%e4%b8%80%e7%99%bc%e7%a5%a8%e6%8e%a8%e8%a1%8c%e7%a7%9f/"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-26",
+    "method": "single",
+    "unread": [
+      "活動簡章"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-26"
+}

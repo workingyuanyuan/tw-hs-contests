@@ -3,7 +3,7 @@ title: "2026年全國高中職學生英語配音比賽"
 description: "同校高中職學生 4 至 6 人組隊，為指定公播版戲劇或動畫影片配上英語口白。"
 appliesTo: "2026 這一屆"
 caveat: "報名已於 2026-11-23 17:00 截止。"
-lastVerified: 2026-11-25
+lastVerified: 2026-11-26
 kind: "contest"
 deadline: "2026-11-23"
 sources:

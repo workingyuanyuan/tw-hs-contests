@@ -1,9 +1,9 @@
 ---
 title: "類別：音樂"
 description: "音樂類的比賽 6 則，最早在 2026-11-30 23:59 截止。"
-appliesTo: "資料更新至 2026-11-25"
+appliesTo: "資料更新至 2026-11-26"
 caveat: "截止日指新參賽者報名的最後一天，以臺灣時間計。"
-lastVerified: 2026-11-25
+lastVerified: 2026-11-26
 kind: "index"
 sidebar:
   label: "音樂"

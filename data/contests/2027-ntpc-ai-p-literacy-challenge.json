@@ -206,14 +206,15 @@
     }
   ],
   "verification": {
-    "last_verified": "2026-11-25",
-    "method": "single",
+    "last_verified": "2026-11-26",
+    "method": "dual",
     "unread": [
       "數位課程研發基地網頁（挑戰相關資料）",
       "素養題本（英文科、國文科、數學科）"
     ],
     "note": null,
     "readers": [
+      "claude-opus-5-5",
       "claude-opus-5-5"
     ]
   },

@@ -3,7 +3,7 @@ title: "115 年度原住民族政治受難者口述歷史影像改編漫畫徵�
 description: "海內外人士依口述歷史紀錄片改編創作 19 至 25 頁繁體中文漫畫，線上繳交作品 PDF 與同意書。"
 appliesTo: "115 年度 這一屆"
 caveat: "高中職學生與大專生或社會人士同組評比。"
-lastVerified: 2026-11-25
+lastVerified: 2026-11-26
 kind: "contest"
 deadline: "2026-12-15"
 sources:

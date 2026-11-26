@@ -3,7 +3,7 @@ title: "2026 第十一屆通用設計獎"
 description: "各級學校學生及社會人士 1 至 5 人以「伴」為題提交 5 頁內設計作品 PDF，入圍者須簡報決審。"
 appliesTo: "第十一屆 這一屆"
 caveat: "高中職學生與大專生或社會人士同組評比。"
-lastVerified: 2026-11-25
+lastVerified: 2026-11-26
 kind: "contest"
 deadline: "2026-11-30"
 sources:

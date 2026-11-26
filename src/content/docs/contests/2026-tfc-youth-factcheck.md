@@ -3,7 +3,7 @@ title: "2026第六屆青年查證挑戰賽"
 description: "15 至 24 歲青年 2 至 3 人組隊，運用事實查核與數位工具解查證挑戰題。"
 appliesTo: "第六屆 這一屆"
 caveat: "報名已於 2026-11-20 截止。"
-lastVerified: 2026-11-25
+lastVerified: 2026-11-26
 kind: "contest"
 deadline: "2026-11-20"
 sources:

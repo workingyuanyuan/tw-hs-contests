@@ -1,0 +1,194 @@
+{
+  "schema": 1,
+  "id": "2026-apcys-taiwan-selection",
+  "title": "2026 年亞太平洋青年科學家會議-臺灣代表隊徵選",
+  "edition": "2026",
+  "summary": "高中職學生 1 至 2 人一隊，以物理、數學、計算機科學、生命科學或環境科學專題研究作品參加 APCYS 臺灣代表隊徵選。",
+  "organizers": [
+    {
+      "name": "中原大學半導體學院",
+      "role": "主辦"
+    },
+    {
+      "name": "臺灣大學海洋研究中心",
+      "role": "主辦"
+    },
+    {
+      "name": "臺北市麗山高中",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "自然科學",
+    "數學",
+    "資訊與 AI"
+  ],
+  "eligibility": {
+    "levels": [
+      "高中",
+      "高職"
+    ],
+    "division": "hs_only",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": 2,
+    "teacher": "required",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.kmsh.km.edu.tw/ischool/news/attached/22207/0917%E9%99%84%E4%BB%B62_%E7%94%84%E9%81%B8%E5%85%AC%E5%91%8A.pdf",
+        "quote": "台灣選拔⾼中學⽣代表隊參加"
+      },
+      {
+        "url": "https://www.kmsh.km.edu.tw/ischool/news/attached/22207/0917%E9%99%84%E4%BB%B61_%E9%BA%97%E5%B1%B1%E9%AB%98%E4%B8%AD%E5%87%BD.pdf",
+        "quote": "四、惠請各教育局處協助轉發所轄公私立高中職。"
+      },
+      {
+        "url": "https://www.kmsh.km.edu.tw/ischool/news/attached/22207/0917%E9%99%84%E4%BB%B61_%E9%BA%97%E5%B1%B1%E9%AB%98%E4%B8%AD%E5%87%BD.pdf",
+        "quote": "(一)參賽專題作品(每隊最多2人)"
+      },
+      {
+        "url": "https://www.kmsh.km.edu.tw/ischool/news/attached/22207/0917%E9%99%84%E4%BB%B61_%E9%BA%97%E5%B1%B1%E9%AB%98%E4%B8%AD%E5%87%BD.pdf",
+        "quote": "報名者請將報名表(附件)及專題研究作品電子檔，寄送"
+      },
+      {
+        "url": "https://www.kmsh.km.edu.tw/ischool/news/attached/22207/0917%E9%99%84%E4%BB%B62_%E7%94%84%E9%81%B8%E5%85%AC%E5%91%8A.pdf",
+        "quote": "指導老師簽名："
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "報名表及專題研究作品電子檔收件截止",
+      "date": "2026-09-19",
+      "time": null,
+      "original": "2026年9月19日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.kmsh.km.edu.tw/ischool/news/attached/22207/0917%E9%99%84%E4%BB%B61_%E9%BA%97%E5%B1%B1%E9%AB%98%E4%B8%AD%E5%87%BD.pdf",
+          "quote": "收件截止日期為2026年9月19日。"
+        }
+      ]
+    },
+    {
+      "kind": "other",
+      "label": "APCYS2026 會議（泰國 Nakhon Ratchasima，代表隊參加）",
+      "date": "2026-10-25",
+      "time": null,
+      "original": "2026年10月25-29日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.kmsh.km.edu.tw/ischool/news/attached/22207/0917%E9%99%84%E4%BB%B61_%E9%BA%97%E5%B1%B1%E9%AB%98%E4%B8%AD%E5%87%BD.pdf",
+          "quote": "一、APCYS2026會議訂於今(2026)年10月25-29日在泰國Nakhon Ratchasima舉辦。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "初選",
+      "what": "報名表、學生證與身分證影本、個人照片及專題研究作品報告書（摘要、研究動機、目的、設備器材、過程或方法、結果、討論、結論、參考資料）電子檔，word 或 pdf",
+      "how": "online"
+    },
+    {
+      "stage": "決選（初選通過者）",
+      "what": "作品口頭報告與答問",
+      "how": "unknown"
+    }
+  ],
+  "attendance": {
+    "value": "finalists",
+    "where": null,
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.kmsh.km.edu.tw/ischool/news/attached/22207/0917%E9%99%84%E4%BB%B61_%E9%BA%97%E5%B1%B1%E9%AB%98%E4%B8%AD%E5%87%BD.pdf",
+        "quote": "初選通過者進入決選，決選對作品口頭報告與答問進行評審，"
+      }
+    ]
+  },
+  "fee": {
+    "value": "required",
+    "amount": "獲選參加 APCYS 2026 者註冊費每人 375 美元（涵蓋會議期間住宿、餐飲、科學活動），往返交通自行負擔",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.kmsh.km.edu.tw/ischool/news/attached/22207/0917%E9%99%84%E4%BB%B62_%E7%94%84%E9%81%B8%E5%85%AC%E5%91%8A.pdf",
+        "quote": "參加APCYS 2026之註冊費：每⼈375美元，涵蓋會議期間住宿、餐飲、科學活動等。"
+      },
+      {
+        "url": "https://www.kmsh.km.edu.tw/ischool/news/attached/22207/0917%E9%99%84%E4%BB%B61_%E9%BA%97%E5%B1%B1%E9%AB%98%E4%B8%AD%E5%87%BD.pdf",
+        "quote": "參加會議往返交通費用由學生自行負擔。"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "決選擇選優勝者（最多 8 名學生）代表臺灣參加 APCYS2026 會議；會議依海報及口頭報告評分頒發金牌、銀牌、銅牌、佳作及特別獎。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.kmsh.km.edu.tw/ischool/news/attached/22207/0917%E9%99%84%E4%BB%B61_%E9%BA%97%E5%B1%B1%E9%AB%98%E4%B8%AD%E5%87%BD.pdf",
+        "quote": "擇選優勝者(最多8名學生)代表參加APCYS2026會議。"
+      },
+      {
+        "url": "https://www.kmsh.km.edu.tw/ischool/news/attached/22207/0917%E9%99%84%E4%BB%B62_%E7%94%84%E9%81%B8%E5%85%AC%E5%91%8A.pdf",
+        "quote": "評審委員會依照各領域的參賽隊伍數量，訂定當屆⾦牌、銀牌、銅牌、佳作及特別獎數。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.kmsh.km.edu.tw/ischool/news/attached/22207/0917%E9%99%84%E4%BB%B61_%E9%BA%97%E5%B1%B1%E9%AB%98%E4%B8%AD%E5%87%BD.pdf"
+      },
+      {
+        "url": "https://www.kmsh.km.edu.tw/ischool/news/attached/22207/0917%E9%99%84%E4%BB%B62_%E7%94%84%E9%81%B8%E5%85%AC%E5%91%8A.pdf"
+      }
+    ]
+  },
+  "links": {
+    "official": null,
+    "rules": [
+      {
+        "title": "麗山高中函",
+        "url": "https://www.kmsh.km.edu.tw/ischool/news/attached/22207/0917%E9%99%84%E4%BB%B61_%E9%BA%97%E5%B1%B1%E9%AB%98%E4%B8%AD%E5%87%BD.pdf"
+      },
+      {
+        "title": "甄選公告與報名表",
+        "url": "https://www.kmsh.km.edu.tw/ischool/news/attached/22207/0917%E9%99%84%E4%BB%B62_%E7%94%84%E9%81%B8%E5%85%AC%E5%91%8A.pdf"
+      }
+    ],
+    "registration": null
+  },
+  "found_via": [
+    {
+      "name": "金門高中 最新消息",
+      "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=22207"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-26",
+    "method": "single",
+    "unread": [
+      "0917金門縣政府函.pdf",
+      "0917附件3_報名表.odt"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-26",
+  "level": "checked",
+  "url": "https://yuanaruru.com/tw-hs-contests/contests/2026-apcys-taiwan-selection/",
+  "markdown": "https://yuanaruru.com/tw-hs-contests/contests/2026-apcys-taiwan-selection.md"
+}

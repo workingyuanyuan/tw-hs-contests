@@ -3,7 +3,7 @@ title: "第二屆 2027 羊年紅包袋插畫設計比賽"
 description: "個人或雙人組依年齡分組，以官方紅包袋展開圖創作羊年插畫並郵寄實體作品參賽。"
 appliesTo: "第二屆 這一屆"
 caveat: "報名須繳費：兒童組 NT$800、青少年組 NT$1,000、成人組 NT$1,200（另需自付全家 FamiPort 展開圖列印費）。"
-lastVerified: 2026-11-25
+lastVerified: 2026-11-26
 kind: "contest"
 deadline: "2026-12-31"
 sources:

@@ -3,7 +3,7 @@ title: "2026資訊科技創新設計暨應用競賽"
 description: "全國高中職學生針對資訊科技創新設計與應用提案，報名時須寄交 A0 作品海報電子檔，晉級者須於決賽現場簡報。"
 appliesTo: "2026 這一屆"
 caveat: "日期與時間都是臺灣時間。"
-lastVerified: 2026-11-25
+lastVerified: 2026-11-26
 kind: "contest"
 deadline: "2026-12-07"
 sources:

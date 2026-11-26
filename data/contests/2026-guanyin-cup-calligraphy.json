@@ -1,0 +1,282 @@
+{
+  "schema": 1,
+  "id": "2026-guanyin-cup-calligraphy",
+  "title": "第四十八屆觀音盃全國書法比賽",
+  "edition": "第四十八屆",
+  "summary": "國小學生至社會人士以倫理道德、敦品勵學等銘言佳句為題，創作書法作品參賽。",
+  "organizers": [
+    {
+      "name": "清水紫雲巖管理委員會",
+      "role": "主辦"
+    },
+    {
+      "name": "臺中縣書法教育學會",
+      "role": "承辦"
+    },
+    {
+      "name": "臺中市政府",
+      "role": "指導"
+    },
+    {
+      "name": "清水區公所",
+      "role": "指導"
+    },
+    {
+      "name": "臺北市政府",
+      "role": "協辦"
+    },
+    {
+      "name": "高雄市政府",
+      "role": "協辦"
+    },
+    {
+      "name": "新北市政府",
+      "role": "協辦"
+    },
+    {
+      "name": "臺南市政府",
+      "role": "協辦"
+    },
+    {
+      "name": "各縣市政府",
+      "role": "協辦"
+    }
+  ],
+  "categories": [
+    "美術"
+  ],
+  "eligibility": {
+    "levels": [
+      "國小",
+      "國中",
+      "高中",
+      "高職",
+      "大專",
+      "社會人士"
+    ],
+    "division": "mixed",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": 1,
+    "teacher": "required",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/第48屆全國書法比賽辦法-.pdf",
+        "quote": "凡中華民國居民得參加社會組，年滿六十歲者參加社會長青組，其餘各組為在學學生。"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/第48屆全國書法比賽辦法-.pdf",
+        "quote": "(三) 高中大專組"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/第48屆全國書法比賽辦法-.pdf",
+        "quote": "國小、國中用四開(橫34Cm 直69Cm)；高中職、大專及社會組、長青組用1/2 之宣紙(橫35cm 直135cm)"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/第48屆全國書法比賽辦法-.pdf",
+        "quote": "初賽作品每人只能交一件，否則多交以棄權論。(初賽作品請填寫就讀學校指導老師姓名)"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "submission_deadline",
+      "label": "初賽收件截止（郵戳為憑）",
+      "date": "2026-09-30",
+      "time": null,
+      "original": "115 年9 月30 日",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/第48屆全國書法比賽辦法-.pdf",
+          "quote": "收件時間：自115 年9 月10 日起至115 年9 月30 日截止。(郵戳為憑)。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "國小各組複賽（現場比賽）",
+      "date": "2026-11-15",
+      "time": "09:00",
+      "original": "115 年11 月15 日 (星期日)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/第48屆全國書法比賽辦法-.pdf",
+          "quote": "(二)複賽：(現場比賽)115 年11 月15 日 (星期日)"
+        },
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/第48屆全國書法比賽辦法-.pdf",
+          "quote": "(1)國小各組、上午09:00～10:00。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "國中組、高中大專組、社會組、社會長青組複賽（現場比賽）",
+      "date": "2026-11-15",
+      "time": "10:30",
+      "original": "115 年11 月15 日 (星期日)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/第48屆全國書法比賽辦法-.pdf",
+          "quote": "(二)複賽：(現場比賽)115 年11 月15 日 (星期日)"
+        },
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/第48屆全國書法比賽辦法-.pdf",
+          "quote": "(2)國中組、高中大專組、社會組、社會長青組，上午10:30～11:30。"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "複賽評審完成並公告",
+      "date": "2026-11-15",
+      "time": null,
+      "original": "115 年11 月15 日 (星期日)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/第48屆全國書法比賽辦法-.pdf",
+          "quote": "(二)複賽：(現場比賽)115 年11 月15 日 (星期日)"
+        },
+        {
+          "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/第48屆全國書法比賽辦法-.pdf",
+          "quote": "(2)當日評審完成並公告。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "初賽",
+      "what": "自備棉紙或宣紙直書作品一件，高中職、大專組用 1/2 宣紙（橫 35 cm、直 135 cm），落款校名、年級、姓名，背面浮貼送件表",
+      "how": "mail"
+    },
+    {
+      "stage": "複賽（初賽各組錄取五十名）",
+      "what": "依當場公布的題目現場書寫，用紙由主辦單位提供，筆墨自備",
+      "how": "onsite"
+    }
+  ],
+  "attendance": {
+    "value": "finalists",
+    "where": "紫雲巖文化大樓(清水區光明路三十五號)",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/第48屆全國書法比賽辦法-.pdf",
+        "quote": "初賽各組錄取五十名，另行通知參加複賽。"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/第48屆全國書法比賽辦法-.pdf",
+        "quote": "(二)複賽：(現場比賽)115 年11 月15 日 (星期日)"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/第48屆全國書法比賽辦法-.pdf",
+        "quote": "地 點：紫雲巖文化大樓(清水區光明路三十五號)"
+      }
+    ]
+  },
+  "fee": {
+    "value": "none",
+    "amount": null,
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.tngs.tn.edu.tw/2026/09/16/%e3%80%90%e8%bd%89%e7%9f%a5%e3%80%91%e6%b8%85%e6%b0%b4%e7%b4%ab%e9%9b%b2%e5%b7%96%e7%ac%ac%e5%9b%9b%e5%8d%81%e5%85%ab%e5%b1%86%e8%a7%80%e9%9f%b3%e7%9b%83%e5%85%a8%e5%9c%8b%e6%9b%b8%e6%b3%95%e6%af%94/"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/第48屆全國書法比賽辦法-.pdf"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "各組第一名 1 人、第二名 2 人、第三名 3 人、優選 6 人、佳作 10 人。高中大專組第一名獎金 8,000 元、第二名 5,000 元、第三名 3,000 元、優選 2,000 元，皆附獎盃及獎狀；佳作頒獎狀、獎品。長青組及社會組第一名獎金 20,000 元；國中及國小各組第一名 5,000 元。參加複賽者均發給紀念品。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/第48屆全國書法比賽辦法-.pdf",
+        "quote": "錄取名額：(1)各組第一名1 人，第二名2 人，第三名3 人。"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/第48屆全國書法比賽辦法-.pdf",
+        "quote": "(2)各組優選6 人，佳作10 人。"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/第48屆全國書法比賽辦法-.pdf",
+        "quote": "(二) 高中大專組： 第一名：頒發獎金捌仟元、獎盃及獎狀各乙份。"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/第48屆全國書法比賽辦法-.pdf",
+        "quote": "第二名：頒發獎金伍仟元、獎盃及獎狀各乙份。"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/第48屆全國書法比賽辦法-.pdf",
+        "quote": "第三名：頒發獎金参仟元、獎盃及獎狀各乙份。"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/第48屆全國書法比賽辦法-.pdf",
+        "quote": "優選者：頒發獎金貳仟元、獎盃及獎狀各乙份。"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/第48屆全國書法比賽辦法-.pdf",
+        "quote": "(一) 長青組及社會組： 第一名：頒發獎金貳萬元、獎盃及獎狀各乙份。"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/第48屆全國書法比賽辦法-.pdf",
+        "quote": "(三) 國 中 及 國 小 各組：第一名：頒發獎金伍仟元、獎盃及獎狀各乙份。"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/第48屆全國書法比賽辦法-.pdf",
+        "quote": "(四) 凡參加複賽者均發給紀念品乙份。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.tngs.tn.edu.tw/2026/09/16/%e3%80%90%e8%bd%89%e7%9f%a5%e3%80%91%e6%b8%85%e6%b0%b4%e7%b4%ab%e9%9b%b2%e5%b7%96%e7%ac%ac%e5%9b%9b%e5%8d%81%e5%85%ab%e5%b1%86%e8%a7%80%e9%9f%b3%e7%9b%83%e5%85%a8%e5%9c%8b%e6%9b%b8%e6%b3%95%e6%af%94/"
+      },
+      {
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/第48屆全國書法比賽辦法-.pdf"
+      }
+    ]
+  },
+  "links": {
+    "official": null,
+    "rules": [
+      {
+        "title": "第48屆全國書法比賽辦法",
+        "url": "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/第48屆全國書法比賽辦法-.pdf"
+      }
+    ],
+    "registration": null
+  },
+  "found_via": [
+    {
+      "name": "臺南女中 學生競賽",
+      "url": "https://www.tngs.tn.edu.tw/2026/09/16/%e3%80%90%e8%bd%89%e7%9f%a5%e3%80%91%e6%b8%85%e6%b0%b4%e7%b4%ab%e9%9b%b2%e5%b7%96%e7%ac%ac%e5%9b%9b%e5%8d%81%e5%85%ab%e5%b1%86%e8%a7%80%e9%9f%b3%e7%9b%83%e5%85%a8%e5%9c%8b%e6%9b%b8%e6%b3%95%e6%af%94/"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-26",
+    "method": "single",
+    "unread": [
+      "複賽選手回條"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-26"
+}

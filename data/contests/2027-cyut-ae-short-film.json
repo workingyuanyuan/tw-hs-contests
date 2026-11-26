@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "id": "2027-cyut-ae-short-film",
-  "title": "全國校園創意短片比賽",
+  "title": "第10屆朝陽科技大學應用英語系全國校園創意短片比賽",
   "edition": "第 10 屆",
-  "summary": "大專及高中職學生 2 至 8 人一組，拍攝介紹就讀科系或學校特色的英文短片。",
+  "summary": "大專及高中職學生 2 至 8 人一組，拍攝介紹所讀科系或學校特色的英文短片。",
   "organizers": [
     {
       "name": "朝陽科技大學應用英語系",
@@ -32,39 +32,35 @@
     "basis": "quote",
     "evidence": [
       {
-        "url": "https://drive.google.com/file/d/1nulnftoB_C3xeDRqwkAfXxeY-MOG2dDe/view?usp=sharing",
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/news/attached/26654/1150007749_1.pdf",
         "quote": "參賽資格：全國大專院校 (含五專四、五年級、大學部、碩士班)以及高中、高職在校學生。"
       },
       {
-        "url": "https://drive.google.com/file/d/1nulnftoB_C3xeDRqwkAfXxeY-MOG2dDe/view?usp=sharing",
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/news/attached/26654/1150007749_1.pdf",
         "quote": "每組以2~8 人為限，參賽同學僅能選擇一組報名，不得跨組、跨系及跨校。"
       },
       {
-        "url": "https://drive.google.com/file/d/1nulnftoB_C3xeDRqwkAfXxeY-MOG2dDe/view?usp=sharing",
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/news/attached/26654/1150007749_1.pdf",
         "quote": "大專院校和高中職組各別錄取團體獎五名，唯主辦單位可視實際參賽隊伍，增刪優勝隊伍數。"
       },
       {
-        "url": "https://drive.google.com/file/d/1nulnftoB_C3xeDRqwkAfXxeY-MOG2dDe/view?usp=sharing",
-        "quote": "請線上填寫報名表（需附參賽作品網址連結），網址https://forms.gle/9V7oENByauhQHiAe7 。"
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/news/attached/26654/1150007749_1.pdf",
+        "quote": "請線上填寫報名表（需附參賽作品網址連結），網址https://forms.gle/9V7oENByauhQHiAe7。"
       }
     ]
   },
   "dates": [
     {
       "kind": "registration_deadline",
-      "label": "線上報名及繳交作品連結截止",
+      "label": "線上報名及作品連結繳交截止",
       "date": "2027-01-15",
       "time": "12:00",
       "original": "民國116 年1 月15 日(星期五)中午12:00",
       "basis": "quote",
       "evidence": [
         {
-          "url": "https://drive.google.com/file/d/1nulnftoB_C3xeDRqwkAfXxeY-MOG2dDe/view?usp=sharing",
+          "url": "https://www.mlaivs.mlc.edu.tw/ischool/news/attached/26654/1150007749_1.pdf",
           "quote": "請於民國116 年1 月15 日(星期五)中午12:00 前，完成以下報名手續。"
-        },
-        {
-          "url": "https://www.tlsh.ylc.edu.tw/2026/10/01/67699/",
-          "quote": "活動報名自即日起至116年1月15日中午12時止，請線上填寫報名表（需附參賽作品網址連結）"
         }
       ]
     }
@@ -72,12 +68,7 @@
   "deliverables": [
     {
       "stage": "報名",
-      "what": "線上報名表，附參賽影片的雲端硬碟連結",
-      "how": "online"
-    },
-    {
-      "stage": "報名",
-      "what": "3 至 4 分鐘影片，配英文旁白與英文字幕，可自製音效",
+      "what": "3 至 4 分鐘影片，配英文旁白與英文字幕，上傳個人雲端硬碟後將連結填入線上報名表",
       "how": "online"
     }
   ],
@@ -87,10 +78,7 @@
     "basis": "absent",
     "evidence": [
       {
-        "url": "https://drive.google.com/file/d/1nulnftoB_C3xeDRqwkAfXxeY-MOG2dDe/view?usp=sharing"
-      },
-      {
-        "url": "https://www.tlsh.ylc.edu.tw/2026/10/01/67699/"
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/news/attached/26654/1150007749_1.pdf"
       }
     ]
   },
@@ -100,35 +88,32 @@
     "basis": "absent",
     "evidence": [
       {
-        "url": "https://drive.google.com/file/d/1nulnftoB_C3xeDRqwkAfXxeY-MOG2dDe/view?usp=sharing"
-      },
-      {
-        "url": "https://www.tlsh.ylc.edu.tw/2026/10/01/67699/"
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/news/attached/26654/1150007749_1.pdf"
       }
     ]
   },
   "prizes": {
-    "text": "大專院校組與高中職組各錄取團體獎五名（主辦單位可視參賽隊伍增刪）：第一名禮券 3,000 元及獎狀、第二名禮券 2,000 元及獎狀、第三名禮券 1,000 元及獎狀、佳作獎狀。",
+    "text": "大專院校組與高中職組各錄取團體獎五名：第一名禮券 3,000 元、第二名禮券 2,000 元、第三名禮券 1,000 元，皆附獎狀；佳作頒發獎狀。主辦單位可視參賽隊伍數增刪優勝隊伍數。",
     "basis": "quote",
     "evidence": [
       {
-        "url": "https://drive.google.com/file/d/1nulnftoB_C3xeDRqwkAfXxeY-MOG2dDe/view?usp=sharing",
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/news/attached/26654/1150007749_1.pdf",
         "quote": "大專院校和高中職組各別錄取團體獎五名，唯主辦單位可視實際參賽隊伍，增刪優勝隊伍數。"
       },
       {
-        "url": "https://drive.google.com/file/d/1nulnftoB_C3xeDRqwkAfXxeY-MOG2dDe/view?usp=sharing",
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/news/attached/26654/1150007749_1.pdf",
         "quote": "第一名：頒發禮券3,000 元整及獎狀乙紙"
       },
       {
-        "url": "https://drive.google.com/file/d/1nulnftoB_C3xeDRqwkAfXxeY-MOG2dDe/view?usp=sharing",
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/news/attached/26654/1150007749_1.pdf",
         "quote": "第二名：頒發禮券2,000 元整及獎狀乙紙"
       },
       {
-        "url": "https://drive.google.com/file/d/1nulnftoB_C3xeDRqwkAfXxeY-MOG2dDe/view?usp=sharing",
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/news/attached/26654/1150007749_1.pdf",
         "quote": "第三名：頒發禮券1,000 元整及獎狀乙紙"
       },
       {
-        "url": "https://drive.google.com/file/d/1nulnftoB_C3xeDRqwkAfXxeY-MOG2dDe/view?usp=sharing",
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/news/attached/26654/1150007749_1.pdf",
         "quote": "佳作：頒發獎狀乙紙"
       }
     ]
@@ -138,42 +123,83 @@
     "basis": "quote",
     "evidence": [
       {
-        "url": "https://drive.google.com/file/d/1nulnftoB_C3xeDRqwkAfXxeY-MOG2dDe/view?usp=sharing",
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/news/attached/26654/1150007749_1.pdf",
         "quote": "影片的拍攝、內容和對白需原創，不得使用AI 生成作品。"
       },
       {
-        "url": "https://drive.google.com/file/d/1nulnftoB_C3xeDRqwkAfXxeY-MOG2dDe/view?usp=sharing",
+        "url": "https://www.mlaivs.mlc.edu.tw/ischool/news/attached/26654/1150007749_1.pdf",
         "quote": "請勿使用文字轉語音或AI 語音生成的功能來錄製影片。"
       }
     ]
   },
   "links": {
-    "official": null,
+    "official": "https://aecyut.cyut.edu.tw/p/406-1039-66700,r106.php?Lang=zh-tw",
     "rules": [
       {
-        "title": "比賽辦法",
-        "url": "https://drive.google.com/file/d/1nulnftoB_C3xeDRqwkAfXxeY-MOG2dDe/view?usp=sharing"
+        "title": "比賽辦法（PDF）",
+        "url": "https://aecyut.cyut.edu.tw/var/file/39/1039/img/343266758.pdf"
       }
     ],
     "registration": "https://forms.gle/9V7oENByauhQHiAe7"
   },
   "found_via": [
     {
-      "name": "斗六高中 營隊研習競賽",
-      "url": "https://www.tlsh.ylc.edu.tw/2026/10/01/67699/"
+      "name": "苗栗農工 處室公告",
+      "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26654"
+    },
+    {
+      "name": "金門高中 最新消息",
+      "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=22307"
+    },
+    {
+      "name": "潮州高中 學生課外活動",
+      "url": "https://www.ccsh.ptc.edu.tw/data.php?id=19081&tpl=5"
+    },
+    {
+      "name": "成功高中 活動競賽",
+      "url": "https://www.cksh.tp.edu.tw/news/%e3%80%90%e8%bd%89%e7%9f%a5%e3%80%91-%e6%9c%9d%e9%99%bd%e7%a7%91%e6%8a%80%e5%a4%a7%e5%ad%b8%e3%80%8c%e7%ac%ac10%e5%b1%86%e6%9c%9d%e9%99%bd%e7%a7%91%e6%8a%80%e5%a4%a7%e5%ad%b8%e6%87%89%e7%94%a8/"
+    },
+    {
+      "name": "高師大附中 校外競賽與活動",
+      "url": "https://www.nknush.kh.edu.tw/announcement/20399/%e5%85%ac%e5%91%8a%e8%a8%93%e8%82%b2%e7%b5%84%e6%9c%9d%e9%99%bd%e7%a7%91%e6%8a%80%e5%a4%a7%e5%ad%b8%e3%80%8c%e7%ac%ac10%e5%b1%86%e6%9c%9d%e9%99%bd%e7%a7%91%e6%8a%80%e5%a4%a7%e5%ad%b8%e6%87%89%e7%94%a8/"
+    },
+    {
+      "name": "大同高中 學生競賽活動",
+      "url": "https://www.ttsh.tp.edu.tw/news/%e7%ac%ac10%e5%b1%86%e6%9c%9d%e9%99%bd%e7%a7%91%e6%8a%80%e5%a4%a7%e5%ad%b8%e6%87%89%e7%94%a8%e8%8b%b1%e8%aa%9e%e7%b3%bb%e5%85%a8%e5%9c%8b%e6%a0%a1%e5%9c%92%e5%89%b5%e6%84%8f%e7%9f%ad%e7%89%87%e6%af%94/"
+    },
+    {
+      "name": "西松高中 校外競賽公告",
+      "url": "https://www.hssh.tp.edu.tw/p/405-1000-52392,c540.php?Lang=zh-tw"
+    },
+    {
+      "name": "新竹女中 活動研習",
+      "url": "https://www.hgsh.hc.edu.tw/news/%e7%ac%ac10%e5%b1%86%e6%9c%9d%e9%99%bd%e7%a7%91%e6%8a%80%e5%a4%a7%e5%ad%b8%e6%87%89%e7%94%a8%e8%8b%b1%e8%aa%9e-%e7%b3%bb%e5%85%a8%e5%9c%8b%e6%a0%a1%e5%9c%92%e5%89%b5%e6%84%8f%e7%9f%ad%e7%89%87/"
+    },
+    {
+      "name": "苗栗高中 學生校外營隊、活動、比賽",
+      "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=28160"
+    },
+    {
+      "name": "獎金獵人 競賽平台",
+      "url": "https://bhuntr.com/tw/competitions/fer4o8xurg6sfxefgr"
+    },
+    {
+      "name": "西松高中 校外競賽公告",
+      "url": "https://www.hssh.tp.edu.tw/p/405-1000-52392,c540.php"
     }
   ],
   "verification": {
-    "last_verified": "2026-11-25",
-    "method": "single",
+    "last_verified": "2026-11-26",
+    "method": "dual",
     "unread": [
       "海報（附件2）"
     ],
     "note": null,
     "readers": [
+      "claude-opus-5-5",
       "claude-opus-5-5"
     ]
   },
   "first_seen": "2026-11-24",
-  "updated": "2026-11-25"
+  "updated": "2026-11-26"
 }

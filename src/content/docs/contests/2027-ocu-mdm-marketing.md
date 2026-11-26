@@ -3,7 +3,7 @@ title: "2027第五屆僑光行流盃-全國高中職創意行銷競賽"
 description: "高中職學生個人或 2 至 4 人同校組隊，為台灣手搖飲品牌發想廣告金句，上傳 5 頁內 PPT。"
 appliesTo: "第五屆 這一屆"
 caveat: "日期與時間都是臺灣時間。"
-lastVerified: 2026-11-24
+lastVerified: 2026-11-26
 kind: "contest"
 deadline: "2027-03-04"
 sources:

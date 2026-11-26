@@ -1,0 +1,236 @@
+{
+  "schema": 1,
+  "id": "2027-trpec-chinese-cup",
+  "title": "2027 國語文跨越盃 全國國語文競賽",
+  "edition": "2027",
+  "summary": "國小至高中職學生個人報名，在線上監考下作答國語文測驗，依總分排名獲獎。",
+  "organizers": [
+    {
+      "name": "臺灣探究與實作教育學會",
+      "role": "主辦"
+    }
+  ],
+  "categories": [
+    "語文與寫作"
+  ],
+  "eligibility": {
+    "levels": [
+      "國小",
+      "國中",
+      "高中",
+      "高職"
+    ],
+    "division": "separate",
+    "regions": [
+      "全國"
+    ],
+    "nomination": "none",
+    "team_min": 1,
+    "team_max": 1,
+    "teacher": "none",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27850/2027%E5%9C%8B%E6%96%87%E8%B7%A8%E8%B6%8A%E7%9B%83%EF%BC%8D%E5%85%A8%E5%9C%8B%E5%9C%8B%E8%AA%9E%E6%96%87%E7%AB%B6%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "凡全國公私立國民小學、國民中學、高級中等學校（普通高中、綜合高中、技術型高中）在學學生，以及高中畢業之學測重考生，均可依規定報名參加本競賽。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27850/2027%E5%9C%8B%E6%96%87%E8%B7%A8%E8%B6%8A%E7%9B%83%EF%BC%8D%E5%85%A8%E5%9C%8B%E5%9C%8B%E8%AA%9E%E6%96%87%E7%AB%B6%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "高中組（含普通高中、綜合高中及技術型高中、學測重考生）"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27850/%E5%85%AC%E6%96%87.pdf",
+        "quote": "三項競賽均採學生個別報名方式，學生可依所屬年級及個人學習興趣選擇參加，學校無須統一辦理報名或彙整參賽名單"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27850/2027%E5%9C%8B%E6%96%87%E8%B7%A8%E8%B6%8A%E7%9B%83%EF%BC%8D%E5%85%A8%E5%9C%8B%E5%9C%8B%E8%AA%9E%E6%96%87%E7%AB%B6%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "報名資料請填寫考生本人資訊，不得填寫家長、監護人或指導老師姓名。"
+      }
+    ]
+  },
+  "dates": [
+    {
+      "kind": "registration_deadline",
+      "label": "網路報名及繳費截止",
+      "date": "2027-02-11",
+      "time": "23:59",
+      "original": "116 年2 月11 日(四)晚上12 點前",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27850/2027%E5%9C%8B%E6%96%87%E8%B7%A8%E8%B6%8A%E7%9B%83%EF%BC%8D%E5%85%A8%E5%9C%8B%E5%9C%8B%E8%AA%9E%E6%96%87%E7%AB%B6%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf",
+          "quote": "須於116 年2 月11 日(四)晚上12 點前，完成網路報名及繳交報名費即得參賽資格。"
+        }
+      ]
+    },
+    {
+      "kind": "final_event",
+      "label": "線上競賽",
+      "date": "2027-02-21",
+      "time": "09:00",
+      "original": "116 年2 月21 日（日）",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27850/2027%E5%9C%8B%E6%96%87%E8%B7%A8%E8%B6%8A%E7%9B%83%EF%BC%8D%E5%85%A8%E5%9C%8B%E5%9C%8B%E8%AA%9E%E6%96%87%E7%AB%B6%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf",
+          "quote": "三、競賽日期：116 年2 月21 日（日）"
+        },
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27850/2027%E5%9C%8B%E6%96%87%E8%B7%A8%E8%B6%8A%E7%9B%83%EF%BC%8D%E5%85%A8%E5%9C%8B%E5%9C%8B%E8%AA%9E%E6%96%87%E7%AB%B6%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf",
+          "quote": "高中組：上午9:00 至11:00，共計120 分鐘。"
+        }
+      ]
+    },
+    {
+      "kind": "result_announcement",
+      "label": "競賽官網公布前 10 位獲獎名單",
+      "date": "2027-03-05",
+      "time": null,
+      "original": "116/3/5(五)",
+      "basis": "quote",
+      "evidence": [
+        {
+          "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27850/2027%E5%9C%8B%E6%96%87%E8%B7%A8%E8%B6%8A%E7%9B%83%EF%BC%8D%E5%85%A8%E5%9C%8B%E5%9C%8B%E8%AA%9E%E6%96%87%E7%AB%B6%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf",
+          "quote": "成績公布：將在116/3/5(五)於競賽官網公布前10 位獲獎名單。"
+        }
+      ]
+    }
+  ],
+  "deliverables": [
+    {
+      "stage": "競賽",
+      "what": "高中組單複選題 70 題，120 分鐘閉卷作答，全程開啟攝影機",
+      "how": "online"
+    }
+  ],
+  "attendance": {
+    "value": "all",
+    "where": "線上監考（自備電腦、手機或 iPad 與攝影機）",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27850/2027%E5%9C%8B%E6%96%87%E8%B7%A8%E8%B6%8A%E7%9B%83%EF%BC%8D%E5%85%A8%E5%9C%8B%E5%9C%8B%E8%AA%9E%E6%96%87%E7%AB%B6%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "本競賽採線上監考機制進行，考生應試設備須具備攝影機及穩定網路功能，並須配合全程監考規範。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27850/2027%E5%9C%8B%E6%96%87%E8%B7%A8%E8%B6%8A%E7%9B%83%EF%BC%8D%E5%85%A8%E5%9C%8B%E5%9C%8B%E8%AA%9E%E6%96%87%E7%AB%B6%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "請使用電腦、手機、iPad 及穩定網路應試。"
+      }
+    ]
+  },
+  "fee": {
+    "value": "required",
+    "amount": "580 元",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27850/2027%E5%9C%8B%E6%96%87%E8%B7%A8%E8%B6%8A%E7%9B%83%EF%BC%8D%E5%85%A8%E5%9C%8B%E5%9C%8B%E8%AA%9E%E6%96%87%E7%AB%B6%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "六、報名費用：580 元"
+      }
+    ]
+  },
+  "prizes": {
+    "text": "依總人數比例頒發：金牌獎前 5%、銀牌獎前 5.01~10%、銅牌獎前 10.01~20%、優選前 20.01~30%，各獎狀 1 張；語文挑戰獎擇優若干，獎狀 1 張；未得以上獎項者發參賽證書。",
+    "basis": "quote",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27850/2027%E5%9C%8B%E6%96%87%E8%B7%A8%E8%B6%8A%E7%9B%83%EF%BC%8D%E5%85%A8%E5%9C%8B%E5%9C%8B%E8%AA%9E%E6%96%87%E7%AB%B6%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "金牌獎：總人數前5%，獎狀1 張。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27850/2027%E5%9C%8B%E6%96%87%E8%B7%A8%E8%B6%8A%E7%9B%83%EF%BC%8D%E5%85%A8%E5%9C%8B%E5%9C%8B%E8%AA%9E%E6%96%87%E7%AB%B6%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "銀牌獎：總人數前 5.01~10%，獎狀1 張。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27850/2027%E5%9C%8B%E6%96%87%E8%B7%A8%E8%B6%8A%E7%9B%83%EF%BC%8D%E5%85%A8%E5%9C%8B%E5%9C%8B%E8%AA%9E%E6%96%87%E7%AB%B6%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "銅牌獎：總人數前10.01~20%，獎狀1 張。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27850/2027%E5%9C%8B%E6%96%87%E8%B7%A8%E8%B6%8A%E7%9B%83%EF%BC%8D%E5%85%A8%E5%9C%8B%E5%9C%8B%E8%AA%9E%E6%96%87%E7%AB%B6%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "優 選：總人數前20.01~30%，獎狀1 張。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27850/2027%E5%9C%8B%E6%96%87%E8%B7%A8%E8%B6%8A%E7%9B%83%EF%BC%8D%E5%85%A8%E5%9C%8B%E5%9C%8B%E8%AA%9E%E6%96%87%E7%AB%B6%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "語文挑戰獎：擇優若干，獎狀1 張。"
+      },
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27850/2027%E5%9C%8B%E6%96%87%E8%B7%A8%E8%B6%8A%E7%9B%83%EF%BC%8D%E5%85%A8%E5%9C%8B%E5%9C%8B%E8%AA%9E%E6%96%87%E7%AB%B6%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf",
+        "quote": "參賽證書：未得以上獎項者。"
+      }
+    ]
+  },
+  "ai_policy": {
+    "value": "not_mentioned",
+    "basis": "absent",
+    "evidence": [
+      {
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27850/2027%E5%9C%8B%E6%96%87%E8%B7%A8%E8%B6%8A%E7%9B%83%EF%BC%8D%E5%85%A8%E5%9C%8B%E5%9C%8B%E8%AA%9E%E6%96%87%E7%AB%B6%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf"
+      }
+    ]
+  },
+  "links": {
+    "official": "https://trpec.com.tw/view-reg.php?id=42",
+    "rules": [
+      {
+        "title": "2027國文跨越盃－全國國語文競賽簡章",
+        "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27850/2027%E5%9C%8B%E6%96%87%E8%B7%A8%E8%B6%8A%E7%9B%83%EF%BC%8D%E5%85%A8%E5%9C%8B%E5%9C%8B%E8%AA%9E%E6%96%87%E7%AB%B6%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf"
+      }
+    ],
+    "registration": "http://trpec.com.tw"
+  },
+  "found_via": [
+    {
+      "name": "潮州高中 學生課外活動",
+      "url": "https://www.ccsh.ptc.edu.tw/data.php?id=19011&tpl=5"
+    },
+    {
+      "name": "斗六高中 營隊研習競賽",
+      "url": "https://www.tlsh.ylc.edu.tw/2026/09/15/67123/"
+    },
+    {
+      "name": "成功高中 活動競賽",
+      "url": "https://www.cksh.tp.edu.tw/news/%e3%80%90%e8%bd%89%e7%9f%a5%e3%80%91%e8%be%a6%e7%90%86%e3%80%8c2027%e5%9c%8b%e6%96%87%e8%b7%a8%e8%b6%8a%e7%9b%83%ef%bc%8d%e5%85%a8%e5%9c%8b%e5%9c%8b%e8%aa%9e%e6%96%87%e7%ab%b6%e8%b3%bd%e3%80%8d/"
+    },
+    {
+      "name": "大里高中 校外活動與競賽",
+      "url": "https://dlsh.tc.edu.tw/p/406-1068-628797,r2145.php?Lang=zh-tw"
+    },
+    {
+      "name": "嘉義女中 競賽與投稿",
+      "url": "https://www.cygsh.cy.edu.tw/p/406-1013-186490,r679.php"
+    },
+    {
+      "name": "西松高中 校外競賽公告",
+      "url": "https://www.hssh.tp.edu.tw/p/405-1000-52066,c540.php?Lang=zh-tw"
+    },
+    {
+      "name": "苗栗高中 學生校外營隊、活動、比賽",
+      "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=27850"
+    },
+    {
+      "name": "武陵高中 校外競賽",
+      "url": "http://www.wlsh.tyc.edu.tw/p/406-1000-43167,r83.php?Lang=zh-tw"
+    },
+    {
+      "name": "大里高中 校外活動與競賽",
+      "url": "https://dlsh.tc.edu.tw/p/406-1068-628797,r2145.php"
+    },
+    {
+      "name": "西松高中 校外競賽公告",
+      "url": "https://www.hssh.tp.edu.tw/p/405-1000-52066,c540.php"
+    }
+  ],
+  "verification": {
+    "last_verified": "2026-11-26",
+    "method": "single",
+    "unread": [
+      "獎狀及參賽證書樣式圖"
+    ],
+    "note": null,
+    "readers": [
+      "claude-opus-5-5"
+    ]
+  },
+  "first_seen": "2026-11-24",
+  "updated": "2026-11-26"
+}

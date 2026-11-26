@@ -1177,8 +1177,8 @@
   "urls": [
    {
     "url": "https://www.beclass.com/share/202609/1001890050391fmf_0.docx",
-    "role": "rules",
-    "name": ""
+    "role": "announcement",
+    "name": "www.beclass.com"
    },
    {
     "url": "https://sites.google.com/site/ciipcertificate/2026全國大專院校暨高中職創意創新創業管理個案專題競賽",
@@ -1208,11 +1208,11 @@
   "attempts": 1,
   "record": "2026-chtiia-creative-entrepreneurship",
   "note": "single, checked",
-  "change": "dc30b39b61d218a0",
-  "tried": "2026-11-25",
+  "change": "281906334ca1ea8b",
+  "tried": "2026-11-26",
   "second": {
    "attempts": 1,
-   "tried": "2026-11-25",
+   "tried": "2026-11-26",
    "note": "dual"
   }
  },
@@ -1953,14 +1953,19 @@
   "deadline": "2027-03-31",
   "urls": [
    {
-    "url": "https://www.ganjingworld.com/@Kindness.TW",
+    "url": "https://www.ganjingworld.com/s/3R4W9AypXb",
     "role": "rules",
     "name": ""
    },
    {
-    "url": "https://www.ganjingworld.com/s/3R4W9AypXb",
+    "url": "https://www.ganjingworld.com/video/%E7%AC%AC%E5%9B%9B%E5%B1%86-%E5%96%84%E5%BF%B5%E9%BB%9E%E4%BA%AE%E5%8F%B0%E7%81%A3-%E5%96%84%E5%BF%B5%E6%8E%A5%E5%8A%9B-%E8%AE%93%E4%B8%96%E7%95%8C%E6%94%B9%E8%AE%8A/1iu1arje06q8eReUOVPpgug971im1c",
     "role": "rules",
     "name": ""
+   },
+   {
+    "url": "https://www.ganjingworld.com/@Kindness.TW",
+    "role": "announcement",
+    "name": "www.ganjingworld.com"
    },
    {
     "url": "https://bhuntr.com/tw/competitions/tquo9h6lxaavwyhojw",
@@ -1975,11 +1980,11 @@
   "attempts": 1,
   "record": "2027-ganjingworld-kindness-tw",
   "note": "single, checked",
-  "change": "fc8d915827095c2a",
-  "tried": "2026-11-24",
+  "change": "a471efe653362a90",
+  "tried": "2026-11-26",
   "second": {
    "attempts": 1,
-   "tried": "2026-11-24",
+   "tried": "2026-11-26",
    "note": "dual"
   }
  },
@@ -2061,11 +2066,6 @@
   "deadline": "2027-05-20",
   "urls": [
    {
-    "url": "https://forum.gamer.com.tw/C.php?bsn=60550&snA=96&tnum=1",
-    "role": "rules",
-    "name": ""
-   },
-   {
     "url": "https://prj.gamer.com.tw/acgaward/2027/",
     "role": "rules",
     "name": ""
@@ -2086,6 +2086,11 @@
     "name": ""
    },
    {
+    "url": "https://forum.gamer.com.tw/C.php?bsn=60550&snA=96&tnum=1",
+    "role": "announcement",
+    "name": "forum.gamer.com.tw"
+   },
+   {
     "url": "https://bhuntr.com/tw/competitions/v20n6cyx4uhb5sb9mr",
     "role": "announcement",
     "name": "獎金獵人刊登頁"
@@ -2098,11 +2103,11 @@
   "attempts": 1,
   "record": "2027-bahamut-acg-award",
   "note": "single, checked",
-  "change": "16b9455ade07b3a2",
-  "tried": "2026-11-24",
+  "change": "703ac1ecafc7841c",
+  "tried": "2026-11-26",
   "second": {
    "attempts": 1,
-   "tried": "2026-11-24",
+   "tried": "2026-11-26",
    "note": "dual"
   }
  },
@@ -2935,11 +2940,6 @@
   "deadline": null,
   "urls": [
    {
-    "url": "https://ws.wda.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMzExL3JlbGZpbGUvOTMzOC8xOTY1MjkvMjZkMzA1NGUtOGJhMC00ZmE2LWE3ZjMtN2E1ZDQ0Y2Q5NWQ3LnBkZg%3d%3d&n=MDEu6ZmE5Lu2NC3nrKw1N%2bWxhuWFqOWci%2baKgOiDveertuizveWNl%2bWNgOWIhuWNgOaKgOiDveertuizveewoeeroC5wZGY%3d",
-    "role": "rules",
-    "name": ""
-   },
-   {
     "url": "https://yct168.wda.gov.tw/News_Content.aspx?n=3457B06B7217EC61&sms=9F8CD839BDD2F62F&s=8CBD3FC433C7D851",
     "role": "rules",
     "name": ""
@@ -2948,6 +2948,11 @@
     "url": "https://yct168.wda.gov.tw/News_Content.aspx?n=3457B06B7217EC61&sms=9F8CD839BDD2F62F&s=9A67E9544D330F61",
     "role": "rules",
     "name": ""
+   },
+   {
+    "url": "https://ws.wda.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMzExL3JlbGZpbGUvOTMzOC8xOTY1MjkvMjZkMzA1NGUtOGJhMC00ZmE2LWE3ZjMtN2E1ZDQ0Y2Q5NWQ3LnBkZg%3d%3d&n=MDEu6ZmE5Lu2NC3nrKw1N%2bWxhuWFqOWci%2baKgOiDveertuizveWNl%2bWNgOWIhuWNgOaKgOiDveertuizveewoeeroC5wZGY%3d",
+    "role": "announcement",
+    "name": "ws.wda.gov.tw"
    },
    {
     "url": "https://www.fhsh.khc.edu.tw/aa/news-aa/20261103/47169",
@@ -2962,12 +2967,12 @@
   "attempts": 1,
   "record": "2026-national-skills-south-57",
   "note": "single, checked",
-  "tried": "2026-11-25",
+  "tried": "2026-11-26",
   "searched": "2026-11-24",
-  "change": "e5aa4040821abd7c",
+  "change": "74e1b6bedd3a1a24",
   "second": {
    "attempts": 1,
-   "tried": "2026-11-25",
+   "tried": "2026-11-26",
    "note": "dual"
   }
  },
@@ -3167,6 +3172,26 @@
   "deadline": null,
   "urls": [
    {
+    "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28149/%E5%A0%B1%E5%90%8D%E7%B0%A1%E7%AB%A0.pdf",
+    "role": "rules",
+    "name": ""
+   },
+   {
+    "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28817/%E6%8A%80%E6%AA%A2%E4%B8%AD%E5%BF%83%E3%80%8C%E7%AC%AC57%E5%B1%86%E5%85%A8%E5%9C%8B%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E5%88%86%E5%8D%80%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E3%80%8D%E5%85%AC%E6%96%87.pdf",
+    "role": "rules",
+    "name": ""
+   },
+   {
+    "url": "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28817/%E6%8A%80%E6%AA%A2%E4%B8%AD%E5%BF%83%E3%80%8C%E7%AC%AC57%E5%B1%86%E5%85%A8%E5%9C%8B%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E5%88%86%E5%8D%80%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD%E3%80%8D%E6%B5%B7%E5%A0%B1.pdf",
+    "role": "rules",
+    "name": ""
+   },
+   {
+    "url": "https://www.wdasec.gov.tw",
+    "role": "rules",
+    "name": ""
+   },
+   {
     "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=28149",
     "role": "announcement",
     "name": "苗栗高中 學生校外營隊、活動、比賽"
@@ -3184,12 +3209,8 @@
   "attempts": 1,
   "record": "2027-national-skills-competition",
   "note": "single, checked",
-  "tried": "2026-11-24",
-  "second": {
-   "attempts": 1,
-   "tried": "2026-11-24",
-   "note": "dual"
-  }
+  "tried": "2026-11-26",
+  "change": "7d055d03261827f4"
  },
  {
   "key": "c0108",
@@ -6036,6 +6057,26 @@
   "deadline": null,
   "urls": [
    {
+    "url": "https://forms.gle/KzEZsd77tKg2AWN48",
+    "role": "rules",
+    "name": ""
+   },
+   {
+    "url": "https://www.csghs.tp.edu.tw/wp-content/uploads/doc/zs271/內政部移民署辦理「第13屆新住民及子女築夢計畫」報名簡章.pdf",
+    "role": "rules",
+    "name": ""
+   },
+   {
+    "url": "https://www.fg.tp.edu.tw/view-doc/23/(教育局)轉知內政部移民署辦理「第13屆新住民及子女築夢計畫」01.pdf",
+    "role": "rules",
+    "name": ""
+   },
+   {
+    "url": "https://www.fg.tp.edu.tw/view-doc/23/(教育局)轉知內政部移民署辦理「第13屆新住民及子女築夢計畫」02.pdf",
+    "role": "rules",
+    "name": ""
+   },
+   {
     "url": "https://www.csghs.tp.edu.tw/news/%e5%85%a7%e6%94%bf%e9%83%a8%e7%a7%bb%e6%b0%91%e7%bd%b2%e8%be%a6%e7%90%86%e3%80%8c%e7%ac%ac13%e5%b1%86%e6%96%b0%e4%bd%8f%e6%b0%91%e5%8f%8a%e5%ad%90%e5%a5%b3%e7%af%89%e5%a4%a2%e8%a8%88%e7%95%ab%e3%80%8d/",
     "role": "announcement",
     "name": "中山女高 最新消息"
@@ -6053,10 +6094,11 @@
   "attempts": 1,
   "record": "2026-new-immigrants-dream-plan",
   "note": "single, checked",
-  "tried": "2026-11-24",
+  "tried": "2026-11-26",
+  "change": "7e06d229f9c18784",
   "second": {
    "attempts": 1,
-   "tried": "2026-11-25",
+   "tried": "2026-11-26",
    "note": "dual"
   }
  },
@@ -9301,11 +9343,9 @@
   "note": "single, checked",
   "tried": "2026-11-25",
   "second": {
-   "attempts": 0,
-   "need": [
-    "https://www.hssh.tp.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9MelExTDNCMFlWODFPRFUzTlY4NU1qY3lNVFF4WHpjM05URTVMbkJrWmc9PQ==&fname=WSGGIGGHMK00OOMPHCLKUSZWKKMOOOKKDGUWSS20A1IDCCFCSSECVTPOUSSSPKPO",
-    "https://reurl.cc/EYD9YR"
-   ]
+   "attempts": 1,
+   "tried": "2026-11-26",
+   "note": "dual"
   }
  },
  {
@@ -9571,7 +9611,12 @@
   "attempts": 1,
   "record": "2026-bangkok-intl-invention-fair",
   "note": "single, checked",
-  "tried": "2026-11-25"
+  "tried": "2026-11-25",
+  "second": {
+   "attempts": 1,
+   "tried": "2026-11-26",
+   "note": "disputed"
+  }
  },
  {
   "key": "c0301",
@@ -10031,16 +10076,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null,
-  "need": [
-   "https://afl.ltu.edu.tw/",
-   "https://www.cksh.tp.edu.tw/wp-content/uploads/doc/cg317/「2026全國高中職暨大專院校台灣私房景點介紹英／日文簡報比賽」2.png",
-   "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/「2026全國高中職暨大專院校台灣私房景點介紹英／日文簡報比賽」.pdf",
-   "https://www.mlaivs.mlc.edu.tw/ischool/news/attached/26650/1150007709_1.png"
-  ]
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-ltu-taiwan-hidden-spots",
+  "note": "single, checked",
+  "tried": "2026-11-26"
  },
  {
   "key": "c0315",
@@ -10106,16 +10146,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-25",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null,
-  "need": [
-   "https://aecyut.cyut.edu.tw/p/406-1039-66700,r106.php?Lang=zh-tw",
-   "https://www.mlsh.mlc.edu.tw/ischool/news/attached/28160/%E7%B0%A1%E7%AB%A0.pdf",
-   "https://www.mlaivs.mlc.edu.tw/ischool/news/attached/26654/1150007749_1.pdf",
-   "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/第10屆朝陽科技大學應用英語系全國校園創意短片比賽.pdf"
-  ]
+  "status": "done",
+  "attempts": 1,
+  "record": "2027-cyut-ae-short-film",
+  "note": "single, checked",
+  "tried": "2026-11-26"
  },
  {
   "key": "c0316",
@@ -10241,15 +10276,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-25",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null,
-  "need": [
-   "https://www.kmsh.km.edu.tw/ischool/news/attached/22272/A10130000U0000000_%E9%99%84%E4%BB%B62-%E5%85%92%E7%AB%A5%E7%B9%AA%E6%9C%AC%E5%89%B5%E4%BD%9C%EF%BC%88%E5%90%AB%E5%A0%B1%E5%90%8D%E8%A1%A8%EF%BC%89007851.pdf",
-   "https://drive.google.com/file/d/1S8HUr2opa4poOdAsArZCO9aWbmw7aola/view?usp=sharing",
-   "https://ecce.ukn.edu.tw/"
-  ]
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-ukn-children-literature-award",
+  "note": "single, checked",
+  "tried": "2026-11-26"
  },
  {
   "key": "c0320",
@@ -10279,7 +10310,12 @@
   "attempts": 1,
   "record": "2027-k12-tobacco-betel-video",
   "note": "single, checked",
-  "tried": "2026-11-25"
+  "tried": "2026-11-25",
+  "second": {
+   "attempts": 1,
+   "tried": "2026-11-26",
+   "note": "dual"
+  }
  },
  {
   "key": "c0321",
@@ -10315,17 +10351,47 @@
     "url": "https://www.fhsh.khc.edu.tw/aa/news-aa/20261002/46537",
     "role": "announcement",
     "name": "鳳新高中 營隊競賽"
+   },
+   {
+    "url": "https://www.wdasec.gov.tw/News_Content.aspx?n=BD34663BD4EC9F4C&sms=535E01AC52EFB5A7&s=AEBA0907E929B76D",
+    "role": "rules",
+    "name": ""
+   },
+   {
+    "url": "https://ws.wda.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMzMxL3JlbGZpbGUvOTc2Ny8xOTQ5NDMvMTg3MTMyZDMtMDkwYS00NWYxLTk3YTAtYTEyYWE2NWUxYjQ5LnBkZg%3d%3d&n=MTE25bm05bqm5YWo5ZyL5oqA6IO956u26LO95a%2bm5pa96KiI55WrLnBkZg%3d%3d",
+    "role": "rules",
+    "name": ""
+   },
+   {
+    "url": "https://ws.wda.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMzMxL3JlbGZpbGUvMTAyNDgvMTk2NTQyL2VjMDBmOGZmLTAxMGUtNGQzNy05ZDFjLWExYjU1YTAzNDM3ZC5wZGY%3d&n=56ysNTflsYblhajlnIvmioDog73nq7bos73ljJfljYDliIbljYDmioDog73nq7bos73nsKHnq6AucGRm",
+    "role": "rules",
+    "name": ""
+   },
+   {
+    "url": "https://ws.wda.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMzMxL3JlbGZpbGUvMTAyNDgvMTk2NTQyLzMxZGJiMDc5LTgyMTAtNGRiYi04MGNkLTMxZjQ4ZGE4YWRmNi5wZGY%3d&n=56ysNTflsYblhajlnIvmioDog73nq7bos73kuK3ljYDliIbljYDmioDog73nq7bos73nsKHnq6AucGRm",
+    "role": "rules",
+    "name": ""
+   },
+   {
+    "url": "https://ws.wda.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMzMxL3JlbGZpbGUvMTAyNDgvMTk2NTQyL2YzODY0NTFkLTEzZTMtNGJmMS1iYTA4LTU1OGVhZTE1ZmZhMC5wZGY%3d&n=56ysNTflsYblhajlnIvmioDog73nq7bos73ljZfljYDliIbljYDmioDog73nq7bos73nsKHnq6AucGRm",
+    "role": "rules",
+    "name": ""
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "search",
+  "status": "done",
   "attempts": 1,
   "record": "2027-national-skills-competition",
-  "note": "single, unverified",
-  "tried": "2026-11-25",
-  "after_search": "done"
+  "note": "single, checked",
+  "tried": "2026-11-26",
+  "searched": "2026-11-26",
+  "second": {
+   "attempts": 1,
+   "tried": "2026-11-26",
+   "note": "dual"
+  }
  },
  {
   "key": "c0323",
@@ -10432,8 +10498,8 @@
   "note": "single, checked",
   "tried": "2026-11-24",
   "second": {
-   "attempts": 1,
-   "tried": "2026-11-24",
+   "attempts": 2,
+   "tried": "2026-11-26",
    "note": "dual"
   }
  },
@@ -10481,13 +10547,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null,
-  "need": [
-   "https://hsinchuyouthdream.com/"
-  ]
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-hsinchu-youth-video-city-art",
+  "note": "single, checked",
+  "tried": "2026-11-26"
  },
  {
   "key": "c0329",
@@ -10522,7 +10586,12 @@
   "attempts": 1,
   "record": "2027-ntpc-ai-p-literacy-challenge",
   "note": "single, checked",
-  "tried": "2026-11-25"
+  "tried": "2026-11-25",
+  "second": {
+   "attempts": 1,
+   "tried": "2026-11-26",
+   "note": "dual"
+  }
  },
  {
   "key": "c0330",
@@ -10563,17 +10632,37 @@
     "url": "https://www.ttsh.tp.edu.tw/news/%e8%90%ac%e8%83%bd%e5%ad%b8%e6%a0%a1%e8%b2%a1%e5%9c%98%e6%b3%95%e4%ba%ba%e8%90%ac%e8%83%bd%e7%a7%91%e6%8a%80%e5%a4%a7%e5%ad%b8%e5%8c%96%e5%a6%9d%e5%93%81%e6%87%89%e7%94%a8%e8%88%87%e7%ae%a1%e7%90%86/",
     "role": "announcement",
     "name": "大同高中 學生競賽活動"
+   },
+   {
+    "url": "https://www.nknush.kh.edu.tw/wp-content/uploads/sites/129/2026/09/「2026全國新穎化妝品調製競賽」.pdf",
+    "role": "rules",
+    "name": ""
+   },
+   {
+    "url": "https://www.sssh.tyc.edu.tw/view-doc/35/1151200783_1_全國新穎化妝品調製競賽海報.pdf",
+    "role": "rules",
+    "name": ""
+   },
+   {
+    "url": "https://drive.google.com/file/d/1O1TIo08Vt0godVb6prAWBMy-IMR5B0Us/view?usp=sharing",
+    "role": "rules",
+    "name": ""
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "search",
+  "status": "done",
   "attempts": 1,
   "record": "2026-vnu-cosmetics-formulation",
   "note": "single, unverified",
-  "tried": "2026-11-25",
-  "after_search": "done"
+  "tried": "2026-11-26",
+  "searched": "2026-11-26",
+  "second": {
+   "attempts": 1,
+   "tried": "2026-11-26",
+   "note": "dual"
+  }
  },
  {
   "key": "c0331",
@@ -10634,13 +10723,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null,
-  "need": [
-   "https://www.aerc1988.com.tw"
-  ]
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-aerc-ksu",
+  "note": "single, checked",
+  "tried": "2026-11-26"
  },
  {
   "key": "c0334",
@@ -10736,13 +10823,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null,
-  "need": [
-   "https://drive.google.com/file/d/1ijegHA_062EIRJij7ikNZWqIWieD_lyl/view?usp=sharing"
-  ]
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-aerc-ksu",
+  "note": "single, checked",
+  "tried": "2026-11-26"
  },
  {
   "key": "c0338",
@@ -10873,10 +10958,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-kinmen-youth-literature-award",
+  "note": "single, checked",
+  "tried": "2026-11-26"
  },
  {
   "key": "c0343",
@@ -10892,10 +10978,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
+  "status": "skipped",
+  "attempts": 1,
   "record": null,
-  "note": null
+  "note": "高雄市女童軍會辦理的國際女孩日活動，為各女童軍團報名參加的半日活動（115年10月18日於陽明國中），旨在透過活動參與喚起女童軍自我意識；文件未載評審、名次或獎項，非競賽。",
+  "tried": "2026-11-26"
  },
  {
   "key": "c0344",
@@ -10911,10 +10998,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
+  "status": "skipped",
+  "attempts": 1,
   "record": null,
-  "note": null
+  "note": "活動對象限全國公私立小學三年級到六年級學生，高中職學生不能報名。",
+  "tried": "2026-11-26"
  },
  {
   "key": "c0345",
@@ -10935,10 +11023,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
+  "status": "skipped",
+  "attempts": 1,
   "record": null,
-  "note": null
+  "note": "「2027創意畢業季」是中原文創園區徵求學校畢業展、成果展進駐展出的場地申請，審查只決定獲選展出單位，未設名次、獎項或獎狀，屬展覽而非競賽。",
+  "tried": "2026-11-26"
  },
  {
   "key": "c0346",
@@ -10954,10 +11043,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-hk-hongyi-innovation",
+  "note": "single, checked",
+  "tried": "2026-11-26"
  },
  {
   "key": "c0347",
@@ -10988,10 +11078,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-ltu-ai-kids-rhythm-go",
+  "note": "single, checked",
+  "tried": "2026-11-26"
  },
  {
   "key": "c0348",
@@ -11002,15 +11093,42 @@
     "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=22244",
     "role": "announcement",
     "name": "金門高中 最新消息"
+   },
+   {
+    "url": "https://www.wdasec.gov.tw/News_Content.aspx?n=338EAE7851985E1C&sms=8D2612FA39DF1586&s=15195C8E0CE15239",
+    "role": "rules",
+    "name": ""
+   },
+   {
+    "url": "https://ws.wda.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMzMxL3JlbGZpbGUvMTAyNDgvMTk0NzM4LzY0MWUzZGY1LTA0OWMtNGZlNi1hZTI1LTg4MGU0NTIzM2UxNC5wZGY%3d&n=56ysMTnlsYblhajlnIvouqvlv4PpmpznpJnogIXmioDog73nq7bos73mmqjnrKwxMeWxhuWci%2bmam%2bWxleiDveevgOiBt%2balreaKgOiDveertuizveWci%2baJi%2bmBuOaLlOizveewoeeroCgxMTUuMDkuMTjkv64pLnBkZg%3d%3d",
+    "role": "rules",
+    "name": ""
+   },
+   {
+    "url": "https://www.wdasec.gov.tw/News_Content.aspx?n=338EAE7851985E1C&sms=8D2612FA39DF1586&s=B82A30CF650C61D8",
+    "role": "rules",
+    "name": ""
+   },
+   {
+    "url": "https://ws.wda.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMzMxL3JlbGZpbGUvMTAyNDgvMTg3NTA0LzVmZTBiODFjLTkzMWMtNDAzZS1hNWZjLWU3YThmMmM0NzkwNi5wZGY%3d&n=56ysMTnlsYblhajlnIvouqvlv4PpmpznpJnogIXmioDog73nq7bos73mmqjnrKwxMeWxhuWci%2bmam%2bWxleiDveevgOiBt%2balreaKgOiDveertuizveWvpuaWveioiOeVqy5wZGY%3d",
+    "role": "rules",
+    "name": ""
+   },
+   {
+    "url": "https://www.wdasec.gov.tw/News_Content.aspx?n=338EAE7851985E1C&sms=8D2612FA39DF1586&s=0B846D526C90DE49",
+    "role": "rules",
+    "name": ""
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-disability-skills-competition",
+  "note": "single, checked",
+  "tried": "2026-11-26",
+  "searched": "2026-11-26"
  },
  {
   "key": "c0349",
@@ -11026,10 +11144,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
+  "status": "skipped",
+  "attempts": 1,
   "record": null,
-  "note": null
+  "note": "文件為承辦學校公告的「更換選手與指導教師作業說明」，內容只有更換程序與期限，不是競賽的實施計畫或簡章，也沒有連結可取得實施計畫，無法據以寫出競賽內容、報名方式與獎勵。",
+  "tried": "2026-11-26"
  },
  {
   "key": "c0350",
@@ -11070,10 +11189,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-fy-sdl-presentation",
+  "note": "single, checked",
+  "tried": "2026-11-26"
  },
  {
   "key": "c0351",
@@ -11084,15 +11204,22 @@
     "url": "https://www.ntsh.ntct.edu.tw/ischool/public/news_view/show.php?nid=22876",
     "role": "announcement",
     "name": "南投高中 最新消息"
+   },
+   {
+    "url": "https://dmd.tpcu.edu.tw/p/406-1034-89561,r776.php?Lang=zh-tw",
+    "role": "rules",
+    "name": ""
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-tpcu-indigenous-character-design",
+  "note": "single, checked",
+  "tried": "2026-11-26",
+  "searched": "2026-11-26"
  },
  {
   "key": "c0352",
@@ -11123,10 +11250,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-takming-smart-sustainable-tour",
+  "note": "single, checked",
+  "tried": "2026-11-26"
  },
  {
   "key": "c0353",
@@ -11187,10 +11315,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-25",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-amc-10-12",
+  "note": "single, checked",
+  "tried": "2026-11-26"
  },
  {
   "key": "c0354",
@@ -11206,10 +11335,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
+  "status": "skipped",
+  "attempts": 1,
   "record": null,
-  "note": null
+  "note": "臺北市立成功高級中學校內海報甄選，參賽對象限現具本校學籍之學生，屬單一學校校內比賽，不收錄。",
+  "tried": "2026-11-26"
  },
  {
   "key": "c0355",
@@ -11235,10 +11365,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-chihlee-trade-ecommerce-quiz",
+  "note": "single, checked",
+  "tried": "2026-11-26"
  },
  {
   "key": "c0356",
@@ -11269,10 +11400,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-ivy-cup-fall",
+  "note": "single, checked",
+  "tried": "2026-11-26"
  },
  {
   "key": "c0357",
@@ -11303,10 +11435,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-grandvision-character-ambassador",
+  "note": "single, checked",
+  "tried": "2026-11-26"
  },
  {
   "key": "c0358",
@@ -11342,10 +11475,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-moc-youth-comics-award",
+  "note": "single, checked",
+  "tried": "2026-11-26"
  },
  {
   "key": "c0359",
@@ -11366,10 +11500,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-25",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-digital-storytelling-film-festival",
+  "note": "single, checked",
+  "tried": "2026-11-26"
  },
  {
   "key": "c0360",
@@ -11390,10 +11525,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-taichung-zhongshan-hall-live-show",
+  "note": "single, checked",
+  "tried": "2026-11-26"
  },
  {
   "key": "c0361",
@@ -11414,10 +11550,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-hk-smart-green-baking",
+  "note": "single, checked",
+  "tried": "2026-11-26"
  },
  {
   "key": "c0362",
@@ -11428,6 +11565,26 @@
     "url": "https://www.mlaivs.mlc.edu.tw/ischool/public/news_view/show.php?nid=26515",
     "role": "announcement",
     "name": "苗栗農工 處室公告"
+   },
+   {
+    "url": "https://www.aerc1988.com.tw/custom_cg46944.html",
+    "role": "rules",
+    "name": ""
+   },
+   {
+    "url": "https://www.aerc1988.com.tw/custom_106781.html",
+    "role": "rules",
+    "name": ""
+   },
+   {
+    "url": "https://www.aerc1988.com.tw/custom_cg51089.html",
+    "role": "rules",
+    "name": ""
+   },
+   {
+    "url": "https://www.aerc1988.com.tw/custom_101143.html",
+    "role": "rules",
+    "name": ""
    }
   ],
   "seen_in": "discover",
@@ -11435,8 +11592,17 @@
   "last_seen": "2026-11-24",
   "status": "new",
   "attempts": 0,
-  "record": null,
-  "note": null
+  "record": "2026-aerc-ksu",
+  "note": "search found 4 documents",
+  "tried": "2026-11-26",
+  "searched": "2026-11-26",
+  "need": [
+   "https://www.aerc1988.com.tw/upload_attach/1788323048.pdf",
+   "https://www.aerc1988.com.tw/custom_101145.html",
+   "https://www.aerc1988.com.tw/custom_101144.html",
+   "https://drive.google.com/drive/folders/1NjVRSqtzfjeqQHWxYN0VyBOlWqocQJxC?usp=sharing",
+   "https://www.aerc1988.com.tw/custom_cg46929.html"
+  ]
  },
  {
   "key": "c0363",
@@ -11457,10 +11623,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-aerc-ksu",
+  "note": "single, checked",
+  "tried": "2026-11-26"
  },
  {
   "key": "c0364",
@@ -11476,10 +11643,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-tut-dreamer-culinary-invitational",
+  "note": "single, checked",
+  "tried": "2026-11-26"
  },
  {
   "key": "c0365",
@@ -11580,10 +11748,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-25",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-nptu-i-am-the-successor",
+  "note": "single, checked",
+  "tried": "2026-11-26"
  },
  {
   "key": "c0366",
@@ -11599,10 +11768,12 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "search",
+  "attempts": 1,
+  "record": "2026-national-language-contest",
+  "note": "single, unverified",
+  "tried": "2026-11-26",
+  "after_search": "done"
  },
  {
   "key": "c0367",
@@ -11623,10 +11794,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-national-tax-master",
+  "note": "single, checked",
+  "tried": "2026-11-26"
  },
  {
   "key": "c0368",
@@ -11642,10 +11814,12 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-national-tax-master",
+  "note": "joined 2026-national-tax-master; its reading kept (checked)",
+  "tried": "2026-11-26",
+  "joined": true
  },
  {
   "key": "c0369",
@@ -11656,15 +11830,22 @@
     "url": "https://www.kmsh.km.edu.tw/ischool/public/news_view/show.php?nid=22227",
     "role": "announcement",
     "name": "金門高中 最新消息"
+   },
+   {
+    "url": "https://www.kmsh.km.edu.tw/ischool/news/attached/22227/%E8%8F%B8%E5%AE%B3%E5%8F%8A%E6%AA%B3%E6%A6%94%E9%98%B2%E6%B2%BBAI%E5%BD%B1%E7%89%87%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.pdf",
+    "role": "rules",
+    "name": ""
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-kinmen-ai-betel-tobacco-video",
+  "note": "single, checked",
+  "tried": "2026-11-26",
+  "searched": "2026-11-26"
  },
  {
   "key": "c0370",
@@ -11680,16 +11861,37 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-apcys-taiwan-selection",
+  "note": "single, checked",
+  "tried": "2026-11-26"
  },
  {
   "key": "c0371",
   "title": "2026全國大專暨高中職學生專題製作競賽暨成果展示",
   "deadline": null,
   "urls": [
+   {
+    "url": "https://forms.gle/uusf7zUsoRu26RLv6",
+    "role": "rules",
+    "name": ""
+   },
+   {
+    "url": "https://ord.nfu.edu.tw/",
+    "role": "rules",
+    "name": ""
+   },
+   {
+    "url": "https://www.hgsh.hc.edu.tw/view-doc/6/獎金分配表.pdf",
+    "role": "rules",
+    "name": ""
+   },
+   {
+    "url": "https://www.hgsh.hc.edu.tw/view-doc/6/競賽實施辦法.pdf",
+    "role": "rules",
+    "name": ""
+   },
    {
     "url": "https://www.ccsh.ptc.edu.tw/data.php?id=19010&tpl=5",
     "role": "announcement",
@@ -11734,10 +11936,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-25",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-nfu-student-project",
+  "note": "single, checked",
+  "tried": "2026-11-26"
  },
  {
   "key": "c0372",
@@ -11798,10 +12001,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-25",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2027-trpec-chinese-cup",
+  "note": "single, checked",
+  "tried": "2026-11-26"
  },
  {
   "key": "c0373",
@@ -11817,10 +12021,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2027-kuayue-english-vocabulary",
+  "note": "single, checked",
+  "tried": "2026-11-26"
  },
  {
   "key": "c0374",
@@ -11921,10 +12126,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-25",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-ntsec-science-esp",
+  "note": "single, checked",
+  "tried": "2026-11-26"
  },
  {
   "key": "c0375",
@@ -11965,10 +12171,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-25",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-sustainable-light-environment",
+  "note": "single, checked",
+  "tried": "2026-11-26"
  },
  {
   "key": "c0376",
@@ -12014,10 +12221,16 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-25",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-nsysu-biweekly-math-problem",
+  "note": "single, checked",
+  "tried": "2026-11-26",
+  "second": {
+   "attempts": 1,
+   "tried": "2026-11-26",
+   "note": "disputed"
+  }
  },
  {
   "key": "c0377",
@@ -12108,16 +12321,38 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-25",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-mcu-fintech-etf",
+  "note": "joined 2026-mcu-fintech-etf; its reading kept (checked)",
+  "tried": "2026-11-26",
+  "joined": true
  },
  {
   "key": "c0378",
   "title": "ETF模擬交易實戰競賽",
   "deadline": null,
   "urls": [
+   {
+    "url": "https://etf.mcu.edu.tw/",
+    "role": "rules",
+    "name": ""
+   },
+   {
+    "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33617/0914%E7%AC%AC%E4%BA%8C%E5%B1%86%E9%8A%98%E5%82%B3%E9%87%91%E8%9E%8D%E7%A7%91%E6%8A%80%E7%9B%83ETF%E6%A8%A1%E6%93%AC%E4%BA%A4%E6%98%93%E5%AF%A6%E6%88%B0%E7%AB%B6%E8%B3%BD%E4%BE%86%E6%96%87.pdf",
+    "role": "rules",
+    "name": ""
+   },
+   {
+    "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33617/0914%E7%AC%AC%E4%BA%8C%E5%B1%86%E9%8A%98%E5%82%B3%E9%87%91%E8%9E%8D%E7%A7%91%E6%8A%80%E7%9B%83ETF%E6%A8%A1%E6%93%AC%E4%BA%A4%E6%98%93%E5%AF%A6%E6%88%B0%E7%AB%B6%E8%B3%BD%E6%B5%B7%E5%A0%B1-%E9%AB%98%E4%B8%AD%E8%81%B7.pdf",
+    "role": "rules",
+    "name": ""
+   },
+   {
+    "url": "https://www.pshs.ntct.edu.tw/ischool/news/attached/33617/0914%E7%AC%AC%E4%BA%8C%E5%B1%86%E9%8A%98%E5%82%B3%E9%87%91%E8%9E%8D%E7%A7%91%E6%8A%80%E7%9B%83ETF%E6%A8%A1%E6%93%AC%E4%BA%A4%E6%98%93%E5%AF%A6%E6%88%B0%E7%AB%B6%E8%B3%BD%E6%B5%B7%E5%A0%B1.pdf",
+    "role": "rules",
+    "name": ""
+   },
    {
     "url": "https://www.pshs.ntct.edu.tw/ischool/public/news_view/show.php?nid=33617",
     "role": "announcement",
@@ -12127,10 +12362,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-mcu-fintech-etf",
+  "note": "single, checked",
+  "tried": "2026-11-26"
  },
  {
   "key": "c0379",
@@ -12151,10 +12387,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
+  "status": "skipped",
+  "attempts": 1,
   "record": null,
-  "note": null
+  "note": "文件僅為學校轉知教育部增列芭蕾賽事的公告，只有縣市初賽與決賽的月份；所附「115學年度全國學生舞蹈比賽實施要點」未附連結，文件未載參賽資格、報名方式與期限，也無主辦單位的比賽網頁可連結。",
+  "tried": "2026-11-26"
  },
  {
   "key": "c0380",
@@ -12175,10 +12412,12 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-25",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-ukmt-smc",
+  "note": "joined 2026-ukmt-smc; its reading kept (checked)",
+  "tried": "2026-11-26",
+  "joined": true
  },
  {
   "key": "c0381",
@@ -12219,10 +12458,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-25",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-golden-shield-cybersecurity",
+  "note": "single, checked",
+  "tried": "2026-11-26"
  },
  {
   "key": "c0382",
@@ -12238,10 +12478,12 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "search",
+  "attempts": 1,
+  "record": "2027-tzuchi-pagamo-taipei-pk",
+  "note": "single, unverified",
+  "tried": "2026-11-26",
+  "after_search": "done"
  },
  {
   "key": "c0383",
@@ -12260,7 +12502,11 @@
   "status": "new",
   "attempts": 0,
   "record": null,
-  "note": null
+  "note": null,
+  "need": [
+   "https://drive.google.com/file/d/1eNiWySLc9JfMKK5pMvf1xq2bP2vj2LWU/view",
+   "https://esports.pagamo.org/register/2026tzuchi_ep_worldcup_taiwan/information"
+  ]
  },
  {
   "key": "c0384",
@@ -12276,10 +12522,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-subject-competition-region2-semifinal",
+  "note": "single, checked",
+  "tried": "2026-11-26"
  },
  {
   "key": "c0385",
@@ -12325,10 +12572,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-ntnu-gosteam-tech-star",
+  "note": "single, checked",
+  "tried": "2026-11-26"
  },
  {
   "key": "c0386",
@@ -12344,10 +12592,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-guanyin-cup-calligraphy",
+  "note": "single, checked",
+  "tried": "2026-11-26"
  },
  {
   "key": "c0387",
@@ -12363,10 +12612,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
+  "status": "skipped",
+  "attempts": 1,
   "record": null,
-  "note": null
+  "note": "文件僅為武陵高中公告校內學生報名數、物、化、生奧林匹亞競賽初選考試的名單與搭車事項，未含主辦單位的競賽簡章或規則，且連結中沒有簡章文件。",
+  "tried": "2026-11-26"
  },
  {
   "key": "c0388",
@@ -12385,7 +12635,11 @@
   "status": "new",
   "attempts": 0,
   "record": null,
-  "note": null
+  "note": null,
+  "need": [
+   "https://www.hc.edu.tw/language_art/",
+   "http://studentdance.perdc.ntnu.edu.tw"
+  ]
  },
  {
   "key": "c0389",
@@ -12401,10 +12655,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-hsinchu-city-student-music",
+  "note": "single, checked",
+  "tried": "2026-11-26"
  },
  {
   "key": "c0390",
@@ -12420,10 +12675,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-hsinchu-city-creative-drama",
+  "note": "single, checked",
+  "tried": "2026-11-26"
  },
  {
   "key": "c0391",
@@ -12442,7 +12698,13 @@
   "status": "new",
   "attempts": 0,
   "record": null,
-  "note": null
+  "note": null,
+  "need": [
+   "https://www.mlaivs.mlc.edu.tw/ischool/news/attached/26034/1150006116_1.pdf",
+   "https://www.mlaivs.mlc.edu.tw/ischool/news/attached/26034/1150006116_2.pdf",
+   "https://www.mlaivs.mlc.edu.tw/ischool/news/attached/26034/1150006116_3.xlsx",
+   "https://www.mlaivs.mlc.edu.tw/ischool/news/attached/26034/1150006116_4.doc"
+  ]
  },
  {
   "key": "c0392",
@@ -12458,10 +12720,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-hsinchu-city-student-art-prelim",
+  "note": "single, checked",
+  "tried": "2026-11-26"
  },
  {
   "key": "c0393",
@@ -12497,10 +12760,12 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-national-student-dance",
+  "note": "joined 2026-national-student-dance; its reading kept (verified)",
+  "tried": "2026-11-26",
+  "joined": true
  },
  {
   "key": "c0394",
@@ -12516,10 +12781,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-taichung-student-dance-prelim",
+  "note": "single, checked",
+  "tried": "2026-11-26"
  },
  {
   "key": "c0395",
@@ -12535,10 +12801,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-tainan-student-dance",
+  "note": "single, checked",
+  "tried": "2026-11-26"
  },
  {
   "key": "c0396",
@@ -12559,10 +12826,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-moa-pet-grooming",
+  "note": "single, checked",
+  "tried": "2026-11-26"
  },
  {
   "key": "c0397",
@@ -12586,7 +12854,13 @@
   "status": "new",
   "attempts": 0,
   "record": null,
-  "note": null
+  "note": null,
+  "need": [
+   "https://tpmso.k12ea.gov.tw/twicho/index.php/2026/09/11/8190/",
+   "https://dlsh.tc.edu.tw/app/index.php?Action=downloadfile&file=UmgyZjQzUmFSUERoMGtTaGxBVmlWaDM5TVMwdGF0V2ROQ05SN0tuNjNsTmJ0TzNwYkluTzJoaHV3amhWWnlRcnNFbGltWDFwWUNVSU15SG41amRmcmZPekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=NmVrQXRkNURhYy9lTnhQNmQ0VFBlVExwd1ZWdDFtM3JqZkFuQ1RkeGwxWT0=",
+   "https://tpmso.k12ea.gov.tw/twicho/index.php/timeline/",
+   "https://tpmso.k12ea.gov.tw/twicho/index.php/2026/10/06/8269/"
+  ]
  },
  {
   "key": "c0398",
@@ -12607,10 +12881,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-25",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-tw-biology-olympiad",
+  "note": "single, checked",
+  "tried": "2026-11-26"
  },
  {
   "key": "c0399",
@@ -12636,10 +12911,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-25",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-ipho-apho-preliminary",
+  "note": "single, checked",
+  "tried": "2026-11-26"
  },
  {
   "key": "c0400",
@@ -12655,10 +12931,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-apcys-taiwan-selection",
+  "note": "single, checked",
+  "tried": "2026-11-26"
  },
  {
   "key": "c0401",
@@ -12717,7 +12994,15 @@
   "status": "new",
   "attempts": 0,
   "record": null,
-  "note": null
+  "note": null,
+  "need": [
+   "https://www.hccvs.hc.edu.tw/ischool/news/attached/26262/%E3%80%8C2027_WMI%E4%B8%96%E7%95%8C%E6%95%B8%E5%AD%B8%E9%82%80%E8%AB%8B%E8%B3%BD-%E8%87%BA%E7%81%A3%E9%81%B8%E6%8B%94%E8%B3%BD%E3%80%8D%E6%B4%BB%E5%8B%95%E8%A8%88%E7%95%AB%E6%9B%B8.pdf",
+   "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27892/%E3%80%8C2027WMI%E4%B8%96%E7%95%8C%E6%95%B8%E5%AD%B8%E9%82%80%E8%AB%8B%E8%B3%BD-%E8%87%BA%E7%81%A3%E9%81%B8%E6%8B%94%E8%B3%BD%E3%80%8D%E8%A8%88%E5%8A%83%E6%9B%B8.pdf",
+   "http://www.wlsh.tyc.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9MelEzTDNCMFlWODJNRE13TVY4eE9ETTNNRGN4WHpZeE9UVTJMbkJrWmc9PQ==&fname=14GGRPQKYW44TXYXIG04USMOZSB4GGMK20QKSSYSGGRL34SSFCB4LOSWB1OK20OKSS00CCYTFG24A4XT34KOIC3534RKB1MKVXYTLOB0SWMKRKUWDGCC24USYW4044XXFGNOJG14MKMOA1MOUSJCGGNPUTA1UT21LKUSCDTW14OKCDUSICCCA505DGFGIGYWYWJGSWLKQOROJDNOUTXT04SSDCMKVT54YSGGXXQKYW40CD54WWXSSXMORKPKA1IGWSJCXSGCGGGDGGSSZW30LOLLQO54FCSTLOPOZT05VS10A4WWIGZWTS14ECRKQLNK00JD31PKWSEC50A4SSOKHHTT",
+   "https://www.hssh.tp.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Memc1TDNCMFlWODFOemswTUY4MU5ERTBORGcwWHpVeU1EazFMbkJrWmc9PQ==&fname=DG54DCSSYW10YX00GGVWUSWT14PKUW35503435YWXXFDNLNL",
+   "https://www.hccvs.hc.edu.tw/ischool/news/attached/26262/%E3%80%8C2027_WMI%E4%B8%96%E7%95%8C%E6%95%B8%E5%AD%B8%E9%82%80%E8%AB%8B%E8%B3%BD-%E8%87%BA%E7%81%A3%E9%81%B8%E6%8B%94%E8%B3%BD%E3%80%8D%E6%B5%B7%E5%A0%B1.pdf",
+   "https://www.hccvs.hc.edu.tw/ischool/news/attached/26262/%E3%80%8C2027_WMI%E4%B8%96%E7%95%8C%E6%95%B8%E5%AD%B8%E9%82%80%E8%AB%8B%E8%B3%BD-%E8%87%BA%E7%81%A3%E9%81%B8%E6%8B%94%E8%B3%BD%E3%80%8D%E6%B5%B7%E5%A0%B12.pdf"
+  ]
  },
  {
   "key": "c0402",
@@ -12756,7 +13041,13 @@
   "status": "new",
   "attempts": 0,
   "record": null,
-  "note": null
+  "note": null,
+  "need": [
+   "https://www.hgsh.hc.edu.tw/view-doc/6/產品創新設計競賽簡章.pdf",
+   "https://www.tngs.tn.edu.tw/wp-content/uploads/sites/54/2026/09/產品創新設計競賽.pdf",
+   "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27975/%E7%94%A2%E5%93%81%E5%89%B5%E6%96%B0%E8%A8%AD%E8%A8%88%E7%AB%B6%E8%B3%BD%E7%B0%A1%E7%AB%A0.pdf",
+   "https://www.mlsh.mlc.edu.tw/ischool/news/attached/27975/%E5%85%AC%E6%96%87.pdf"
+  ]
  },
  {
   "key": "c0403",
@@ -12792,10 +13083,11 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-ksu-low-carbon-living",
+  "note": "single, checked",
+  "tried": "2026-11-26"
  },
  {
   "key": "c0404",
@@ -12811,10 +13103,12 @@
   "seen_in": "discover",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "status": "done",
+  "attempts": 1,
+  "record": "2026-ksu-low-carbon-living",
+  "note": "joined 2026-ksu-low-carbon-living; its reading kept (checked)",
+  "tried": "2026-11-26",
+  "joined": true
  },
  {
   "key": "c0405",
@@ -17380,11 +17674,16 @@
     "url": "https://www.hssh.tp.edu.tw/p/405-1000-51443,c540.php",
     "role": "announcement",
     "name": "西松高中 校外競賽公告"
+   },
+   {
+    "url": "https://www.chsh.chc.edu.tw/p/406-1009-197185,r70.php?Lang=zh-tw",
+    "role": "announcement",
+    "name": "彰化高中 競賽公告"
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-25",
+  "last_seen": "2026-11-26",
   "status": "new",
   "attempts": 0,
   "record": null,
@@ -18605,11 +18904,16 @@
     "url": "https://www.chsh.chc.edu.tw/p/406-1009-191227,r70.php?Lang=zh-tw",
     "role": "announcement",
     "name": "彰化高中 競賽公告"
+   },
+   {
+    "url": "https://www.chsh.chc.edu.tw/p/406-1009-191227,r70.php",
+    "role": "announcement",
+    "name": "彰化高中 競賽公告"
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-26",
   "status": "new",
   "attempts": 0,
   "record": null,
@@ -21356,11 +21660,16 @@
     "url": "https://www.tlsh.ylc.edu.tw/2026/11/25/69497/",
     "role": "announcement",
     "name": "斗六高中 營隊研習競賽"
+   },
+   {
+    "url": "https://www.cksh.tp.edu.tw/news/%e3%80%90%e8%bd%89%e7%9f%a5%e3%80%91-%e5%9c%8b%e7%ab%8b%e8%87%ba%e7%81%a3%e8%97%9d%e8%a1%93%e6%95%99%e8%82%b2%e9%a4%a8%e3%80%8c116%e5%b9%b4%e5%a5%bd%e5%84%aashow%e5%ad%b8%e7%94%9f%e8%97%9d%e5%9c%98/",
+    "role": "announcement",
+    "name": "成功高中 活動競賽"
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-25",
-  "last_seen": "2026-11-25",
+  "last_seen": "2026-11-26",
   "status": "new",
   "attempts": 0,
   "record": null,
@@ -21375,11 +21684,16 @@
     "url": "https://www.ttsh.tp.edu.tw/news/%e3%80%8c2027%e5%8f%b0%e5%8c%97%e7%87%88%e7%af%80%e3%80%8d%e5%85%a8%e5%9c%8b%e5%90%84%e7%b4%9a%e5%ad%b8%e6%a0%a1%e8%8a%b1%e7%87%88%e7%ab%b6%e8%b3%bd%e5%af%a6-%e6%96%bd%e8%a8%88%e7%95%ab/",
     "role": "announcement",
     "name": "大同高中 學生競賽活動"
+   },
+   {
+    "url": "https://www.cksh.tp.edu.tw/news/%e3%80%90%e8%bd%89%e7%9f%a5%e3%80%91-%e8%87%ba%e5%8c%97%e5%b8%82%e6%94%bf%e5%ba%9c%e6%95%99%e8%82%b2%e5%b1%80%e8%be%a6%e7%90%86%e3%80%8c2027%e5%8f%b0%e5%8c%97%e7%87%88%e7%af%80%e3%80%8d%e5%85%a8/",
+    "role": "announcement",
+    "name": "成功高中 活動競賽"
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-25",
-  "last_seen": "2026-11-25",
+  "last_seen": "2026-11-26",
   "status": "new",
   "attempts": 0,
   "record": null,
@@ -21388,21 +21702,52 @@
  {
   "key": "c0758",
   "title": "2027葉總繪盃全國高中職電腦繪圖競賽之未來之星",
-  "deadline": null,
+  "deadline": "2027-03-18",
   "urls": [
    {
     "url": "https://www.ttsh.tp.edu.tw/news/%e5%a4%a7%e8%91%89%e5%a4%a7%e5%ad%b8%e8%88%89%e8%be%a6%e3%80%8c2027%e8%91%89%e7%b8%bd%e7%b9%aa%e7%9b%83%e5%85%a8%e5%9c%8b%e9%ab%98%e4%b8%ad%e8%81%b7%e9%9b%bb%e8%85%a6%e7%b9%aa%e5%9c%96%e7%ab%b6/",
     "role": "announcement",
     "name": "大同高中 學生競賽活動"
+   },
+   {
+    "url": "https://www.mlsh.mlc.edu.tw/ischool/public/news_view/show.php?nid=28840",
+    "role": "announcement",
+    "name": "苗栗高中 學生校外營隊、活動、比賽"
+   },
+   {
+    "url": "https://www.scvs.ntpc.edu.tw/p/406-1000-16092,r28.php",
+    "role": "announcement",
+    "name": "三重商工 學生事務公告"
+   },
+   {
+    "url": "https://www.hccvs.hc.edu.tw/ischool/public/news_view/show.php?nid=26781",
+    "role": "announcement",
+    "name": "新竹高商 消息公佈欄"
+   },
+   {
+    "url": "https://www.tlsh.ylc.edu.tw/2026/11/25/69555/",
+    "role": "announcement",
+    "name": "斗六高中 營隊研習競賽"
+   },
+   {
+    "url": "https://www.tngs.tn.edu.tw/2026/11/25/%e5%a4%a7%e8%91%89%e5%a4%a7%e5%ad%b8%e8%88%89%e8%be%a6%e3%80%8c2027%e8%91%89%e7%b8%bd%e7%b9%aa%e7%9b%83%e5%85%a8%e5%9c%8b%e9%ab%98%e4%b8%ad%e8%81%b7%e9%9b%bb%e8%85%a6%e7%b9%aa%e5%9c%96%e7%ab%b6/",
+    "role": "announcement",
+    "name": "臺南女中 學生競賽"
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-25",
-  "last_seen": "2026-11-25",
-  "status": "new",
-  "attempts": 0,
-  "record": null,
-  "note": null
+  "last_seen": "2026-11-26",
+  "status": "done",
+  "attempts": 1,
+  "record": "2027-dyu-cg-future-star",
+  "note": "single, checked",
+  "tried": "2026-11-26",
+  "second": {
+   "attempts": 1,
+   "tried": "2026-11-26",
+   "note": "dual"
+  }
  },
  {
   "key": "c0759",
@@ -21437,11 +21782,16 @@
     "url": "https://www.sssh.tyc.edu.tw/news/%e7%ac%ac57%e5%b1%86%e5%85%a8%e5%9c%8b%e6%8a%80%e8%83%bd%e7%ab%b6%e8%b3%bd%e5%88%86%e5%8d%80%e6%8a%80%e8%83%bd%e7%ab%b6%e8%b3%bd/",
     "role": "announcement",
     "name": "壽山高中 校外競賽"
+   },
+   {
+    "url": "http://www.wlsh.tyc.edu.tw/p/406-1000-43700,r83.php?Lang=zh-tw",
+    "role": "announcement",
+    "name": "武陵高中 校外競賽"
    }
   ],
   "seen_in": "discover",
   "first_seen": "2026-11-25",
-  "last_seen": "2026-11-25",
+  "last_seen": "2026-11-26",
   "status": "new",
   "attempts": 0,
   "record": null,
@@ -21941,6 +22291,82 @@
   "seen_in": "discover",
   "first_seen": "2026-11-25",
   "last_seen": "2026-11-25",
+  "status": "new",
+  "attempts": 0,
+  "record": null,
+  "note": null
+ },
+ {
+  "key": "c0787",
+  "title": "115年教育部文藝創作獎",
+  "deadline": null,
+  "urls": [
+   {
+    "url": "https://www.ccsh.ptc.edu.tw/data.php?id=19339&tpl=5",
+    "role": "announcement",
+    "name": "潮州高中 學生課外活動"
+   }
+  ],
+  "seen_in": "discover",
+  "first_seen": "2026-11-26",
+  "last_seen": "2026-11-26",
+  "status": "new",
+  "attempts": 0,
+  "record": null,
+  "note": null
+ },
+ {
+  "key": "c0788",
+  "title": "武營大圖鑑 PaGamO 線上遊戲任務",
+  "deadline": null,
+  "urls": [
+   {
+    "url": "https://www.nkhs.tp.edu.tw/ischool/public/news_view/show.php?nid=35374",
+    "role": "announcement",
+    "name": "南港高工 重要資訊"
+   }
+  ],
+  "seen_in": "discover",
+  "first_seen": "2026-11-26",
+  "last_seen": "2026-11-26",
+  "status": "new",
+  "attempts": 0,
+  "record": null,
+  "note": null
+ },
+ {
+  "key": "c0789",
+  "title": "116年麥寶電波－廣播親近校園計畫",
+  "deadline": null,
+  "urls": [
+   {
+    "url": "https://tcfsh.tc.edu.tw/p/406-1076-653052,r4385.php",
+    "role": "announcement",
+    "name": "臺中一中 校外活動"
+   }
+  ],
+  "seen_in": "discover",
+  "first_seen": "2026-11-26",
+  "last_seen": "2026-11-26",
+  "status": "new",
+  "attempts": 0,
+  "record": null,
+  "note": null
+ },
+ {
+  "key": "c0790",
+  "title": "2026 新北校園多語開口行動比賽",
+  "deadline": null,
+  "urls": [
+   {
+    "url": "https://bhuntr.com/tw/competitions/qcgidqi17uyyl580av",
+    "role": "announcement",
+    "name": "獎金獵人 競賽平台"
+   }
+  ],
+  "seen_in": "discover",
+  "first_seen": "2026-11-26",
+  "last_seen": "2026-11-26",
   "status": "new",
   "attempts": 0,
   "record": null,

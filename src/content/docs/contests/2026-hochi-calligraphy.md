@@ -3,7 +3,7 @@ title: "第三屆全國書法比賽"
 description: "各級學生與社會大眾以「孝親報恩」或「和氣」相關詩詞書寫一幅書法作品參賽。"
 appliesTo: "第三屆 這一屆"
 caveat: "報名已於 2026-11-20 截止。"
-lastVerified: 2026-11-25
+lastVerified: 2026-11-26
 kind: "contest"
 deadline: "2026-11-20"
 sources:

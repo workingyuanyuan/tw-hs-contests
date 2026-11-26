@@ -3,7 +3,7 @@ title: "2026 南投市珍珠遊程設計全國競賽"
 description: "2 至 4 名高中職或大專學生組隊設計南投市一日遊程並繳交企劃書，入選決賽者須赴南投大戲院現場簡報。"
 appliesTo: "2026 這一屆"
 caveat: "報名已於 2026-11-23 17:00 截止。"
-lastVerified: 2026-11-25
+lastVerified: 2026-11-26
 kind: "contest"
 deadline: "2026-11-23"
 sources:

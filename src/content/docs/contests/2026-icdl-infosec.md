@@ -3,7 +3,7 @@ title: "2026 ICDL 資訊安全能力競賽"
 description: "大專及高中職學生個人報名，到成功大學參加 ICDL IT Security 資訊安全測驗競賽。"
 appliesTo: "2026 這一屆"
 caveat: "報名須繳費：優惠價 1500 元（ICDL 原廠認證費為 2480 元）。"
-lastVerified: 2026-11-25
+lastVerified: 2026-11-26
 kind: "contest"
 deadline: "2026-11-30"
 sources:

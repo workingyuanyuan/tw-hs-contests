@@ -3,7 +3,7 @@ title: "2027「第二十屆阿公店溪文學獎」"
 description: "國小至大專學生以大高雄地區為主題創作童詩或散文，並繳交電子檔與紙本稿件。"
 appliesTo: "第二十屆 這一屆"
 caveat: "日期與時間都是臺灣時間。"
-lastVerified: 2026-11-25
+lastVerified: 2026-11-26
 kind: "contest"
 deadline: "2027-01-31"
 sources:

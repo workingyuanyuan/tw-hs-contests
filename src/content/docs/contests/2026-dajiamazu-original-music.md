@@ -3,7 +3,7 @@ title: "2027大甲媽原創音樂"
 description: "1 至 6 人的樂團以任何曲風的原創歌曲參賽，比詞曲創意與演唱演奏。"
 appliesTo: "2027 這一屆"
 caveat: "報名須繳費：初賽每組 100 元；入圍決賽 15 強每組 1,200 元，晉級者扣除已繳初賽費用；繳費後不退費。"
-lastVerified: 2026-11-25
+lastVerified: 2026-11-26
 kind: "contest"
 deadline: "2026-12-09"
 sources:

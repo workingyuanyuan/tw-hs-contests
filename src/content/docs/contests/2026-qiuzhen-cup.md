@@ -3,7 +3,7 @@ title: "2026求真盃全國高中商管個案競賽"
 description: "高中職學生 4 至 6 人組隊，研討高科技業、製造業或商業服務業的企業個案並提出分析報告。"
 appliesTo: "2026 這一屆"
 caveat: "報名已於 2026-11-20 截止。"
-lastVerified: 2026-11-25
+lastVerified: 2026-11-26
 kind: "contest"
 deadline: "2026-11-20"
 sources:

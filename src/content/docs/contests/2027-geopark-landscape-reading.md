@@ -3,7 +3,7 @@ title: "第七屆臺灣地質公園學會讀景比賽"
 description: "高中職學生選一張臺灣地景照片，蒐集資料解讀與詮釋地景，撰寫自訂標題的讀景短文。"
 appliesTo: "第七屆 這一屆"
 caveat: "日期與時間都是臺灣時間。"
-lastVerified: 2026-11-25
+lastVerified: 2026-11-26
 kind: "contest"
 deadline: "2027-01-22"
 sources:

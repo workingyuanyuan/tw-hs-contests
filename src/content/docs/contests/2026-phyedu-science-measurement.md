@@ -3,7 +3,7 @@ title: "2026 第四屆全國科學量測競賽"
 description: "高中職學生 3 至 4 人組隊，限時設計物理量測實驗，分析數據與不確定度後口頭報告。"
 appliesTo: "第四屆 這一屆"
 caveat: "報名已於 2026-11-22 截止。"
-lastVerified: 2026-11-25
+lastVerified: 2026-11-26
 kind: "contest"
 deadline: "2026-11-22"
 sources:
