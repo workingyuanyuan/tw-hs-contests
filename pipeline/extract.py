@@ -113,6 +113,11 @@ def attachment_score(link, title_grams) -> int:
 URL_IN_TEXT = re.compile(r"https?://[^\s<>\"'，。、；：！？（）「」『』【】《》〈〉｜／]+", re.I)
 
 
+# Up to three short ASCII pieces right after an address: a short piece or one with a digit or URL punctuation
+PDF_PIECES = re.compile(r"(?:\s{1,2}(?:[A-Za-z0-9]{1,2}|[A-Za-z0-9]*[\-._~/?#=&%\d][A-Za-z0-9\-._~/?#=&%]*)"
+                        r"(?![^\s]*://)(?=\s|$|[^\x00-\x7f]|[),]))*")
+
+
 def printed_urls(text: str, links: list) -> list:
     """Addresses the text gives without a link, as links: an announcement often names the contest's
     site in a sentence (「同步公告於……（https://…）」). They are offered to the reader and never
@@ -120,7 +125,15 @@ def printed_urls(text: str, links: list) -> list:
     have = {l["url"] for l in links}
     found = []
     for m in URL_IN_TEXT.finditer(text):
-        for url in re.split(r",(?=https?://)", m.group(0), flags=re.I):
+        parts = re.split(r",(?=https?://)", m.group(0), flags=re.I)
+        # PDF text can break an address's path over spaces or lines (「https://x.com/news/v i ew/34」):
+        # offer the address as cut, then with each of up to three following ASCII pieces joined to it
+        last = parts[-1].rstrip(".,;:!?'")
+        if "/" in last.split("://", 1)[1]:
+            for piece in re.findall(r"\s{1,2}([A-Za-z0-9\-._~/?#=&%]+)", PDF_PIECES.match(text, m.end()).group(0)):
+                last += piece
+                parts.append(last)
+        for url in parts:
             url = url.rstrip(".,;:!?'")
             while url.endswith(")") and url.count("(") < url.count(")"):
                 url = url[:-1]
@@ -273,6 +286,14 @@ def reader_of(folder: Path) -> str:
     return re.sub(r"[^\w.:/@+-]", "", name)[:60] or "unknown"
 
 
+def as_checked(rec, task):
+    """The record as the checks see it before the script places it: found_via, which the script fills
+    from the announcement, holds the task's first document, so a record with no other link passes."""
+    if rec.get("found_via") != [] or not task.get("docs"):
+        return rec
+    return {**rec, "found_via": [{"name": urlparse(task["docs"][0]).netloc, "url": task["docs"][0]}]}
+
+
 def judge(folder: Path):
     """('record', rec, errors) | ('need', urls) | ('skip', reason) | ('none', message) | ('missing', None)."""
     out = folder / "out.json"
@@ -296,7 +317,7 @@ def judge(folder: Path):
     shutil.rmtree(tmp, ignore_errors=True)
     tmp.mkdir()
     path = tmp / f"{data['id']}.json"
-    path.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
+    path.write_text(json.dumps(as_checked(data, task), ensure_ascii=False, indent=2), encoding="utf-8")
     errors, _, _ = check(path, Cache(strict=True))
     return ("record", data, errors)
 

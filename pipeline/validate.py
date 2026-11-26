@@ -64,10 +64,15 @@ def passed(deadline, today: str = TODAY, now: str = NOW) -> bool:
 LOOKALIKES = re.compile(r"[\u2e80-\u2eff\u2f00-\u2fdf\uf900-\ufaff\U0002f800-\U0002fa1f]")
 
 
+# Zero-width characters some PDFs put between digits (「10\u200b月\u200b23」)
+ZERO_WIDTH = re.compile(r"[\u200b-\u200d\u2060\ufeff]")
+WIDE_DIGITS = str.maketrans("０１２３４５６７８９", "0123456789")
+
+
 def cjk_canon(text: str) -> str:
-    """The characters a reader types for those look-alikes (NFKC, one character at a time); nothing else
-    in the text changes."""
-    return LOOKALIKES.sub(lambda m: unicodedata.normalize("NFKC", m.group(0)), text)
+    """The characters a reader types for those look-alikes (NFKC, one character at a time), without
+    zero-width characters, which count as spaces; nothing else in the text changes."""
+    return ZERO_WIDTH.sub(" ", LOOKALIKES.sub(lambda m: unicodedata.normalize("NFKC", m.group(0)), text))
 
 
 def normalize(text: str) -> str:
@@ -106,7 +111,7 @@ class Cache:
 def date_in_quote(iso: str, quote: str) -> str:
     """'ok', 'no-year' or 'missing': do the month and day (and year) of iso appear in quote?"""
     y, m, d = (int(x) for x in iso.split("-"))
-    q = re.sub(r"\s+", " ", cjk_canon(quote))
+    q = re.sub(r"\s+", " ", cjk_canon(quote).translate(WIDE_DIGITS))  # 「11 月９日」
     md = re.search(rf"(?<!\d)0?{m}\s*[/\-.月]\s*0?{d}(?!\d)", q)
     if not md:
         return "missing"
@@ -179,7 +184,7 @@ def check_fact(name, fact, unknown, cache, errors, warnings):
             continue
         if "quote" in ev:
             quotes += 1
-            if normalize(ev["quote"]) not in text:
+            if len(normalize(ev["quote"])) < 2 or normalize(ev["quote"]) not in text:
                 errors.append(f"{name}: quote not found in the document: {ev['quote'][:40]}")
                 ok = False
     if basis == "quote" and quotes == 0:

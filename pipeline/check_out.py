@@ -40,7 +40,7 @@ if task["kind"] in ("triage", "search"):
     print("OK" if not errors else f"{len(errors)} errors")
     sys.exit(1 if errors else 0)
 
-from extract import reading_shape  # noqa: E402
+from extract import as_checked, reading_shape  # noqa: E402
 from validate import Cache, check  # noqa: E402
 
 kind, problems = reading_shape(rec, task)
@@ -55,7 +55,7 @@ folder = HERE / "check"
 shutil.rmtree(folder, ignore_errors=True)
 folder.mkdir()
 target = folder / f"{rec['id']}.json"
-shutil.copy(out, target)
+target.write_text(json.dumps(as_checked(rec, task), ensure_ascii=False, indent=2), encoding="utf-8")
 errors, warnings, level = check(target, Cache(strict=True))
 for e in errors:
     print("error:", e)
