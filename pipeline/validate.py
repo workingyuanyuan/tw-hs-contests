@@ -12,6 +12,7 @@ Exit code 1 when any record has an error.
 """
 import json
 import re
+import unicodedata
 import sys
 import os
 from datetime import date, datetime, timedelta, timezone
@@ -58,8 +59,20 @@ def passed(deadline, today: str = TODAY, now: str = NOW) -> bool:
     day, time = deadline
     return day < today or (day == today and bool(time) and bool(now) and time < now)
 
+# Look-alikes some PDFs carry in place of ideographs: CJK compatibility ideographs (「年」 for 「年」),
+# Kangxi radicals and CJK radical supplements (「⽣」 for 「生」)
+LOOKALIKES = re.compile(r"[\u2e80-\u2eff\u2f00-\u2fdf\uf900-\ufaff\U0002f800-\U0002fa1f]")
+
+
+def cjk_canon(text: str) -> str:
+    """The characters a reader types for those look-alikes (NFKC, one character at a time); nothing else
+    in the text changes."""
+    return LOOKALIKES.sub(lambda m: unicodedata.normalize("NFKC", m.group(0)), text)
+
+
 def normalize(text: str) -> str:
-    return re.sub(r"\s+", "", text)
+    # a quote matches whichever of the two forms it was written in
+    return re.sub(r"\s+", "", cjk_canon(text))
 
 
 class Cache:
@@ -93,7 +106,7 @@ class Cache:
 def date_in_quote(iso: str, quote: str) -> str:
     """'ok', 'no-year' or 'missing': do the month and day (and year) of iso appear in quote?"""
     y, m, d = (int(x) for x in iso.split("-"))
-    q = re.sub(r"\s+", " ", quote)
+    q = re.sub(r"\s+", " ", cjk_canon(quote))
     md = re.search(rf"(?<!\d)0?{m}\s*[/\-.月]\s*0?{d}(?!\d)", q)
     if not md:
         return "missing"

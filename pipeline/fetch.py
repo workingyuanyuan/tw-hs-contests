@@ -76,7 +76,11 @@ class Html(HTMLParser):
         if tag == "a":
             href = dict(attrs).get("href") or ""
             if href and not href.startswith(("javascript:", "mailto:", "tel:", "#")):
-                self._href, self._anchor = urljoin(self.base, href.strip()), []
+                try:  # 「http://https：//…」: a host no URL can have; the link is dropped, not the page
+                    self._href, self._anchor = urljoin(self.base, href.strip()), []
+                    urlparse(self._href)
+                except ValueError:
+                    self._href = None
         if tag == "img" and self._href is not None:
             alt = dict(attrs).get("alt")
             if alt:
@@ -129,7 +133,11 @@ def unwrap(url: str) -> str:
 def unique_links(links):
     seen, out = set(), []
     for link in links:
-        link = {**link, "url": unwrap(link["url"])}
+        try:
+            link = {**link, "url": unwrap(link["url"])}
+            urlparse(link["url"])  # a redirect's target can be malformed too
+        except ValueError:  # a host no URL can have (「http://https：//…」): drop the link, keep the page
+            continue
         if link["url"] not in seen:
             seen.add(link["url"])
             out.append(link)

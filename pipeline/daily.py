@@ -364,6 +364,7 @@ def reread(args):
                     "seen_in": "reread", "first_seen": rec["first_seen"], "last_seen": TODAY, "attempts": 0}
             queue.append(cand)
         cand.pop("need", None)
+        cand.pop("joined", None)  # it reads the record's own documents now
         cand.update(status="new", record=rid, attempts=0, urls=urls, note="重新讀取：用語未通過審讀")
         print(f"{rid}: queued ({cand['key']})")
     cq.save(queue)

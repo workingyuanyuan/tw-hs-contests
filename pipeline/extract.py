@@ -442,12 +442,14 @@ def place(rec, cand, readers, method, note):
     rid = rec["id"]
     path = CONTESTS / f"{rid}.json"
     first_seen = cand.get("first_seen") or TODAY
+    joined = None  # the record that a new candidate's reading joins
     if path.exists():
         old = json.loads(path.read_text(encoding="utf-8"))
         if cand.get("record") or same_edition(old, rec) and (
                 {cq.same_url(u) for u in cq.record_urls(old)} & cand_urls
                 or re.sub(r"\s+", "", old["title"]) == re.sub(r"\s+", "", rec["title"]) or same_contest_by_title(old, rec)):
             first_seen = min(old["first_seen"], first_seen)
+            joined = None if cand.get("record") else old
         else:
             n = 2
             while (CONTESTS / f"{rid}-{n}.json").exists():
@@ -468,6 +470,15 @@ def place(rec, cand, readers, method, note):
     errors, _, level = check_written(rec)
     if errors:
         raise ValueError("record fails after the script's fields were filled: " + errors[0])
+    if joined:
+        # Another announcement of a contest already recorded (a venue's, a school's): its reading replaces
+        # the record only when it is better verified. A school's summary must not replace the full rules.
+        old_errors, _, old_level = check(CONTESTS / f"{rid}.json", Cache())
+        rank = lambda lv, m: (LEVEL_RANK.get(lv, 3), METHOD_RANK.get(m, 2))
+        if not old_errors and rank(old_level, joined["verification"].get("method")) <= rank(level, method):
+            cand["joined"] = True  # its documents are not the record's: second_todo reads the record's own
+            return rid, old_level
+    cand.pop("joined", None)
     path.write_text(json.dumps(rec, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     (ROOT / "data/stale" / f"{rid}.json").unlink(missing_ok=True)  # set aside earlier, read again now
     # What the readers read is what pnpm upstream and the daily re-check compare with.
@@ -476,6 +487,7 @@ def place(rec, cand, readers, method, note):
 
 
 METHOD_RANK = {"dual": 0, "single": 1}
+LEVEL_RANK = {"verified": 0, "checked": 1, "unverified": 2}
 # Judgements on pairs of records that the rules cannot settle, written by `pnpm daily same` and
 # `pnpm daily distinct`: {"same": [[fuller, other], ...], "distinct": [[a, b], ...]}.
 JUDGED = ROOT / "data/same-contests.json"
@@ -579,7 +591,7 @@ def possible_duplicates() -> list:
     """Pairs of records that may describe one contest edition but that the rules of merge_duplicates
     leave apart, and that no judgement in data/same-contests.json settles: they share a contest page,
     or one's title (as same_contest_by_title compares titles) holds the other's and they share an
-    organizer; and their editions do not differ for certain (editions_differ). Several tracks,
+    organizer, or the titles are the same; and their editions do not differ for certain (editions_differ). Several tracks,
     divisions or stages of a contest share a page, and a stage's title often holds the contest's, so
     such a pair is judged (`pnpm daily same` or `distinct`), not merged. (Two records with the same
     title, edition and organizer are merged by merge_duplicates before this list is made, whatever
@@ -603,6 +615,8 @@ def possible_duplicates() -> list:
                 why = f"share {shared[0]}"
             elif len(ta) >= 4 and ta in tb and orgs(a) & orgs(b):
                 why = "one title holds the other, a shared organizer"
+            elif len(ta) >= 2 and ta == tb:  # an organizer written as its department (「勤益科大電機系」)
+                why = "the same title"
             else:
                 continue
             lines.append(f"{a['id']} | {b['id']}: {why}")
@@ -630,6 +644,9 @@ def finish_first(cand, folder: Path) -> str:
     cand["tried"] = TODAY
     if result[0] == "record" and not result[2]:
         rid, level = place(result[1], cand, [reader_of(folder)], "single", None)
+        if cand.get("joined"):  # another announcement of a record better verified: the record stays as it was
+            cand.update(status="done", record=rid, note=f"joined {rid}; its reading kept ({level})")
+            return f"joined: {rid} ({level}), the record kept"
         cand.update(status="done", record=rid, note=f"single, {level}")
         cand.pop("second", None)  # a new reading of the record: its second reading starts over
         if level == "unverified" and not cand.get("searched"):
@@ -700,7 +717,9 @@ def first_todo(queue, limit: int) -> list:
 def second_todo(queue, limit: int) -> list:
     """(candidate, record id) of open records read once, soonest deadline first, at most `limit`.
     A record with no candidate (read before the queue existed) gets one."""
-    by_record = {c["record"]: c for c in queue if c.get("record")}
+    # a candidate that only joined a record (extract.place) does not read it: its documents are another's
+    by_record = {c["record"]: c for c in queue if c.get("record") and not c.get("joined")}
+    pending = {c["record"] for c in queue if c.get("record") and c["status"] in ("new", "failed", "search")}
     todo = []
     for path in sorted(CONTESTS.glob("*.json")):
         rec = json.loads(path.read_text(encoding="utf-8"))
@@ -709,7 +728,7 @@ def second_todo(queue, limit: int) -> list:
         if v["method"] != "single" or len(v.get("readers") or []) >= 2 or (due and passed(due)):
             continue  # a second reading that left a key fact unconfirmed keeps the record single
         cand = by_record.get(rec["id"])
-        if cand and (cand["status"] in ("new", "failed", "search") or (cand.get("second") or {}).get("attempts", 0) >= cq.MAX_ATTEMPTS):
+        if rec["id"] in pending or cand and (cand.get("second") or {}).get("attempts", 0) >= cq.MAX_ATTEMPTS:
             continue  # being read again, or its second readings failed
         todo.append((due or ("9999-12-31", ""), rec))
     out = []
