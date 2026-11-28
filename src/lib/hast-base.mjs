@@ -19,3 +19,36 @@ export const hastBase = defineHastPlugin({
 		},
 	},
 });
+
+// GFM footnotes come out with an English heading ("Footnotes"), English back-link labels and
+// a "↩" glyph in the text. The heading is dropped (the twin has none, so the heading check
+// would fail) and its name moves to the section's aria-label in the page's language; the
+// glyph is drawn by CSS (`.data-footnote-backref::after`), since decoration is not page text.
+const NOTES = {
+	en: ['Notes', 'Back to reference'],
+	'zh-tw': ['註解', '回到內文'],
+	'zh-cn': ['注解', '回到正文'],
+	ja: ['注', '本文に戻る'],
+	ko: ['주석', '본문으로'],
+};
+const langOf = (url) => /\/src\/content\/docs\/(zh-tw|zh-cn|ja|ko)\//.exec(url?.pathname ?? '')?.[1] ?? 'zh-tw';
+
+export const hastFootnotes = defineHastPlugin({
+	name: 'footnotes-localised',
+	element: {
+		filter: ['section', 'h2', 'a'],
+		visit(node, ctx) {
+			const [label, back] = NOTES[langOf(ctx.fileURL)];
+			const p = node.properties ?? {};
+			if (node.tagName === 'section' && 'dataFootnotes' in p) {
+				ctx.setProperty(node, 'id', 'footnote-label');
+				ctx.setProperty(node, 'ariaLabel', label);
+			} else if (node.tagName === 'h2' && p.id === 'footnote-label') {
+				ctx.removeNode(node);
+			} else if (node.tagName === 'a' && 'dataFootnoteBackref' in p) {
+				ctx.setProperty(node, 'ariaLabel', `${back} ${String(p.href).replace(/^#user-content-fnref-/, '')}`);
+				ctx.setField(node, 'children', []);
+			}
+		},
+	},
+});

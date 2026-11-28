@@ -32,7 +32,7 @@ Read before the work: `RUN.md` before running the update; `pipeline/README.md` b
 
 Not decided by the owner; change them when the work calls for it.
 
-- The skin draws no text with CSS `content`. Overrides: `MarkdownContent`, `ThemeSelect`, `SiteTitle` (the header links the three sidebar groups, 依截止月份, 依類別 and 封存) and `Footer`.
+- The skin draws no text with CSS `content` but the brackets of a footnote mark and the glyph of its back link. Overrides: `MarkdownContent`, `ThemeSelect`, `SiteTitle` (the header links the three sidebar groups, 依截止月份, 依類別 and 封存) and `Footer`.
 
 ## Records
 

@@ -566,3 +566,17 @@ h1#_top {
 		to { background-size: 100% 1px; }
 	}
 }
+
+/* Footnotes (a fact from one secondary source): the brackets around the mark and the glyph of
+   the back link are drawn here, since the plugin in src/lib/hast-base.mjs leaves the link without text. */
+.sl-markdown-content section.footnotes {
+	margin-top: 2rem;
+	border-top: 1px solid var(--rule);
+	padding-top: 0.75rem;
+	font-size: var(--sl-text-sm);
+}
+.sl-markdown-content sup > a[data-footnote-ref] { text-decoration: none; padding-inline: 0.1em; }
+.sl-markdown-content sup > a[data-footnote-ref]::before { content: '['; }
+.sl-markdown-content sup > a[data-footnote-ref]::after { content: ']'; }
+.sl-markdown-content .data-footnote-backref { text-decoration: none; margin-inline-start: 0.4em; }
+.sl-markdown-content .data-footnote-backref::after { content: '↩'; }
